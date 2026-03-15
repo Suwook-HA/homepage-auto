@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "0ef60a11-c070-428a-a4d8-df3d42f2727f",
+      "trigger": "auto",
+      "requestedAt": "2026-03-15T01:26:46.246Z",
+      "completedAt": "2026-03-15T01:26:48.763Z",
+      "durationMs": 2517,
+      "success": true,
+      "message": "refresh completed",
+      "counts": {
+        "articles": 10,
+        "videos": 10,
+        "photos": 3,
+        "projects": 4
+      }
+    },
+    {
+      "id": "18f4f89e-081d-49dc-9279-77da7d303b92",
+      "trigger": "auto",
+      "requestedAt": "2026-03-15T01:08:06.156Z",
+      "completedAt": "2026-03-15T01:08:08.168Z",
+      "durationMs": 2012,
+      "success": true,
+      "message": "refresh completed",
+      "counts": {
+        "articles": 18,
+        "videos": 12,
+        "photos": 3
+      }
+    }
+  ]
+}

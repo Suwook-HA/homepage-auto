@@ -1,0 +1,34 @@
+name: Refresh Homepage Content
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call refresh API
+        env:
+          HOMEPAGE_URL: ${{ secrets.HOMEPAGE_URL }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          if [ -z "$HOMEPAGE_URL" ]; then
+            echo "HOMEPAGE_URL secret is required"
+            exit 1
+          fi
+
+          endpoint="$HOMEPAGE_URL/api/refresh?trigger=cron"
+          echo "POST $endpoint"
+
+          if [ -n "$CRON_SECRET" ]; then
+            curl --fail --show-error --silent \
+              -X POST \
+              -H "x-cron-secret: $CRON_SECRET" \
+              "$endpoint"
+          else
+            curl --fail --show-error --silent \
+              -X POST \
+              "$endpoint"
+          fi

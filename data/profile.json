@@ -1,0 +1,76 @@
+{
+  "name": "Ha Suwook",
+  "headline": "하수욱 | Principal Researcher at ETRI",
+  "bio": "Research focus: AI data quality, trustworthy AI, and international standardization across ISO/IEC and ITU-T collaboration tracks.",
+  "email": "sw.ha@etri.re.kr",
+  "location": "ETRI, Daejeon, Republic of Korea",
+  "website": "https://www.etri.re.kr",
+  "githubUsername": "Suwook-HA",
+  "articleKeywords": [
+    "IT standardization",
+    "AI standardization",
+    "ISO IEC AI standard",
+    "ITU-T standardization",
+    "data quality standard"
+  ],
+  "videoKeywords": [
+    "artificial intelligence standardization",
+    "ISO IEC AI standard",
+    "ITU-T AI standardization",
+    "trustworthy AI data quality",
+    "generative AI research"
+  ],
+  "interests": [
+    "AI Data Quality",
+    "Trustworthy AI",
+    "International Standardization",
+    "Digital Transformation",
+    "R&D Strategy"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Suwook-HA"
+    },
+    {
+      "label": "ETRI",
+      "url": "https://www.etri.re.kr"
+    },
+    {
+      "label": "ETRI Trends Article",
+      "url": "https://ettrends.etri.re.kr/ettrends/152/0905002026/"
+    },
+    {
+      "label": "Newsis Coverage",
+      "url": "https://www.newsis.com/view/NISX20240716_0002813532"
+    }
+  ],
+  "rssFeeds": [
+    {
+      "name": "Google News AI Standardization",
+      "url": "https://news.google.com/rss/search?q=AI+standardization&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "youtubeChannels": [
+    {
+      "name": "Google Developers",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    },
+    {
+      "name": "NVIDIA Developer",
+      "channelId": "UCL-g3eGJi1omSDSz48AML-g"
+    }
+  ],
+  "staticPhotoUrls": [],
+  "googlePhotos": {
+    "enabled": false,
+    "albumId": "",
+    "filterKeyword": "하수욱"
+  },
+  "autoInterestNews": {
+    "enabled": true,
+    "locale": "ko-KR",
+    "maxPerInterest": 5
+  },
+  "refreshIntervalMinutes": 180
+}

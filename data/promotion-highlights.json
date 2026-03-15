@@ -1,0 +1,59 @@
+{
+  "updatedAt": "2026-03-15",
+  "highlights": [
+    {
+      "id": "newsis-ai-standard-2024",
+      "title": "AI safety and reliability data-quality work recognized as international standard",
+      "summary": "News coverage reports ETRI's AI data-quality standardization outcome and references Ha Suwook's role in the effort.",
+      "impact": "Strengthens positioning as a standards-driven AI quality expert.",
+      "sourceName": "Newsis",
+      "sourceUrl": "https://www.newsis.com/view/NISX20240716_0002813532",
+      "date": "2024-07"
+    },
+    {
+      "id": "nate-ai-data-analysis-standard-2024",
+      "title": "International standard publication for AI data-analysis technology",
+      "summary": "Nate News reports the international standardization result around AI data-analysis technology and introduces participating experts.",
+      "impact": "Provides media-verifiable evidence of international standard activity.",
+      "sourceName": "Nate News",
+      "sourceUrl": "https://news.nate.com/view/20240716n25079",
+      "date": "2024-07"
+    },
+    {
+      "id": "fnnews-standardization-2020",
+      "title": "Korean delegation highlighted for AI data standardization leadership",
+      "summary": "Financial News article covers international standardization initiatives including AI data and related standardization leadership.",
+      "impact": "Shows long-term continuity in global standards participation.",
+      "sourceName": "Financial News",
+      "sourceUrl": "https://www.fnnews.com/news/202004211100576279",
+      "date": "2020-04"
+    },
+    {
+      "id": "etri-ksp-strategy-2025",
+      "title": "ETRI standard strategy report featuring AI and ICT standard system planning",
+      "summary": "ETRI Knowledge Sharing Platform report documents standardization strategy and planning context related to the AI/ICT domain.",
+      "impact": "Adds institutional strategy-level credibility to the profile.",
+      "sourceName": "ETRI KSP",
+      "sourceUrl": "https://ksp.etri.re.kr/ksp/plan-report/read?id=1550",
+      "date": "2025"
+    },
+    {
+      "id": "etri-trends-bigdata-standard",
+      "title": "Technical publication on domestic and global big-data standardization",
+      "summary": "ETRI Trends publication discusses global big-data standardization landscape and outlook, including key contributors.",
+      "impact": "Demonstrates publication and thought-leadership footprint.",
+      "sourceName": "ETRI Trends",
+      "sourceUrl": "https://ettrends.etri.re.kr/ettrends/152/0905002026/",
+      "date": "2017-08"
+    },
+    {
+      "id": "github-suwook-ha",
+      "title": "Open-source project activity on GitHub",
+      "summary": "Public GitHub profile provides discoverable project history, repository updates, and technology evidence.",
+      "impact": "Improves technical visibility and proof of implementation capability.",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/Suwook-HA",
+      "date": "Ongoing"
+    }
+  ]
+}
