@@ -1,12 +1,11 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-import path from "node:path";
 
+import { bundledDataPath, runtimeDataDir, runtimeDataPath } from "@/lib/data-paths";
 import type { ContentData, ProfileData, RefreshLogData, RefreshLogItem } from "@/lib/types";
 
-const dataDir = path.join(process.cwd(), "data");
-const profilePath = path.join(dataDir, "profile.json");
-const contentPath = path.join(dataDir, "content.json");
-const refreshLogPath = path.join(dataDir, "refresh-log.json");
+const profilePath = runtimeDataPath("profile.json");
+const contentPath = runtimeDataPath("content.json");
+const refreshLogPath = runtimeDataPath("refresh-log.json");
 
 const emptyContent: ContentData = {
   updatedAt: null,
@@ -18,6 +17,48 @@ const emptyContent: ContentData = {
 
 const emptyRefreshLog: RefreshLogData = {
   items: [],
+};
+
+const defaultProfile: ProfileData = {
+  name: "Ha Suwook",
+  headline: "Senior Researcher at ETRI",
+  bio: "IT standards and AI expert.",
+  email: "suwook.ha@example.com",
+  location: "Daejeon, South Korea",
+  website: "https://github.com/Suwook-HA",
+  githubUsername: "Suwook-HA",
+  articleKeywords: [
+    "IT standardization",
+    "AI standardization",
+    "ISO IEC AI",
+    "ITU-T AI",
+  ],
+  videoKeywords: [
+    "artificial intelligence",
+    "AI standardization",
+    "latest technology",
+  ],
+  interests: ["AI", "IT standardization", "emerging technology"],
+  links: [
+    {
+      label: "GitHub",
+      url: "https://github.com/Suwook-HA",
+    },
+  ],
+  rssFeeds: [],
+  youtubeChannels: [],
+  staticPhotoUrls: [],
+  googlePhotos: {
+    enabled: true,
+    albumId: "",
+    filterKeyword: "하수욱",
+  },
+  autoInterestNews: {
+    enabled: true,
+    locale: "ko-KR",
+    maxPerInterest: 3,
+  },
+  refreshIntervalMinutes: 180,
 };
 
 function normalizeProfile(profile: ProfileData): ProfileData {
@@ -48,13 +89,40 @@ function normalizeProfile(profile: ProfileData): ProfileData {
 }
 
 async function ensureDataDir() {
-  await mkdir(dataDir, { recursive: true });
+  await mkdir(runtimeDataDir, { recursive: true });
+}
+
+async function readJsonFromRuntimeOrBundled<T>(
+  fileName: string,
+  fallback: T,
+): Promise<T> {
+  const runtimePath = runtimeDataPath(fileName);
+  try {
+    const raw = await readFile(runtimePath, "utf8");
+    return JSON.parse(raw) as T;
+  } catch {
+    // Try bundled defaults in repository data directory.
+  }
+
+  try {
+    const bundledPath = bundledDataPath(fileName);
+    const raw = await readFile(bundledPath, "utf8");
+    if (bundledPath !== runtimePath) {
+      await writeFile(runtimePath, raw, "utf8");
+    }
+    return JSON.parse(raw) as T;
+  } catch {
+    return fallback;
+  }
 }
 
 export async function readProfile(): Promise<ProfileData> {
   await ensureDataDir();
-  const raw = await readFile(profilePath, "utf8");
-  return normalizeProfile(JSON.parse(raw) as ProfileData);
+  const parsed = await readJsonFromRuntimeOrBundled<ProfileData>(
+    "profile.json",
+    defaultProfile,
+  );
+  return normalizeProfile(parsed);
 }
 
 export async function writeProfile(profile: ProfileData): Promise<void> {
@@ -64,19 +132,17 @@ export async function writeProfile(profile: ProfileData): Promise<void> {
 
 export async function readContent(): Promise<ContentData> {
   await ensureDataDir();
-  try {
-    const raw = await readFile(contentPath, "utf8");
-    const parsed = JSON.parse(raw) as ContentData;
-    return {
-      updatedAt: parsed.updatedAt ?? null,
-      articles: Array.isArray(parsed.articles) ? parsed.articles : [],
-      videos: Array.isArray(parsed.videos) ? parsed.videos : [],
-      photos: Array.isArray(parsed.photos) ? parsed.photos : [],
-      projects: Array.isArray(parsed.projects) ? parsed.projects : [],
-    };
-  } catch {
-    return emptyContent;
-  }
+  const parsed = await readJsonFromRuntimeOrBundled<ContentData>(
+    "content.json",
+    emptyContent,
+  );
+  return {
+    updatedAt: parsed.updatedAt ?? null,
+    articles: Array.isArray(parsed.articles) ? parsed.articles : [],
+    videos: Array.isArray(parsed.videos) ? parsed.videos : [],
+    photos: Array.isArray(parsed.photos) ? parsed.photos : [],
+    projects: Array.isArray(parsed.projects) ? parsed.projects : [],
+  };
 }
 
 export async function writeContent(content: ContentData): Promise<void> {
@@ -86,15 +152,13 @@ export async function writeContent(content: ContentData): Promise<void> {
 
 export async function readRefreshLog(): Promise<RefreshLogData> {
   await ensureDataDir();
-  try {
-    const raw = await readFile(refreshLogPath, "utf8");
-    const parsed = JSON.parse(raw) as RefreshLogData;
-    return {
-      items: Array.isArray(parsed.items) ? parsed.items : [],
-    };
-  } catch {
-    return emptyRefreshLog;
-  }
+  const parsed = await readJsonFromRuntimeOrBundled<RefreshLogData>(
+    "refresh-log.json",
+    emptyRefreshLog,
+  );
+  return {
+    items: Array.isArray(parsed.items) ? parsed.items : [],
+  };
 }
 
 export async function appendRefreshLog(item: RefreshLogItem): Promise<void> {

@@ -1,6 +1,7 @@
 import crypto from "node:crypto";
 import { mkdir, readFile, unlink, writeFile } from "node:fs/promises";
-import path from "node:path";
+
+import { runtimeDataDir, runtimeDataPath } from "@/lib/data-paths";
 
 type OAuthTokenResponse = {
   access_token?: string;
@@ -64,12 +65,11 @@ type PickedMediaStore = {
   items: StoredPickedMediaItem[];
 };
 
-const dataDir = path.join(process.cwd(), "data");
-const oauthPath = path.join(dataDir, "google-photos-oauth.json");
-const pickedPath = path.join(dataDir, "google-photos-picked.json");
+const oauthPath = runtimeDataPath("google-photos-oauth.json");
+const pickedPath = runtimeDataPath("google-photos-picked.json");
 
 async function ensureDataDir() {
-  await mkdir(dataDir, { recursive: true });
+  await mkdir(runtimeDataDir, { recursive: true });
 }
 
 function getOAuthConfig() {

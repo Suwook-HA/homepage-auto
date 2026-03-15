@@ -24,6 +24,32 @@ npm run dev
 
 Open: `http://localhost:3000`
 
+## Publish with GitHub
+
+This app uses Next.js API routes, OAuth callbacks, and writable JSON data files.
+Because of that, GitHub Pages is not suitable for full-feature deployment.
+
+Recommended production path:
+
+1. Keep source in GitHub.
+2. Connect the GitHub repo to a Node.js host (Render, Railway, Fly.io, VM, etc.).
+3. Set build and start commands:
+   - Build: `npm ci && npm run build`
+   - Start: `npm run start`
+4. Mount a persistent volume and set `DATA_DIR` to that mount path.
+5. Add environment variables from `.env.example`.
+6. If using Google Photos Picker, register OAuth redirect URI:
+   - `https://<your-domain>/api/google-photos/oauth/callback`
+
+Render quick example (GitHub auto-deploy):
+
+- New Web Service -> Connect repo `Suwook-HA/homepage-auto`
+- Runtime: Node
+- Build command: `npm ci && npm run build`
+- Start command: `npm run start`
+- Persistent disk mount path: `/var/data`
+- Environment variable: `DATA_DIR=/var/data`
+
 ## Admin Access
 
 Set these values in `.env.local` to enable admin login protection:
@@ -117,12 +143,14 @@ GITHUB_TOKEN=
 
 ## Data Files
 
-- `data/profile.json`
-- `data/content.json`
-- `data/refresh-log.json` (stores last 100 runs)
-- `data/promotion-highlights.json`
-- `data/google-photos-oauth.json` (created after OAuth)
-- `data/google-photos-picked.json` (created after Picker import)
+- Runtime data directory: `DATA_DIR` (default: `./data`)
+- Main files:
+  - `profile.json`
+  - `content.json`
+  - `refresh-log.json` (stores last 100 runs)
+  - `promotion-highlights.json`
+  - `google-photos-oauth.json` (created after OAuth)
+  - `google-photos-picked.json` (created after Picker import)
 
 ## Manual Refresh Script
 

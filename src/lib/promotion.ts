@@ -1,9 +1,10 @@
 import { readFile } from "node:fs/promises";
-import path from "node:path";
 
+import { bundledDataPath, runtimeDataPath } from "@/lib/data-paths";
 import type { PromotionData, PromotionHighlight } from "@/lib/types";
 
-const promotionPath = path.join(process.cwd(), "data", "promotion-highlights.json");
+const runtimePromotionPath = runtimeDataPath("promotion-highlights.json");
+const bundledPromotionPath = bundledDataPath("promotion-highlights.json");
 
 function normalizeHighlight(raw: PromotionHighlight): PromotionHighlight {
   return {
@@ -17,22 +18,37 @@ function normalizeHighlight(raw: PromotionHighlight): PromotionHighlight {
   };
 }
 
-export async function readPromotionData(): Promise<PromotionData> {
+async function readPromotionJson(): Promise<PromotionData | null> {
   try {
-    const raw = await readFile(promotionPath, "utf8");
-    const parsed = JSON.parse(raw) as PromotionData;
-    const highlights = Array.isArray(parsed.highlights)
-      ? parsed.highlights.map((item) => normalizeHighlight(item))
-      : [];
-
-    return {
-      updatedAt: parsed.updatedAt ?? new Date().toISOString().slice(0, 10),
-      highlights,
-    };
+    const raw = await readFile(runtimePromotionPath, "utf8");
+    return JSON.parse(raw) as PromotionData;
   } catch {
+    // Fallback to bundled data if runtime data file is missing.
+  }
+
+  try {
+    const raw = await readFile(bundledPromotionPath, "utf8");
+    return JSON.parse(raw) as PromotionData;
+  } catch {
+    return null;
+  }
+}
+
+export async function readPromotionData(): Promise<PromotionData> {
+  const parsed = await readPromotionJson();
+  if (!parsed) {
     return {
       updatedAt: new Date().toISOString().slice(0, 10),
       highlights: [],
     };
   }
+
+  const highlights = Array.isArray(parsed.highlights)
+    ? parsed.highlights.map((item) => normalizeHighlight(item))
+    : [];
+
+  return {
+    updatedAt: parsed.updatedAt ?? new Date().toISOString().slice(0, 10),
+    highlights,
+  };
 }
