@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ha Suwook | IT Expert Profile</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero card">
+        <p class="eyebrow">IT EXPERT PROFILE</p>
+        <h1 id="name">Ha Suwook</h1>
+        <p id="headline" class="headline"></p>
+        <p id="bio"></p>
+        <div class="meta">
+          <span id="location"></span>
+          <a id="website" target="_blank" rel="noopener noreferrer">Website</a>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="section-header">
+          <h2>Professional Highlights</h2>
+          <span class="tag">Verified Links</span>
+        </div>
+        <p id="highlight-updated" class="hint"></p>
+        <div id="highlights" class="grid"></div>
+      </section>
+
+      <section class="card">
+        <h2>GitHub Projects</h2>
+        <div id="projects" class="grid"></div>
+      </section>
+
+      <section class="card">
+        <h2>IT Standardization Articles (Top 10)</h2>
+        <div id="articles" class="grid"></div>
+      </section>
+
+      <section class="card">
+        <h2>AI / Standardization / Latest Tech Videos (Top 10)</h2>
+        <div id="videos" class="grid"></div>
+      </section>
+
+      <section class="card">
+        <h2>Photos</h2>
+        <div id="photos" class="photo-grid"></div>
+      </section>
+
+      <section class="card">
+        <h2>Refresh Status</h2>
+        <p id="updatedAt" class="hint"></p>
+        <div id="counts" class="hint"></div>
+      </section>
+    </main>
+
+    <script>
+      function text(v) {
+        return typeof v === "string" ? v : "";
+      }
+
+      function formatDate(iso) {
+        if (!iso) return "N/A";
+        const d = new Date(iso);
+        if (Number.isNaN(d.getTime())) return "N/A";
+        return d.toLocaleString("ko-KR", { dateStyle: "medium", timeStyle: "short" });
+      }
+
+      function number(v) {
+        return new Intl.NumberFormat("en-US").format(Number(v) || 0);
+      }
+
+      function card(meta, title, body, link, linkLabel) {
+        const article = document.createElement("article");
+        article.className = "item";
+        if (meta) {
+          const p = document.createElement("p");
+          p.className = "item-meta";
+          p.textContent = meta;
+          article.appendChild(p);
+        }
+        if (title) {
+          const h3 = document.createElement("h3");
+          h3.textContent = title;
+          article.appendChild(h3);
+        }
+        if (body) {
+          const p = document.createElement("p");
+          p.textContent = body;
+          article.appendChild(p);
+        }
+        if (link) {
+          const a = document.createElement("a");
+          a.href = link;
+          a.target = "_blank";
+          a.rel = "noopener noreferrer";
+          a.textContent = linkLabel || "Open";
+          article.appendChild(a);
+        }
+        return article;
+      }
+
+      async function load() {
+        const [profileRes, contentRes, promotionRes] = await Promise.all([
+          fetch("./data/profile.json"),
+          fetch("./data/content.json"),
+          fetch("./data/promotion-highlights.json"),
+        ]);
+
+        const profile = await profileRes.json();
+        const content = await contentRes.json();
+        const promotion = await promotionRes.json();
+
+        document.getElementById("name").textContent = text(profile.name) || "Ha Suwook";
+        document.getElementById("headline").textContent = text(profile.headline);
+        document.getElementById("bio").textContent = text(profile.bio);
+        document.getElementById("location").textContent = text(profile.location);
+        const website = document.getElementById("website");
+        website.href = text(profile.website) || "https://github.com/Suwook-HA";
+        website.textContent = "Website";
+
+        document.getElementById("highlight-updated").textContent =
+          "Updated from curated public sources: " + (text(promotion.updatedAt) || "N/A");
+
+        const highlights = document.getElementById("highlights");
+        (promotion.highlights || []).forEach((item) => {
+          highlights.appendChild(
+            card(
+              [text(item.date), text(item.sourceName)].filter(Boolean).join(" | "),
+              text(item.title),
+              text(item.summary),
+              text(item.sourceUrl),
+              "Open Source",
+            ),
+          );
+        });
+
+        const projects = document.getElementById("projects");
+        (content.projects || []).forEach((item) => {
+          projects.appendChild(
+            card(
+              [text(item.language), "stars " + number(item.stars), "forks " + number(item.forks)]
+                .filter(Boolean)
+                .join(" | "),
+              text(item.name),
+              text(item.description),
+              text(item.url),
+              "Open Repo",
+            ),
+          );
+        });
+
+        const articles = document.getElementById("articles");
+        (content.articles || []).forEach((item) => {
+          articles.appendChild(
+            card(
+              ["#" + (item.rank || ""), text(item.source), formatDate(item.publishedAt)]
+                .filter(Boolean)
+                .join(" | "),
+              text(item.title),
+              text(item.summary),
+              text(item.url),
+              "Read Article",
+            ),
+          );
+        });
+
+        const videos = document.getElementById("videos");
+        (content.videos || []).forEach((item, index) => {
+          videos.appendChild(
+            card(
+              [
+                "#" + (index + 1),
+                text(item.channel),
+                "views " + number(item.viewCount),
+                formatDate(item.publishedAt),
+              ]
+                .filter(Boolean)
+                .join(" | "),
+              text(item.title),
+              "",
+              text(item.url),
+              "Watch",
+            ),
+          );
+        });
+
+        const photos = document.getElementById("photos");
+        (content.photos || []).forEach((item) => {
+          const figure = document.createElement("figure");
+          figure.className = "photo-item";
+          const img = document.createElement("img");
+          img.src = text(item.url);
+          img.alt = text(item.description) || "photo";
+          img.loading = "lazy";
+          const cap = document.createElement("figcaption");
+          cap.textContent = text(item.description);
+          figure.appendChild(img);
+          figure.appendChild(cap);
+          photos.appendChild(figure);
+        });
+
+        document.getElementById("updatedAt").textContent =
+          "Last refresh: " + formatDate(content.updatedAt);
+        document.getElementById("counts").textContent =
+          "Cached now: articles " +
+          (content.articles || []).length +
+          ", videos " +
+          (content.videos || []).length +
+          ", photos " +
+          (content.photos || []).length +
+          ", projects " +
+          (content.projects || []).length;
+      }
+
+      load().catch((error) => {
+        const el = document.getElementById("updatedAt");
+        el.textContent = "Failed to load page data: " + (error && error.message ? error.message : "Unknown error");
+      });
+    </script>
+  </body>
+</html>

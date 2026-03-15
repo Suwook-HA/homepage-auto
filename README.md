@@ -50,6 +50,20 @@ Render quick example (GitHub auto-deploy):
 - Persistent disk mount path: `/var/data`
 - Environment variable: `DATA_DIR=/var/data`
 
+## GitHub Pages (Read-only Public View)
+
+This repository also includes a GitHub Pages deployment workflow:
+
+- Workflow: `.github/workflows/deploy-pages.yml`
+- Build command: `npm run build:pages`
+- Output: `pages-dist/`
+
+Important limits on GitHub Pages:
+
+- Admin/API endpoints do not run (`/admin`, `/api/*`)
+- Google Photos OAuth callback does not run
+- This mode is for public profile view only (read-only snapshot from `data/*.json`)
+
 ## Admin Access
 
 Set these values in `.env.local` to enable admin login protection:
