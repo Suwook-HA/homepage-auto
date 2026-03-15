@@ -22,6 +22,16 @@ function formatNumber(value: number): string {
   return new Intl.NumberFormat("en-US").format(value);
 }
 
+function toPercent(value: number, max: number): number {
+  if (max <= 0) return 0;
+  return Math.max(0, Math.min(100, Math.round((value / max) * 100)));
+}
+
+function toSqrtPercent(value: number, max: number): number {
+  if (max <= 0 || value <= 0) return 0;
+  return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
+}
+
 export default async function HomePage() {
   const [authEnabled, adminAuthenticated, homepageData, status, promotionData] =
     await Promise.all([
@@ -35,6 +45,15 @@ export default async function HomePage() {
   const [profile, content] = homepageData;
   const organization = profile.location.split(",")[0]?.trim() ?? "ETRI";
   const hasVideoViews = content.videos.some((video) => video.viewCount > 0);
+  const areaMax = Math.max(...profile.researchAreas.map((area) => area.score), 1);
+  const signalData = [
+    { label: "Citations", value: profile.researchMetrics.citations },
+    { label: "Publications", value: profile.researchMetrics.publications },
+    { label: "Top Projects", value: content.projects.length },
+    { label: "Ranked Articles", value: content.articles.length },
+    { label: "Top Videos", value: content.videos.length },
+  ];
+  const signalMax = Math.max(...signalData.map((item) => item.value), 1);
 
   return (
     <main className="page">
@@ -42,7 +61,9 @@ export default async function HomePage() {
         <div>
           <p className="eyebrow">IT EXPERT PROFILE</p>
           <h1>{profile.name}</h1>
-          <p className="name-local">Ha Suwook | 하수욱 | {organization}</p>
+          <p className="name-local">
+            {profile.name} | {profile.localName} | {organization}
+          </p>
           <p className="headline">{profile.headline}</p>
           <p>{profile.bio}</p>
           <div className="meta">
@@ -62,6 +83,112 @@ export default async function HomePage() {
             </Link>
           </div>
           <p className="updated">Last refresh: {formatDate(content.updatedAt)}</p>
+        </div>
+      </section>
+
+      <section className="card research-dashboard">
+        <div className="section-header">
+          <h2>Research Intelligence Dashboard</h2>
+          <div className="actions">
+            {profile.googleScholarUrl ? (
+              <Link className="button secondary" href={profile.googleScholarUrl} target="_blank">
+                Google Scholar
+              </Link>
+            ) : null}
+            <Link className="button secondary" href={profile.website} target="_blank">
+              Professional Profile
+            </Link>
+          </div>
+        </div>
+        <p className="hint">{profile.researchSummary}</p>
+
+        <div className="metrics-grid">
+          <article className="metric-card">
+            <p className="metric-label">Citations</p>
+            <p className="metric-value">{formatNumber(profile.researchMetrics.citations)}</p>
+          </article>
+          <article className="metric-card">
+            <p className="metric-label">h-index</p>
+            <p className="metric-value">{formatNumber(profile.researchMetrics.hIndex)}</p>
+          </article>
+          <article className="metric-card">
+            <p className="metric-label">i10-index</p>
+            <p className="metric-value">{formatNumber(profile.researchMetrics.i10Index)}</p>
+          </article>
+          <article className="metric-card">
+            <p className="metric-label">Publications</p>
+            <p className="metric-value">{formatNumber(profile.researchMetrics.publications)}</p>
+          </article>
+          <article className="metric-card">
+            <p className="metric-label">Standardization Tracks</p>
+            <p className="metric-value">{formatNumber(profile.standardizationActivities.length)}</p>
+          </article>
+        </div>
+
+        <div className="research-viz-grid">
+          <article className="viz-card">
+            <h3>Research Domain Strength</h3>
+            <div className="domain-chart">
+              {profile.researchAreas.map((area) => (
+                <div key={area.name} className="domain-row">
+                  <div className="domain-head">
+                    <span>{area.name}</span>
+                    <span>{area.score}</span>
+                  </div>
+                  <div className="domain-track">
+                    <span
+                      className="domain-fill"
+                      style={{ width: `${toPercent(area.score, areaMax)}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </article>
+
+          <article className="viz-card">
+            <h3>Research Signals</h3>
+            <div className="signal-chart">
+              {signalData.map((item) => (
+                <div key={item.label} className="signal-column">
+                  <span
+                    className="signal-bar"
+                    style={{ height: `${Math.max(10, toSqrtPercent(item.value, signalMax))}%` }}
+                  />
+                  <span className="signal-value">{formatNumber(item.value)}</span>
+                  <span className="signal-label">{item.label}</span>
+                </div>
+              ))}
+            </div>
+          </article>
+        </div>
+
+        <div className="research-viz-grid">
+          <article className="viz-card">
+            <h3>Related Technologies</h3>
+            <div className="tech-cloud">
+              {profile.relatedTechnologies.map((tech, index) => {
+                const emphasis = 1 + (index % 4) * 0.12;
+                return (
+                  <span key={tech} className="tech-pill" style={{ fontSize: `${emphasis}rem` }}>
+                    {tech}
+                  </span>
+                );
+              })}
+            </div>
+          </article>
+
+          <article className="viz-card">
+            <h3>Standardization Activities</h3>
+            <div className="standards-list">
+              {profile.standardizationActivities.map((activity, index) => (
+                <div key={activity} className="standard-item">
+                  <span className="standard-index">{String(index + 1).padStart(2, "0")}</span>
+                  <span>{activity}</span>
+                </div>
+              ))}
+            </div>
+          </article>
         </div>
       </section>
 
@@ -97,8 +224,7 @@ export default async function HomePage() {
         {status.recentRuns[0] ? (
           <p className="hint">
             Latest run: {status.recentRuns[0].success ? "success" : "failed"} |{" "}
-            {status.recentRuns[0].trigger} |{" "}
-            {formatDate(status.recentRuns[0].completedAt)}
+            {status.recentRuns[0].trigger} | {formatDate(status.recentRuns[0].completedAt)}
           </p>
         ) : (
           <p className="hint">No refresh logs yet.</p>

@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 
-import type { ProfileData } from "@/lib/types";
+import type { ProfileData, ResearchArea } from "@/lib/types";
 
 type Props = {
   initialProfile: ProfileData;
@@ -10,15 +10,25 @@ type Props = {
 
 type FormState = {
   name: string;
+  localName: string;
   headline: string;
   bio: string;
+  researchSummary: string;
   email: string;
   location: string;
   website: string;
+  googleScholarUrl: string;
   githubUsername: string;
   articleKeywords: string;
   videoKeywords: string;
   interests: string;
+  relatedTechnologies: string;
+  standardizationActivities: string;
+  researchMetricsCitations: string;
+  researchMetricsHIndex: string;
+  researchMetricsI10Index: string;
+  researchMetricsPublications: string;
+  researchAreas: string;
   links: string;
   rssFeeds: string;
   youtubeChannels: string;
@@ -67,18 +77,44 @@ function parsePairs(input: string): Array<{ name: string; value: string }> {
     .filter((item) => item.name && item.value);
 }
 
+function parseResearchAreas(input: string): ResearchArea[] {
+  return parseLines(input)
+    .map((line) => line.split("|"))
+    .map(([name, score]) => ({
+      name: (name ?? "").trim(),
+      score: Number((score ?? "").trim()),
+    }))
+    .filter((item) => item.name && Number.isFinite(item.score))
+    .map((item) => ({
+      name: item.name,
+      score: Math.max(0, Math.min(100, Math.round(item.score))),
+    }));
+}
+
 function fromProfile(profile: ProfileData): FormState {
   return {
     name: profile.name,
+    localName: profile.localName,
     headline: profile.headline,
     bio: profile.bio,
+    researchSummary: profile.researchSummary,
     email: profile.email,
     location: profile.location,
     website: profile.website,
+    googleScholarUrl: profile.googleScholarUrl,
     githubUsername: profile.githubUsername,
     articleKeywords: profile.articleKeywords.join(", "),
     videoKeywords: profile.videoKeywords.join(", "),
     interests: profile.interests.join(", "),
+    relatedTechnologies: profile.relatedTechnologies.join(", "),
+    standardizationActivities: profile.standardizationActivities.join(", "),
+    researchMetricsCitations: String(profile.researchMetrics.citations),
+    researchMetricsHIndex: String(profile.researchMetrics.hIndex),
+    researchMetricsI10Index: String(profile.researchMetrics.i10Index),
+    researchMetricsPublications: String(profile.researchMetrics.publications),
+    researchAreas: profile.researchAreas
+      .map((area) => `${area.name}|${area.score}`)
+      .join("\n"),
     links: profile.links.map((link) => `${link.label}|${link.url}`).join("\n"),
     rssFeeds: toPairLines(profile.rssFeeds, "url"),
     youtubeChannels: toPairLines(profile.youtubeChannels, "channelId"),
@@ -104,8 +140,17 @@ export function AdminForm({ initialProfile }: Props) {
       feeds: parsePairs(form.rssFeeds).length,
       channels: parsePairs(form.youtubeChannels).length,
       photos: parseLines(form.staticPhotoUrls).length,
+      areas: parseResearchAreas(form.researchAreas).length,
+      relatedTech: parseCSV(form.relatedTechnologies).length,
     };
-  }, [form]);
+  }, [
+    form.interests,
+    form.relatedTechnologies,
+    form.researchAreas,
+    form.rssFeeds,
+    form.youtubeChannels,
+    form.staticPhotoUrls,
+  ]);
 
   function setField<K extends keyof FormState>(key: K, value: FormState[K]) {
     setForm((prev) => ({ ...prev, [key]: value }));
@@ -123,15 +168,27 @@ export function AdminForm({ initialProfile }: Props) {
 
     const profile: ProfileData = {
       name: form.name.trim(),
+      localName: form.localName.trim(),
       headline: form.headline.trim(),
       bio: form.bio.trim(),
+      researchSummary: form.researchSummary.trim(),
       email: form.email.trim(),
       location: form.location.trim(),
       website: form.website.trim(),
+      googleScholarUrl: form.googleScholarUrl.trim(),
       githubUsername: form.githubUsername.trim(),
       articleKeywords: parseCSV(form.articleKeywords),
       videoKeywords: parseCSV(form.videoKeywords),
       interests: parseCSV(form.interests),
+      relatedTechnologies: parseCSV(form.relatedTechnologies),
+      standardizationActivities: parseCSV(form.standardizationActivities),
+      researchMetrics: {
+        citations: Math.max(0, Number(form.researchMetricsCitations)),
+        hIndex: Math.max(0, Number(form.researchMetricsHIndex)),
+        i10Index: Math.max(0, Number(form.researchMetricsI10Index)),
+        publications: Math.max(0, Number(form.researchMetricsPublications)),
+      },
+      researchAreas: parseResearchAreas(form.researchAreas),
       links,
       rssFeeds: parsePairs(form.rssFeeds).map((item) => ({
         name: item.name,
@@ -193,8 +250,16 @@ export function AdminForm({ initialProfile }: Props) {
   return (
     <form className="admin-form" onSubmit={handleSubmit}>
       <label>
-        Name
+        Name (English)
         <input value={form.name} onChange={(e) => setField("name", e.target.value)} />
+      </label>
+
+      <label>
+        Name (Korean)
+        <input
+          value={form.localName}
+          onChange={(e) => setField("localName", e.target.value)}
+        />
       </label>
 
       <label>
@@ -208,6 +273,14 @@ export function AdminForm({ initialProfile }: Props) {
       <label>
         Bio
         <textarea value={form.bio} onChange={(e) => setField("bio", e.target.value)} />
+      </label>
+
+      <label>
+        Research Summary (for dashboard)
+        <textarea
+          value={form.researchSummary}
+          onChange={(e) => setField("researchSummary", e.target.value)}
+        />
       </label>
 
       <div className="form-grid">
@@ -227,13 +300,22 @@ export function AdminForm({ initialProfile }: Props) {
         </label>
       </div>
 
-      <label>
-        Website URL
-        <input
-          value={form.website}
-          onChange={(e) => setField("website", e.target.value)}
-        />
-      </label>
+      <div className="form-grid">
+        <label>
+          Website URL
+          <input
+            value={form.website}
+            onChange={(e) => setField("website", e.target.value)}
+          />
+        </label>
+        <label>
+          Google Scholar URL
+          <input
+            value={form.googleScholarUrl}
+            onChange={(e) => setField("googleScholarUrl", e.target.value)}
+          />
+        </label>
+      </div>
 
       <label>
         GitHub Username
@@ -264,6 +346,69 @@ export function AdminForm({ initialProfile }: Props) {
         <input
           value={form.interests}
           onChange={(e) => setField("interests", e.target.value)}
+        />
+      </label>
+
+      <label>
+        Related Technologies (comma-separated)
+        <input
+          value={form.relatedTechnologies}
+          onChange={(e) => setField("relatedTechnologies", e.target.value)}
+        />
+      </label>
+
+      <label>
+        Standardization Activities (comma-separated)
+        <input
+          value={form.standardizationActivities}
+          onChange={(e) => setField("standardizationActivities", e.target.value)}
+        />
+      </label>
+
+      <div className="form-grid">
+        <label>
+          Citations
+          <input
+            type="number"
+            min={0}
+            value={form.researchMetricsCitations}
+            onChange={(e) => setField("researchMetricsCitations", e.target.value)}
+          />
+        </label>
+        <label>
+          h-index
+          <input
+            type="number"
+            min={0}
+            value={form.researchMetricsHIndex}
+            onChange={(e) => setField("researchMetricsHIndex", e.target.value)}
+          />
+        </label>
+        <label>
+          i10-index
+          <input
+            type="number"
+            min={0}
+            value={form.researchMetricsI10Index}
+            onChange={(e) => setField("researchMetricsI10Index", e.target.value)}
+          />
+        </label>
+        <label>
+          Publications
+          <input
+            type="number"
+            min={0}
+            value={form.researchMetricsPublications}
+            onChange={(e) => setField("researchMetricsPublications", e.target.value)}
+          />
+        </label>
+      </div>
+
+      <label>
+        Research Areas (one per line: Area|Score 0-100)
+        <textarea
+          value={form.researchAreas}
+          onChange={(e) => setField("researchAreas", e.target.value)}
         />
       </label>
 
@@ -363,7 +508,8 @@ export function AdminForm({ initialProfile }: Props) {
       </label>
 
       <p className="hint">
-        Current parsed config: interests {parsedPreview.interests}, feeds{" "}
+        Current parsed config: interests {parsedPreview.interests}, related tech{" "}
+        {parsedPreview.relatedTech}, areas {parsedPreview.areas}, feeds{" "}
         {parsedPreview.feeds}, channels {parsedPreview.channels}, photos{" "}
         {parsedPreview.photos}
       </p>

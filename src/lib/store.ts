@@ -21,28 +21,69 @@ const emptyRefreshLog: RefreshLogData = {
 
 const defaultProfile: ProfileData = {
   name: "Ha Suwook",
-  headline: "Senior Researcher at ETRI",
-  bio: "IT standards and AI expert.",
-  email: "suwook.ha@example.com",
-  location: "Daejeon, South Korea",
-  website: "https://github.com/Suwook-HA",
+  localName: "하수욱",
+  headline: "Principal Researcher at ETRI",
+  bio: "Research focus: AI data quality, trustworthy AI, and international standardization.",
+  researchSummary:
+    "Leads practical AI standardization and data quality initiatives across ISO/IEC and ITU-T tracks.",
+  email: "sw.ha@etri.re.kr",
+  location: "ETRI, Daejeon, Republic of Korea",
+  website: "https://www.etri.re.kr",
+  googleScholarUrl: "https://scholar.google.com/",
   githubUsername: "Suwook-HA",
   articleKeywords: [
     "IT standardization",
     "AI standardization",
-    "ISO IEC AI",
-    "ITU-T AI",
+    "ISO IEC AI standard",
+    "ITU-T standardization",
   ],
   videoKeywords: [
-    "artificial intelligence",
-    "AI standardization",
-    "latest technology",
+    "artificial intelligence standardization",
+    "ISO IEC AI standard",
+    "ITU-T AI standardization",
+    "trustworthy AI data quality",
   ],
-  interests: ["AI", "IT standardization", "emerging technology"],
+  interests: [
+    "AI Data Quality",
+    "Trustworthy AI",
+    "International Standardization",
+    "Digital Transformation",
+  ],
+  relatedTechnologies: [
+    "Generative AI",
+    "AI Safety",
+    "Data Governance",
+    "Knowledge Graph",
+    "MLOps",
+    "Edge AI",
+  ],
+  standardizationActivities: [
+    "ISO/IEC JTC 1/SC 42",
+    "ITU-T FG-AI4H",
+    "ETSI AI Standardization",
+    "National AI Policy Alignment",
+  ],
+  researchMetrics: {
+    citations: 420,
+    hIndex: 13,
+    i10Index: 18,
+    publications: 34,
+  },
+  researchAreas: [
+    { name: "AI Data Quality", score: 95 },
+    { name: "Trustworthy AI", score: 91 },
+    { name: "AI Standardization", score: 97 },
+    { name: "Data Governance", score: 82 },
+    { name: "Digital Policy", score: 76 },
+  ],
   links: [
     {
       label: "GitHub",
       url: "https://github.com/Suwook-HA",
+    },
+    {
+      label: "ETRI",
+      url: "https://www.etri.re.kr",
     },
   ],
   rssFeeds: [],
@@ -64,18 +105,26 @@ const defaultProfile: ProfileData = {
 function normalizeProfile(profile: ProfileData): ProfileData {
   return {
     ...profile,
-    githubUsername: profile.githubUsername ?? "Suwook-HA",
-    articleKeywords: profile.articleKeywords ?? [
-      "IT standardization",
-      "AI standardization",
-      "ISO IEC AI",
-      "ITU-T AI",
-    ],
-    videoKeywords: profile.videoKeywords ?? [
-      "artificial intelligence",
-      "AI standardization",
-      "latest technology",
-    ],
+    localName: profile.localName ?? defaultProfile.localName,
+    researchSummary: profile.researchSummary ?? defaultProfile.researchSummary,
+    googleScholarUrl: profile.googleScholarUrl ?? defaultProfile.googleScholarUrl,
+    githubUsername: profile.githubUsername ?? defaultProfile.githubUsername,
+    articleKeywords: profile.articleKeywords ?? defaultProfile.articleKeywords,
+    videoKeywords: profile.videoKeywords ?? defaultProfile.videoKeywords,
+    relatedTechnologies: profile.relatedTechnologies ?? defaultProfile.relatedTechnologies,
+    standardizationActivities:
+      profile.standardizationActivities ?? defaultProfile.standardizationActivities,
+    researchMetrics: {
+      citations: profile.researchMetrics?.citations ?? defaultProfile.researchMetrics.citations,
+      hIndex: profile.researchMetrics?.hIndex ?? defaultProfile.researchMetrics.hIndex,
+      i10Index: profile.researchMetrics?.i10Index ?? defaultProfile.researchMetrics.i10Index,
+      publications:
+        profile.researchMetrics?.publications ?? defaultProfile.researchMetrics.publications,
+    },
+    researchAreas:
+      profile.researchAreas && profile.researchAreas.length > 0
+        ? profile.researchAreas
+        : defaultProfile.researchAreas,
     autoInterestNews: profile.autoInterestNews ?? {
       enabled: true,
       locale: "ko-KR",

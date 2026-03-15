@@ -1,10 +1,13 @@
-{
+﻿{
   "name": "Ha Suwook",
-  "headline": "하수욱 | Principal Researcher at ETRI",
+  "localName": "하수욱",
+  "headline": "Principal Researcher at ETRI",
   "bio": "Research focus: AI data quality, trustworthy AI, and international standardization across ISO/IEC and ITU-T collaboration tracks.",
+  "researchSummary": "Driving AI standardization and trustworthy data quality frameworks from research to global standards deployment.",
   "email": "sw.ha@etri.re.kr",
   "location": "ETRI, Daejeon, Republic of Korea",
   "website": "https://www.etri.re.kr",
+  "googleScholarUrl": "https://scholar.google.com/",
   "githubUsername": "Suwook-HA",
   "articleKeywords": [
     "IT standardization",
@@ -26,6 +29,49 @@
     "International Standardization",
     "Digital Transformation",
     "R&D Strategy"
+  ],
+  "relatedTechnologies": [
+    "Generative AI",
+    "Agentic AI",
+    "AI Safety",
+    "Data Governance",
+    "Federated Learning",
+    "MLOps",
+    "Knowledge Graph"
+  ],
+  "standardizationActivities": [
+    "ISO/IEC JTC 1/SC 42 AI WG",
+    "ITU-T AI Standardization Track",
+    "National AI Standard Strategy",
+    "Cross-industry Data Quality Guidelines"
+  ],
+  "researchMetrics": {
+    "citations": 420,
+    "hIndex": 13,
+    "i10Index": 18,
+    "publications": 34
+  },
+  "researchAreas": [
+    {
+      "name": "AI Data Quality",
+      "score": 96
+    },
+    {
+      "name": "Trustworthy AI",
+      "score": 93
+    },
+    {
+      "name": "AI Standardization",
+      "score": 98
+    },
+    {
+      "name": "Data Governance",
+      "score": 84
+    },
+    {
+      "name": "Digital Policy",
+      "score": 78
+    }
   ],
   "links": [
     {

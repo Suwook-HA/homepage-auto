@@ -25,17 +25,36 @@ export type AutoInterestNewsConfig = {
   maxPerInterest: number;
 };
 
+export type ResearchMetrics = {
+  citations: number;
+  hIndex: number;
+  i10Index: number;
+  publications: number;
+};
+
+export type ResearchArea = {
+  name: string;
+  score: number;
+};
+
 export type ProfileData = {
   name: string;
+  localName: string;
   headline: string;
   bio: string;
+  researchSummary: string;
   email: string;
   location: string;
   website: string;
+  googleScholarUrl: string;
   githubUsername: string;
   articleKeywords: string[];
   videoKeywords: string[];
   interests: string[];
+  relatedTechnologies: string[];
+  standardizationActivities: string[];
+  researchMetrics: ResearchMetrics;
+  researchAreas: ResearchArea[];
   links: LinkItem[];
   rssFeeds: RssFeed[];
   youtubeChannels: YoutubeChannel[];

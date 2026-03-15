@@ -23,17 +23,38 @@ export const autoInterestNewsSchema = z.object({
   maxPerInterest: z.number().int().min(1).max(10),
 });
 
+const optionalUrlSchema = z.union([z.url(), z.literal("")]);
+
+export const researchMetricsSchema = z.object({
+  citations: z.number().int().min(0),
+  hIndex: z.number().int().min(0),
+  i10Index: z.number().int().min(0),
+  publications: z.number().int().min(0),
+});
+
+export const researchAreaSchema = z.object({
+  name: z.string().min(1),
+  score: z.number().int().min(0).max(100),
+});
+
 export const profileSchema = z.object({
   name: z.string().min(1),
+  localName: z.string().min(1),
   headline: z.string().min(1),
   bio: z.string().min(1),
+  researchSummary: z.string().min(1),
   email: z.email(),
   location: z.string().min(1),
   website: z.url(),
+  googleScholarUrl: optionalUrlSchema,
   githubUsername: z.string().min(1),
   articleKeywords: z.array(z.string().min(1)).min(1),
   videoKeywords: z.array(z.string().min(1)).min(1),
   interests: z.array(z.string().min(1)),
+  relatedTechnologies: z.array(z.string().min(1)),
+  standardizationActivities: z.array(z.string().min(1)),
+  researchMetrics: researchMetricsSchema,
+  researchAreas: z.array(researchAreaSchema).min(1),
   links: z.array(linkItemSchema),
   rssFeeds: z.array(rssFeedSchema),
   youtubeChannels: z.array(youtubeChannelSchema),
