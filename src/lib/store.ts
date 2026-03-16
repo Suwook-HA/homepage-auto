@@ -6,6 +6,8 @@ import type { ContentData, ProfileData, RefreshLogData, RefreshLogItem } from "@
 const profilePath = runtimeDataPath("profile.json");
 const contentPath = runtimeDataPath("content.json");
 const refreshLogPath = runtimeDataPath("refresh-log.json");
+const MAX_ARTICLES = 8;
+const MAX_VIDEOS = 8;
 
 const emptyContent: ContentData = {
   updatedAt: null,
@@ -18,6 +20,20 @@ const emptyContent: ContentData = {
 const emptyRefreshLog: RefreshLogData = {
   items: [],
 };
+
+function clampContent(content: ContentData): ContentData {
+  return {
+    updatedAt: content.updatedAt ?? null,
+    articles: Array.isArray(content.articles)
+      ? content.articles.slice(0, MAX_ARTICLES)
+      : [],
+    videos: Array.isArray(content.videos)
+      ? content.videos.slice(0, MAX_VIDEOS)
+      : [],
+    photos: Array.isArray(content.photos) ? content.photos : [],
+    projects: Array.isArray(content.projects) ? content.projects : [],
+  };
+}
 
 const defaultProfile: ProfileData = {
   name: "Ha Suwook",
@@ -185,18 +201,18 @@ export async function readContent(): Promise<ContentData> {
     "content.json",
     emptyContent,
   );
-  return {
+  return clampContent({
     updatedAt: parsed.updatedAt ?? null,
     articles: Array.isArray(parsed.articles) ? parsed.articles : [],
     videos: Array.isArray(parsed.videos) ? parsed.videos : [],
     photos: Array.isArray(parsed.photos) ? parsed.photos : [],
     projects: Array.isArray(parsed.projects) ? parsed.projects : [],
-  };
+  });
 }
 
 export async function writeContent(content: ContentData): Promise<void> {
   await ensureDataDir();
-  await writeFile(contentPath, JSON.stringify(content, null, 2), "utf8");
+  await writeFile(contentPath, JSON.stringify(clampContent(content), null, 2), "utf8");
 }
 
 export async function readRefreshLog(): Promise<RefreshLogData> {

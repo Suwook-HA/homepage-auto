@@ -431,7 +431,7 @@ function buildArticleQueries(profile: ProfileData): string[] {
   const fromInterests = profile.interests
     .map((item) => item.trim())
     .filter(Boolean);
-  return [...new Set([...base, ...fromInterests])];
+  return [...new Set([...base, ...fromInterests])].slice(0, MAX_ARTICLES);
 }
 
 function articleScore(

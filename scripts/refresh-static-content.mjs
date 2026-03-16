@@ -288,7 +288,7 @@ function buildArticleQueries(profile) {
   const fromInterests = (Array.isArray(profile.interests) ? profile.interests : [])
     .map((item) => String(item).trim())
     .filter(Boolean);
-  return [...new Set([...base, ...fromInterests])].slice(0, 10);
+  return [...new Set([...base, ...fromInterests])].slice(0, MAX_ARTICLES);
 }
 
 function articleScore(title, summary, publishedAt, keywordSet) {
