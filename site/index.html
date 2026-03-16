@@ -1,22 +1,137 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-3" />
+    <link rel="stylesheet" href="./style.css?v=20260316-4" />
   </head>
   <body>
     <main class="page">
       <section class="hero card">
-        <p class="eyebrow">IT EXPERT PROFILE</p>
-        <h1 id="name">Ha Suwook</h1>
-        <p id="name-local" class="name-local"></p>
-        <p id="headline" class="headline"></p>
-        <p id="bio"></p>
-        <div class="meta">
-          <span id="location"></span>
-          <a id="website" target="_blank" rel="noopener noreferrer">Website</a>
+        <div class="hero-copy">
+          <p class="eyebrow">IT EXPERT PROFILE</p>
+          <h1 id="name">Ha Suwook</h1>
+          <p id="name-local" class="name-local"></p>
+          <p id="headline" class="headline"></p>
+          <p id="bio"></p>
+          <div id="interest-chips" class="hero-interest-row"></div>
+          <div class="meta">
+            <span id="location"></span>
+            <a id="email" target="_blank" rel="noopener noreferrer">Email</a>
+            <a id="website" target="_blank" rel="noopener noreferrer">Website</a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <div class="hero-visual-frame">
+            <div class="hero-panel-head">
+              <span class="panel-badge">AI SIGNAL MAP</span>
+              <span class="panel-status">LIVE PROFILE</span>
+            </div>
+            <div class="hero-orbit">
+              <svg class="hero-mesh" viewBox="0 0 520 360">
+                <defs>
+                  <linearGradient id="heroLine" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#76c8ff"></stop>
+                    <stop offset="100%" stop-color="#39f5d1"></stop>
+                  </linearGradient>
+                </defs>
+                <rect x="0" y="0" width="520" height="360" rx="24" fill="transparent"></rect>
+                <circle cx="260" cy="180" r="124" class="hero-ring"></circle>
+                <circle cx="260" cy="180" r="86" class="hero-ring inner"></circle>
+                <path
+                  d="M164 102c32 18 63 28 96 28s64-10 96-28"
+                  class="hero-path"
+                  stroke="url(#heroLine)"
+                ></path>
+                <path
+                  d="M148 242c44-18 81-28 112-28s68 10 112 28"
+                  class="hero-path"
+                  stroke="url(#heroLine)"
+                ></path>
+                <path
+                  d="M188 84c-19 40-28 72-28 96s9 56 28 96"
+                  class="hero-path soft"
+                  stroke="url(#heroLine)"
+                ></path>
+                <path
+                  d="M332 84c19 40 28 72 28 96s-9 56-28 96"
+                  class="hero-path soft"
+                  stroke="url(#heroLine)"
+                ></path>
+                <circle cx="260" cy="180" r="14" class="hero-node center"></circle>
+                <circle cx="260" cy="56" r="10" class="hero-node"></circle>
+                <circle cx="384" cy="180" r="10" class="hero-node"></circle>
+                <circle cx="260" cy="304" r="10" class="hero-node"></circle>
+                <circle cx="136" cy="180" r="10" class="hero-node"></circle>
+                <circle cx="177" cy="97" r="8" class="hero-node accent"></circle>
+                <circle cx="343" cy="97" r="8" class="hero-node accent"></circle>
+                <circle cx="177" cy="263" r="8" class="hero-node accent"></circle>
+                <circle cx="343" cy="263" r="8" class="hero-node accent"></circle>
+              </svg>
+              <div class="hero-core">
+                <span>AI Standardization</span>
+                <strong id="hero-org">ETRI</strong>
+              </div>
+              <div id="hero-floats" class="hero-float-layer"></div>
+            </div>
+            <div class="hero-stat-grid">
+              <article class="hero-signal-card">
+                <span class="hero-signal-icon">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="6" cy="12" r="2.5"></circle>
+                    <circle cx="18" cy="6" r="2.5"></circle>
+                    <circle cx="18" cy="18" r="2.5"></circle>
+                    <path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path>
+                  </svg>
+                </span>
+                <div>
+                  <p class="hero-signal-label">Citations</p>
+                  <strong id="hero-citations" class="hero-signal-value">0</strong>
+                  <span class="hero-signal-note">scholar footprint</span>
+                </div>
+              </article>
+              <article class="hero-signal-card">
+                <span class="hero-signal-icon">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <rect x="7" y="7" width="10" height="10" rx="2"></rect>
+                    <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path>
+                  </svg>
+                </span>
+                <div>
+                  <p class="hero-signal-label">Publications</p>
+                  <strong id="hero-publications" class="hero-signal-value">0</strong>
+                  <span class="hero-signal-note">research outputs</span>
+                </div>
+              </article>
+              <article class="hero-signal-card">
+                <span class="hero-signal-icon">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="12" cy="12" r="8.5"></circle>
+                    <path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path>
+                  </svg>
+                </span>
+                <div>
+                  <p class="hero-signal-label">Standards</p>
+                  <strong id="hero-tracks" class="hero-signal-value">0</strong>
+                  <span class="hero-signal-note">active tracks</span>
+                </div>
+              </article>
+              <article class="hero-signal-card">
+                <span class="hero-signal-icon">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path>
+                    <path d="m9.1 12.3 2 2 3.8-4.5"></path>
+                  </svg>
+                </span>
+                <div>
+                  <p class="hero-signal-label">Patent Assets</p>
+                  <strong id="hero-patents" class="hero-signal-value">0</strong>
+                  <span class="hero-signal-note">pipeline and grants</span>
+                </div>
+              </article>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -165,10 +280,29 @@
         return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
       }
 
+      function compactLabel(value, max) {
+        const raw = text(value);
+        if (!raw || raw.length <= max) return raw;
+        return raw.slice(0, max - 1).trimEnd() + "...";
+      }
+
       function clearChildren(el) {
         while (el.firstChild) {
           el.removeChild(el.firstChild);
         }
+      }
+
+      function iconMarkup(kind) {
+        if (kind === "shield") {
+          return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path><path d="m9.1 12.3 2 2 3.8-4.5"></path></svg>';
+        }
+        if (kind === "chip") {
+          return '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="2"></rect><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path></svg>';
+        }
+        if (kind === "globe") {
+          return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path></svg>';
+        }
+        return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="12" r="2.5"></circle><circle cx="18" cy="6" r="2.5"></circle><circle cx="18" cy="18" r="2.5"></circle><path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path></svg>';
       }
 
       function svgEl(tag) {
@@ -213,6 +347,36 @@
         return article;
       }
 
+      function renderHero(profile) {
+        const interests = Array.isArray(profile.interests) ? profile.interests.slice(0, 4) : [];
+        const chipsRoot = document.getElementById("interest-chips");
+        clearChildren(chipsRoot);
+        interests.forEach((label, index) => {
+          const chip = document.createElement("span");
+          chip.className = "hero-interest-pill";
+          const icon = document.createElement("span");
+          icon.className = "hero-interest-icon";
+          icon.innerHTML = iconMarkup(["mesh", "shield", "chip", "globe"][index % 4]);
+          chip.appendChild(icon);
+          chip.appendChild(document.createTextNode(text(label)));
+          chipsRoot.appendChild(chip);
+        });
+
+        const floatsRoot = document.getElementById("hero-floats");
+        clearChildren(floatsRoot);
+        [
+          profile.researchAreas?.[0]?.name || "AI Standardization",
+          profile.relatedTechnologies?.[0] || "Generative AI",
+          profile.standardizationActivities?.[0] || "ISO/IEC SC 42",
+          profile.relatedTechnologies?.[1] || "Trustworthy AI",
+        ].forEach((label, index) => {
+          const float = document.createElement("div");
+          float.className = "hero-float hero-float-" + String.fromCharCode(97 + index);
+          float.textContent = compactLabel(label, 26);
+          floatsRoot.appendChild(float);
+        });
+      }
+
       function renderRdfGraph(profile) {
         const svg = document.getElementById("rdf-graph");
         clearChildren(svg);
@@ -255,10 +419,10 @@
           ring.setAttribute("r", String(radius));
           ring.setAttribute("class", "rdf-ring");
           ring.setAttribute("fill", "none");
-          ring.setAttribute("stroke", "#2f5977");
+          ring.setAttribute("stroke", "#8ab6de");
           ring.setAttribute("stroke-width", "1");
           ring.setAttribute("stroke-dasharray", "4 6");
-          ring.setAttribute("opacity", "0.7");
+          ring.setAttribute("opacity", "0.8");
           svg.appendChild(ring);
         });
 
@@ -324,13 +488,13 @@
           line.setAttribute("y2", String(b.y));
           line.setAttribute("class", "rdf-edge rdf-edge-" + edge.kind);
           if (edge.kind === "primary") {
-            line.setAttribute("stroke", "rgba(113,255,218,0.55)");
+            line.setAttribute("stroke", "rgba(0,143,214,0.48)");
             line.setAttribute("stroke-width", "1.6");
           } else if (edge.kind === "secondary") {
-            line.setAttribute("stroke", "rgba(79,195,247,0.4)");
+            line.setAttribute("stroke", "rgba(40,105,173,0.34)");
             line.setAttribute("stroke-width", "1.1");
           } else {
-            line.setAttribute("stroke", "rgba(255,183,77,0.34)");
+            line.setAttribute("stroke", "rgba(8,179,144,0.32)");
             line.setAttribute("stroke-width", "1");
           }
           line.setAttribute("stroke-linecap", "round");
@@ -348,20 +512,20 @@
           circle.setAttribute("class", "rdf-node rdf-node-" + node.type);
           circle.setAttribute("filter", "url(#nodeGlow)");
           if (node.type === "center") {
-            circle.setAttribute("fill", "#7effde");
-            circle.setAttribute("stroke", "#e8fff8");
+            circle.setAttribute("fill", "#16c9b2");
+            circle.setAttribute("stroke", "#eafffb");
             circle.setAttribute("stroke-width", "1.1");
           } else if (node.type === "area") {
-            circle.setAttribute("fill", "#4fc3f7");
-            circle.setAttribute("stroke", "#d7f3ff");
+            circle.setAttribute("fill", "#1f7cff");
+            circle.setAttribute("stroke", "#e0f2ff");
             circle.setAttribute("stroke-width", "1");
           } else if (node.type === "activity") {
-            circle.setAttribute("fill", "#ce93d8");
-            circle.setAttribute("stroke", "#f3ddf7");
+            circle.setAttribute("fill", "#65dcb4");
+            circle.setAttribute("stroke", "#e7fff6");
             circle.setAttribute("stroke-width", "1");
           } else {
-            circle.setAttribute("fill", "#ffb74d");
-            circle.setAttribute("stroke", "#ffe6bf");
+            circle.setAttribute("fill", "#8f7cff");
+            circle.setAttribute("stroke", "#f0ecff");
             circle.setAttribute("stroke-width", "1");
           }
           g.appendChild(circle);
@@ -373,7 +537,7 @@
           label.setAttribute("y", String(node.y + 4));
           label.setAttribute("text-anchor", anchor);
           label.setAttribute("class", "rdf-label rdf-label-" + node.type);
-          label.setAttribute("fill", node.type === "center" ? "#e7fff8" : "#d4ecff");
+          label.setAttribute("fill", node.type === "center" ? "#093158" : "#23486b");
           label.setAttribute("font-size", node.type === "center" ? "13" : "11");
           if (node.type === "center") {
             label.setAttribute("font-weight", "800");
@@ -397,16 +561,16 @@
           dot.setAttribute("cy", String(ly));
           dot.setAttribute("r", "5");
           dot.setAttribute("class", "rdf-node rdf-node-" + item.cls);
-          if (item.cls === "area") dot.setAttribute("fill", "#4fc3f7");
-          if (item.cls === "tech") dot.setAttribute("fill", "#ffb74d");
-          if (item.cls === "activity") dot.setAttribute("fill", "#ce93d8");
+          if (item.cls === "area") dot.setAttribute("fill", "#1f7cff");
+          if (item.cls === "tech") dot.setAttribute("fill", "#8f7cff");
+          if (item.cls === "activity") dot.setAttribute("fill", "#65dcb4");
           svg.appendChild(dot);
 
           const txt = svgEl("text");
           txt.setAttribute("x", String(lx + 10));
           txt.setAttribute("y", String(ly + 4));
           txt.setAttribute("class", "rdf-legend-text");
-          txt.setAttribute("fill", "#8fb2d1");
+          txt.setAttribute("fill", "#5d7694");
           txt.setAttribute("font-size", "10");
           txt.textContent = item.label;
           svg.appendChild(txt);
@@ -687,24 +851,39 @@
         const content = await contentRes.json();
         const promotion = await promotionRes.json();
         const metrics = profile.researchMetrics || {};
+        const organization = text(profile.location).split(",")[0].trim() || "ETRI";
+        const patent = profile.patentStats || {
+          domestic: { applications: 0, registrations: 0 },
+          international: { applications: 0, registrations: 0 },
+        };
+        const patentAssets =
+          (Number(patent.domestic?.applications) || 0) +
+          (Number(patent.domestic?.registrations) || 0) +
+          (Number(patent.international?.applications) || 0) +
+          (Number(patent.international?.registrations) || 0);
 
         const name = text(profile.name) || "Ha Suwook";
         const localName = text(profile.localName);
 
         document.getElementById("name").textContent = name;
         document.getElementById("name-local").textContent = localName
-          ? name + " | " + localName
+          ? name + " | " + localName + " | " + organization
           : name;
         document.getElementById("headline").textContent = text(profile.headline);
         document.getElementById("bio").textContent = text(profile.bio);
         document.getElementById("research-summary").textContent =
           text(profile.researchSummary) || text(profile.bio);
         document.getElementById("location").textContent = text(profile.location);
+        document.getElementById("hero-org").textContent = organization;
 
         const websiteUrl = text(profile.website) || "https://github.com/Suwook-HA";
         const website = document.getElementById("website");
         website.href = websiteUrl;
         website.textContent = "Website";
+
+        const email = document.getElementById("email");
+        email.href = "mailto:" + text(profile.email);
+        email.textContent = text(profile.email) || "Email";
 
         const profileLink = document.getElementById("profile-link");
         profileLink.href = websiteUrl;
@@ -723,7 +902,14 @@
         document.getElementById("metric-tracks").textContent = number(
           (profile.standardizationActivities || []).length,
         );
+        document.getElementById("hero-citations").textContent = number(metrics.citations);
+        document.getElementById("hero-publications").textContent = number(metrics.publications);
+        document.getElementById("hero-tracks").textContent = number(
+          (profile.standardizationActivities || []).length,
+        );
+        document.getElementById("hero-patents").textContent = number(patentAssets);
 
+        renderHero(profile);
         renderRdfGraph(profile);
         renderResearchAreas(profile);
         renderResearchSignals(profile, content);
@@ -832,3 +1018,7 @@
     </script>
   </body>
 </html>
+
+
+
+

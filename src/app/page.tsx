@@ -32,6 +32,49 @@ function toSqrtPercent(value: number, max: number): number {
   return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
 }
 
+function compactLabel(value: string, max = 24): string {
+  if (value.length <= max) return value;
+  return `${value.slice(0, max - 1).trimEnd()}\u2026`;
+}
+
+function InsightGlyph({ kind }: { kind: "mesh" | "shield" | "chip" | "globe" }) {
+  if (kind === "shield") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z" />
+        <path d="m9.1 12.3 2 2 3.8-4.5" />
+      </svg>
+    );
+  }
+
+  if (kind === "chip") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <rect x="7" y="7" width="10" height="10" rx="2" />
+        <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4" />
+      </svg>
+    );
+  }
+
+  if (kind === "globe") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="8.5" />
+        <path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5" />
+      </svg>
+    );
+  }
+
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="6" cy="12" r="2.5" />
+      <circle cx="18" cy="6" r="2.5" />
+      <circle cx="18" cy="18" r="2.5" />
+      <path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4" />
+    </svg>
+  );
+}
+
 export default async function HomePage() {
   const [authEnabled, adminAuthenticated, homepageData, status, promotionData] =
     await Promise.all([
@@ -80,11 +123,56 @@ export default async function HomePage() {
   const patentRecords = [...profile.patentRecords]
     .sort((a, b) => b.filedAt.localeCompare(a.filedAt))
     .slice(0, 12);
+  const patentAssetTotal =
+    profile.patentStats.domestic.applications +
+    profile.patentStats.domestic.registrations +
+    profile.patentStats.international.applications +
+    profile.patentStats.international.registrations;
+  const heroThemes = profile.interests.slice(0, 4).map((label, index) => ({
+    label,
+    kind: ["mesh", "shield", "chip", "globe"][index % 4] as
+      | "mesh"
+      | "shield"
+      | "chip"
+      | "globe",
+  }));
+  const heroSignals = [
+    {
+      label: "Citations",
+      value: formatNumber(profile.researchMetrics.citations),
+      note: "scholar footprint",
+      kind: "mesh" as const,
+    },
+    {
+      label: "Publications",
+      value: formatNumber(profile.researchMetrics.publications),
+      note: "research outputs",
+      kind: "chip" as const,
+    },
+    {
+      label: "Standards",
+      value: formatNumber(profile.standardizationActivities.length),
+      note: "active tracks",
+      kind: "globe" as const,
+    },
+    {
+      label: "Patent Assets",
+      value: formatNumber(patentAssetTotal),
+      note: "pipeline and grants",
+      kind: "shield" as const,
+    },
+  ];
+  const heroOrbitLabels = [
+    profile.researchAreas[0]?.name ?? "AI Standardization",
+    profile.relatedTechnologies[0] ?? "Generative AI",
+    profile.standardizationActivities[0] ?? "ISO/IEC SC 42",
+    profile.relatedTechnologies[1] ?? "Trustworthy AI",
+  ];
 
   return (
     <main className="page">
       <section className="hero card">
-        <div>
+        <div className="hero-copy">
           <p className="eyebrow">IT EXPERT PROFILE</p>
           <h1>{profile.name}</h1>
           <p className="name-local">
@@ -92,6 +180,16 @@ export default async function HomePage() {
           </p>
           <p className="headline">{profile.headline}</p>
           <p>{profile.bio}</p>
+          <div className="hero-interest-row">
+            {heroThemes.map((theme) => (
+              <span key={theme.label} className="hero-interest-pill">
+                <span className="hero-interest-icon">
+                  <InsightGlyph kind={theme.kind} />
+                </span>
+                {theme.label}
+              </span>
+            ))}
+          </div>
           <div className="meta">
             <span>{profile.location}</span>
             <span>{profile.email}</span>
@@ -109,6 +207,82 @@ export default async function HomePage() {
             </Link>
           </div>
           <p className="updated">Last refresh: {formatDate(content.updatedAt)}</p>
+        </div>
+        <div className="hero-visual" aria-hidden="true">
+          <div className="hero-visual-frame">
+            <div className="hero-panel-head">
+              <span className="panel-badge">AI SIGNAL MAP</span>
+              <span className="panel-status">LIVE PROFILE</span>
+            </div>
+            <div className="hero-orbit">
+              <svg className="hero-mesh" viewBox="0 0 520 360">
+                <defs>
+                  <linearGradient id="heroLine" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stopColor="#76c8ff" />
+                    <stop offset="100%" stopColor="#39f5d1" />
+                  </linearGradient>
+                </defs>
+                <rect x="0" y="0" width="520" height="360" rx="24" fill="transparent" />
+                <circle cx="260" cy="180" r="124" className="hero-ring" />
+                <circle cx="260" cy="180" r="86" className="hero-ring inner" />
+                <path
+                  d="M164 102c32 18 63 28 96 28s64-10 96-28"
+                  className="hero-path"
+                  stroke="url(#heroLine)"
+                />
+                <path
+                  d="M148 242c44-18 81-28 112-28s68 10 112 28"
+                  className="hero-path"
+                  stroke="url(#heroLine)"
+                />
+                <path
+                  d="M188 84c-19 40-28 72-28 96s9 56 28 96"
+                  className="hero-path soft"
+                  stroke="url(#heroLine)"
+                />
+                <path
+                  d="M332 84c19 40 28 72 28 96s-9 56-28 96"
+                  className="hero-path soft"
+                  stroke="url(#heroLine)"
+                />
+                <circle cx="260" cy="180" r="14" className="hero-node center" />
+                <circle cx="260" cy="56" r="10" className="hero-node" />
+                <circle cx="384" cy="180" r="10" className="hero-node" />
+                <circle cx="260" cy="304" r="10" className="hero-node" />
+                <circle cx="136" cy="180" r="10" className="hero-node" />
+                <circle cx="177" cy="97" r="8" className="hero-node accent" />
+                <circle cx="343" cy="97" r="8" className="hero-node accent" />
+                <circle cx="177" cy="263" r="8" className="hero-node accent" />
+                <circle cx="343" cy="263" r="8" className="hero-node accent" />
+              </svg>
+              <div className="hero-core">
+                <span>AI Standardization</span>
+                <strong>{organization}</strong>
+              </div>
+              {heroOrbitLabels.map((label, index) => (
+                <div
+                  key={`${label}-${index}`}
+                  className={`hero-float hero-float-${String.fromCharCode(97 + index)}`}
+                >
+                  {compactLabel(label, 26)}
+                </div>
+              ))}
+            </div>
+            <div className="hero-stat-grid">
+              {heroSignals.map((signal) => (
+                <article key={signal.label} className="hero-signal-card">
+                  <span className="hero-signal-icon">
+                    <InsightGlyph kind={signal.kind} />
+                  </span>
+                  <div>
+                    <p className="hero-signal-label">{signal.label}</p>
+                    <strong className="hero-signal-value">{signal.value}</strong>
+                    <span className="hero-signal-note">{signal.note}</span>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
