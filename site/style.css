@@ -400,6 +400,98 @@ p {
   font-weight: 700;
 }
 
+.patent-dashboard {
+  background:
+    radial-gradient(circle at 100% 0%, rgba(113, 255, 218, 0.1), transparent 35%),
+    linear-gradient(160deg, rgba(18, 38, 58, 0.98), rgba(10, 20, 32, 0.95));
+}
+
+.patent-summary-grid {
+  margin-top: 0.8rem;
+  display: grid;
+  gap: 0.7rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.patent-summary-card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.7rem;
+  background: var(--bg-alt);
+}
+
+.patent-metric-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.45rem;
+  font-size: 0.8rem;
+  color: #cde6f7;
+}
+
+.patent-track {
+  margin-top: 0.35rem;
+  height: 8px;
+  border-radius: 999px;
+  background: #1d3245;
+  overflow: hidden;
+}
+
+.patent-fill {
+  display: block;
+  height: 100%;
+}
+
+.patent-fill.applications {
+  background: linear-gradient(100deg, #29b6f6, #0059db);
+}
+
+.patent-fill.registrations {
+  background: linear-gradient(100deg, #71ffda, #00a884);
+}
+
+.patent-yearly-chart {
+  margin-top: 0.8rem;
+  display: grid;
+  gap: 0.7rem;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+}
+
+.patent-year-card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.6rem;
+  background: var(--bg-alt);
+  display: grid;
+  gap: 0.5rem;
+}
+
+.patent-year-bars {
+  height: 96px;
+  display: flex;
+  align-items: end;
+  gap: 8px;
+}
+
+.patent-bar {
+  width: 14px;
+  border-radius: 8px 8px 3px 3px;
+}
+
+.patent-bar.applications {
+  background: linear-gradient(180deg, #29b6f6, #0059db);
+}
+
+.patent-bar.registrations {
+  background: linear-gradient(180deg, #71ffda, #00a884);
+}
+
+.patent-year-values {
+  margin: 0;
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
 .grid {
   display: grid;
   gap: 0.75rem;

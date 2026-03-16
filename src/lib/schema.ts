@@ -37,6 +37,23 @@ export const researchAreaSchema = z.object({
   score: z.number().int().min(0).max(100),
 });
 
+export const patentRegionStatSchema = z.object({
+  applications: z.number().int().min(0),
+  registrations: z.number().int().min(0),
+});
+
+export const patentYearlyStatSchema = z.object({
+  year: z.string().min(1),
+  applications: z.number().int().min(0),
+  registrations: z.number().int().min(0),
+});
+
+export const patentStatsSchema = z.object({
+  domestic: patentRegionStatSchema,
+  international: patentRegionStatSchema,
+  yearly: z.array(patentYearlyStatSchema).min(1),
+});
+
 export const profileSchema = z.object({
   name: z.string().min(1),
   localName: z.string().min(1),
@@ -55,6 +72,7 @@ export const profileSchema = z.object({
   standardizationActivities: z.array(z.string().min(1)),
   researchMetrics: researchMetricsSchema,
   researchAreas: z.array(researchAreaSchema).min(1),
+  patentStats: patentStatsSchema,
   links: z.array(linkItemSchema),
   rssFeeds: z.array(rssFeedSchema),
   youtubeChannels: z.array(youtubeChannelSchema),

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-1" />
+    <link rel="stylesheet" href="./style.css?v=20260316-2" />
   </head>
   <body>
     <main class="page">
@@ -94,6 +94,16 @@
             <div id="standardization-activities" class="standards-list"></div>
           </article>
         </div>
+      </section>
+
+      <section class="card patent-dashboard">
+        <div class="section-header">
+          <h2>국내외 특허 출원/등록 현황</h2>
+          <span class="tag">Patent Portfolio</span>
+        </div>
+        <p class="hint">Domestic vs International patent pipeline and registration outcomes.</p>
+        <div id="patent-summary" class="patent-summary-grid"></div>
+        <div id="patent-yearly" class="patent-yearly-chart"></div>
       </section>
 
       <section class="card">
@@ -515,6 +525,119 @@
         });
       }
 
+      function renderPatentStatus(profile) {
+        const summaryRoot = document.getElementById("patent-summary");
+        const yearlyRoot = document.getElementById("patent-yearly");
+        clearChildren(summaryRoot);
+        clearChildren(yearlyRoot);
+
+        const patent = profile.patentStats || {
+          domestic: { applications: 0, registrations: 0 },
+          international: { applications: 0, registrations: 0 },
+          yearly: [],
+        };
+        const summary = [
+          {
+            label: "Domestic",
+            applications: Number(patent.domestic?.applications) || 0,
+            registrations: Number(patent.domestic?.registrations) || 0,
+          },
+          {
+            label: "International",
+            applications: Number(patent.international?.applications) || 0,
+            registrations: Number(patent.international?.registrations) || 0,
+          },
+        ];
+        const summaryMax = Math.max(
+          ...summary.map((item) => Math.max(item.applications, item.registrations)),
+          1,
+        );
+
+        summary.forEach((item) => {
+          const card = document.createElement("article");
+          card.className = "patent-summary-card";
+
+          const title = document.createElement("p");
+          title.className = "metric-label";
+          title.textContent = item.label;
+          card.appendChild(title);
+
+          const appRow = document.createElement("div");
+          appRow.className = "patent-metric-row";
+          appRow.innerHTML = "<span>출원</span><strong>" + number(item.applications) + "</strong>";
+          card.appendChild(appRow);
+
+          const appTrack = document.createElement("div");
+          appTrack.className = "patent-track";
+          const appFill = document.createElement("span");
+          appFill.className = "patent-fill applications";
+          appFill.style.width =
+            Math.max(0, Math.min(100, Math.round((item.applications / summaryMax) * 100))) + "%";
+          appTrack.appendChild(appFill);
+          card.appendChild(appTrack);
+
+          const regRow = document.createElement("div");
+          regRow.className = "patent-metric-row";
+          regRow.innerHTML = "<span>등록</span><strong>" + number(item.registrations) + "</strong>";
+          card.appendChild(regRow);
+
+          const regTrack = document.createElement("div");
+          regTrack.className = "patent-track";
+          const regFill = document.createElement("span");
+          regFill.className = "patent-fill registrations";
+          regFill.style.width =
+            Math.max(0, Math.min(100, Math.round((item.registrations / summaryMax) * 100))) + "%";
+          regTrack.appendChild(regFill);
+          card.appendChild(regTrack);
+
+          summaryRoot.appendChild(card);
+        });
+
+        const yearly = Array.isArray(patent.yearly) ? [...patent.yearly] : [];
+        yearly.sort((a, b) => String(a.year).localeCompare(String(b.year)));
+        const yearlyMax = Math.max(
+          ...yearly.map((item) =>
+            Math.max(Number(item.applications) || 0, Number(item.registrations) || 0),
+          ),
+          1,
+        );
+
+        yearly.forEach((item) => {
+          const applications = Number(item.applications) || 0;
+          const registrations = Number(item.registrations) || 0;
+
+          const card = document.createElement("article");
+          card.className = "patent-year-card";
+
+          const year = document.createElement("p");
+          year.className = "item-meta";
+          year.textContent = text(item.year);
+          card.appendChild(year);
+
+          const bars = document.createElement("div");
+          bars.className = "patent-year-bars";
+
+          const app = document.createElement("span");
+          app.className = "patent-bar applications";
+          app.style.height = Math.max(10, toSqrtPercent(applications, yearlyMax)) + "%";
+          bars.appendChild(app);
+
+          const reg = document.createElement("span");
+          reg.className = "patent-bar registrations";
+          reg.style.height = Math.max(10, toSqrtPercent(registrations, yearlyMax)) + "%";
+          bars.appendChild(reg);
+
+          card.appendChild(bars);
+
+          const values = document.createElement("p");
+          values.className = "patent-year-values";
+          values.textContent = "A " + number(applications) + " / R " + number(registrations);
+          card.appendChild(values);
+
+          yearlyRoot.appendChild(card);
+        });
+      }
+
       async function load() {
         const cacheBust = "ts=" + Date.now();
         const [profileRes, contentRes, promotionRes] = await Promise.all([
@@ -569,6 +692,7 @@
         renderResearchSignals(profile, content);
         renderTech(profile);
         renderActivities(profile);
+        renderPatentStatus(profile);
 
         document.getElementById("highlight-updated").textContent =
           "Updated from curated public sources: " + (text(promotion.updatedAt) || "N/A");

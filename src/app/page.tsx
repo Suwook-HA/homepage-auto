@@ -54,6 +54,29 @@ export default async function HomePage() {
     { label: "Top Videos", value: Math.min(content.videos.length, 8) },
   ];
   const signalMax = Math.max(...signalData.map((item) => item.value), 1);
+  const patentSummary = [
+    {
+      label: "Domestic",
+      applications: profile.patentStats.domestic.applications,
+      registrations: profile.patentStats.domestic.registrations,
+    },
+    {
+      label: "International",
+      applications: profile.patentStats.international.applications,
+      registrations: profile.patentStats.international.registrations,
+    },
+  ];
+  const patentSummaryMax = Math.max(
+    ...patentSummary.map((item) => Math.max(item.applications, item.registrations)),
+    1,
+  );
+  const patentYearly = [...profile.patentStats.yearly].sort((a, b) =>
+    a.year.localeCompare(b.year),
+  );
+  const patentYearlyMax = Math.max(
+    ...patentYearly.map((item) => Math.max(item.applications, item.registrations)),
+    1,
+  );
 
   return (
     <main className="page">
@@ -189,6 +212,63 @@ export default async function HomePage() {
               ))}
             </div>
           </article>
+        </div>
+      </section>
+
+      <section className="card patent-dashboard">
+        <div className="section-header">
+          <h2>국내외 특허 출원/등록 현황</h2>
+          <span className="tag">Patent Portfolio</span>
+        </div>
+        <p className="hint">Domestic vs International patent pipeline and registration outcomes.</p>
+
+        <div className="patent-summary-grid">
+          {patentSummary.map((item) => (
+            <article key={item.label} className="patent-summary-card">
+              <p className="metric-label">{item.label}</p>
+              <div className="patent-metric-row">
+                <span>출원</span>
+                <strong>{formatNumber(item.applications)}</strong>
+              </div>
+              <div className="patent-track">
+                <span
+                  className="patent-fill applications"
+                  style={{ width: `${toPercent(item.applications, patentSummaryMax)}%` }}
+                />
+              </div>
+              <div className="patent-metric-row">
+                <span>등록</span>
+                <strong>{formatNumber(item.registrations)}</strong>
+              </div>
+              <div className="patent-track">
+                <span
+                  className="patent-fill registrations"
+                  style={{ width: `${toPercent(item.registrations, patentSummaryMax)}%` }}
+                />
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div className="patent-yearly-chart">
+          {patentYearly.map((item) => (
+            <article key={item.year} className="patent-year-card">
+              <p className="item-meta">{item.year}</p>
+              <div className="patent-year-bars">
+                <span
+                  className="patent-bar applications"
+                  style={{ height: `${Math.max(10, toSqrtPercent(item.applications, patentYearlyMax))}%` }}
+                />
+                <span
+                  className="patent-bar registrations"
+                  style={{ height: `${Math.max(10, toSqrtPercent(item.registrations, patentYearlyMax))}%` }}
+                />
+              </div>
+              <p className="patent-year-values">
+                A {formatNumber(item.applications)} / R {formatNumber(item.registrations)}
+              </p>
+            </article>
+          ))}
         </div>
       </section>
 

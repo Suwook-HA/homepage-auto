@@ -92,6 +92,23 @@ const defaultProfile: ProfileData = {
     { name: "Data Governance", score: 82 },
     { name: "Digital Policy", score: 76 },
   ],
+  patentStats: {
+    domestic: {
+      applications: 28,
+      registrations: 17,
+    },
+    international: {
+      applications: 14,
+      registrations: 8,
+    },
+    yearly: [
+      { year: "2022", applications: 6, registrations: 3 },
+      { year: "2023", applications: 9, registrations: 5 },
+      { year: "2024", applications: 12, registrations: 7 },
+      { year: "2025", applications: 15, registrations: 10 },
+      { year: "2026", applications: 18, registrations: 12 },
+    ],
+  },
   links: [
     {
       label: "GitHub",
@@ -141,6 +158,28 @@ function normalizeProfile(profile: ProfileData): ProfileData {
       profile.researchAreas && profile.researchAreas.length > 0
         ? profile.researchAreas
         : defaultProfile.researchAreas,
+    patentStats: {
+      domestic: {
+        applications:
+          profile.patentStats?.domestic?.applications ??
+          defaultProfile.patentStats.domestic.applications,
+        registrations:
+          profile.patentStats?.domestic?.registrations ??
+          defaultProfile.patentStats.domestic.registrations,
+      },
+      international: {
+        applications:
+          profile.patentStats?.international?.applications ??
+          defaultProfile.patentStats.international.applications,
+        registrations:
+          profile.patentStats?.international?.registrations ??
+          defaultProfile.patentStats.international.registrations,
+      },
+      yearly:
+        profile.patentStats?.yearly && profile.patentStats.yearly.length > 0
+          ? profile.patentStats.yearly
+          : defaultProfile.patentStats.yearly,
+    },
     autoInterestNews: profile.autoInterestNews ?? {
       enabled: true,
       locale: "ko-KR",

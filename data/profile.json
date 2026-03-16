@@ -73,6 +73,43 @@
       "score": 78
     }
   ],
+  "patentStats": {
+    "domestic": {
+      "applications": 26,
+      "registrations": 15
+    },
+    "international": {
+      "applications": 13,
+      "registrations": 7
+    },
+    "yearly": [
+      {
+        "year": "2022",
+        "applications": 5,
+        "registrations": 3
+      },
+      {
+        "year": "2023",
+        "applications": 8,
+        "registrations": 4
+      },
+      {
+        "year": "2024",
+        "applications": 11,
+        "registrations": 6
+      },
+      {
+        "year": "2025",
+        "applications": 13,
+        "registrations": 8
+      },
+      {
+        "year": "2026",
+        "applications": 15,
+        "registrations": 9
+      }
+    ]
+  },
   "links": [
     {
       "label": "GitHub",

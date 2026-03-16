@@ -37,6 +37,23 @@ export type ResearchArea = {
   score: number;
 };
 
+export type PatentRegionStat = {
+  applications: number;
+  registrations: number;
+};
+
+export type PatentYearlyStat = {
+  year: string;
+  applications: number;
+  registrations: number;
+};
+
+export type PatentStats = {
+  domestic: PatentRegionStat;
+  international: PatentRegionStat;
+  yearly: PatentYearlyStat[];
+};
+
 export type ProfileData = {
   name: string;
   localName: string;
@@ -55,6 +72,7 @@ export type ProfileData = {
   standardizationActivities: string[];
   researchMetrics: ResearchMetrics;
   researchAreas: ResearchArea[];
+  patentStats: PatentStats;
   links: LinkItem[];
   rssFeeds: RssFeed[];
   youtubeChannels: YoutubeChannel[];
