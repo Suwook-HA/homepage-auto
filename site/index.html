@@ -66,18 +66,25 @@
           </article>
         </div>
 
-        <div class="research-viz-grid">
+        <div class="research-viz-grid graph-grid">
+          <article class="viz-card rdf-card">
+            <h3>RDF Relationship Map</h3>
+            <p class="hint graph-hint">Research domain/technology/standardization linkage graph</p>
+            <div class="rdf-shell">
+              <svg id="rdf-graph" class="rdf-graph" viewBox="0 0 760 460"></svg>
+            </div>
+          </article>
           <article class="viz-card">
             <h3>Research Domain Strength</h3>
             <div id="research-areas" class="domain-chart"></div>
           </article>
+        </div>
+
+        <div class="research-viz-grid three">
           <article class="viz-card">
             <h3>Research Signals</h3>
             <div id="research-signals" class="signal-chart"></div>
           </article>
-        </div>
-
-        <div class="research-viz-grid">
           <article class="viz-card">
             <h3>Related Technologies</h3>
             <div id="related-tech" class="tech-cloud"></div>
@@ -146,6 +153,24 @@
         return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
       }
 
+      function clearChildren(el) {
+        while (el.firstChild) {
+          el.removeChild(el.firstChild);
+        }
+      }
+
+      function svgEl(tag) {
+        return document.createElementNS("http://www.w3.org/2000/svg", tag);
+      }
+
+      function polar(cx, cy, radius, angleDeg) {
+        const rad = (angleDeg * Math.PI) / 180;
+        return {
+          x: cx + radius * Math.cos(rad),
+          y: cy + radius * Math.sin(rad),
+        };
+      }
+
       function card(meta, title, body, link, linkLabel) {
         const article = document.createElement("article");
         article.className = "item";
@@ -176,8 +201,166 @@
         return article;
       }
 
+      function renderRdfGraph(profile) {
+        const svg = document.getElementById("rdf-graph");
+        clearChildren(svg);
+
+        const width = 760;
+        const height = 460;
+        const cx = width / 2;
+        const cy = height / 2;
+        const areaRadius = 140;
+        const outerRadius = 220;
+
+        const areas = (profile.researchAreas || []).slice(0, 6);
+        const techs = (profile.relatedTechnologies || []).slice(0, 8);
+        const acts = (profile.standardizationActivities || []).slice(0, 6);
+        const outer = [
+          ...techs.map((label) => ({ type: "tech", label })),
+          ...acts.map((label) => ({ type: "activity", label })),
+        ];
+
+        const defs = svgEl("defs");
+        const glow = svgEl("filter");
+        glow.setAttribute("id", "nodeGlow");
+        glow.innerHTML =
+          '<feGaussianBlur stdDeviation="3.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>';
+        defs.appendChild(glow);
+        svg.appendChild(defs);
+
+        const bg = svgEl("rect");
+        bg.setAttribute("x", "0");
+        bg.setAttribute("y", "0");
+        bg.setAttribute("width", String(width));
+        bg.setAttribute("height", String(height));
+        bg.setAttribute("fill", "transparent");
+        svg.appendChild(bg);
+
+        [areaRadius, outerRadius].forEach((radius) => {
+          const ring = svgEl("circle");
+          ring.setAttribute("cx", String(cx));
+          ring.setAttribute("cy", String(cy));
+          ring.setAttribute("r", String(radius));
+          ring.setAttribute("class", "rdf-ring");
+          svg.appendChild(ring);
+        });
+
+        const nodes = [];
+        const edges = [];
+
+        const center = {
+          id: "center",
+          label: text(profile.localName || profile.name || "Researcher"),
+          type: "center",
+          x: cx,
+          y: cy,
+          size: 16,
+        };
+        nodes.push(center);
+
+        areas.forEach((area, index) => {
+          const point = polar(cx, cy, areaRadius, (index * 360) / Math.max(areas.length, 1) - 90);
+          const node = {
+            id: "area-" + index,
+            label: text(area.name),
+            type: "area",
+            x: point.x,
+            y: point.y,
+            size: 11,
+          };
+          nodes.push(node);
+          edges.push({ from: center.id, to: node.id, kind: "primary" });
+        });
+
+        outer.forEach((item, index) => {
+          const point = polar(cx, cy, outerRadius, (index * 360) / Math.max(outer.length, 1) - 90);
+          const node = {
+            id: item.type + "-" + index,
+            label: text(item.label),
+            type: item.type,
+            x: point.x,
+            y: point.y,
+            size: 8,
+          };
+          nodes.push(node);
+          edges.push({ from: center.id, to: node.id, kind: "secondary" });
+
+          if (areas.length > 0) {
+            const areaIdx =
+              item.type === "tech"
+                ? index % areas.length
+                : (index * 2 + 1) % areas.length;
+            edges.push({ from: "area-" + areaIdx, to: node.id, kind: "link" });
+          }
+        });
+
+        const byId = new Map(nodes.map((node) => [node.id, node]));
+
+        edges.forEach((edge) => {
+          const a = byId.get(edge.from);
+          const b = byId.get(edge.to);
+          if (!a || !b) return;
+          const line = svgEl("line");
+          line.setAttribute("x1", String(a.x));
+          line.setAttribute("y1", String(a.y));
+          line.setAttribute("x2", String(b.x));
+          line.setAttribute("y2", String(b.y));
+          line.setAttribute("class", "rdf-edge rdf-edge-" + edge.kind);
+          svg.appendChild(line);
+        });
+
+        nodes.forEach((node) => {
+          const g = svgEl("g");
+          g.setAttribute("class", "rdf-node-group");
+
+          const circle = svgEl("circle");
+          circle.setAttribute("cx", String(node.x));
+          circle.setAttribute("cy", String(node.y));
+          circle.setAttribute("r", String(node.size));
+          circle.setAttribute("class", "rdf-node rdf-node-" + node.type);
+          circle.setAttribute("filter", "url(#nodeGlow)");
+          g.appendChild(circle);
+
+          const label = svgEl("text");
+          const isCenter = node.type === "center";
+          const anchor = isCenter ? "middle" : node.x > cx ? "start" : "end";
+          label.setAttribute("x", String(isCenter ? node.x : node.x + (node.x > cx ? 14 : -14)));
+          label.setAttribute("y", String(node.y + 4));
+          label.setAttribute("text-anchor", anchor);
+          label.setAttribute("class", "rdf-label rdf-label-" + node.type);
+          label.textContent = node.label;
+          g.appendChild(label);
+
+          svg.appendChild(g);
+        });
+
+        const legendItems = [
+          { cls: "area", label: "Research Area" },
+          { cls: "tech", label: "Technology" },
+          { cls: "activity", label: "Standardization" },
+        ];
+        legendItems.forEach((item, index) => {
+          const lx = 20 + index * 165;
+          const ly = height - 20;
+          const dot = svgEl("circle");
+          dot.setAttribute("cx", String(lx));
+          dot.setAttribute("cy", String(ly));
+          dot.setAttribute("r", "5");
+          dot.setAttribute("class", "rdf-node rdf-node-" + item.cls);
+          svg.appendChild(dot);
+
+          const txt = svgEl("text");
+          txt.setAttribute("x", String(lx + 10));
+          txt.setAttribute("y", String(ly + 4));
+          txt.setAttribute("class", "rdf-legend-text");
+          txt.textContent = item.label;
+          svg.appendChild(txt);
+        });
+      }
+
       function renderResearchAreas(profile) {
         const root = document.getElementById("research-areas");
+        clearChildren(root);
         const areas = Array.isArray(profile.researchAreas) ? profile.researchAreas : [];
         if (areas.length === 0) {
           root.textContent = "No research areas configured.";
@@ -214,6 +397,7 @@
 
       function renderResearchSignals(profile, content) {
         const root = document.getElementById("research-signals");
+        clearChildren(root);
         const metrics = profile.researchMetrics || {};
         const signals = [
           { label: "Citations", value: Number(metrics.citations) || 0 },
@@ -249,6 +433,7 @@
 
       function renderTech(profile) {
         const root = document.getElementById("related-tech");
+        clearChildren(root);
         const tech = Array.isArray(profile.relatedTechnologies) ? profile.relatedTechnologies : [];
         if (tech.length === 0) {
           root.textContent = "No related technologies configured.";
@@ -265,6 +450,7 @@
 
       function renderActivities(profile) {
         const root = document.getElementById("standardization-activities");
+        clearChildren(root);
         const activities = Array.isArray(profile.standardizationActivities)
           ? profile.standardizationActivities
           : [];
@@ -334,6 +520,7 @@
           (profile.standardizationActivities || []).length,
         );
 
+        renderRdfGraph(profile);
         renderResearchAreas(profile);
         renderResearchSignals(profile, content);
         renderTech(profile);
