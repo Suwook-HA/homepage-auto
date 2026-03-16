@@ -110,6 +110,29 @@
       }
     ]
   },
+  "patentRecords": [
+    {
+      "title": "AI 데이터 품질 평가 및 표준 검증 방법",
+      "region": "KR",
+      "status": "Registered",
+      "patentNumber": "KR10-2025-0012345",
+      "filedAt": "2025-03-10"
+    },
+    {
+      "title": "신뢰가능 AI 전주기 감사 프레임워크",
+      "region": "US",
+      "status": "Filed",
+      "patentNumber": "US18/765,432",
+      "filedAt": "2025-09-18"
+    },
+    {
+      "title": "AI 거버넌스용 이기종 메타데이터 정합 기술",
+      "region": "PCT",
+      "status": "Published",
+      "patentNumber": "WO2026/145678",
+      "filedAt": "2026-01-22"
+    }
+  ],
   "links": [
     {
       "label": "GitHub",

@@ -77,6 +77,9 @@ export default async function HomePage() {
     ...patentYearly.map((item) => Math.max(item.applications, item.registrations)),
     1,
   );
+  const patentRecords = [...profile.patentRecords]
+    .sort((a, b) => b.filedAt.localeCompare(a.filedAt))
+    .slice(0, 12);
 
   return (
     <main className="page">
@@ -269,6 +272,26 @@ export default async function HomePage() {
               </p>
             </article>
           ))}
+        </div>
+
+        <h3 className="patent-record-title">특허 목록</h3>
+        <div className="patent-record-grid">
+          {patentRecords.length === 0 ? (
+            <p className="empty">No patent records configured yet.</p>
+          ) : (
+            patentRecords.map((item) => (
+              <article
+                key={`${item.patentNumber}-${item.filedAt}`}
+                className="patent-record-item"
+              >
+                <p className="item-meta">
+                  {item.region} | {item.status} | {item.patentNumber}
+                </p>
+                <h3>{item.title}</h3>
+                <p className="item-meta">Filed: {formatDate(item.filedAt)}</p>
+              </article>
+            ))
+          )}
         </div>
       </section>
 

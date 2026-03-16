@@ -34,6 +34,7 @@ type FormState = {
   patentInternationalApplications: string;
   patentInternationalRegistrations: string;
   patentYearlyStats: string;
+  patentRecords: string;
   links: string;
   rssFeeds: string;
   youtubeChannels: string;
@@ -119,6 +120,32 @@ function parsePatentYearlyStats(
     }));
 }
 
+function parsePatentRecords(input: string): Array<{
+  title: string;
+  region: string;
+  status: string;
+  patentNumber: string;
+  filedAt: string;
+}> {
+  return parseLines(input)
+    .map((line) => line.split("|"))
+    .map(([title, region, status, patentNumber, filedAt]) => ({
+      title: (title ?? "").trim(),
+      region: (region ?? "").trim(),
+      status: (status ?? "").trim(),
+      patentNumber: (patentNumber ?? "").trim(),
+      filedAt: (filedAt ?? "").trim(),
+    }))
+    .filter(
+      (item) =>
+        item.title &&
+        item.region &&
+        item.status &&
+        item.patentNumber &&
+        item.filedAt,
+    );
+}
+
 function fromProfile(profile: ProfileData): FormState {
   return {
     name: profile.name,
@@ -150,6 +177,12 @@ function fromProfile(profile: ProfileData): FormState {
     patentYearlyStats: profile.patentStats.yearly
       .map((item) => `${item.year}|${item.applications}|${item.registrations}`)
       .join("\n"),
+    patentRecords: profile.patentRecords
+      .map(
+        (item) =>
+          `${item.title}|${item.region}|${item.status}|${item.patentNumber}|${item.filedAt}`,
+      )
+      .join("\n"),
     links: profile.links.map((link) => `${link.label}|${link.url}`).join("\n"),
     rssFeeds: toPairLines(profile.rssFeeds, "url"),
     youtubeChannels: toPairLines(profile.youtubeChannels, "channelId"),
@@ -177,6 +210,7 @@ export function AdminForm({ initialProfile }: Props) {
       photos: parseLines(form.staticPhotoUrls).length,
       areas: parseResearchAreas(form.researchAreas).length,
       patentYears: parsePatentYearlyStats(form.patentYearlyStats).length,
+      patentRecords: parsePatentRecords(form.patentRecords).length,
       relatedTech: parseCSV(form.relatedTechnologies).length,
     };
   }, [
@@ -187,6 +221,7 @@ export function AdminForm({ initialProfile }: Props) {
     form.youtubeChannels,
     form.staticPhotoUrls,
     form.patentYearlyStats,
+    form.patentRecords,
   ]);
 
   function setField<K extends keyof FormState>(key: K, value: FormState[K]) {
@@ -237,6 +272,7 @@ export function AdminForm({ initialProfile }: Props) {
         },
         yearly: parsePatentYearlyStats(form.patentYearlyStats),
       },
+      patentRecords: parsePatentRecords(form.patentRecords),
       links,
       rssFeeds: parsePairs(form.rssFeeds).map((item) => ({
         name: item.name,
@@ -500,6 +536,14 @@ export function AdminForm({ initialProfile }: Props) {
       </label>
 
       <label>
+        Patent Records (one per line: Title|Region|Status|Patent Number|Filed Date)
+        <textarea
+          value={form.patentRecords}
+          onChange={(e) => setField("patentRecords", e.target.value)}
+        />
+      </label>
+
+      <label>
         Research Areas (one per line: Area|Score 0-100)
         <textarea
           value={form.researchAreas}
@@ -606,7 +650,7 @@ export function AdminForm({ initialProfile }: Props) {
         Current parsed config: interests {parsedPreview.interests}, related tech{" "}
         {parsedPreview.relatedTech}, areas {parsedPreview.areas}, feeds{" "}
         {parsedPreview.feeds}, channels {parsedPreview.channels}, patent years{" "}
-        {parsedPreview.patentYears}, photos{" "}
+        {parsedPreview.patentYears}, patent records {parsedPreview.patentRecords}, photos{" "}
         {parsedPreview.photos}
       </p>
 

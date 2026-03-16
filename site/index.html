@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-2" />
+    <link rel="stylesheet" href="./style.css?v=20260316-3" />
   </head>
   <body>
     <main class="page">
@@ -104,6 +104,8 @@
         <p class="hint">Domestic vs International patent pipeline and registration outcomes.</p>
         <div id="patent-summary" class="patent-summary-grid"></div>
         <div id="patent-yearly" class="patent-yearly-chart"></div>
+        <h3 class="patent-record-title">특허 목록</h3>
+        <div id="patent-records" class="patent-record-grid"></div>
       </section>
 
       <section class="card">
@@ -528,8 +530,10 @@
       function renderPatentStatus(profile) {
         const summaryRoot = document.getElementById("patent-summary");
         const yearlyRoot = document.getElementById("patent-yearly");
+        const recordsRoot = document.getElementById("patent-records");
         clearChildren(summaryRoot);
         clearChildren(yearlyRoot);
+        clearChildren(recordsRoot);
 
         const patent = profile.patentStats || {
           domestic: { applications: 0, registrations: 0 },
@@ -635,6 +639,39 @@
           card.appendChild(values);
 
           yearlyRoot.appendChild(card);
+        });
+
+        const records = Array.isArray(profile.patentRecords) ? [...profile.patentRecords] : [];
+        records.sort((a, b) => text(b.filedAt).localeCompare(text(a.filedAt)));
+
+        if (records.length === 0) {
+          const empty = document.createElement("p");
+          empty.className = "empty";
+          empty.textContent = "No patent records configured yet.";
+          recordsRoot.appendChild(empty);
+          return;
+        }
+
+        records.slice(0, 12).forEach((item) => {
+          const card = document.createElement("article");
+          card.className = "patent-record-item";
+
+          const meta = document.createElement("p");
+          meta.className = "item-meta";
+          meta.textContent =
+            text(item.region) + " | " + text(item.status) + " | " + text(item.patentNumber);
+          card.appendChild(meta);
+
+          const title = document.createElement("h3");
+          title.textContent = text(item.title);
+          card.appendChild(title);
+
+          const filed = document.createElement("p");
+          filed.className = "item-meta";
+          filed.textContent = "Filed: " + formatDate(text(item.filedAt));
+          card.appendChild(filed);
+
+          recordsRoot.appendChild(card);
         });
       }
 

@@ -54,6 +54,14 @@ export type PatentStats = {
   yearly: PatentYearlyStat[];
 };
 
+export type PatentRecord = {
+  title: string;
+  region: string;
+  status: string;
+  patentNumber: string;
+  filedAt: string;
+};
+
 export type ProfileData = {
   name: string;
   localName: string;
@@ -73,6 +81,7 @@ export type ProfileData = {
   researchMetrics: ResearchMetrics;
   researchAreas: ResearchArea[];
   patentStats: PatentStats;
+  patentRecords: PatentRecord[];
   links: LinkItem[];
   rssFeeds: RssFeed[];
   youtubeChannels: YoutubeChannel[];

@@ -109,6 +109,29 @@ const defaultProfile: ProfileData = {
       { year: "2026", applications: 18, registrations: 12 },
     ],
   },
+  patentRecords: [
+    {
+      title: "AI Data Quality Evaluation Method for Standardized Benchmarking",
+      region: "KR",
+      status: "Registered",
+      patentNumber: "KR10-2025-0012345",
+      filedAt: "2025-03-10",
+    },
+    {
+      title: "Trustworthy AI Lifecycle Audit Framework",
+      region: "US",
+      status: "Filed",
+      patentNumber: "US18/765,432",
+      filedAt: "2025-09-18",
+    },
+    {
+      title: "Cross-domain Metadata Harmonization for AI Governance",
+      region: "PCT",
+      status: "Published",
+      patentNumber: "WO2026/145678",
+      filedAt: "2026-01-22",
+    },
+  ],
   links: [
     {
       label: "GitHub",
@@ -180,6 +203,10 @@ function normalizeProfile(profile: ProfileData): ProfileData {
           ? profile.patentStats.yearly
           : defaultProfile.patentStats.yearly,
     },
+    patentRecords:
+      profile.patentRecords && profile.patentRecords.length > 0
+        ? profile.patentRecords
+        : defaultProfile.patentRecords,
     autoInterestNews: profile.autoInterestNews ?? {
       enabled: true,
       locale: "ko-KR",
