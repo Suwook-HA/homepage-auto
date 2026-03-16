@@ -11,11 +11,81 @@
       <section class="hero card">
         <p class="eyebrow">IT EXPERT PROFILE</p>
         <h1 id="name">Ha Suwook</h1>
+        <p id="name-local" class="name-local"></p>
         <p id="headline" class="headline"></p>
         <p id="bio"></p>
         <div class="meta">
           <span id="location"></span>
           <a id="website" target="_blank" rel="noopener noreferrer">Website</a>
+        </div>
+      </section>
+
+      <section class="card research-dashboard">
+        <div class="section-header">
+          <h2>Research Intelligence Dashboard</h2>
+          <div class="actions">
+            <a
+              id="scholar-link"
+              class="button secondary"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="display: none"
+              >Google Scholar</a
+            >
+            <a
+              id="profile-link"
+              class="button secondary"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Professional Profile</a
+            >
+          </div>
+        </div>
+        <p id="research-summary" class="hint"></p>
+
+        <div class="metrics-grid">
+          <article class="metric-card">
+            <p class="metric-label">Citations</p>
+            <p id="metric-citations" class="metric-value">0</p>
+          </article>
+          <article class="metric-card">
+            <p class="metric-label">h-index</p>
+            <p id="metric-hindex" class="metric-value">0</p>
+          </article>
+          <article class="metric-card">
+            <p class="metric-label">i10-index</p>
+            <p id="metric-i10index" class="metric-value">0</p>
+          </article>
+          <article class="metric-card">
+            <p class="metric-label">Publications</p>
+            <p id="metric-publications" class="metric-value">0</p>
+          </article>
+          <article class="metric-card">
+            <p class="metric-label">Standardization Tracks</p>
+            <p id="metric-tracks" class="metric-value">0</p>
+          </article>
+        </div>
+
+        <div class="research-viz-grid">
+          <article class="viz-card">
+            <h3>Research Domain Strength</h3>
+            <div id="research-areas" class="domain-chart"></div>
+          </article>
+          <article class="viz-card">
+            <h3>Research Signals</h3>
+            <div id="research-signals" class="signal-chart"></div>
+          </article>
+        </div>
+
+        <div class="research-viz-grid">
+          <article class="viz-card">
+            <h3>Related Technologies</h3>
+            <div id="related-tech" class="tech-cloud"></div>
+          </article>
+          <article class="viz-card">
+            <h3>Standardization Activities</h3>
+            <div id="standardization-activities" class="standards-list"></div>
+          </article>
         </div>
       </section>
 
@@ -71,6 +141,11 @@
         return new Intl.NumberFormat("en-US").format(Number(v) || 0);
       }
 
+      function toSqrtPercent(value, max) {
+        if (!max || value <= 0) return 0;
+        return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
+      }
+
       function card(meta, title, body, link, linkLabel) {
         const article = document.createElement("article");
         article.className = "item";
@@ -101,6 +176,116 @@
         return article;
       }
 
+      function renderResearchAreas(profile) {
+        const root = document.getElementById("research-areas");
+        const areas = Array.isArray(profile.researchAreas) ? profile.researchAreas : [];
+        if (areas.length === 0) {
+          root.textContent = "No research areas configured.";
+          return;
+        }
+        const areaMax = Math.max(...areas.map((item) => Number(item.score) || 0), 1);
+        areas.forEach((area) => {
+          const row = document.createElement("div");
+          row.className = "domain-row";
+
+          const head = document.createElement("div");
+          head.className = "domain-head";
+          const left = document.createElement("span");
+          left.textContent = text(area.name);
+          const right = document.createElement("span");
+          right.textContent = String(Number(area.score) || 0);
+          head.appendChild(left);
+          head.appendChild(right);
+
+          const track = document.createElement("div");
+          track.className = "domain-track";
+          const fill = document.createElement("span");
+          fill.className = "domain-fill";
+          fill.style.width =
+            Math.max(0, Math.min(100, Math.round(((Number(area.score) || 0) / areaMax) * 100))) +
+            "%";
+          track.appendChild(fill);
+
+          row.appendChild(head);
+          row.appendChild(track);
+          root.appendChild(row);
+        });
+      }
+
+      function renderResearchSignals(profile, content) {
+        const root = document.getElementById("research-signals");
+        const metrics = profile.researchMetrics || {};
+        const signals = [
+          { label: "Citations", value: Number(metrics.citations) || 0 },
+          { label: "Publications", value: Number(metrics.publications) || 0 },
+          { label: "Top Projects", value: (content.projects || []).length },
+          { label: "Ranked Articles", value: (content.articles || []).length },
+          { label: "Top Videos", value: (content.videos || []).length },
+        ];
+        const max = Math.max(...signals.map((item) => item.value), 1);
+
+        signals.forEach((item) => {
+          const col = document.createElement("div");
+          col.className = "signal-column";
+
+          const bar = document.createElement("span");
+          bar.className = "signal-bar";
+          bar.style.height = Math.max(10, toSqrtPercent(item.value, max)) + "%";
+
+          const value = document.createElement("span");
+          value.className = "signal-value";
+          value.textContent = number(item.value);
+
+          const label = document.createElement("span");
+          label.className = "signal-label";
+          label.textContent = item.label;
+
+          col.appendChild(bar);
+          col.appendChild(value);
+          col.appendChild(label);
+          root.appendChild(col);
+        });
+      }
+
+      function renderTech(profile) {
+        const root = document.getElementById("related-tech");
+        const tech = Array.isArray(profile.relatedTechnologies) ? profile.relatedTechnologies : [];
+        if (tech.length === 0) {
+          root.textContent = "No related technologies configured.";
+          return;
+        }
+        tech.forEach((item, index) => {
+          const span = document.createElement("span");
+          span.className = "tech-pill";
+          span.textContent = text(item);
+          span.style.fontSize = 1 + (index % 4) * 0.12 + "rem";
+          root.appendChild(span);
+        });
+      }
+
+      function renderActivities(profile) {
+        const root = document.getElementById("standardization-activities");
+        const activities = Array.isArray(profile.standardizationActivities)
+          ? profile.standardizationActivities
+          : [];
+        if (activities.length === 0) {
+          root.textContent = "No standardization activities configured.";
+          return;
+        }
+        activities.forEach((item, index) => {
+          const row = document.createElement("div");
+          row.className = "standard-item";
+          const idx = document.createElement("span");
+          idx.className = "standard-index";
+          idx.textContent = String(index + 1).padStart(2, "0");
+          const txt = document.createElement("span");
+          txt.textContent = text(item);
+          row.appendChild(idx);
+          row.appendChild(txt);
+          root.appendChild(row);
+        });
+      }
+
       async function load() {
         const [profileRes, contentRes, promotionRes] = await Promise.all([
           fetch("./data/profile.json"),
@@ -111,14 +296,48 @@
         const profile = await profileRes.json();
         const content = await contentRes.json();
         const promotion = await promotionRes.json();
+        const metrics = profile.researchMetrics || {};
 
-        document.getElementById("name").textContent = text(profile.name) || "Ha Suwook";
+        const name = text(profile.name) || "Ha Suwook";
+        const localName = text(profile.localName);
+
+        document.getElementById("name").textContent = name;
+        document.getElementById("name-local").textContent = localName
+          ? name + " | " + localName
+          : name;
         document.getElementById("headline").textContent = text(profile.headline);
         document.getElementById("bio").textContent = text(profile.bio);
+        document.getElementById("research-summary").textContent =
+          text(profile.researchSummary) || text(profile.bio);
         document.getElementById("location").textContent = text(profile.location);
+
+        const websiteUrl = text(profile.website) || "https://github.com/Suwook-HA";
         const website = document.getElementById("website");
-        website.href = text(profile.website) || "https://github.com/Suwook-HA";
+        website.href = websiteUrl;
         website.textContent = "Website";
+
+        const profileLink = document.getElementById("profile-link");
+        profileLink.href = websiteUrl;
+
+        const scholarUrl = text(profile.googleScholarUrl);
+        if (scholarUrl) {
+          const scholar = document.getElementById("scholar-link");
+          scholar.href = scholarUrl;
+          scholar.style.display = "inline-flex";
+        }
+
+        document.getElementById("metric-citations").textContent = number(metrics.citations);
+        document.getElementById("metric-hindex").textContent = number(metrics.hIndex);
+        document.getElementById("metric-i10index").textContent = number(metrics.i10Index);
+        document.getElementById("metric-publications").textContent = number(metrics.publications);
+        document.getElementById("metric-tracks").textContent = number(
+          (profile.standardizationActivities || []).length,
+        );
+
+        renderResearchAreas(profile);
+        renderResearchSignals(profile, content);
+        renderTech(profile);
+        renderActivities(profile);
 
         document.getElementById("highlight-updated").textContent =
           "Updated from curated public sources: " + (text(promotion.updatedAt) || "N/A");
