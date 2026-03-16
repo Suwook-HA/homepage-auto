@@ -516,10 +516,11 @@
       }
 
       async function load() {
+        const cacheBust = "ts=" + Date.now();
         const [profileRes, contentRes, promotionRes] = await Promise.all([
-          fetch("./data/profile.json"),
-          fetch("./data/content.json"),
-          fetch("./data/promotion-highlights.json"),
+          fetch("./data/profile.json?" + cacheBust, { cache: "no-store" }),
+          fetch("./data/content.json?" + cacheBust, { cache: "no-store" }),
+          fetch("./data/promotion-highlights.json?" + cacheBust, { cache: "no-store" }),
         ]);
 
         const profile = await profileRes.json();
