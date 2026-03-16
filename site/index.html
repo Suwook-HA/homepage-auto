@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-4" />
+    <link rel="stylesheet" href="./style.css?v=20260316-5" />
   </head>
   <body>
     <main class="page">
@@ -135,6 +135,67 @@
         </div>
       </section>
 
+      <section class="credibility-strip" aria-label="Professional credibility signals">
+        <article class="cred-card">
+          <span class="cred-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="12" cy="12" r="8.5"></circle>
+              <path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path>
+            </svg>
+          </span>
+          <div class="cred-copy">
+            <p class="cred-label">Institution</p>
+            <strong id="cred-org" class="cred-value">ETRI</strong>
+            <p id="cred-role" class="cred-note"></p>
+          </div>
+          <a id="cred-org-link" class="cred-link" target="_blank" rel="noopener noreferrer">Open Profile</a>
+        </article>
+        <article class="cred-card">
+          <span class="cred-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="6" cy="12" r="2.5"></circle>
+              <circle cx="18" cy="6" r="2.5"></circle>
+              <circle cx="18" cy="18" r="2.5"></circle>
+              <path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path>
+            </svg>
+          </span>
+          <div class="cred-copy">
+            <p class="cred-label">Scholar Impact</p>
+            <strong id="cred-scholar" class="cred-value">0 citations</strong>
+            <p id="cred-scholar-note" class="cred-note"></p>
+          </div>
+          <a id="cred-scholar-link" class="cred-link" target="_blank" rel="noopener noreferrer">Scholar</a>
+        </article>
+        <article class="cred-card">
+          <span class="cred-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="7" y="7" width="10" height="10" rx="2"></rect>
+              <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path>
+            </svg>
+          </span>
+          <div class="cred-copy">
+            <p class="cred-label">Open Source</p>
+            <strong id="cred-github" class="cred-value">Suwook-HA</strong>
+            <p id="cred-github-note" class="cred-note"></p>
+          </div>
+          <a id="cred-github-link" class="cred-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </article>
+        <article class="cred-card">
+          <span class="cred-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path>
+              <path d="m9.1 12.3 2 2 3.8-4.5"></path>
+            </svg>
+          </span>
+          <div class="cred-copy">
+            <p class="cred-label">Patent Portfolio</p>
+            <strong id="cred-patent" class="cred-value">0</strong>
+            <p id="cred-patent-note" class="cred-note"></p>
+          </div>
+          <span class="cred-link passive">Verified</span>
+        </article>
+      </section>
+
       <section class="card research-dashboard">
         <div class="section-header">
           <h2>Research Intelligence Dashboard</h2>
@@ -223,7 +284,7 @@
         <div id="patent-records" class="patent-record-grid"></div>
       </section>
 
-      <section class="card">
+      <section class="card content-section highlight-section">
         <div class="section-header">
           <h2>Professional Highlights</h2>
           <span class="tag">Verified Links</span>
@@ -232,19 +293,19 @@
         <div id="highlights" class="grid"></div>
       </section>
 
-      <section class="card">
+      <section class="card content-section projects-section">
         <h2>GitHub Projects</h2>
         <div id="projects" class="grid"></div>
       </section>
 
-      <section class="card">
+      <section class="card content-section articles-section">
         <h2>IT Standardization Articles (Top 8)</h2>
         <div id="articles" class="grid"></div>
       </section>
 
-      <section class="card">
+      <section class="card content-section videos-section">
         <h2>AI / IT Industry / Latest Tech News Videos (Top 8)</h2>
-        <div id="videos" class="grid"></div>
+        <div id="videos" class="video-grid"></div>
       </section>
 
       <section class="card">
@@ -317,9 +378,9 @@
         };
       }
 
-      function card(meta, title, body, link, linkLabel) {
+      function card(meta, title, body, link, linkLabel, extraClass) {
         const article = document.createElement("article");
-        article.className = "item";
+        article.className = extraClass ? "item " + extraClass : "item";
         if (meta) {
           const p = document.createElement("p");
           p.className = "item-meta";
@@ -344,6 +405,47 @@
           a.textContent = linkLabel || "Open";
           article.appendChild(a);
         }
+        return article;
+      }
+
+      function videoCard(item, index) {
+        const article = document.createElement("article");
+        article.className = index === 0 ? "video-item feature-video" : "video-item";
+
+        if (text(item.thumbnail)) {
+          const img = document.createElement("img");
+          img.className = "thumb";
+          img.src = text(item.thumbnail);
+          img.alt = text(item.title) || "video";
+          img.loading = "lazy";
+          article.appendChild(img);
+        }
+
+        const body = document.createElement("div");
+        body.className = "video-body";
+
+        const meta = document.createElement("p");
+        meta.className = "item-meta";
+        meta.textContent = [
+          "#" + (index + 1),
+          text(item.channel),
+          "views " + number(item.viewCount),
+          formatDate(item.publishedAt),
+        ]
+          .filter(Boolean)
+          .join(" | ");
+        body.appendChild(meta);
+
+        const title = document.createElement("h3");
+        const link = document.createElement("a");
+        link.href = text(item.url);
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = text(item.title);
+        title.appendChild(link);
+        body.appendChild(title);
+
+        article.appendChild(body);
         return article;
       }
 
@@ -375,6 +477,45 @@
           float.textContent = compactLabel(label, 26);
           floatsRoot.appendChild(float);
         });
+      }
+
+      function renderCredibility(profile, content) {
+        const metrics = profile.researchMetrics || {};
+        const org = text(profile.location).split(",")[0].trim() || "ETRI";
+        const patent = profile.patentStats || {
+          domestic: { applications: 0, registrations: 0 },
+          international: { applications: 0, registrations: 0 },
+        };
+        const patentAssets =
+          (Number(patent.domestic?.applications) || 0) +
+          (Number(patent.domestic?.registrations) || 0) +
+          (Number(patent.international?.applications) || 0) +
+          (Number(patent.international?.registrations) || 0);
+
+        document.getElementById("cred-org").textContent = org;
+        document.getElementById("cred-role").textContent = text(profile.headline);
+        document.getElementById("cred-org-link").href =
+          text(profile.website) || "https://www.etri.re.kr";
+
+        document.getElementById("cred-scholar").textContent = number(metrics.citations) + " citations";
+        document.getElementById("cred-scholar-note").textContent =
+          "h-index " + number(metrics.hIndex) + " | i10 " + number(metrics.i10Index);
+        const scholarLink = document.getElementById("cred-scholar-link");
+        const scholarUrl = text(profile.googleScholarUrl);
+        scholarLink.href = scholarUrl || text(profile.website) || "https://scholar.google.com/";
+
+        document.getElementById("cred-github").textContent = text(profile.githubUsername) || "GitHub";
+        document.getElementById("cred-github-note").textContent =
+          number((content.projects || []).length) + " ranked repositories";
+        document.getElementById("cred-github-link").href =
+          "https://github.com/" + (text(profile.githubUsername) || "Suwook-HA");
+
+        document.getElementById("cred-patent").textContent = number(patentAssets);
+        document.getElementById("cred-patent-note").textContent =
+          "KR " +
+          number((Number(patent.domestic?.applications) || 0) + (Number(patent.domestic?.registrations) || 0)) +
+          " | Global " +
+          number((Number(patent.international?.applications) || 0) + (Number(patent.international?.registrations) || 0));
       }
 
       function renderRdfGraph(profile) {
@@ -910,6 +1051,7 @@
         document.getElementById("hero-patents").textContent = number(patentAssets);
 
         renderHero(profile);
+        renderCredibility(profile, content);
         renderRdfGraph(profile);
         renderResearchAreas(profile);
         renderResearchSignals(profile, content);
@@ -949,7 +1091,7 @@
         });
 
         const articles = document.getElementById("articles");
-        (content.articles || []).slice(0, 8).forEach((item) => {
+        (content.articles || []).slice(0, 8).forEach((item, index) => {
           articles.appendChild(
             card(
               ["#" + (item.rank || ""), text(item.source), formatDate(item.publishedAt)]
@@ -959,28 +1101,14 @@
               text(item.summary),
               text(item.url),
               "Read Article",
+              index === 0 ? "feature-item" : "",
             ),
           );
         });
 
         const videos = document.getElementById("videos");
         (content.videos || []).slice(0, 8).forEach((item, index) => {
-          videos.appendChild(
-            card(
-              [
-                "#" + (index + 1),
-                text(item.channel),
-                "views " + number(item.viewCount),
-                formatDate(item.publishedAt),
-              ]
-                .filter(Boolean)
-                .join(" | "),
-              text(item.title),
-              "",
-              text(item.url),
-              "Watch",
-            ),
-          );
+          videos.appendChild(videoCard(item, index));
         });
 
         const photos = document.getElementById("photos");

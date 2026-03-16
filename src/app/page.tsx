@@ -168,6 +168,40 @@ export default async function HomePage() {
     profile.standardizationActivities[0] ?? "ISO/IEC SC 42",
     profile.relatedTechnologies[1] ?? "Trustworthy AI",
   ];
+  const credibilitySignals = [
+    {
+      label: "Institution",
+      value: organization,
+      note: profile.headline,
+      href: profile.website,
+      linkLabel: "Open Profile",
+      kind: "globe" as const,
+    },
+    {
+      label: "Scholar Impact",
+      value: `${formatNumber(profile.researchMetrics.citations)} citations`,
+      note: `h-index ${formatNumber(profile.researchMetrics.hIndex)} | i10 ${formatNumber(profile.researchMetrics.i10Index)}`,
+      href: profile.googleScholarUrl,
+      linkLabel: "Scholar",
+      kind: "mesh" as const,
+    },
+    {
+      label: "Open Source",
+      value: profile.githubUsername,
+      note: `${formatNumber(content.projects.length)} ranked repositories`,
+      href: `https://github.com/${profile.githubUsername}`,
+      linkLabel: "GitHub",
+      kind: "chip" as const,
+    },
+    {
+      label: "Patent Portfolio",
+      value: formatNumber(patentAssetTotal),
+      note: `KR ${formatNumber(profile.patentStats.domestic.applications + profile.patentStats.domestic.registrations)} | Global ${formatNumber(profile.patentStats.international.applications + profile.patentStats.international.registrations)}`,
+      href: null,
+      linkLabel: null,
+      kind: "shield" as const,
+    },
+  ];
 
   return (
     <main className="page">
@@ -284,6 +318,28 @@ export default async function HomePage() {
             </div>
           </div>
         </div>
+      </section>
+
+      <section className="credibility-strip" aria-label="Professional credibility signals">
+        {credibilitySignals.map((item) => (
+          <article key={item.label} className="cred-card">
+            <span className="cred-icon">
+              <InsightGlyph kind={item.kind} />
+            </span>
+            <div className="cred-copy">
+              <p className="cred-label">{item.label}</p>
+              <strong className="cred-value">{item.value}</strong>
+              <p className="cred-note">{item.note}</p>
+            </div>
+            {item.href && item.linkLabel ? (
+              <Link className="cred-link" href={item.href} target="_blank">
+                {item.linkLabel}
+              </Link>
+            ) : (
+              <span className="cred-link passive">Verified</span>
+            )}
+          </article>
+        ))}
       </section>
 
       <section className="card research-dashboard">
@@ -469,7 +525,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card spotlight">
+      <section className="card spotlight content-section highlight-section">
         <div className="section-header">
           <h2>Professional Highlights</h2>
           <span className="tag">Verified Links</span>
@@ -492,7 +548,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card">
+      <section className="card content-section projects-section">
         <h2>Refresh Status</h2>
         <p className="hint">
           Cached now: articles {status.counts.articles}, videos {status.counts.videos},
@@ -508,7 +564,7 @@ export default async function HomePage() {
         )}
       </section>
 
-      <section className="card">
+      <section className="card content-section articles-section">
         <h2>GitHub Projects ({profile.githubUsername})</h2>
         <div className="grid">
           {content.projects.length === 0 ? (
@@ -544,8 +600,8 @@ export default async function HomePage() {
           {content.articles.length === 0 ? (
             <p className="empty">No ranked articles collected yet.</p>
           ) : (
-            content.articles.slice(0, 8).map((article) => (
-              <article key={article.id} className="item">
+            content.articles.slice(0, 8).map((article, index) => (
+              <article key={article.id} className={index === 0 ? "item feature-item" : "item"}>
                 <p className="item-meta">
                   #{article.rank} | {article.source} | {formatDate(article.publishedAt)}
                 </p>
@@ -561,7 +617,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card">
+      <section className="card content-section videos-section">
         <h2>AI / IT Industry / Latest Tech News Videos (Top 8 by Views)</h2>
         {!hasVideoViews ? (
           <p className="hint">Set YOUTUBE_API_KEY to enable true view-count ranking.</p>
@@ -571,7 +627,10 @@ export default async function HomePage() {
             <p className="empty">No ranked videos collected yet.</p>
           ) : (
             content.videos.slice(0, 8).map((video, index) => (
-              <article key={video.id} className="video-item">
+              <article
+                key={video.id}
+                className={index === 0 ? "video-item feature-video" : "video-item"}
+              >
                 {video.thumbnail ? (
                   <Image
                     src={video.thumbnail}
