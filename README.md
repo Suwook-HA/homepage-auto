@@ -7,13 +7,12 @@ Next.js template for a personal homepage with automatic content refresh.
 - Profile management UI: `/admin`
 - Periodic content refresh:
   - IT standardization article ranking (Top 10)
-  - AI/standardization/latest-tech video ranking (Top 10 by views with relevance filtering)
+  - AI/standardization/latest-tech video ranking (Top 10 by views)
   - GitHub projects from profile user (Top 10)
-  - Photos (Google Photos Picker selection + keyword filter)
-- Curated professional highlight cards from verified web sources
-- Refresh status endpoint and run logs
-- Cron workflow for unattended refresh
-- Optional admin authentication with session cookies
+  - Photos from Google Photos Picker selections
+- Research dashboard with visual analytics
+- GitHub Pages deployment (read-only public view)
+- Optional admin authentication and cron security
 
 ## Quick Start
 
@@ -24,49 +23,9 @@ npm run dev
 
 Open: `http://localhost:3000`
 
-## Publish with GitHub
-
-This app uses Next.js API routes, OAuth callbacks, and writable JSON data files.
-Because of that, GitHub Pages is not suitable for full-feature deployment.
-
-Recommended production path:
-
-1. Keep source in GitHub.
-2. Connect the GitHub repo to a Node.js host (Render, Railway, Fly.io, VM, etc.).
-3. Set build and start commands:
-   - Build: `npm ci && npm run build`
-   - Start: `npm run start`
-4. Mount a persistent volume and set `DATA_DIR` to that mount path.
-5. Add environment variables from `.env.example`.
-6. If using Google Photos Picker, register OAuth redirect URI:
-   - `https://<your-domain>/api/google-photos/oauth/callback`
-
-Render quick example (GitHub auto-deploy):
-
-- New Web Service -> Connect repo `Suwook-HA/homepage-auto`
-- Runtime: Node
-- Build command: `npm ci && npm run build`
-- Start command: `npm run start`
-- Persistent disk mount path: `/var/data`
-- Environment variable: `DATA_DIR=/var/data`
-
-## GitHub Pages (Read-only Public View)
-
-This repository also includes a GitHub Pages deployment workflow:
-
-- Workflow: `.github/workflows/deploy-pages.yml`
-- Build command: `npm run build:pages`
-- Output: `pages-dist/`
-
-Important limits on GitHub Pages:
-
-- Admin/API endpoints do not run (`/admin`, `/api/*`)
-- Google Photos OAuth callback does not run
-- This mode is for public profile view only (read-only snapshot from `data/*.json`)
-
 ## Admin Access
 
-Set these values in `.env.local` to enable admin login protection:
+Set these values in `.env.local`:
 
 ```bash
 ADMIN_PASSWORD=your-strong-password
@@ -74,45 +33,61 @@ ADMIN_SESSION_SECRET=long-random-secret
 ADMIN_SESSION_HOURS=24
 ```
 
-Then use:
-
-- Login page: `/admin/login`
-- Protected admin page: `/admin`
-
 If `ADMIN_PASSWORD` is empty, admin auth is disabled.
 
 ## Refresh Security
 
-Manual refresh and profile updates require admin session.
-
-For cron-driven refresh, configure:
+For API-based cron refresh:
 
 ```bash
 CRON_SECRET=change-me
 ```
 
-Call refresh endpoint:
+Endpoint:
 
 ```bash
 POST /api/refresh?trigger=cron
 Header: x-cron-secret: <CRON_SECRET>
 ```
 
-## GitHub Actions Cron
+## GitHub Pages (Read-only Public View)
 
-Workflow file: `.github/workflows/refresh-content.yml`
+Workflow: `.github/workflows/deploy-pages.yml`
 
-Required repository secrets:
+- Build command: `npm run build:pages`
+- Output artifact: `pages-dist/`
 
-- `HOMEPAGE_URL` (example: `https://your-domain.com`)
-- `CRON_SECRET` (recommended)
+Limits on GitHub Pages:
 
-Default schedule: every 3 hours.
+- No `/admin` runtime
+- No `/api/*` runtime
+- No Google OAuth callback runtime
 
-Notes:
+## Daily Auto Refresh (GitHub Actions)
 
-- If `HOMEPAGE_URL` is not set, the workflow exits with `success` and skips refresh.
-- If `HOMEPAGE_URL` points to `github.io`, refresh is skipped because GitHub Pages has no `/api/refresh` endpoint.
+Workflow: `.github/workflows/refresh-content.yml`
+
+Schedule:
+
+- Once per day at `00:00 UTC` (`09:00 KST`)
+
+Required/Recommended repository secrets:
+
+- `HOMEPAGE_URL` (optional, for server/API mode)
+- `CRON_SECRET` (recommended when using API mode)
+- `YOUTUBE_API_KEY` (recommended for static mode video ranking)
+- `GITHUB_TOKEN` (optional for static mode GitHub API rate limit)
+
+Mode behavior:
+
+- API mode:
+  - If `HOMEPAGE_URL` is set to non-`github.io`, workflow calls `/api/refresh`.
+- Static mode:
+  - If `HOMEPAGE_URL` is empty or points to `github.io`
+  - Runs `npm run refresh:static`
+  - Updates `data/content.json`
+  - Auto-commits refreshed data
+  - Builds and deploys GitHub Pages in the same workflow run
 
 ## Google Photos Picker (Optional)
 
@@ -131,13 +106,8 @@ How to use:
 Notes:
 
 - `filterKeyword` is matched against picked file names
-- Picker mode uses user-selected items, not full-library crawling
-
-Keyword filtering:
-
 - Photos are filtered by `googlePhotos.filterKeyword` (default: `하수욱`)
-- Match is based on picked item `filename`
-- Google Photos APIs do not expose direct face-name search in this app
+- Picker mode uses selected items (no full-library crawl)
 
 ## Ranking APIs (Optional but Recommended)
 
@@ -146,8 +116,8 @@ YOUTUBE_API_KEY=
 GITHUB_TOKEN=
 ```
 
-- `YOUTUBE_API_KEY`: required for robust view-count sorting on videos
-- `GITHUB_TOKEN`: optional, improves GitHub API rate limits
+- `YOUTUBE_API_KEY`: enables robust video relevance + view sorting
+- `GITHUB_TOKEN`: improves GitHub API rate limits
 
 ## API Endpoints
 
@@ -166,12 +136,19 @@ GITHUB_TOKEN=
 - Main files:
   - `profile.json`
   - `content.json`
-  - `refresh-log.json` (stores last 100 runs)
+  - `refresh-log.json`
   - `promotion-highlights.json`
-  - `google-photos-oauth.json` (created after OAuth)
-  - `google-photos-picked.json` (created after Picker import)
+  - `google-photos-oauth.json`
+  - `google-photos-picked.json`
 
-## Manual Refresh Script
+## Utility Scripts
+
+```bash
+npm run build:pages
+npm run refresh:static
+```
+
+PowerShell manual API refresh:
 
 ```powershell
 ./scripts/refresh.ps1 -BaseUrl "https://your-domain.com" -Secret "your-secret"
