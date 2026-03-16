@@ -13,7 +13,11 @@ import type {
 
 const parser = new Parser();
 const MAX_ARTICLES = 8;
+const MIN_ARTICLES = 6;
 const ARTICLE_WINDOW_DAYS = 4;
+const ARTICLE_BACKFILL_WINDOWS = [7, 14, 30] as const;
+const ARTICLE_FETCH_WINDOW_DAYS = ARTICLE_BACKFILL_WINDOWS[ARTICLE_BACKFILL_WINDOWS.length - 1];
+const ARTICLE_ITEMS_PER_FEED = 20;
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
@@ -193,14 +197,18 @@ function dedupeByUrl<T extends { url: string }>(items: T[]): T[] {
   return [...map.values()];
 }
 
-function articleWindowStartMs(nowMs = Date.now()): number {
-  return nowMs - ARTICLE_WINDOW_DAYS * 86_400_000;
+function articleWindowStartMs(windowDays: number, nowMs = Date.now()): number {
+  return nowMs - windowDays * 86_400_000;
 }
 
-function isWithinArticleWindow(publishedAt: string, nowMs = Date.now()): boolean {
+function isWithinArticleWindow(
+  publishedAt: string,
+  windowDays = ARTICLE_WINDOW_DAYS,
+  nowMs = Date.now(),
+): boolean {
   const publishedMs = new Date(publishedAt).getTime();
   if (Number.isNaN(publishedMs)) return false;
-  return publishedMs >= articleWindowStartMs(nowMs) && publishedMs <= nowMs;
+  return publishedMs >= articleWindowStartMs(windowDays, nowMs) && publishedMs <= nowMs;
 }
 
 function parseLocale(locale: string): { lang: string; country: string } {
@@ -472,7 +480,7 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
 
   const feeds = queries.map((query) => {
     const encoded = encodeURIComponent(
-      `${query} IT standardization OR AI standard when:${ARTICLE_WINDOW_DAYS}d`,
+      `${query} IT standardization OR AI standard when:${ARTICLE_FETCH_WINDOW_DAYS}d`,
     );
     return {
       source: `Google News: ${query}`,
@@ -483,7 +491,7 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
   const jobs = feeds.map(async (feed) => {
     try {
       const parsed = await parser.parseURL(feed.url);
-      return parsed.items.slice(0, 8).map((item) => {
+      return parsed.items.slice(0, ARTICLE_ITEMS_PER_FEED).map((item) => {
         const title = toText(item.title) || "Untitled";
         const url = toText(item.link);
         const summary = clip(
@@ -506,18 +514,37 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
     }
   });
 
-  const all = (await Promise.all(jobs))
+  const allCandidates = (await Promise.all(jobs))
     .flat()
-    .filter((item) => item.url)
-    .filter((item) => isWithinArticleWindow(item.publishedAt));
-  const deduped = dedupeArticlesByContent(all);
-  return deduped
-    .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, MAX_ARTICLES)
-    .map((item, index) => ({
-      ...item,
-      rank: index + 1,
-    }));
+    .filter((item) => item.url);
+
+  function rankArticles(items: ArticleItem[]): ArticleItem[] {
+    return dedupeArticlesByContent(items)
+      .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
+      .slice(0, MAX_ARTICLES)
+      .map((item, index) => ({
+        ...item,
+        rank: index + 1,
+      }));
+  }
+
+  const primary = rankArticles(
+    allCandidates.filter((item) => isWithinArticleWindow(item.publishedAt, ARTICLE_WINDOW_DAYS)),
+  );
+  if (primary.length >= MIN_ARTICLES) {
+    return primary;
+  }
+
+  for (const windowDays of ARTICLE_BACKFILL_WINDOWS) {
+    const widened = rankArticles(
+      allCandidates.filter((item) => isWithinArticleWindow(item.publishedAt, windowDays)),
+    );
+    if (widened.length >= MIN_ARTICLES) {
+      return widened;
+    }
+  }
+
+  return primary;
 }
 
 async function fetchVideosByYouTubeApi(profile: ProfileData): Promise<VideoItem[]> {

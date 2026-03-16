@@ -11,6 +11,7 @@ import {
 import type { ContentData, RefreshTrigger } from "@/lib/types";
 
 let refreshInFlight: Promise<ContentData> | null = null;
+const MIN_ARTICLES = 6;
 
 function needsRefresh(content: ContentData, refreshIntervalMinutes: number): boolean {
   if (!content.updatedAt) return true;
@@ -59,9 +60,14 @@ export async function refreshContent(options: RefreshOptions = {}): Promise<Cont
         fetchProjects(profile),
       ]);
 
+      const nextArticles =
+        articles.length >= MIN_ARTICLES || existing.articles.length < MIN_ARTICLES
+          ? articles
+          : existing.articles;
+
       const content: ContentData = {
         updatedAt: new Date().toISOString(),
-        articles,
+        articles: nextArticles,
         videos,
         photos,
         projects,

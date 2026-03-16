@@ -6,7 +6,11 @@ import Parser from "rss-parser";
 
 const parser = new Parser();
 const MAX_ARTICLES = 8;
+const MIN_ARTICLES = 6;
 const ARTICLE_WINDOW_DAYS = 4;
+const ARTICLE_BACKFILL_WINDOWS = [7, 14, 30];
+const ARTICLE_FETCH_WINDOW_DAYS = ARTICLE_BACKFILL_WINDOWS[ARTICLE_BACKFILL_WINDOWS.length - 1];
+const ARTICLE_ITEMS_PER_FEED = 20;
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
@@ -151,14 +155,14 @@ function dedupeByUrl(items) {
   return [...map.values()];
 }
 
-function articleWindowStartMs(nowMs = Date.now()) {
-  return nowMs - ARTICLE_WINDOW_DAYS * 86_400_000;
+function articleWindowStartMs(windowDays, nowMs = Date.now()) {
+  return nowMs - windowDays * 86_400_000;
 }
 
-function isWithinArticleWindow(publishedAt, nowMs = Date.now()) {
+function isWithinArticleWindow(publishedAt, windowDays = ARTICLE_WINDOW_DAYS, nowMs = Date.now()) {
   const publishedMs = new Date(publishedAt).getTime();
   if (Number.isNaN(publishedMs)) return false;
-  return publishedMs >= articleWindowStartMs(nowMs) && publishedMs <= nowMs;
+  return publishedMs >= articleWindowStartMs(windowDays, nowMs) && publishedMs <= nowMs;
 }
 
 function parseLocale(locale) {
@@ -332,7 +336,7 @@ async function fetchArticles(profile) {
 
   const feeds = queries.map((query) => {
     const encoded = encodeURIComponent(
-      `${query} IT standardization OR AI standard when:${ARTICLE_WINDOW_DAYS}d`,
+      `${query} IT standardization OR AI standard when:${ARTICLE_FETCH_WINDOW_DAYS}d`,
     );
     return {
       source: `Google News: ${query}`,
@@ -343,7 +347,7 @@ async function fetchArticles(profile) {
   const jobs = feeds.map(async (feed) => {
     try {
       const parsed = await parser.parseURL(feed.url);
-      return (parsed.items ?? []).slice(0, 8).map((item) => {
+      return (parsed.items ?? []).slice(0, ARTICLE_ITEMS_PER_FEED).map((item) => {
         const title = toText(item?.title) || "Untitled";
         const url = toText(item?.link);
         const summary = clip(
@@ -366,18 +370,37 @@ async function fetchArticles(profile) {
     }
   });
 
-  const all = (await Promise.all(jobs))
+  const allCandidates = (await Promise.all(jobs))
     .flat()
-    .filter((item) => item.url)
-    .filter((item) => isWithinArticleWindow(item.publishedAt));
-  const deduped = dedupeArticlesByContent(all);
-  return deduped
-    .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, MAX_ARTICLES)
-    .map((item, index) => ({
-      ...item,
-      rank: index + 1,
-    }));
+    .filter((item) => item.url);
+
+  function rankArticles(items) {
+    return dedupeArticlesByContent(items)
+      .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
+      .slice(0, MAX_ARTICLES)
+      .map((item, index) => ({
+        ...item,
+        rank: index + 1,
+      }));
+  }
+
+  const primary = rankArticles(
+    allCandidates.filter((item) => isWithinArticleWindow(item.publishedAt, ARTICLE_WINDOW_DAYS)),
+  );
+  if (primary.length >= MIN_ARTICLES) {
+    return primary;
+  }
+
+  for (const windowDays of ARTICLE_BACKFILL_WINDOWS) {
+    const widened = rankArticles(
+      allCandidates.filter((item) => isWithinArticleWindow(item.publishedAt, windowDays)),
+    );
+    if (widened.length >= MIN_ARTICLES) {
+      return widened;
+    }
+  }
+
+  return primary;
 }
 
 function buildVideoChannels(profile) {
@@ -628,15 +651,35 @@ function normalizeArticleItems(items) {
       rank: Number(item?.rank ?? 0),
     }))
     .filter((item) => item.url)
-    .filter((item) => isWithinArticleWindow(item.publishedAt));
+    .filter((item) => isWithinArticleWindow(item.publishedAt, ARTICLE_FETCH_WINDOW_DAYS));
 
-  return dedupeArticlesByContent(normalized)
-    .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, MAX_ARTICLES)
-    .map((item, index) => ({
-      ...item,
-      rank: index + 1,
-    }));
+  function rankArticles(list) {
+    return dedupeArticlesByContent(list)
+      .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
+      .slice(0, MAX_ARTICLES)
+      .map((item, index) => ({
+        ...item,
+        rank: index + 1,
+      }));
+  }
+
+  const primary = rankArticles(
+    normalized.filter((item) => isWithinArticleWindow(item.publishedAt, ARTICLE_WINDOW_DAYS)),
+  );
+  if (primary.length >= MIN_ARTICLES) {
+    return primary;
+  }
+
+  for (const windowDays of ARTICLE_BACKFILL_WINDOWS) {
+    const widened = rankArticles(
+      normalized.filter((item) => isWithinArticleWindow(item.publishedAt, windowDays)),
+    );
+    if (widened.length >= MIN_ARTICLES) {
+      return widened;
+    }
+  }
+
+  return primary;
 }
 
 function normalizeVideoItems(items, profile) {
@@ -705,12 +748,22 @@ async function fetchProjects(profile) {
     }));
 }
 
-async function safeFetch(label, fetcher, fallback) {
+async function safeFetch(label, fetcher, fallback, minCount = 1) {
   try {
     const result = await fetcher();
     if (!Array.isArray(result)) return fallback;
     if (result.length === 0 && Array.isArray(fallback) && fallback.length > 0) {
       console.log(`${label}: fetched 0 items, keep existing ${fallback.length} items`);
+      return fallback;
+    }
+    if (
+      result.length < minCount &&
+      Array.isArray(fallback) &&
+      fallback.length >= minCount
+    ) {
+      console.log(
+        `${label}: fetched ${result.length} items (<${minCount}), keep existing ${fallback.length} items`,
+      );
       return fallback;
     }
     console.log(`${label}: fetched ${result.length} items`);
@@ -738,7 +791,7 @@ async function main() {
   const fallbackProjects = Array.isArray(existing.projects) ? existing.projects : [];
 
   const [articles, videos, projects] = await Promise.all([
-    safeFetch("articles", () => fetchArticles(profile), fallbackArticles),
+    safeFetch("articles", () => fetchArticles(profile), fallbackArticles, MIN_ARTICLES),
     safeFetch("videos", () => fetchVideos(profile), fallbackVideos),
     safeFetch("projects", () => fetchProjects(profile), fallbackProjects),
   ]);
