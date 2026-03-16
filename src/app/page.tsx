@@ -2,6 +2,8 @@
 import Link from "next/link";
 
 import { IntelligenceTabs } from "@/app/ui/intelligence-tabs";
+import { LangText } from "@/app/ui/lang-text";
+import { LanguageToggle } from "@/app/ui/language-toggle";
 import { RefreshButton } from "@/app/ui/refresh-button";
 import { RelationshipMap } from "@/app/ui/relationship-map";
 import { isAdminAuthenticated, isAdminAuthEnabled } from "@/lib/admin-auth";
@@ -77,6 +79,46 @@ function InsightGlyph({ kind }: { kind: "mesh" | "shield" | "chip" | "globe" }) 
   );
 }
 
+function HeroPortraitIllustration() {
+  return (
+    <svg
+      className="hero-portrait-svg"
+      viewBox="0 0 120 132"
+      role="img"
+      aria-label="Futuristic AI portrait illustration"
+    >
+      <defs>
+        <linearGradient id="portraitAura" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#79d0ff" />
+          <stop offset="100%" stopColor="#3bf2d2" />
+        </linearGradient>
+        <linearGradient id="portraitCore" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#effcff" />
+          <stop offset="100%" stopColor="#7fd0ff" />
+        </linearGradient>
+      </defs>
+      <rect x="10" y="10" width="100" height="112" rx="24" className="portrait-frame" />
+      <circle cx="60" cy="50" r="26" className="portrait-halo" />
+      <path
+        d="M60 30c-10.2 0-18 7.9-18 18.2 0 7.9 5.4 14.8 12.8 17.1 3.2 1 7.3 1 10.5 0 7.4-2.3 12.8-9.2 12.8-17.1C78 37.9 70.2 30 60 30Z"
+        className="portrait-head"
+      />
+      <path
+        d="M34 104c5.3-18.5 15.7-27.7 26-27.7s20.7 9.2 26 27.7"
+        className="portrait-body"
+      />
+      <path
+        d="M28 88c9-4.8 19.7-7.2 32-7.2 12.4 0 23 2.4 32 7.2"
+        className="portrait-body accent"
+      />
+      <path d="M24 22h72M20 48h80M20 74h80M24 100h72" className="portrait-grid" />
+      <path d="M24 22v88M48 18v96M72 18v96M96 22v88" className="portrait-grid" />
+      <circle cx="60" cy="50" r="29" className="portrait-outline" />
+      <path d="M36 108h48" className="portrait-base" />
+    </svg>
+  );
+}
+
 export default async function HomePage() {
   const [authEnabled, adminAuthenticated, homepageData, status, promotionData] =
     await Promise.all([
@@ -89,7 +131,6 @@ export default async function HomePage() {
 
   const [profile, content] = homepageData;
   const organization = profile.location.split(",")[0]?.trim() ?? "ETRI";
-  const hasVideoViews = content.videos.some((video) => video.viewCount > 0);
   const areaMax = Math.max(...profile.researchAreas.map((area) => area.score), 1);
   const signalData = [
     { label: "Citations", value: profile.researchMetrics.citations },
@@ -209,7 +250,12 @@ export default async function HomePage() {
     <main className="page">
       <section className="hero card">
         <div className="hero-copy">
-          <p className="eyebrow">IT EXPERT PROFILE</p>
+          <div className="hero-topline">
+            <p className="eyebrow">
+              <LangText ko="IT 전문가 프로파일" en="IT Expert Profile" inline />
+            </p>
+            <LanguageToggle />
+          </div>
           <h1>{profile.name}</h1>
           <p className="name-local">
             {profile.name} | {profile.localName} | {organization}
@@ -297,10 +343,7 @@ export default async function HomePage() {
               </svg>
               <div className="hero-portrait-card">
                 <div className="hero-portrait-art">
-                  <span className="hero-portrait-halo" />
-                  <span className="hero-portrait-head" />
-                  <span className="hero-portrait-body" />
-                  <span className="hero-portrait-grid" />
+                  <HeroPortraitIllustration />
                 </div>
                 <div className="hero-portrait-copy">
                   <p>{profile.name}</p>
@@ -362,7 +405,9 @@ export default async function HomePage() {
 
       <section className="card research-dashboard">
         <div className="section-header">
-          <h2>Research Intelligence Dashboard</h2>
+          <h2>
+            <LangText ko="연구 인텔리전스 대시보드" en="Research Intelligence Dashboard" />
+          </h2>
           <div className="actions">
             {profile.googleScholarUrl ? (
               <Link className="button secondary" href={profile.googleScholarUrl} target="_blank">
@@ -405,6 +450,8 @@ export default async function HomePage() {
             researchAreas={profile.researchAreas}
             relatedTechnologies={profile.relatedTechnologies}
             standardizationActivities={profile.standardizationActivities}
+            articles={content.articles}
+            patentRecords={profile.patentRecords}
           />
 
           <article className="viz-card">
@@ -475,8 +522,12 @@ export default async function HomePage() {
 
       <section className="card patent-dashboard">
         <div className="section-header">
-          <h2>국내외 특허 출원/등록 현황</h2>
-          <span className="tag">Patent Portfolio</span>
+          <h2>
+            <LangText ko="국내외 특허 출원/등록 현황" en="Domestic and Global Patent Status" />
+          </h2>
+          <span className="tag">
+            <LangText ko="특허 포트폴리오" en="Patent Portfolio" inline />
+          </span>
         </div>
         <p className="hint">Domestic vs International patent pipeline and registration outcomes.</p>
 
@@ -529,7 +580,9 @@ export default async function HomePage() {
           ))}
         </div>
 
-        <h3 className="patent-record-title">?뱁뿀 紐⑸줉</h3>
+        <h3 className="patent-record-title">
+          <LangText ko="특허 목록" en="Patent Records" />
+        </h3>
         <div className="patent-record-grid">
           {patentRecords.length === 0 ? (
             <p className="empty">No patent records configured yet.</p>
@@ -552,8 +605,12 @@ export default async function HomePage() {
 
       <section className="card spotlight content-section highlight-section">
         <div className="section-header">
-          <h2>Professional Highlights</h2>
-          <span className="tag">Verified Links</span>
+          <h2>
+            <LangText ko="전문가 하이라이트" en="Professional Highlights" />
+          </h2>
+          <span className="tag">
+            <LangText ko="검증 링크" en="Verified Links" inline />
+          </span>
         </div>
         <p className="hint">Updated from curated public sources: {promotionData.updatedAt}</p>
         <div className="highlight-grid">
@@ -575,8 +632,12 @@ export default async function HomePage() {
 
       <section className="card content-section intelligence-briefing">
         <div className="section-header">
-          <h2>Intelligence Briefing</h2>
-          <span className="tag">Tabbed Overview</span>
+          <h2>
+            <LangText ko="인텔리전스 브리핑" en="Intelligence Briefing" />
+          </h2>
+          <span className="tag">
+            <LangText ko="탭형 개요" en="Tabbed Overview" inline />
+          </span>
         </div>
         <p className="hint">
           Switch between curated articles, ranked videos, and photo highlights without leaving
@@ -590,7 +651,9 @@ export default async function HomePage() {
       </section>
 
       <section className="card content-section refresh-section">
-        <h2>Refresh Status</h2>
+        <h2>
+          <LangText ko="갱신 상태" en="Refresh Status" />
+        </h2>
         <p className="hint">
           Cached now: articles {status.counts.articles}, videos {status.counts.videos},
           photos {status.counts.photos}, projects {status.counts.projects}
@@ -606,7 +669,9 @@ export default async function HomePage() {
       </section>
 
       <section className="card content-section projects-section">
-        <h2>GitHub Projects ({profile.githubUsername})</h2>
+        <h2>
+          <LangText ko={`GitHub 프로젝트 (${profile.githubUsername})`} en={`GitHub Projects (${profile.githubUsername})`} />
+        </h2>
         <div className="grid">
           {content.projects.length === 0 ? (
             <p className="empty">No GitHub projects fetched yet.</p>
@@ -630,77 +695,12 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card content-section articles-section">
-        <div className="section-header">
-          <h2>IT Standardization Articles (Top 8)</h2>
-          <Link href="/api/content" target="_blank">
-            JSON API
-          </Link>
-        </div>
-        <div className="grid">
-          {content.articles.length === 0 ? (
-            <p className="empty">No ranked articles collected yet.</p>
-          ) : (
-            content.articles.slice(0, 8).map((article, index) => (
-              <article key={article.id} className={index === 0 ? "item feature-item" : "item"}>
-                <p className="item-meta">
-                  #{article.rank} | {article.source} | {formatDate(article.publishedAt)}
-                </p>
-                <h3>
-                  <Link href={article.url} target="_blank">
-                    {article.title}
-                  </Link>
-                </h3>
-                <p>{article.summary}</p>
-              </article>
-            ))
-          )}
-        </div>
-      </section>
-
-      <section className="card content-section videos-section">
-        <h2>AI / IT Industry / Latest Tech News Videos (Top 8 by Views)</h2>
-        {!hasVideoViews ? (
-          <p className="hint">Set YOUTUBE_API_KEY to enable true view-count ranking.</p>
-        ) : null}
-        <div className="video-grid">
-          {content.videos.length === 0 ? (
-            <p className="empty">No ranked videos collected yet.</p>
-          ) : (
-            content.videos.slice(0, 8).map((video, index) => (
-              <article
-                key={video.id}
-                className={index === 0 ? "video-item feature-video" : "video-item"}
-              >
-                {video.thumbnail ? (
-                  <Image
-                    src={video.thumbnail}
-                    alt={video.title}
-                    width={480}
-                    height={270}
-                    className="thumb"
-                  />
-                ) : null}
-                <div className="video-body">
-                  <p className="item-meta">
-                    #{index + 1} | {video.channel} | views {formatNumber(video.viewCount)}
-                  </p>
-                  <h3>
-                    <Link href={video.url} target="_blank">
-                      {video.title}
-                    </Link>
-                  </h3>
-                </div>
-              </article>
-            ))
-          )}
-        </div>
-      </section>
-
       <section className="card">
         <h2>
-          Photos (Google Photos keyword: &quot;{profile.googlePhotos.filterKeyword}
-          &quot;)
+          <LangText
+            ko={`사진 (Google Photos 키워드: "${profile.googlePhotos.filterKeyword}")`}
+            en={`Photos (Google Photos keyword: "${profile.googlePhotos.filterKeyword}")`}
+          />
         </h2>
         <div className="photo-grid">
           {content.photos.length === 0 ? (
@@ -725,7 +725,9 @@ export default async function HomePage() {
       </section>
 
       <section className="card">
-        <h2>Links</h2>
+        <h2>
+          <LangText ko="링크" en="Links" />
+        </h2>
         <ul className="links">
           {profile.links.map((link) => (
             <li key={`${link.label}-${link.url}`}>
@@ -739,5 +741,6 @@ export default async function HomePage() {
     </main>
   );
 }
+
 
 

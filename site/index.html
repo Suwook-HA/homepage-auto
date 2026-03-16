@@ -4,13 +4,25 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-6" />
+    <link rel="stylesheet" href="./style.css?v=20260316-7" />
   </head>
   <body>
     <main class="page">
       <section class="hero card">
         <div class="hero-copy">
-          <p class="eyebrow">IT EXPERT PROFILE</p>
+          <div class="hero-topline">
+            <p class="eyebrow">
+              <span class="lang-switch inline">
+                <span class="lang-ko">IT 전문가 프로파일</span>
+                <span class="lang-en">IT Expert Profile</span>
+              </span>
+            </p>
+            <div class="lang-toggle" role="group" aria-label="Language mode">
+              <button type="button" class="lang-toggle-button" data-lang-option="ko">KO</button>
+              <button type="button" class="lang-toggle-button" data-lang-option="en">EN</button>
+              <button type="button" class="lang-toggle-button active" data-lang-option="bi">BI</button>
+            </div>
+          </div>
           <h1 id="name">Ha Suwook</h1>
           <p id="name-local" class="name-local"></p>
           <p id="headline" class="headline"></p>
@@ -25,6 +37,24 @@
             <a id="email" target="_blank" rel="noopener noreferrer">Email</a>
             <a id="website" target="_blank" rel="noopener noreferrer">Website</a>
           </div>
+          <div class="actions hero-links">
+            <a id="profile-link" class="button secondary" target="_blank" rel="noopener noreferrer">
+              <span class="lang-switch inline">
+                <span class="lang-ko">프로필</span>
+                <span class="lang-en">Profile</span>
+              </span>
+            </a>
+            <a
+              id="scholar-link"
+              class="button secondary"
+              target="_blank"
+              rel="noopener noreferrer"
+              hidden
+            >
+              Google Scholar
+            </a>
+          </div>
+          <p id="updatedAtHero" class="updated"></p>
         </div>
         <div class="hero-visual" aria-hidden="true">
           <div class="hero-visual-frame">
@@ -43,26 +73,10 @@
                 <rect x="0" y="0" width="520" height="360" rx="24" fill="transparent"></rect>
                 <circle cx="260" cy="180" r="124" class="hero-ring"></circle>
                 <circle cx="260" cy="180" r="86" class="hero-ring inner"></circle>
-                <path
-                  d="M164 102c32 18 63 28 96 28s64-10 96-28"
-                  class="hero-path"
-                  stroke="url(#heroLine)"
-                ></path>
-                <path
-                  d="M148 242c44-18 81-28 112-28s68 10 112 28"
-                  class="hero-path"
-                  stroke="url(#heroLine)"
-                ></path>
-                <path
-                  d="M188 84c-19 40-28 72-28 96s9 56 28 96"
-                  class="hero-path soft"
-                  stroke="url(#heroLine)"
-                ></path>
-                <path
-                  d="M332 84c19 40 28 72 28 96s-9 56-28 96"
-                  class="hero-path soft"
-                  stroke="url(#heroLine)"
-                ></path>
+                <path d="M164 102c32 18 63 28 96 28s64-10 96-28" class="hero-path" stroke="url(#heroLine)"></path>
+                <path d="M148 242c44-18 81-28 112-28s68 10 112 28" class="hero-path" stroke="url(#heroLine)"></path>
+                <path d="M188 84c-19 40-28 72-28 96s9 56 28 96" class="hero-path soft" stroke="url(#heroLine)"></path>
+                <path d="M332 84c19 40 28 72 28 96s-9 56-28 96" class="hero-path soft" stroke="url(#heroLine)"></path>
                 <circle cx="260" cy="180" r="14" class="hero-node center"></circle>
                 <circle cx="260" cy="56" r="10" class="hero-node"></circle>
                 <circle cx="384" cy="180" r="10" class="hero-node"></circle>
@@ -75,10 +89,27 @@
               </svg>
               <div class="hero-portrait-card">
                 <div class="hero-portrait-art">
-                  <span class="hero-portrait-halo"></span>
-                  <span class="hero-portrait-head"></span>
-                  <span class="hero-portrait-body"></span>
-                  <span class="hero-portrait-grid"></span>
+                  <svg class="hero-portrait-svg" viewBox="0 0 120 132" role="img" aria-label="Futuristic AI portrait illustration">
+                    <defs>
+                      <linearGradient id="portraitAura" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stop-color="#79d0ff"></stop>
+                        <stop offset="100%" stop-color="#3bf2d2"></stop>
+                      </linearGradient>
+                      <linearGradient id="portraitCore" x1="50%" y1="0%" x2="50%" y2="100%">
+                        <stop offset="0%" stop-color="#effcff"></stop>
+                        <stop offset="100%" stop-color="#7fd0ff"></stop>
+                      </linearGradient>
+                    </defs>
+                    <rect x="10" y="10" width="100" height="112" rx="24" class="portrait-frame"></rect>
+                    <circle cx="60" cy="50" r="26" class="portrait-halo"></circle>
+                    <path d="M60 30c-10.2 0-18 7.9-18 18.2 0 7.9 5.4 14.8 12.8 17.1 3.2 1 7.3 1 10.5 0 7.4-2.3 12.8-9.2 12.8-17.1C78 37.9 70.2 30 60 30Z" class="portrait-head"></path>
+                    <path d="M34 104c5.3-18.5 15.7-27.7 26-27.7s20.7 9.2 26 27.7" class="portrait-body"></path>
+                    <path d="M28 88c9-4.8 19.7-7.2 32-7.2 12.4 0 23 2.4 32 7.2" class="portrait-body accent"></path>
+                    <path d="M24 22h72M20 48h80M20 74h80M24 100h72" class="portrait-grid"></path>
+                    <path d="M24 22v88M48 18v96M72 18v96M96 22v88" class="portrait-grid"></path>
+                    <circle cx="60" cy="50" r="29" class="portrait-outline"></circle>
+                    <path d="M36 108h48" class="portrait-base"></path>
+                  </svg>
                 </div>
                 <div class="hero-portrait-copy">
                   <p>Ha Suwook</p>
@@ -93,14 +124,7 @@
             </div>
             <div class="hero-stat-grid">
               <article class="hero-signal-card">
-                <span class="hero-signal-icon">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <circle cx="6" cy="12" r="2.5"></circle>
-                    <circle cx="18" cy="6" r="2.5"></circle>
-                    <circle cx="18" cy="18" r="2.5"></circle>
-                    <path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path>
-                  </svg>
-                </span>
+                <span class="hero-signal-icon" data-glyph="mesh"></span>
                 <div>
                   <p class="hero-signal-label">Citations</p>
                   <strong id="hero-citations" class="hero-signal-value">0</strong>
@@ -108,12 +132,7 @@
                 </div>
               </article>
               <article class="hero-signal-card">
-                <span class="hero-signal-icon">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="7" y="7" width="10" height="10" rx="2"></rect>
-                    <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path>
-                  </svg>
-                </span>
+                <span class="hero-signal-icon" data-glyph="chip"></span>
                 <div>
                   <p class="hero-signal-label">Publications</p>
                   <strong id="hero-publications" class="hero-signal-value">0</strong>
@@ -121,12 +140,7 @@
                 </div>
               </article>
               <article class="hero-signal-card">
-                <span class="hero-signal-icon">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <circle cx="12" cy="12" r="8.5"></circle>
-                    <path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path>
-                  </svg>
-                </span>
+                <span class="hero-signal-icon" data-glyph="globe"></span>
                 <div>
                   <p class="hero-signal-label">Standards</p>
                   <strong id="hero-tracks" class="hero-signal-value">0</strong>
@@ -134,12 +148,7 @@
                 </div>
               </article>
               <article class="hero-signal-card">
-                <span class="hero-signal-icon">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path>
-                    <path d="m9.1 12.3 2 2 3.8-4.5"></path>
-                  </svg>
-                </span>
+                <span class="hero-signal-icon" data-glyph="shield"></span>
                 <div>
                   <p class="hero-signal-label">Patent Assets</p>
                   <strong id="hero-patents" class="hero-signal-value">0</strong>
@@ -151,143 +160,142 @@
         </div>
       </section>
 
-      <section class="credibility-strip" aria-label="Professional credibility signals">
-        <article class="cred-card">
-          <span class="cred-icon">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <circle cx="12" cy="12" r="8.5"></circle>
-              <path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path>
-            </svg>
-          </span>
-          <div class="cred-copy">
-            <p class="cred-label">Institution</p>
-            <strong id="cred-org" class="cred-value">ETRI</strong>
-            <p id="cred-role" class="cred-note"></p>
-          </div>
-          <a id="cred-org-link" class="cred-link" target="_blank" rel="noopener noreferrer">Open Profile</a>
-        </article>
-        <article class="cred-card">
-          <span class="cred-icon">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <circle cx="6" cy="12" r="2.5"></circle>
-              <circle cx="18" cy="6" r="2.5"></circle>
-              <circle cx="18" cy="18" r="2.5"></circle>
-              <path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path>
-            </svg>
-          </span>
-          <div class="cred-copy">
-            <p class="cred-label">Scholar Impact</p>
-            <strong id="cred-scholar" class="cred-value">0 citations</strong>
-            <p id="cred-scholar-note" class="cred-note"></p>
-          </div>
-          <a id="cred-scholar-link" class="cred-link" target="_blank" rel="noopener noreferrer">Scholar</a>
-        </article>
-        <article class="cred-card">
-          <span class="cred-icon">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <rect x="7" y="7" width="10" height="10" rx="2"></rect>
-              <path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path>
-            </svg>
-          </span>
-          <div class="cred-copy">
-            <p class="cred-label">Open Source</p>
-            <strong id="cred-github" class="cred-value">Suwook-HA</strong>
-            <p id="cred-github-note" class="cred-note"></p>
-          </div>
-          <a id="cred-github-link" class="cred-link" target="_blank" rel="noopener noreferrer">GitHub</a>
-        </article>
-        <article class="cred-card">
-          <span class="cred-icon">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path>
-              <path d="m9.1 12.3 2 2 3.8-4.5"></path>
-            </svg>
-          </span>
-          <div class="cred-copy">
-            <p class="cred-label">Patent Portfolio</p>
-            <strong id="cred-patent" class="cred-value">0</strong>
-            <p id="cred-patent-note" class="cred-note"></p>
-          </div>
-          <span class="cred-link passive">Verified</span>
-        </article>
-      </section>
+      <section class="credibility-strip" aria-label="Professional credibility signals" id="credibility-strip"></section>
 
       <section class="card research-dashboard">
         <div class="section-header">
-          <h2>Research Intelligence Dashboard</h2>
+          <h2>
+            <span class="lang-switch inline">
+              <span class="lang-ko">연구 인텔리전스 대시보드</span>
+              <span class="lang-en">Research Intelligence Dashboard</span>
+            </span>
+          </h2>
           <div class="actions">
-            <a
-              id="scholar-link"
-              class="button secondary"
-              target="_blank"
-              rel="noopener noreferrer"
-              style="display: none"
-              >Google Scholar</a
-            >
-            <a
-              id="profile-link"
-              class="button secondary"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Professional Profile</a
-            >
+            <a id="scholar-action" class="button secondary" target="_blank" rel="noopener noreferrer" hidden>Google Scholar</a>
+            <a id="profile-action" class="button secondary" target="_blank" rel="noopener noreferrer">
+              <span class="lang-switch inline">
+                <span class="lang-ko">전문가 프로필</span>
+                <span class="lang-en">Professional Profile</span>
+              </span>
+            </a>
           </div>
         </div>
         <p id="research-summary" class="hint"></p>
 
         <div class="metrics-grid">
-          <article class="metric-card">
-            <p class="metric-label">Citations</p>
-            <p id="metric-citations" class="metric-value">0</p>
-          </article>
-          <article class="metric-card">
-            <p class="metric-label">h-index</p>
-            <p id="metric-hindex" class="metric-value">0</p>
-          </article>
-          <article class="metric-card">
-            <p class="metric-label">i10-index</p>
-            <p id="metric-i10index" class="metric-value">0</p>
-          </article>
-          <article class="metric-card">
-            <p class="metric-label">Publications</p>
-            <p id="metric-publications" class="metric-value">0</p>
-          </article>
-          <article class="metric-card">
-            <p class="metric-label">Standardization Tracks</p>
-            <p id="metric-tracks" class="metric-value">0</p>
-          </article>
+          <article class="metric-card"><p class="metric-label">Citations</p><p id="metric-citations" class="metric-value">0</p></article>
+          <article class="metric-card"><p class="metric-label">h-index</p><p id="metric-hindex" class="metric-value">0</p></article>
+          <article class="metric-card"><p class="metric-label">i10-index</p><p id="metric-i10index" class="metric-value">0</p></article>
+          <article class="metric-card"><p class="metric-label">Publications</p><p id="metric-publications" class="metric-value">0</p></article>
+          <article class="metric-card"><p class="metric-label">Standardization Tracks</p><p id="metric-tracks" class="metric-value">0</p></article>
         </div>
 
         <div class="research-viz-grid graph-grid">
           <article class="viz-card rdf-card">
             <div class="viz-head">
               <div>
-                <h3>RDF Relationship Map</h3>
-                <p class="hint graph-hint">Research domain/technology/standardization linkage graph</p>
+                <h3>
+                  <span class="lang-switch inline">
+                    <span class="lang-ko">RDF 관계도</span>
+                    <span class="lang-en">RDF Relationship Map</span>
+                  </span>
+                </h3>
+                <p class="hint graph-hint">
+                  <span class="lang-switch">
+                    <span class="lang-ko">연구 영역, 기술, 표준화 활동 간 연결 구조를 탐색합니다.</span>
+                    <span class="lang-en">Explore the linkage between research domains, technologies, and standards work.</span>
+                  </span>
+                </p>
               </div>
-              <button id="expand-graph" type="button" class="mini-button">Expand</button>
+              <button id="expand-graph" type="button" class="mini-button">
+                <span class="lang-switch inline">
+                  <span class="lang-ko">확대</span>
+                  <span class="lang-en">Expand</span>
+                </span>
+              </button>
             </div>
             <div class="rdf-shell">
               <svg id="rdf-graph" class="rdf-graph" viewBox="0 0 760 460"></svg>
             </div>
+            <div class="graph-focus-panel">
+              <div class="graph-focus-head">
+                <span id="graph-focus-type" class="focus-type center">CENTER</span>
+                <strong id="graph-focus-label">Ha Suwook</strong>
+                <p class="hint">
+                  <span class="lang-switch">
+                    <span class="lang-ko">노드를 선택하면 연결된 기술, 기사, 특허를 함께 보여줍니다.</span>
+                    <span class="lang-en">Select a node to filter connected topics, articles, and patents.</span>
+                  </span>
+                </p>
+              </div>
+              <div class="graph-focus-grid">
+                <section class="graph-focus-card">
+                  <h4>
+                    <span class="lang-switch inline">
+                      <span class="lang-ko">연결 토픽</span>
+                      <span class="lang-en">Connected Topics</span>
+                    </span>
+                  </h4>
+                  <div id="graph-focus-topics" class="focus-chip-list"></div>
+                </section>
+                <section class="graph-focus-card">
+                  <h4>
+                    <span class="lang-switch inline">
+                      <span class="lang-ko">관련 기사</span>
+                      <span class="lang-en">Related Articles</span>
+                    </span>
+                  </h4>
+                  <div id="graph-focus-articles" class="focus-list"></div>
+                </section>
+                <section class="graph-focus-card">
+                  <h4>
+                    <span class="lang-switch inline">
+                      <span class="lang-ko">관련 특허</span>
+                      <span class="lang-en">Related Patents</span>
+                    </span>
+                  </h4>
+                  <div id="graph-focus-patents" class="focus-list"></div>
+                </section>
+              </div>
+            </div>
           </article>
           <article class="viz-card">
-            <h3>Research Domain Strength</h3>
+            <h3>
+              <span class="lang-switch inline">
+                <span class="lang-ko">연구 분야 강도</span>
+                <span class="lang-en">Research Domain Strength</span>
+              </span>
+            </h3>
             <div id="research-areas" class="domain-chart"></div>
           </article>
         </div>
 
         <div class="research-viz-grid three">
           <article class="viz-card">
-            <h3>Research Signals</h3>
+            <h3>
+              <span class="lang-switch inline">
+                <span class="lang-ko">연구 시그널</span>
+                <span class="lang-en">Research Signals</span>
+              </span>
+            </h3>
             <div id="research-signals" class="signal-chart"></div>
           </article>
           <article class="viz-card">
-            <h3>Related Technologies</h3>
+            <h3>
+              <span class="lang-switch inline">
+                <span class="lang-ko">연관 기술</span>
+                <span class="lang-en">Related Technologies</span>
+              </span>
+            </h3>
             <div id="related-tech" class="tech-cloud"></div>
           </article>
           <article class="viz-card">
-            <h3>Standardization Activities</h3>
+            <h3>
+              <span class="lang-switch inline">
+                <span class="lang-ko">표준화 활동</span>
+                <span class="lang-en">Standardization Activities</span>
+              </span>
+            </h3>
             <div id="standardization-activities" class="standards-list"></div>
           </article>
         </div>
@@ -295,58 +303,106 @@
 
       <section class="card patent-dashboard">
         <div class="section-header">
-          <h2>국내외 특허 출원/등록 현황</h2>
-          <span class="tag">Patent Portfolio</span>
+          <h2>
+            <span class="lang-switch inline">
+              <span class="lang-ko">국내외 특허 출원/등록 현황</span>
+              <span class="lang-en">Domestic and Global Patent Status</span>
+            </span>
+          </h2>
+          <span class="tag">
+            <span class="lang-switch inline">
+              <span class="lang-ko">특허 포트폴리오</span>
+              <span class="lang-en">Patent Portfolio</span>
+            </span>
+          </span>
         </div>
         <p class="hint">Domestic vs International patent pipeline and registration outcomes.</p>
         <div id="patent-summary" class="patent-summary-grid"></div>
         <div id="patent-yearly" class="patent-yearly-chart"></div>
-        <h3 class="patent-record-title">특허 목록</h3>
+        <h3 class="patent-record-title">
+          <span class="lang-switch inline">
+            <span class="lang-ko">특허 목록</span>
+            <span class="lang-en">Patent Records</span>
+          </span>
+        </h3>
         <div id="patent-records" class="patent-record-grid"></div>
       </section>
 
       <section class="card content-section highlight-section">
         <div class="section-header">
-          <h2>Professional Highlights</h2>
-          <span class="tag">Verified Links</span>
+          <h2>
+            <span class="lang-switch inline">
+              <span class="lang-ko">전문가 하이라이트</span>
+              <span class="lang-en">Professional Highlights</span>
+            </span>
+          </h2>
+          <span class="tag">
+            <span class="lang-switch inline">
+              <span class="lang-ko">검증 링크</span>
+              <span class="lang-en">Verified Links</span>
+            </span>
+          </span>
         </div>
         <p id="highlight-updated" class="hint"></p>
-        <div id="highlights" class="grid"></div>
+        <div id="highlights" class="highlight-grid"></div>
       </section>
 
       <section class="card content-section intelligence-briefing">
         <div class="section-header">
-          <h2>Intelligence Briefing</h2>
-          <span class="tag">Tabbed Overview</span>
+          <h2>
+            <span class="lang-switch inline">
+              <span class="lang-ko">인텔리전스 브리핑</span>
+              <span class="lang-en">Intelligence Briefing</span>
+            </span>
+          </h2>
+          <span class="tag">
+            <span class="lang-switch inline">
+              <span class="lang-ko">탭형 개요</span>
+              <span class="lang-en">Tabbed Overview</span>
+            </span>
+          </span>
         </div>
         <p class="hint">
-          Switch between curated articles, ranked videos, and photo highlights without leaving the main narrative flow.
+          <span class="lang-switch">
+            <span class="lang-ko">기사, 동영상, 사진 하이라이트를 메인 흐름을 벗어나지 않고 전환해서 볼 수 있습니다.</span>
+            <span class="lang-en">Switch between curated articles, ranked videos, and photo highlights without leaving the main narrative flow.</span>
+          </span>
         </p>
         <div id="media-tabs" class="media-tabs"></div>
       </section>
 
       <section class="card content-section projects-section">
-        <h2>GitHub Projects</h2>
+        <h2 id="projects-title">GitHub Projects</h2>
         <div id="projects" class="grid"></div>
       </section>
 
-      <section class="card content-section articles-section">
-        <h2>IT Standardization Articles (Top 8)</h2>
-        <div id="articles" class="grid"></div>
-      </section>
-
-      <section class="card content-section videos-section">
-        <h2>AI / IT Industry / Latest Tech News Videos (Top 8)</h2>
-        <div id="videos" class="video-grid"></div>
-      </section>
-
-      <section class="card">
-        <h2>Photos</h2>
+      <section class="card photos-section">
+        <h2>
+          <span class="lang-switch inline">
+            <span class="lang-ko">사진</span>
+            <span class="lang-en">Photos</span>
+          </span>
+        </h2>
         <div id="photos" class="photo-grid"></div>
       </section>
 
-      <section class="card">
-        <h2>Refresh Status</h2>
+      <section class="card links-section">
+        <h2>
+          <span class="lang-switch inline">
+            <span class="lang-ko">링크</span>
+            <span class="lang-en">Links</span>
+          </span>
+        </h2>
+        <ul id="links" class="links"></ul>
+      </section>
+
+      <section class="card refresh-section">
+        <h2>
+          <span class="lang-switch inline">
+            <span class="lang-ko">갱신 상태</span>
+            <span class="lang-en">Refresh Status</span>
+          </span>
+        </h2>
         <p id="updatedAt" class="hint"></p>
         <div id="counts" class="hint"></div>
       </section>
@@ -357,10 +413,25 @@
       <div class="graph-modal-panel">
         <div class="viz-head">
           <div>
-            <h3>Expanded RDF Relationship Map</h3>
-            <p class="hint graph-hint">Research domain, technology, and standardization linkage view</p>
+            <h3>
+              <span class="lang-switch inline">
+                <span class="lang-ko">확대 RDF 관계도</span>
+                <span class="lang-en">Expanded RDF Relationship Map</span>
+              </span>
+            </h3>
+            <p class="hint graph-hint">
+              <span class="lang-switch">
+                <span class="lang-ko">선택한 노드 기준으로 관계망을 큰 화면에서 확인합니다.</span>
+                <span class="lang-en">Inspect the selected node and its connections in a larger view.</span>
+              </span>
+            </p>
           </div>
-          <button id="close-graph" type="button" class="mini-button">Close</button>
+          <button id="close-graph" type="button" class="mini-button">
+            <span class="lang-switch inline">
+              <span class="lang-ko">닫기</span>
+              <span class="lang-en">Close</span>
+            </span>
+          </button>
         </div>
         <div class="rdf-shell modal-shell">
           <svg id="rdf-graph-modal" class="rdf-graph large" viewBox="0 0 760 460"></svg>
@@ -368,1061 +439,6 @@
       </div>
     </div>
 
-    <script>
-      function text(v) {
-        return typeof v === "string" ? v : "";
-      }
-
-      function formatDate(iso) {
-        if (!iso) return "N/A";
-        const d = new Date(iso);
-        if (Number.isNaN(d.getTime())) return "N/A";
-        return d.toLocaleString("ko-KR", { dateStyle: "medium", timeStyle: "short" });
-      }
-
-      function number(v) {
-        return new Intl.NumberFormat("en-US").format(Number(v) || 0);
-      }
-
-      function toSqrtPercent(value, max) {
-        if (!max || value <= 0) return 0;
-        return Math.max(0, Math.min(100, Math.round((Math.sqrt(value) / Math.sqrt(max)) * 100)));
-      }
-
-      function compactLabel(value, max) {
-        const raw = text(value);
-        if (!raw || raw.length <= max) return raw;
-        return raw.slice(0, max - 1).trimEnd() + "...";
-      }
-
-      function clearChildren(el) {
-        while (el.firstChild) {
-          el.removeChild(el.firstChild);
-        }
-      }
-
-      function iconMarkup(kind) {
-        if (kind === "shield") {
-          return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5.5 5.6v5.5c0 4.3 2.7 8.2 6.5 9.8 3.8-1.6 6.5-5.5 6.5-9.8V5.6z"></path><path d="m9.1 12.3 2 2 3.8-4.5"></path></svg>';
-        }
-        if (kind === "chip") {
-          return '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="7" width="10" height="10" rx="2"></rect><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"></path></svg>';
-        }
-        if (kind === "globe") {
-          return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M3.8 9.5h16.4M3.8 14.5h16.4M12 3.5c2.4 2.2 3.7 5.2 3.7 8.5S14.4 18.3 12 20.5M12 3.5C9.6 5.7 8.3 8.7 8.3 12S9.6 18.3 12 20.5"></path></svg>';
-        }
-        return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="12" r="2.5"></circle><circle cx="18" cy="6" r="2.5"></circle><circle cx="18" cy="18" r="2.5"></circle><path d="M8 12h7.5M8 11l7.8-4M8 13l7.8 4"></path></svg>';
-      }
-
-      function svgEl(tag) {
-        return document.createElementNS("http://www.w3.org/2000/svg", tag);
-      }
-
-      function polar(cx, cy, radius, angleDeg) {
-        const rad = (angleDeg * Math.PI) / 180;
-        return {
-          x: cx + radius * Math.cos(rad),
-          y: cy + radius * Math.sin(rad),
-        };
-      }
-
-      function card(meta, title, body, link, linkLabel, extraClass) {
-        const article = document.createElement("article");
-        article.className = extraClass ? "item " + extraClass : "item";
-        if (meta) {
-          const p = document.createElement("p");
-          p.className = "item-meta";
-          p.textContent = meta;
-          article.appendChild(p);
-        }
-        if (title) {
-          const h3 = document.createElement("h3");
-          h3.textContent = title;
-          article.appendChild(h3);
-        }
-        if (body) {
-          const p = document.createElement("p");
-          p.textContent = body;
-          article.appendChild(p);
-        }
-        if (link) {
-          const a = document.createElement("a");
-          a.href = link;
-          a.target = "_blank";
-          a.rel = "noopener noreferrer";
-          a.textContent = linkLabel || "Open";
-          article.appendChild(a);
-        }
-        return article;
-      }
-
-      function videoCard(item, index) {
-        const article = document.createElement("article");
-        article.className = index === 0 ? "video-item feature-video" : "video-item";
-
-        if (text(item.thumbnail)) {
-          const img = document.createElement("img");
-          img.className = "thumb";
-          img.src = text(item.thumbnail);
-          img.alt = text(item.title) || "video";
-          img.loading = "lazy";
-          article.appendChild(img);
-        }
-
-        const body = document.createElement("div");
-        body.className = "video-body";
-
-        const meta = document.createElement("p");
-        meta.className = "item-meta";
-        meta.textContent = [
-          "#" + (index + 1),
-          text(item.channel),
-          "views " + number(item.viewCount),
-          formatDate(item.publishedAt),
-        ]
-          .filter(Boolean)
-          .join(" | ");
-        body.appendChild(meta);
-
-        const title = document.createElement("h3");
-        const link = document.createElement("a");
-        link.href = text(item.url);
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.textContent = text(item.title);
-        title.appendChild(link);
-        body.appendChild(title);
-
-        article.appendChild(body);
-        return article;
-      }
-
-      function renderHero(profile) {
-        const interests = Array.isArray(profile.interests) ? profile.interests.slice(0, 4) : [];
-        const chipsRoot = document.getElementById("interest-chips");
-        clearChildren(chipsRoot);
-        interests.forEach((label, index) => {
-          const chip = document.createElement("span");
-          chip.className = "hero-interest-pill";
-          const icon = document.createElement("span");
-          icon.className = "hero-interest-icon";
-          icon.innerHTML = iconMarkup(["mesh", "shield", "chip", "globe"][index % 4]);
-          chip.appendChild(icon);
-          chip.appendChild(document.createTextNode(text(label)));
-          chipsRoot.appendChild(chip);
-        });
-
-        const floatsRoot = document.getElementById("hero-floats");
-        clearChildren(floatsRoot);
-        [
-          profile.researchAreas?.[0]?.name || "AI Standardization",
-          profile.relatedTechnologies?.[0] || "Generative AI",
-          profile.standardizationActivities?.[0] || "ISO/IEC SC 42",
-          profile.relatedTechnologies?.[1] || "Trustworthy AI",
-        ].forEach((label, index) => {
-          const float = document.createElement("div");
-          float.className = "hero-float hero-float-" + String.fromCharCode(97 + index);
-          float.textContent = compactLabel(label, 26);
-          floatsRoot.appendChild(float);
-        });
-      }
-
-      function renderCredibility(profile, content) {
-        const metrics = profile.researchMetrics || {};
-        const org = text(profile.location).split(",")[0].trim() || "ETRI";
-        const patent = profile.patentStats || {
-          domestic: { applications: 0, registrations: 0 },
-          international: { applications: 0, registrations: 0 },
-        };
-        const patentAssets =
-          (Number(patent.domestic?.applications) || 0) +
-          (Number(patent.domestic?.registrations) || 0) +
-          (Number(patent.international?.applications) || 0) +
-          (Number(patent.international?.registrations) || 0);
-
-        document.getElementById("cred-org").textContent = org;
-        document.getElementById("cred-role").textContent = text(profile.headline);
-        document.getElementById("cred-org-link").href =
-          text(profile.website) || "https://www.etri.re.kr";
-
-        document.getElementById("cred-scholar").textContent = number(metrics.citations) + " citations";
-        document.getElementById("cred-scholar-note").textContent =
-          "h-index " + number(metrics.hIndex) + " | i10 " + number(metrics.i10Index);
-        const scholarLink = document.getElementById("cred-scholar-link");
-        const scholarUrl = text(profile.googleScholarUrl);
-        scholarLink.href = scholarUrl || text(profile.website) || "https://scholar.google.com/";
-
-        document.getElementById("cred-github").textContent = text(profile.githubUsername) || "GitHub";
-        document.getElementById("cred-github-note").textContent =
-          number((content.projects || []).length) + " ranked repositories";
-        document.getElementById("cred-github-link").href =
-          "https://github.com/" + (text(profile.githubUsername) || "Suwook-HA");
-
-        document.getElementById("cred-patent").textContent = number(patentAssets);
-        document.getElementById("cred-patent-note").textContent =
-          "KR " +
-          number((Number(patent.domestic?.applications) || 0) + (Number(patent.domestic?.registrations) || 0)) +
-          " | Global " +
-          number((Number(patent.international?.applications) || 0) + (Number(patent.international?.registrations) || 0));
-      }
-
-      function renderMediaTabs(content) {
-        const root = document.getElementById("media-tabs");
-        clearChildren(root);
-
-        const tabs = [
-          { id: "articles", label: "Articles", count: Math.min((content.articles || []).length, 8) },
-          { id: "videos", label: "Videos", count: Math.min((content.videos || []).length, 8) },
-          { id: "photos", label: "Photos", count: (content.photos || []).length },
-        ];
-
-        const tablist = document.createElement("div");
-        tablist.className = "media-tablist";
-        tablist.setAttribute("role", "tablist");
-
-        const stage = document.createElement("div");
-        stage.className = "media-stage";
-
-        function renderPanel(activeId) {
-          clearChildren(stage);
-
-          if (activeId === "articles") {
-            const layout = document.createElement("div");
-            layout.className = "media-layout";
-            const items = (content.articles || []).slice(0, 8);
-            if (items[0]) {
-              const feature = document.createElement("article");
-              feature.className = "media-feature";
-              feature.innerHTML =
-                '<p class="media-kicker">Lead Story</p>' +
-                '<h3><a target="_blank" rel="noopener noreferrer" href="' +
-                text(items[0].url) +
-                '">' +
-                text(items[0].title) +
-                "</a></h3>" +
-                "<p>" +
-                text(items[0].summary) +
-                '</p><p class="item-meta">#' +
-                String(items[0].rank || 1) +
-                " | " +
-                text(items[0].source) +
-                " | " +
-                formatDate(items[0].publishedAt) +
-                "</p>";
-              layout.appendChild(feature);
-            } else {
-              const empty = document.createElement("p");
-              empty.className = "media-empty";
-              empty.textContent = "No ranked articles collected yet.";
-              layout.appendChild(empty);
-            }
-
-            const list = document.createElement("div");
-            list.className = "media-list";
-            items.slice(1, 6).forEach((item) => {
-              const article = document.createElement("article");
-              article.className = "media-list-item";
-              article.innerHTML =
-                '<p class="item-meta">#' +
-                String(item.rank || "") +
-                " | " +
-                text(item.source) +
-                " | " +
-                formatDate(item.publishedAt) +
-                "</p>" +
-                '<h4><a target="_blank" rel="noopener noreferrer" href="' +
-                text(item.url) +
-                '">' +
-                text(item.title) +
-                "</a></h4>" +
-                "<p>" +
-                text(item.summary) +
-                "</p>";
-              list.appendChild(article);
-            });
-            layout.appendChild(list);
-            stage.appendChild(layout);
-            return;
-          }
-
-          if (activeId === "videos") {
-            const layout = document.createElement("div");
-            layout.className = "media-layout";
-            const items = (content.videos || []).slice(0, 8);
-            if (items[0]) {
-              const feature = document.createElement("article");
-              feature.className = "media-feature video-feature";
-              if (text(items[0].thumbnail)) {
-                const img = document.createElement("img");
-                img.className = "media-feature-thumb";
-                img.src = text(items[0].thumbnail);
-                img.alt = text(items[0].title) || "video";
-                img.loading = "lazy";
-                feature.appendChild(img);
-              }
-              const body = document.createElement("div");
-              body.className = "media-feature-body";
-              body.innerHTML =
-                '<p class="media-kicker">Featured Video</p>' +
-                '<h3><a target="_blank" rel="noopener noreferrer" href="' +
-                text(items[0].url) +
-                '">' +
-                text(items[0].title) +
-                "</a></h3>" +
-                '<p class="item-meta">' +
-                text(items[0].channel) +
-                " | views " +
-                number(items[0].viewCount) +
-                " | " +
-                formatDate(items[0].publishedAt) +
-                "</p>";
-              feature.appendChild(body);
-              layout.appendChild(feature);
-            } else {
-              const empty = document.createElement("p");
-              empty.className = "media-empty";
-              empty.textContent = "No ranked videos collected yet.";
-              layout.appendChild(empty);
-            }
-
-            const list = document.createElement("div");
-            list.className = "media-list";
-            items.slice(1, 6).forEach((item, index) => {
-              const article = document.createElement("article");
-              article.className = "media-list-item compact";
-              article.innerHTML =
-                '<p class="item-meta">#' +
-                String(index + 2) +
-                " | " +
-                text(item.channel) +
-                " | views " +
-                number(item.viewCount) +
-                "</p>" +
-                '<h4><a target="_blank" rel="noopener noreferrer" href="' +
-                text(item.url) +
-                '">' +
-                text(item.title) +
-                "</a></h4>" +
-                "<p>" +
-                formatDate(item.publishedAt) +
-                "</p>";
-              list.appendChild(article);
-            });
-            layout.appendChild(list);
-            stage.appendChild(layout);
-            return;
-          }
-
-          const grid = document.createElement("div");
-          grid.className = "media-photo-grid";
-          const items = (content.photos || []).slice(0, 6);
-          if (items.length === 0) {
-            const empty = document.createElement("p");
-            empty.className = "media-empty";
-            empty.textContent =
-              "No matching photos found. Enable Google Photos and set album/keyword in admin.";
-            grid.appendChild(empty);
-          } else {
-            items.forEach((item) => {
-              const figure = document.createElement("figure");
-              figure.className = "media-photo-item";
-              const img = document.createElement("img");
-              img.className = "media-photo";
-              img.src = text(item.url);
-              img.alt = text(item.description) || "photo";
-              img.loading = "lazy";
-              const cap = document.createElement("figcaption");
-              cap.textContent = text(item.description);
-              figure.appendChild(img);
-              figure.appendChild(cap);
-              grid.appendChild(figure);
-            });
-          }
-          stage.appendChild(grid);
-        }
-
-        tabs.forEach((tab, index) => {
-          const button = document.createElement("button");
-          button.type = "button";
-          button.className = "media-tab" + (index === 0 ? " active" : "");
-          button.setAttribute("role", "tab");
-          button.setAttribute("aria-selected", index === 0 ? "true" : "false");
-          button.innerHTML = "<span>" + tab.label + "</span><strong>" + String(tab.count) + "</strong>";
-          button.addEventListener("click", () => {
-            tablist.querySelectorAll(".media-tab").forEach((node) => {
-              node.classList.remove("active");
-              node.setAttribute("aria-selected", "false");
-            });
-            button.classList.add("active");
-            button.setAttribute("aria-selected", "true");
-            renderPanel(tab.id);
-          });
-          tablist.appendChild(button);
-        });
-
-        root.appendChild(tablist);
-        root.appendChild(stage);
-        renderPanel("articles");
-      }
-
-      function renderRdfGraph(profile, targetId) {
-        const svg = document.getElementById(targetId || "rdf-graph");
-        clearChildren(svg);
-
-        const width = 760;
-        const height = 460;
-        const cx = width / 2;
-        const cy = height / 2;
-        const areaRadius = 140;
-        const outerRadius = 220;
-
-        const areas = (profile.researchAreas || []).slice(0, 6);
-        const techs = (profile.relatedTechnologies || []).slice(0, 8);
-        const acts = (profile.standardizationActivities || []).slice(0, 6);
-        const outer = [
-          ...techs.map((label) => ({ type: "tech", label })),
-          ...acts.map((label) => ({ type: "activity", label })),
-        ];
-
-        const defs = svgEl("defs");
-        const glow = svgEl("filter");
-        glow.setAttribute("id", "nodeGlow");
-        glow.innerHTML =
-          '<feGaussianBlur stdDeviation="3.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>';
-        defs.appendChild(glow);
-        svg.appendChild(defs);
-
-        const bg = svgEl("rect");
-        bg.setAttribute("x", "0");
-        bg.setAttribute("y", "0");
-        bg.setAttribute("width", String(width));
-        bg.setAttribute("height", String(height));
-        bg.setAttribute("fill", "transparent");
-        svg.appendChild(bg);
-
-        [areaRadius, outerRadius].forEach((radius) => {
-          const ring = svgEl("circle");
-          ring.setAttribute("cx", String(cx));
-          ring.setAttribute("cy", String(cy));
-          ring.setAttribute("r", String(radius));
-          ring.setAttribute("class", "rdf-ring");
-          ring.setAttribute("fill", "none");
-          ring.setAttribute("stroke", "#8ab6de");
-          ring.setAttribute("stroke-width", "1");
-          ring.setAttribute("stroke-dasharray", "4 6");
-          ring.setAttribute("opacity", "0.8");
-          svg.appendChild(ring);
-        });
-
-        const nodes = [];
-        const edges = [];
-
-        const center = {
-          id: "center",
-          label: text(profile.localName || profile.name || "Researcher"),
-          type: "center",
-          x: cx,
-          y: cy,
-          size: 16,
-        };
-        nodes.push(center);
-
-        areas.forEach((area, index) => {
-          const point = polar(cx, cy, areaRadius, (index * 360) / Math.max(areas.length, 1) - 90);
-          const node = {
-            id: "area-" + index,
-            label: text(area.name),
-            type: "area",
-            x: point.x,
-            y: point.y,
-            size: 11,
-          };
-          nodes.push(node);
-          edges.push({ from: center.id, to: node.id, kind: "primary" });
-        });
-
-        outer.forEach((item, index) => {
-          const point = polar(cx, cy, outerRadius, (index * 360) / Math.max(outer.length, 1) - 90);
-          const node = {
-            id: item.type + "-" + index,
-            label: text(item.label),
-            type: item.type,
-            x: point.x,
-            y: point.y,
-            size: 8,
-          };
-          nodes.push(node);
-          edges.push({ from: center.id, to: node.id, kind: "secondary" });
-
-          if (areas.length > 0) {
-            const areaIdx =
-              item.type === "tech"
-                ? index % areas.length
-                : (index * 2 + 1) % areas.length;
-            edges.push({ from: "area-" + areaIdx, to: node.id, kind: "link" });
-          }
-        });
-
-        const byId = new Map(nodes.map((node) => [node.id, node]));
-
-        edges.forEach((edge) => {
-          const a = byId.get(edge.from);
-          const b = byId.get(edge.to);
-          if (!a || !b) return;
-          const line = svgEl("line");
-          line.setAttribute("x1", String(a.x));
-          line.setAttribute("y1", String(a.y));
-          line.setAttribute("x2", String(b.x));
-          line.setAttribute("y2", String(b.y));
-          line.setAttribute("class", "rdf-edge rdf-edge-" + edge.kind);
-          if (edge.kind === "primary") {
-            line.setAttribute("stroke", "rgba(0,143,214,0.48)");
-            line.setAttribute("stroke-width", "1.6");
-          } else if (edge.kind === "secondary") {
-            line.setAttribute("stroke", "rgba(40,105,173,0.34)");
-            line.setAttribute("stroke-width", "1.1");
-          } else {
-            line.setAttribute("stroke", "rgba(8,179,144,0.32)");
-            line.setAttribute("stroke-width", "1");
-          }
-          line.setAttribute("stroke-linecap", "round");
-          svg.appendChild(line);
-        });
-
-        nodes.forEach((node) => {
-          const g = svgEl("g");
-          g.setAttribute("class", "rdf-node-group");
-
-          const circle = svgEl("circle");
-          circle.setAttribute("cx", String(node.x));
-          circle.setAttribute("cy", String(node.y));
-          circle.setAttribute("r", String(node.size));
-          circle.setAttribute("class", "rdf-node rdf-node-" + node.type);
-          circle.setAttribute("filter", "url(#nodeGlow)");
-          if (node.type === "center") {
-            circle.setAttribute("fill", "#16c9b2");
-            circle.setAttribute("stroke", "#eafffb");
-            circle.setAttribute("stroke-width", "1.1");
-          } else if (node.type === "area") {
-            circle.setAttribute("fill", "#1f7cff");
-            circle.setAttribute("stroke", "#e0f2ff");
-            circle.setAttribute("stroke-width", "1");
-          } else if (node.type === "activity") {
-            circle.setAttribute("fill", "#65dcb4");
-            circle.setAttribute("stroke", "#e7fff6");
-            circle.setAttribute("stroke-width", "1");
-          } else {
-            circle.setAttribute("fill", "#8f7cff");
-            circle.setAttribute("stroke", "#f0ecff");
-            circle.setAttribute("stroke-width", "1");
-          }
-          g.appendChild(circle);
-
-          const label = svgEl("text");
-          const isCenter = node.type === "center";
-          const anchor = isCenter ? "middle" : node.x > cx ? "start" : "end";
-          label.setAttribute("x", String(isCenter ? node.x : node.x + (node.x > cx ? 14 : -14)));
-          label.setAttribute("y", String(node.y + 4));
-          label.setAttribute("text-anchor", anchor);
-          label.setAttribute("class", "rdf-label rdf-label-" + node.type);
-          label.setAttribute("fill", node.type === "center" ? "#093158" : "#23486b");
-          label.setAttribute("font-size", node.type === "center" ? "13" : "11");
-          if (node.type === "center") {
-            label.setAttribute("font-weight", "800");
-          }
-          label.textContent = node.label;
-          g.appendChild(label);
-
-          svg.appendChild(g);
-        });
-
-        const legendItems = [
-          { cls: "area", label: "Research Area" },
-          { cls: "tech", label: "Technology" },
-          { cls: "activity", label: "Standardization" },
-        ];
-        legendItems.forEach((item, index) => {
-          const lx = 20 + index * 165;
-          const ly = height - 20;
-          const dot = svgEl("circle");
-          dot.setAttribute("cx", String(lx));
-          dot.setAttribute("cy", String(ly));
-          dot.setAttribute("r", "5");
-          dot.setAttribute("class", "rdf-node rdf-node-" + item.cls);
-          if (item.cls === "area") dot.setAttribute("fill", "#1f7cff");
-          if (item.cls === "tech") dot.setAttribute("fill", "#8f7cff");
-          if (item.cls === "activity") dot.setAttribute("fill", "#65dcb4");
-          svg.appendChild(dot);
-
-          const txt = svgEl("text");
-          txt.setAttribute("x", String(lx + 10));
-          txt.setAttribute("y", String(ly + 4));
-          txt.setAttribute("class", "rdf-legend-text");
-          txt.setAttribute("fill", "#5d7694");
-          txt.setAttribute("font-size", "10");
-          txt.textContent = item.label;
-          svg.appendChild(txt);
-        });
-      }
-
-      function setupGraphModal(profile) {
-        const modal = document.getElementById("graph-modal");
-        const openButton = document.getElementById("expand-graph");
-        const closeButton = document.getElementById("close-graph");
-        const backdrop = modal.querySelector(".graph-modal-backdrop");
-
-        function close() {
-          modal.hidden = true;
-          document.body.classList.remove("graph-modal-open");
-        }
-
-        function open() {
-          modal.hidden = false;
-          document.body.classList.add("graph-modal-open");
-          renderRdfGraph(profile, "rdf-graph-modal");
-        }
-
-        openButton.addEventListener("click", open);
-        closeButton.addEventListener("click", close);
-        backdrop.addEventListener("click", close);
-        window.addEventListener("keydown", (event) => {
-          if (event.key === "Escape" && !modal.hidden) close();
-        });
-      }
-
-      function renderResearchAreas(profile) {
-        const root = document.getElementById("research-areas");
-        clearChildren(root);
-        const areas = Array.isArray(profile.researchAreas) ? profile.researchAreas : [];
-        if (areas.length === 0) {
-          root.textContent = "No research areas configured.";
-          return;
-        }
-        const areaMax = Math.max(...areas.map((item) => Number(item.score) || 0), 1);
-        areas.forEach((area) => {
-          const row = document.createElement("div");
-          row.className = "domain-row";
-
-          const head = document.createElement("div");
-          head.className = "domain-head";
-          const left = document.createElement("span");
-          left.textContent = text(area.name);
-          const right = document.createElement("span");
-          right.textContent = String(Number(area.score) || 0);
-          head.appendChild(left);
-          head.appendChild(right);
-
-          const track = document.createElement("div");
-          track.className = "domain-track";
-          const fill = document.createElement("span");
-          fill.className = "domain-fill";
-          fill.style.width =
-            Math.max(0, Math.min(100, Math.round(((Number(area.score) || 0) / areaMax) * 100))) +
-            "%";
-          track.appendChild(fill);
-
-          row.appendChild(head);
-          row.appendChild(track);
-          root.appendChild(row);
-        });
-      }
-
-      function renderResearchSignals(profile, content) {
-        const root = document.getElementById("research-signals");
-        clearChildren(root);
-        const metrics = profile.researchMetrics || {};
-        const signals = [
-          { label: "Citations", value: Number(metrics.citations) || 0 },
-          { label: "Publications", value: Number(metrics.publications) || 0 },
-          { label: "Top Projects", value: (content.projects || []).length },
-          { label: "Ranked Articles", value: Math.min((content.articles || []).length, 8) },
-          { label: "Top Videos", value: Math.min((content.videos || []).length, 8) },
-        ];
-        const max = Math.max(...signals.map((item) => item.value), 1);
-
-        signals.forEach((item) => {
-          const col = document.createElement("div");
-          col.className = "signal-column";
-
-          const bar = document.createElement("span");
-          bar.className = "signal-bar";
-          bar.style.height = Math.max(10, toSqrtPercent(item.value, max)) + "%";
-
-          const value = document.createElement("span");
-          value.className = "signal-value";
-          value.textContent = number(item.value);
-
-          const label = document.createElement("span");
-          label.className = "signal-label";
-          label.textContent = item.label;
-
-          col.appendChild(bar);
-          col.appendChild(value);
-          col.appendChild(label);
-          root.appendChild(col);
-        });
-      }
-
-      function renderTech(profile) {
-        const root = document.getElementById("related-tech");
-        clearChildren(root);
-        const tech = Array.isArray(profile.relatedTechnologies) ? profile.relatedTechnologies : [];
-        if (tech.length === 0) {
-          root.textContent = "No related technologies configured.";
-          return;
-        }
-        tech.forEach((item, index) => {
-          const span = document.createElement("span");
-          span.className = "tech-pill";
-          span.textContent = text(item);
-          span.style.fontSize = 1 + (index % 4) * 0.12 + "rem";
-          root.appendChild(span);
-        });
-      }
-
-      function renderActivities(profile) {
-        const root = document.getElementById("standardization-activities");
-        clearChildren(root);
-        const activities = Array.isArray(profile.standardizationActivities)
-          ? profile.standardizationActivities
-          : [];
-        if (activities.length === 0) {
-          root.textContent = "No standardization activities configured.";
-          return;
-        }
-        activities.forEach((item, index) => {
-          const row = document.createElement("div");
-          row.className = "standard-item";
-          const idx = document.createElement("span");
-          idx.className = "standard-index";
-          idx.textContent = String(index + 1).padStart(2, "0");
-          const txt = document.createElement("span");
-          txt.textContent = text(item);
-          row.appendChild(idx);
-          row.appendChild(txt);
-          root.appendChild(row);
-        });
-      }
-
-      function renderPatentStatus(profile) {
-        const summaryRoot = document.getElementById("patent-summary");
-        const yearlyRoot = document.getElementById("patent-yearly");
-        const recordsRoot = document.getElementById("patent-records");
-        clearChildren(summaryRoot);
-        clearChildren(yearlyRoot);
-        clearChildren(recordsRoot);
-
-        const patent = profile.patentStats || {
-          domestic: { applications: 0, registrations: 0 },
-          international: { applications: 0, registrations: 0 },
-          yearly: [],
-        };
-        const summary = [
-          {
-            label: "Domestic",
-            applications: Number(patent.domestic?.applications) || 0,
-            registrations: Number(patent.domestic?.registrations) || 0,
-          },
-          {
-            label: "International",
-            applications: Number(patent.international?.applications) || 0,
-            registrations: Number(patent.international?.registrations) || 0,
-          },
-        ];
-        const summaryMax = Math.max(
-          ...summary.map((item) => Math.max(item.applications, item.registrations)),
-          1,
-        );
-
-        summary.forEach((item) => {
-          const card = document.createElement("article");
-          card.className = "patent-summary-card";
-
-          const title = document.createElement("p");
-          title.className = "metric-label";
-          title.textContent = item.label;
-          card.appendChild(title);
-
-          const appRow = document.createElement("div");
-          appRow.className = "patent-metric-row";
-          appRow.innerHTML = "<span>출원</span><strong>" + number(item.applications) + "</strong>";
-          card.appendChild(appRow);
-
-          const appTrack = document.createElement("div");
-          appTrack.className = "patent-track";
-          const appFill = document.createElement("span");
-          appFill.className = "patent-fill applications";
-          appFill.style.width =
-            Math.max(0, Math.min(100, Math.round((item.applications / summaryMax) * 100))) + "%";
-          appTrack.appendChild(appFill);
-          card.appendChild(appTrack);
-
-          const regRow = document.createElement("div");
-          regRow.className = "patent-metric-row";
-          regRow.innerHTML = "<span>등록</span><strong>" + number(item.registrations) + "</strong>";
-          card.appendChild(regRow);
-
-          const regTrack = document.createElement("div");
-          regTrack.className = "patent-track";
-          const regFill = document.createElement("span");
-          regFill.className = "patent-fill registrations";
-          regFill.style.width =
-            Math.max(0, Math.min(100, Math.round((item.registrations / summaryMax) * 100))) + "%";
-          regTrack.appendChild(regFill);
-          card.appendChild(regTrack);
-
-          summaryRoot.appendChild(card);
-        });
-
-        const yearly = Array.isArray(patent.yearly) ? [...patent.yearly] : [];
-        yearly.sort((a, b) => String(a.year).localeCompare(String(b.year)));
-        const yearlyMax = Math.max(
-          ...yearly.map((item) =>
-            Math.max(Number(item.applications) || 0, Number(item.registrations) || 0),
-          ),
-          1,
-        );
-
-        yearly.forEach((item) => {
-          const applications = Number(item.applications) || 0;
-          const registrations = Number(item.registrations) || 0;
-
-          const card = document.createElement("article");
-          card.className = "patent-year-card";
-
-          const year = document.createElement("p");
-          year.className = "item-meta";
-          year.textContent = text(item.year);
-          card.appendChild(year);
-
-          const bars = document.createElement("div");
-          bars.className = "patent-year-bars";
-
-          const app = document.createElement("span");
-          app.className = "patent-bar applications";
-          app.style.height = Math.max(10, toSqrtPercent(applications, yearlyMax)) + "%";
-          bars.appendChild(app);
-
-          const reg = document.createElement("span");
-          reg.className = "patent-bar registrations";
-          reg.style.height = Math.max(10, toSqrtPercent(registrations, yearlyMax)) + "%";
-          bars.appendChild(reg);
-
-          card.appendChild(bars);
-
-          const values = document.createElement("p");
-          values.className = "patent-year-values";
-          values.textContent = "A " + number(applications) + " / R " + number(registrations);
-          card.appendChild(values);
-
-          yearlyRoot.appendChild(card);
-        });
-
-        const records = Array.isArray(profile.patentRecords) ? [...profile.patentRecords] : [];
-        records.sort((a, b) => text(b.filedAt).localeCompare(text(a.filedAt)));
-
-        if (records.length === 0) {
-          const empty = document.createElement("p");
-          empty.className = "empty";
-          empty.textContent = "No patent records configured yet.";
-          recordsRoot.appendChild(empty);
-          return;
-        }
-
-        records.slice(0, 12).forEach((item) => {
-          const card = document.createElement("article");
-          card.className = "patent-record-item";
-
-          const meta = document.createElement("p");
-          meta.className = "item-meta";
-          meta.textContent =
-            text(item.region) + " | " + text(item.status) + " | " + text(item.patentNumber);
-          card.appendChild(meta);
-
-          const title = document.createElement("h3");
-          title.textContent = text(item.title);
-          card.appendChild(title);
-
-          const filed = document.createElement("p");
-          filed.className = "item-meta";
-          filed.textContent = "Filed: " + formatDate(text(item.filedAt));
-          card.appendChild(filed);
-
-          recordsRoot.appendChild(card);
-        });
-      }
-
-      async function load() {
-        const cacheBust = "ts=" + Date.now();
-        const [profileRes, contentRes, promotionRes] = await Promise.all([
-          fetch("./data/profile.json?" + cacheBust, { cache: "no-store" }),
-          fetch("./data/content.json?" + cacheBust, { cache: "no-store" }),
-          fetch("./data/promotion-highlights.json?" + cacheBust, { cache: "no-store" }),
-        ]);
-
-        const profile = await profileRes.json();
-        const content = await contentRes.json();
-        const promotion = await promotionRes.json();
-        const metrics = profile.researchMetrics || {};
-        const organization = text(profile.location).split(",")[0].trim() || "ETRI";
-        const patent = profile.patentStats || {
-          domestic: { applications: 0, registrations: 0 },
-          international: { applications: 0, registrations: 0 },
-        };
-        const patentAssets =
-          (Number(patent.domestic?.applications) || 0) +
-          (Number(patent.domestic?.registrations) || 0) +
-          (Number(patent.international?.applications) || 0) +
-          (Number(patent.international?.registrations) || 0);
-
-        const name = text(profile.name) || "Ha Suwook";
-        const localName = text(profile.localName);
-
-        document.getElementById("name").textContent = name;
-        document.getElementById("name-local").textContent = localName
-          ? name + " | " + localName + " | " + organization
-          : name;
-        document.getElementById("headline").textContent = text(profile.headline);
-        document.getElementById("bio").textContent = text(profile.bio);
-        document.getElementById("intro-ko").textContent = text(profile.introKo);
-        document.getElementById("intro-en").textContent = text(profile.introEn);
-        document.getElementById("research-summary").textContent =
-          text(profile.researchSummary) || text(profile.bio);
-        document.getElementById("location").textContent = text(profile.location);
-        document.getElementById("hero-org").textContent = organization;
-
-        const websiteUrl = text(profile.website) || "https://github.com/Suwook-HA";
-        const website = document.getElementById("website");
-        website.href = websiteUrl;
-        website.textContent = "Website";
-
-        const email = document.getElementById("email");
-        email.href = "mailto:" + text(profile.email);
-        email.textContent = text(profile.email) || "Email";
-
-        const profileLink = document.getElementById("profile-link");
-        profileLink.href = websiteUrl;
-
-        const scholarUrl = text(profile.googleScholarUrl);
-        if (scholarUrl) {
-          const scholar = document.getElementById("scholar-link");
-          scholar.href = scholarUrl;
-          scholar.style.display = "inline-flex";
-        }
-
-        document.getElementById("metric-citations").textContent = number(metrics.citations);
-        document.getElementById("metric-hindex").textContent = number(metrics.hIndex);
-        document.getElementById("metric-i10index").textContent = number(metrics.i10Index);
-        document.getElementById("metric-publications").textContent = number(metrics.publications);
-        document.getElementById("metric-tracks").textContent = number(
-          (profile.standardizationActivities || []).length,
-        );
-        document.getElementById("hero-citations").textContent = number(metrics.citations);
-        document.getElementById("hero-publications").textContent = number(metrics.publications);
-        document.getElementById("hero-tracks").textContent = number(
-          (profile.standardizationActivities || []).length,
-        );
-        document.getElementById("hero-patents").textContent = number(patentAssets);
-
-        renderHero(profile);
-        renderCredibility(profile, content);
-        renderRdfGraph(profile, "rdf-graph");
-        setupGraphModal(profile);
-        renderResearchAreas(profile);
-        renderResearchSignals(profile, content);
-        renderTech(profile);
-        renderActivities(profile);
-        renderPatentStatus(profile);
-        renderMediaTabs(content);
-
-        document.getElementById("highlight-updated").textContent =
-          "Updated from curated public sources: " + (text(promotion.updatedAt) || "N/A");
-
-        const highlights = document.getElementById("highlights");
-        (promotion.highlights || []).forEach((item) => {
-          highlights.appendChild(
-            card(
-              [text(item.date), text(item.sourceName)].filter(Boolean).join(" | "),
-              text(item.title),
-              text(item.summary),
-              text(item.sourceUrl),
-              "Open Source",
-            ),
-          );
-        });
-
-        const projects = document.getElementById("projects");
-        (content.projects || []).forEach((item) => {
-          projects.appendChild(
-            card(
-              [text(item.language), "stars " + number(item.stars), "forks " + number(item.forks)]
-                .filter(Boolean)
-                .join(" | "),
-              text(item.name),
-              text(item.description),
-              text(item.url),
-              "Open Repo",
-            ),
-          );
-        });
-
-        const articles = document.getElementById("articles");
-        (content.articles || []).slice(0, 8).forEach((item, index) => {
-          articles.appendChild(
-            card(
-              ["#" + (item.rank || ""), text(item.source), formatDate(item.publishedAt)]
-                .filter(Boolean)
-                .join(" | "),
-              text(item.title),
-              text(item.summary),
-              text(item.url),
-              "Read Article",
-              index === 0 ? "feature-item" : "",
-            ),
-          );
-        });
-
-        const videos = document.getElementById("videos");
-        (content.videos || []).slice(0, 8).forEach((item, index) => {
-          videos.appendChild(videoCard(item, index));
-        });
-
-        const photos = document.getElementById("photos");
-        (content.photos || []).forEach((item) => {
-          const figure = document.createElement("figure");
-          figure.className = "photo-item";
-          const img = document.createElement("img");
-          img.src = text(item.url);
-          img.alt = text(item.description) || "photo";
-          img.loading = "lazy";
-          const cap = document.createElement("figcaption");
-          cap.textContent = text(item.description);
-          figure.appendChild(img);
-          figure.appendChild(cap);
-          photos.appendChild(figure);
-        });
-
-        document.getElementById("updatedAt").textContent =
-          "Last refresh: " + formatDate(content.updatedAt);
-        document.getElementById("counts").textContent =
-          "Cached now: articles " +
-          (content.articles || []).length +
-          ", videos " +
-          (content.videos || []).length +
-          ", photos " +
-          (content.photos || []).length +
-          ", projects " +
-          (content.projects || []).length;
-      }
-
-      load().catch((error) => {
-        const el = document.getElementById("updatedAt");
-        el.textContent = "Failed to load page data: " + (error && error.message ? error.message : "Unknown error");
-      });
-    </script>
+    <script src="./app.js?v=20260316-7"></script>
   </body>
 </html>
-
-
-
-

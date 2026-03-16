@@ -1935,3 +1935,234 @@ h1 {
     scroll-behavior: auto !important;
   }
 }
+
+.hero-topline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 999px;
+  border: 1px solid rgba(110, 150, 199, 0.26);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.lang-toggle-button {
+  min-width: 44px;
+  min-height: 34px;
+  padding: 6px 10px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #54718f;
+  font-family: "JetBrains Mono", "Consolas", "Monaco", monospace;
+  font-size: 0.76rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.lang-toggle-button.active {
+  background: linear-gradient(125deg, rgba(27, 109, 255, 0.16), rgba(20, 201, 178, 0.18));
+  color: #09345f;
+  box-shadow: inset 0 0 0 1px rgba(27, 109, 255, 0.18);
+}
+
+.lang-switch {
+  display: inline-grid;
+  gap: 2px;
+}
+
+.lang-switch.inline {
+  display: inline-flex;
+  gap: 0.35em;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+html[data-lang="ko"] .lang-en,
+html[data-lang="ko"] .profile-paragraph.en {
+  display: none;
+}
+
+html[data-lang="en"] .lang-ko,
+html[data-lang="en"] .profile-paragraph.ko {
+  display: none;
+}
+
+html[data-lang="bi"] .lang-switch.inline .lang-ko::after,
+html:not([data-lang]) .lang-switch.inline .lang-ko::after {
+  content: "/";
+  margin-left: 0.35em;
+  color: #7b90aa;
+}
+
+.hero-portrait-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.portrait-frame {
+  fill: rgba(7, 19, 39, 0.58);
+  stroke: rgba(135, 198, 255, 0.34);
+}
+
+.portrait-halo {
+  fill: url(#portraitAura);
+  opacity: 0.34;
+  filter: blur(6px);
+}
+
+.portrait-head {
+  fill: url(#portraitCore);
+}
+
+.portrait-body {
+  fill: none;
+  stroke: url(#portraitAura);
+  stroke-width: 10;
+  stroke-linecap: round;
+}
+
+.portrait-body.accent {
+  stroke-width: 4;
+  opacity: 0.65;
+}
+
+.portrait-grid {
+  fill: none;
+  stroke: rgba(130, 191, 243, 0.18);
+  stroke-width: 1;
+}
+
+.portrait-outline {
+  fill: none;
+  stroke: rgba(225, 247, 255, 0.8);
+  stroke-width: 1.4;
+}
+
+.portrait-base {
+  fill: none;
+  stroke: rgba(57, 245, 209, 0.62);
+  stroke-width: 2.4;
+  stroke-linecap: round;
+}
+
+.graph-focus-panel {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(120, 154, 193, 0.2);
+}
+
+.graph-focus-head {
+  display: grid;
+  gap: 6px;
+}
+
+.graph-focus-head strong {
+  font-size: 1.05rem;
+  color: #16355b;
+}
+
+.focus-type {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-family: "JetBrains Mono", "Consolas", "Monaco", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.focus-type.center { background: linear-gradient(120deg, #0f62f6, #14c9b2); }
+.focus-type.area { background: linear-gradient(120deg, #1f7cff, #47a8ff); }
+.focus-type.tech { background: linear-gradient(120deg, #7a6bff, #a290ff); }
+.focus-type.activity { background: linear-gradient(120deg, #13b89c, #65dcb4); }
+
+.graph-focus-grid {
+  margin-top: 14px;
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.graph-focus-card {
+  padding: 14px;
+  border-radius: 18px;
+  border: 1px solid rgba(120, 154, 193, 0.22);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(243, 249, 255, 0.84)), rgba(255, 255, 255, 0.78);
+}
+
+.graph-focus-card h4,
+.focus-list-item h5 { margin: 0; }
+
+.focus-chip-list,
+.focus-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.focus-chip {
+  justify-self: start;
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid rgba(109, 150, 199, 0.24);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.74);
+  color: #0b4fa6;
+  font: inherit;
+  cursor: pointer;
+}
+
+.focus-chip:hover {
+  border-color: rgba(27, 109, 255, 0.34);
+  background: linear-gradient(125deg, rgba(27, 109, 255, 0.12), rgba(20, 201, 178, 0.12));
+}
+
+.focus-list-item {
+  display: grid;
+  gap: 6px;
+}
+
+.focus-list-item a {
+  color: #16355b;
+  overflow-wrap: anywhere;
+}
+
+.rdf-node-group { cursor: pointer; }
+.rdf-node-group.active .rdf-node { stroke-width: 2; stroke: #ffffff; }
+.rdf-node-group.active .rdf-label { font-weight: 800; fill: #0a3b72; }
+.rdf-edge.active { stroke-width: 2.4; opacity: 0.95; }
+
+.links {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.links li { margin: 4px 0; }
+
+@media (max-width: 1040px) {
+  .graph-focus-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 700px) {
+  .hero-topline {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .lang-toggle {
+    width: fit-content;
+  }
+}

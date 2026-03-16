@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 
+import { LangText } from "@/app/ui/lang-text";
 import type { ArticleItem, PhotoItem, VideoItem } from "@/lib/types";
 
 type TabId = "articles" | "videos" | "photos";
@@ -31,9 +32,24 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
 
   const tabMeta = useMemo(
     () => [
-      { id: "articles" as const, label: "Articles", count: Math.min(articles.length, 8) },
-      { id: "videos" as const, label: "Videos", count: Math.min(videos.length, 8) },
-      { id: "photos" as const, label: "Photos", count: photos.length },
+      {
+        id: "articles" as const,
+        labelKo: "기사",
+        labelEn: "Articles",
+        count: Math.min(articles.length, 8),
+      },
+      {
+        id: "videos" as const,
+        labelKo: "동영상",
+        labelEn: "Videos",
+        count: Math.min(videos.length, 8),
+      },
+      {
+        id: "photos" as const,
+        labelKo: "사진",
+        labelEn: "Photos",
+        count: photos.length,
+      },
     ],
     [articles.length, photos.length, videos.length],
   );
@@ -50,7 +66,7 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
             className={`media-tab${activeTab === tab.id ? " active" : ""}`}
             onClick={() => setActiveTab(tab.id)}
           >
-            <span>{tab.label}</span>
+            <LangText ko={tab.labelKo} en={tab.labelEn} inline />
             <strong>{tab.count}</strong>
           </button>
         ))}
@@ -61,7 +77,9 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
           <div className="media-layout">
             {articles[0] ? (
               <article className="media-feature">
-                <p className="media-kicker">Lead Story</p>
+                <p className="media-kicker">
+                  <LangText ko="대표 기사" en="Lead Story" inline />
+                </p>
                 <h3>
                   <Link href={articles[0].url} target="_blank">
                     {articles[0].title}
@@ -73,7 +91,12 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
                 </p>
               </article>
             ) : (
-              <p className="media-empty">No ranked articles collected yet.</p>
+              <p className="media-empty">
+                <LangText
+                  ko="아직 수집된 랭킹 기사가 없습니다."
+                  en="No ranked articles collected yet."
+                />
+              </p>
             )}
 
             <div className="media-list">
@@ -108,7 +131,9 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
                   />
                 ) : null}
                 <div className="media-feature-body">
-                  <p className="media-kicker">Featured Video</p>
+                  <p className="media-kicker">
+                    <LangText ko="대표 동영상" en="Featured Video" inline />
+                  </p>
                   <h3>
                     <Link href={videos[0].url} target="_blank">
                       {videos[0].title}
@@ -121,7 +146,12 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
                 </div>
               </article>
             ) : (
-              <p className="media-empty">No ranked videos collected yet.</p>
+              <p className="media-empty">
+                <LangText
+                  ko="아직 수집된 랭킹 동영상이 없습니다."
+                  en="No ranked videos collected yet."
+                />
+              </p>
             )}
 
             <div className="media-list">
@@ -146,7 +176,10 @@ export function IntelligenceTabs({ articles, videos, photos }: Props) {
           <div className="media-photo-grid">
             {photos.length === 0 ? (
               <p className="media-empty">
-                No matching photos found. Enable Google Photos and set album/keyword in admin.
+                <LangText
+                  ko="일치하는 사진이 없습니다. 관리자에서 Google Photos와 키워드를 설정하세요."
+                  en="No matching photos found. Enable Google Photos and set album/keyword in admin."
+                />
               </p>
             ) : (
               photos.slice(0, 6).map((photo) => (

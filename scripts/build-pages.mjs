@@ -18,6 +18,7 @@ async function build() {
 
   await cp(path.join(root, "site", "index.html"), path.join(dist, "index.html"));
   await cp(path.join(root, "site", "style.css"), path.join(dist, "style.css"));
+  await cp(path.join(root, "site", "app.js"), path.join(dist, "app.js"));
 
   const files = [
     "profile.json",
