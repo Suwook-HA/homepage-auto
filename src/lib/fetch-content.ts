@@ -13,6 +13,7 @@ import type {
 
 const parser = new Parser();
 const MAX_ARTICLES = 8;
+const ARTICLE_WINDOW_DAYS = 4;
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
@@ -190,6 +191,16 @@ function dedupeByUrl<T extends { url: string }>(items: T[]): T[] {
     }
   }
   return [...map.values()];
+}
+
+function articleWindowStartMs(nowMs = Date.now()): number {
+  return nowMs - ARTICLE_WINDOW_DAYS * 86_400_000;
+}
+
+function isWithinArticleWindow(publishedAt: string, nowMs = Date.now()): boolean {
+  const publishedMs = new Date(publishedAt).getTime();
+  if (Number.isNaN(publishedMs)) return false;
+  return publishedMs >= articleWindowStartMs(nowMs) && publishedMs <= nowMs;
 }
 
 function parseLocale(locale: string): { lang: string; country: string } {
@@ -460,7 +471,9 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
   const keywordSet = [...profile.articleKeywords, ...profile.interests];
 
   const feeds = queries.map((query) => {
-    const encoded = encodeURIComponent(`${query} IT standardization OR AI standard`);
+    const encoded = encodeURIComponent(
+      `${query} IT standardization OR AI standard when:${ARTICLE_WINDOW_DAYS}d`,
+    );
     return {
       source: `Google News: ${query}`,
       url: `https://news.google.com/rss/search?q=${encoded}&hl=${lang}-${country}&gl=${country}&ceid=${country}:${lang}`,
@@ -493,7 +506,10 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
     }
   });
 
-  const all = (await Promise.all(jobs)).flat().filter((item) => item.url);
+  const all = (await Promise.all(jobs))
+    .flat()
+    .filter((item) => item.url)
+    .filter((item) => isWithinArticleWindow(item.publishedAt));
   const deduped = dedupeArticlesByContent(all);
   return deduped
     .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))

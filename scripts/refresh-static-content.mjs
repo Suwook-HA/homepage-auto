@@ -6,6 +6,7 @@ import Parser from "rss-parser";
 
 const parser = new Parser();
 const MAX_ARTICLES = 8;
+const ARTICLE_WINDOW_DAYS = 4;
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
@@ -148,6 +149,16 @@ function dedupeByUrl(items) {
     }
   }
   return [...map.values()];
+}
+
+function articleWindowStartMs(nowMs = Date.now()) {
+  return nowMs - ARTICLE_WINDOW_DAYS * 86_400_000;
+}
+
+function isWithinArticleWindow(publishedAt, nowMs = Date.now()) {
+  const publishedMs = new Date(publishedAt).getTime();
+  if (Number.isNaN(publishedMs)) return false;
+  return publishedMs >= articleWindowStartMs(nowMs) && publishedMs <= nowMs;
 }
 
 function parseLocale(locale) {
@@ -320,7 +331,9 @@ async function fetchArticles(profile) {
   }
 
   const feeds = queries.map((query) => {
-    const encoded = encodeURIComponent(`${query} IT standardization OR AI standard`);
+    const encoded = encodeURIComponent(
+      `${query} IT standardization OR AI standard when:${ARTICLE_WINDOW_DAYS}d`,
+    );
     return {
       source: `Google News: ${query}`,
       url: `https://news.google.com/rss/search?q=${encoded}&hl=${lang}-${country}&gl=${country}&ceid=${country}:${lang}`,
@@ -353,7 +366,10 @@ async function fetchArticles(profile) {
     }
   });
 
-  const all = (await Promise.all(jobs)).flat().filter((item) => item.url);
+  const all = (await Promise.all(jobs))
+    .flat()
+    .filter((item) => item.url)
+    .filter((item) => isWithinArticleWindow(item.publishedAt));
   const deduped = dedupeArticlesByContent(all);
   return deduped
     .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
@@ -611,7 +627,8 @@ function normalizeArticleItems(items) {
       publishedAt: toIsoDate(toText(item?.publishedAt)),
       rank: Number(item?.rank ?? 0),
     }))
-    .filter((item) => item.url);
+    .filter((item) => item.url)
+    .filter((item) => isWithinArticleWindow(item.publishedAt));
 
   return dedupeArticlesByContent(normalized)
     .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
