@@ -12,6 +12,113 @@ import type {
 } from "@/lib/types";
 
 const parser = new Parser();
+const MAX_ARTICLES = 8;
+const MAX_VIDEOS = 8;
+const VIDEO_MIN_RELEVANCE_STRICT = 6;
+const VIDEO_MIN_RELEVANCE_RELAXED = 2;
+
+const CURATED_TECH_NEWS_CHANNELS = [
+  { name: "Bloomberg Technology", channelId: "UCrM7B7SL_g1edFOnmj-SDKg" },
+  { name: "TechCrunch", channelId: "UCCjyq_K1Xwfg8Lndy7lKMpA" },
+  { name: "OpenAI", channelId: "UCXZCJLdBC09xxGZ6gcdrc6A" },
+  { name: "Google Cloud Tech", channelId: "UCTMRxtyHoE3LPcrl-kT4AQQ" },
+  { name: "DeepLearningAI", channelId: "UCcIXc5mJsHVYTZR1maL5l9w" },
+  { name: "Two Minute Papers", channelId: "UCbfYPyITQ-7l4upoX8nvctg" },
+  { name: "IBM Technology", channelId: "UC8cc4pVKVHG7A9fbNsRNrLQ" },
+  { name: "Google for Developers", channelId: "UC_x5XG1OV2P6uZZ5FSM9Ttw" },
+] as const;
+
+const VIDEO_DOMAIN_TOKENS = [
+  "ai",
+  "artificial intelligence",
+  "machine learning",
+  "deep learning",
+  "llm",
+  "generative ai",
+  "chatgpt",
+  "openai",
+  "technology",
+  "tech",
+  "it",
+  "industry",
+  "digital transformation",
+  "cloud",
+  "semiconductor",
+  "gpu",
+  "chip",
+  "data",
+  "analytics",
+  "cybersecurity",
+  "software",
+  "developer",
+  "android",
+  "robotics",
+  "automation",
+  "startup",
+  "microsoft",
+  "google",
+  "meta",
+  "nvidia",
+  "tesla",
+  "standard",
+  "standardization",
+  "iso",
+  "iec",
+  "itu",
+  "sc42",
+];
+
+const VIDEO_NEWS_TOKENS = [
+  "news",
+  "latest",
+  "update",
+  "trend",
+  "brief",
+  "report",
+  "analysis",
+  "insight",
+  "conference",
+  "summit",
+  "announcement",
+  "launch",
+  "today",
+  "weekly",
+  "daily",
+  "breakdown",
+  "roundup",
+  "highlights",
+];
+
+const VIDEO_EXCLUDE_TOKENS = [
+  "trailer",
+  "gameplay",
+  "cinematic",
+  "valorant",
+  "fortnite",
+  "rtx showcase",
+  "walkthrough",
+  "reaction",
+  "music video",
+  "mv",
+  "esports",
+  "movie",
+  "drama",
+  "anime",
+  "tutorial",
+  "course",
+  "for beginners",
+  "working at",
+  "career",
+  "hiring",
+  "recruiting",
+  "join us",
+  "engineer like",
+];
+
+type VideoChannel = {
+  name: string;
+  channelId: string;
+};
 
 type GitHubRepo = {
   id: number;
@@ -95,6 +202,211 @@ function parseLocale(locale: string): { lang: string; country: string } {
 
 function normalize(text: string): string {
   return text.toLowerCase();
+}
+
+function cleanTextKey(text: string): string {
+  return normalize(text)
+    .replace(/\s*-\s*[^-]{1,80}$/, "")
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function toTextTokens(text: string): string[] {
+  const stopwords = new Set([
+    "the",
+    "and",
+    "for",
+    "with",
+    "from",
+    "news",
+    "video",
+    "update",
+    "latest",
+    "ai",
+    "it",
+  ]);
+  return cleanTextKey(text)
+    .split(" ")
+    .map((token) => token.trim())
+    .filter((token) => token.length >= 2 && !stopwords.has(token));
+}
+
+function overlapRatio(a: string[], b: string[]): number {
+  if (a.length === 0 || b.length === 0) return 0;
+  const aSet = new Set(a);
+  const bSet = new Set(b);
+  let shared = 0;
+  for (const token of aSet) {
+    if (bSet.has(token)) shared += 1;
+  }
+  return shared / Math.min(aSet.size, bSet.size);
+}
+
+function isDuplicateArticle(a: ArticleItem, b: ArticleItem): boolean {
+  if (a.url === b.url) return true;
+
+  const aTitle = cleanTextKey(a.title);
+  const bTitle = cleanTextKey(b.title);
+  if (aTitle && bTitle) {
+    if (aTitle === bTitle) return true;
+    if (aTitle.includes(bTitle) || bTitle.includes(aTitle)) return true;
+    if (overlapRatio(toTextTokens(aTitle), toTextTokens(bTitle)) >= 0.82) {
+      return true;
+    }
+  }
+
+  const aSummary = cleanTextKey(a.summary).slice(0, 180);
+  const bSummary = cleanTextKey(b.summary).slice(0, 180);
+  if (aSummary && bSummary && overlapRatio(toTextTokens(aSummary), toTextTokens(bSummary)) >= 0.88) {
+    return true;
+  }
+
+  return false;
+}
+
+function dedupeArticlesByContent(items: ArticleItem[]): ArticleItem[] {
+  const byUrl = dedupeByUrl(items);
+  const ordered = [...byUrl].sort(
+    (a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt),
+  );
+  const selected: ArticleItem[] = [];
+
+  for (const item of ordered) {
+    const duplicateIndex = selected.findIndex((prev) => isDuplicateArticle(prev, item));
+    if (duplicateIndex === -1) {
+      selected.push(item);
+      continue;
+    }
+
+    const prev = selected[duplicateIndex];
+    const prevTime = new Date(prev.publishedAt).getTime() || 0;
+    const nextTime = new Date(item.publishedAt).getTime() || 0;
+    if (item.rank > prev.rank || nextTime > prevTime) {
+      selected[duplicateIndex] = item;
+    }
+  }
+
+  return selected;
+}
+
+function escapeRegExp(text: string): string {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function hasToken(hay: string, token: string): boolean {
+  const trimmed = token.trim();
+  if (!trimmed) return false;
+  if (trimmed.length <= 2) {
+    return new RegExp(`\\b${escapeRegExp(trimmed)}\\b`, "i").test(hay);
+  }
+  return hay.includes(trimmed);
+}
+
+function buildVideoChannels(profile: ProfileData): VideoChannel[] {
+  const configured = profile.youtubeChannels
+    .map((channel) => ({
+      name: channel.name.trim(),
+      channelId: channel.channelId.trim(),
+    }))
+    .filter((channel) => channel.name && channel.channelId);
+
+  const merged = [...configured, ...CURATED_TECH_NEWS_CHANNELS];
+  const seen = new Set<string>();
+  const unique: VideoChannel[] = [];
+  for (const channel of merged) {
+    if (seen.has(channel.channelId)) continue;
+    seen.add(channel.channelId);
+    unique.push(channel);
+  }
+
+  return unique.slice(0, 12);
+}
+
+function scoreVideoRelevance(
+  text: string,
+  publishedAt: string,
+  includeKeywords: string[],
+): number {
+  const hay = normalize(text);
+  let score = 0;
+  let hasDomain = false;
+  let hasNews = false;
+
+  for (const token of includeKeywords) {
+    if (hasToken(hay, token)) {
+      score += 4;
+      hasDomain = true;
+    }
+  }
+  for (const token of VIDEO_DOMAIN_TOKENS) {
+    if (hasToken(hay, token)) {
+      score += 3;
+      hasDomain = true;
+    }
+  }
+  for (const token of VIDEO_NEWS_TOKENS) {
+    if (hasToken(hay, token)) {
+      score += 2;
+      hasNews = true;
+    }
+  }
+  for (const token of VIDEO_EXCLUDE_TOKENS) {
+    if (hasToken(hay, token)) {
+      score -= 8;
+    }
+  }
+
+  const publishedMs = new Date(publishedAt).getTime();
+  if (!Number.isNaN(publishedMs)) {
+    const ageDays = Math.max(0, (Date.now() - publishedMs) / 86_400_000);
+    if (ageDays <= 14) score += 4;
+    else if (ageDays <= 30) score += 2;
+    else if (ageDays <= 60) score += 1;
+  }
+
+  if (!hasDomain) score -= 6;
+  if (!hasNews) score -= 1;
+
+  return score;
+}
+
+function rankVideoCandidates(
+  candidates: Array<VideoItem & { _relevance: number }>,
+): VideoItem[] {
+  const sorted = [...candidates]
+    .filter((item) => item.url)
+    .filter((item) => !item.url.includes("/shorts/"))
+    .sort((a, b) => b._relevance - a._relevance || b.publishedAt.localeCompare(a.publishedAt));
+
+  const strict = sorted.filter((item) => item._relevance >= VIDEO_MIN_RELEVANCE_STRICT);
+  const relaxed =
+    strict.length >= MAX_VIDEOS
+      ? strict
+      : [
+          ...strict,
+          ...sorted
+            .filter(
+              (item) =>
+                item._relevance >= VIDEO_MIN_RELEVANCE_RELAXED &&
+                item._relevance < VIDEO_MIN_RELEVANCE_STRICT,
+            )
+            .slice(0, MAX_VIDEOS - strict.length),
+        ];
+
+  return dedupeByUrl(
+    relaxed.map((item) => ({
+      id: item.id,
+      title: item.title,
+      url: item.url,
+      channel: item.channel,
+      thumbnail: item.thumbnail,
+      publishedAt: item.publishedAt,
+      viewCount: item.viewCount,
+    })),
+  )
+    .sort((a, b) => b.viewCount - a.viewCount || b.publishedAt.localeCompare(a.publishedAt))
+    .slice(0, MAX_VIDEOS);
 }
 
 function toKeywordList(values: string[]): string[] {
@@ -182,10 +494,10 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
   });
 
   const all = (await Promise.all(jobs)).flat().filter((item) => item.url);
-  const deduped = dedupeByUrl(all);
+  const deduped = dedupeArticlesByContent(all);
   return deduped
     .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, 10)
+    .slice(0, MAX_ARTICLES)
     .map((item, index) => ({
       ...item,
       rank: index + 1,
@@ -204,55 +516,20 @@ async function fetchVideosByYouTubeApi(profile: ProfileData): Promise<VideoItem[
   }
 
   const includeKeywords = toKeywordList(profile.videoKeywords);
-  const strongIncludeTokens = [
-    "ai",
-    "artificial intelligence",
-    "machine learning",
-    "deep learning",
-    "llm",
-    "standard",
-    "standardization",
-    "iso",
-    "iec",
-    "itu",
-    "sc42",
-    "data quality",
-    "trustworthy ai",
-    "generative ai",
+  const querySet = [
+    ...queries,
+    "artificial intelligence latest technology news",
+    "AI IT industry news",
+    "machine learning technology update",
   ];
-  const excludeTokens = [
-    "trailer",
-    "gameplay",
-    "cinematic",
-    "valorant",
-    "fortnite",
-    "rtx",
-    "geforce",
-    "walkthrough",
-    "reaction",
-  ];
+  const queryList = [...new Set(querySet)].slice(0, 8);
 
-  function relevanceScore(text: string): number {
-    const hay = normalize(text);
-    let score = 0;
-    for (const token of includeKeywords) {
-      if (hay.includes(token)) score += 4;
-    }
-    for (const token of strongIncludeTokens) {
-      if (hay.includes(token)) score += 2;
-    }
-    for (const token of excludeTokens) {
-      if (hay.includes(token)) score -= 6;
-    }
-    return score;
-  }
-
-  const searchJobs = queries.map(async (query) => {
+  const searchJobs = queryList.map(async (query) => {
     const url = new URL("https://www.googleapis.com/youtube/v3/search");
     url.searchParams.set("part", "snippet");
     url.searchParams.set("type", "video");
-    url.searchParams.set("maxResults", "20");
-    url.searchParams.set("order", "relevance");
+    url.searchParams.set("maxResults", "25");
+    url.searchParams.set("order", "date");
     url.searchParams.set("q", query);
     url.searchParams.set("key", apiKey);
 
@@ -315,34 +592,19 @@ async function fetchVideosByYouTubeApi(profile: ProfileData): Promise<VideoItem[
         thumbnail,
         publishedAt,
         viewCount: Number.isFinite(viewCount) ? viewCount : 0,
-        _searchText: searchText,
-        _relevance: relevanceScore(searchText),
+        _relevance: scoreVideoRelevance(searchText, publishedAt, includeKeywords),
       };
     });
   });
 
   const collected = (await Promise.all(detailJobs)).flat();
-
-  return dedupeByUrl(
-    collected
-      .filter((item) => item.url)
-      .filter((item) => item._relevance >= 4)
-      .map((item) => ({
-        id: item.id,
-        title: item.title,
-        url: item.url,
-        channel: item.channel,
-        thumbnail: item.thumbnail,
-        publishedAt: item.publishedAt,
-        viewCount: item.viewCount,
-      })) satisfies VideoItem[],
-  )
-    .sort((a, b) => b.viewCount - a.viewCount || b.publishedAt.localeCompare(a.publishedAt))
-    .slice(0, 10);
+  return rankVideoCandidates(collected as Array<VideoItem & { _relevance: number }>);
 }
 
 async function fetchVideosByChannelFeeds(profile: ProfileData): Promise<VideoItem[]> {
-  const jobs = profile.youtubeChannels.map(async (channel) => {
+  const includeKeywords = toKeywordList(profile.videoKeywords);
+  const channels = buildVideoChannels(profile);
+  const jobs = channels.map(async (channel) => {
     const feedUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`;
     try {
       const parsed = await parser.parseURL(feedUrl);
@@ -375,34 +637,18 @@ async function fetchVideosByChannelFeeds(profile: ProfileData): Promise<VideoIte
     }
   });
 
-  const includeKeywords = toKeywordList(profile.videoKeywords);
-  const strongIncludeTokens = ["ai", "machine learning", "standard", "iso", "iec", "itu"];
-  const excludeTokens = ["trailer", "gameplay", "cinematic", "rtx", "geforce", "valorant"];
+  const candidates = dedupeByUrl((await Promise.all(jobs)).flat().filter((item) => item.url)).map(
+    (item) => ({
+      ...item,
+      _relevance: scoreVideoRelevance(
+        `${item.title} ${item.channel}`,
+        item.publishedAt,
+        includeKeywords,
+      ),
+    }),
+  );
 
-  function relevanceScore(text: string): number {
-    const hay = normalize(text);
-    let score = 0;
-    for (const token of includeKeywords) {
-      if (hay.includes(token)) score += 4;
-    }
-    for (const token of strongIncludeTokens) {
-      if (hay.includes(token)) score += 2;
-    }
-    for (const token of excludeTokens) {
-      if (hay.includes(token)) score -= 6;
-    }
-    return score;
-  }
-
-  return dedupeByUrl((await Promise.all(jobs)).flat().filter((item) => item.url))
-    .map((item) => ({
-      item,
-      score: relevanceScore(`${item.title} ${item.channel}`),
-    }))
-    .filter((entry) => entry.score >= 4)
-    .sort((a, b) => b.score - a.score || b.item.publishedAt.localeCompare(a.item.publishedAt))
-    .slice(0, 10)
-    .map((entry) => entry.item);
+  return rankVideoCandidates(candidates as Array<VideoItem & { _relevance: number }>);
 }
 
 export async function fetchVideos(profile: ProfileData): Promise<VideoItem[]> {

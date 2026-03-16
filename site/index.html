@@ -111,12 +111,12 @@
       </section>
 
       <section class="card">
-        <h2>IT Standardization Articles (Top 10)</h2>
+        <h2>IT Standardization Articles (Top 8)</h2>
         <div id="articles" class="grid"></div>
       </section>
 
       <section class="card">
-        <h2>AI / Standardization / Latest Tech Videos (Top 10)</h2>
+        <h2>AI / IT Industry / Latest Tech News Videos (Top 8)</h2>
         <div id="videos" class="grid"></div>
       </section>
 
@@ -446,8 +446,8 @@
           { label: "Citations", value: Number(metrics.citations) || 0 },
           { label: "Publications", value: Number(metrics.publications) || 0 },
           { label: "Top Projects", value: (content.projects || []).length },
-          { label: "Ranked Articles", value: (content.articles || []).length },
-          { label: "Top Videos", value: (content.videos || []).length },
+          { label: "Ranked Articles", value: Math.min((content.articles || []).length, 8) },
+          { label: "Top Videos", value: Math.min((content.videos || []).length, 8) },
         ];
         const max = Math.max(...signals.map((item) => item.value), 1);
 
@@ -601,7 +601,7 @@
         });
 
         const articles = document.getElementById("articles");
-        (content.articles || []).forEach((item) => {
+        (content.articles || []).slice(0, 8).forEach((item) => {
           articles.appendChild(
             card(
               ["#" + (item.rank || ""), text(item.source), formatDate(item.publishedAt)]
@@ -616,7 +616,7 @@
         });
 
         const videos = document.getElementById("videos");
-        (content.videos || []).forEach((item, index) => {
+        (content.videos || []).slice(0, 8).forEach((item, index) => {
           videos.appendChild(
             card(
               [

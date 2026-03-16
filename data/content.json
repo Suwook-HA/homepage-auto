@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-03-16T01:43:28.052Z",
+  "updatedAt": "2026-03-16T02:06:12.575Z",
   "articles": [
-    {
-      "id": "bdd31dd5a4bb031e",
-      "title": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 - 디지털경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bTFRRHNSVGtiVDI5c09QVHlpd3d6MTZkcDVpa1R4UnZqb25oYzAxQ09HdDRoYTBZY0xBWHlBQXJUUTZWMWxMUFFjZ0YwZTR4WHdRVXBxdjFUa2hYQ0NtYUFuZjZubmRPS3c?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 디지털경제뉴스",
-      "publishedAt": "2026-03-12T13:14:54.000Z",
-      "rank": 1
-    },
-    {
-      "id": "449c6bca31355eaf",
-      "title": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 - 임팩트온",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJX0c5QnpXdGNVLTQ5SnhpUUpUQ3RYME1kVm9uVjlVdDVnUjRpbWVNU1h5SXNxRnpMNC15d3hpcXhBTGlJU2xDdmZDSVMwZUxpckVpWF9lb1B0dmFEMXZGbHVLVjI3Sjdy0gFsQVVfeXFMUDJtSTZZWk5xZWdyRUhBT29MdjJ4UzhicmR5aGJjNzZMMlhoZnl2aWhQZHJUWEZSejg3NmJRaDdDWE5lalZYb3hGOVB6QUdYZ0stMmswQ0dQMVdzNjYxMEJ1UFdRd3VXRGtMbDJo?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 임팩트온",
-      "publishedAt": "2026-03-10T01:21:02.000Z",
-      "rank": 2
-    },
     {
       "id": "37a7c16f882e253a",
       "title": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 - 네이트",
@@ -26,7 +8,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 네이트",
       "publishedAt": "2026-03-09T08:07:00.000Z",
-      "rank": 3
+      "rank": 1
     },
     {
       "id": "d9483950d30c2a45",
@@ -35,7 +17,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "한국산업인력공단 '인공지능(AI) 국제표준 ISO 42001 인증' 획득 서울Pn",
       "publishedAt": "2026-03-09T02:06:14.000Z",
-      "rank": 4
+      "rank": 2
     },
     {
       "id": "c9c0145de7de9f46",
@@ -44,16 +26,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 헬로디디",
       "publishedAt": "2026-03-12T08:50:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "866a36d2a4e4ec18",
-      "title": "노동부 산하기관 첫 ‘AI 국제표준’ 인증…산업인력공단 ISO 42001 획득 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPdTIxUjZnV1BfbUxFdE4xM3E4aUpUaWpUQ3k5OW1GbkI1YkpZbWpOMEkwTGtudjNKRmM3b2tvZU50Ym9uWExxVl9lcWdRbnBRUE1BTzFn?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "노동부 산하기관 첫 ‘AI 국제표준’ 인증…산업인력공단 ISO 42001 획득 헤럴드경제",
-      "publishedAt": "2026-03-08T21:00:00.000Z",
-      "rank": 6
+      "rank": 3
     },
     {
       "id": "b017104869281cad",
@@ -62,7 +35,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "산업인력공단, AI경영시스템 국제표준인증 획득 문화일보",
       "publishedAt": "2026-03-09T02:23:03.000Z",
-      "rank": 7
+      "rank": 4
     },
     {
       "id": "562a3cf207f31299",
@@ -71,7 +44,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 뉴스1",
       "publishedAt": "2026-03-08T21:00:00.000Z",
-      "rank": 8
+      "rank": 5
     },
     {
       "id": "cc66ce3ab9ceef5f",
@@ -80,7 +53,7 @@
       "source": "Google News: AI standardization",
       "summary": "\"AI 국제 표준화 우리가 방향 설계\" ETRI, 공동조정그룹 의장직 맡아 헬로디디",
       "publishedAt": "2026-03-08T08:00:00.000Z",
-      "rank": 9
+      "rank": 6
     },
     {
       "id": "95b958354fed0612",
@@ -89,98 +62,80 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "롯데이노베이트, AI 국제표준 ‘ISO/IEC 25058’ 획득 - 조선비즈 Chosunbiz",
       "publishedAt": "2026-02-27T05:15:00.000Z",
-      "rank": 10
+      "rank": 7
     }
   ],
   "videos": [
     {
-      "id": "12c5613f22abfefd",
-      "title": "Resident Evil Requiem | Community Cinematic Video with Path Tracing & DLSS 4",
-      "url": "https://www.youtube.com/watch?v=R0QuXPgty6w",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/R0QuXPgty6w/hqdefault.jpg",
-      "publishedAt": "2026-03-13T17:22:15.000Z",
+      "id": "4668833636c354bd",
+      "title": "Here's Why So Many Tech Unicorns Are From Sweden",
+      "url": "https://www.youtube.com/watch?v=8Sh2pktZgPs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/8Sh2pktZgPs/hqdefault.jpg",
+      "publishedAt": "2026-03-15T06:00:09.000Z",
       "viewCount": 0
     },
     {
-      "id": "9e92a05699950540",
-      "title": "If you develop for Android, you’re ready to build for glasses. 👓",
-      "url": "https://www.youtube.com/shorts/tqOFSI_47aA",
-      "channel": "Google Developers",
-      "thumbnail": "",
-      "publishedAt": "2026-03-13T17:21:41.000Z",
+      "id": "7ddb34814af78dc8",
+      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
+      "url": "https://www.youtube.com/watch?v=kHwRKVLEP-w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/kHwRKVLEP-w/hqdefault.jpg",
+      "publishedAt": "2026-03-14T06:00:25.000Z",
       "viewCount": 0
     },
     {
-      "id": "c8fca6c659407ea2",
-      "title": "GeForce Garage - Season of RTX Community Build",
-      "url": "https://www.youtube.com/watch?v=NGJLBUwT5u8",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/NGJLBUwT5u8/hqdefault.jpg",
-      "publishedAt": "2026-03-13T14:10:39.000Z",
+      "id": "f80678fc4ea72755",
+      "title": "Meta Cable Expansion Stalled by Iran Conflict | Bloomberg Tech 3/13/2026",
+      "url": "https://www.youtube.com/watch?v=iZ39QHXYxXc",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/iZ39QHXYxXc/hqdefault.jpg",
+      "publishedAt": "2026-03-13T20:34:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "1a84846fd8732557",
-      "title": "“We’ll make the deadline somehow!” 🫠",
-      "url": "https://www.youtube.com/shorts/P3x83uVnxsI",
-      "channel": "Google Developers",
-      "thumbnail": "",
-      "publishedAt": "2026-03-13T04:00:22.000Z",
+      "id": "971fb59e20868a95",
+      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
+      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg",
+      "publishedAt": "2026-03-13T20:08:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "9c91b05508708330",
-      "title": "WARDOGS - Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=dlhR723BUNU",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/dlhR723BUNU/hqdefault.jpg",
-      "publishedAt": "2026-03-12T20:12:20.000Z",
+      "id": "e468d1b91016316e",
+      "title": "Lucid Lays Out Plan to Turn Cash Flow Positive",
+      "url": "https://www.youtube.com/watch?v=rt5zTI3zGuU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/rt5zTI3zGuU/hqdefault.jpg",
+      "publishedAt": "2026-03-13T17:44:08.000Z",
       "viewCount": 0
     },
     {
-      "id": "8a24cc4d2f35a67c",
-      "title": "Edge of Memories | Story Trailer",
-      "url": "https://www.youtube.com/watch?v=VNI5iQyy_00",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/VNI5iQyy_00/hqdefault.jpg",
-      "publishedAt": "2026-03-12T19:00:52.000Z",
+      "id": "80e65b24ebd5f3c2",
+      "title": "Ramp Aims for European Expansion with Billhop Deal",
+      "url": "https://www.youtube.com/watch?v=nU3JmaCavP0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/nU3JmaCavP0/hqdefault.jpg",
+      "publishedAt": "2026-03-13T17:26:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "03ffbe89843bfa36",
-      "title": "The Mound: Omen of Cthulhu | Gameplay Reveal Trailer",
-      "url": "https://www.youtube.com/watch?v=qtNjnnoXAFc",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/qtNjnnoXAFc/hqdefault.jpg",
-      "publishedAt": "2026-03-12T18:16:50.000Z",
+      "id": "a51b6ab67ca1b269",
+      "title": "Massive Private Valuations Gear Up for Mega IPOs",
+      "url": "https://www.youtube.com/watch?v=eQKECj31JOo",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/eQKECj31JOo/hqdefault.jpg",
+      "publishedAt": "2026-03-13T17:19:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "d82feb3db06cc608",
-      "title": "Endurance Motorsport Series | Lamborghini Manufacturer Trailer",
-      "url": "https://www.youtube.com/watch?v=Q5kBYCYsgaA",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/Q5kBYCYsgaA/hqdefault.jpg",
-      "publishedAt": "2026-03-12T17:00:06.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b284152421bee4f1",
-      "title": "ICYMI: GeForce On at GDC 2026",
-      "url": "https://www.youtube.com/shorts/JG12v6IQI0c",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "",
-      "publishedAt": "2026-03-12T16:33:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b6392c6b7fb99459",
-      "title": "Cthulhu: The Cosmic Abyss | Story Trailer",
-      "url": "https://www.youtube.com/watch?v=j37oPK1__ik",
-      "channel": "NVIDIA Developer",
-      "thumbnail": "https://i.ytimg.com/vi/j37oPK1__ik/hqdefault.jpg",
-      "publishedAt": "2026-03-12T16:00:13.000Z",
+      "id": "0c314160ff287754",
+      "title": "The $32B acquisition that one VC is calling the 'Deal of the Decade' | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=H-pJo-pSe2w",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/H-pJo-pSe2w/hqdefault.jpg",
+      "publishedAt": "2026-03-13T16:08:15.000Z",
       "viewCount": 0
     }
   ],

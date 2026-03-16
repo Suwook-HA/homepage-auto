@@ -99,12 +99,28 @@
   ],
   "youtubeChannels": [
     {
-      "name": "Google Developers",
-      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      "name": "Bloomberg Technology",
+      "channelId": "UCrM7B7SL_g1edFOnmj-SDKg"
     },
     {
-      "name": "NVIDIA Developer",
-      "channelId": "UCL-g3eGJi1omSDSz48AML-g"
+      "name": "OpenAI",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+    },
+    {
+      "name": "Google Cloud Tech",
+      "channelId": "UCTMRxtyHoE3LPcrl-kT4AQQ"
+    },
+    {
+      "name": "DeepLearningAI",
+      "channelId": "UCcIXc5mJsHVYTZR1maL5l9w"
+    },
+    {
+      "name": "Two Minute Papers",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg"
+    },
+    {
+      "name": "Google for Developers",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
     }
   ],
   "staticPhotoUrls": [],

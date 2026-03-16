@@ -6,8 +6,8 @@ Next.js template for a personal homepage with automatic content refresh.
 
 - Profile management UI: `/admin`
 - Periodic content refresh:
-  - IT standardization article ranking (Top 10)
-  - AI/standardization/latest-tech video ranking (Top 10 by views)
+  - IT standardization article ranking (Top 8, deduplicated)
+  - AI/IT industry/latest-tech news video ranking (Top 8 by views)
   - GitHub projects from profile user (Top 10)
   - Photos from Google Photos Picker selections
 - Research dashboard with visual analytics

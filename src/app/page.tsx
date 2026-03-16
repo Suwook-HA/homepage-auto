@@ -50,8 +50,8 @@ export default async function HomePage() {
     { label: "Citations", value: profile.researchMetrics.citations },
     { label: "Publications", value: profile.researchMetrics.publications },
     { label: "Top Projects", value: content.projects.length },
-    { label: "Ranked Articles", value: content.articles.length },
-    { label: "Top Videos", value: content.videos.length },
+    { label: "Ranked Articles", value: Math.min(content.articles.length, 8) },
+    { label: "Top Videos", value: Math.min(content.videos.length, 8) },
   ];
   const signalMax = Math.max(...signalData.map((item) => item.value), 1);
 
@@ -258,7 +258,7 @@ export default async function HomePage() {
 
       <section className="card">
         <div className="section-header">
-          <h2>IT Standardization Articles (Top 10)</h2>
+          <h2>IT Standardization Articles (Top 8)</h2>
           <Link href="/api/content" target="_blank">
             JSON API
           </Link>
@@ -267,7 +267,7 @@ export default async function HomePage() {
           {content.articles.length === 0 ? (
             <p className="empty">No ranked articles collected yet.</p>
           ) : (
-            content.articles.map((article) => (
+            content.articles.slice(0, 8).map((article) => (
               <article key={article.id} className="item">
                 <p className="item-meta">
                   #{article.rank} | {article.source} | {formatDate(article.publishedAt)}
@@ -285,7 +285,7 @@ export default async function HomePage() {
       </section>
 
       <section className="card">
-        <h2>AI / Standardization / Latest Tech Videos (Top 10 by Views)</h2>
+        <h2>AI / IT Industry / Latest Tech News Videos (Top 8 by Views)</h2>
         {!hasVideoViews ? (
           <p className="hint">Set YOUTUBE_API_KEY to enable true view-count ranking.</p>
         ) : null}
@@ -293,7 +293,7 @@ export default async function HomePage() {
           {content.videos.length === 0 ? (
             <p className="empty">No ranked videos collected yet.</p>
           ) : (
-            content.videos.map((video, index) => (
+            content.videos.slice(0, 8).map((video, index) => (
               <article key={video.id} className="video-item">
                 {video.thumbnail ? (
                   <Image
