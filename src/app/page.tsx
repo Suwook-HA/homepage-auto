@@ -1,7 +1,9 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import Link from "next/link";
 
+import { IntelligenceTabs } from "@/app/ui/intelligence-tabs";
 import { RefreshButton } from "@/app/ui/refresh-button";
+import { RelationshipMap } from "@/app/ui/relationship-map";
 import { isAdminAuthenticated, isAdminAuthEnabled } from "@/lib/admin-auth";
 import { readPromotionData } from "@/lib/promotion";
 import { getHomepageData, getRefreshStatus } from "@/lib/refresh";
@@ -214,6 +216,10 @@ export default async function HomePage() {
           </p>
           <p className="headline">{profile.headline}</p>
           <p>{profile.bio}</p>
+          <div className="profile-narrative">
+            <p className="profile-paragraph ko">{profile.introKo}</p>
+            <p className="profile-paragraph en">{profile.introEn}</p>
+          </div>
           <div className="hero-interest-row">
             {heroThemes.map((theme) => (
               <span key={theme.label} className="hero-interest-pill">
@@ -289,6 +295,18 @@ export default async function HomePage() {
                 <circle cx="177" cy="263" r="8" className="hero-node accent" />
                 <circle cx="343" cy="263" r="8" className="hero-node accent" />
               </svg>
+              <div className="hero-portrait-card">
+                <div className="hero-portrait-art">
+                  <span className="hero-portrait-halo" />
+                  <span className="hero-portrait-head" />
+                  <span className="hero-portrait-body" />
+                  <span className="hero-portrait-grid" />
+                </div>
+                <div className="hero-portrait-copy">
+                  <p>{profile.name}</p>
+                  <span>AI standards, data trust, and global coordination</span>
+                </div>
+              </div>
               <div className="hero-core">
                 <span>AI Standardization</span>
                 <strong>{organization}</strong>
@@ -381,7 +399,14 @@ export default async function HomePage() {
           </article>
         </div>
 
-        <div className="research-viz-grid">
+        <div className="research-viz-grid graph-grid">
+          <RelationshipMap
+            centerLabel={profile.localName || profile.name}
+            researchAreas={profile.researchAreas}
+            relatedTechnologies={profile.relatedTechnologies}
+            standardizationActivities={profile.standardizationActivities}
+          />
+
           <article className="viz-card">
             <h3>Research Domain Strength</h3>
             <div className="domain-chart">
@@ -401,7 +426,9 @@ export default async function HomePage() {
               ))}
             </div>
           </article>
+        </div>
 
+        <div className="research-viz-grid three">
           <article className="viz-card">
             <h3>Research Signals</h3>
             <div className="signal-chart">
@@ -417,9 +444,7 @@ export default async function HomePage() {
               ))}
             </div>
           </article>
-        </div>
 
-        <div className="research-viz-grid">
           <article className="viz-card">
             <h3>Related Technologies</h3>
             <div className="tech-cloud">
@@ -504,7 +529,7 @@ export default async function HomePage() {
           ))}
         </div>
 
-        <h3 className="patent-record-title">특허 목록</h3>
+        <h3 className="patent-record-title">?뱁뿀 紐⑸줉</h3>
         <div className="patent-record-grid">
           {patentRecords.length === 0 ? (
             <p className="empty">No patent records configured yet.</p>
@@ -548,7 +573,23 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card content-section projects-section">
+      <section className="card content-section intelligence-briefing">
+        <div className="section-header">
+          <h2>Intelligence Briefing</h2>
+          <span className="tag">Tabbed Overview</span>
+        </div>
+        <p className="hint">
+          Switch between curated articles, ranked videos, and photo highlights without leaving
+          the main narrative flow.
+        </p>
+        <IntelligenceTabs
+          articles={content.articles.slice(0, 8)}
+          videos={content.videos.slice(0, 8)}
+          photos={content.photos}
+        />
+      </section>
+
+      <section className="card content-section refresh-section">
         <h2>Refresh Status</h2>
         <p className="hint">
           Cached now: articles {status.counts.articles}, videos {status.counts.videos},
@@ -564,7 +605,7 @@ export default async function HomePage() {
         )}
       </section>
 
-      <section className="card content-section articles-section">
+      <section className="card content-section projects-section">
         <h2>GitHub Projects ({profile.githubUsername})</h2>
         <div className="grid">
           {content.projects.length === 0 ? (
@@ -589,7 +630,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <section className="card">
+      <section className="card content-section articles-section">
         <div className="section-header">
           <h2>IT Standardization Articles (Top 8)</h2>
           <Link href="/api/content" target="_blank">
@@ -698,3 +739,5 @@ export default async function HomePage() {
     </main>
   );
 }
+
+

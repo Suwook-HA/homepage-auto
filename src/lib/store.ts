@@ -40,6 +40,10 @@ const defaultProfile: ProfileData = {
   localName: "하수욱",
   headline: "Principal Researcher at ETRI",
   bio: "Research focus: AI data quality, trustworthy AI, and international standardization.",
+  introKo:
+    "하수욱은 ETRI에서 인공지능 데이터 품질, 신뢰가능 AI, 국제표준화를 연결해 연구 성과를 실제 산업과 글로벌 표준 프레임워크로 전환하는 연구자이다. ISO/IEC와 ITU-T 협력 트랙을 중심으로 AI 거버넌스, 데이터 품질, 표준 전략을 함께 이끌며 연구와 정책, 기술 구현을 연결하고 있다.",
+  introEn:
+    "Ha Suwook is a principal researcher at ETRI who translates work on AI data quality, trustworthy AI, and international standardization into deployable industry and global standards frameworks. His work bridges ISO/IEC and ITU-T collaboration tracks with practical governance, data quality, and technology strategy for real-world AI adoption.",
   researchSummary:
     "Leads practical AI standardization and data quality initiatives across ISO/IEC and ITU-T tracks.",
   email: "sw.ha@etri.re.kr",
@@ -162,6 +166,8 @@ function normalizeProfile(profile: ProfileData): ProfileData {
   return {
     ...profile,
     localName: profile.localName ?? defaultProfile.localName,
+    introKo: profile.introKo ?? defaultProfile.introKo,
+    introEn: profile.introEn ?? defaultProfile.introEn,
     researchSummary: profile.researchSummary ?? defaultProfile.researchSummary,
     googleScholarUrl: profile.googleScholarUrl ?? defaultProfile.googleScholarUrl,
     githubUsername: profile.githubUsername ?? defaultProfile.githubUsername,

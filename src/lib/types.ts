@@ -67,6 +67,8 @@ export type ProfileData = {
   localName: string;
   headline: string;
   bio: string;
+  introKo: string;
+  introEn: string;
   researchSummary: string;
   email: string;
   location: string;

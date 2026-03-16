@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ha Suwook | IT Expert Profile</title>
-    <link rel="stylesheet" href="./style.css?v=20260316-5" />
+    <link rel="stylesheet" href="./style.css?v=20260316-6" />
   </head>
   <body>
     <main class="page">
@@ -15,6 +15,10 @@
           <p id="name-local" class="name-local"></p>
           <p id="headline" class="headline"></p>
           <p id="bio"></p>
+          <div class="profile-narrative">
+            <p id="intro-ko" class="profile-paragraph ko"></p>
+            <p id="intro-en" class="profile-paragraph en"></p>
+          </div>
           <div id="interest-chips" class="hero-interest-row"></div>
           <div class="meta">
             <span id="location"></span>
@@ -69,6 +73,18 @@
                 <circle cx="177" cy="263" r="8" class="hero-node accent"></circle>
                 <circle cx="343" cy="263" r="8" class="hero-node accent"></circle>
               </svg>
+              <div class="hero-portrait-card">
+                <div class="hero-portrait-art">
+                  <span class="hero-portrait-halo"></span>
+                  <span class="hero-portrait-head"></span>
+                  <span class="hero-portrait-body"></span>
+                  <span class="hero-portrait-grid"></span>
+                </div>
+                <div class="hero-portrait-copy">
+                  <p>Ha Suwook</p>
+                  <span>AI standards, data trust, and global coordination</span>
+                </div>
+              </div>
               <div class="hero-core">
                 <span>AI Standardization</span>
                 <strong id="hero-org">ETRI</strong>
@@ -244,8 +260,13 @@
 
         <div class="research-viz-grid graph-grid">
           <article class="viz-card rdf-card">
-            <h3>RDF Relationship Map</h3>
-            <p class="hint graph-hint">Research domain/technology/standardization linkage graph</p>
+            <div class="viz-head">
+              <div>
+                <h3>RDF Relationship Map</h3>
+                <p class="hint graph-hint">Research domain/technology/standardization linkage graph</p>
+              </div>
+              <button id="expand-graph" type="button" class="mini-button">Expand</button>
+            </div>
             <div class="rdf-shell">
               <svg id="rdf-graph" class="rdf-graph" viewBox="0 0 760 460"></svg>
             </div>
@@ -293,6 +314,17 @@
         <div id="highlights" class="grid"></div>
       </section>
 
+      <section class="card content-section intelligence-briefing">
+        <div class="section-header">
+          <h2>Intelligence Briefing</h2>
+          <span class="tag">Tabbed Overview</span>
+        </div>
+        <p class="hint">
+          Switch between curated articles, ranked videos, and photo highlights without leaving the main narrative flow.
+        </p>
+        <div id="media-tabs" class="media-tabs"></div>
+      </section>
+
       <section class="card content-section projects-section">
         <h2>GitHub Projects</h2>
         <div id="projects" class="grid"></div>
@@ -319,6 +351,22 @@
         <div id="counts" class="hint"></div>
       </section>
     </main>
+
+    <div id="graph-modal" class="graph-modal" hidden>
+      <button type="button" class="graph-modal-backdrop" aria-label="Close expanded map"></button>
+      <div class="graph-modal-panel">
+        <div class="viz-head">
+          <div>
+            <h3>Expanded RDF Relationship Map</h3>
+            <p class="hint graph-hint">Research domain, technology, and standardization linkage view</p>
+          </div>
+          <button id="close-graph" type="button" class="mini-button">Close</button>
+        </div>
+        <div class="rdf-shell modal-shell">
+          <svg id="rdf-graph-modal" class="rdf-graph large" viewBox="0 0 760 460"></svg>
+        </div>
+      </div>
+    </div>
 
     <script>
       function text(v) {
@@ -518,8 +566,207 @@
           number((Number(patent.international?.applications) || 0) + (Number(patent.international?.registrations) || 0));
       }
 
-      function renderRdfGraph(profile) {
-        const svg = document.getElementById("rdf-graph");
+      function renderMediaTabs(content) {
+        const root = document.getElementById("media-tabs");
+        clearChildren(root);
+
+        const tabs = [
+          { id: "articles", label: "Articles", count: Math.min((content.articles || []).length, 8) },
+          { id: "videos", label: "Videos", count: Math.min((content.videos || []).length, 8) },
+          { id: "photos", label: "Photos", count: (content.photos || []).length },
+        ];
+
+        const tablist = document.createElement("div");
+        tablist.className = "media-tablist";
+        tablist.setAttribute("role", "tablist");
+
+        const stage = document.createElement("div");
+        stage.className = "media-stage";
+
+        function renderPanel(activeId) {
+          clearChildren(stage);
+
+          if (activeId === "articles") {
+            const layout = document.createElement("div");
+            layout.className = "media-layout";
+            const items = (content.articles || []).slice(0, 8);
+            if (items[0]) {
+              const feature = document.createElement("article");
+              feature.className = "media-feature";
+              feature.innerHTML =
+                '<p class="media-kicker">Lead Story</p>' +
+                '<h3><a target="_blank" rel="noopener noreferrer" href="' +
+                text(items[0].url) +
+                '">' +
+                text(items[0].title) +
+                "</a></h3>" +
+                "<p>" +
+                text(items[0].summary) +
+                '</p><p class="item-meta">#' +
+                String(items[0].rank || 1) +
+                " | " +
+                text(items[0].source) +
+                " | " +
+                formatDate(items[0].publishedAt) +
+                "</p>";
+              layout.appendChild(feature);
+            } else {
+              const empty = document.createElement("p");
+              empty.className = "media-empty";
+              empty.textContent = "No ranked articles collected yet.";
+              layout.appendChild(empty);
+            }
+
+            const list = document.createElement("div");
+            list.className = "media-list";
+            items.slice(1, 6).forEach((item) => {
+              const article = document.createElement("article");
+              article.className = "media-list-item";
+              article.innerHTML =
+                '<p class="item-meta">#' +
+                String(item.rank || "") +
+                " | " +
+                text(item.source) +
+                " | " +
+                formatDate(item.publishedAt) +
+                "</p>" +
+                '<h4><a target="_blank" rel="noopener noreferrer" href="' +
+                text(item.url) +
+                '">' +
+                text(item.title) +
+                "</a></h4>" +
+                "<p>" +
+                text(item.summary) +
+                "</p>";
+              list.appendChild(article);
+            });
+            layout.appendChild(list);
+            stage.appendChild(layout);
+            return;
+          }
+
+          if (activeId === "videos") {
+            const layout = document.createElement("div");
+            layout.className = "media-layout";
+            const items = (content.videos || []).slice(0, 8);
+            if (items[0]) {
+              const feature = document.createElement("article");
+              feature.className = "media-feature video-feature";
+              if (text(items[0].thumbnail)) {
+                const img = document.createElement("img");
+                img.className = "media-feature-thumb";
+                img.src = text(items[0].thumbnail);
+                img.alt = text(items[0].title) || "video";
+                img.loading = "lazy";
+                feature.appendChild(img);
+              }
+              const body = document.createElement("div");
+              body.className = "media-feature-body";
+              body.innerHTML =
+                '<p class="media-kicker">Featured Video</p>' +
+                '<h3><a target="_blank" rel="noopener noreferrer" href="' +
+                text(items[0].url) +
+                '">' +
+                text(items[0].title) +
+                "</a></h3>" +
+                '<p class="item-meta">' +
+                text(items[0].channel) +
+                " | views " +
+                number(items[0].viewCount) +
+                " | " +
+                formatDate(items[0].publishedAt) +
+                "</p>";
+              feature.appendChild(body);
+              layout.appendChild(feature);
+            } else {
+              const empty = document.createElement("p");
+              empty.className = "media-empty";
+              empty.textContent = "No ranked videos collected yet.";
+              layout.appendChild(empty);
+            }
+
+            const list = document.createElement("div");
+            list.className = "media-list";
+            items.slice(1, 6).forEach((item, index) => {
+              const article = document.createElement("article");
+              article.className = "media-list-item compact";
+              article.innerHTML =
+                '<p class="item-meta">#' +
+                String(index + 2) +
+                " | " +
+                text(item.channel) +
+                " | views " +
+                number(item.viewCount) +
+                "</p>" +
+                '<h4><a target="_blank" rel="noopener noreferrer" href="' +
+                text(item.url) +
+                '">' +
+                text(item.title) +
+                "</a></h4>" +
+                "<p>" +
+                formatDate(item.publishedAt) +
+                "</p>";
+              list.appendChild(article);
+            });
+            layout.appendChild(list);
+            stage.appendChild(layout);
+            return;
+          }
+
+          const grid = document.createElement("div");
+          grid.className = "media-photo-grid";
+          const items = (content.photos || []).slice(0, 6);
+          if (items.length === 0) {
+            const empty = document.createElement("p");
+            empty.className = "media-empty";
+            empty.textContent =
+              "No matching photos found. Enable Google Photos and set album/keyword in admin.";
+            grid.appendChild(empty);
+          } else {
+            items.forEach((item) => {
+              const figure = document.createElement("figure");
+              figure.className = "media-photo-item";
+              const img = document.createElement("img");
+              img.className = "media-photo";
+              img.src = text(item.url);
+              img.alt = text(item.description) || "photo";
+              img.loading = "lazy";
+              const cap = document.createElement("figcaption");
+              cap.textContent = text(item.description);
+              figure.appendChild(img);
+              figure.appendChild(cap);
+              grid.appendChild(figure);
+            });
+          }
+          stage.appendChild(grid);
+        }
+
+        tabs.forEach((tab, index) => {
+          const button = document.createElement("button");
+          button.type = "button";
+          button.className = "media-tab" + (index === 0 ? " active" : "");
+          button.setAttribute("role", "tab");
+          button.setAttribute("aria-selected", index === 0 ? "true" : "false");
+          button.innerHTML = "<span>" + tab.label + "</span><strong>" + String(tab.count) + "</strong>";
+          button.addEventListener("click", () => {
+            tablist.querySelectorAll(".media-tab").forEach((node) => {
+              node.classList.remove("active");
+              node.setAttribute("aria-selected", "false");
+            });
+            button.classList.add("active");
+            button.setAttribute("aria-selected", "true");
+            renderPanel(tab.id);
+          });
+          tablist.appendChild(button);
+        });
+
+        root.appendChild(tablist);
+        root.appendChild(stage);
+        renderPanel("articles");
+      }
+
+      function renderRdfGraph(profile, targetId) {
+        const svg = document.getElementById(targetId || "rdf-graph");
         clearChildren(svg);
 
         const width = 760;
@@ -715,6 +962,31 @@
           txt.setAttribute("font-size", "10");
           txt.textContent = item.label;
           svg.appendChild(txt);
+        });
+      }
+
+      function setupGraphModal(profile) {
+        const modal = document.getElementById("graph-modal");
+        const openButton = document.getElementById("expand-graph");
+        const closeButton = document.getElementById("close-graph");
+        const backdrop = modal.querySelector(".graph-modal-backdrop");
+
+        function close() {
+          modal.hidden = true;
+          document.body.classList.remove("graph-modal-open");
+        }
+
+        function open() {
+          modal.hidden = false;
+          document.body.classList.add("graph-modal-open");
+          renderRdfGraph(profile, "rdf-graph-modal");
+        }
+
+        openButton.addEventListener("click", open);
+        closeButton.addEventListener("click", close);
+        backdrop.addEventListener("click", close);
+        window.addEventListener("keydown", (event) => {
+          if (event.key === "Escape" && !modal.hidden) close();
         });
       }
 
@@ -1012,6 +1284,8 @@
           : name;
         document.getElementById("headline").textContent = text(profile.headline);
         document.getElementById("bio").textContent = text(profile.bio);
+        document.getElementById("intro-ko").textContent = text(profile.introKo);
+        document.getElementById("intro-en").textContent = text(profile.introEn);
         document.getElementById("research-summary").textContent =
           text(profile.researchSummary) || text(profile.bio);
         document.getElementById("location").textContent = text(profile.location);
@@ -1052,12 +1326,14 @@
 
         renderHero(profile);
         renderCredibility(profile, content);
-        renderRdfGraph(profile);
+        renderRdfGraph(profile, "rdf-graph");
+        setupGraphModal(profile);
         renderResearchAreas(profile);
         renderResearchSignals(profile, content);
         renderTech(profile);
         renderActivities(profile);
         renderPatentStatus(profile);
+        renderMediaTabs(content);
 
         document.getElementById("highlight-updated").textContent =
           "Updated from curated public sources: " + (text(promotion.updatedAt) || "N/A");

@@ -67,6 +67,8 @@ export const profileSchema = z.object({
   localName: z.string().min(1),
   headline: z.string().min(1),
   bio: z.string().min(1),
+  introKo: z.string().min(1),
+  introEn: z.string().min(1),
   researchSummary: z.string().min(1),
   email: z.email(),
   location: z.string().min(1),

@@ -13,6 +13,8 @@ type FormState = {
   localName: string;
   headline: string;
   bio: string;
+  introKo: string;
+  introEn: string;
   researchSummary: string;
   email: string;
   location: string;
@@ -152,6 +154,8 @@ function fromProfile(profile: ProfileData): FormState {
     localName: profile.localName,
     headline: profile.headline,
     bio: profile.bio,
+    introKo: profile.introKo,
+    introEn: profile.introEn,
     researchSummary: profile.researchSummary,
     email: profile.email,
     location: profile.location,
@@ -243,6 +247,8 @@ export function AdminForm({ initialProfile }: Props) {
       localName: form.localName.trim(),
       headline: form.headline.trim(),
       bio: form.bio.trim(),
+      introKo: form.introKo.trim(),
+      introEn: form.introEn.trim(),
       researchSummary: form.researchSummary.trim(),
       email: form.email.trim(),
       location: form.location.trim(),
@@ -357,6 +363,16 @@ export function AdminForm({ initialProfile }: Props) {
       <label>
         Bio
         <textarea value={form.bio} onChange={(e) => setField("bio", e.target.value)} />
+      </label>
+
+      <label>
+        Intro Paragraph (Korean)
+        <textarea value={form.introKo} onChange={(e) => setField("introKo", e.target.value)} />
+      </label>
+
+      <label>
+        Intro Paragraph (English)
+        <textarea value={form.introEn} onChange={(e) => setField("introEn", e.target.value)} />
       </label>
 
       <label>

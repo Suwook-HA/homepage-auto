@@ -710,6 +710,10 @@ body::after {
   background: radial-gradient(circle, rgba(27, 109, 255, 0.16), transparent 66%);
 }
 
+body.graph-modal-open {
+  overflow: hidden;
+}
+
 .page {
   position: relative;
   z-index: 1;
@@ -761,6 +765,30 @@ body::after {
 
 .headline {
   max-width: 720px;
+}
+
+.profile-narrative {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.profile-paragraph {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.68);
+  border: 1px solid rgba(120, 154, 193, 0.22);
+  line-height: 1.7;
+  color: #334e6b;
+}
+
+.profile-paragraph.ko {
+  color: #173a66;
+}
+
+.profile-paragraph.en {
+  font-size: 0.95rem;
 }
 
 .hero-interest-row {
@@ -986,6 +1014,92 @@ body::after {
   letter-spacing: -0.03em;
 }
 
+.hero-portrait-card {
+  position: absolute;
+  left: 24px;
+  bottom: 22px;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  gap: 12px;
+  align-items: center;
+  width: min(255px, calc(100% - 48px));
+  padding: 14px;
+  border-radius: 20px;
+  background: rgba(8, 22, 46, 0.76);
+  border: 1px solid rgba(135, 198, 255, 0.2);
+  box-shadow: 0 16px 36px rgba(6, 14, 32, 0.28);
+}
+
+.hero-portrait-art {
+  position: relative;
+  width: 88px;
+  height: 104px;
+}
+
+.hero-portrait-halo,
+.hero-portrait-head,
+.hero-portrait-body,
+.hero-portrait-grid {
+  position: absolute;
+  display: block;
+}
+
+.hero-portrait-halo {
+  inset: 10px 10px 0;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(22, 201, 178, 0.28), transparent 68%);
+  filter: blur(4px);
+}
+
+.hero-portrait-head {
+  top: 18px;
+  left: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #7fc7ff, #16c9b2);
+  box-shadow: 0 0 18px rgba(113, 208, 255, 0.28);
+}
+
+.hero-portrait-body {
+  left: 18px;
+  bottom: 14px;
+  width: 54px;
+  height: 56px;
+  border-radius: 44px 44px 16px 16px;
+  background: linear-gradient(180deg, rgba(127, 199, 255, 0.92), rgba(31, 124, 255, 0.68));
+  clip-path: polygon(18% 0, 82% 0, 100% 100%, 0 100%);
+}
+
+.hero-portrait-grid {
+  inset: 0;
+  border-radius: 20px;
+  background:
+    linear-gradient(rgba(140, 196, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(140, 196, 255, 0.08) 1px, transparent 1px);
+  background-size: 18px 18px;
+  mask-image: radial-gradient(circle at 50% 42%, rgba(0, 0, 0, 0.9), transparent 76%);
+}
+
+.hero-portrait-copy p,
+.hero-portrait-copy span {
+  margin: 0;
+}
+
+.hero-portrait-copy p {
+  color: #f2fbff;
+  font-weight: 800;
+}
+
+.hero-portrait-copy span {
+  display: block;
+  margin-top: 4px;
+  color: #98c8e7;
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
 .hero-float-layer {
   display: contents;
 }
@@ -1066,6 +1180,26 @@ body::after {
   margin-top: 2px;
   color: #9ec5e5;
   font-size: 0.76rem;
+}
+
+.viz-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.mini-button {
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid rgba(110, 150, 199, 0.28);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.84);
+  color: #0b4fa6;
+  font-size: 0.78rem;
+  font-family: var(--mono);
+  font-weight: 700;
+  cursor: pointer;
 }
 
 .section-header h2 {
@@ -1318,7 +1452,7 @@ body::after {
 .videos-section .feature-video {
   grid-column: span 2;
   display: grid;
-  grid-template-columns: minmax(260px, 0.95fr) 1fr;
+  grid-template-columns: minmax(220px, 0.95fr) minmax(0, 1fr);
 }
 
 .videos-section .feature-video .thumb {
@@ -1331,11 +1465,231 @@ body::after {
   align-content: center;
   gap: 8px;
   padding: 18px;
+  min-width: 0;
 }
 
 .videos-section .feature-video .video-body h3 {
   font-size: 1.24rem;
   line-height: 1.35;
+}
+
+.video-item,
+.video-body,
+.video-body h3,
+.video-body a,
+.media-feature,
+.media-feature h3,
+.media-feature a,
+.media-list-item h4,
+.media-list-item a {
+  min-width: 0;
+}
+
+.video-body h3,
+.video-body a,
+.media-feature h3,
+.media-feature a,
+.media-list-item h4,
+.media-list-item a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.video-body h3 a,
+.media-feature h3 a,
+.media-list-item h4 a {
+  display: block;
+}
+
+.intelligence-briefing {
+  background:
+    radial-gradient(circle at 100% 0%, rgba(27, 109, 255, 0.11), transparent 30%),
+    radial-gradient(circle at 0% 100%, rgba(143, 124, 255, 0.12), transparent 30%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.84), rgba(243, 248, 255, 0.82));
+}
+
+.media-tabs {
+  margin-top: 12px;
+}
+
+.media-tablist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.media-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 42px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(109, 150, 199, 0.24);
+  background: rgba(255, 255, 255, 0.74);
+  color: #47627f;
+  font: inherit;
+  cursor: pointer;
+}
+
+.media-tab strong {
+  color: #0b4fa6;
+}
+
+.media-tab.active {
+  border-color: rgba(27, 109, 255, 0.34);
+  background: linear-gradient(125deg, rgba(27, 109, 255, 0.12), rgba(20, 201, 178, 0.12));
+  color: #153154;
+}
+
+.media-stage {
+  margin-top: 14px;
+}
+
+.media-layout {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: minmax(0, 1.08fr) minmax(280px, 0.92fr);
+}
+
+.media-feature,
+.media-list-item,
+.media-photo-item {
+  border: 1px solid rgba(120, 154, 193, 0.24);
+  border-radius: 20px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(243, 249, 255, 0.84)),
+    rgba(255, 255, 255, 0.78);
+  box-shadow: 0 14px 28px rgba(20, 54, 92, 0.06);
+}
+
+.media-feature {
+  padding: 20px;
+}
+
+.media-kicker {
+  margin: 0 0 10px;
+  color: #0a4ea3;
+  font-size: 0.76rem;
+  font-family: var(--mono);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.media-feature h3 {
+  margin: 0;
+  font-size: 1.36rem;
+  line-height: 1.35;
+}
+
+.media-feature p:last-child {
+  margin-bottom: 0;
+}
+
+.video-feature {
+  display: grid;
+  overflow: hidden;
+  padding: 0;
+}
+
+.media-feature-thumb {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.media-feature-body {
+  padding: 18px;
+}
+
+.media-list {
+  display: grid;
+  gap: 12px;
+}
+
+.media-list-item {
+  padding: 14px;
+}
+
+.media-list-item h4 {
+  margin: 6px 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.media-list-item p:last-child {
+  margin-bottom: 0;
+}
+
+.media-photo-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.media-photo-item {
+  margin: 0;
+  overflow: hidden;
+}
+
+.media-photo {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.media-photo-item figcaption {
+  padding: 10px 12px 12px;
+  color: #61738d;
+  font-size: 0.82rem;
+}
+
+.media-empty {
+  margin: 0;
+  color: #61738d;
+}
+
+.graph-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+}
+
+.graph-modal[hidden] {
+  display: none;
+}
+
+.graph-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(10, 18, 34, 0.58);
+  cursor: pointer;
+}
+
+.graph-modal-panel {
+  position: relative;
+  z-index: 1;
+  width: min(1100px, calc(100vw - 32px));
+  padding: 18px;
+  border-radius: 28px;
+  border: 1px solid rgba(120, 154, 193, 0.26);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(243, 249, 255, 0.92)),
+    rgba(255, 255, 255, 0.9);
+  box-shadow: 0 34px 80px rgba(10, 26, 50, 0.26);
+}
+
+.modal-shell {
+  min-height: 540px;
+}
+
+.rdf-graph.large {
+  min-height: 540px;
 }
 
 .hero-visual-frame::after {
@@ -1547,6 +1901,10 @@ body::after {
   .hero-orbit {
     min-height: 320px;
   }
+
+  .media-layout {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 640px) {
@@ -1568,6 +1926,27 @@ body::after {
 
   .articles-section .feature-item h3 {
     max-width: none;
+  }
+
+  .hero-portrait-card {
+    position: static;
+    width: 100%;
+    margin: 14px 14px 0;
+  }
+
+  .media-tablist {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .graph-modal-panel {
+    width: calc(100vw - 18px);
+    padding: 14px;
+  }
+
+  .modal-shell,
+  .rdf-graph.large {
+    min-height: 420px;
   }
 
   .hero-float {
