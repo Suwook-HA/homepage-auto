@@ -109,6 +109,11 @@ Required repository secrets:
 
 Default schedule: every 3 hours.
 
+Notes:
+
+- If `HOMEPAGE_URL` is not set, the workflow exits with `success` and skips refresh.
+- If `HOMEPAGE_URL` points to `github.io`, refresh is skipped because GitHub Pages has no `/api/refresh` endpoint.
+
 ## Google Photos Picker (Optional)
 
 ```bash

@@ -15,8 +15,13 @@ jobs:
           CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
           if [ -z "$HOMEPAGE_URL" ]; then
-            echo "HOMEPAGE_URL secret is required"
-            exit 1
+            echo "HOMEPAGE_URL is not configured. Skipping refresh."
+            exit 0
+          fi
+
+          if [[ "$HOMEPAGE_URL" == *"github.io"* ]]; then
+            echo "GitHub Pages URL detected ($HOMEPAGE_URL). /api/refresh is unavailable, skipping."
+            exit 0
           fi
 
           endpoint="$HOMEPAGE_URL/api/refresh?trigger=cron"
@@ -24,11 +29,13 @@ jobs:
 
           if [ -n "$CRON_SECRET" ]; then
             curl --fail --show-error --silent \
+              --max-time 20 \
               -X POST \
               -H "x-cron-secret: $CRON_SECRET" \
               "$endpoint"
           else
             curl --fail --show-error --silent \
+              --max-time 20 \
               -X POST \
               "$endpoint"
           fi
