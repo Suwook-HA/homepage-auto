@@ -1,41 +1,14 @@
 {
-  "updatedAt": "2026-03-16T03:46:18.679Z",
+  "updatedAt": "2026-03-17T02:09:01.583Z",
   "articles": [
     {
-      "id": "562a3cf207f31299",
-      "title": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UVEdnVHJ2RUlKNkNBWW9JSnRYcDk5RGEyODBIUlNGT01jczdBeWo1d2pPbWl5ZTlPbGNQY3ZvVHBlMlZfcDRkakk5b3o1VDllb2Y0NzNEMHRySmRveEFNOGpZRQ?oc=5",
+      "id": "bdd31dd5a4bb031e",
+      "title": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 - 디지털경제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bTFRRHNSVGtiVDI5c09QVHlpd3d6MTZkcDVpa1R4UnZqb25oYzAxQ09HdDRoYTBZY0xBWHlBQXJUUTZWMWxMUFFjZ0YwZTR4WHdRVXBxdjFUa2hYQ0NtYUFuZjZubmRPS3c?oc=5",
       "source": "Google News: ISO IEC AI standard",
-      "summary": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 뉴스1",
-      "publishedAt": "2026-03-08T21:00:00.000Z",
+      "summary": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 디지털경제뉴스",
+      "publishedAt": "2026-03-12T13:14:54.000Z",
       "rank": 1
-    },
-    {
-      "id": "b017104869281cad",
-      "title": "산업인력공단, AI경영시스템 국제표준인증 획득 - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XQkJsRllJb25TUzJSTUVlTGZKRnU1bzVKMEtJLXFscjRXTU94bXNtWm4tMVNOb2pXQUtBcHpKV3c1cEVWdmd0anhySngtWGND?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "산업인력공단, AI경영시스템 국제표준인증 획득 문화일보",
-      "publishedAt": "2026-03-09T02:23:03.000Z",
-      "rank": 2
-    },
-    {
-      "id": "c9c0145de7de9f46",
-      "title": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbDl0MmViSHZ4NmwwRnp5YVNLOEx1RG1IbUZJajR1Nnh4NlhmQTQwVEx2eFltZnFzREc4UG1OZHRzcmtaS3VUSWcyWnltemp0MWdIaTlFOUtmb0plS3BHTmNSakJ3NF9YaHc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 헬로디디",
-      "publishedAt": "2026-03-12T08:50:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "37a7c16f882e253a",
-      "title": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10eVFPUDRoOFZITFBpWVRTOXE3Q0xrZlotc1pDQ1d1OFY3cnR4QzBfWVFBaURnT3M1Wjc0RFQ2djNKVGJrb2UxR1FQNllPS2ZEd1Aw?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 네이트",
-      "publishedAt": "2026-03-09T08:07:00.000Z",
-      "rank": 4
     },
     {
       "id": "449c6bca31355eaf",
@@ -44,89 +17,116 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 임팩트온",
       "publishedAt": "2026-03-10T01:21:02.000Z",
+      "rank": 2
+    },
+    {
+      "id": "37a7c16f882e253a",
+      "title": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10eVFPUDRoOFZITFBpWVRTOXE3Q0xrZlotc1pDQ1d1OFY3cnR4QzBfWVFBaURnT3M1Wjc0RFQ2djNKVGJrb2UxR1FQNllPS2ZEd1Aw?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 네이트",
+      "publishedAt": "2026-03-09T08:07:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "c9c0145de7de9f46",
+      "title": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbDl0MmViSHZ4NmwwRnp5YVNLOEx1RG1IbUZJajR1Nnh4NlhmQTQwVEx2eFltZnFzREc4UG1OZHRzcmtaS3VUSWcyWnltemp0MWdIaTlFOUtmb0plS3BHTmNSakJ3NF9YaHc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 헬로디디",
+      "publishedAt": "2026-03-12T08:50:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "b017104869281cad",
+      "title": "산업인력공단, AI경영시스템 국제표준인증 획득 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XQkJsRllJb25TUzJSTUVlTGZKRnU1bzVKMEtJLXFscjRXTU94bXNtWm4tMVNOb2pXQUtBcHpKV3c1cEVWdmd0anhySngtWGND?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "산업인력공단, AI경영시스템 국제표준인증 획득 문화일보",
+      "publishedAt": "2026-03-09T02:23:03.000Z",
       "rank": 5
     },
     {
-      "id": "bdd31dd5a4bb031e",
-      "title": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 - 디지털경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bTFRRHNSVGtiVDI5c09QVHlpd3d6MTZkcDVpa1R4UnZqb25oYzAxQ09HdDRoYTBZY0xBWHlBQXJUUTZWMWxMUFFjZ0YwZTR4WHdRVXBxdjFUa2hYQ0NtYUFuZjZubmRPS3c?oc=5",
+      "id": "562a3cf207f31299",
+      "title": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UVEdnVHJ2RUlKNkNBWW9JSnRYcDk5RGEyODBIUlNGT01jczdBeWo1d2pPbWl5ZTlPbGNQY3ZvVHBlMlZfcDRkakk5b3o1VDllb2Y0NzNEMHRySmRveEFNOGpZRQ?oc=5",
       "source": "Google News: ISO IEC AI standard",
-      "summary": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 디지털경제뉴스",
-      "publishedAt": "2026-03-12T13:14:54.000Z",
+      "summary": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 뉴스1",
+      "publishedAt": "2026-03-08T21:00:00.000Z",
       "rank": 6
     }
   ],
   "videos": [
     {
-      "id": "4668833636c354bd",
-      "title": "Here's Why So Many Tech Unicorns Are From Sweden",
-      "url": "https://www.youtube.com/watch?v=8Sh2pktZgPs",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8Sh2pktZgPs/hqdefault.jpg",
-      "publishedAt": "2026-03-15T06:00:09.000Z",
+      "id": "3636033af931a92c",
+      "title": "Early wins, big ambitions: Berenberg's Gemini Enterprise transformation: Google Cloud Customer Story",
+      "url": "https://www.youtube.com/watch?v=kUNyCj4RpFY",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/kUNyCj4RpFY/hqdefault.jpg",
+      "publishedAt": "2026-03-16T18:14:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "7ddb34814af78dc8",
-      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
-      "url": "https://www.youtube.com/watch?v=kHwRKVLEP-w",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/kHwRKVLEP-w/hqdefault.jpg",
-      "publishedAt": "2026-03-14T06:00:25.000Z",
+      "id": "30e933fdcaff63f6",
+      "title": "Google Cloud Partner Network Overview Video",
+      "url": "https://www.youtube.com/watch?v=tl6sINCznMI",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/tl6sINCznMI/hqdefault.jpg",
+      "publishedAt": "2026-03-16T18:07:31.000Z",
       "viewCount": 0
     },
     {
-      "id": "f80678fc4ea72755",
-      "title": "Meta Cable Expansion Stalled by Iran Conflict | Bloomberg Tech 3/13/2026",
-      "url": "https://www.youtube.com/watch?v=iZ39QHXYxXc",
+      "id": "f468232ee0f63d8d",
+      "title": "Meta Expands AI Compute Deal, Nvidia GTC Kicks Off | Bloomberg Tech 3/16/2026",
+      "url": "https://www.youtube.com/watch?v=buuLLZH6gNU",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/iZ39QHXYxXc/hqdefault.jpg",
-      "publishedAt": "2026-03-13T20:34:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/buuLLZH6gNU/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:51:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "971fb59e20868a95",
-      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
-      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
+      "id": "6266ba82e73bee40",
+      "title": "Capital Needs Will Drive Startups to Go Public: Wellington’s Witheiler",
+      "url": "https://www.youtube.com/watch?v=tB4h-M8-guQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/tB4h-M8-guQ/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:28:28.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "3d0e04dfbd695854",
+      "title": "Iran War Has Firms on High Alert for Cyber Threats",
+      "url": "https://www.youtube.com/watch?v=7Vtn0OyBVLg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/7Vtn0OyBVLg/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:21:07.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d091d63f3450d361",
+      "title": "Oscars Celebrate Hollywood as AI Chills Industry",
+      "url": "https://www.youtube.com/watch?v=ZhIgbxJztRw",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ZhIgbxJztRw/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:11:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7141f5721c15cffe",
+      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
+      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg",
-      "publishedAt": "2026-03-13T20:08:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:00:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "e468d1b91016316e",
-      "title": "Lucid Lays Out Plan to Turn Cash Flow Positive",
-      "url": "https://www.youtube.com/watch?v=rt5zTI3zGuU",
+      "id": "83e9fb69521aaab3",
+      "title": "Meta Could Cut 20% of Jobs, Reuters Says",
+      "url": "https://www.youtube.com/watch?v=md8YGeLzv1E",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/rt5zTI3zGuU/hqdefault.jpg",
-      "publishedAt": "2026-03-13T17:44:08.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "80e65b24ebd5f3c2",
-      "title": "Ramp Aims for European Expansion with Billhop Deal",
-      "url": "https://www.youtube.com/watch?v=nU3JmaCavP0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/nU3JmaCavP0/hqdefault.jpg",
-      "publishedAt": "2026-03-13T17:26:13.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a51b6ab67ca1b269",
-      "title": "Massive Private Valuations Gear Up for Mega IPOs",
-      "url": "https://www.youtube.com/watch?v=eQKECj31JOo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/eQKECj31JOo/hqdefault.jpg",
-      "publishedAt": "2026-03-13T17:19:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0c314160ff287754",
-      "title": "The $32B acquisition that one VC is calling the 'Deal of the Decade' | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=H-pJo-pSe2w",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/H-pJo-pSe2w/hqdefault.jpg",
-      "publishedAt": "2026-03-13T16:08:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/md8YGeLzv1E/hqdefault.jpg",
+      "publishedAt": "2026-03-16T15:55:02.000Z",
       "viewCount": 0
     }
   ],
