@@ -18,6 +18,14 @@ const ARTICLE_WINDOW_DAYS = 4;
 const ARTICLE_BACKFILL_WINDOWS = [7, 14, 30] as const;
 const ARTICLE_FETCH_WINDOW_DAYS = ARTICLE_BACKFILL_WINDOWS[ARTICLE_BACKFILL_WINDOWS.length - 1];
 const ARTICLE_ITEMS_PER_FEED = 20;
+const ARTICLE_FEED_LIMIT = 12;
+const ARTICLE_DEFAULT_QUERIES = [
+  "AI standardization",
+  "IT standardization",
+  "ISO IEC AI",
+  "trustworthy AI governance",
+  "AI data quality",
+] as const;
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
@@ -270,14 +278,14 @@ function isDuplicateArticle(a: ArticleItem, b: ArticleItem): boolean {
   if (aTitle && bTitle) {
     if (aTitle === bTitle) return true;
     if (aTitle.includes(bTitle) || bTitle.includes(aTitle)) return true;
-    if (overlapRatio(toTextTokens(aTitle), toTextTokens(bTitle)) >= 0.82) {
+    if (overlapRatio(toTextTokens(aTitle), toTextTokens(bTitle)) >= 0.74) {
       return true;
     }
   }
 
   const aSummary = cleanTextKey(a.summary).slice(0, 180);
   const bSummary = cleanTextKey(b.summary).slice(0, 180);
-  if (aSummary && bSummary && overlapRatio(toTextTokens(aSummary), toTextTokens(bSummary)) >= 0.88) {
+  if (aSummary && bSummary && overlapRatio(toTextTokens(aSummary), toTextTokens(bSummary)) >= 0.8) {
     return true;
   }
 
@@ -439,7 +447,10 @@ function buildArticleQueries(profile: ProfileData): string[] {
   const fromInterests = profile.interests
     .map((item) => item.trim())
     .filter(Boolean);
-  return [...new Set([...base, ...fromInterests])].slice(0, MAX_ARTICLES);
+  return [...new Set([...base, ...fromInterests, ...ARTICLE_DEFAULT_QUERIES])].slice(
+    0,
+    ARTICLE_FEED_LIMIT,
+  );
 }
 
 function articleScore(
@@ -457,7 +468,17 @@ function articleScore(
     }
   }
 
-  const standardTokens = ["standard", "standardization", "iso", "iec", "itu"];
+  const standardTokens = [
+    "standard",
+    "standardization",
+    "iso",
+    "iec",
+    "itu",
+    "governance",
+    "policy",
+    "quality",
+    "safety",
+  ];
   for (const token of standardTokens) {
     if (hay.includes(token)) {
       score += 2;
@@ -467,7 +488,9 @@ function articleScore(
   const publishedMs = new Date(publishedAt).getTime();
   if (!Number.isNaN(publishedMs)) {
     const ageDays = Math.max(0, (Date.now() - publishedMs) / 86_400_000);
-    score += Math.max(0, 10 - Math.floor(ageDays));
+    score += Math.max(0, 56 - Math.floor(ageDays * 4));
+    if (ageDays <= 2) score += 8;
+    if (ageDays > 14) score -= Math.floor((ageDays - 14) * 2);
   }
 
   return score;
@@ -479,9 +502,7 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
   const keywordSet = [...profile.articleKeywords, ...profile.interests];
 
   const feeds = queries.map((query) => {
-    const encoded = encodeURIComponent(
-      `${query} IT standardization OR AI standard when:${ARTICLE_FETCH_WINDOW_DAYS}d`,
-    );
+    const encoded = encodeURIComponent(`${query} when:${ARTICLE_FETCH_WINDOW_DAYS}d`);
     return {
       source: `Google News: ${query}`,
       url: `https://news.google.com/rss/search?q=${encoded}&hl=${lang}-${country}&gl=${country}&ceid=${country}:${lang}`,
@@ -518,10 +539,10 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
     .flat()
     .filter((item) => item.url);
 
-  function rankArticles(items: ArticleItem[]): ArticleItem[] {
+  function rankArticles(items: ArticleItem[], limit = MAX_ARTICLES): ArticleItem[] {
     return dedupeArticlesByContent(items)
       .sort((a, b) => b.rank - a.rank || b.publishedAt.localeCompare(a.publishedAt))
-      .slice(0, MAX_ARTICLES)
+      .slice(0, limit)
       .map((item, index) => ({
         ...item,
         rank: index + 1,
@@ -535,16 +556,26 @@ export async function fetchArticles(profile: ProfileData): Promise<ArticleItem[]
     return primary;
   }
 
+  const merged: ArticleItem[] = [...primary];
   for (const windowDays of ARTICLE_BACKFILL_WINDOWS) {
-    const widened = rankArticles(
+    const widenedPool = rankArticles(
       allCandidates.filter((item) => isWithinArticleWindow(item.publishedAt, windowDays)),
+      MAX_ARTICLES * 3,
     );
-    if (widened.length >= MIN_ARTICLES) {
-      return widened;
+    for (const item of widenedPool) {
+      if (merged.length >= MAX_ARTICLES) break;
+      if (merged.some((prev) => prev.url === item.url || isDuplicateArticle(prev, item))) continue;
+      merged.push(item);
+    }
+    if (merged.length >= MIN_ARTICLES) {
+      break;
     }
   }
 
-  return primary;
+  return merged.slice(0, MAX_ARTICLES).map((item, index) => ({
+    ...item,
+    rank: index + 1,
+  }));
 }
 
 async function fetchVideosByYouTubeApi(profile: ProfileData): Promise<VideoItem[]> {
