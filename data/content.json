@@ -1,41 +1,14 @@
 {
-  "updatedAt": "2026-03-19T02:13:43.772Z",
+  "updatedAt": "2026-03-20T02:07:33.512Z",
   "articles": [
     {
-      "id": "bdd31dd5a4bb031e",
-      "title": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 - 디지털경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bTFRRHNSVGtiVDI5c09QVHlpd3d6MTZkcDVpa1R4UnZqb25oYzAxQ09HdDRoYTBZY0xBWHlBQXJUUTZWMWxMUFFjZ0YwZTR4WHdRVXBxdjFUa2hYQ0NtYUFuZjZubmRPS3c?oc=5",
+      "id": "562a3cf207f31299",
+      "title": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UVEdnVHJ2RUlKNkNBWW9JSnRYcDk5RGEyODBIUlNGT01jczdBeWo1d2pPbWl5ZTlPbGNQY3ZvVHBlMlZfcDRkakk5b3o1VDllb2Y0NzNEMHRySmRveEFNOGpZRQ?oc=5",
       "source": "Google News: ISO IEC AI standard",
-      "summary": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 디지털경제뉴스",
-      "publishedAt": "2026-03-12T13:14:54.000Z",
+      "summary": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 뉴스1",
+      "publishedAt": "2026-03-08T21:00:00.000Z",
       "rank": 1
-    },
-    {
-      "id": "449c6bca31355eaf",
-      "title": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 - 임팩트온",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJX0c5QnpXdGNVLTQ5SnhpUUpUQ3RYME1kVm9uVjlVdDVnUjRpbWVNU1h5SXNxRnpMNC15d3hpcXhBTGlJU2xDdmZDSVMwZUxpckVpWF9lb1B0dmFEMXZGbHVLVjI3Sjdy0gFsQVVfeXFMUDJtSTZZWk5xZWdyRUhBT29MdjJ4UzhicmR5aGJjNzZMMlhoZnl2aWhQZHJUWEZSejg3NmJRaDdDWE5lalZYb3hGOVB6QUdYZ0stMmswQ0dQMVdzNjYxMEJ1UFdRd3VXRGtMbDJo?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 임팩트온",
-      "publishedAt": "2026-03-10T01:21:02.000Z",
-      "rank": 2
-    },
-    {
-      "id": "37a7c16f882e253a",
-      "title": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10eVFPUDRoOFZITFBpWVRTOXE3Q0xrZlotc1pDQ1d1OFY3cnR4QzBfWVFBaURnT3M1Wjc0RFQ2djNKVGJrb2UxR1FQNllPS2ZEd1Aw?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 네이트",
-      "publishedAt": "2026-03-09T08:07:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "c9c0145de7de9f46",
-      "title": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbDl0MmViSHZ4NmwwRnp5YVNLOEx1RG1IbUZJajR1Nnh4NlhmQTQwVEx2eFltZnFzREc4UG1OZHRzcmtaS3VUSWcyWnltemp0MWdIaTlFOUtmb0plS3BHTmNSakJ3NF9YaHc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 헬로디디",
-      "publishedAt": "2026-03-12T08:50:00.000Z",
-      "rank": 4
     },
     {
       "id": "b017104869281cad",
@@ -44,53 +17,62 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "산업인력공단, AI경영시스템 국제표준인증 획득 문화일보",
       "publishedAt": "2026-03-09T02:23:03.000Z",
+      "rank": 2
+    },
+    {
+      "id": "c9c0145de7de9f46",
+      "title": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbDl0MmViSHZ4NmwwRnp5YVNLOEx1RG1IbUZJajR1Nnh4NlhmQTQwVEx2eFltZnFzREc4UG1OZHRzcmtaS3VUSWcyWnltemp0MWdIaTlFOUtmb0plS3BHTmNSakJ3NF9YaHc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "내년 R&D 투자, 'AI G3 도약'·'국민 체감'에 방점출연연 전략연구 200% 확대, 예산 1조원으로 증액 헬로디디",
+      "publishedAt": "2026-03-12T08:50:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "37a7c16f882e253a",
+      "title": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10eVFPUDRoOFZITFBpWVRTOXE3Q0xrZlotc1pDQ1d1OFY3cnR4QzBfWVFBaURnT3M1Wjc0RFQ2djNKVGJrb2UxR1FQNllPS2ZEd1Aw?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "산업인력공단, AI 경영 국제표준 'ISO 42001' 인증 획득 네이트",
+      "publishedAt": "2026-03-09T08:07:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "449c6bca31355eaf",
+      "title": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 - 임팩트온",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJX0c5QnpXdGNVLTQ5SnhpUUpUQ3RYME1kVm9uVjlVdDVnUjRpbWVNU1h5SXNxRnpMNC15d3hpcXhBTGlJU2xDdmZDSVMwZUxpckVpWF9lb1B0dmFEMXZGbHVLVjI3Sjdy0gFsQVVfeXFMUDJtSTZZWk5xZWdyRUhBT29MdjJ4UzhicmR5aGJjNzZMMlhoZnl2aWhQZHJUWEZSejg3NmJRaDdDWE5lalZYb3hGOVB6QUdYZ0stMmswQ0dQMVdzNjYxMEJ1UFdRd3VXRGtMbDJo?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "【데일리 ESG정책 브리핑】한국산업인력공단 ‘AI 국제표준 ISO 42001 인증’ 획득 임팩트온",
+      "publishedAt": "2026-03-10T01:21:02.000Z",
       "rank": 5
     },
     {
-      "id": "562a3cf207f31299",
-      "title": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UVEdnVHJ2RUlKNkNBWW9JSnRYcDk5RGEyODBIUlNGT01jczdBeWo1d2pPbWl5ZTlPbGNQY3ZvVHBlMlZfcDRkakk5b3o1VDllb2Y0NzNEMHRySmRveEFNOGpZRQ?oc=5",
+      "id": "bdd31dd5a4bb031e",
+      "title": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 - 디지털경제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bTFRRHNSVGtiVDI5c09QVHlpd3d6MTZkcDVpa1R4UnZqb25oYzAxQ09HdDRoYTBZY0xBWHlBQXJUUTZWMWxMUFFjZ0YwZTR4WHdRVXBxdjFUa2hYQ0NtYUFuZjZubmRPS3c?oc=5",
       "source": "Google News: ISO IEC AI standard",
-      "summary": "산업인력공단, AI 국제표준 인증 획득…공공서비스 신뢰도 높인다 뉴스1",
-      "publishedAt": "2026-03-08T21:00:00.000Z",
+      "summary": "한국퀀텀컴퓨팅, ‘국제 표준 정보보호 관리체계 ‘ISO/IEC 27001’ 인증 획득 디지털경제뉴스",
+      "publishedAt": "2026-03-12T13:14:54.000Z",
       "rank": 6
     }
   ],
   "videos": [
     {
-      "id": "303a868f8a6e1d1b",
-      "title": "Nvidia Says It’s Getting Orders From China | Bloomberg Tech 3/18/2026",
-      "url": "https://www.youtube.com/watch?v=3cAwMcpsS7M",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3cAwMcpsS7M/hqdefault.jpg",
-      "publishedAt": "2026-03-18T21:10:38.000Z",
+      "id": "b96a258b8cd5d01d",
+      "title": "Google AI Studio Build: upgraded agent, full stack runtime & Firebase support",
+      "url": "https://www.youtube.com/watch?v=oladCrY8A4g",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/oladCrY8A4g/hqdefault.jpg",
+      "publishedAt": "2026-03-19T19:01:21.000Z",
       "viewCount": 0
     },
     {
-      "id": "012c90f411cdb6a0",
-      "title": "How FCC’s Carr Rose From Unknown to MAGA Warrior",
-      "url": "https://www.youtube.com/watch?v=i9Z844vqWnA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/i9Z844vqWnA/hqdefault.jpg",
-      "publishedAt": "2026-03-18T18:40:18.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a5ceeae568514f46",
-      "title": "Gradient Raises $220 Million to Back Seed-Stage AI",
-      "url": "https://www.youtube.com/watch?v=qwEZkj-8-30",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qwEZkj-8-30/hqdefault.jpg",
-      "publishedAt": "2026-03-18T18:33:22.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0d4f684ae76ac805",
-      "title": "Kalshi CEO Calls Arizona Charges 'Total Overstep'",
-      "url": "https://www.youtube.com/watch?v=ad4_uycram0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ad4_uycram0/hqdefault.jpg",
-      "publishedAt": "2026-03-18T16:36:35.000Z",
+      "id": "5476af313b280ccc",
+      "title": "How to fight with your co-founder",
+      "url": "https://www.youtube.com/watch?v=7QwK1LvJh7I",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/7QwK1LvJh7I/hqdefault.jpg",
+      "publishedAt": "2026-03-19T11:00:20.000Z",
       "viewCount": 0
     },
     {
@@ -103,30 +85,48 @@
       "viewCount": 0
     },
     {
-      "id": "c9364f7e416f830f",
-      "title": "Nvidia Forecasts $1 Trillion in Revenue Through 2027 | Bloomberg Tech 3/17/2026",
-      "url": "https://www.youtube.com/watch?v=eXOgezoPGUQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/eXOgezoPGUQ/hqdefault.jpg",
-      "publishedAt": "2026-03-17T20:41:42.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f676bf0f40dbaead",
-      "title": "Gecko Robotics Inks $71 Million Deal With US Navy",
-      "url": "https://www.youtube.com/watch?v=82_585LieQY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/82_585LieQY/hqdefault.jpg",
-      "publishedAt": "2026-03-17T18:17:46.000Z",
-      "viewCount": 0
-    },
-    {
       "id": "7036f1ee23c7f732",
       "title": "New Way Now: Fifth Dimension closes the deal on complex real estate processes, from days to minutes",
       "url": "https://www.youtube.com/watch?v=7RQotyNnxuM",
       "channel": "Google Cloud Tech",
       "thumbnail": "https://i.ytimg.com/vi/7RQotyNnxuM/hqdefault.jpg",
       "publishedAt": "2026-03-17T16:00:23.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "3636033af931a92c",
+      "title": "Early wins, big ambitions: Berenberg's Gemini Enterprise transformation: Google Cloud Customer Story",
+      "url": "https://www.youtube.com/watch?v=kUNyCj4RpFY",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/kUNyCj4RpFY/hqdefault.jpg",
+      "publishedAt": "2026-03-16T18:14:39.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "30e933fdcaff63f6",
+      "title": "Google Cloud Partner Network Overview Video",
+      "url": "https://www.youtube.com/watch?v=tl6sINCznMI",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/tl6sINCznMI/hqdefault.jpg",
+      "publishedAt": "2026-03-16T18:07:31.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7141f5721c15cffe",
+      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
+      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg",
+      "publishedAt": "2026-03-16T17:00:00.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "971fb59e20868a95",
+      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
+      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg",
+      "publishedAt": "2026-03-13T20:08:30.000Z",
       "viewCount": 0
     }
   ],
