@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-03-20T02:28:05.254Z",
+  "updatedAt": "2026-03-21T02:01:45.824Z",
   "articles": [
     {
-      "id": "da1d213b7cfa8384",
-      "title": "레드브릭, 기업용 AI 정보보호 관리체계 국제표준 인증 획득 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qSWhjdHpYV3NZcHZGYkhJVHZldDBNMTYzX2xIY2lDeDdKYlFhMUhLNXNVcWlqVFp0VTdLR05Gemt5VzVoc1N4dk1qMHRkZ3IzTXF3?oc=5",
+      "id": "62c96c9acd2acc25",
+      "title": "레드브릭, 영국 BSI로부터 'ISO/IEC 27001' 인증 획득 - 테크월드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WbmNqdzZ2X3hmS3pJaVNvZGFPbnl1bnlObFZZMVI5cm1UYXVFV1R4MEc4NFQ0NGNRM1VxX040V2pNaTBmUkRoSDNzbjV1dWdBZ0ItdXFEaUdSLUJCR2xPeTZZMlhONTR2?oc=5",
       "source": "Google News: ISO IEC AI",
-      "summary": "레드브릭, 기업용 AI 정보보호 관리체계 국제표준 인증 획득 네이트",
-      "publishedAt": "2026-03-20T00:36:00.000Z",
+      "summary": "레드브릭, 영국 BSI로부터 'ISO/IEC 27001' 인증 획득 테크월드뉴스",
+      "publishedAt": "2026-03-20T04:39:27.000Z",
       "rank": 1
+    },
+    {
+      "id": "73335ad8628e6733",
+      "title": "Redbrick Acquires ISO/IEC 27001 Certification… Strengthening Enterprise AI Security Framework - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lTlpoaU0wYzA3TGIwSFJ3ZzVlNi1FbGMzRTNPZmx4ZTdWVUlpN0ZQcDdwSXlHYUFGak5yMkREZTBZVzFBZ3pLQ0dMWnVBek84cGww?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "Redbrick Acquires ISO/IEC 27001 Certification… Strengthening Enterprise AI Security Framework 벤처스퀘어",
+      "publishedAt": "2026-03-20T04:04:27.000Z",
+      "rank": 2
+    },
+    {
+      "id": "f25398994b07e6b7",
+      "title": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zcmNQRng5R3k0M2ZRWVB6YzUxTW55alZsV1FqSWE0amRhbmFheHV2Tm1UNWw4bHo2cFF4M0pidkdWUHhmcXc3SA?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 브레이크뉴스",
+      "publishedAt": "2026-03-20T03:12:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "b6a22da9f5f5b862",
+      "title": "레드브릭, AI 정보보호 국제표준 인증 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHbWpTLThmU09oUjNmcV9ydkhOemhHQ2g0NlpZQjdaNWc5dG04VmlBRER2TWxKcnliLW9mZmZUMjM4Mnl1U0QwSU1mZFZlYktXNDY4cHp4NG9sTlZkNlpBSUlPc2djV29fVUlJNG9USdIBb0FVX3lxTFBHbWpTLThmU09oUjNmcV9ydkhOemhHQ2g0NlpZQjdaNWc5dG04VmlBRER2TWxKcnliLW9mZmZUMjM4Mnl1U0QwSU1mZFZlYktXNDY4cHp4NG9sTlZkNlpBSUlPc2djV29fVUlJNG9USQ?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "레드브릭, AI 정보보호 국제표준 인증 한스경제",
+      "publishedAt": "2026-03-20T00:03:05.000Z",
+      "rank": 4
     },
     {
       "id": "dcc59295059ed845",
@@ -17,7 +44,7 @@
       "source": "Google News: AI data quality",
       "summary": "Universal Robots and Scale AI Launch Imitation Learning System to Accelerate AI Model Training, Bridging the 'Lab-to-Factory' Gap KIPOST",
       "publishedAt": "2026-03-19T05:00:00.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "42f14eccf630cbdb",
@@ -26,7 +53,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "(재)한국품질재단, ㈜큐빅에 ISO/IEC 42001과 ISO/IEC 27001 인증 수여 네이트",
       "publishedAt": "2026-03-18T06:27:00.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "03d1107fa765ac4f",
@@ -35,7 +62,7 @@
       "source": "Google News: AI standardization",
       "summary": "SK Telecom Secures ITU-T Approval for AI Data Center Standard, Boosting Global AI Infrastructure Korea IT Times",
       "publishedAt": "2026-03-18T03:00:46.000Z",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "d1b582dbda7b13cb",
@@ -44,107 +71,80 @@
       "source": "Google News: AI standardization",
       "summary": "SKT, 에릭슨과 5G·6G AI 네트워크 협력... AI-RAN·표준화 공동 추진 오늘경제",
       "publishedAt": "2026-03-19T01:26:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "33fba7fc8ae073fc",
-      "title": "[AI픽] SKT·에릭슨, AI 네트워크로 6G 선점 나선다 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ZDZQWlM2UDF5X3ZjNmlsSTFqaG1TRU40MHpnMkZNVnZWRmREZTRPMDN1T1JiS29OVUdJSUxhZ2FoY0tidXJqQ2JvRmtueU9wVEtYYmRKQlZqZFRkRWV3TdIBYEFVX3lxTE94ZDZQWlM2UDF5X3ZjNmlsSTFqaG1TRU40MHpnMkZNVnZWRmREZTRPMDN1T1JiS29OVUdJSUxhZ2FoY0tidXJqQ2JvRmtueU9wVEtYYmRKQlZqZFRkRWV3TQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[AI픽] SKT·에릭슨, AI 네트워크로 6G 선점 나선다 연합뉴스",
-      "publishedAt": "2026-03-18T23:53:22.000Z",
-      "rank": 6
-    },
-    {
-      "id": "a8f9385373e76b99",
-      "title": "[대우건설 초격차③] '초안전·초품질'… 현장 데이터로 경쟁력 강화 - 서울와이어",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhNWl6MnlxNHVjSEtrNDg0RENEVUJCNkVxNFlTZWZ2N3Ntb1Z6N01uaXY4U29qQzFFZVNBd1pwNnJYcjM0bjZYcExIMXNBTTNxVGdsYmhybUhZSjVvcTFNV3B5RVprX2haVU1FeQ?oc=5",
-      "source": "Google News: AI data quality",
-      "summary": "[대우건설 초격차③] '초안전·초품질'… 현장 데이터로 경쟁력 강화 서울와이어",
-      "publishedAt": "2026-03-18T22:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "c6b269c144a27730",
-      "title": "박형준 시장 “조선산업 AI 전환 본격화”… 부산시, AI 혁신 얼라이언스 출범 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tUFpSbVFSam5QcWdneUx0X1ZFM1czRzRKX0VQcEdocGhvQU9XRmo4VTl0bzRkQ3JsdFdXYU43Ym1udw?oc=5",
-      "source": "Google News: AI data quality",
-      "summary": "박형준 시장 “조선산업 AI 전환 본격화”… 부산시, AI 혁신 얼라이언스 출범 브레이크뉴스",
-      "publishedAt": "2026-03-18T10:16:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "99f86eb34a4a1e0a",
-      "title": "Micron Warns of Heavy Spending Amid Memory Crunch | Bloomberg Tech 3/19/2026",
-      "url": "https://www.youtube.com/watch?v=sNcZ7hugRrY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/sNcZ7hugRrY/hqdefault.jpg",
-      "publishedAt": "2026-03-19T20:33:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7b939a3db7abbea1",
-      "title": "Some AI Firms a Little ‘Overvalued,’ Khosla’s Choi Says",
-      "url": "https://www.youtube.com/watch?v=d2cJpsBrXAM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/d2cJpsBrXAM/hqdefault.jpg",
-      "publishedAt": "2026-03-19T19:12:24.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b96a258b8cd5d01d",
-      "title": "Google AI Studio Build: upgraded agent, full stack runtime & Firebase support",
-      "url": "https://www.youtube.com/watch?v=oladCrY8A4g",
+      "id": "693e48c3cdc2a058",
+      "title": "How to build a full-stack app with Supabase and Stripe on Google AI Studio",
+      "url": "https://www.youtube.com/watch?v=Z87vZFYC7hc",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/oladCrY8A4g/hqdefault.jpg",
-      "publishedAt": "2026-03-19T19:01:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Z87vZFYC7hc/hqdefault.jpg",
+      "publishedAt": "2026-03-20T21:32:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "957fb5a37008b82d",
-      "title": "Electric Speed Boat Maker Expands to Defense With New Funding",
-      "url": "https://www.youtube.com/watch?v=WlvW4uSPK_E",
+      "id": "9fec60a3943e61d5",
+      "title": "Super Micro Co-Founder Charged With Smuggling Nvidia Chips to China | Bloomberg Tech 3/20/2026",
+      "url": "https://www.youtube.com/watch?v=4ntF6fu3jFs",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/WlvW4uSPK_E/hqdefault.jpg",
-      "publishedAt": "2026-03-19T18:35:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/4ntF6fu3jFs/hqdefault.jpg",
+      "publishedAt": "2026-03-20T20:34:56.000Z",
       "viewCount": 0
     },
     {
-      "id": "d94340997c702b89",
-      "title": "Chinese Firms Benefit From Consumer AI Uptake",
-      "url": "https://www.youtube.com/watch?v=qnUjPej6lOQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qnUjPej6lOQ/hqdefault.jpg",
-      "publishedAt": "2026-03-19T18:30:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5476af313b280ccc",
-      "title": "How to fight with your co-founder",
-      "url": "https://www.youtube.com/watch?v=7QwK1LvJh7I",
+      "id": "b68d42430fc1f498",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=Srp2fIMWnVY",
       "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/7QwK1LvJh7I/hqdefault.jpg",
-      "publishedAt": "2026-03-19T11:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Srp2fIMWnVY/hqdefault.jpg",
+      "publishedAt": "2026-03-20T18:46:28.000Z",
       "viewCount": 0
     },
     {
-      "id": "303a868f8a6e1d1b",
-      "title": "Nvidia Says It’s Getting Orders From China | Bloomberg Tech 3/18/2026",
-      "url": "https://www.youtube.com/watch?v=3cAwMcpsS7M",
+      "id": "a97f6c4f93f538f3",
+      "title": "SpaceX Knocks Boeing From Dominant Role in NASA Moon Mission",
+      "url": "https://www.youtube.com/watch?v=kbbb9qP_c88",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3cAwMcpsS7M/hqdefault.jpg",
-      "publishedAt": "2026-03-18T21:10:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kbbb9qP_c88/hqdefault.jpg",
+      "publishedAt": "2026-03-20T17:57:20.000Z",
       "viewCount": 0
     },
     {
-      "id": "012c90f411cdb6a0",
-      "title": "How FCC’s Carr Rose From Unknown to MAGA Warrior",
-      "url": "https://www.youtube.com/watch?v=i9Z844vqWnA",
+      "id": "59935f51c142e5c2",
+      "title": "Firefly CEO: Upside Opportunity With Golden Dome",
+      "url": "https://www.youtube.com/watch?v=zd9Km0jsPZM",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/i9Z844vqWnA/hqdefault.jpg",
-      "publishedAt": "2026-03-18T18:40:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zd9Km0jsPZM/hqdefault.jpg",
+      "publishedAt": "2026-03-20T17:30:44.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "144f5ebdf6c3d3d1",
+      "title": "Bubble Tendencies Forming in AI: Accel Partner",
+      "url": "https://www.youtube.com/watch?v=Gqi-w-Biubs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Gqi-w-Biubs/hqdefault.jpg",
+      "publishedAt": "2026-03-20T17:24:50.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f1595599f3ec1254",
+      "title": "Future Today Strategy CEO on Super Micro Co-Founder Charges",
+      "url": "https://www.youtube.com/watch?v=FE8hZEd38l4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/FE8hZEd38l4/hqdefault.jpg",
+      "publishedAt": "2026-03-20T17:19:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ac43dfe74491016f",
+      "title": "From your kitchen to customers | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=ApOVfOGWTJU",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg",
+      "publishedAt": "2026-03-20T16:16:16.000Z",
       "viewCount": 0
     }
   ],
