@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-03-21T02:01:45.824Z",
+  "updatedAt": "2026-03-22T02:21:50.893Z",
   "articles": [
+    {
+      "id": "23ded412c85b2916",
+      "title": "\"AI 내시경 경쟁, 판독 넘어 검사 품질 관리로 확장\" - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yc0FSckZ2YXZyY2RycTU1aC1vUGRQRk1QNHBlQVhfeDczNEpzUkJWX01BenBhaGRpRktSRlNPLUtwYmJSN000VUhsVVlVaVBab3RBLVVB?oc=5",
+      "source": "Google News: AI data quality",
+      "summary": "\"AI 내시경 경쟁, 판독 넘어 검사 품질 관리로 확장\" 데일리팜",
+      "publishedAt": "2026-03-21T03:50:16.000Z",
+      "rank": 1
+    },
     {
       "id": "62c96c9acd2acc25",
       "title": "레드브릭, 영국 BSI로부터 'ISO/IEC 27001' 인증 획득 - 테크월드뉴스",
@@ -8,7 +17,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "레드브릭, 영국 BSI로부터 'ISO/IEC 27001' 인증 획득 테크월드뉴스",
       "publishedAt": "2026-03-20T04:39:27.000Z",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "73335ad8628e6733",
@@ -17,25 +26,25 @@
       "source": "Google News: ISO IEC AI",
       "summary": "Redbrick Acquires ISO/IEC 27001 Certification… Strengthening Enterprise AI Security Framework 벤처스퀘어",
       "publishedAt": "2026-03-20T04:04:27.000Z",
-      "rank": 2
-    },
-    {
-      "id": "f25398994b07e6b7",
-      "title": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zcmNQRng5R3k0M2ZRWVB6YzUxTW55alZsV1FqSWE0amRhbmFheHV2Tm1UNWw4bHo2cFF4M0pidkdWUHhmcXc3SA?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 브레이크뉴스",
-      "publishedAt": "2026-03-20T03:12:00.000Z",
       "rank": 3
     },
     {
-      "id": "b6a22da9f5f5b862",
-      "title": "레드브릭, AI 정보보호 국제표준 인증 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHbWpTLThmU09oUjNmcV9ydkhOemhHQ2g0NlpZQjdaNWc5dG04VmlBRER2TWxKcnliLW9mZmZUMjM4Mnl1U0QwSU1mZFZlYktXNDY4cHp4NG9sTlZkNlpBSUlPc2djV29fVUlJNG9USdIBb0FVX3lxTFBHbWpTLThmU09oUjNmcV9ydkhOemhHQ2g0NlpZQjdaNWc5dG04VmlBRER2TWxKcnliLW9mZmZUMjM4Mnl1U0QwSU1mZFZlYktXNDY4cHp4NG9sTlZkNlpBSUlPc2djV29fVUlJNG9USQ?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "레드브릭, AI 정보보호 국제표준 인증 한스경제",
-      "publishedAt": "2026-03-20T00:03:05.000Z",
+      "id": "889509fa5a12a22b",
+      "title": "“수술 AI, 명의의 경험 보완 넘어 의료 표준화 이끈다” - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSXhKQVdtMUJsQWxLSVVKbXo3UkI2RHYtc2RjUGVFSkQ2Mm11NE5ITVF0bk1GWndmTnk3b2VfVE8wUklzU2g3OVFSLUcyQVU4enU5QkdtZkl1UTY5RXdDaWhoWmYzbW5SWFE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "“수술 AI, 명의의 경험 보완 넘어 의료 표준화 이끈다” 의학신문",
+      "publishedAt": "2026-03-21T02:03:47.000Z",
       "rank": 4
+    },
+    {
+      "id": "ce49d12867824f43",
+      "title": "레드브릭, 기업용 AI 정보보호 관리체계 국제표준 인증 획득 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbTBmX3VmRUdEQVBMRTNwTDhwbVNlYXlKTU9HWDVvX3IxaVdsdy1RaWVJZ3JZUWgyUnJDNy0wZGtvREc0Nm83NEpZVzFya1F2WGZob1ZCcktZcng3ZmxkbQ?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "레드브릭, 기업용 AI 정보보호 관리체계 국제표준 인증 획득 네이트",
+      "publishedAt": "2026-03-20T00:36:00.000Z",
+      "rank": 5
     },
     {
       "id": "dcc59295059ed845",
@@ -44,15 +53,6 @@
       "source": "Google News: AI data quality",
       "summary": "Universal Robots and Scale AI Launch Imitation Learning System to Accelerate AI Model Training, Bridging the 'Lab-to-Factory' Gap KIPOST",
       "publishedAt": "2026-03-19T05:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "42f14eccf630cbdb",
-      "title": "(재)한국품질재단, ㈜큐빅에 ISO/IEC 42001과 ISO/IEC 27001 인증 수여 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hSklMamdSOEl0NEwzdmh3QkhkNGx6SFpBVThDUi1LR01ycUJkYzgwNnZWdGpGM2MtdTJOM21BS1NLNmhXOFJYa0RFRHhqOUNTcjJZ?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "(재)한국품질재단, ㈜큐빅에 ISO/IEC 42001과 ISO/IEC 27001 인증 수여 네이트",
-      "publishedAt": "2026-03-18T06:27:00.000Z",
       "rank": 6
     },
     {
@@ -75,6 +75,15 @@
     }
   ],
   "videos": [
+    {
+      "id": "f534c8c3336ead7c",
+      "title": "Consult like an IBMer",
+      "url": "https://www.youtube.com/watch?v=VkZXBhhQyeU",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/VkZXBhhQyeU/hqdefault.jpg",
+      "publishedAt": "2026-03-21T11:00:35.000Z",
+      "viewCount": 0
+    },
     {
       "id": "693e48c3cdc2a058",
       "title": "How to build a full-stack app with Supabase and Stripe on Google AI Studio",
@@ -136,15 +145,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/FE8hZEd38l4/hqdefault.jpg",
       "publishedAt": "2026-03-20T17:19:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ac43dfe74491016f",
-      "title": "From your kitchen to customers | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=ApOVfOGWTJU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg",
-      "publishedAt": "2026-03-20T16:16:16.000Z",
       "viewCount": 0
     }
   ],
