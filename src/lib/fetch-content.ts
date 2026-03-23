@@ -5,6 +5,9 @@ import Parser from "rss-parser";
 import { readPickedMedia } from "@/lib/google-photos-picker";
 import type {
   ArticleItem,
+  PatentRecord,
+  PatentSourceMeta,
+  PatentStats,
   PhotoItem,
   ProfileData,
   ProjectItem,
@@ -29,6 +32,8 @@ const ARTICLE_DEFAULT_QUERIES = [
 const MAX_VIDEOS = 8;
 const VIDEO_MIN_RELEVANCE_STRICT = 6;
 const VIDEO_MIN_RELEVANCE_RELAXED = 2;
+const MAX_PATENT_RECORDS = 12;
+const PATENT_YEAR_BUCKETS = 5;
 
 const CURATED_TECH_NEWS_CHANNELS = [
   { name: "Bloomberg Technology", channelId: "UCrM7B7SL_g1edFOnmj-SDKg" },
@@ -173,6 +178,27 @@ type YouTubeVideoResponse = {
   }>;
 };
 
+type GooglePatentsResponse = {
+  results?: {
+    cluster?: Array<{
+      result?: Array<{
+        id?: string;
+        patent?: {
+          title?: string;
+          snippet?: string;
+          priority_date?: string;
+          filing_date?: string;
+          grant_date?: string;
+          publication_date?: string;
+          inventor?: string;
+          assignee?: string;
+          publication_number?: string;
+        };
+      }>;
+    }>;
+  };
+};
+
 function hashKey(value: string): string {
   return crypto.createHash("sha1").update(value).digest("hex").slice(0, 16);
 }
@@ -191,6 +217,14 @@ function toIsoDate(input: string): string {
   const parsed = new Date(input);
   if (Number.isNaN(parsed.getTime())) {
     return new Date().toISOString();
+  }
+  return parsed.toISOString();
+}
+
+function toIsoDateOrEmpty(input: string): string {
+  const parsed = new Date(input);
+  if (Number.isNaN(parsed.getTime())) {
+    return "";
   }
   return parsed.toISOString();
 }
@@ -328,6 +362,185 @@ function hasToken(hay: string, token: string): boolean {
     return new RegExp(`\\b${escapeRegExp(trimmed)}\\b`, "i").test(hay);
   }
   return hay.includes(trimmed);
+}
+
+function decodeHtmlEntities(text: string): string {
+  return text
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&hellip;/g, "...")
+    .replace(/&#(\d+);/g, (_, code: string) => {
+      const value = Number(code);
+      return Number.isFinite(value) ? String.fromCharCode(value) : "";
+    });
+}
+
+function stripHtml(text: string): string {
+  return decodeHtmlEntities(text.replace(/<[^>]*>/g, " "))
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function distinct<T>(items: T[]): T[] {
+  return [...new Set(items)];
+}
+
+function buildPatentNameVariants(profile: ProfileData): string[] {
+  const base = [
+    profile.name,
+    profile.localName,
+    profile.name
+      .split(/\s+/)
+      .filter(Boolean)
+      .reverse()
+      .join(" "),
+  ]
+    .map((item) => item.trim())
+    .filter(Boolean);
+  return distinct(base);
+}
+
+function buildPatentQuery(profile: ProfileData): string {
+  const variants = buildPatentNameVariants(profile);
+  const clauses = variants.map((name) => `inventor:"${name}"`);
+  if (clauses.length === 0) {
+    return "inventor:\"Ha Suwook\"";
+  }
+  return clauses.join(" OR ");
+}
+
+function buildPatentQueryUrl(query: string, maxResults = 50): string {
+  const inner = `q=${encodeURIComponent(query)}&num=${maxResults}`;
+  return `https://patents.google.com/xhr/query?url=${encodeURIComponent(inner)}`;
+}
+
+function patentCountryCode(publicationNumber: string): string {
+  const matched = publicationNumber.toUpperCase().match(/^[A-Z]+/);
+  if (!matched) return "N/A";
+  return matched[0];
+}
+
+function isDomesticPatent(publicationNumber: string): boolean {
+  return patentCountryCode(publicationNumber) === "KR";
+}
+
+function patentStatus(grantDate: string, publicationDate: string): string {
+  if (grantDate) return "Registered";
+  if (publicationDate) return "Published";
+  return "Filed";
+}
+
+function patentRegion(publicationNumber: string): string {
+  const code = patentCountryCode(publicationNumber);
+  if (code === "KR") return "KR";
+  if (code === "WO") return "PCT";
+  return code;
+}
+
+function patentTitleScore(
+  title: string,
+  summary: string,
+  filingDate: string,
+): number {
+  const hay = normalize(`${title} ${summary}`);
+  let score = 0;
+  const domainTokens = [
+    "ai",
+    "artificial intelligence",
+    "standard",
+    "standardization",
+    "quality",
+    "data",
+    "governance",
+    "trust",
+    "machine learning",
+  ];
+  for (const token of domainTokens) {
+    if (hay.includes(token)) score += 2;
+  }
+  const filedMs = new Date(filingDate).getTime();
+  if (!Number.isNaN(filedMs)) {
+    const ageDays = Math.max(0, (Date.now() - filedMs) / 86_400_000);
+    score += Math.max(0, 180 - ageDays) / 10;
+  }
+  return score;
+}
+
+function inventorMatchesProfile(inventorText: string, profile: ProfileData): boolean {
+  const hay = normalize(inventorText);
+  const targets = buildPatentNameVariants(profile).map((item) => normalize(item));
+  if (targets.length === 0) return false;
+
+  return targets.some((name) => {
+    if (!name) return false;
+    if (hay.includes(name)) return true;
+    const tokens = name.split(/\s+/).filter(Boolean);
+    if (tokens.length <= 1) return false;
+    return tokens.every((token) => hay.includes(token));
+  });
+}
+
+function normalizePatentRecords(records: PatentRecord[]): PatentRecord[] {
+  const byNumber = new Map<string, PatentRecord>();
+  for (const item of records) {
+    const number = item.patentNumber.trim();
+    if (!number) continue;
+    const prev = byNumber.get(number);
+    if (!prev) {
+      byNumber.set(number, item);
+      continue;
+    }
+    if (item.filedAt > prev.filedAt) {
+      byNumber.set(number, item);
+    }
+  }
+  return [...byNumber.values()];
+}
+
+function buildPatentStats(records: PatentRecord[]): PatentStats {
+  const domesticApps = records.filter((item) => item.region === "KR").length;
+  const domesticRegs = records.filter(
+    (item) => item.region === "KR" && item.status === "Registered",
+  ).length;
+  const globalApps = records.filter((item) => item.region !== "KR").length;
+  const globalRegs = records.filter(
+    (item) => item.region !== "KR" && item.status === "Registered",
+  ).length;
+
+  const yearMap = new Map<string, { applications: number; registrations: number }>();
+  for (const record of records) {
+    const year = record.filedAt.slice(0, 4);
+    if (!/^\d{4}$/.test(year)) continue;
+    const bucket = yearMap.get(year) ?? { applications: 0, registrations: 0 };
+    bucket.applications += 1;
+    if (record.status === "Registered") bucket.registrations += 1;
+    yearMap.set(year, bucket);
+  }
+
+  const years = [...yearMap.keys()].sort((a, b) => a.localeCompare(b));
+  const cappedYears = years.slice(Math.max(0, years.length - PATENT_YEAR_BUCKETS));
+  const yearly = cappedYears.map((year) => ({
+    year,
+    applications: yearMap.get(year)?.applications ?? 0,
+    registrations: yearMap.get(year)?.registrations ?? 0,
+  }));
+
+  return {
+    domestic: {
+      applications: domesticApps,
+      registrations: domesticRegs,
+    },
+    international: {
+      applications: globalApps,
+      registrations: globalRegs,
+    },
+    yearly,
+  };
 }
 
 function buildVideoChannels(profile: ProfileData): VideoChannel[] {
@@ -762,6 +975,123 @@ export async function fetchPhotos(profile: ProfileData): Promise<PhotoItem[]> {
       description: item.filename,
       takenAt: toIsoDate(item.createTime),
     }));
+}
+
+export async function fetchPatents(
+  profile: ProfileData,
+): Promise<{
+  source: PatentSourceMeta;
+  stats: PatentStats;
+  records: PatentRecord[];
+} | null> {
+  const query = buildPatentQuery(profile);
+  const queryUrl = buildPatentQueryUrl(query, 50);
+  const source: PatentSourceMeta = {
+    provider: "Google Patents",
+    query,
+    queryUrl: `https://patents.google.com/?q=${encodeURIComponent(query)}`,
+  };
+
+  try {
+    const res = await fetch(queryUrl, {
+      headers: {
+        Accept: "application/json",
+        "User-Agent": "homepage-auto",
+      },
+      cache: "no-store",
+    });
+
+    const contentType = toText(res.headers.get("content-type"));
+    if (!res.ok || !contentType.includes("application/json")) {
+      return null;
+    }
+
+    const payload = (await res.json()) as GooglePatentsResponse;
+    const rawItems = (payload.results?.cluster ?? [])
+      .flatMap((cluster) => cluster.result ?? []);
+
+    const mapped = rawItems
+      .map((entry) => {
+        const patent = entry.patent;
+        if (!patent) return null;
+
+        const publicationNumber = stripHtml(toText(patent.publication_number));
+        if (!publicationNumber) return null;
+
+        const title = stripHtml(toText(patent.title));
+        const summary = clip(stripHtml(toText(patent.snippet)));
+        const inventors = stripHtml(toText(patent.inventor));
+        const assignee = stripHtml(toText(patent.assignee));
+        if (!inventorMatchesProfile(inventors, profile)) {
+          return null;
+        }
+
+        const filingDate = toIsoDate(
+          toText(patent.filing_date) || toText(patent.publication_date) || toText(patent.priority_date),
+        ).slice(0, 10);
+        const publicationDate = toIsoDateOrEmpty(toText(patent.publication_date)).slice(0, 10);
+        const grantDate = toIsoDateOrEmpty(toText(patent.grant_date)).slice(0, 10);
+        const status = patentStatus(toText(patent.grant_date), toText(patent.publication_date));
+        const region = patentRegion(publicationNumber);
+        const sourceUrl = toText(entry.id)
+          ? `https://patents.google.com/${toText(entry.id)}`
+          : `https://patents.google.com/?q=${encodeURIComponent(publicationNumber)}`;
+
+        return {
+          item: {
+            title: title || "Untitled patent",
+            region,
+            status,
+            patentNumber: publicationNumber,
+            filedAt: filingDate,
+            sourceUrl,
+            sourceName: "Google Patents",
+            inventors,
+            assignee,
+          } satisfies PatentRecord,
+          score: patentTitleScore(title, summary, filingDate) + (isDomesticPatent(publicationNumber) ? 1 : 0),
+          publicationDate,
+          grantDate,
+        };
+      })
+      .filter((entry): entry is NonNullable<typeof entry> => Boolean(entry));
+
+    const normalized = normalizePatentRecords(mapped.map((entry) => entry.item))
+      .sort((a, b) => b.filedAt.localeCompare(a.filedAt))
+      .slice(0, MAX_PATENT_RECORDS);
+
+    if (normalized.length === 0) {
+      return null;
+    }
+
+    const scored = normalized
+      .map((item) => {
+        const matched = mapped.find((entry) => entry.item.patentNumber === item.patentNumber);
+        return {
+          item,
+          score: matched?.score ?? 0,
+          publicationDate: matched?.publicationDate ?? "",
+          grantDate: matched?.grantDate ?? "",
+        };
+      })
+      .sort(
+        (a, b) =>
+          b.score - a.score ||
+          b.grantDate.localeCompare(a.grantDate) ||
+          b.publicationDate.localeCompare(a.publicationDate) ||
+          b.item.filedAt.localeCompare(a.item.filedAt),
+      )
+      .slice(0, MAX_PATENT_RECORDS)
+      .map((entry) => entry.item);
+
+    return {
+      source,
+      stats: buildPatentStats(scored),
+      records: scored,
+    };
+  } catch {
+    return null;
+  }
 }
 
 function repoScore(repo: GitHubRepo): number {

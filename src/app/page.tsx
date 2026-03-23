@@ -140,37 +140,43 @@ export default async function HomePage() {
     { label: "Top Videos", value: Math.min(content.videos.length, 8) },
   ];
   const signalMax = Math.max(...signalData.map((item) => item.value), 1);
+  const patentData = content.patents ?? null;
+  const patentStats = patentData?.stats ?? {
+    domestic: { applications: 0, registrations: 0 },
+    international: { applications: 0, registrations: 0 },
+    yearly: [],
+  };
   const patentSummary = [
     {
       label: "Domestic",
-      applications: profile.patentStats.domestic.applications,
-      registrations: profile.patentStats.domestic.registrations,
+      applications: patentStats.domestic.applications,
+      registrations: patentStats.domestic.registrations,
     },
     {
       label: "International",
-      applications: profile.patentStats.international.applications,
-      registrations: profile.patentStats.international.registrations,
+      applications: patentStats.international.applications,
+      registrations: patentStats.international.registrations,
     },
   ];
   const patentSummaryMax = Math.max(
     ...patentSummary.map((item) => Math.max(item.applications, item.registrations)),
     1,
   );
-  const patentYearly = [...profile.patentStats.yearly].sort((a, b) =>
+  const patentYearly = [...patentStats.yearly].sort((a, b) =>
     a.year.localeCompare(b.year),
   );
   const patentYearlyMax = Math.max(
     ...patentYearly.map((item) => Math.max(item.applications, item.registrations)),
     1,
   );
-  const patentRecords = [...profile.patentRecords]
+  const patentRecords = [...(patentData?.records ?? [])]
     .sort((a, b) => b.filedAt.localeCompare(a.filedAt))
     .slice(0, 12);
   const patentAssetTotal =
-    profile.patentStats.domestic.applications +
-    profile.patentStats.domestic.registrations +
-    profile.patentStats.international.applications +
-    profile.patentStats.international.registrations;
+    patentStats.domestic.applications +
+    patentStats.domestic.registrations +
+    patentStats.international.applications +
+    patentStats.international.registrations;
   const heroThemes = profile.interests.slice(0, 4).map((label, index) => ({
     label,
     kind: ["mesh", "shield", "chip", "globe"][index % 4] as
@@ -229,7 +235,7 @@ export default async function HomePage() {
       kind: "mesh" as const,
     },
     {
-      label: "Open Source",
+      label: "GitHub Profile",
       value: profile.githubUsername,
       note: `${formatNumber(content.projects.length)} ranked repositories`,
       href: `https://github.com/${profile.githubUsername}`,
@@ -239,7 +245,7 @@ export default async function HomePage() {
     {
       label: "Patent Portfolio",
       value: formatNumber(patentAssetTotal),
-      note: `KR ${formatNumber(profile.patentStats.domestic.applications + profile.patentStats.domestic.registrations)} | Global ${formatNumber(profile.patentStats.international.applications + profile.patentStats.international.registrations)}`,
+      note: `KR ${formatNumber(patentStats.domestic.applications + patentStats.domestic.registrations)} | Global ${formatNumber(patentStats.international.applications + patentStats.international.registrations)}`,
       href: null,
       linkLabel: null,
       kind: "shield" as const,
@@ -451,7 +457,7 @@ export default async function HomePage() {
             relatedTechnologies={profile.relatedTechnologies}
             standardizationActivities={profile.standardizationActivities}
             articles={content.articles}
-            patentRecords={profile.patentRecords}
+            patentRecords={patentRecords}
           />
 
           <article className="viz-card">
@@ -529,7 +535,16 @@ export default async function HomePage() {
             <LangText ko="특허 포트폴리오" en="Patent Portfolio" inline />
           </span>
         </div>
-        <p className="hint">Domestic vs International patent pipeline and registration outcomes.</p>
+        <p className="hint">
+          {patentData ? (
+            <>
+              Source: {patentData.source.provider} | Query: {patentData.source.query} | Checked:{" "}
+              {formatDate(patentData.checkedAt)}
+            </>
+          ) : (
+            "No live patent search data yet. Run refresh to fetch from Google Patents."
+          )}
+        </p>
 
         <div className="patent-summary-grid">
           {patentSummary.map((item) => (
@@ -585,7 +600,7 @@ export default async function HomePage() {
         </h3>
         <div className="patent-record-grid">
           {patentRecords.length === 0 ? (
-            <p className="empty">No patent records configured yet.</p>
+            <p className="empty">No patent records from live search yet.</p>
           ) : (
             patentRecords.map((item) => (
               <article
@@ -595,7 +610,17 @@ export default async function HomePage() {
                 <p className="item-meta">
                   {item.region} | {item.status} | {item.patentNumber}
                 </p>
-                <h3>{item.title}</h3>
+                <h3>
+                  {item.sourceUrl ? (
+                    <Link href={item.sourceUrl} target="_blank">
+                      {item.title}
+                    </Link>
+                  ) : (
+                    item.title
+                  )}
+                </h3>
+                {item.inventors ? <p className="item-meta">Inventor: {item.inventors}</p> : null}
+                {item.assignee ? <p className="item-meta">Assignee: {item.assignee}</p> : null}
                 <p className="item-meta">Filed: {formatDate(item.filedAt)}</p>
               </article>
             ))
@@ -623,7 +648,7 @@ export default async function HomePage() {
               <p>{item.summary}</p>
               <p className="impact">{item.impact}</p>
               <Link className="source-link" href={item.sourceUrl} target="_blank">
-                Open Source
+                <LangText ko="관련 링크 보기" en="View Reference" inline />
               </Link>
             </article>
           ))}
@@ -656,7 +681,8 @@ export default async function HomePage() {
         </h2>
         <p className="hint">
           Cached now: articles {status.counts.articles}, videos {status.counts.videos},
-          photos {status.counts.photos}, projects {status.counts.projects}
+          photos {status.counts.photos}, projects {status.counts.projects}, patents{" "}
+          {status.counts.patents}
         </p>
         {status.recentRuns[0] ? (
           <p className="hint">

@@ -60,6 +60,24 @@ export type PatentRecord = {
   status: string;
   patentNumber: string;
   filedAt: string;
+  sourceUrl?: string;
+  sourceName?: string;
+  inventors?: string;
+  assignee?: string;
+};
+
+export type PatentSourceMeta = {
+  provider: string;
+  query: string;
+  queryUrl: string;
+};
+
+export type PatentSearchData = {
+  checkedAt: string;
+  updatedAt: string;
+  source: PatentSourceMeta;
+  stats: PatentStats;
+  records: PatentRecord[];
 };
 
 export type ProfileData = {
@@ -135,6 +153,7 @@ export type ContentData = {
   updatedAt: string | null;
   projectsCheckedAt?: string | null;
   projectsUpdatedAt?: string | null;
+  patents?: PatentSearchData | null;
   articles: ArticleItem[];
   videos: VideoItem[];
   photos: PhotoItem[];
@@ -161,6 +180,7 @@ export type RefreshLogItem = {
     videos: number;
     photos: number;
     projects: number;
+    patents: number;
   };
 };
 

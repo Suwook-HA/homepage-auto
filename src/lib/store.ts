@@ -13,6 +13,7 @@ const emptyContent: ContentData = {
   updatedAt: null,
   projectsCheckedAt: null,
   projectsUpdatedAt: null,
+  patents: null,
   articles: [],
   videos: [],
   photos: [],
@@ -24,10 +25,66 @@ const emptyRefreshLog: RefreshLogData = {
 };
 
 function clampContent(content: ContentData): ContentData {
+  const patents =
+    content.patents &&
+    typeof content.patents === "object" &&
+    content.patents.stats &&
+    content.patents.source
+      ? {
+          checkedAt:
+            typeof content.patents.checkedAt === "string"
+              ? content.patents.checkedAt
+              : new Date().toISOString(),
+          updatedAt:
+            typeof content.patents.updatedAt === "string"
+              ? content.patents.updatedAt
+              : new Date().toISOString(),
+          source: {
+            provider: String(content.patents.source.provider ?? "Google Patents"),
+            query: String(content.patents.source.query ?? ""),
+            queryUrl: String(content.patents.source.queryUrl ?? ""),
+          },
+          stats: {
+            domestic: {
+              applications: Number(content.patents.stats.domestic?.applications ?? 0),
+              registrations: Number(content.patents.stats.domestic?.registrations ?? 0),
+            },
+            international: {
+              applications: Number(content.patents.stats.international?.applications ?? 0),
+              registrations: Number(content.patents.stats.international?.registrations ?? 0),
+            },
+            yearly: Array.isArray(content.patents.stats.yearly)
+              ? content.patents.stats.yearly.slice(0, 16).map((item) => ({
+                  year: String(item.year ?? ""),
+                  applications: Number(item.applications ?? 0),
+                  registrations: Number(item.registrations ?? 0),
+                }))
+              : [],
+          },
+          records: Array.isArray(content.patents.records)
+            ? content.patents.records.slice(0, 24).map((item) => ({
+                title: String(item.title ?? ""),
+                region: String(item.region ?? ""),
+                status: String(item.status ?? ""),
+                patentNumber: String(item.patentNumber ?? ""),
+                filedAt: String(item.filedAt ?? ""),
+                sourceUrl:
+                  typeof item.sourceUrl === "string" ? item.sourceUrl : undefined,
+                sourceName:
+                  typeof item.sourceName === "string" ? item.sourceName : undefined,
+                inventors:
+                  typeof item.inventors === "string" ? item.inventors : undefined,
+                assignee: typeof item.assignee === "string" ? item.assignee : undefined,
+              }))
+            : [],
+        }
+      : null;
+
   return {
     updatedAt: content.updatedAt ?? null,
     projectsCheckedAt: content.projectsCheckedAt ?? null,
     projectsUpdatedAt: content.projectsUpdatedAt ?? null,
+    patents,
     articles: Array.isArray(content.articles)
       ? content.articles.slice(0, MAX_ARTICLES)
       : [],
@@ -281,6 +338,8 @@ export async function readContent(): Promise<ContentData> {
     updatedAt: parsed.updatedAt ?? null,
     projectsCheckedAt: parsed.projectsCheckedAt ?? null,
     projectsUpdatedAt: parsed.projectsUpdatedAt ?? null,
+    patents:
+      parsed.patents && typeof parsed.patents === "object" ? parsed.patents : null,
     articles: Array.isArray(parsed.articles) ? parsed.articles : [],
     videos: Array.isArray(parsed.videos) ? parsed.videos : [],
     photos: Array.isArray(parsed.photos) ? parsed.photos : [],

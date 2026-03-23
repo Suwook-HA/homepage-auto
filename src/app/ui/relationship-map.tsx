@@ -472,7 +472,15 @@ export function RelationshipMap({ articles, patentRecords, ...graphProps }: Prop
                     <p className="item-meta">
                       {patent.region} | {patent.status}
                     </p>
-                    <h5>{patent.title}</h5>
+                    <h5>
+                      {patent.sourceUrl ? (
+                        <Link href={patent.sourceUrl} target="_blank">
+                          {patent.title}
+                        </Link>
+                      ) : (
+                        patent.title
+                      )}
+                    </h5>
                     <p className="item-meta">{patent.patentNumber}</p>
                   </article>
                 ))}
