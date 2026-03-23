@@ -281,7 +281,7 @@ function hasToken(hay, token) {
 async function readJson(filePath, fallback) {
   try {
     const raw = await readFile(filePath, "utf8");
-    return JSON.parse(raw);
+    return JSON.parse(raw.replace(/^\uFEFF/, ""));
   } catch {
     return fallback;
   }
@@ -739,6 +739,23 @@ function normalizeVideoItems(items, profile) {
   return rankVideoCandidates(normalized);
 }
 
+function projectsFingerprint(items) {
+  return (Array.isArray(items) ? items : [])
+    .map((project) =>
+      [
+        toText(project?.id),
+        toText(project?.name),
+        toText(project?.url),
+        toText(project?.updatedAt),
+        Number(project?.stars ?? 0),
+        Number(project?.forks ?? 0),
+        toText(project?.language),
+        toText(project?.description),
+      ].join("|"),
+    )
+    .join("||");
+}
+
 function repoScore(repo) {
   const updatedMs = new Date(repo.updated_at).getTime();
   const ageDays = Number.isNaN(updatedMs) ? 365 : (Date.now() - updatedMs) / 86_400_000;
@@ -813,6 +830,8 @@ async function main() {
   const profile = await readJson(profilePath, {});
   const existing = await readJson(contentPath, {
     updatedAt: null,
+    projectsCheckedAt: null,
+    projectsUpdatedAt: null,
     articles: [],
     videos: [],
     photos: [],
@@ -828,8 +847,15 @@ async function main() {
     safeFetch("projects", () => fetchProjects(profile), fallbackProjects),
   ]);
 
+  const now = new Date().toISOString();
+  const hasProjectDiff = projectsFingerprint(fallbackProjects) !== projectsFingerprint(projects);
+
   const next = {
-    updatedAt: new Date().toISOString(),
+    updatedAt: now,
+    projectsCheckedAt: now,
+    projectsUpdatedAt: hasProjectDiff
+      ? now
+      : toText(existing.projectsUpdatedAt) || toText(existing.updatedAt) || now,
     articles,
     videos,
     photos: Array.isArray(existing.photos) ? existing.photos : [],

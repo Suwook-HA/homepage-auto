@@ -11,6 +11,8 @@ const MAX_VIDEOS = 8;
 
 const emptyContent: ContentData = {
   updatedAt: null,
+  projectsCheckedAt: null,
+  projectsUpdatedAt: null,
   articles: [],
   videos: [],
   photos: [],
@@ -24,6 +26,8 @@ const emptyRefreshLog: RefreshLogData = {
 function clampContent(content: ContentData): ContentData {
   return {
     updatedAt: content.updatedAt ?? null,
+    projectsCheckedAt: content.projectsCheckedAt ?? null,
+    projectsUpdatedAt: content.projectsUpdatedAt ?? null,
     articles: Array.isArray(content.articles)
       ? content.articles.slice(0, MAX_ARTICLES)
       : [],
@@ -236,7 +240,7 @@ async function readJsonFromRuntimeOrBundled<T>(
   const runtimePath = runtimeDataPath(fileName);
   try {
     const raw = await readFile(runtimePath, "utf8");
-    return JSON.parse(raw) as T;
+    return JSON.parse(raw.replace(/^\uFEFF/, "")) as T;
   } catch {
     // Try bundled defaults in repository data directory.
   }
@@ -247,7 +251,7 @@ async function readJsonFromRuntimeOrBundled<T>(
     if (bundledPath !== runtimePath) {
       await writeFile(runtimePath, raw, "utf8");
     }
-    return JSON.parse(raw) as T;
+    return JSON.parse(raw.replace(/^\uFEFF/, "")) as T;
   } catch {
     return fallback;
   }
@@ -275,6 +279,8 @@ export async function readContent(): Promise<ContentData> {
   );
   return clampContent({
     updatedAt: parsed.updatedAt ?? null,
+    projectsCheckedAt: parsed.projectsCheckedAt ?? null,
+    projectsUpdatedAt: parsed.projectsUpdatedAt ?? null,
     articles: Array.isArray(parsed.articles) ? parsed.articles : [],
     videos: Array.isArray(parsed.videos) ? parsed.videos : [],
     photos: Array.isArray(parsed.photos) ? parsed.photos : [],

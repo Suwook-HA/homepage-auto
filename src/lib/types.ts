@@ -133,6 +133,8 @@ export type PhotoItem = {
 
 export type ContentData = {
   updatedAt: string | null;
+  projectsCheckedAt?: string | null;
+  projectsUpdatedAt?: string | null;
   articles: ArticleItem[];
   videos: VideoItem[];
   photos: PhotoItem[];
