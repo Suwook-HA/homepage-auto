@@ -1,0 +1,51 @@
+{
+  "maxArticles": 8,
+  "minArticles": 6,
+  "articleWindowDays": 4,
+  "articleBackfillWindows": [7, 14, 30],
+  "articleItemsPerFeed": 20,
+  "articleFeedLimit": 12,
+  "articleDefaultQueries": [
+    "AI standardization",
+    "IT standardization",
+    "ISO IEC AI",
+    "trustworthy AI governance",
+    "AI data quality"
+  ],
+  "maxVideos": 8,
+  "videoMinRelevanceStrict": 6,
+  "videoMinRelevanceRelaxed": 2,
+  "maxPatentRecords": 12,
+  "patentYearBuckets": 5,
+  "curatedTechNewsChannels": [
+    { "name": "Bloomberg Technology", "channelId": "UCrM7B7SL_g1edFOnmj-SDKg" },
+    { "name": "TechCrunch",           "channelId": "UCCjyq_K1Xwfg8Lndy7lKMpA" },
+    { "name": "OpenAI",               "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A" },
+    { "name": "Google Cloud Tech",    "channelId": "UCTMRxtyHoE3LPcrl-kT4AQQ" },
+    { "name": "DeepLearningAI",       "channelId": "UCcIXc5mJsHVYTZR1maL5l9w" },
+    { "name": "Two Minute Papers",    "channelId": "UCbfYPyITQ-7l4upoX8nvctg" },
+    { "name": "IBM Technology",       "channelId": "UC8cc4pVKVHG7A9fbNsRNrLQ" },
+    { "name": "Google for Developers","channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw" }
+  ],
+  "videoDomainTokens": [
+    "ai", "artificial intelligence", "machine learning", "deep learning",
+    "llm", "generative ai", "chatgpt", "openai", "technology", "tech",
+    "it", "industry", "digital transformation", "cloud", "semiconductor",
+    "gpu", "chip", "data", "analytics", "cybersecurity", "software",
+    "developer", "android", "robotics", "automation", "startup",
+    "microsoft", "google", "meta", "nvidia", "tesla",
+    "standard", "standardization", "iso", "iec", "itu", "sc42"
+  ],
+  "videoNewsTokens": [
+    "news", "latest", "update", "trend", "brief", "report",
+    "analysis", "insight", "conference", "summit", "announcement",
+    "launch", "today", "weekly", "daily", "breakdown", "roundup", "highlights"
+  ],
+  "videoExcludeTokens": [
+    "trailer", "gameplay", "cinematic", "valorant", "fortnite",
+    "rtx showcase", "walkthrough", "reaction", "music video", "mv",
+    "esports", "movie", "drama", "anime", "tutorial", "course",
+    "for beginners", "working at", "career", "hiring", "recruiting",
+    "join us", "engineer like"
+  ]
+}

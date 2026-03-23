@@ -4,6 +4,10 @@ import { isAdminAuthenticatedRequest } from "@/lib/admin-auth";
 import { refreshContent } from "@/lib/refresh";
 import type { RefreshTrigger } from "@/lib/types";
 
+// Minimum interval between manual refreshes (cron calls are exempt)
+const MANUAL_REFRESH_COOLDOWN_MS = 10 * 60 * 1000; // 10 minutes
+let lastManualRefreshAt = 0;
+
 function getTrigger(request: Request): RefreshTrigger {
   const value = new URL(request.url).searchParams.get("trigger");
   const allowed: RefreshTrigger[] = [
@@ -51,6 +55,17 @@ export async function POST(request: Request) {
     }
   } else if (!adminAuthorized) {
     return unauthorized();
+  } else {
+    const now = Date.now();
+    const elapsed = now - lastManualRefreshAt;
+    if (elapsed < MANUAL_REFRESH_COOLDOWN_MS) {
+      const retryAfterSec = Math.ceil((MANUAL_REFRESH_COOLDOWN_MS - elapsed) / 1000);
+      return NextResponse.json(
+        { ok: false, error: "Too many requests", retryAfterSeconds: retryAfterSec },
+        { status: 429, headers: { "Retry-After": String(retryAfterSec) } },
+      );
+    }
+    lastManualRefreshAt = now;
   }
 
   const content = await refreshContent({

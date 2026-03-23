@@ -1,127 +1,31 @@
 import crypto from "node:crypto";
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { createRequire } from "node:module";
 
 import Parser from "rss-parser";
 
+const _require = createRequire(import.meta.url);
+const cfg = _require("../src/lib/content-config.json");
+
 const parser = new Parser();
-const MAX_ARTICLES = 8;
-const MIN_ARTICLES = 6;
-const ARTICLE_WINDOW_DAYS = 4;
-const ARTICLE_BACKFILL_WINDOWS = [7, 14, 30];
+const MAX_ARTICLES = cfg.maxArticles;
+const MIN_ARTICLES = cfg.minArticles;
+const ARTICLE_WINDOW_DAYS = cfg.articleWindowDays;
+const ARTICLE_BACKFILL_WINDOWS = cfg.articleBackfillWindows;
 const ARTICLE_FETCH_WINDOW_DAYS = ARTICLE_BACKFILL_WINDOWS[ARTICLE_BACKFILL_WINDOWS.length - 1];
-const ARTICLE_ITEMS_PER_FEED = 20;
-const ARTICLE_FEED_LIMIT = 12;
-const ARTICLE_DEFAULT_QUERIES = [
-  "AI standardization",
-  "IT standardization",
-  "ISO IEC AI",
-  "trustworthy AI governance",
-  "AI data quality",
-];
-const MAX_VIDEOS = 8;
-const VIDEO_MIN_RELEVANCE_STRICT = 6;
-const VIDEO_MIN_RELEVANCE_RELAXED = 2;
-const MAX_PATENT_RECORDS = 12;
-const PATENT_YEAR_BUCKETS = 5;
-
-const CURATED_TECH_NEWS_CHANNELS = [
-  { name: "Bloomberg Technology", channelId: "UCrM7B7SL_g1edFOnmj-SDKg" },
-  { name: "TechCrunch", channelId: "UCCjyq_K1Xwfg8Lndy7lKMpA" },
-  { name: "OpenAI", channelId: "UCXZCJLdBC09xxGZ6gcdrc6A" },
-  { name: "Google Cloud Tech", channelId: "UCTMRxtyHoE3LPcrl-kT4AQQ" },
-  { name: "DeepLearningAI", channelId: "UCcIXc5mJsHVYTZR1maL5l9w" },
-  { name: "Two Minute Papers", channelId: "UCbfYPyITQ-7l4upoX8nvctg" },
-  { name: "IBM Technology", channelId: "UC8cc4pVKVHG7A9fbNsRNrLQ" },
-  { name: "Google for Developers", channelId: "UC_x5XG1OV2P6uZZ5FSM9Ttw" },
-];
-
-const VIDEO_DOMAIN_TOKENS = [
-  "ai",
-  "artificial intelligence",
-  "machine learning",
-  "deep learning",
-  "llm",
-  "generative ai",
-  "chatgpt",
-  "openai",
-  "technology",
-  "tech",
-  "it",
-  "industry",
-  "digital transformation",
-  "cloud",
-  "semiconductor",
-  "gpu",
-  "chip",
-  "data",
-  "analytics",
-  "cybersecurity",
-  "software",
-  "developer",
-  "android",
-  "robotics",
-  "automation",
-  "startup",
-  "microsoft",
-  "google",
-  "meta",
-  "nvidia",
-  "tesla",
-  "standard",
-  "standardization",
-  "iso",
-  "iec",
-  "itu",
-  "sc42",
-];
-
-const VIDEO_NEWS_TOKENS = [
-  "news",
-  "latest",
-  "update",
-  "trend",
-  "brief",
-  "report",
-  "analysis",
-  "insight",
-  "conference",
-  "summit",
-  "announcement",
-  "launch",
-  "today",
-  "weekly",
-  "daily",
-  "breakdown",
-  "roundup",
-  "highlights",
-];
-
-const VIDEO_EXCLUDE_TOKENS = [
-  "trailer",
-  "gameplay",
-  "cinematic",
-  "valorant",
-  "fortnite",
-  "rtx showcase",
-  "walkthrough",
-  "reaction",
-  "music video",
-  "mv",
-  "esports",
-  "movie",
-  "drama",
-  "anime",
-  "tutorial",
-  "course",
-  "for beginners",
-  "working at",
-  "career",
-  "hiring",
-  "recruiting",
-  "join us",
-  "engineer like",
-];
+const ARTICLE_ITEMS_PER_FEED = cfg.articleItemsPerFeed;
+const ARTICLE_FEED_LIMIT = cfg.articleFeedLimit;
+const ARTICLE_DEFAULT_QUERIES = cfg.articleDefaultQueries;
+const MAX_VIDEOS = cfg.maxVideos;
+const VIDEO_MIN_RELEVANCE_STRICT = cfg.videoMinRelevanceStrict;
+const VIDEO_MIN_RELEVANCE_RELAXED = cfg.videoMinRelevanceRelaxed;
+const MAX_PATENT_RECORDS = cfg.maxPatentRecords;
+const PATENT_YEAR_BUCKETS = cfg.patentYearBuckets;
+const CURATED_TECH_NEWS_CHANNELS = cfg.curatedTechNewsChannels;
+const VIDEO_DOMAIN_TOKENS = cfg.videoDomainTokens;
+const VIDEO_NEWS_TOKENS = cfg.videoNewsTokens;
+const VIDEO_EXCLUDE_TOKENS = cfg.videoExcludeTokens;
 
 const dataDir = path.join(process.cwd(), "data");
 const profilePath = path.join(dataDir, "profile.json");
