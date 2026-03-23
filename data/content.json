@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-03-22T02:21:50.893Z",
+  "updatedAt": "2026-03-23T02:22:46.848Z",
   "articles": [
     {
-      "id": "23ded412c85b2916",
-      "title": "\"AI 내시경 경쟁, 판독 넘어 검사 품질 관리로 확장\" - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yc0FSckZ2YXZyY2RycTU1aC1vUGRQRk1QNHBlQVhfeDczNEpzUkJWX01BenBhaGRpRktSRlNPLUtwYmJSN000VUhsVVlVaVBab3RBLVVB?oc=5",
-      "source": "Google News: AI data quality",
-      "summary": "\"AI 내시경 경쟁, 판독 넘어 검사 품질 관리로 확장\" 데일리팜",
-      "publishedAt": "2026-03-21T03:50:16.000Z",
+      "id": "d89ba2d060d8eb88",
+      "title": "ISO 국제표준 논의의 장 펼친 오케스트로…”글로벌 AI 클라우드 협력 중심에” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tWjRERVczWU9nUjlBWm5xX1FPRXUzS04xbGh1Q3RsZ0liQ3JlTGRZN2x4UmdmM1JTeGMzOFdLdXNjMlZmWk9MUnJuTFFMZzA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "ISO 국제표준 논의의 장 펼친 오케스트로…”글로벌 AI 클라우드 협력 중심에” v.daum.net",
+      "publishedAt": "2026-03-23T00:39:24.000Z",
       "rank": 1
+    },
+    {
+      "id": "8ef0c7e7bbdbcf46",
+      "title": "[Column] AI Is Running Out of Data. Why Synthetic Data Is Rising and Where It Falls Short - kmjournal.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6emFtRGZzeHVCRVlfcURoU3cwaU5iS2IwTFN4WVFJc0k4aHR1MjdxMzktTHNkOGUxaXo4dW1mR29lVjR6bHR5QTVSNkpHNWk5TzNnc3RBNmpyUVlHMkJDUGpUalJTeGI5Vmc?oc=5",
+      "source": "Google News: AI data quality",
+      "summary": "[Column] AI Is Running Out of Data. Why Synthetic Data Is Rising and Where It Falls Short kmjournal.net",
+      "publishedAt": "2026-03-22T02:50:15.000Z",
+      "rank": 2
     },
     {
       "id": "62c96c9acd2acc25",
@@ -17,7 +26,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "레드브릭, 영국 BSI로부터 'ISO/IEC 27001' 인증 획득 테크월드뉴스",
       "publishedAt": "2026-03-20T04:39:27.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "73335ad8628e6733",
@@ -26,7 +35,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "Redbrick Acquires ISO/IEC 27001 Certification… Strengthening Enterprise AI Security Framework 벤처스퀘어",
       "publishedAt": "2026-03-20T04:04:27.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "889509fa5a12a22b",
@@ -35,7 +44,25 @@
       "source": "Google News: AI standardization",
       "summary": "“수술 AI, 명의의 경험 보완 넘어 의료 표준화 이끈다” 의학신문",
       "publishedAt": "2026-03-21T02:03:47.000Z",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "65a505ba5af75ba8",
+      "title": "티디지 \"ISO/IEC 27001 등 3종획득, 클라우드보안·경쟁력 강화\" - catchnews.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNXzA1d2l3ZW85aS14RFJjZEZBd3U1Y1hyRDlYSHVPay1LU01pbWY0YjNic2g4aGRHYUZjTXFicVp1SmE5TjJ4dFdjX3ZTSXo5YnR1bHBWWnpETlpwT3dWTXZlc0V2OGJDWktj?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "티디지 \"ISO/IEC 27001 등 3종획득, 클라우드보안·경쟁력 강화\" catchnews.kr",
+      "publishedAt": "2026-03-20T02:13:14.000Z",
+      "rank": 6
+    },
+    {
+      "id": "f25398994b07e6b7",
+      "title": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zcmNQRng5R3k0M2ZRWVB6YzUxTW55alZsV1FqSWE0amRhbmFheHV2Tm1UNWw4bHo2cFF4M0pidkdWUHhmcXc3SA?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "포천시-한국국토정보공사, 지적측량성과 표준화 맞손… 시민 재산권 보호 앞장 브레이크뉴스",
+      "publishedAt": "2026-03-20T03:12:00.000Z",
+      "rank": 7
     },
     {
       "id": "ce49d12867824f43",
@@ -44,33 +71,6 @@
       "source": "Google News: ISO IEC AI",
       "summary": "레드브릭, 기업용 AI 정보보호 관리체계 국제표준 인증 획득 네이트",
       "publishedAt": "2026-03-20T00:36:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "dcc59295059ed845",
-      "title": "Universal Robots and Scale AI Launch Imitation Learning System to Accelerate AI Model Training, Bridging the 'Lab-to-Factory' Gap - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bdmp3NDdFWGh5WVJZeEhrLXJ1NzZnS05iWTFXNElJeUNNUjJid1hWTXJ3WEtiTGg5QlJ2cWpXNm0yQ2tqeW1XSFlPa3pYVnpvcEd6UGZfbTNSMk55bTJManJ3TUtDeFN40gFsQVVfeXFMTkVxSV9ZeTktRTNYbXZodm5PbHdBQ1pXa0ZkWld2Rm1wMUgwNktseEI0LWRRT1dWeEVtbmdETWp5bHduRFpOUnB0MWhDVmdNamFpdmlBYUktWjk0QXJ5UEhFd1I5d3gwYWVuWGcx?oc=5",
-      "source": "Google News: AI data quality",
-      "summary": "Universal Robots and Scale AI Launch Imitation Learning System to Accelerate AI Model Training, Bridging the 'Lab-to-Factory' Gap KIPOST",
-      "publishedAt": "2026-03-19T05:00:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "03d1107fa765ac4f",
-      "title": "SK Telecom Secures ITU-T Approval for AI Data Center Standard, Boosting Global AI Infrastructure - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wRzMxLVV3NFlYTUlJNTJCRm1PRFh1amxuV0FNdnRwMTdobmItYnNoTGtkX1hhRGVZOGZpeTVDLTF1WWp0TjlVVFkxZjFUNFowRlhkNFRrY2puQ0p5OGNxc1RmVGNBYU5WdFlfTjQzQ1M?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SK Telecom Secures ITU-T Approval for AI Data Center Standard, Boosting Global AI Infrastructure Korea IT Times",
-      "publishedAt": "2026-03-18T03:00:46.000Z",
-      "rank": 7
-    },
-    {
-      "id": "d1b582dbda7b13cb",
-      "title": "SKT, 에릭슨과 5G·6G AI 네트워크 협력... AI-RAN·표준화 공동 추진 - 오늘경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DLTlOY0Z4aDduR2JMMUg4OUFNTURuZVMzcUJ5dHFpMGN5N21EZ3h6RVZ1V2RXX2NWRnVVM0I1LXlQYXNkSG9teFFHUFI0U09SMnB0akVMQ2NqVWJjdGFhQ0ppUndCWng0Rl9NR1RzWmRLbDQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SKT, 에릭슨과 5G·6G AI 네트워크 협력... AI-RAN·표준화 공동 추진 오늘경제",
-      "publishedAt": "2026-03-19T01:26:00.000Z",
       "rank": 8
     }
   ],
