@@ -15,7 +15,7 @@
   "articleKeywords": [
     "IT standardization",
     "AI standardization",
-    "ISO IEC AI standard",
+    "ISO/IEC AI standard",
     "ITU-T standardization",
     "data quality standard"
   ],
@@ -43,8 +43,8 @@
     "Knowledge Graph"
   ],
   "standardizationActivities": [
-    "ISO/IEC JTC 1/SC 42 AI WG",
-    "ITU-T AI Standardization Track",
+    "ISO/IEC JTC 1/SC 42 WG2",
+    "ITU-T SG13 Q17 Rapporteur",
     "National AI Standard Strategy",
     "Cross-industry Data Quality Guidelines"
   ],
