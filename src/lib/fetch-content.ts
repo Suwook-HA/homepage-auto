@@ -304,10 +304,14 @@ function buildPatentNameVariants(profile: ProfileData): string[] {
 }
 
 function buildPatentQuery(profile: ProfileData): string {
-  const variants = buildPatentNameVariants(profile);
+  // Google Patents returns 503 when the query URL contains non-ASCII characters.
+  // Use only ASCII-compatible name variants.
+  const variants = buildPatentNameVariants(profile).filter((name) =>
+    /^[\x20-\x7E]+$/.test(name),
+  );
   const clauses = variants.map((name) => `inventor:"${name}"`);
   if (clauses.length === 0) {
-    return "inventor:\"Ha Suwook\"";
+    return 'inventor:"Ha Suwook"';
   }
   return clauses.join(" OR ");
 }
