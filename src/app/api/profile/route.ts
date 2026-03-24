@@ -60,10 +60,10 @@ export async function POST(request: Request) {
     const profile = profileSchema.parse(payload);
     await writeProfile(profile);
 
-    // Best-effort: commit profile back to GitHub so data survives cold starts
-    // (requires GITHUB_TOKEN + GITHUB_REPO env vars on Vercel)
+    // Commit profile to GitHub so data survives cold starts across all instances.
+    // Must be awaited — readProfile() uses GitHub as the authoritative source.
     const serialized = JSON.stringify(profile, null, 2);
-    commitProfileToGitHub(serialized).catch(() => {});
+    await commitProfileToGitHub(serialized);
 
     return NextResponse.json({
       ok: true,
