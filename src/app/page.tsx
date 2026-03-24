@@ -1,5 +1,4 @@
-﻿import Image from "next/image";
-import Link from "next/link";
+﻿import Link from "next/link";
 
 import { ContactForm } from "@/app/ui/contact-form";
 import { IntelligenceTabs } from "@/app/ui/intelligence-tabs";
@@ -412,6 +411,59 @@ export default async function HomePage() {
         ))}
       </section>
 
+      {(profile.career.length > 0 || profile.skillCategories.length > 0) && (
+        <section className="card about-section">
+          <div className="section-header">
+            <h2>
+              <LangText ko="경력 및 역량" en="Background & Skills" />
+            </h2>
+          </div>
+          <div className="about-grid">
+            {profile.career.length > 0 && (
+              <div className="about-col">
+                <h3 className="about-col-title">
+                  <LangText ko="경력 및 학력" en="Career & Education" inline />
+                </h3>
+                <ol className="timeline" aria-label="Career timeline">
+                  {profile.career.map((item, index) => (
+                    <li key={`${item.year}-${index}`} className={`timeline-item tl-${item.type}`}>
+                      <span className="tl-year">{item.year}</span>
+                      <div className="tl-body">
+                        <strong className="tl-title">{item.title}</strong>
+                        <span className="tl-org">{item.org}</span>
+                        {item.description && (
+                          <p className="tl-desc">{item.description}</p>
+                        )}
+                      </div>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
+
+            {profile.skillCategories.length > 0 && (
+              <div className="about-col">
+                <h3 className="about-col-title">
+                  <LangText ko="기술 스택" en="Skills & Tools" inline />
+                </h3>
+                <div className="skill-categories">
+                  {profile.skillCategories.map((cat) => (
+                    <div key={cat.name} className="skill-category">
+                      <p className="skill-cat-name">{cat.name}</p>
+                      <div className="skill-badge-row">
+                        {cat.skills.map((skill) => (
+                          <span key={skill} className="skill-badge">{skill}</span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
       <section className="card research-dashboard">
         <div className="section-header">
           <h2>
@@ -524,54 +576,6 @@ export default async function HomePage() {
           </article>
         </div>
       </section>
-
-      {(profile.career.length > 0 || profile.skillCategories.length > 0) && (
-        <section className="card about-section">
-          <div className="about-grid">
-            {profile.career.length > 0 && (
-              <div className="about-col">
-                <h2>
-                  <LangText ko="경력 및 학력" en="Career & Education" />
-                </h2>
-                <ol className="timeline" aria-label="Career timeline">
-                  {profile.career.map((item, index) => (
-                    <li key={`${item.year}-${index}`} className={`timeline-item tl-${item.type}`}>
-                      <span className="tl-year">{item.year}</span>
-                      <div className="tl-body">
-                        <strong className="tl-title">{item.title}</strong>
-                        <span className="tl-org">{item.org}</span>
-                        {item.description && (
-                          <p className="tl-desc">{item.description}</p>
-                        )}
-                      </div>
-                    </li>
-                  ))}
-                </ol>
-              </div>
-            )}
-
-            {profile.skillCategories.length > 0 && (
-              <div className="about-col">
-                <h2>
-                  <LangText ko="기술 스택" en="Skills & Tools" />
-                </h2>
-                <div className="skill-categories">
-                  {profile.skillCategories.map((cat) => (
-                    <div key={cat.name} className="skill-category">
-                      <p className="skill-cat-name">{cat.name}</p>
-                      <div className="skill-badge-row">
-                        {cat.skills.map((skill) => (
-                          <span key={skill} className="skill-badge">{skill}</span>
-                        ))}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
-        </section>
-      )}
 
       <section className="card patent-dashboard">
         <div className="section-header">
@@ -767,12 +771,12 @@ export default async function HomePage() {
           ) : (
             content.photos.map((photo) => (
               <figure key={photo.id} className="photo-item">
-                <Image
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
                   src={photo.url}
                   alt={photo.description}
-                  width={500}
-                  height={375}
                   className="photo"
+                  loading="lazy"
                 />
                 <figcaption>{photo.description}</figcaption>
               </figure>

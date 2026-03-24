@@ -298,18 +298,65 @@ async function readJsonFromRuntimeOrBundled<T>(
   }
 }
 
+// In-memory cache so all requests within the same serverless instance share one copy
+let profileMemCache: { data: ProfileData; fetchedAt: number } | null = null;
+const PROFILE_CACHE_MS = 60_000; // 60 seconds
+
+async function fetchProfileFromGitHub(): Promise<ProfileData | null> {
+  const token = (process.env.GITHUB_TOKEN ?? "").trim();
+  const repo = (process.env.GITHUB_REPO ?? "").trim();
+  if (!token || !repo) return null;
+  try {
+    const url = `https://api.github.com/repos/${repo}/contents/data/profile.json`;
+    const res = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github+json",
+        "User-Agent": "homepage-auto",
+      },
+      cache: "no-store",
+    });
+    if (!res.ok) return null;
+    const data = (await res.json()) as { content?: string };
+    if (!data.content) return null;
+    const json = Buffer.from(data.content.replace(/\n/g, ""), "base64").toString("utf8");
+    return JSON.parse(json) as ProfileData;
+  } catch {
+    return null;
+  }
+}
+
 export async function readProfile(): Promise<ProfileData> {
+  // Serve from memory cache if still fresh
+  if (profileMemCache && Date.now() - profileMemCache.fetchedAt < PROFILE_CACHE_MS) {
+    return profileMemCache.data;
+  }
+
   await ensureDataDir();
-  const parsed = await readJsonFromRuntimeOrBundled<ProfileData>(
-    "profile.json",
-    defaultProfile,
-  );
-  return normalizeProfile(parsed);
+
+  // Try GitHub as authoritative source (survives cold starts across all instances)
+  const githubProfile = await fetchProfileFromGitHub();
+  if (githubProfile) {
+    const normalized = normalizeProfile(githubProfile);
+    profileMemCache = { data: normalized, fetchedAt: Date.now() };
+    // Seed local filesystem so file-based fallback stays current
+    writeFile(profilePath, JSON.stringify(normalized, null, 2), "utf8").catch(() => {});
+    return normalized;
+  }
+
+  // Fall back to local filesystem / bundled defaults
+  const parsed = await readJsonFromRuntimeOrBundled<ProfileData>("profile.json", defaultProfile);
+  const normalized = normalizeProfile(parsed);
+  profileMemCache = { data: normalized, fetchedAt: Date.now() };
+  return normalized;
 }
 
 export async function writeProfile(profile: ProfileData): Promise<void> {
   await ensureDataDir();
-  await writeFile(profilePath, JSON.stringify(normalizeProfile(profile), null, 2), "utf8");
+  const normalized = normalizeProfile(profile);
+  await writeFile(profilePath, JSON.stringify(normalized, null, 2), "utf8");
+  // Update cache immediately so this instance sees the new data right away
+  profileMemCache = { data: normalized, fetchedAt: Date.now() };
 }
 
 export async function readContent(): Promise<ContentData> {

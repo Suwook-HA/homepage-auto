@@ -2336,9 +2336,9 @@ html:not([data-lang]) .lang-switch.inline .lang-ko::after {
 
 .about-grid {
   display: grid;
-  gap: 28px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  margin-top: 4px;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  margin-top: 16px;
 }
 
 .about-col {
@@ -2347,8 +2347,14 @@ html:not([data-lang]) .lang-switch.inline .lang-ko::after {
   gap: 14px;
 }
 
-.about-col h2 {
+.about-col-title {
   margin: 0;
+  font-size: 0.82rem;
+  font-family: var(--mono);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #0a4ea3;
 }
 
 /* ── Career Timeline ─────────────────────────────────────────────── */
@@ -2365,21 +2371,27 @@ html:not([data-lang]) .lang-switch.inline .lang-ko::after {
   content: "";
   position: absolute;
   left: 10px;
-  top: 6px;
-  bottom: 6px;
+  top: 18px;
+  bottom: 18px;
   width: 2px;
   background: linear-gradient(180deg, #1b6dff, #14c9b2);
   border-radius: 2px;
-  opacity: 0.35;
+  opacity: 0.3;
 }
 
 .timeline-item {
   display: grid;
-  grid-template-columns: 130px 1fr;
-  gap: 10px 14px;
+  grid-template-columns: 80px 1fr;
+  gap: 10px 12px;
   align-items: start;
-  padding: 10px 0 10px 26px;
+  padding: 10px 12px 10px 28px;
   position: relative;
+  border-radius: 12px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.84), rgba(244, 249, 255, 0.8)),
+    rgba(255, 255, 255, 0.76);
+  border: 1px solid rgba(120, 154, 193, 0.2);
+  margin-bottom: 8px;
 }
 
 .timeline-item::before {
@@ -2773,6 +2785,17 @@ html:not([data-lang]) .lang-switch.inline .lang-ko::after {
 }
 
 /* Dark mode – about section */
+[data-theme="dark"] .about-col-title {
+  color: #4870a8;
+}
+
+[data-theme="dark"] .timeline-item {
+  background:
+    linear-gradient(180deg, rgba(20, 35, 62, 0.88), rgba(14, 26, 46, 0.84)),
+    rgba(16, 28, 50, 0.8);
+  border-color: rgba(55, 95, 155, 0.24);
+}
+
 [data-theme="dark"] .about-section {
   background:
     radial-gradient(circle at 100% 0%, rgba(27, 109, 255, 0.06), transparent 30%),
