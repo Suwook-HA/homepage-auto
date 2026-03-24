@@ -149,5 +149,53 @@
     "locale": "ko-KR",
     "maxPerInterest": 5
   },
-  "refreshIntervalMinutes": 180
+  "refreshIntervalMinutes": 180,
+  "career": [
+    {
+      "year": "2010–현재",
+      "title": "선임연구원 (Principal Researcher)",
+      "org": "ETRI (한국전자통신연구원)",
+      "type": "work",
+      "description": "AI 데이터 품질, 신뢰가능 AI, 국제표준화 연구 총괄"
+    },
+    {
+      "year": "2019–현재",
+      "title": "ISO/IEC JTC 1/SC 42 AI WG 전문가",
+      "org": "ISO/IEC",
+      "type": "work",
+      "description": "국제 AI 표준 개발 및 기여"
+    },
+    {
+      "year": "2018–현재",
+      "title": "ITU-T AI/ML 표준화 기고",
+      "org": "ITU-T",
+      "type": "work",
+      "description": "AI 네트워크 및 데이터 품질 표준 기여"
+    },
+    {
+      "year": "2008",
+      "title": "박사 (컴퓨터공학)",
+      "org": "KAIST",
+      "type": "education",
+      "description": ""
+    }
+  ],
+  "skillCategories": [
+    {
+      "name": "연구 분야",
+      "skills": ["AI 데이터 품질", "신뢰가능 AI", "표준화 전략", "AI 거버넌스", "데이터 정책"]
+    },
+    {
+      "name": "표준 기구",
+      "skills": ["ISO/IEC JTC 1/SC 42", "ITU-T", "NIST AI RMF", "국가 AI 표준"]
+    },
+    {
+      "name": "기술 스택",
+      "skills": ["Python", "R", "TensorFlow", "PyTorch", "Pandas", "TypeScript"]
+    },
+    {
+      "name": "도구 · 인프라",
+      "skills": ["Git", "Docker", "MLOps", "Knowledge Graph", "Federated Learning"]
+    }
+  ]
 }

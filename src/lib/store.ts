@@ -200,12 +200,16 @@ const defaultProfile: ProfileData = {
     maxPerInterest: 3,
   },
   refreshIntervalMinutes: 180,
+  career: [],
+  skillCategories: [],
 };
 
 function normalizeProfile(profile: ProfileData): ProfileData {
   return {
     ...profile,
     resumeUrl: profile.resumeUrl ?? "",
+    career: Array.isArray(profile.career) ? profile.career : [],
+    skillCategories: Array.isArray(profile.skillCategories) ? profile.skillCategories : [],
     localName: profile.localName ?? defaultProfile.localName,
     introKo: profile.introKo ?? defaultProfile.introKo,
     introEn: profile.introEn ?? defaultProfile.introEn,

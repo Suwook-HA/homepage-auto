@@ -62,6 +62,19 @@ export const patentRecordSchema = z.object({
   filedAt: z.string().min(1),
 });
 
+export const careerItemSchema = z.object({
+  year: z.string().min(1),
+  title: z.string().min(1),
+  org: z.string().min(1),
+  type: z.enum(["work", "education", "certification"]),
+  description: z.string().optional(),
+});
+
+export const skillCategorySchema = z.object({
+  name: z.string().min(1),
+  skills: z.array(z.string().min(1)),
+});
+
 export const profileSchema = z.object({
   name: z.string().min(1),
   localName: z.string().min(1),
@@ -96,6 +109,8 @@ export const profileSchema = z.object({
   }),
   autoInterestNews: autoInterestNewsSchema,
   refreshIntervalMinutes: z.number().int().min(15).max(1440),
+  career: z.array(careerItemSchema).optional().default([]),
+  skillCategories: z.array(skillCategorySchema).optional().default([]),
 });
 
 export type ProfileInput = z.infer<typeof profileSchema>;

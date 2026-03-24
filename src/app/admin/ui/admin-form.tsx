@@ -49,6 +49,8 @@ type FormState = {
   autoInterestNewsLocale: string;
   autoInterestNewsMaxPerInterest: string;
   refreshIntervalMinutes: string;
+  career: string;
+  skillCategories: string;
 };
 
 function toLines(values: string[]): string {
@@ -200,6 +202,12 @@ function fromProfile(profile: ProfileData): FormState {
     autoInterestNewsLocale: profile.autoInterestNews.locale,
     autoInterestNewsMaxPerInterest: String(profile.autoInterestNews.maxPerInterest),
     refreshIntervalMinutes: String(profile.refreshIntervalMinutes),
+    career: (profile.career ?? [])
+      .map((c) => `${c.year}|${c.title}|${c.org}|${c.type}|${c.description ?? ""}`)
+      .join("\n"),
+    skillCategories: (profile.skillCategories ?? [])
+      .map((cat) => `${cat.name}|${cat.skills.join(",")}`)
+      .join("\n"),
   };
 }
 
@@ -303,6 +311,23 @@ export function AdminForm({ initialProfile }: Props) {
         maxPerInterest: Number(form.autoInterestNewsMaxPerInterest),
       },
       refreshIntervalMinutes: Number(form.refreshIntervalMinutes),
+      career: parseLines(form.career)
+        .map((line) => line.split("|"))
+        .map(([year, title, org, type, description]) => ({
+          year: (year ?? "").trim(),
+          title: (title ?? "").trim(),
+          org: (org ?? "").trim(),
+          type: ((type ?? "work").trim() as "work" | "education" | "certification"),
+          description: (description ?? "").trim() || undefined,
+        }))
+        .filter((c) => c.year && c.title && c.org),
+      skillCategories: parseLines(form.skillCategories)
+        .map((line) => line.split("|"))
+        .map(([name, skills]) => ({
+          name: (name ?? "").trim(),
+          skills: (skills ?? "").split(",").map((s) => s.trim()).filter(Boolean),
+        }))
+        .filter((cat) => cat.name && cat.skills.length > 0),
     };
 
     try {
@@ -672,6 +697,28 @@ export function AdminForm({ initialProfile }: Props) {
           max={1440}
           value={form.refreshIntervalMinutes}
           onChange={(e) => setField("refreshIntervalMinutes", e.target.value)}
+        />
+      </label>
+
+      <label>
+        Career & Education (one per line: Year|Title|Org|type|Description)
+        <br />
+        <small style={{ fontWeight: 400, color: "var(--muted)" }}>
+          type: work / education / certification
+        </small>
+        <textarea
+          value={form.career}
+          onChange={(e) => setField("career", e.target.value)}
+          placeholder={"2010–Present|Principal Researcher|ETRI|work|AI standardization"}
+        />
+      </label>
+
+      <label>
+        Skill Categories (one per line: Category Name|skill1,skill2,skill3)
+        <textarea
+          value={form.skillCategories}
+          onChange={(e) => setField("skillCategories", e.target.value)}
+          placeholder={"Languages|Python,R,TypeScript\nTools|Git,Docker,PyTorch"}
         />
       </label>
 

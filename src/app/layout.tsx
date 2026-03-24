@@ -7,8 +7,15 @@ import "./globals.css";
 startLocalScheduler();
 
 export const metadata: Metadata = {
-  title: "Auto Homepage",
-  description: "Personal homepage with automatic content refresh",
+  title: "하수욱 (Ha Suwook) | AI 표준화 연구자",
+  description:
+    "ETRI 선임연구원. AI 데이터 품질, 신뢰가능 AI, ISO/IEC·ITU-T 국제표준화 전문가.",
+  openGraph: {
+    type: "profile",
+    locale: "ko_KR",
+    alternateLocale: "en_US",
+    siteName: "Ha Suwook — AI Standardization Researcher",
+  },
 };
 
 export default function RootLayout({

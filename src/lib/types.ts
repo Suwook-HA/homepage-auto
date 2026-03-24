@@ -80,6 +80,19 @@ export type PatentSearchData = {
   records: PatentRecord[];
 };
 
+export type CareerItem = {
+  year: string;
+  title: string;
+  org: string;
+  type: "work" | "education" | "certification";
+  description?: string;
+};
+
+export type SkillCategory = {
+  name: string;
+  skills: string[];
+};
+
 export type ContactMessage = {
   id: string;
   name: string;
@@ -120,6 +133,8 @@ export type ProfileData = {
   googlePhotos: GooglePhotosConfig;
   autoInterestNews: AutoInterestNewsConfig;
   refreshIntervalMinutes: number;
+  career: CareerItem[];
+  skillCategories: SkillCategory[];
 };
 
 export type ArticleItem = {

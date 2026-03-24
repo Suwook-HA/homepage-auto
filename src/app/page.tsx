@@ -6,6 +6,7 @@ import { IntelligenceTabs } from "@/app/ui/intelligence-tabs";
 import { LangText } from "@/app/ui/lang-text";
 import { LanguageToggle } from "@/app/ui/language-toggle";
 import { MaskedEmail } from "@/app/ui/masked-email";
+import { ProjectsSection } from "@/app/ui/projects-section";
 import { RefreshButton } from "@/app/ui/refresh-button";
 import { RelationshipMap } from "@/app/ui/relationship-map";
 import { ThemeToggle } from "@/app/ui/theme-toggle";
@@ -524,6 +525,54 @@ export default async function HomePage() {
         </div>
       </section>
 
+      {(profile.career.length > 0 || profile.skillCategories.length > 0) && (
+        <section className="card about-section">
+          <div className="about-grid">
+            {profile.career.length > 0 && (
+              <div className="about-col">
+                <h2>
+                  <LangText ko="경력 및 학력" en="Career & Education" />
+                </h2>
+                <ol className="timeline" aria-label="Career timeline">
+                  {profile.career.map((item, index) => (
+                    <li key={`${item.year}-${index}`} className={`timeline-item tl-${item.type}`}>
+                      <span className="tl-year">{item.year}</span>
+                      <div className="tl-body">
+                        <strong className="tl-title">{item.title}</strong>
+                        <span className="tl-org">{item.org}</span>
+                        {item.description && (
+                          <p className="tl-desc">{item.description}</p>
+                        )}
+                      </div>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
+
+            {profile.skillCategories.length > 0 && (
+              <div className="about-col">
+                <h2>
+                  <LangText ko="기술 스택" en="Skills & Tools" />
+                </h2>
+                <div className="skill-categories">
+                  {profile.skillCategories.map((cat) => (
+                    <div key={cat.name} className="skill-category">
+                      <p className="skill-cat-name">{cat.name}</p>
+                      <div className="skill-badge-row">
+                        {cat.skills.map((skill) => (
+                          <span key={skill} className="skill-badge">{skill}</span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
       <section className="card patent-dashboard">
         <div className="section-header">
           <h2>
@@ -696,27 +745,11 @@ export default async function HomePage() {
         <h2>
           <LangText ko={`GitHub 프로젝트 (${profile.githubUsername})`} en={`GitHub Projects (${profile.githubUsername})`} />
         </h2>
-        <div className="grid">
-          {content.projects.length === 0 ? (
-            <p className="empty">No GitHub projects fetched yet.</p>
-          ) : (
-            content.projects.map((project) => (
-              <article key={project.id} className="item">
-                <p className="item-meta">
-                  {project.language} | stars {formatNumber(project.stars)} | forks{" "}
-                  {formatNumber(project.forks)}
-                </p>
-                <h3>
-                  <Link href={project.url} target="_blank">
-                    {project.name}
-                  </Link>
-                </h3>
-                <p>{project.description}</p>
-                <p className="item-meta">updated {formatDate(project.updatedAt)}</p>
-              </article>
-            ))
-          )}
-        </div>
+        {content.projects.length === 0 ? (
+          <p className="empty">No GitHub projects fetched yet.</p>
+        ) : (
+          <ProjectsSection projects={content.projects} username={profile.githubUsername} />
+        )}
       </section>
 
       <section className="card">
@@ -781,6 +814,31 @@ export default async function HomePage() {
           ))}
         </ul>
       </section>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Person",
+            name: profile.name,
+            alternateName: profile.localName,
+            jobTitle: profile.headline,
+            description: profile.researchSummary,
+            worksFor: {
+              "@type": "Organization",
+              name: organization,
+              url: profile.website,
+            },
+            url: profile.website,
+            email: profile.email,
+            sameAs: [
+              `https://github.com/${profile.githubUsername}`,
+              profile.googleScholarUrl,
+              ...profile.links.map((l) => l.url),
+            ].filter(Boolean),
+          }),
+        }}
+      />
     </main>
   );
 }
