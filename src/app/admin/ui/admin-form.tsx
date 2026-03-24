@@ -343,8 +343,11 @@ export function AdminForm({ initialProfile }: Props) {
       }
 
       if (!saveRes.ok) {
-        throw new Error("save_failed");
+        const errJson = await saveRes.json().catch(() => ({})) as { error?: string };
+        throw new Error(errJson.error ?? "save_failed");
       }
+
+      const saveJson = await saveRes.json() as { githubSynced?: boolean };
 
       const refreshRes = await fetch("/api/refresh?trigger=profile-save", {
         method: "POST",
@@ -357,9 +360,14 @@ export function AdminForm({ initialProfile }: Props) {
         throw new Error("refresh_failed");
       }
 
-      setStatus("Saved and refreshed successfully.");
-    } catch {
-      setStatus("Save or refresh failed. Please verify your input.");
+      if (saveJson.githubSynced) {
+        setStatus("Saved and synced to GitHub. Changes will be visible site-wide.");
+      } else {
+        setStatus("Saved locally only — GitHub sync skipped. Check GITHUB_TOKEN and GITHUB_REPO env vars on Vercel. Changes may be lost on cold start.");
+      }
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Unknown error";
+      setStatus(`Save failed: ${msg}`);
     } finally {
       setIsLoading(false);
     }

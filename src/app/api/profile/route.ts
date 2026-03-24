@@ -77,9 +77,10 @@ export async function POST(request: Request) {
 
   await writeProfile(profile);
 
+  let githubSynced = false;
   try {
     const serialized = JSON.stringify(profile, null, 2);
-    await commitProfileToGitHub(serialized);
+    githubSynced = await commitProfileToGitHub(serialized);
   } catch (err) {
     const msg = err instanceof Error ? err.message : String(err);
     return NextResponse.json(
@@ -88,5 +89,5 @@ export async function POST(request: Request) {
     );
   }
 
-  return NextResponse.json({ ok: true, profile });
+  return NextResponse.json({ ok: true, profile, githubSynced });
 }
