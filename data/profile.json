@@ -152,30 +152,36 @@
   "refreshIntervalMinutes": 180,
   "career": [
     {
-      "year": "2010–현재",
-      "title": "선임연구원 (Principal Researcher)",
-      "org": "ETRI (한국전자통신연구원)",
+      "year": "2002–2012",
+      "title": "선임연구원 (Senior Researcher)",
+      "org": "NIA (한국지능정보사회진흥원)",
       "type": "work",
-      "description": "AI 데이터 품질, 신뢰가능 AI, 국제표준화 연구 총괄"
-    },
-    {
-      "year": "2019–현재",
-      "title": "ISO/IEC JTC 1/SC 42 AI WG 전문가",
-      "org": "ISO/IEC",
-      "type": "work",
-      "description": "국제 AI 표준 개발 및 기여"
+      "description": "공간정보, GIS 표준화"
     },
     {
       "year": "2018–현재",
-      "title": "ITU-T AI/ML 표준화 기고",
-      "org": "ITU-T",
+      "title": "ISO/IEC JTC 1/SC 42  WG 2 전문가",
+      "org": "ISO/IEC",
       "type": "work",
-      "description": "AI 네트워크 및 데이터 품질 표준 기여"
+      "description": "국제 AI 표준 개발 및 기여, 프로젝트 리더"
     },
     {
-      "year": "2008",
-      "title": "박사 (공학)",
-      "org": "XXX",
+      "year": "2015–현재",
+      "title": "ITU-T 클라우드 컴퓨팅, 빅데이터 표준화",
+      "org": "ITU-T",
+      "type": "work",
+      "description": "에디터, Q17/13 라포처"
+    },
+    {
+      "year": "2012",
+      "title": "박사 (공간정보공학)",
+      "org": "충북대",
+      "type": "education"
+    },
+    {
+      "year": "2002",
+      "title": "석사 (공간정보공학}",
+      "org": "부산대",
       "type": "education"
     }
   ],
