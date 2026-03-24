@@ -1,9 +1,65 @@
 {
-  "updatedAt": "2026-03-24T00:47:30.842Z",
-  "projectsCheckedAt": "2026-03-24T00:47:30.842Z",
-  "projectsUpdatedAt": "2026-03-24T00:47:30.842Z",
-  "patents": null,
+  "updatedAt": "2026-03-24T02:07:10.491Z",
+  "projectsCheckedAt": "2026-03-24T02:07:10.491Z",
+  "projectsUpdatedAt": "2026-03-24T02:07:10.491Z",
+  "patents": {
+    "source": {
+      "provider": "Google Patents",
+      "query": "inventor:\"Ha Suwook\" OR inventor:\"Suwook Ha\"",
+      "queryUrl": "https://patents.google.com/?q=inventor%3A%22Ha%20Suwook%22%20OR%20inventor%3A%22Suwook%20Ha%22"
+    },
+    "stats": {
+      "domestic": {
+        "applications": 0,
+        "registrations": 0
+      },
+      "international": {
+        "applications": 1,
+        "registrations": 1
+      },
+      "yearly": [
+        {
+          "year": "2018",
+          "applications": 1,
+          "registrations": 1
+        }
+      ]
+    },
+    "records": [
+      {
+        "title": "Method and system for optimizing cloud storage services",
+        "region": "US",
+        "status": "Registered",
+        "patentNumber": "US10778768B2",
+        "filedAt": "2018-04-02",
+        "sourceUrl": "https://patents.google.com/patent/US10778768B2/en",
+        "sourceName": "Google Patents",
+        "inventors": "Suwook HA",
+        "assignee": "Electronics And Telecommunications Research Institute"
+      }
+    ],
+    "checkedAt": "2026-03-24T02:07:10.491Z",
+    "updatedAt": "2026-03-24T02:07:10.491Z"
+  },
   "articles": [
+    {
+      "id": "85b06d08f8d3898f",
+      "title": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIN2UwdEFDNDljdExqSnBxMGc2U21BNU5yRHdlYmRiQXNiLXQzQ1BIWmswRzJjejFqM2ZpT3pNTEFqVVJCdnJMenlFWS13V2swRXJ2bEt3WkFXanQ1ZWFZ?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 헬로티",
+      "publishedAt": "2026-03-24T01:50:09.000Z",
+      "rank": 1
+    },
+    {
+      "id": "6d40f59db932578d",
+      "title": "제6장. 실전! 피지컬 AI 안전경영 로드맵(IV) - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RSjNKWkt6M1VpRGw0cDNOSGFndTl3QUFHLVRxV1RlQVMxdXlTV2FTYXdqRUNIanhvRVF1b1oxS0xoRGxHTExSWS0tMTg?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "제6장. 실전! 피지컬 AI 안전경영 로드맵(IV) 브런치",
+      "publishedAt": "2026-03-23T22:56:37.000Z",
+      "rank": 2
+    },
     {
       "id": "c2d41f9d0cbc56cb",
       "title": "오픈 시스템 프로토콜(OSP), ISO 국제표준화 절차 착수 - 데일리시큐",
@@ -11,7 +67,7 @@
       "source": "Google News: IT standardization",
       "summary": "오픈 시스템 프로토콜(OSP), ISO 국제표준화 절차 착수 데일리시큐",
       "publishedAt": "2026-03-23T06:34:16.000Z",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "b137b47543db0ef7",
@@ -20,7 +76,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 테크월드뉴스",
       "publishedAt": "2026-03-23T05:10:00.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "4239a123f8b0d138",
@@ -29,7 +85,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "오케스트로, 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 아이티데일리",
       "publishedAt": "2026-03-23T09:16:52.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "d708cb8efd7c8142",
@@ -38,7 +94,7 @@
       "source": "Google News: International Standardization",
       "summary": "Sungrow Hydrogen Powers Global Green Transition with New Project Shipments Across Three Continents KIPOST",
       "publishedAt": "2026-03-23T08:55:00.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "da7016ca28f6fc9e",
@@ -47,7 +103,7 @@
       "source": "Google News: International Standardization",
       "summary": "JNP Medi Selected for Poster Session at CDISC Global Conference 벤처스퀘어",
       "publishedAt": "2026-03-23T06:35:38.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "1db12197eca4f435",
@@ -56,24 +112,6 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "오케스트로, 국제 클라우드 표준 논의 주도…AI 협력 확대 지디넷코리아",
       "publishedAt": "2026-03-23T06:31:15.000Z",
-      "rank": 6
-    },
-    {
-      "id": "d18dc94386c683c0",
-      "title": "Beyond Algorithms: Where Does Autonomous Driving Competitiveness Diverge? - autoelectronics.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aN2lZeWZnODVqTDdJWFQ1TzJMdVVKRkVFM0hlWjhOdnFROXVQeWtURTdETlJwS2RhOXpTLVFFNmx0cmNUOGg3eWZRdklFWjhtSXB4d0s1eENCSWxLRUUyeklwSUJQdHM5ZXJ3bk9mR25GbGNv?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "Beyond Algorithms: Where Does Autonomous Driving Competitiveness Diverge? autoelectronics.co.kr",
-      "publishedAt": "2026-03-23T06:13:42.000Z",
-      "rank": 7
-    },
-    {
-      "id": "16aac5dd4d5498aa",
-      "title": "2026년 데이터 관리 트렌드 – 확산보다 품질과 통제 | 인사이트리포트 | 삼성SDS - Samsung SDS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1odHFmcXRYamlMTThjUi1HaENyaUFLcnVyRjhKQ1FteHZFLWkwdUJtdVdPTzBaejFQcWZ4ZmxxbnkybDZ1Xy1EV2lsUDg3MGhkWngwbllCVENSOG1qY0c4eXhoRVNFcm5BUlNERUl1WE5uY3J5dFVLV2R1OA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "2026년 데이터 관리 트렌드 – 확산보다 품질과 통제 | 인사이트리포트 | 삼성SDS Samsung SDS",
-      "publishedAt": "2026-03-23T06:10:33.000Z",
       "rank": 8
     }
   ],
@@ -180,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-24T00:41:24.000Z"
+      "updatedAt": "2026-03-24T02:05:16.000Z"
     },
     {
       "id": "8fc328e75ace7570",
