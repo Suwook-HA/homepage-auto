@@ -187,9 +187,9 @@ export default async function HomePage() {
   }));
   const heroSignals = [
     {
-      label: "Citations",
-      value: formatNumber(profile.researchMetrics.citations),
-      note: "scholar footprint",
+      label: "h-index",
+      value: formatNumber(profile.researchMetrics.hIndex),
+      note: `i10: ${formatNumber(profile.researchMetrics.i10Index)}`,
       kind: "mesh" as const,
     },
     {
@@ -242,14 +242,6 @@ export default async function HomePage() {
       linkLabel: "GitHub",
       kind: "chip" as const,
     },
-    {
-      label: "Patent Portfolio",
-      value: formatNumber(patentAssetTotal),
-      note: `KR ${formatNumber(patentStats.domestic.applications + patentStats.domestic.registrations)} | Global ${formatNumber(patentStats.international.applications + patentStats.international.registrations)}`,
-      href: null,
-      linkLabel: null,
-      kind: "shield" as const,
-    },
   ];
 
   return (
@@ -264,10 +256,9 @@ export default async function HomePage() {
           </div>
           <h1>{profile.name}</h1>
           <p className="name-local">
-            {profile.name} | {profile.localName} | {organization}
+            {profile.localName} · {organization}
           </p>
           <p className="headline">{profile.headline}</p>
-          <p>{profile.bio}</p>
           <div className="profile-narrative">
             <p className="profile-paragraph ko">{profile.introKo}</p>
             <p className="profile-paragraph en">{profile.introEn}</p>
@@ -353,7 +344,7 @@ export default async function HomePage() {
                 </div>
                 <div className="hero-portrait-copy">
                   <p>{profile.name}</p>
-                  <span>AI standards, data trust, and global coordination</span>
+                  <span>{profile.researchSummary}</span>
                 </div>
               </div>
               <div className="hero-core">
@@ -443,10 +434,6 @@ export default async function HomePage() {
           <article className="metric-card">
             <p className="metric-label">Publications</p>
             <p className="metric-value">{formatNumber(profile.researchMetrics.publications)}</p>
-          </article>
-          <article className="metric-card">
-            <p className="metric-label">Standardization Tracks</p>
-            <p className="metric-value">{formatNumber(profile.standardizationActivities.length)}</p>
           </article>
         </div>
 
