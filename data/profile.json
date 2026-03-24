@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Ha Suwook",
   "localName": "하수욱",
   "headline": "Principal Researcher at ETRI",
@@ -174,28 +174,51 @@
     },
     {
       "year": "2008",
-      "title": "박사 (컴퓨터공학)",
-      "org": "KAIST",
-      "type": "education",
-      "description": ""
+      "title": "박사 (공학)",
+      "org": "XXX",
+      "type": "education"
     }
   ],
   "skillCategories": [
     {
       "name": "연구 분야",
-      "skills": ["AI 데이터 품질", "신뢰가능 AI", "표준화 전략", "AI 거버넌스", "데이터 정책"]
+      "skills": [
+        "AI 데이터 품질",
+        "신뢰가능 AI",
+        "표준화 전략",
+        "AI 거버넌스",
+        "데이터 정책"
+      ]
     },
     {
       "name": "표준 기구",
-      "skills": ["ISO/IEC JTC 1/SC 42", "ITU-T", "NIST AI RMF", "국가 AI 표준"]
+      "skills": [
+        "ISO/IEC JTC 1/SC 42",
+        "ITU-T",
+        "NIST AI RMF",
+        "국가 AI 표준"
+      ]
     },
     {
       "name": "기술 스택",
-      "skills": ["Python", "R", "TensorFlow", "PyTorch", "Pandas", "TypeScript"]
+      "skills": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "PyTorch",
+        "Pandas",
+        "TypeScript"
+      ]
     },
     {
       "name": "도구 · 인프라",
-      "skills": ["Git", "Docker", "MLOps", "Knowledge Graph", "Federated Learning"]
+      "skills": [
+        "Git",
+        "Docker",
+        "MLOps",
+        "Knowledge Graph",
+        "Federated Learning"
+      ]
     }
   ]
 }
