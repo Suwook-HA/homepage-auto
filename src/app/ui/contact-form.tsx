@@ -44,28 +44,28 @@ export function ContactForm() {
 
   return (
     <form className="contact-form" onSubmit={handleSubmit} noValidate>
-      {/* Honeypot – hidden from real users */}
-      <input type="text" name="_hp" className="contact-hp" tabIndex={-1} autoComplete="off" />
+      {/* Honeypot — hidden from real users */}
+      <input type="text" name="_hp" className="form-hp" tabIndex={-1} autoComplete="off" />
 
-      <div className="contact-grid">
-        <label className="contact-label">
-          Name *
+      <div className="form-row">
+        <label className="form-field">
+          <span className="form-label">Name *</span>
           <input
             name="name"
             type="text"
-            className="contact-input"
+            className="form-input"
             required
             minLength={2}
             maxLength={100}
             placeholder="Your name"
           />
         </label>
-        <label className="contact-label">
-          Email *
+        <label className="form-field">
+          <span className="form-label">Email *</span>
           <input
             name="email"
             type="email"
-            className="contact-input"
+            className="form-input"
             required
             maxLength={200}
             placeholder="your@email.com"
@@ -73,22 +73,22 @@ export function ContactForm() {
         </label>
       </div>
 
-      <label className="contact-label">
-        Subject
+      <label className="form-field">
+        <span className="form-label">Subject</span>
         <input
           name="subject"
           type="text"
-          className="contact-input"
+          className="form-input"
           maxLength={200}
           placeholder="What is this about?"
         />
       </label>
 
-      <label className="contact-label">
-        Message *
+      <label className="form-field">
+        <span className="form-label">Message *</span>
         <textarea
           name="message"
-          className="contact-textarea"
+          className="form-textarea"
           required
           minLength={10}
           maxLength={2000}
@@ -98,9 +98,7 @@ export function ContactForm() {
       </label>
 
       {status === "success" && (
-        <p className="contact-success">
-          Message sent! I will get back to you soon.
-        </p>
+        <p className="form-success">Message sent! I will get back to you soon.</p>
       )}
       {status === "error" && <p className="error">{errorMsg}</p>}
 

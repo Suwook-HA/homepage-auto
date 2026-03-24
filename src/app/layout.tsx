@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 
+import { Footer } from "@/app/ui/footer";
+import { Nav } from "@/app/ui/nav";
 import { startLocalScheduler } from "@/lib/scheduler";
+import { readProfile } from "@/lib/store";
 
 import "./globals.css";
 
@@ -18,11 +21,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: Readonly<{ children: React.ReactNode }>) {
+  const profile = await readProfile();
+
   return (
     <html lang="ko">
       <head>
@@ -33,7 +36,11 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body>{children}</body>
+      <body>
+        <Nav name={profile.name} localName={profile.localName} />
+        {children}
+        <Footer profile={profile} />
+      </body>
     </html>
   );
 }
