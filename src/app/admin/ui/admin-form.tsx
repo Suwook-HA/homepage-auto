@@ -349,21 +349,27 @@ export function AdminForm({ initialProfile }: Props) {
 
       const saveJson = await saveRes.json() as { githubSynced?: boolean };
 
-      const refreshRes = await fetch("/api/refresh?trigger=profile-save", {
-        method: "POST",
-      });
-      if (refreshRes.status === 401) {
-        window.location.href = "/admin/login";
-        return;
-      }
-      if (!refreshRes.ok) {
-        throw new Error("refresh_failed");
+      let refreshNote = "";
+      try {
+        const refreshRes = await fetch("/api/refresh?trigger=profile-save", {
+          method: "POST",
+        });
+        if (refreshRes.status === 401) {
+          window.location.href = "/admin/login";
+          return;
+        }
+        if (!refreshRes.ok) {
+          const rj = await refreshRes.json().catch(() => ({})) as { error?: string };
+          refreshNote = ` (Content refresh skipped: ${rj.error ?? refreshRes.status})`;
+        }
+      } catch {
+        refreshNote = " (Content refresh failed — profile was saved successfully)";
       }
 
       if (saveJson.githubSynced) {
-        setStatus("Saved and synced to GitHub. Changes will be visible site-wide.");
+        setStatus(`Saved and synced to GitHub.${refreshNote}`);
       } else {
-        setStatus("Saved locally only — GitHub sync skipped. Check GITHUB_TOKEN and GITHUB_REPO env vars on Vercel. Changes may be lost on cold start.");
+        setStatus(`Saved locally only — GitHub sync skipped. Check GITHUB_TOKEN and GITHUB_REPO env vars on Vercel.${refreshNote}`);
       }
     } catch (err) {
       const msg = err instanceof Error ? err.message : "Unknown error";
