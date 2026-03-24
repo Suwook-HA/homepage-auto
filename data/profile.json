@@ -152,13 +152,6 @@
   "refreshIntervalMinutes": 180,
   "career": [
     {
-      "year": "2002–2012",
-      "title": "선임연구원 (Senior Researcher)",
-      "org": "NIA (한국지능정보사회진흥원)",
-      "type": "work",
-      "description": "공간정보, GIS 표준화"
-    },
-    {
       "year": "2018–현재",
       "title": "ISO/IEC JTC 1/SC 42  WG 2 전문가",
       "org": "ISO/IEC",
@@ -177,6 +170,13 @@
       "title": "박사 (공간정보공학)",
       "org": "충북대",
       "type": "education"
+    },
+    {
+      "year": "2002–2012",
+      "title": "선임연구원 (Senior Researcher)",
+      "org": "NIA (한국지능정보사회진흥원)",
+      "type": "work",
+      "description": "공간정보, GIS 표준화"
     },
     {
       "year": "2002",
