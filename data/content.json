@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-23T08:25:53.354Z",
-  "projectsCheckedAt": "2026-03-23T08:25:53.354Z",
-  "projectsUpdatedAt": "2026-03-23T08:21:13.268Z",
+  "updatedAt": "2026-03-24T00:47:30.842Z",
+  "projectsCheckedAt": "2026-03-24T00:47:30.842Z",
+  "projectsUpdatedAt": "2026-03-24T00:47:30.842Z",
   "patents": null,
   "articles": [
     {
@@ -14,13 +14,40 @@
       "rank": 1
     },
     {
-      "id": "aa8f7a7b353e235a",
-      "title": "오케스트로, ISO 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITEk5Q21odmNNcXgzRVhUVmNxOTIzNWFtOWZLLXZDMG1MY18wZENIVTlfSjRjNHVIZGpQVUFHMFN5OEdUaDRXUDNLWWFPMFFpdmow?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "오케스트로, ISO 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 네이트",
-      "publishedAt": "2026-03-23T05:33:00.000Z",
+      "id": "b137b47543db0ef7",
+      "title": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 - 테크월드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jaWtLQkdMVUpKZ1N5SllUQW1aampLaWpjcE5wSWZReV8zT2ZLUkhIQ0UyVXU0MldIUVQ4OTNCZlo5dWlMUHd6Zm9GOGxPbG1yX1RwYkY3R1Nxc0RyTWZua3R2YlhCZFE1?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 테크월드뉴스",
+      "publishedAt": "2026-03-23T05:10:00.000Z",
       "rank": 2
+    },
+    {
+      "id": "4239a123f8b0d138",
+      "title": "오케스트로, 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9POWJYOHZ5Qk5Da1IzQUtYLXlWcnpVSG5lSlZESWp0cHd4N2hna0FkVXk4TDNueGlERzRuTWQ3RjdrbFpuOXVzOFhWeVp3ZkdMaUx2WU1kdldCbUtLWUM4X3ZQOVN4VTg?oc=5",
+      "source": "Google News: ISO IEC AI standard",
+      "summary": "오케스트로, 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 아이티데일리",
+      "publishedAt": "2026-03-23T09:16:52.000Z",
+      "rank": 3
+    },
+    {
+      "id": "d708cb8efd7c8142",
+      "title": "Sungrow Hydrogen Powers Global Green Transition with New Project Shipments Across Three Continents - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNTJKT0hYODJ0d09laE8yRjd2MUNyVkh3UTZoREtKemtZQ0lNQ0NwYWFIV2pUdGVCUzB1TU02RzNuNWVZeUFuTkVJZi13VzVtSFE1em1xXzFPRndSeGZiYlZQN1ptWjZn0gFsQVVfeXFMUHZNeWFxUkpydkJZNTg0RWNBNDFJLTU4aGpEbzhrV0dKVTcwQ2pEYXlMUV9hR05VM3JhWTJnLXIzNHQtY2JYSVloVUtlSzBFWVZ0U1Mzd1lscXA4dWEyMjd6Qkpod0FSeEIxMnBa?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Sungrow Hydrogen Powers Global Green Transition with New Project Shipments Across Three Continents KIPOST",
+      "publishedAt": "2026-03-23T08:55:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "da7016ca28f6fc9e",
+      "title": "JNP Medi Selected for Poster Session at CDISC Global Conference - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWndKYUtGVXBmQlZhSVpIU2x5bE1zN3JlMzlOM3ZaUmlGZGVUOE80WUREd2hkUDNZdEVrVnhWVmY2V003bGJxSEs1SEViNEhDc2Ew?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "JNP Medi Selected for Poster Session at CDISC Global Conference 벤처스퀘어",
+      "publishedAt": "2026-03-23T06:35:38.000Z",
+      "rank": 5
     },
     {
       "id": "1db12197eca4f435",
@@ -29,7 +56,7 @@
       "source": "Google News: ISO IEC AI standard",
       "summary": "오케스트로, 국제 클라우드 표준 논의 주도…AI 협력 확대 지디넷코리아",
       "publishedAt": "2026-03-23T06:31:15.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "d18dc94386c683c0",
@@ -38,7 +65,7 @@
       "source": "Google News: data quality standard",
       "summary": "Beyond Algorithms: Where Does Autonomous Driving Competitiveness Diverge? autoelectronics.co.kr",
       "publishedAt": "2026-03-23T06:13:42.000Z",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "16aac5dd4d5498aa",
@@ -47,107 +74,80 @@
       "source": "Google News: AI Data Quality",
       "summary": "2026년 데이터 관리 트렌드 – 확산보다 품질과 통제 | 인사이트리포트 | 삼성SDS Samsung SDS",
       "publishedAt": "2026-03-23T06:10:33.000Z",
-      "rank": 5
-    },
-    {
-      "id": "a3c87de5eaa623bf",
-      "title": "Exporting K-Aviation: KAU Takes Its Expertise to the World - 시민행정신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kc29MeGN3OGFsZ283S2dTNDZ4dU1raXk5UGx6LVNZU2RLMHp2cHFGQXl1RF9KYjAtZkNwS2E3QnpYQ2tKdDlIMnQzWUdzbUNpOXAwcGJ3V1JBeF9PQmJDQ0lfSVJ6Ui1uNFNVcVhR?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Exporting K-Aviation: KAU Takes Its Expertise to the World 시민행정신문",
-      "publishedAt": "2026-03-23T02:41:12.000Z",
-      "rank": 6
-    },
-    {
-      "id": "7f5bd8a6ecfa7f20",
-      "title": "ISO국제심사원 자격증, 메타버스로 취득한 후기 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtXzRtZmRHM0k5NkJNZEVoX0dyYy1GUGEwYkZRaFlMdlZ6dHl5dkpQaUtfN09tR0NLQjYxbHNRMUJ6NmluNHRJdHpVaFJ2QQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "ISO국제심사원 자격증, 메타버스로 취득한 후기 브런치",
-      "publishedAt": "2026-03-22T05:45:52.000Z",
-      "rank": 7
-    },
-    {
-      "id": "3cd7759d38b0d8c9",
-      "title": "[Column] AI Is Running Out of Data. Why Synthetic Data Is Rising and Where It Falls Short - kmjournal.net",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6emFtRGZzeHVCRVlfcURoU3cwaU5iS2IwTFN4WVFJc0k4aHR1MjdxMzktTHNkOGUxaXo4dW1mR29lVjR6bHR5QTVSNkpHNWk5TzNnc3RBNmpyUVlHMkJDUGpUalJTeGI5Vmc?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "[Column] AI Is Running Out of Data. Why Synthetic Data Is Rising and Where It Falls Short kmjournal.net",
-      "publishedAt": "2026-03-22T02:50:15.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "f534c8c3336ead7c",
-      "title": "Consult like an IBMer",
-      "url": "https://www.youtube.com/watch?v=VkZXBhhQyeU",
-      "channel": "IBM Technology",
-      "thumbnail": "https://i.ytimg.com/vi/VkZXBhhQyeU/hqdefault.jpg",
-      "publishedAt": "2026-03-21T11:00:35.000Z",
+      "id": "207ef350d950e4a1",
+      "title": "TensorFlow Developer Professional Certificate",
+      "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg",
+      "publishedAt": "2026-03-23T22:01:50.000Z",
       "viewCount": 0
     },
     {
-      "id": "693e48c3cdc2a058",
-      "title": "How to build a full-stack app with Supabase and Stripe on Google AI Studio",
-      "url": "https://www.youtube.com/watch?v=Z87vZFYC7hc",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/Z87vZFYC7hc/hqdefault.jpg",
-      "publishedAt": "2026-03-20T21:32:48.000Z",
+      "id": "100afbc0e1c796d9",
+      "title": "Natural Language Processing Specialization by DeepLearning.AI",
+      "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg",
+      "publishedAt": "2026-03-23T21:59:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "9fec60a3943e61d5",
-      "title": "Super Micro Co-Founder Charged With Smuggling Nvidia Chips to China | Bloomberg Tech 3/20/2026",
-      "url": "https://www.youtube.com/watch?v=4ntF6fu3jFs",
+      "id": "7e502e31ec9e5a29",
+      "title": "AI for Everyone by Andrew Ng",
+      "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg",
+      "publishedAt": "2026-03-23T21:55:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "83bfc4dca85a9317",
+      "title": "Musk’s Mega Plan for Chip Manufacturing | Bloomberg Tech 3/23/2026",
+      "url": "https://www.youtube.com/watch?v=GW2gao4ushE",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/4ntF6fu3jFs/hqdefault.jpg",
-      "publishedAt": "2026-03-20T20:34:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GW2gao4ushE/hqdefault.jpg",
+      "publishedAt": "2026-03-23T20:41:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "b68d42430fc1f498",
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=Srp2fIMWnVY",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/Srp2fIMWnVY/hqdefault.jpg",
-      "publishedAt": "2026-03-20T18:46:28.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a97f6c4f93f538f3",
-      "title": "SpaceX Knocks Boeing From Dominant Role in NASA Moon Mission",
-      "url": "https://www.youtube.com/watch?v=kbbb9qP_c88",
+      "id": "08a42cb735e3ffde",
+      "title": "Musk Says Tesla, SpaceX Chip Project to Kick Off in Texas",
+      "url": "https://www.youtube.com/watch?v=xsAtJocU-M8",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/kbbb9qP_c88/hqdefault.jpg",
-      "publishedAt": "2026-03-20T17:57:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xsAtJocU-M8/hqdefault.jpg",
+      "publishedAt": "2026-03-23T20:19:50.000Z",
       "viewCount": 0
     },
     {
-      "id": "59935f51c142e5c2",
-      "title": "Firefly CEO: Upside Opportunity With Golden Dome",
-      "url": "https://www.youtube.com/watch?v=zd9Km0jsPZM",
+      "id": "da4064a7c005eb19",
+      "title": "Apple’s Heir Apparent Steps Into the Spotlight",
+      "url": "https://www.youtube.com/watch?v=THOi7dNcX2E",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/zd9Km0jsPZM/hqdefault.jpg",
-      "publishedAt": "2026-03-20T17:30:44.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/THOi7dNcX2E/hqdefault.jpg",
+      "publishedAt": "2026-03-23T19:39:42.000Z",
       "viewCount": 0
     },
     {
-      "id": "144f5ebdf6c3d3d1",
-      "title": "Bubble Tendencies Forming in AI: Accel Partner",
-      "url": "https://www.youtube.com/watch?v=Gqi-w-Biubs",
+      "id": "40b206f99a835d55",
+      "title": "Lead Edge Capital Closes New $3.5 Billion Fund",
+      "url": "https://www.youtube.com/watch?v=4HRQdSz7Z2c",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Gqi-w-Biubs/hqdefault.jpg",
-      "publishedAt": "2026-03-20T17:24:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/4HRQdSz7Z2c/hqdefault.jpg",
+      "publishedAt": "2026-03-23T19:31:10.000Z",
       "viewCount": 0
     },
     {
-      "id": "f1595599f3ec1254",
-      "title": "Future Today Strategy CEO on Super Micro Co-Founder Charges",
-      "url": "https://www.youtube.com/watch?v=FE8hZEd38l4",
+      "id": "a304252c037a6cc9",
+      "title": "Nscale Reaches $14.6 Billion Valuation, Adds Sandberg to Board",
+      "url": "https://www.youtube.com/watch?v=NjNq76QcQm4",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/FE8hZEd38l4/hqdefault.jpg",
-      "publishedAt": "2026-03-20T17:19:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NjNq76QcQm4/hqdefault.jpg",
+      "publishedAt": "2026-03-23T18:29:17.000Z",
       "viewCount": 0
     }
   ],
@@ -180,7 +180,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-23T08:07:55.000Z"
+      "updatedAt": "2026-03-24T00:41:24.000Z"
     },
     {
       "id": "8fc328e75ace7570",
