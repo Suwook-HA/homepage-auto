@@ -2176,3 +2176,414 @@ html:not([data-lang]) .lang-switch.inline .lang-ko::after {
     scroll-behavior: auto !important;
   }
 }
+
+/* ─── TOPLINE CONTROLS ───────────────────────────────────────────── */
+.topline-controls {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ─── THEME TOGGLE ────────────────────────────────────────────────── */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 34px;
+  padding: 6px 10px;
+  border: 1px solid rgba(110, 150, 199, 0.26);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #54718f;
+  cursor: pointer;
+}
+
+.theme-toggle svg {
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ─── MASKED EMAIL ─────────────────────────────────────────────────── */
+.masked-email {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(120, 154, 193, 0.24);
+  color: #38506c;
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.masked-email:hover {
+  border-color: rgba(52, 118, 190, 0.4);
+  color: #0b4fa6;
+}
+
+/* ─── CONTACT FORM ──────────────────────────────────────────────── */
+.contact-section {
+  background:
+    radial-gradient(circle at 0% 100%, rgba(20, 201, 178, 0.08), transparent 28%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.84), rgba(246, 250, 255, 0.8));
+}
+
+.contact-form {
+  margin-top: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.contact-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.contact-label {
+  display: grid;
+  gap: 6px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.contact-input,
+.contact-textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--ink);
+  font: inherit;
+  transition: border-color 150ms ease;
+}
+
+.contact-input:focus,
+.contact-textarea:focus {
+  outline: none;
+  border-color: rgba(52, 118, 190, 0.6);
+}
+
+.contact-textarea {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.contact-hp {
+  display: none;
+}
+
+.contact-success {
+  margin: 0;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: rgba(20, 201, 178, 0.1);
+  border: 1px solid rgba(20, 201, 178, 0.28);
+  color: #0a6b62;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+/* ─── DARK MODE ─────────────────────────────────────────────────── */
+[data-theme="dark"] {
+  --bg: #090f1c;
+  --bg-deep: #050a12;
+  --surface: #0e1825;
+  --surface-alt: #121e30;
+  --ink: #d8e8f5;
+  --muted: #5a7898;
+  --primary: #5599ff;
+  --accent: #00c4b8;
+  --border: rgba(70, 120, 180, 0.22);
+  --shadow: 0 18px 40px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="dark"] body {
+  background-color: #090f1c;
+  background-image:
+    radial-gradient(circle at 12% 12%, rgba(27, 109, 255, 0.09), transparent 24%),
+    radial-gradient(circle at 88% 8%, rgba(20, 201, 178, 0.09), transparent 24%),
+    radial-gradient(circle at 50% 0%, rgba(143, 124, 255, 0.06), transparent 30%),
+    linear-gradient(180deg, rgba(9, 15, 28, 0.97), rgba(5, 10, 18, 0.99)),
+    linear-gradient(rgba(22, 74, 133, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(22, 74, 133, 0.06) 1px, transparent 1px);
+}
+
+[data-theme="dark"] body::before {
+  background: radial-gradient(circle, rgba(22, 201, 178, 0.09), transparent 68%);
+}
+
+[data-theme="dark"] body::after {
+  background: radial-gradient(circle, rgba(27, 109, 255, 0.07), transparent 66%);
+}
+
+[data-theme="dark"] .card {
+  background:
+    linear-gradient(180deg, rgba(20, 35, 60, 0.9), rgba(14, 24, 42, 0.85)),
+    rgba(15, 26, 46, 0.82);
+  border-color: rgba(55, 95, 155, 0.28);
+  box-shadow: 0 28px 65px rgba(0, 0, 0, 0.45);
+}
+
+[data-theme="dark"] .card::before {
+  background: linear-gradient(90deg, transparent, rgba(27, 109, 255, 0.16), transparent);
+}
+
+[data-theme="dark"] .hero {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(27, 109, 255, 0.1), transparent 34%),
+    radial-gradient(circle at 100% 0%, rgba(20, 201, 178, 0.1), transparent 32%),
+    linear-gradient(135deg, rgba(15, 28, 52, 0.92), rgba(10, 20, 38, 0.9));
+}
+
+[data-theme="dark"] .name-local {
+  color: #7aabe0;
+}
+
+[data-theme="dark"] .eyebrow {
+  color: #5a80c0;
+}
+
+[data-theme="dark"] .headline {
+  color: #9ac0de;
+}
+
+[data-theme="dark"] .profile-paragraph {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.2);
+  color: #90b8d8;
+}
+
+[data-theme="dark"] .profile-paragraph.ko {
+  color: #a0c0e0;
+}
+
+[data-theme="dark"] .hero .meta span,
+[data-theme="dark"] .hero .meta a {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.22);
+  color: #7898b8;
+}
+
+[data-theme="dark"] .hero .meta a {
+  color: #6aa8f5;
+}
+
+[data-theme="dark"] .hero-interest-pill {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.22);
+  color: #a8c6e2;
+}
+
+[data-theme="dark"] .lang-toggle {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.22);
+}
+
+[data-theme="dark"] .lang-toggle-button {
+  color: #5a7898;
+}
+
+[data-theme="dark"] .lang-toggle-button.active {
+  background: linear-gradient(125deg, rgba(27, 109, 255, 0.28), rgba(20, 201, 178, 0.3));
+  color: #b8d8f5;
+  box-shadow: inset 0 0 0 1px rgba(27, 109, 255, 0.22);
+}
+
+[data-theme="dark"] .theme-toggle {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.22);
+  color: #a8c6e2;
+}
+
+[data-theme="dark"] .masked-email {
+  background: rgba(18, 30, 52, 0.72);
+  border-color: rgba(65, 105, 165, 0.22);
+  color: #7898b8;
+}
+
+[data-theme="dark"] .masked-email:hover {
+  border-color: rgba(80, 130, 200, 0.4);
+  color: #6aa8f5;
+}
+
+[data-theme="dark"] .metric-card,
+[data-theme="dark"] .viz-card,
+[data-theme="dark"] .item,
+[data-theme="dark"] .highlight-item,
+[data-theme="dark"] .video-item,
+[data-theme="dark"] .photo-item,
+[data-theme="dark"] .patent-summary-card,
+[data-theme="dark"] .patent-year-card,
+[data-theme="dark"] .patent-record-item {
+  background:
+    linear-gradient(180deg, rgba(20, 35, 62, 0.88), rgba(14, 26, 46, 0.84)),
+    rgba(16, 28, 50, 0.8);
+  border-color: rgba(55, 95, 155, 0.26);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.28);
+}
+
+[data-theme="dark"] .highlight-item:hover,
+[data-theme="dark"] .item:hover,
+[data-theme="dark"] .video-item:hover,
+[data-theme="dark"] .photo-item:hover,
+[data-theme="dark"] .patent-record-item:hover {
+  border-color: rgba(80, 130, 200, 0.4);
+  box-shadow: 0 20px 36px rgba(0, 0, 0, 0.38);
+}
+
+[data-theme="dark"] .metric-label,
+[data-theme="dark"] .viz-card h3 {
+  color: #4870a8;
+}
+
+[data-theme="dark"] .metric-value,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3 {
+  color: var(--ink);
+}
+
+[data-theme="dark"] .domain-track,
+[data-theme="dark"] .patent-track {
+  background: rgba(55, 95, 155, 0.28);
+}
+
+[data-theme="dark"] .domain-head,
+[data-theme="dark"] .signal-value,
+[data-theme="dark"] .patent-metric-row,
+[data-theme="dark"] .patent-year-values,
+[data-theme="dark"] .item p {
+  color: #607898;
+}
+
+[data-theme="dark"] .signal-label {
+  color: #4d6880;
+}
+
+[data-theme="dark"] .tech-pill {
+  background: rgba(18, 35, 68, 0.75);
+  color: #70b8f8;
+  border-color: rgba(45, 85, 145, 0.38);
+}
+
+[data-theme="dark"] .standard-item {
+  background: rgba(18, 30, 55, 0.72);
+  border-color: rgba(55, 95, 155, 0.26);
+  color: #607898;
+}
+
+[data-theme="dark"] .standard-index {
+  color: #5090d0;
+}
+
+[data-theme="dark"] .patent-record-title,
+[data-theme="dark"] .impact {
+  color: #5080b0;
+}
+
+[data-theme="dark"] .source-link {
+  background: rgba(18, 30, 55, 0.72);
+  border-color: rgba(55, 95, 155, 0.4);
+  color: #6aa8f5;
+}
+
+[data-theme="dark"] .tag {
+  background: rgba(18, 35, 68, 0.75);
+  color: #70b8f8;
+  border-color: rgba(45, 85, 145, 0.3);
+}
+
+[data-theme="dark"] .button.secondary {
+  background: rgba(18, 35, 68, 0.75);
+  color: #70b8f8;
+  border-color: rgba(45, 85, 145, 0.3);
+}
+
+[data-theme="dark"] .mini-button {
+  background: rgba(18, 30, 55, 0.72);
+  border-color: rgba(55, 95, 155, 0.28);
+  color: #6aa8f5;
+}
+
+[data-theme="dark"] .cred-card {
+  background:
+    linear-gradient(180deg, rgba(20, 35, 62, 0.88), rgba(14, 26, 46, 0.84)),
+    rgba(16, 28, 50, 0.8);
+  border-color: rgba(55, 95, 155, 0.26);
+}
+
+[data-theme="dark"] .cred-icon {
+  background: linear-gradient(135deg, #1a4dbb, #0ca8a0);
+}
+
+[data-theme="dark"] .cred-label,
+[data-theme="dark"] .cred-note,
+[data-theme="dark"] .cred-link.passive {
+  color: #5a7898;
+}
+
+[data-theme="dark"] .cred-link:not(.passive) {
+  color: #6aa8f5;
+  border-color: rgba(55, 95, 155, 0.4);
+  background: rgba(18, 35, 68, 0.75);
+}
+
+[data-theme="dark"] .research-dashboard {
+  background:
+    radial-gradient(circle at 100% 0%, rgba(27, 109, 255, 0.08), transparent 30%),
+    radial-gradient(circle at 12% 100%, rgba(20, 201, 178, 0.08), transparent 30%),
+    linear-gradient(180deg, rgba(14, 24, 42, 0.92), rgba(10, 18, 35, 0.88));
+}
+
+[data-theme="dark"] .patent-dashboard {
+  background:
+    radial-gradient(circle at 100% 0%, rgba(143, 124, 255, 0.1), transparent 32%),
+    radial-gradient(circle at 0% 100%, rgba(20, 201, 178, 0.08), transparent 30%),
+    linear-gradient(180deg, rgba(14, 24, 42, 0.92), rgba(10, 18, 35, 0.88));
+}
+
+[data-theme="dark"] .spotlight,
+[data-theme="dark"] .contact-section {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(27, 109, 255, 0.08), transparent 28%),
+    linear-gradient(180deg, rgba(14, 24, 42, 0.92), rgba(10, 18, 35, 0.88));
+}
+
+[data-theme="dark"] .contact-input,
+[data-theme="dark"] .contact-textarea,
+[data-theme="dark"] .admin-form input,
+[data-theme="dark"] .admin-form textarea {
+  background: rgba(14, 24, 42, 0.9);
+  border-color: rgba(55, 95, 155, 0.35);
+  color: var(--ink);
+}
+
+[data-theme="dark"] .contact-success {
+  background: rgba(20, 201, 178, 0.08);
+  border-color: rgba(20, 201, 178, 0.2);
+  color: #12b8a8;
+}
+
+[data-theme="dark"] .status {
+  color: #6aa8f5;
+}
+
+[data-theme="dark"] .error {
+  color: #ff8090;
+}
+
+[data-theme="dark"] .rdf-shell::before {
+  background: linear-gradient(90deg, transparent, rgba(27, 109, 255, 0.05), transparent);
+}
+
+[data-theme="dark"] .rdf-node-group.active .rdf-label {
+  fill: #a8c8e8;
+}

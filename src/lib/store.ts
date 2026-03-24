@@ -1,11 +1,18 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 import { bundledDataPath, runtimeDataDir, runtimeDataPath } from "@/lib/data-paths";
-import type { ContentData, ProfileData, RefreshLogData, RefreshLogItem } from "@/lib/types";
+import type {
+  ContactMessage,
+  ContentData,
+  ProfileData,
+  RefreshLogData,
+  RefreshLogItem,
+} from "@/lib/types";
 
 const profilePath = runtimeDataPath("profile.json");
 const contentPath = runtimeDataPath("content.json");
 const refreshLogPath = runtimeDataPath("refresh-log.json");
+const messagesPath = runtimeDataPath("messages.json");
 const MAX_ARTICLES = 8;
 const MAX_VIDEOS = 8;
 
@@ -198,6 +205,7 @@ const defaultProfile: ProfileData = {
 function normalizeProfile(profile: ProfileData): ProfileData {
   return {
     ...profile,
+    resumeUrl: profile.resumeUrl ?? "",
     localName: profile.localName ?? defaultProfile.localName,
     introKo: profile.introKo ?? defaultProfile.introKo,
     introEn: profile.introEn ?? defaultProfile.introEn,
@@ -339,4 +347,15 @@ export async function appendRefreshLog(item: RefreshLogItem): Promise<void> {
   const log = await readRefreshLog();
   const items = [item, ...log.items].slice(0, 100);
   await writeFile(refreshLogPath, JSON.stringify({ items }, null, 2), "utf8");
+}
+
+export async function readMessages(): Promise<ContactMessage[]> {
+  await ensureDataDir();
+  try {
+    const raw = await readFile(messagesPath, "utf8");
+    const parsed = JSON.parse(raw) as unknown;
+    return Array.isArray(parsed) ? (parsed as ContactMessage[]) : [];
+  } catch {
+    return [];
+  }
 }

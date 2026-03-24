@@ -21,6 +21,7 @@ type FormState = {
   website: string;
   googleScholarUrl: string;
   githubUsername: string;
+  resumeUrl: string;
   articleKeywords: string;
   videoKeywords: string;
   interests: string;
@@ -162,6 +163,7 @@ function fromProfile(profile: ProfileData): FormState {
     website: profile.website,
     googleScholarUrl: profile.googleScholarUrl,
     githubUsername: profile.githubUsername,
+    resumeUrl: profile.resumeUrl ?? "",
     articleKeywords: profile.articleKeywords.join(", "),
     videoKeywords: profile.videoKeywords.join(", "),
     interests: profile.interests.join(", "),
@@ -255,6 +257,7 @@ export function AdminForm({ initialProfile }: Props) {
       website: form.website.trim(),
       googleScholarUrl: form.googleScholarUrl.trim(),
       githubUsername: form.githubUsername.trim(),
+      resumeUrl: form.resumeUrl.trim(),
       articleKeywords: parseCSV(form.articleKeywords),
       videoKeywords: parseCSV(form.videoKeywords),
       interests: parseCSV(form.interests),
@@ -422,6 +425,16 @@ export function AdminForm({ initialProfile }: Props) {
         <input
           value={form.githubUsername}
           onChange={(e) => setField("githubUsername", e.target.value)}
+        />
+      </label>
+
+      <label>
+        Resume / CV URL (leave blank to hide download button)
+        <input
+          type="url"
+          value={form.resumeUrl}
+          onChange={(e) => setField("resumeUrl", e.target.value)}
+          placeholder="https://..."
         />
       </label>
 

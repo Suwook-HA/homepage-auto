@@ -80,6 +80,16 @@ export type PatentSearchData = {
   records: PatentRecord[];
 };
 
+export type ContactMessage = {
+  id: string;
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
+  receivedAt: string;
+  read: boolean;
+};
+
 export type ProfileData = {
   name: string;
   localName: string;
@@ -93,6 +103,7 @@ export type ProfileData = {
   website: string;
   googleScholarUrl: string;
   githubUsername: string;
+  resumeUrl?: string;
   articleKeywords: string[];
   videoKeywords: string[];
   interests: string[];

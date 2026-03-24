@@ -75,6 +75,7 @@ export const profileSchema = z.object({
   website: z.url(),
   googleScholarUrl: optionalUrlSchema,
   githubUsername: z.string().min(1),
+  resumeUrl: optionalUrlSchema.optional().default(""),
   articleKeywords: z.array(z.string().min(1)).min(1),
   videoKeywords: z.array(z.string().min(1)).min(1),
   interests: z.array(z.string().min(1)),

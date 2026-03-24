@@ -1,11 +1,14 @@
 ﻿import Image from "next/image";
 import Link from "next/link";
 
+import { ContactForm } from "@/app/ui/contact-form";
 import { IntelligenceTabs } from "@/app/ui/intelligence-tabs";
 import { LangText } from "@/app/ui/lang-text";
 import { LanguageToggle } from "@/app/ui/language-toggle";
+import { MaskedEmail } from "@/app/ui/masked-email";
 import { RefreshButton } from "@/app/ui/refresh-button";
 import { RelationshipMap } from "@/app/ui/relationship-map";
+import { ThemeToggle } from "@/app/ui/theme-toggle";
 import { isAdminAuthenticated, isAdminAuthEnabled } from "@/lib/admin-auth";
 import { readPromotionData } from "@/lib/promotion";
 import { getHomepageData, getRefreshStatus } from "@/lib/refresh";
@@ -252,7 +255,10 @@ export default async function HomePage() {
             <p className="eyebrow">
               <LangText ko="IT 전문가 프로파일" en="IT Expert Profile" inline />
             </p>
-            <LanguageToggle />
+            <div className="topline-controls">
+              <LanguageToggle />
+              <ThemeToggle />
+            </div>
           </div>
           <h1>{profile.name}</h1>
           <p className="name-local">
@@ -275,13 +281,18 @@ export default async function HomePage() {
           </div>
           <div className="meta">
             <span>{profile.location}</span>
-            <span>{profile.email}</span>
+            <MaskedEmail email={profile.email} />
             <Link href={profile.website} target="_blank">
               Website
             </Link>
           </div>
           <div className="actions">
             {adminAuthenticated ? <RefreshButton /> : null}
+            {profile.resumeUrl ? (
+              <Link className="button" href={profile.resumeUrl} target="_blank" download>
+                Download CV
+              </Link>
+            ) : null}
             <Link
               className="button secondary"
               href={adminAuthenticated || !authEnabled ? "/admin" : "/admin/login"}
@@ -735,6 +746,25 @@ export default async function HomePage() {
             ))
           )}
         </div>
+      </section>
+
+      <section className="card contact-section">
+        <div className="section-header">
+          <h2>
+            <LangText ko="연락하기" en="Contact" />
+          </h2>
+          <span className="tag">
+            <LangText ko="메시지 보내기" en="Send a Message" inline />
+          </span>
+        </div>
+        <p className="hint">
+          <LangText
+            ko="질문, 협업 제안, 또는 연구 관련 문의를 남겨주세요."
+            en="Leave a question, collaboration proposal, or research inquiry."
+            inline
+          />
+        </p>
+        <ContactForm />
       </section>
 
       <section className="card">

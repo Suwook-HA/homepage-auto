@@ -6,7 +6,7 @@ import { GooglePhotosPickerPanel } from "@/app/admin/ui/google-photos-picker-pan
 import { LogoutButton } from "@/app/admin/ui/logout-button";
 import { isAdminAuthEnabled, isAdminAuthenticated } from "@/lib/admin-auth";
 import { getRefreshStatus } from "@/lib/refresh";
-import { readProfile } from "@/lib/store";
+import { readMessages, readProfile } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
 
@@ -33,7 +33,11 @@ export default async function AdminPage() {
     redirect("/admin/login");
   }
 
-  const [profile, status] = await Promise.all([readProfile(), getRefreshStatus()]);
+  const [profile, status, messages] = await Promise.all([
+    readProfile(),
+    getRefreshStatus(),
+    readMessages(),
+  ]);
 
   return (
     <main className="page">
@@ -54,6 +58,27 @@ export default async function AdminPage() {
       </section>
 
       <GooglePhotosPickerPanel />
+
+      <section className="card">
+        <div className="section-header">
+          <h2>Contact Messages ({messages.length})</h2>
+        </div>
+        <div className="log-list">
+          {messages.length === 0 ? (
+            <p className="empty">No messages yet.</p>
+          ) : (
+            messages.map((msg) => (
+              <article key={msg.id} className="item">
+                <p className="item-meta">
+                  {formatDate(msg.receivedAt)} | from {msg.name} &lt;{msg.email}&gt;
+                </p>
+                {msg.subject && <p className="item-meta">Subject: {msg.subject}</p>}
+                <p style={{ marginTop: 6, whiteSpace: "pre-wrap" }}>{msg.message}</p>
+              </article>
+            ))
+          )}
+        </div>
+      </section>
 
       <section className="card">
         <h2>Refresh Status</h2>
