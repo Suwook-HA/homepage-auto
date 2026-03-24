@@ -141,7 +141,7 @@ export default async function HomePage() {
   ];
   const signalMax = Math.max(...signalData.map((item) => item.value), 1);
   const patentData = content.patents ?? null;
-  const patentStats = patentData?.stats ?? {
+  const patentStats = patentData?.stats ?? profile.patentStats ?? {
     domestic: { applications: 0, registrations: 0 },
     international: { applications: 0, registrations: 0 },
     yearly: [],
@@ -169,7 +169,7 @@ export default async function HomePage() {
     ...patentYearly.map((item) => Math.max(item.applications, item.registrations)),
     1,
   );
-  const patentRecords = [...(patentData?.records ?? [])]
+  const patentRecords = [...(patentData?.records ?? profile.patentRecords ?? [])]
     .sort((a, b) => b.filedAt.localeCompare(a.filedAt))
     .slice(0, 12);
   const patentAssetTotal =

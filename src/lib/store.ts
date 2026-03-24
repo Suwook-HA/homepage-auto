@@ -159,44 +159,16 @@ const defaultProfile: ProfileData = {
   ],
   patentStats: {
     domestic: {
-      applications: 28,
-      registrations: 17,
+      applications: 0,
+      registrations: 0,
     },
     international: {
-      applications: 14,
-      registrations: 8,
+      applications: 0,
+      registrations: 0,
     },
-    yearly: [
-      { year: "2022", applications: 6, registrations: 3 },
-      { year: "2023", applications: 9, registrations: 5 },
-      { year: "2024", applications: 12, registrations: 7 },
-      { year: "2025", applications: 15, registrations: 10 },
-      { year: "2026", applications: 18, registrations: 12 },
-    ],
+    yearly: [],
   },
-  patentRecords: [
-    {
-      title: "AI Data Quality Evaluation Method for Standardized Benchmarking",
-      region: "KR",
-      status: "Registered",
-      patentNumber: "KR10-2025-0012345",
-      filedAt: "2025-03-10",
-    },
-    {
-      title: "Trustworthy AI Lifecycle Audit Framework",
-      region: "US",
-      status: "Filed",
-      patentNumber: "US18/765,432",
-      filedAt: "2025-09-18",
-    },
-    {
-      title: "Cross-domain Metadata Harmonization for AI Governance",
-      region: "PCT",
-      status: "Published",
-      patentNumber: "WO2026/145678",
-      filedAt: "2026-01-22",
-    },
-  ],
+  patentRecords: [],
   links: [
     {
       label: "GitHub",
