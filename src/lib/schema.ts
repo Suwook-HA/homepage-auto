@@ -51,7 +51,7 @@ export const patentYearlyStatSchema = z.object({
 export const patentStatsSchema = z.object({
   domestic: patentRegionStatSchema,
   international: patentRegionStatSchema,
-  yearly: z.array(patentYearlyStatSchema).min(1),
+  yearly: z.array(patentYearlyStatSchema),
 });
 
 export const patentRecordSchema = z.object({
