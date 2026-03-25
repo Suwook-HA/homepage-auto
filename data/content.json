@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-24T02:07:10.491Z",
-  "projectsCheckedAt": "2026-03-24T02:07:10.491Z",
-  "projectsUpdatedAt": "2026-03-24T02:07:10.491Z",
+  "updatedAt": "2026-03-25T02:12:34.150Z",
+  "projectsCheckedAt": "2026-03-25T02:12:34.150Z",
+  "projectsUpdatedAt": "2026-03-25T02:12:34.150Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,27 +38,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-24T02:07:10.491Z",
+    "checkedAt": "2026-03-25T02:12:34.150Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "85b06d08f8d3898f",
-      "title": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIN2UwdEFDNDljdExqSnBxMGc2U21BNU5yRHdlYmRiQXNiLXQzQ1BIWmswRzJjejFqM2ZpT3pNTEFqVVJCdnJMenlFWS13V2swRXJ2bEt3WkFXanQ1ZWFZ?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 헬로티",
-      "publishedAt": "2026-03-24T01:50:09.000Z",
-      "rank": 1
-    },
-    {
-      "id": "6d40f59db932578d",
+      "id": "2d93aacc580f5469",
       "title": "제6장. 실전! 피지컬 AI 안전경영 로드맵(IV) - 브런치",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RSjNKWkt6M1VpRGw0cDNOSGFndTl3QUFHLVRxV1RlQVMxdXlTV2FTYXdqRUNIanhvRVF1b1oxS0xoRGxHTExSWS0tMTg?oc=5",
       "source": "Google News: Trustworthy AI",
       "summary": "제6장. 실전! 피지컬 AI 안전경영 로드맵(IV) 브런치",
-      "publishedAt": "2026-03-23T22:56:37.000Z",
+      "publishedAt": "2026-03-24T10:06:04.000Z",
+      "rank": 1
+    },
+    {
+      "id": "c0c3b7f4eb970169",
+      "title": "보건의료 R&D '전략 투자' 본격화…AI·재생의료 등 초격차 기술 육성 - 약사공론",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcnNIVUpRZ1RIbVJSdGEyN1ExY3hSWGVjOWRZLUVZME5EUGUyVFBqNjNYMjB2RXNSOTBady1TWDFiQmNyTDJPS0IyaDR2aGhzWkdtbDFGazY2VUhEbGxrT2ZuMjdKRFNKSEE2Xw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "보건의료 R&D '전략 투자' 본격화…AI·재생의료 등 초격차 기술 육성 약사공론",
+      "publishedAt": "2026-03-24T09:52:45.000Z",
       "rank": 2
+    },
+    {
+      "id": "f5acfc9df5f452fd",
+      "title": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIN2UwdEFDNDljdExqSnBxMGc2U21BNU5yRHdlYmRiQXNiLXQzQ1BIWmswRzJjejFqM2ZpT3pNTEFqVVJCdnJMenlFWS13V2swRXJ2bEt3WkFXanQ1ZWFZ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "오케스트로, ISO·MS·ETRI 한자리...클라우드 표준 협력 생태계 구축 헬로티",
+      "publishedAt": "2026-03-24T01:50:09.000Z",
+      "rank": 3
+    },
+    {
+      "id": "835a07e51350a00c",
+      "title": "Stop AI from Guessing: Appier Enables Agents to Assess Confidence Before Acting - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xWGNvVDJHczNVdm5xVG1ndHhROFdkSUtoaF9xazhQUjhNYUxLYl9Pd3htVTZ3SzBSZE9VZzhjWTFMMXRoLUdmY2ZSdnFxZnY2V3dhd1BocmItSzBfRDNJN0tEdE1MWVpM?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Stop AI from Guessing: Appier Enables Agents to Assess Confidence Before Acting KIPOST",
+      "publishedAt": "2026-03-24T07:41:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "53f80072a7a8ea99",
+      "title": "Finda Acquires ISMS Certification… Securing Reliability of Financial Service Information Security System - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoWVRiR01PSnZRMVkxYnQ2U2E3emYxSWdnNFRyV2JJdE5hQWxIdjJJQ195TUlSY0xfRzVLNm1zS2ZIVVpzN3FWSkF5S3Y3M2xDQzhJ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Finda Acquires ISMS Certification… Securing Reliability of Financial Service Information Security System 벤처스퀘어",
+      "publishedAt": "2026-03-24T04:31:25.000Z",
+      "rank": 5
+    },
+    {
+      "id": "338a188c7adbf221",
+      "title": "오케스트로, 'AI 클라우드 국제 표준' 주도권 확보 나섰다 - 한국클라우드신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OWUlwMnNOSVBqYlg3YllqbVVjSFc2emJNQ2R3UVlaWG1rRHJIV0EwRGg0cFlCRDFXVnhYMjh3anl1dVNZcUVlZlJNUXNxWkhCY3RWYlJhWlFIWDhWZzZLVWFUNGdiQlhCaHZfQlhob9IBc0FVX3lxTE82QVN6d3RJQlZXNXRWU1psc2NmRzVYb0hGRExVcFlLaFl0QnU2TFYxek5MUWotOS1PNHBmUTgzbHBBc3VaS2dfUy1BYVlDTmRFeS02TjJCb2wyNXpzenBHSC16cGZqSU9Pc3lkLW5FbzZNemc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "오케스트로, 'AI 클라우드 국제 표준' 주도권 확보 나섰다 한국클라우드신문",
+      "publishedAt": "2026-03-24T02:57:49.000Z",
+      "rank": 6
     },
     {
       "id": "c2d41f9d0cbc56cb",
@@ -67,125 +103,89 @@
       "source": "Google News: IT standardization",
       "summary": "오픈 시스템 프로토콜(OSP), ISO 국제표준화 절차 착수 데일리시큐",
       "publishedAt": "2026-03-23T06:34:16.000Z",
-      "rank": 3
-    },
-    {
-      "id": "b137b47543db0ef7",
-      "title": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 - 테크월드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jaWtLQkdMVUpKZ1N5SllUQW1aampLaWpjcE5wSWZReV8zT2ZLUkhIQ0UyVXU0MldIUVQ4OTNCZlo5dWlMUHd6Zm9GOGxPbG1yX1RwYkY3R1Nxc0RyTWZua3R2YlhCZFE1?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 테크월드뉴스",
-      "publishedAt": "2026-03-23T05:10:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "4239a123f8b0d138",
-      "title": "오케스트로, 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 - 아이티데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9POWJYOHZ5Qk5Da1IzQUtYLXlWcnpVSG5lSlZESWp0cHd4N2hna0FkVXk4TDNueGlERzRuTWQ3RjdrbFpuOXVzOFhWeVp3ZkdMaUx2WU1kdldCbUtLWUM4X3ZQOVN4VTg?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "오케스트로, 국제표준 논의의 장 마련…글로벌 AI 클라우드 협력 강화 아이티데일리",
-      "publishedAt": "2026-03-23T09:16:52.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d708cb8efd7c8142",
-      "title": "Sungrow Hydrogen Powers Global Green Transition with New Project Shipments Across Three Continents - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNTJKT0hYODJ0d09laE8yRjd2MUNyVkh3UTZoREtKemtZQ0lNQ0NwYWFIV2pUdGVCUzB1TU02RzNuNWVZeUFuTkVJZi13VzVtSFE1em1xXzFPRndSeGZiYlZQN1ptWjZn0gFsQVVfeXFMUHZNeWFxUkpydkJZNTg0RWNBNDFJLTU4aGpEbzhrV0dKVTcwQ2pEYXlMUV9hR05VM3JhWTJnLXIzNHQtY2JYSVloVUtlSzBFWVZ0U1Mzd1lscXA4dWEyMjd6Qkpod0FSeEIxMnBa?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Sungrow Hydrogen Powers Global Green Transition with New Project Shipments Across Three Continents KIPOST",
-      "publishedAt": "2026-03-23T08:55:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "da7016ca28f6fc9e",
-      "title": "JNP Medi Selected for Poster Session at CDISC Global Conference - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWndKYUtGVXBmQlZhSVpIU2x5bE1zN3JlMzlOM3ZaUmlGZGVUOE80WUREd2hkUDNZdEVrVnhWVmY2V003bGJxSEs1SEViNEhDc2Ew?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "JNP Medi Selected for Poster Session at CDISC Global Conference 벤처스퀘어",
-      "publishedAt": "2026-03-23T06:35:38.000Z",
       "rank": 7
     },
     {
-      "id": "1db12197eca4f435",
-      "title": "오케스트로, 국제 클라우드 표준 논의 주도…AI 협력 확대 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0RUQxNW5uUlFfbXFLZnFjNjdyU1RiQjBiUVA2UWNWSVYyenNCWUhwVl8wdFNNR09oZUVYZkFsSzRteEZTaTYxdGZtWk9FeFYzdVMtVWVB?oc=5",
-      "source": "Google News: ISO IEC AI standard",
-      "summary": "오케스트로, 국제 클라우드 표준 논의 주도…AI 협력 확대 지디넷코리아",
-      "publishedAt": "2026-03-23T06:31:15.000Z",
+      "id": "bd4124221cd71478",
+      "title": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 - 테크월드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jaWtLQkdMVUpKZ1N5SllUQW1aampLaWpjcE5wSWZReV8zT2ZLUkhIQ0UyVXU0MldIUVQ4OTNCZlo5dWlMUHd6Zm9GOGxPbG1yX1RwYkY3R1Nxc0RyTWZua3R2YlhCZFE1?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "오케스트로, ISO 국제표준 ‘아웃리치’ 개최…AI 클라우드 협력 논의 테크월드뉴스",
+      "publishedAt": "2026-03-23T05:10:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "207ef350d950e4a1",
-      "title": "TensorFlow Developer Professional Certificate",
-      "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg",
-      "publishedAt": "2026-03-23T22:01:50.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "100afbc0e1c796d9",
-      "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg",
-      "publishedAt": "2026-03-23T21:59:39.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7e502e31ec9e5a29",
-      "title": "AI for Everyone by Andrew Ng",
-      "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg",
-      "publishedAt": "2026-03-23T21:55:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "83bfc4dca85a9317",
-      "title": "Musk’s Mega Plan for Chip Manufacturing | Bloomberg Tech 3/23/2026",
-      "url": "https://www.youtube.com/watch?v=GW2gao4ushE",
+      "id": "5b97734028b71ffc",
+      "title": "Bloomberg Tech Live From the Hill and Valley Forum | Bloomberg Tech 3/24/2026",
+      "url": "https://www.youtube.com/watch?v=iG-mjow7LV4",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/GW2gao4ushE/hqdefault.jpg",
-      "publishedAt": "2026-03-23T20:41:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iG-mjow7LV4/hqdefault.jpg",
+      "publishedAt": "2026-03-24T20:47:33.000Z",
       "viewCount": 0
     },
     {
-      "id": "08a42cb735e3ffde",
-      "title": "Musk Says Tesla, SpaceX Chip Project to Kick Off in Texas",
-      "url": "https://www.youtube.com/watch?v=xsAtJocU-M8",
+      "id": "0976ce32ed77a0fc",
+      "title": "Arm CEO on Selling Own Chips, Meta Is One of First Customers",
+      "url": "https://www.youtube.com/watch?v=Vi6-9nZF_Cw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/xsAtJocU-M8/hqdefault.jpg",
-      "publishedAt": "2026-03-23T20:19:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vi6-9nZF_Cw/hqdefault.jpg",
+      "publishedAt": "2026-03-24T20:40:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "da4064a7c005eb19",
-      "title": "Apple’s Heir Apparent Steps Into the Spotlight",
-      "url": "https://www.youtube.com/watch?v=THOi7dNcX2E",
+      "id": "15297e3e8e52acbb",
+      "title": "Vinod Khosla Wants to Be \"As Hawkish As Possible\" on China",
+      "url": "https://www.youtube.com/watch?v=wbTF4cB_7-4",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/THOi7dNcX2E/hqdefault.jpg",
-      "publishedAt": "2026-03-23T19:39:42.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wbTF4cB_7-4/hqdefault.jpg",
+      "publishedAt": "2026-03-24T20:11:17.000Z",
       "viewCount": 0
     },
     {
-      "id": "40b206f99a835d55",
-      "title": "Lead Edge Capital Closes New $3.5 Billion Fund",
-      "url": "https://www.youtube.com/watch?v=4HRQdSz7Z2c",
+      "id": "393ffa304a2de863",
+      "title": "Palantir CTO on Deepening Ties With Pentagon",
+      "url": "https://www.youtube.com/watch?v=OTcz_CZ0fzk",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/4HRQdSz7Z2c/hqdefault.jpg",
-      "publishedAt": "2026-03-23T19:31:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/OTcz_CZ0fzk/hqdefault.jpg",
+      "publishedAt": "2026-03-24T17:56:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "a304252c037a6cc9",
-      "title": "Nscale Reaches $14.6 Billion Valuation, Adds Sandberg to Board",
-      "url": "https://www.youtube.com/watch?v=NjNq76QcQm4",
+      "id": "b8410aa63e6d1719",
+      "title": "NASA Steps Up Lunar Efforts With $20B Pledge",
+      "url": "https://www.youtube.com/watch?v=S2OvZFiVmuM",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/NjNq76QcQm4/hqdefault.jpg",
-      "publishedAt": "2026-03-23T18:29:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/S2OvZFiVmuM/hqdefault.jpg",
+      "publishedAt": "2026-03-24T17:24:03.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e3e9e82367158959",
+      "title": "Drones, Space and Energy: Defense VC Overmatch Nabs $250 Million",
+      "url": "https://www.youtube.com/watch?v=Xsgw5SO_4fI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Xsgw5SO_4fI/hqdefault.jpg",
+      "publishedAt": "2026-03-24T17:15:06.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "fb0212e4a8505b66",
+      "title": "What Codex Unlocks for Notion",
+      "url": "https://www.youtube.com/watch?v=bxJkxBUFeEE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/bxJkxBUFeEE/hqdefault.jpg",
+      "publishedAt": "2026-03-24T17:01:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "187c09e3901aefaf",
+      "title": "US Navy Teams With Hadrian on Submarine Production",
+      "url": "https://www.youtube.com/watch?v=48nezRcW1_8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/48nezRcW1_8/hqdefault.jpg",
+      "publishedAt": "2026-03-24T16:57:59.000Z",
       "viewCount": 0
     }
   ],
@@ -211,6 +211,16 @@
   ],
   "projects": [
     {
+      "id": "8fc328e75ace7570",
+      "name": "etri-standards-dashboard",
+      "description": "ETRI 표준화 현황 대시보드 — React + Vite + Tailwind + Zustand + Recharts",
+      "url": "https://github.com/Suwook-HA/etri-standards-dashboard",
+      "stars": 0,
+      "forks": 1,
+      "language": "JavaScript",
+      "updatedAt": "2026-03-24T05:11:31.000Z"
+    },
+    {
       "id": "061441375121732a",
       "name": "homepage-auto",
       "description": "Auto-updating personal homepage with profile management, tech content ranking, and Google Photos Picker integration",
@@ -218,17 +228,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-24T02:05:16.000Z"
-    },
-    {
-      "id": "8fc328e75ace7570",
-      "name": "etri-standards-dashboard",
-      "description": "ETRI 표준화 현황 대시보드 — React + Vite + Tailwind + Zustand + Recharts",
-      "url": "https://github.com/Suwook-HA/etri-standards-dashboard",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-03-23T07:42:22.000Z"
+      "updatedAt": "2026-03-24T12:46:35.000Z"
     },
     {
       "id": "8a95dd7d9a8078c5",
