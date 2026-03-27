@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-26T02:26:21.135Z",
-  "projectsCheckedAt": "2026-03-26T02:26:21.135Z",
-  "projectsUpdatedAt": "2026-03-26T02:26:21.135Z",
+  "updatedAt": "2026-03-27T02:27:39.958Z",
+  "projectsCheckedAt": "2026-03-27T02:27:39.958Z",
+  "projectsUpdatedAt": "2026-03-27T02:27:39.958Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-26T02:26:21.135Z",
+    "checkedAt": "2026-03-27T02:27:39.958Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "5f6676fe2257bdf6",
+      "title": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EX0E0LVdWNWpCWWNRSzQtTzNWQW84b2cwUlBIT2hONTNfdWo4bFJGcllPUXM3Sm9jZ0xJemlEVmZfR3EzMGE4bzhzUzh3ZElWWVpVUWtfWmdvZTRnWFBNZVhYeTVSMTQ10gFsQVVfeXFMUGtXYlpjZnJDdlJuWDB4OVJmOUVQRTNaQ19vTU4wenUzeS1KNWNBcENKSG91VUdiQ0lhcURnV00teTdjNk81eTRCdmg0MldLTFVzTU5vcE1XOEVSc0hSWWMwbUoxQVlHZ211ZG1T?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure KIPOST",
+      "publishedAt": "2026-03-26T05:03:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3f57cefb3faec80a",
+      "title": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 - 매거진한경",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kLTVHWk9GVVZyM1ppYXZ4Y1RoVXladnJ1Z3NMS080N2hIemlfZVpWdFUwMld3bWhhV05oU0hvQXFMSVFUUXdydXlZX3BHTzFxSHRFZEFOSDVjRHZsUDl4VU16ZzVpZ2NlT3dj?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 매거진한경",
+      "publishedAt": "2026-03-27T01:20:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d600d7fb03049767",
+      "title": "Infosys to Acquire Leading Healthcare Digital Transformation Company, Optimum Healthcare IT - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTdFMtcnBvRU1SRWVhNFRwY2Y0eW54dnNCYUdGV0ZwaTVaUW8tZE1JYVAyUzdQMmF0TkpTQW0yY1A4ZG92bUdrTWJXLUtwYWhYaEZDSHlHc0F2S0tET29LcDZYSjhjMWRv0gFsQVVfeXFMTVd0UGdQZDRVWktFWnNNSlhzaHdrM2hZUXh3OTlZQUlQUS1La3RuLXRrc1ZxU1NGMWd0UjFkbnM0cWgzcHlqWE9kdENrSHZSZ2E3bEpYa0hHeDU4dXNZYnJPVEJjWXRPa2tsNTRQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Infosys to Acquire Leading Healthcare Digital Transformation Company, Optimum Healthcare IT KIPOST",
+      "publishedAt": "2026-03-25T19:30:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "3cbe8dd98b4c55f7",
+      "title": "“75% of patients linked to family history… ‘Takhzyro’ enables preventive management of hereditary angioedema” - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zcngzRjBKS3JBT1JsZ21rczNIRVhhS0xjVDJrSFluVmtsYTR4a2taUDFqenpSWXRKY24tVzRfOGpmOHQ4R1BrZ2NLdDlaRWVfYnVJejZLcGVHVTZQUVdLRHpJdEdPRHFhWDZya9IBcEFVX3lxTFBXTkxINWRwVG5PWTNnTHdNd1dOMTJETjdhQ0EzcDVlaWc4YktKVU1FYkRrVjRlWENoaEdTdzZoRThKaEhybV9pY0xvNE9tWEZhM2ppX0dRSktVV2xIbFlQZ21xOVJYT3pXeXNEMW1KMWo?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "“75% of patients linked to family history… ‘Takhzyro’ enables preventive management of hereditary angioedema” 더바이오",
+      "publishedAt": "2026-03-26T08:05:36.000Z",
+      "rank": 4
+    },
+    {
+      "id": "3594e277dd186457",
+      "title": "K-슬립테크 쾌거! 레보넥, ‘피지컬AI’ 수면 테라피 글로벌 표준화 주도권 확보! - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMDdoX2ZDRVJMTjJrMjd6MGwzZE1oVUNnV1ppMlA2VjNkNFJGdld6RUs0cWdPZk9BVUR3TUwwSmlMTldUS3FLRmJpYlpOSzM4R1hFMTlDamd1dHJwa1NYSC02UUI3WV9ZV0dF0gFrQVVfeXFMT1owN2hfZkNFUkxOMmsyN3owbDNkTWhVQ2dXWmkyUDZWM2Q0UkZ2V3pFSzRxZ09mT0FVRHdNTDBKaUxOV1RLcUtGYmliWk5LMzhHWEUxOUNqZ3V0cnBrU1hILTZRQjdZX1lXR0U?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "K-슬립테크 쾌거! 레보넥, ‘피지컬AI’ 수면 테라피 글로벌 표준화 주도권 확보! 에이빙",
+      "publishedAt": "2026-03-26T06:56:07.000Z",
+      "rank": 5
+    },
+    {
+      "id": "fe1a7eb4d762ffda",
+      "title": "Flitto Signs MOU with Ho Chi Minh City University of Social Sciences and Humanities for AI Language Data and Talent Development - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MMUdLdVJRYXF0YVlUS1dlVU9JOEdLTVJmdkNDRjNHTTR4VFR2Z0RfWjU3SkVUYjVOTF9WSXBGMGJLNF9XUkVldlJKMTVFeVgyeXVj?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Flitto Signs MOU with Ho Chi Minh City University of Social Sciences and Humanities for AI Language Data and Talent Development 벤처스퀘어",
+      "publishedAt": "2026-03-26T03:38:48.000Z",
+      "rank": 6
+    },
+    {
+      "id": "574dcd788e90faf1",
+      "title": "플리토, 호치민시 인사대와 AI 언어 데이터·인력 양성 MOU 체결 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OTk5XZTJycWttNmFXbUpCZzJTVGxNclZsQm41NEhUY21HSjBEZDZENVlkemFVRkdCcTc4TEhpbHliTEtYVGFHNkRQZWVQYjQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "플리토, 호치민시 인사대와 AI 언어 데이터·인력 양성 MOU 체결 벤처스퀘어",
+      "publishedAt": "2026-03-26T03:29:24.000Z",
+      "rank": 7
+    },
     {
       "id": "68cc3b9dc68505b5",
       "title": "Advancing citizen-first public services through AI and digital transformation - KIPOST",
@@ -49,73 +112,64 @@
       "source": "Google News: Digital Transformation",
       "summary": "Advancing citizen-first public services through AI and digital transformation KIPOST",
       "publishedAt": "2026-03-25T08:02:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "9b3c45dd42c752b7",
-      "title": "국제AI교육원, ISO/IEC 42001 기반 ‘AI 심사 인터뷰 프레임워크’ 출간 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTjFWbk5PSk90VWNKcEl5MEtmSTFjdm1mNnlRMHdxRG9IRU11TU9OOXFDTVdPV1pNODNibE9nUEZkT1F4OGNWSWlzeEN3UkE?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "국제AI교육원, ISO/IEC 42001 기반 ‘AI 심사 인터뷰 프레임워크’ 출간 v.daum.net",
-      "publishedAt": "2026-03-25T05:06:39.000Z",
-      "rank": 2
-    },
-    {
-      "id": "c6b4692d3dc0d4b7",
-      "title": "공공 의료 데이터 표준화 지지부진…에이전트 AI 해법 될까 - 메디칼타임즈",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Qko1Rkk5MDFwX2JWakE2NWk4ZUMyODA0UmJOUkVCMlpERm90X2o0TUd6UTBPOW9Yck9UblB3bVNoYnpkREQ4ZTNEY3g4Z1MtLUUxR01OT3drLUV6M1VsZUNTaVUzNG5GU3F6MzMwOFU?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "공공 의료 데이터 표준화 지지부진…에이전트 AI 해법 될까 메디칼타임즈",
-      "publishedAt": "2026-03-25T20:20:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "94233b090b56689b",
-      "title": "Samsung Medical Center partners with EORTC on PRO-based research into cancer patients’ quality of life - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xWm5MOVBISW1Ic3d1dG5lNmlXbVE3aE9oQ2tJWEdjUVFVSFVLT0tuUDU4QWhsY1Nuam93YzZFRXhfMUQ0UXhNUWNJNEVYUWRJRkpBRjV5VTkwZ2ZLcmpkeENGMm40STZQZ3hMNNIBcEFVX3lxTE9wMmUxbEFfX1lyMDk2c2QtNXJmVGZ2LW5ydllQX3Zzdi02dGF3N2l0X2ZUck9uNkFZbEZpbXdwMUlId3ZZd09MQWJkRkd3Y2l6X1NZYzdUdWczV05zUjBPNW4xeG5wT1J1NjhtN3YzdzY?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Samsung Medical Center partners with EORTC on PRO-based research into cancer patients’ quality of life 더바이오",
-      "publishedAt": "2026-03-25T03:06:26.000Z",
-      "rank": 4
-    },
-    {
-      "id": "4b7921ee22731d35",
-      "title": "엑스와이지, ‘글러브엑스’ 기반 로봇 행동 데이터 표준화 본격화...크라우드웍스와 손잡아 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmaTZDcGV4LWZZcUVPcndGb3dMSElqU0p2TWk0ZWg0ei1pRlFLVWJVSE40ZzFNMGNXSi1JdldIMXk4dGw1VmpYYlhzVnlhaVRqaktUQWNRdTZrcWpnSXpn?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "엑스와이지, ‘글러브엑스’ 기반 로봇 행동 데이터 표준화 본격화...크라우드웍스와 손잡아 헬로티",
-      "publishedAt": "2026-03-25T08:37:59.000Z",
-      "rank": 5
-    },
-    {
-      "id": "27e6141609ba89fb",
-      "title": "CareOne Acquires KOLAS International Accredited Testing Laboratory… Advanced Hygiene Management Services - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MbGU2TWM1V25PNVBlZHZHY0lkRGxET0RGdmNfN24zQlJrbWxHcUp6NFJoeW5WZ2p5Z2R4Mm9nM29PNm5LajVvNFpSY2ZvTUEzU193?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "CareOne Acquires KOLAS International Accredited Testing Laboratory… Advanced Hygiene Management Services 벤처스퀘어",
-      "publishedAt": "2026-03-25T06:34:51.000Z",
-      "rank": 6
-    },
-    {
-      "id": "d7be6d3a09013d02",
-      "title": "DL이앤씨, 미국 엑스에너지와 SMR 표준화 설계 계약 체결 - 서울와이어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tVl9DZ01MVFg4QkRkNmNRTGFoanlTYzNaa296ZnZnUnlJNndsSHBsc1R3WDN6Zk1jTGJONmhyQWttMjZ6ekYyeFAwUlhRN2tkWlNUR0hNQUVFb2xnczNoY0xyNElUcFRBUG9r?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "DL이앤씨, 미국 엑스에너지와 SMR 표준화 설계 계약 체결 서울와이어",
-      "publishedAt": "2026-03-25T04:51:58.000Z",
-      "rank": 7
-    },
-    {
-      "id": "3f38c2d20552c987",
-      "title": "DL이앤씨, 美엑스에너지와 1천만 달러 규모 SMR 표준화 설계 계약 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYOWJYTlBaVTBraWtUSXoydGJiVExSUGllMWFTOVBHT2h4MVhHNWVUT09FalE1RTYyOHFMQl9nUlhDdG1BejNUS3BHc0dva2FkSFp5OHpqMkgtdy1ESFc1RnpBQTZ5aktUS0ZEOA?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "DL이앤씨, 美엑스에너지와 1천만 달러 규모 SMR 표준화 설계 계약 IT비즈뉴스",
-      "publishedAt": "2026-03-25T02:47:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "fee27ce713ec358f",
+      "title": "Jury Finds Meta, Google Liable for Addiction | Bloomberg Tech 3/26/2026",
+      "url": "https://www.youtube.com/watch?v=F7CXtQygPTo",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/F7CXtQygPTo/hqdefault.jpg",
+      "publishedAt": "2026-03-26T21:05:45.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "cfa83265a2500591",
+      "title": "Construct Capital Raises $300 Million to Back Foundational Industries",
+      "url": "https://www.youtube.com/watch?v=FFy6TUrtA4w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/FFy6TUrtA4w/hqdefault.jpg",
+      "publishedAt": "2026-03-26T18:00:58.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b25627fdd52d42c5",
+      "title": "Building LiveKit Agents with Gemini Live API",
+      "url": "https://www.youtube.com/watch?v=tj8ggd8UvB0",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/tj8ggd8UvB0/hqdefault.jpg",
+      "publishedAt": "2026-03-26T17:53:18.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "20b45a55b41689e6",
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/4_P7R8Fjrg8/hqdefault.jpg",
+      "publishedAt": "2026-03-26T17:07:55.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "5452bb8433162f7e",
+      "title": "Navigating the Storm: A Blueprint for AI-Powered Sustainability Reporting",
+      "url": "https://www.youtube.com/watch?v=u-ip7tMgJhE",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/u-ip7tMgJhE/hqdefault.jpg",
+      "publishedAt": "2026-03-26T16:18:58.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "920ded17f36d3724",
+      "title": "Building Voice Agents with Gemini 3",
+      "url": "https://www.youtube.com/watch?v=XV5bhkDpL7U",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/XV5bhkDpL7U/hqdefault.jpg",
+      "publishedAt": "2026-03-26T15:47:08.000Z",
+      "viewCount": 0
+    },
     {
       "id": "6f29e3e27680657c",
       "title": "SpaceX Could File an IPO By End of the Week | Bloomberg Tech 3/25/2026",
@@ -132,60 +186,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/1MedL4k7YfE/hqdefault.jpg",
       "publishedAt": "2026-03-25T18:37:33.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "78e01fc4dd9e6b04",
-      "title": "Kleiner Perkins Raises $3.5 Billion to Back AI Boom",
-      "url": "https://www.youtube.com/watch?v=AjODS7aCaY0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/AjODS7aCaY0/hqdefault.jpg",
-      "publishedAt": "2026-03-25T18:29:25.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "d56ed7ba6c28a5e5",
-      "title": "Defense Tech Gets Less Than 1% of Pentagon Spending",
-      "url": "https://www.youtube.com/watch?v=qMTQ1DlHNbo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qMTQ1DlHNbo/hqdefault.jpg",
-      "publishedAt": "2026-03-25T18:10:15.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5a3f46574a3ca753",
-      "title": "Virginia Rep. Calls for Spreading AI Build-Out Across the Country",
-      "url": "https://www.youtube.com/watch?v=yglUugpqDaU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/yglUugpqDaU/hqdefault.jpg",
-      "publishedAt": "2026-03-25T18:06:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "66ebb883d56b713b",
-      "title": "Episode 15 - Inside the Model Spec",
-      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/H8GMRxG8suw/hqdefault.jpg",
-      "publishedAt": "2026-03-25T16:55:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "3414e515d764a352",
-      "title": "SpaceX Could Launch Largest IPO Ever",
-      "url": "https://www.youtube.com/watch?v=XRQ1jroEpB4",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/XRQ1jroEpB4/hqdefault.jpg",
-      "publishedAt": "2026-03-25T16:41:07.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e6c0c4747d5103f0",
-      "title": "GKE for gen AI Apps: How HubX achieves scale, speed and agility",
-      "url": "https://www.youtube.com/watch?v=ATi2e5UaiKU",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/ATi2e5UaiKU/hqdefault.jpg",
-      "publishedAt": "2026-03-25T16:38:02.000Z",
       "viewCount": 0
     }
   ],
@@ -228,7 +228,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-25T02:16:41.000Z"
+      "updatedAt": "2026-03-26T02:30:24.000Z"
     },
     {
       "id": "8a95dd7d9a8078c5",
