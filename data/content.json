@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-27T02:27:39.958Z",
-  "projectsCheckedAt": "2026-03-27T02:27:39.958Z",
-  "projectsUpdatedAt": "2026-03-27T02:27:39.958Z",
+  "updatedAt": "2026-03-28T02:10:46.455Z",
+  "projectsCheckedAt": "2026-03-28T02:10:46.455Z",
+  "projectsUpdatedAt": "2026-03-28T02:10:46.455Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-27T02:27:39.958Z",
+    "checkedAt": "2026-03-28T02:10:46.455Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "1f927967bd7b335c",
+      "title": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality - 매거진한경",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dDBqWHRWbE4taEhjWklYemdXZ0NXTElTZFV5SUlFUElIV3RQcTJUQm5MQmFrRmxGU3ZkV2NQbno0VXBtbkdoa2ZfRGFGVVlOeXhBY2ExUlhtLTg0TjhuQnROUWx5TDdyRGtv?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality 매거진한경",
+      "publishedAt": "2026-03-27T05:35:00.000Z",
+      "rank": 1
+    },
     {
       "id": "5f6676fe2257bdf6",
       "title": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure - KIPOST",
@@ -49,25 +58,34 @@
       "source": "Google News: Digital Transformation",
       "summary": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure KIPOST",
       "publishedAt": "2026-03-26T05:03:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "3f57cefb3faec80a",
-      "title": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 - 매거진한경",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kLTVHWk9GVVZyM1ppYXZ4Y1RoVXladnJ1Z3NMS080N2hIemlfZVpWdFUwMld3bWhhV05oU0hvQXFMSVFUUXdydXlZX3BHTzFxSHRFZEFOSDVjRHZsUDl4VU16ZzVpZ2NlT3dj?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 매거진한경",
-      "publishedAt": "2026-03-27T01:20:00.000Z",
       "rank": 2
     },
     {
-      "id": "d600d7fb03049767",
-      "title": "Infosys to Acquire Leading Healthcare Digital Transformation Company, Optimum Healthcare IT - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTdFMtcnBvRU1SRWVhNFRwY2Y0eW54dnNCYUdGV0ZwaTVaUW8tZE1JYVAyUzdQMmF0TkpTQW0yY1A4ZG92bUdrTWJXLUtwYWhYaEZDSHlHc0F2S0tET29LcDZYSjhjMWRv0gFsQVVfeXFMTVd0UGdQZDRVWktFWnNNSlhzaHdrM2hZUXh3OTlZQUlQUS1La3RuLXRrc1ZxU1NGMWd0UjFkbnM0cWgzcHlqWE9kdENrSHZSZ2E3bEpYa0hHeDU4dXNZYnJPVEJjWXRPa2tsNTRQ?oc=5",
+      "id": "97d395e4195a86d7",
+      "title": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 - 매거진한경",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4weDU5S2FlcmR5RzVrZG5pVjZxZWJsV3dsdk5zZE1GT2NNMER0eW42Z0JVcEJQSDJLNmdnZ3ZGUHdOcmpzOTFPLUdIcFNteXgxUXg1a3NIN0p4bzF6WEZ0NmNCQVRvQQ?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "Infosys to Acquire Leading Healthcare Digital Transformation Company, Optimum Healthcare IT KIPOST",
-      "publishedAt": "2026-03-25T19:30:00.000Z",
+      "summary": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 매거진한경",
+      "publishedAt": "2026-03-27T01:20:28.000Z",
       "rank": 3
+    },
+    {
+      "id": "36699189bad80114",
+      "title": "Exito Media Concepts Announces the 31st Global Edition of the Cyber Security Summit Australia 2026 - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84ZVZIU2NTT19HcG1hV3N3OGEzRG5QZlNjeWQxdkdVSlJQTVZSV25uQ09zclZDMEE0enpCUDVXVWtJclFOTERQaHh0MmxraERMWFZLVERlaEIzNWRjLWgweFh4dV9Qb0U3?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Exito Media Concepts Announces the 31st Global Edition of the Cyber Security Summit Australia 2026 KIPOST",
+      "publishedAt": "2026-03-27T00:15:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "ca589eb0488e3a10",
+      "title": "[더벨]마음AI·국립공주대 피지컬AI 데이터팩토리 구축 - mt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WZFF3N2Vub3ZtcWhxX3JjdVdxSGswNHVMWHc4Vjk0eERsaU9wd3prdlVvZFYydkNDUDQwekVLWUlkZE12d1ZyT1FyMmNXTjhNY0ZReFNvOU9BUEdHXzd5cVdMekdZckkt?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[더벨]마음AI·국립공주대 피지컬AI 데이터팩토리 구축 mt.co.kr",
+      "publishedAt": "2026-03-26T23:59:39.000Z",
+      "rank": 5
     },
     {
       "id": "3cbe8dd98b4c55f7",
@@ -76,16 +94,7 @@
       "source": "Google News: International Standardization",
       "summary": "“75% of patients linked to family history… ‘Takhzyro’ enables preventive management of hereditary angioedema” 더바이오",
       "publishedAt": "2026-03-26T08:05:36.000Z",
-      "rank": 4
-    },
-    {
-      "id": "3594e277dd186457",
-      "title": "K-슬립테크 쾌거! 레보넥, ‘피지컬AI’ 수면 테라피 글로벌 표준화 주도권 확보! - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMDdoX2ZDRVJMTjJrMjd6MGwzZE1oVUNnV1ppMlA2VjNkNFJGdld6RUs0cWdPZk9BVUR3TUwwSmlMTldUS3FLRmJpYlpOSzM4R1hFMTlDamd1dHJwa1NYSC02UUI3WV9ZV0dF0gFrQVVfeXFMT1owN2hfZkNFUkxOMmsyN3owbDNkTWhVQ2dXWmkyUDZWM2Q0UkZ2V3pFSzRxZ09mT0FVRHdNTDBKaUxOV1RLcUtGYmliWk5LMzhHWEUxOUNqZ3V0cnBrU1hILTZRQjdZX1lXR0U?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "K-슬립테크 쾌거! 레보넥, ‘피지컬AI’ 수면 테라피 글로벌 표준화 주도권 확보! 에이빙",
-      "publishedAt": "2026-03-26T06:56:07.000Z",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "fe1a7eb4d762ffda",
@@ -94,7 +103,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "Flitto Signs MOU with Ho Chi Minh City University of Social Sciences and Humanities for AI Language Data and Talent Development 벤처스퀘어",
       "publishedAt": "2026-03-26T03:38:48.000Z",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "574dcd788e90faf1",
@@ -103,89 +112,80 @@
       "source": "Google News: AI Data Quality",
       "summary": "플리토, 호치민시 인사대와 AI 언어 데이터·인력 양성 MOU 체결 벤처스퀘어",
       "publishedAt": "2026-03-26T03:29:24.000Z",
-      "rank": 7
-    },
-    {
-      "id": "68cc3b9dc68505b5",
-      "title": "Advancing citizen-first public services through AI and digital transformation - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QSGEtZGdVcURfRkJvVWYzTFpSdmF4czlSY3ZtU2hSSnFLbVZfMHotWnRtNTcxZklEZjZ3bFVicmdMQ1M2WXhVUnExWE9nbnFobExrTmFDRVIyVTdZSnc4LWxUNFN1MDFS0gFsQVVfeXFMUEx1QWRQbzBwS3pIblk4RmNFOWV6ZkJvaXNES1B4VkEtVlJDUTh1SF9FX0x6RF90RVlUVTRGZ2J1Z2ItbHg2ZUo2OEpkcDVJZG10Z0hDSjdpeWk3QjVaS2RPeXB6b3I2cG05aVFB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Advancing citizen-first public services through AI and digital transformation KIPOST",
-      "publishedAt": "2026-03-25T08:02:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "fee27ce713ec358f",
-      "title": "Jury Finds Meta, Google Liable for Addiction | Bloomberg Tech 3/26/2026",
-      "url": "https://www.youtube.com/watch?v=F7CXtQygPTo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/F7CXtQygPTo/hqdefault.jpg",
-      "publishedAt": "2026-03-26T21:05:45.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "cfa83265a2500591",
-      "title": "Construct Capital Raises $300 Million to Back Foundational Industries",
-      "url": "https://www.youtube.com/watch?v=FFy6TUrtA4w",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/FFy6TUrtA4w/hqdefault.jpg",
-      "publishedAt": "2026-03-26T18:00:58.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b25627fdd52d42c5",
-      "title": "Building LiveKit Agents with Gemini Live API",
-      "url": "https://www.youtube.com/watch?v=tj8ggd8UvB0",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/tj8ggd8UvB0/hqdefault.jpg",
-      "publishedAt": "2026-03-26T17:53:18.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "20b45a55b41689e6",
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
-      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8",
+      "id": "7020f96e65b2c2d0",
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/4_P7R8Fjrg8/hqdefault.jpg",
-      "publishedAt": "2026-03-26T17:07:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg",
+      "publishedAt": "2026-03-27T20:55:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "5452bb8433162f7e",
-      "title": "Navigating the Storm: A Blueprint for AI-Powered Sustainability Reporting",
-      "url": "https://www.youtube.com/watch?v=u-ip7tMgJhE",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/u-ip7tMgJhE/hqdefault.jpg",
-      "publishedAt": "2026-03-26T16:18:58.000Z",
+      "id": "648fcf8eb745204f",
+      "title": "Meta Funds Gas Plants to Power Mega Louisiana Data Center | Bloomberg Tech 3/27/2026",
+      "url": "https://www.youtube.com/watch?v=5zRH6HvMKyw",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/5zRH6HvMKyw/hqdefault.jpg",
+      "publishedAt": "2026-03-27T19:58:47.000Z",
       "viewCount": 0
     },
     {
-      "id": "920ded17f36d3724",
-      "title": "Building Voice Agents with Gemini 3",
-      "url": "https://www.youtube.com/watch?v=XV5bhkDpL7U",
+      "id": "8b1aeee27d29b5e1",
+      "title": "AI Race With China Links Tech, Government Leaders",
+      "url": "https://www.youtube.com/watch?v=mLxOQqQNu04",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/mLxOQqQNu04/hqdefault.jpg",
+      "publishedAt": "2026-03-27T19:03:44.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ad91a35f0e40f78d",
+      "title": "Apple Goes Chatbot Agnostic in New AI Strategy",
+      "url": "https://www.youtube.com/watch?v=QkBoXJMchec",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/QkBoXJMchec/hqdefault.jpg",
+      "publishedAt": "2026-03-27T18:57:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6c7d89d4aff3948e",
+      "title": "Calls for National AI Regulation Grow",
+      "url": "https://www.youtube.com/watch?v=RnzWQrsuO9I",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/RnzWQrsuO9I/hqdefault.jpg",
+      "publishedAt": "2026-03-27T18:27:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "754d073caeb793b0",
+      "title": "Meta Funds Seven Gas Plants to Power Data Center",
+      "url": "https://www.youtube.com/watch?v=B1ntsFahiTA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/B1ntsFahiTA/hqdefault.jpg",
+      "publishedAt": "2026-03-27T18:15:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "17833b879e5f80d3",
+      "title": "Design your dream room by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/jM1oSEXssOE/hqdefault.jpg",
+      "publishedAt": "2026-03-27T17:27:04.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9ed4986de57c9899",
+      "title": "Automate Product Listings with Gemini + Vision Agents",
+      "url": "https://www.youtube.com/watch?v=8lA6bF2EnvA",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/XV5bhkDpL7U/hqdefault.jpg",
-      "publishedAt": "2026-03-26T15:47:08.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6f29e3e27680657c",
-      "title": "SpaceX Could File an IPO By End of the Week | Bloomberg Tech 3/25/2026",
-      "url": "https://www.youtube.com/watch?v=gw78eUuGDsw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/gw78eUuGDsw/hqdefault.jpg",
-      "publishedAt": "2026-03-25T19:29:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ddde92e6f0f59ab0",
-      "title": "Meta, Google Found Liable on Social Media Addiction",
-      "url": "https://www.youtube.com/watch?v=1MedL4k7YfE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/1MedL4k7YfE/hqdefault.jpg",
-      "publishedAt": "2026-03-25T18:37:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8lA6bF2EnvA/hqdefault.jpg",
+      "publishedAt": "2026-03-27T16:07:14.000Z",
       "viewCount": 0
     }
   ],
@@ -228,7 +228,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-26T02:30:24.000Z"
+      "updatedAt": "2026-03-27T02:31:43.000Z"
     },
     {
       "id": "8a95dd7d9a8078c5",
