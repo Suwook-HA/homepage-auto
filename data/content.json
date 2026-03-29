@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-28T02:10:46.455Z",
-  "projectsCheckedAt": "2026-03-28T02:10:46.455Z",
-  "projectsUpdatedAt": "2026-03-28T02:10:46.455Z",
+  "updatedAt": "2026-03-29T02:30:28.024Z",
+  "projectsCheckedAt": "2026-03-29T02:30:28.024Z",
+  "projectsUpdatedAt": "2026-03-29T02:30:28.024Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-28T02:10:46.455Z",
+    "checkedAt": "2026-03-29T02:30:28.024Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "4f78127714ae2f9a",
+      "title": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 - wowtale.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYlExNC1RbnMycmplallzc3NEcENhd0V2YWljaV9KZU96dkNqMUJXQlBWSDdkMXg5clpxQktITnZKSHpQQm9FSzltU1NpTTQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 wowtale.net",
+      "publishedAt": "2026-03-28T04:21:44.000Z",
+      "rank": 1
+    },
+    {
+      "id": "cf7b861367596250",
+      "title": "미래에셋 “DL이앤씨, SMR 표준화 첫발…원전 밸류체인 재진입 신호” - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFNkNLSGhwZmNsVWZlaThxaFNjQ0IzbGFVV1VaX1JZVnNJQW5Wc2I5U2tiU29NX0dOTGd6a3dzS2FPd0hva1hxZ2hVeVphUDRCZnpUVThGNWlnNU1FbDF4WjNzZjVreTNmUXlYYnBJRXM4UGfSAXdBVV95cUxPRGNiSUpVSHBldmJoTERyaFpPZ1NDanJxY0pOTjhTbkl6Tzd6S19XRGpkMTBWLWlyV3lIdkEzbWJwbkFTNjliQ2Eyb01relI5RnFlWWpSbTV1MVF6QVRBM28zcGpzU1VBeG1OeGpiZmFNbFQ5MktWYw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "미래에셋 “DL이앤씨, SMR 표준화 첫발…원전 밸류체인 재진입 신호” 핀포인트뉴스",
+      "publishedAt": "2026-03-28T02:38:27.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b7c8cc036d2e4c53",
+      "title": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 - Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORk5xZVJiVFN2SzJHNWZqejM4SWZNXzI5Z2kzVUVaVTBlLXo1LXYyV2doSXU1WmQzNkdrR3UxR2Z3QUoyc2xmOWdob2YzdzUtdFdUeDRyaW9pbzF4NXlZS0o2M3JDdkIycS0zYU9NdXVGdWVEUjJ6SDhZQUxaTTJqcW5JU0h2UQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 Snowflake",
+      "publishedAt": "2026-03-27T17:15:27.000Z",
+      "rank": 3
+    },
     {
       "id": "1f927967bd7b335c",
       "title": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality - 매거진한경",
@@ -49,7 +76,7 @@
       "source": "Google News: International Standardization",
       "summary": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality 매거진한경",
       "publishedAt": "2026-03-27T05:35:00.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "5f6676fe2257bdf6",
@@ -58,7 +85,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure KIPOST",
       "publishedAt": "2026-03-26T05:03:00.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "97d395e4195a86d7",
@@ -67,7 +94,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 매거진한경",
       "publishedAt": "2026-03-27T01:20:28.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "36699189bad80114",
@@ -76,7 +103,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "Exito Media Concepts Announces the 31st Global Edition of the Cyber Security Summit Australia 2026 KIPOST",
       "publishedAt": "2026-03-27T00:15:00.000Z",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "ca589eb0488e3a10",
@@ -85,33 +112,6 @@
       "source": "Google News: AI Data Quality",
       "summary": "[더벨]마음AI·국립공주대 피지컬AI 데이터팩토리 구축 mt.co.kr",
       "publishedAt": "2026-03-26T23:59:39.000Z",
-      "rank": 5
-    },
-    {
-      "id": "3cbe8dd98b4c55f7",
-      "title": "“75% of patients linked to family history… ‘Takhzyro’ enables preventive management of hereditary angioedema” - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zcngzRjBKS3JBT1JsZ21rczNIRVhhS0xjVDJrSFluVmtsYTR4a2taUDFqenpSWXRKY24tVzRfOGpmOHQ4R1BrZ2NLdDlaRWVfYnVJejZLcGVHVTZQUVdLRHpJdEdPRHFhWDZya9IBcEFVX3lxTFBXTkxINWRwVG5PWTNnTHdNd1dOMTJETjdhQ0EzcDVlaWc4YktKVU1FYkRrVjRlWENoaEdTdzZoRThKaEhybV9pY0xvNE9tWEZhM2ppX0dRSktVV2xIbFlQZ21xOVJYT3pXeXNEMW1KMWo?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "“75% of patients linked to family history… ‘Takhzyro’ enables preventive management of hereditary angioedema” 더바이오",
-      "publishedAt": "2026-03-26T08:05:36.000Z",
-      "rank": 6
-    },
-    {
-      "id": "fe1a7eb4d762ffda",
-      "title": "Flitto Signs MOU with Ho Chi Minh City University of Social Sciences and Humanities for AI Language Data and Talent Development - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MMUdLdVJRYXF0YVlUS1dlVU9JOEdLTVJmdkNDRjNHTTR4VFR2Z0RfWjU3SkVUYjVOTF9WSXBGMGJLNF9XUkVldlJKMTVFeVgyeXVj?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Flitto Signs MOU with Ho Chi Minh City University of Social Sciences and Humanities for AI Language Data and Talent Development 벤처스퀘어",
-      "publishedAt": "2026-03-26T03:38:48.000Z",
-      "rank": 7
-    },
-    {
-      "id": "574dcd788e90faf1",
-      "title": "플리토, 호치민시 인사대와 AI 언어 데이터·인력 양성 MOU 체결 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OTk5XZTJycWttNmFXbUpCZzJTVGxNclZsQm41NEhUY21HSjBEZDZENVlkemFVRkdCcTc4TEhpbHliTEtYVGFHNkRQZWVQYjQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "플리토, 호치민시 인사대와 AI 언어 데이터·인력 양성 MOU 체결 벤처스퀘어",
-      "publishedAt": "2026-03-26T03:29:24.000Z",
       "rank": 8
     }
   ],
@@ -211,6 +211,16 @@
   ],
   "projects": [
     {
+      "id": "061441375121732a",
+      "name": "homepage-auto",
+      "description": "Auto-updating personal homepage with profile management, tech content ranking, and Google Photos Picker integration",
+      "url": "https://github.com/Suwook-HA/homepage-auto",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-03-28T02:14:49.000Z"
+    },
+    {
       "id": "8fc328e75ace7570",
       "name": "etri-standards-dashboard",
       "description": "ETRI 표준화 현황 대시보드 — React + Vite + Tailwind + Zustand + Recharts",
@@ -219,16 +229,6 @@
       "forks": 1,
       "language": "JavaScript",
       "updatedAt": "2026-03-24T05:11:31.000Z"
-    },
-    {
-      "id": "061441375121732a",
-      "name": "homepage-auto",
-      "description": "Auto-updating personal homepage with profile management, tech content ranking, and Google Photos Picker integration",
-      "url": "https://github.com/Suwook-HA/homepage-auto",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-03-27T02:31:43.000Z"
     },
     {
       "id": "8a95dd7d9a8078c5",
