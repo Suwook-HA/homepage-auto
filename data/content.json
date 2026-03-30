@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-29T02:30:28.024Z",
-  "projectsCheckedAt": "2026-03-29T02:30:28.024Z",
-  "projectsUpdatedAt": "2026-03-29T02:30:28.024Z",
+  "updatedAt": "2026-03-30T02:33:08.232Z",
+  "projectsCheckedAt": "2026-03-30T02:33:08.232Z",
+  "projectsUpdatedAt": "2026-03-30T02:33:08.232Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,18 +38,45 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-29T02:30:28.024Z",
+    "checkedAt": "2026-03-30T02:33:08.232Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "4f78127714ae2f9a",
-      "title": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 - wowtale.net",
+      "id": "799d822086d30678",
+      "title": "K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05WEJicnFNQjVpNHdIeHY4eW1sdWJQV2NldjlTbEF0ODFwSlVGckVxaHJIU0o5Y0hzNURNcnpXTEFmYjU2RmEtMDFlQW4tZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성 전자신문",
+      "publishedAt": "2026-03-30T02:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "f5928b5acf83c1c2",
+      "title": "TTA, 'AI 보안' 표준화 전담 조직 신설…생성형·에이전틱 AI 대응 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ga0E1TkJzZENkLVgzLXdOZ195aHd6eThXNGJGUWk5cG1XZ2VyZFQ5dTZtLXJpdk16dDE1TlZYd202TTh6cmxNWlBTaTE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "TTA, 'AI 보안' 표준화 전담 조직 신설…생성형·에이전틱 AI 대응 아이뉴스24",
+      "publishedAt": "2026-03-30T00:22:10.000Z",
+      "rank": 2
+    },
+    {
+      "id": "57526464dbe3eecd",
+      "title": "[ICT광장] DX를 넘어 AX로 : 건축정보통신 설계·시공·감리의 데이터 혁명 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zc2hiaElQMGZqRFJ3ekhERDUwaExJZmVkb0Z4U00tYzlDSlVwTk0tRHVkRG1NX2JFc2JPeERsYWlDU01hT3VkS1lneDhiWEY4SDFVZUtWTHMxZmk1aGk0a3VRR2REUnlqYng0U9IBbEFVX3lxTE5zc2hiaElQMGZqRFJ3ekhERDUwaExJZmVkb0Z4U00tYzlDSlVwTk0tRHVkRG1NX2JFc2JPeERsYWlDU01hT3VkS1lneDhiWEY4SDFVZUtWTHMxZmk1aGk0a3VRR2REUnlqYng0Uw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[ICT광장] DX를 넘어 AX로 : 건축정보통신 설계·시공·감리의 데이터 혁명 정보통신신문",
+      "publishedAt": "2026-03-29T22:01:03.000Z",
+      "rank": 3
+    },
+    {
+      "id": "4493f47a2ae2acb7",
+      "title": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 - 와우테일",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYlExNC1RbnMycmplallzc3NEcENhd0V2YWljaV9KZU96dkNqMUJXQlBWSDdkMXg5clpxQktITnZKSHpQQm9FSzltU1NpTTQ?oc=5",
       "source": "Google News: Trustworthy AI",
-      "summary": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 wowtale.net",
+      "summary": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 와우테일",
       "publishedAt": "2026-03-28T04:21:44.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "cf7b861367596250",
@@ -58,16 +85,16 @@
       "source": "Google News: IT standardization",
       "summary": "미래에셋 “DL이앤씨, SMR 표준화 첫발…원전 밸류체인 재진입 신호” 핀포인트뉴스",
       "publishedAt": "2026-03-28T02:38:27.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
-      "id": "b7c8cc036d2e4c53",
-      "title": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 - Snowflake",
+      "id": "81de8afc50802c26",
+      "title": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 - Snowflake AI Data Cloud",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORk5xZVJiVFN2SzJHNWZqejM4SWZNXzI5Z2kzVUVaVTBlLXo1LXYyV2doSXU1WmQzNkdrR3UxR2Z3QUoyc2xmOWdob2YzdzUtdFdUeDRyaW9pbzF4NXlZS0o2M3JDdkIycS0zYU9NdXVGdWVEUjJ6SDhZQUxaTTJqcW5JU0h2UQ?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 Snowflake",
+      "summary": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 Snowflake AI Data Cloud",
       "publishedAt": "2026-03-27T17:15:27.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "1f927967bd7b335c",
@@ -76,7 +103,7 @@
       "source": "Google News: International Standardization",
       "summary": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality 매거진한경",
       "publishedAt": "2026-03-27T05:35:00.000Z",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "5f6676fe2257bdf6",
@@ -85,33 +112,6 @@
       "source": "Google News: Digital Transformation",
       "summary": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure KIPOST",
       "publishedAt": "2026-03-26T05:03:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "97d395e4195a86d7",
-      "title": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 - 매거진한경",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4weDU5S2FlcmR5RzVrZG5pVjZxZWJsV3dsdk5zZE1GT2NNMER0eW42Z0JVcEJQSDJLNmdnZ3ZGUHdOcmpzOTFPLUdIcFNteXgxUXg1a3NIN0p4bzF6WEZ0NmNCQVRvQQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "광주정보문화산업진흥원 창업도약패키지 수행기업 기업 내부 데이터 기반의 AI 분석 솔루션 개발하는 피비스 매거진한경",
-      "publishedAt": "2026-03-27T01:20:28.000Z",
-      "rank": 6
-    },
-    {
-      "id": "36699189bad80114",
-      "title": "Exito Media Concepts Announces the 31st Global Edition of the Cyber Security Summit Australia 2026 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84ZVZIU2NTT19HcG1hV3N3OGEzRG5QZlNjeWQxdkdVSlJQTVZSV25uQ09zclZDMEE0enpCUDVXVWtJclFOTERQaHh0MmxraERMWFZLVERlaEIzNWRjLWgweFh4dV9Qb0U3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Exito Media Concepts Announces the 31st Global Edition of the Cyber Security Summit Australia 2026 KIPOST",
-      "publishedAt": "2026-03-27T00:15:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "ca589eb0488e3a10",
-      "title": "[더벨]마음AI·국립공주대 피지컬AI 데이터팩토리 구축 - mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WZFF3N2Vub3ZtcWhxX3JjdVdxSGswNHVMWHc4Vjk0eERsaU9wd3prdlVvZFYydkNDUDQwekVLWUlkZE12d1ZyT1FyMmNXTjhNY0ZReFNvOU9BUEdHXzd5cVdMekdZckkt?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[더벨]마음AI·국립공주대 피지컬AI 데이터팩토리 구축 mt.co.kr",
-      "publishedAt": "2026-03-26T23:59:39.000Z",
       "rank": 8
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-28T02:14:49.000Z"
+      "updatedAt": "2026-03-29T02:34:30.000Z"
     },
     {
       "id": "8fc328e75ace7570",
