@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-30T02:33:08.232Z",
-  "projectsCheckedAt": "2026-03-30T02:33:08.232Z",
-  "projectsUpdatedAt": "2026-03-30T02:33:08.232Z",
+  "updatedAt": "2026-03-31T02:27:42.905Z",
+  "projectsCheckedAt": "2026-03-31T02:27:42.905Z",
+  "projectsUpdatedAt": "2026-03-31T02:27:42.905Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,84 +38,147 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-03-30T02:33:08.232Z",
+    "checkedAt": "2026-03-31T02:27:42.905Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "799d822086d30678",
-      "title": "K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05WEJicnFNQjVpNHdIeHY4eW1sdWJQV2NldjlTbEF0ODFwSlVGckVxaHJIU0o5Y0hzNURNcnpXTEFmYjU2RmEtMDFlQW4tZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성 전자신문",
-      "publishedAt": "2026-03-30T02:00:00.000Z",
+      "id": "e0ecf6ee37c97628",
+      "title": "Datastreams Says Data Governance and Data Fabric Will Determine Agent AI Reliability - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81UEQyS0VSRnpINk9JWE1IY1BGNEpXSk9hNlpvVXlSa0pPQ0taeEZJY0xHbHZNS05wYjNzZGhNY2Y0Rkdybm9mNGFfZGpRNTN3MVZrLUlHZnNnTDNHRDM3NUpmb1pZU0x1NWdVUFkwako?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Datastreams Says Data Governance and Data Fabric Will Determine Agent AI Reliability Korea IT Times",
+      "publishedAt": "2026-03-30T18:33:17.000Z",
       "rank": 1
     },
     {
-      "id": "f5928b5acf83c1c2",
-      "title": "TTA, 'AI 보안' 표준화 전담 조직 신설…생성형·에이전틱 AI 대응 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ga0E1TkJzZENkLVgzLXdOZ195aHd6eThXNGJGUWk5cG1XZ2VyZFQ5dTZtLXJpdk16dDE1TlZYd202TTh6cmxNWlBTaTE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "TTA, 'AI 보안' 표준화 전담 조직 신설…생성형·에이전틱 AI 대응 아이뉴스24",
-      "publishedAt": "2026-03-30T00:22:10.000Z",
+      "id": "8b84c4e0019d3ba7",
+      "title": "어플레이즈 공간 맞춤형 AI 사운드 큐레이션 기술, KTR ‘인공지능 마크’ 인증 획득 - 테크월드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MZklnX2ZDMWlwcGc3TkF6WVpPZF9pR1ViWkZOTGRYRjJWS0NJN3lsNHhCNGxPb3F2WXVfamQ3WEVFYWFvYWdUWm12QjdUREt1dGRpMzhlZUtqcVU3SEVTQWVleHVNZUpv?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "어플레이즈 공간 맞춤형 AI 사운드 큐레이션 기술, KTR ‘인공지능 마크’ 인증 획득 테크월드뉴스",
+      "publishedAt": "2026-03-31T01:30:00.000Z",
       "rank": 2
     },
     {
-      "id": "57526464dbe3eecd",
-      "title": "[ICT광장] DX를 넘어 AX로 : 건축정보통신 설계·시공·감리의 데이터 혁명 - 정보통신신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zc2hiaElQMGZqRFJ3ekhERDUwaExJZmVkb0Z4U00tYzlDSlVwTk0tRHVkRG1NX2JFc2JPeERsYWlDU01hT3VkS1lneDhiWEY4SDFVZUtWTHMxZmk1aGk0a3VRR2REUnlqYng0U9IBbEFVX3lxTE5zc2hiaElQMGZqRFJ3ekhERDUwaExJZmVkb0Z4U00tYzlDSlVwTk0tRHVkRG1NX2JFc2JPeERsYWlDU01hT3VkS1lneDhiWEY4SDFVZUtWTHMxZmk1aGk0a3VRR2REUnlqYng0Uw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[ICT광장] DX를 넘어 AX로 : 건축정보통신 설계·시공·감리의 데이터 혁명 정보통신신문",
-      "publishedAt": "2026-03-29T22:01:03.000Z",
+      "id": "3a90a186414ea7cc",
+      "title": "벡터, ‘벡터캐스트 2026’에 AI 기반 테스트 자동화 도구 ‘Reqs2x’ 추가 - 디지털경제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1T0hXNk4zTU15bFh4S005MTltbzRmVUl4eUozWkljRTdDcGItME1CN3JlQ2gyamUycXJlWUM4cmh5U1ZMUTVaNWlKUTJucWFlYldxa0RwU1VwbXU5UVJ2M1JMRnh5ZlNBaWc?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "벡터, ‘벡터캐스트 2026’에 AI 기반 테스트 자동화 도구 ‘Reqs2x’ 추가 디지털경제뉴스",
+      "publishedAt": "2026-03-31T00:24:40.000Z",
       "rank": 3
     },
     {
-      "id": "4493f47a2ae2acb7",
-      "title": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 - 와우테일",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqYlExNC1RbnMycmplallzc3NEcENhd0V2YWljaV9KZU96dkNqMUJXQlBWSDdkMXg5clpxQktITnZKSHpQQm9FSzltU1NpTTQ?oc=5",
+      "id": "b9515480273e28e7",
+      "title": "'AI 결과 조작' 백도어 공격, 해법 찾았다 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10ZVJUd2dVR044bG9CNXJXOEFMelFfUUxNRWV5MFlVQ2V6dG9Xdlh6cW1RUkt5VUFIemtiWWVLS1VXMmd2LWZhbThTUk9JUnNvMzBvOVY2NEpteXJqZ084VnBYTVhYT3ZlQmZWcFZVRTRoVnR0UHRRYg?oc=5",
       "source": "Google News: Trustworthy AI",
-      "summary": "병원용 AI 운영체제 퀄리파이드 헬스, 1억 2,500만 달러 유치…미 병원 수익 7% 커버 와우테일",
-      "publishedAt": "2026-03-28T04:21:44.000Z",
+      "summary": "'AI 결과 조작' 백도어 공격, 해법 찾았다 네이트",
+      "publishedAt": "2026-03-30T21:31:00.000Z",
       "rank": 4
     },
     {
-      "id": "cf7b861367596250",
-      "title": "미래에셋 “DL이앤씨, SMR 표준화 첫발…원전 밸류체인 재진입 신호” - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFNkNLSGhwZmNsVWZlaThxaFNjQ0IzbGFVV1VaX1JZVnNJQW5Wc2I5U2tiU29NX0dOTGd6a3dzS2FPd0hva1hxZ2hVeVphUDRCZnpUVThGNWlnNU1FbDF4WjNzZjVreTNmUXlYYnBJRXM4UGfSAXdBVV95cUxPRGNiSUpVSHBldmJoTERyaFpPZ1NDanJxY0pOTjhTbkl6Tzd6S19XRGpkMTBWLWlyV3lIdkEzbWJwbkFTNjliQ2Eyb01relI5RnFlWWpSbTV1MVF6QVRBM28zcGpzU1VBeG1OeGpiZmFNbFQ5MktWYw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "미래에셋 “DL이앤씨, SMR 표준화 첫발…원전 밸류체인 재진입 신호” 핀포인트뉴스",
-      "publishedAt": "2026-03-28T02:38:27.000Z",
+      "id": "77c7a5958e7104ba",
+      "title": "벡터, AI 기반 요구사항 맞춤 소프트웨어 테스트 자동화 플랫폼 ‘벡터캐스트 2026’ 발표 - 올포칩",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXcGJEVlZ3dXI2a1dmMU1majNoM05PYmhFN0JIY0xZQzBfV3U3YXF2ajNoR0FteWc1RzlKZUZsekxUcXVaQW1lV0ZWRHNYZ2U4QUdGcHY2MGZZbEh3SDRYX3NiVDBzQQ?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "벡터, AI 기반 요구사항 맞춤 소프트웨어 테스트 자동화 플랫폼 ‘벡터캐스트 2026’ 발표 올포칩",
+      "publishedAt": "2026-03-30T20:26:53.000Z",
       "rank": 5
     },
     {
-      "id": "81de8afc50802c26",
-      "title": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 - Snowflake AI Data Cloud",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORk5xZVJiVFN2SzJHNWZqejM4SWZNXzI5Z2kzVUVaVTBlLXo1LXYyV2doSXU1WmQzNkdrR3UxR2Z3QUoyc2xmOWdob2YzdzUtdFdUeDRyaW9pbzF4NXlZS0o2M3JDdkIycS0zYU9NdXVGdWVEUjJ6SDhZQUxaTTJqcW5JU0h2UQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "차세대 데이터 엔지니어링: Dynamic Table과 데이터 구축 방식을 변혁할 5가지 기능 Snowflake AI Data Cloud",
-      "publishedAt": "2026-03-27T17:15:27.000Z",
+      "id": "8ebc8176580b580b",
+      "title": "6G포럼, '6G 기술 워크숍: Hyper AI 6G and 3GPP Standard Outlook' 개최 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zM0d3UUpVN3lSOEJxbTJuaERKeVQxUUxMWXZEMnRVdHM0NGlfRTdVY1NZSVpDYlRFWTRIYVpMSEhYd202ZUFGT3h4ampmSzE0czFV?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "6G포럼, '6G 기술 워크숍: Hyper AI 6G and 3GPP Standard Outlook' 개최 전자신문",
+      "publishedAt": "2026-03-30T08:06:00.000Z",
       "rank": 6
     },
     {
-      "id": "1f927967bd7b335c",
-      "title": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality - 매거진한경",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dDBqWHRWbE4taEhjWklYemdXZ0NXTElTZFV5SUlFUElIV3RQcTJUQm5MQmFrRmxGU3ZkV2NQbno0VXBtbkdoa2ZfRGFGVVlOeXhBY2ExUlhtLTg0TjhuQnROUWx5TDdyRGtv?oc=5",
+      "id": "a73632ccc8fc49c6",
+      "title": "International-standard RC car track opens in Songdo, Incheon - 경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01QUdZRm1EYnhMMFhzcU43ckFQSWlmRzNuT0RwWHE5Qkdhc0xLclNheUI5YS1Kc0YxNEdBRnBCS2hsVnpGa052MEY5bW55MjhMV25Ua1FJektLZENla0lfWjdPa0rSAWhBVV95cUxPeFNJbXhFbXlSY2Z2ZUJIMWQ1MzZfT2Zwd29ZYVZBRU1tbWppa09XdU54d05HZE1pMVdqc3JnMm40ci1vellES2lxWHJJeTJDRnhSbjJRVm9oZkpnYVljd1FQNHUxZE5mSQ?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "[CEOs of Companies Selected for the Bucheon Industry Promotion Agency’s Startup Scale-Up Package] AENTS, a B2B SaaS developer supporting corporate carbon neutrality 매거진한경",
-      "publishedAt": "2026-03-27T05:35:00.000Z",
+      "summary": "International-standard RC car track opens in Songdo, Incheon 경인방송 뉴스",
+      "publishedAt": "2026-03-30T04:53:28.000Z",
       "rank": 7
     },
     {
-      "id": "5f6676fe2257bdf6",
-      "title": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EX0E0LVdWNWpCWWNRSzQtTzNWQW84b2cwUlBIT2hONTNfdWo4bFJGcllPUXM3Sm9jZ0xJemlEVmZfR3EzMGE4bzhzUzh3ZElWWVpVUWtfWmdvZTRnWFBNZVhYeTVSMTQ10gFsQVVfeXFMUGtXYlpjZnJDdlJuWDB4OVJmOUVQRTNaQ19vTU4wenUzeS1KNWNBcENKSG91VUdiQ0lhcURnV00teTdjNk81eTRCdmg0MldLTFVzTU5vcE1XOEVSc0hSWWMwbUoxQVlHZ211ZG1T?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Huawei Cloud Supports Humanica's Digital Transformation with Reliable and Scalable Cloud Infrastructure KIPOST",
-      "publishedAt": "2026-03-26T05:03:00.000Z",
+      "id": "28a2d8f4f4ad9131",
+      "title": "[커피] 베트남 로부스타 커피, 양(量)에서 가치(價)로의 대전환이 필요 - 굿모닝베트남미디어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sR3pHQjZfVmNsWnBBMUczQURtWkRRaWY2Y3R1M0FWYkg4VDFKTFkwa1RnLWhNUmVPZ0dMd0dkVHE4X1lEWWZqWlFGUmdhWVhSQkZDWWI3SVg4WDdhYTFETzdBN09STTd2WUJUNDhnaE0?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "[커피] 베트남 로부스타 커피, 양(量)에서 가치(價)로의 대전환이 필요 굿모닝베트남미디어",
+      "publishedAt": "2026-03-30T12:38:04.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "08ccd5143d5e07c6",
+      "title": "Google AI Studio's new full-stack vibe coding experience",
+      "url": "https://www.youtube.com/watch?v=gJYZE9UXiHk",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/gJYZE9UXiHk/hqdefault.jpg",
+      "publishedAt": "2026-03-30T22:09:21.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "edad8a0dfe208319",
+      "title": "Big Tech Selloff May Signal Turning Point | Bloomberg Tech 3/30/2026",
+      "url": "https://www.youtube.com/watch?v=R2eiGRdYD3Y",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/R2eiGRdYD3Y/hqdefault.jpg",
+      "publishedAt": "2026-03-30T20:41:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4dca1849738b9b37",
+      "title": "Is Big Tech’s Rough Patch at a Turning Point?",
+      "url": "https://www.youtube.com/watch?v=zDTxOdh_lm0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/zDTxOdh_lm0/hqdefault.jpg",
+      "publishedAt": "2026-03-30T20:02:58.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ffd172a6354a5f24",
+      "title": "ADK for Java 1.0 is now available!",
+      "url": "https://www.youtube.com/watch?v=YqABMjSho_M",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/YqABMjSho_M/hqdefault.jpg",
+      "publishedAt": "2026-03-30T19:02:57.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f1ced88c81379a59",
+      "title": "Prototype to Production with ADK",
+      "url": "https://www.youtube.com/watch?v=jDCkirAz4-E",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/jDCkirAz4-E/hqdefault.jpg",
+      "publishedAt": "2026-03-30T19:00:00.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "19231b0dcf6edc54",
+      "title": "Why NASA Is Spending Billions to Get Back to the Moon",
+      "url": "https://www.youtube.com/watch?v=f3-86PynWJY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/f3-86PynWJY/hqdefault.jpg",
+      "publishedAt": "2026-03-30T16:34:56.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "99869fe97c2f460f",
+      "title": "Personalize marketing campaigns with data-connected AI powered by Sortment on Google Cloud",
+      "url": "https://www.youtube.com/watch?v=VdZ90ig5770",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/VdZ90ig5770/hqdefault.jpg",
+      "publishedAt": "2026-03-30T13:00:00.000Z",
+      "viewCount": 0
+    },
     {
       "id": "7020f96e65b2c2d0",
       "title": "Find the perfect gift by shopping with ChatGPT",
@@ -123,69 +186,6 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg",
       "publishedAt": "2026-03-27T20:55:13.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "648fcf8eb745204f",
-      "title": "Meta Funds Gas Plants to Power Mega Louisiana Data Center | Bloomberg Tech 3/27/2026",
-      "url": "https://www.youtube.com/watch?v=5zRH6HvMKyw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/5zRH6HvMKyw/hqdefault.jpg",
-      "publishedAt": "2026-03-27T19:58:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "8b1aeee27d29b5e1",
-      "title": "AI Race With China Links Tech, Government Leaders",
-      "url": "https://www.youtube.com/watch?v=mLxOQqQNu04",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/mLxOQqQNu04/hqdefault.jpg",
-      "publishedAt": "2026-03-27T19:03:44.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ad91a35f0e40f78d",
-      "title": "Apple Goes Chatbot Agnostic in New AI Strategy",
-      "url": "https://www.youtube.com/watch?v=QkBoXJMchec",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/QkBoXJMchec/hqdefault.jpg",
-      "publishedAt": "2026-03-27T18:57:54.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6c7d89d4aff3948e",
-      "title": "Calls for National AI Regulation Grow",
-      "url": "https://www.youtube.com/watch?v=RnzWQrsuO9I",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RnzWQrsuO9I/hqdefault.jpg",
-      "publishedAt": "2026-03-27T18:27:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "754d073caeb793b0",
-      "title": "Meta Funds Seven Gas Plants to Power Data Center",
-      "url": "https://www.youtube.com/watch?v=B1ntsFahiTA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/B1ntsFahiTA/hqdefault.jpg",
-      "publishedAt": "2026-03-27T18:15:36.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "17833b879e5f80d3",
-      "title": "Design your dream room by shopping with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/jM1oSEXssOE/hqdefault.jpg",
-      "publishedAt": "2026-03-27T17:27:04.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9ed4986de57c9899",
-      "title": "Automate Product Listings with Gemini + Vision Agents",
-      "url": "https://www.youtube.com/watch?v=8lA6bF2EnvA",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/8lA6bF2EnvA/hqdefault.jpg",
-      "publishedAt": "2026-03-27T16:07:14.000Z",
       "viewCount": 0
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-03-29T02:34:30.000Z"
+      "updatedAt": "2026-03-30T02:37:11.000Z"
     },
     {
       "id": "8fc328e75ace7570",
