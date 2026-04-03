@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-02T02:24:51.886Z",
-  "projectsCheckedAt": "2026-04-02T02:24:51.886Z",
-  "projectsUpdatedAt": "2026-04-02T02:24:51.886Z",
+  "updatedAt": "2026-04-03T02:26:14.312Z",
+  "projectsCheckedAt": "2026-04-03T02:26:14.312Z",
+  "projectsUpdatedAt": "2026-04-03T02:26:14.312Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,154 +38,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-02T02:24:51.886Z",
+    "checkedAt": "2026-04-03T02:26:14.312Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "ba31e8127c7ad55f",
-      "title": "[칼럼] 디지털 전환을 넘어 AI 전환으로 : 기업의 존재 방식을 재정의하는 시대 - 캐드앤그래픽스",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzNQdlRPaWNLMzdiT01JaFVfQXdVLU1ESGhhTVQ2Y3lZWUhLSXN2U2dXelozLTFBM3Z5VXota3VWa0hVLWlnRmNqTWFoSzhoUmhmRlB1cHNweTBQdHNBdGE4UEE3clUwemhDN0xoelozN0RvRDdMOWFIbVZGU3ZPSFk5elFlTTE4TjFISkFB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[칼럼] 디지털 전환을 넘어 AI 전환으로 : 기업의 존재 방식을 재정의하는 시대 캐드앤그래픽스",
-      "publishedAt": "2026-04-02T01:09:28.000Z",
+      "id": "57c370c577ac35e8",
+      "title": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XRUVZZVZwYmZwcHp6NHdQU0pMOThZYW1xemdmSWZBRTIxV191WHNUQVQ0TmhLNkQxMHBvZDRTN2lBemVwdVRiSnJVSk9NbmNoYzJzdDltdkx2MHVQcEV6QXR4cFFuZ2ktVEd4SGRGTktfaW1oUUh3?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 한국경제TV",
+      "publishedAt": "2026-04-02T05:41:00.000Z",
       "rank": 1
     },
     {
-      "id": "d427993516cf9647",
-      "title": "LG Uplus, LG Electronics Partner on AI-Driven 6G Technologies - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mRTZOTVR6NTB2WTAzT2VGbEE5ZnNzcU1LMWlyQjN0WWRvVHR3YmNlemRHTEI0SFQ1Yi1CVG5pRGpEMmhtNkRfM1NHendVSnhDMEZLVEI5YjhCUmUtXy1uQ1Zaa3Z6NTZnbGpHclJJVEc?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "LG Uplus, LG Electronics Partner on AI-Driven 6G Technologies Korea IT Times",
-      "publishedAt": "2026-04-02T01:07:53.000Z",
+      "id": "63b8681b7fc4adc3",
+      "title": "\"AI로 가치 창출하는 기업 7%...기술보다 운영이 관건\" - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EeE5oS2RKUVROMmtiMGk3bmJSUmItM09XYXBCamEyQ2VOTnpZZE1GcFlhUlR3NUx0VFpDV3IwLW10eTZBcWlOWi1KdW84Tm1BM1lJRUhmZVN0NGI1Vk53RmJubXpPaVV0RGVCeEFBci12ZzA?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"AI로 가치 창출하는 기업 7%...기술보다 운영이 관건\" 디지털투데이",
+      "publishedAt": "2026-04-03T01:06:29.000Z",
       "rank": 2
     },
     {
-      "id": "9d6922946ecf7174",
-      "title": "롯데, 김민수 전무 인재개발원장 선임…AI 혁신 강화 - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2QUhRZkpFemU1ZmJyVWtjVWpZWHB5ckdpM2VZakZjay03bHF3a1BOVTJrQnVOMDFwY0hadm5NSXM4Vkl0RGFtOEdvTzN0UXJxTHdKN1NtVHBtSlhhdmdQZUwzODZnUlZFU2JqZzk1YVZjY28td0ZlUNIBeEFVX3lxTFB2QUhRZkpFemU1ZmJyVWtjVWpZWHB5ckdpM2VZakZjay03bHF3a1BOVTJrQnVOMDFwY0hadm5NSXM4Vkl0RGFtOEdvTzN0UXJxTHdKN1NtVHBtSlhhdmdQZUwzODZnUlZFU2JqZzk1YVZjY28td0ZlUA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "롯데, 김민수 전무 인재개발원장 선임…AI 혁신 강화 newsis.com",
-      "publishedAt": "2026-04-02T00:10:03.000Z",
+      "id": "cf32b5306a34689a",
+      "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다 - itworld.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSmdOMlNaSU9nU3R2ZUVILUFRQjVNNlhyYTZfVXg5MUdRWm9kcHV3ZzNsYnpsbjVnR296Zlh5RVp1QnROZ3ktYllza2FVN1NDa1c5STBzRkdyWDBDWkIxanlwZktMMHZyT2k3LUM5bHhfeHVaQTFTeWVqUmgyYWV6QjAxQ0pvd0xxM2ZFSjNTMnU3bFZjVjdjb2lCRXQ0Vl94VnRmVkhDVk55VHNWVWNublhScHJheVdGV3JKLXdyYTkyMl9TOGlhdjE2VnExUEVJb1dJMFJTUW4xeW9vT3lHZnJqNXhvNXdLSmVBYUJlTGlnTFNCSUFXTkp3ZS05cTl1ZmZTMUFsQWlIbjh0eUJvR0F1dGh1anE0WTlGaDFRR0lOeEJTZHlqcFRkNkVSSG55MFZFcnp6MTl3cXhaeG5ad0ZCTDg2dlZKYlBUNWprc2RUcnViX1o5aktwc3J4OVlXNHBn?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다 itworld.co.kr",
+      "publishedAt": "2026-04-03T01:00:25.000Z",
       "rank": 3
     },
     {
-      "id": "7ed8ad439368948e",
-      "title": "Global AI Forum for Human Co-Prosperity (GAFH 2026) to Be Held in Seoul - newscj.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvSjVaZ09ISVlNVTR4YW10VklWQ1d3V3J2YmVici1DcnB6YXpET0NvWS1OTEd5STk1SlR2TVBsTWdaYUludW8zTzBvLXp3Mkttb1F2MUlFSUxyUkVrSVdDS3ZaSms5bVh6MEE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Global AI Forum for Human Co-Prosperity (GAFH 2026) to Be Held in Seoul newscj.com",
-      "publishedAt": "2026-04-01T23:05:00.000Z",
+      "id": "0e878604c3ebba38",
+      "title": "한국수자원공사 2025년 공공데이터 평가 ‘최고등급’ 받아 - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2WGE1ektWTXlTdTg4a011OWVPdmZnN1RRaVB6UUZMTGtpNjFDTkxXNVFQZkJKYjdwXzZnRE5YcW4wZjRkYWRMZzFzTkRPNVRScmZHd1AtTElvTTdISS1RMw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "한국수자원공사 2025년 공공데이터 평가 ‘최고등급’ 받아 news1.kr",
+      "publishedAt": "2026-04-03T00:00:51.000Z",
       "rank": 4
     },
     {
-      "id": "c18d00676ef2c26c",
-      "title": "글로벌 인류공영 AI 포럼 GAFH 2026 서울서 개최 - newscj.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTW9SQXlWS2tiSzE4Yk9GVkpEQ1owQTNEcXlKVTVtTUFJRjZ2OHZvMVVYQUxqUU91Wm9aUnlLV3REMG9YTFZMbk5SNmxEdzdNRkFfRWVhQS12RjhVcE9EdUtyQWFYckxkcWc?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "글로벌 인류공영 AI 포럼 GAFH 2026 서울서 개최 newscj.com",
-      "publishedAt": "2026-04-01T23:05:00.000Z",
+      "id": "de6b81b56b88a387",
+      "title": "한국수자원공사, 공공데이터·데이터행정 평가 ‘매우 우수’ - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKU00tUWd5b1dORkxUakR6UzRRaGY0VFhWcFpGTWJzZTIySXRYQVlKQXBjelV2dHAwNnNXTFFoeFF6ejdmMzVOeklwMTBmRWxseWNKV0xYaTRKN0dYbWZKNw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "한국수자원공사, 공공데이터·데이터행정 평가 ‘매우 우수’ news1.kr",
+      "publishedAt": "2026-04-02T23:54:56.000Z",
       "rank": 5
     },
     {
-      "id": "6ec62b5c168a3013",
-      "title": "Dr. Noelah Mae Borbon: Advancing Global Standards in Hospitality Education and Research - 강원경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9QVkM2NWJwQnNHdmJOdm5FNjUwZUV1UThXdmRfcnE1T09nNmREVU0zNU5Qa2xUUWN1REpkblVn?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Dr. Noelah Mae Borbon: Advancing Global Standards in Hospitality Education and Research 강원경제신문",
-      "publishedAt": "2026-04-01T06:08:00.000Z",
+      "id": "6573ac9888449256",
+      "title": "한세모빌리티, AI 교육·아이디어 대회… 디지털 전환 박차 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5RkZkLTNHbTZreWR4SVZwUGEtTHh3SFZ1VmVLck80dThMeGE0aGo3M19mQkVZSmtZdVJhbmtialJCNzh4cnhlMUZjS0VwWDNLTEwyaGZB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한세모빌리티, AI 교육·아이디어 대회… 디지털 전환 박차 중앙일보",
+      "publishedAt": "2026-04-02T06:12:00.000Z",
       "rank": 6
     },
     {
-      "id": "084a2d28ef3a61bb",
-      "title": "AI 기술기업 지향하는 한세모빌리티 - 월간중앙",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11RjFXWU9JbnpnbkJqbzE3NjhCNFZzODgxUmlha21qNDYtMElMZnV2M3pacFZlMVU3VHBMb1RqMV9LUUZaTE5sMmpxOWlBeVhFd1gxRXNNV0JBTjRTMEctR0VVLVdhX3FkODg4cUhB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "AI 기술기업 지향하는 한세모빌리티 월간중앙",
-      "publishedAt": "2026-04-01T07:29:03.000Z",
+      "id": "1ef0ad09a5b8ee70",
+      "title": "From China's Market Leader to Global Partner: Xiaodu AI Hotel Solutions Expands into Southeast Asia - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNmh0NjYyUGhxOEQxUU9sVHNoUWdRY0NhN002RlhveTRJVGU5Z3BpQU1OLVVIdWJld0FPVWhRNjkwaHU4MWVnNklBZG9ERVctaXNmYUFKUVR2THlMUW96NXpuS3c1aWNFa0ZraQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "From China's Market Leader to Global Partner: Xiaodu AI Hotel Solutions Expands into Southeast Asia IT비즈뉴스",
+      "publishedAt": "2026-04-02T04:00:00.000Z",
       "rank": 7
     },
     {
-      "id": "6ce832d31b103bc9",
-      "title": "도로교통공단, 공공데이터·데이터행정 평가 동시 최고등급 - breaknews.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mUmx5WGh3YlRPbDhYLW1JZXV1NTgwTWJNb1YtNDl0RExiNGNuZF9lSUQ0eWE4bW5yWjRKZWRTVnltWFBoSUN0Wg?oc=5",
+      "id": "919e398961217238",
+      "title": "대한인공지능치의학회- 지능형 워크플로우(Intelligent Workflow)가 설계하는 치과의 미래 - 덴탈아리랑",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HOU9UNTRwY2ZiaXFqMXZCSW9vZWxFR0QzN2tEWEpGcU5VMUVwcjBNSFZXNDVwS3hlcHMyVnN0c2Ryb3drSy1NTF9LS1N5UXIzRlB2Y2VRSzgyd3lnYkJldDRMaGxhdXk0bWVOVEhVWQ?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "도로교통공단, 공공데이터·데이터행정 평가 동시 최고등급 breaknews.com",
-      "publishedAt": "2026-04-01T07:27:20.000Z",
+      "summary": "대한인공지능치의학회- 지능형 워크플로우(Intelligent Workflow)가 설계하는 치과의 미래 덴탈아리랑",
+      "publishedAt": "2026-04-02T03:26:01.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "ef5f84febb358561",
-      "title": "Step inside Google’s new Center of Excellence in Clarksville, Tennessee",
-      "url": "https://www.youtube.com/watch?v=FO0-rIlbpao",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/FO0-rIlbpao/hqdefault.jpg",
-      "publishedAt": "2026-04-01T20:14:52.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "fe3098fb7a2a283c",
-      "title": "OpenAI Tops $850 Billion Valuation | Bloomberg Tech 4/1/2026",
-      "url": "https://www.youtube.com/watch?v=RiOKUg-JAPU",
+      "id": "4588b6ca82cf0ef1",
+      "title": "Tesla’s Sales Miss, Next Stage of NASA’s Moon Mission | Bloomberg Tech 4/2/2026",
+      "url": "https://www.youtube.com/watch?v=7M2OoTFMlBQ",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RiOKUg-JAPU/hqdefault.jpg",
-      "publishedAt": "2026-04-01T19:01:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7M2OoTFMlBQ/hqdefault.jpg",
+      "publishedAt": "2026-04-02T21:50:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "b25de62bf0fcb007",
-      "title": "US Needs to Invest More in AI Buildout, Says Cato’s Frazier",
-      "url": "https://www.youtube.com/watch?v=Jqip00bbabQ",
+      "id": "a449906aa00bffa1",
+      "title": "AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4",
+      "url": "https://www.youtube.com/watch?v=6yjJ7Prt-RI",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/6yjJ7Prt-RI/hqdefault.jpg",
+      "publishedAt": "2026-04-02T19:01:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a32e12a1f59c29e5",
+      "title": "AI Needs to Be Controlled Properly: Kyndryl CEO",
+      "url": "https://www.youtube.com/watch?v=ouLae74OJ6A",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Jqip00bbabQ/hqdefault.jpg",
-      "publishedAt": "2026-04-01T18:06:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ouLae74OJ6A/hqdefault.jpg",
+      "publishedAt": "2026-04-02T18:52:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "83fdad5ed3b9a4ea",
-      "title": "NASA Artemis II Is Part of the Latest Space Race",
-      "url": "https://www.youtube.com/watch?v=NQaJi6nOgrI",
+      "id": "33435c17a183971f",
+      "title": "Tesla Vehicle Sales Miss Expectations Again",
+      "url": "https://www.youtube.com/watch?v=zZD4qE3zhQE",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/NQaJi6nOgrI/hqdefault.jpg",
-      "publishedAt": "2026-04-01T18:03:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zZD4qE3zhQE/hqdefault.jpg",
+      "publishedAt": "2026-04-02T18:46:43.000Z",
       "viewCount": 0
     },
     {
-      "id": "997acb0d4b27b5eb",
-      "title": "The new competition for your cap table | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=ob0UWNeVx7E",
+      "id": "de05b05e042528c2",
+      "title": "Chime Aims to Move Upmarket With New Accounts",
+      "url": "https://www.youtube.com/watch?v=0oh_kKTvvrc",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/0oh_kKTvvrc/hqdefault.jpg",
+      "publishedAt": "2026-04-02T18:43:55.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "0454b72f42e11ef6",
+      "title": "What’s new in Gemma 4",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/jZVBoFOJK-Q/hqdefault.jpg",
+      "publishedAt": "2026-04-02T16:06:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f7d585e29173380c",
+      "title": "A diverse team will make your startup more successful with Leah Solivan, Taskrabbit l Build Mode",
+      "url": "https://www.youtube.com/watch?v=mEQC0AwhxuQ",
       "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/ob0UWNeVx7E/hqdefault.jpg",
-      "publishedAt": "2026-04-01T17:58:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mEQC0AwhxuQ/hqdefault.jpg",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "5212c9ed6bbf7618",
-      "title": "AI Attacks Outpace Human Defenses, Warns Cyber Expert",
-      "url": "https://www.youtube.com/watch?v=RWE375fSVbY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RWE375fSVbY/hqdefault.jpg",
-      "publishedAt": "2026-04-01T17:50:06.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "886cd7002c2bf509",
-      "title": "Engineering the Next Era of Agentic AI (with Publicis Sapient)",
-      "url": "https://www.youtube.com/watch?v=cpjh22CAEkg",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/cpjh22CAEkg/hqdefault.jpg",
-      "publishedAt": "2026-04-01T16:16:37.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f2608c43ae86af5a",
-      "title": "SpaceX Said to File Confidentially for Biggest-Ever IPO",
-      "url": "https://www.youtube.com/watch?v=EC7YT-DdrAI",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EC7YT-DdrAI/hqdefault.jpg",
-      "publishedAt": "2026-04-01T16:07:59.000Z",
+      "id": "d67710ae841faeb7",
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg",
+      "publishedAt": "2026-04-01T21:12:13.000Z",
       "viewCount": 0
     }
   ],
@@ -211,14 +211,14 @@
   ],
   "projects": [
     {
-      "id": "9fa29fa3d681cced",
-      "name": "etri-doc2pdf",
-      "description": "ETRI 표준체계 및 선도전략 DOCX → 출판물 PDF 자동 변환기",
-      "url": "https://github.com/Suwook-HA/etri-doc2pdf",
+      "id": "b18fde5f1219bce6",
+      "name": "docx-object-to-image",
+      "description": "DOCX 파일의 차트·그룹 도형 오브젝트를 PNG 이미지로 변환하는 Python 스크립트",
+      "url": "https://github.com/Suwook-HA/docx-object-to-image",
       "stars": 0,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-04-01T23:37:21.000Z"
+      "updatedAt": "2026-04-03T00:26:26.000Z"
     },
     {
       "id": "061441375121732a",
@@ -228,7 +228,17 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-01T02:42:51.000Z"
+      "updatedAt": "2026-04-02T02:28:54.000Z"
+    },
+    {
+      "id": "9fa29fa3d681cced",
+      "name": "etri-doc2pdf",
+      "description": "ETRI 표준체계 및 선도전략 DOCX → 출판물 PDF 자동 변환기",
+      "url": "https://github.com/Suwook-HA/etri-doc2pdf",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-04-01T23:37:21.000Z"
     },
     {
       "id": "8fc328e75ace7570",
