@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-03T02:26:14.312Z",
-  "projectsCheckedAt": "2026-04-03T02:26:14.312Z",
-  "projectsUpdatedAt": "2026-04-03T02:26:14.312Z",
+  "updatedAt": "2026-04-04T02:10:42.018Z",
+  "projectsCheckedAt": "2026-04-04T02:10:42.018Z",
+  "projectsUpdatedAt": "2026-04-04T02:10:42.018Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,84 +38,111 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-03T02:26:14.312Z",
+    "checkedAt": "2026-04-04T02:10:42.018Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "57c370c577ac35e8",
-      "title": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 - 한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XRUVZZVZwYmZwcHp6NHdQU0pMOThZYW1xemdmSWZBRTIxV191WHNUQVQ0TmhLNkQxMHBvZDRTN2lBemVwdVRiSnJVSk9NbmNoYzJzdDltdkx2MHVQcEV6QXR4cFFuZ2ktVEd4SGRGTktfaW1oUUh3?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 한국경제TV",
-      "publishedAt": "2026-04-02T05:41:00.000Z",
+      "id": "ee581edeb7410362",
+      "title": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PcGM5Zm9iN0VLOTR2eHZIckU2aHlrOHhkcExMUGVCVHJtSXB6Qy1sbWVhakwyUWp5MmIwUF9UQk52ODlzLWc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 beSUCCESS",
+      "publishedAt": "2026-04-03T06:44:14.000Z",
       "rank": 1
     },
     {
-      "id": "63b8681b7fc4adc3",
-      "title": "\"AI로 가치 창출하는 기업 7%...기술보다 운영이 관건\" - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EeE5oS2RKUVROMmtiMGk3bmJSUmItM09XYXBCamEyQ2VOTnpZZE1GcFlhUlR3NUx0VFpDV3IwLW10eTZBcWlOWi1KdW84Tm1BM1lJRUhmZVN0NGI1Vk53RmJubXpPaVV0RGVCeEFBci12ZzA?oc=5",
+      "id": "8f0e3c3d08599d9a",
+      "title": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JSGpacUR3aGhqbTFOcHFpNzkxYWVTbXo4WUJMZWlyVjVyekIxaXI3N3N6cndpTUhqRWU4TUhjb2ZNdUJfUlpZOGZuNTVEMXl5cURObjJR?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "\"AI로 가치 창출하는 기업 7%...기술보다 운영이 관건\" 디지털투데이",
-      "publishedAt": "2026-04-03T01:06:29.000Z",
+      "summary": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" 지디넷코리아",
+      "publishedAt": "2026-04-03T09:45:32.000Z",
       "rank": 2
     },
     {
-      "id": "cf32b5306a34689a",
-      "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다 - itworld.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSmdOMlNaSU9nU3R2ZUVILUFRQjVNNlhyYTZfVXg5MUdRWm9kcHV3ZzNsYnpsbjVnR296Zlh5RVp1QnROZ3ktYllza2FVN1NDa1c5STBzRkdyWDBDWkIxanlwZktMMHZyT2k3LUM5bHhfeHVaQTFTeWVqUmgyYWV6QjAxQ0pvd0xxM2ZFSjNTMnU3bFZjVjdjb2lCRXQ0Vl94VnRmVkhDVk55VHNWVWNublhScHJheVdGV3JKLXdyYTkyMl9TOGlhdjE2VnExUEVJb1dJMFJTUW4xeW9vT3lHZnJqNXhvNXdLSmVBYUJlTGlnTFNCSUFXTkp3ZS05cTl1ZmZTMUFsQWlIbjh0eUJvR0F1dGh1anE0WTlGaDFRR0lOeEJTZHlqcFRkNkVSSG55MFZFcnp6MTl3cXhaeG5ad0ZCTDg2dlZKYlBUNWprc2RUcnViX1o5aktwc3J4OVlXNHBn?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다 itworld.co.kr",
-      "publishedAt": "2026-04-03T01:00:25.000Z",
+      "id": "e81d7ba9728f94f9",
+      "title": "“양자기술 패권 경쟁 본격화”…표준연, 국가 전략·R&D 성과 전면 공개 - 양자신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAybWdNM2pESmVZUzVobHl0cDFEY1lKOXB2TWdjR2hsMHBPaWxIN2pDVGZfMkI0RS0wM3pGMng0LTBHNjQ1SmlSMWh5U2N6UW0xMzdkUTdNdk1pU1VEWF9zX0taOGQ5bGpVdk9Gc3l4QQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“양자기술 패권 경쟁 본격화”…표준연, 국가 전략·R&D 성과 전면 공개 양자신문",
+      "publishedAt": "2026-04-03T07:53:23.000Z",
       "rank": 3
     },
     {
-      "id": "0e878604c3ebba38",
-      "title": "한국수자원공사 2025년 공공데이터 평가 ‘최고등급’ 받아 - news1.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2WGE1ektWTXlTdTg4a011OWVPdmZnN1RRaVB6UUZMTGtpNjFDTkxXNVFQZkJKYjdwXzZnRE5YcW4wZjRkYWRMZzFzTkRPNVRScmZHd1AtTElvTTdISS1RMw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "한국수자원공사 2025년 공공데이터 평가 ‘최고등급’ 받아 news1.kr",
-      "publishedAt": "2026-04-03T00:00:51.000Z",
+      "id": "5fedcdeb8d422ff4",
+      "title": "이통3사, 6G 전략 분화...SKT 표준화·KT 실증·LGU+ 선행기술 - 우먼타임스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVkwZ0hGNU1DVktBRE5WTHhIWkhKa2tRajdITXNNZWo2b2tpUFpDcW5QWFgxZWtUMlZxQktTbTg1U0ZCQjVYRWlrWFI3TWpGUldhbk5aNks0VXRPaWRTZmRsTm16cXFKSVlOXzlfMTjSAXRBVV95cUxOOXhhbVltbEdnT09Bb0ZDekNKZEdPT2h0SktTNWRwdzhxMFJWZ1JtOGczQTg4SUJiM1pWa1lZSzdiVHk0SHJXV2puWFBZZ2pJNU04d2o2eUVrdzdZY1I0RUlmaWZNc1loeURDa3pibUhHMVhHcQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "이통3사, 6G 전략 분화...SKT 표준화·KT 실증·LGU+ 선행기술 우먼타임스",
+      "publishedAt": "2026-04-03T07:05:39.000Z",
       "rank": 4
     },
     {
-      "id": "de6b81b56b88a387",
-      "title": "한국수자원공사, 공공데이터·데이터행정 평가 ‘매우 우수’ - news1.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKU00tUWd5b1dORkxUakR6UzRRaGY0VFhWcFpGTWJzZTIySXRYQVlKQXBjelV2dHAwNnNXTFFoeFF6ejdmMzVOeklwMTBmRWxseWNKV0xYaTRKN0dYbWZKNw?oc=5",
+      "id": "91c6767c4b58b3e5",
+      "title": "Visual Bank Expands “Qlean Dataset” to Support Large-Scale Japanese Speech Foundation Models - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPUS00eDFuTlR5dmxyMUVCejh2UHNJalB2UldZcDh2SnhWY0MtV3d6MkxIUUtsYUs5bFVSeGhfR3J4ME9CUWRIclV5ZVJKYXZKTGNzc2JFcmsxZndTSmc?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "한국수자원공사, 공공데이터·데이터행정 평가 ‘매우 우수’ news1.kr",
-      "publishedAt": "2026-04-02T23:54:56.000Z",
+      "summary": "Visual Bank Expands “Qlean Dataset” to Support Large-Scale Japanese Speech Foundation Models 투데이안",
+      "publishedAt": "2026-04-03T06:00:00.000Z",
       "rank": 5
     },
     {
-      "id": "6573ac9888449256",
-      "title": "한세모빌리티, AI 교육·아이디어 대회… 디지털 전환 박차 - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5RkZkLTNHbTZreWR4SVZwUGEtTHh3SFZ1VmVLck80dThMeGE0aGo3M19mQkVZSmtZdVJhbmtialJCNzh4cnhlMUZjS0VwWDNLTEwyaGZB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한세모빌리티, AI 교육·아이디어 대회… 디지털 전환 박차 중앙일보",
-      "publishedAt": "2026-04-02T06:12:00.000Z",
+      "id": "a72dad1df2fad7ee",
+      "title": "메가존클라우드, ICON서 AI 도입 전략 소개…“기술보다 운영이 관건” - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1weU0wLTdsaWU1QlJLZzROSEkySmlqdlpGMlp4bmNCb1lITGo2UVYwWVQ3N0JFNnlFLVdUc2l0Z2hEMnNRTnh3bUtweVNKdw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "메가존클라우드, ICON서 AI 도입 전략 소개…“기술보다 운영이 관건” 전자신문",
+      "publishedAt": "2026-04-03T04:57:42.000Z",
       "rank": 6
     },
     {
-      "id": "1ef0ad09a5b8ee70",
-      "title": "From China's Market Leader to Global Partner: Xiaodu AI Hotel Solutions Expands into Southeast Asia - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNmh0NjYyUGhxOEQxUU9sVHNoUWdRY0NhN002RlhveTRJVGU5Z3BpQU1OLVVIdWJld0FPVWhRNjkwaHU4MWVnNklBZG9ERVctaXNmYUFKUVR2THlMUW96NXpuS3c1aWNFa0ZraQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "From China's Market Leader to Global Partner: Xiaodu AI Hotel Solutions Expands into Southeast Asia IT비즈뉴스",
-      "publishedAt": "2026-04-02T04:00:00.000Z",
+      "id": "c2400944b099c61e",
+      "title": "수자원공사, AI 데이터 '싹쓸이' 평정…행안부도 놀랐다! - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wM1dxck1XbnFOM3lGdVVMU21JSGVqUVV2YU5wWjB1a2FSWFZnUEtEczhtOEZ5VWI1c2JDQ3JIT3ZiN2xmeDVKMg?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "수자원공사, AI 데이터 '싹쓸이' 평정…행안부도 놀랐다! 브레이크뉴스",
+      "publishedAt": "2026-04-03T02:14:00.000Z",
       "rank": 7
     },
     {
-      "id": "919e398961217238",
-      "title": "대한인공지능치의학회- 지능형 워크플로우(Intelligent Workflow)가 설계하는 치과의 미래 - 덴탈아리랑",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HOU9UNTRwY2ZiaXFqMXZCSW9vZWxFR0QzN2tEWEpGcU5VMUVwcjBNSFZXNDVwS3hlcHMyVnN0c2Ryb3drSy1NTF9LS1N5UXIzRlB2Y2VRSzgyd3lnYkJldDRMaGxhdXk0bWVOVEhVWQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "대한인공지능치의학회- 지능형 워크플로우(Intelligent Workflow)가 설계하는 치과의 미래 덴탈아리랑",
-      "publishedAt": "2026-04-02T03:26:01.000Z",
+      "id": "5d34216f00d28328",
+      "title": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzUk5kSF81cWFuUkotc2I0aTZSNUtKMTBicV9XVnBlVXRkWW5Gby1semx1ejZOTlVVWVZFd0RlazZLZktEYjl5T2R2SDJjenBDalBn?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 네이트",
+      "publishedAt": "2026-04-02T05:42:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "6c030a02ead685f7",
+      "title": "Gemini Enterprise - Your front door to AI at workplace",
+      "url": "https://www.youtube.com/watch?v=4NFtsoPg5EU",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/4NFtsoPg5EU/hqdefault.jpg",
+      "publishedAt": "2026-04-03T19:53:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "5a231ab97a1da7c9",
+      "title": "NASA's Artemis II Lifts Off | Bloomberg Artemis II Special 4/1/2026",
+      "url": "https://www.youtube.com/watch?v=icIpb6Lofgk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/icIpb6Lofgk/hqdefault.jpg",
+      "publishedAt": "2026-04-03T17:39:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ca4403026e408ff5",
+      "title": "Are orbital data centers all hype, or an actual AI infrastructure solution? l Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=L_sPmRNpfb0",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/L_sPmRNpfb0/hqdefault.jpg",
+      "publishedAt": "2026-04-03T16:39:59.000Z",
+      "viewCount": 0
+    },
     {
       "id": "4588b6ca82cf0ef1",
       "title": "Tesla’s Sales Miss, Next Stage of NASA’s Moon Mission | Bloomberg Tech 4/2/2026",
@@ -160,33 +187,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0oh_kKTvvrc/hqdefault.jpg",
       "publishedAt": "2026-04-02T18:43:55.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "0454b72f42e11ef6",
-      "title": "What’s new in Gemma 4",
-      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/jZVBoFOJK-Q/hqdefault.jpg",
-      "publishedAt": "2026-04-02T16:06:24.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f7d585e29173380c",
-      "title": "A diverse team will make your startup more successful with Leah Solivan, Taskrabbit l Build Mode",
-      "url": "https://www.youtube.com/watch?v=mEQC0AwhxuQ",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/mEQC0AwhxuQ/hqdefault.jpg",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "d67710ae841faeb7",
-      "title": "OpenAl x Gradient Labs Founder Spotlight",
-      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg",
-      "publishedAt": "2026-04-01T21:12:13.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -211,6 +211,16 @@
   ],
   "projects": [
     {
+      "id": "061441375121732a",
+      "name": "homepage-auto",
+      "description": "Auto-updating personal homepage with profile management, tech content ranking, and Google Photos Picker integration",
+      "url": "https://github.com/Suwook-HA/homepage-auto",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-04-03T02:30:17.000Z"
+    },
+    {
       "id": "b18fde5f1219bce6",
       "name": "docx-object-to-image",
       "description": "DOCX 파일의 차트·그룹 도형 오브젝트를 PNG 이미지로 변환하는 Python 스크립트",
@@ -219,16 +229,6 @@
       "forks": 0,
       "language": "Python",
       "updatedAt": "2026-04-03T00:26:26.000Z"
-    },
-    {
-      "id": "061441375121732a",
-      "name": "homepage-auto",
-      "description": "Auto-updating personal homepage with profile management, tech content ranking, and Google Photos Picker integration",
-      "url": "https://github.com/Suwook-HA/homepage-auto",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-04-02T02:28:54.000Z"
     },
     {
       "id": "9fa29fa3d681cced",
