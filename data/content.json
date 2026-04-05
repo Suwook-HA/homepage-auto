@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-04T02:10:42.018Z",
-  "projectsCheckedAt": "2026-04-04T02:10:42.018Z",
-  "projectsUpdatedAt": "2026-04-04T02:10:42.018Z",
+  "updatedAt": "2026-04-05T02:32:32.666Z",
+  "projectsCheckedAt": "2026-04-05T02:32:32.666Z",
+  "projectsUpdatedAt": "2026-04-05T02:32:32.666Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-04T02:10:42.018Z",
+    "checkedAt": "2026-04-05T02:32:32.666Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "461367eb7a042ac1",
+      "title": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" - zdnet.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sM1RGSWg4enVmZ1dnM3BuaVhqTjFHYTJLTXVEZVlEeElrVzdMZTJURDNBbC12X29OaEJjU190Y1JJWjFpb2tVWGRlZWhldW9nUzZnWVlR?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" zdnet.co.kr",
+      "publishedAt": "2026-04-04T07:47:55.000Z",
+      "rank": 1
+    },
+    {
+      "id": "c491932a2584f388",
+      "title": "아카이버스, 기록관리 ISO/IEC 42001 인증… 기록관리 AI 기반 운영체계 구축 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESWVaZ2xPZ0RvZWFFenBvN3pvUjZ1cWMycHpUZ1ZsTkI1a2gxbkdJX282VDg4REN6a2JteXpSRFE4eGJkZWpUUHpLVVVGanhnYy1DdnNQNU55OHc5TDh6Tk1KbXZqRzF6M2NaWg?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "아카이버스, 기록관리 ISO/IEC 42001 인증… 기록관리 AI 기반 운영체계 구축 IT비즈뉴스",
+      "publishedAt": "2026-04-03T07:20:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "fe4da236c7e242da",
+      "title": "[아키타입(Archetype) 사자성어 경제학](72)환골탈태(換骨奪胎)-디지털 트랜스포메이션의 급속한 전개 - 논객닷컴",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWkZLQkdyaWh0S2V2dnpTYWxOekR1VS1fWXVidjF4SW5aZEJTUGhaMTNoN1VCOVU2YVJNd3lpemVvaEVOdVJjNzNPMTZueXJDN1h1Z2UteHhydmlMN3JERVR1R095dVo1UEY40gFrQVVfeXFMUGZaRktCR3JpaHRLZXZ2elNhbE56RHVVLV9ZdWJ2MXhJblpkQlNQaFoxM2g3VUI5VTZhUk13eWl6ZW9oRU51UmM3M08xNm55ckM3WHVnZS14eHJ2aUw3ckRFVHVHT3l1WjVQRjg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[아키타입(Archetype) 사자성어 경제학](72)환골탈태(換骨奪胎)-디지털 트랜스포메이션의 급속한 전개 논객닷컴",
+      "publishedAt": "2026-04-04T01:30:47.000Z",
+      "rank": 3
+    },
     {
       "id": "ee581edeb7410362",
       "title": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 - beSUCCESS",
@@ -49,16 +76,25 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 beSUCCESS",
       "publishedAt": "2026-04-03T06:44:14.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
-      "id": "8f0e3c3d08599d9a",
-      "title": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" - 지디넷코리아",
+      "id": "79b448db6cbc4fa7",
+      "title": "데이터가 이긴다: AI 시대의 진짜 해자 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWGRlS2JDR3JNOXBIdi1TVmVhUlAyRUtjMHZueFpZWVROS3Z3UEExRzRuWUhBNnVNR2xocTc2bnhWWFY5VTg2My1wTkVQNjQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "데이터가 이긴다: AI 시대의 진짜 해자 브런치",
+      "publishedAt": "2026-04-03T13:31:19.000Z",
+      "rank": 5
+    },
+    {
+      "id": "8a1dab61bddb8e5f",
+      "title": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" - zdnet.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JSGpacUR3aGhqbTFOcHFpNzkxYWVTbXo4WUJMZWlyVjVyekIxaXI3N3N6cndpTUhqRWU4TUhjb2ZNdUJfUlpZOGZuNTVEMXl5cURObjJR?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" 지디넷코리아",
+      "summary": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" zdnet.co.kr",
       "publishedAt": "2026-04-03T09:45:32.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "e81d7ba9728f94f9",
@@ -67,7 +103,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "“양자기술 패권 경쟁 본격화”…표준연, 국가 전략·R&D 성과 전면 공개 양자신문",
       "publishedAt": "2026-04-03T07:53:23.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "5fedcdeb8d422ff4",
@@ -76,42 +112,6 @@
       "source": "Google News: IT standardization",
       "summary": "이통3사, 6G 전략 분화...SKT 표준화·KT 실증·LGU+ 선행기술 우먼타임스",
       "publishedAt": "2026-04-03T07:05:39.000Z",
-      "rank": 4
-    },
-    {
-      "id": "91c6767c4b58b3e5",
-      "title": "Visual Bank Expands “Qlean Dataset” to Support Large-Scale Japanese Speech Foundation Models - 투데이안",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPUS00eDFuTlR5dmxyMUVCejh2UHNJalB2UldZcDh2SnhWY0MtV3d6MkxIUUtsYUs5bFVSeGhfR3J4ME9CUWRIclV5ZVJKYXZKTGNzc2JFcmsxZndTSmc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Visual Bank Expands “Qlean Dataset” to Support Large-Scale Japanese Speech Foundation Models 투데이안",
-      "publishedAt": "2026-04-03T06:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "a72dad1df2fad7ee",
-      "title": "메가존클라우드, ICON서 AI 도입 전략 소개…“기술보다 운영이 관건” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1weU0wLTdsaWU1QlJLZzROSEkySmlqdlpGMlp4bmNCb1lITGo2UVYwWVQ3N0JFNnlFLVdUc2l0Z2hEMnNRTnh3bUtweVNKdw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "메가존클라우드, ICON서 AI 도입 전략 소개…“기술보다 운영이 관건” 전자신문",
-      "publishedAt": "2026-04-03T04:57:42.000Z",
-      "rank": 6
-    },
-    {
-      "id": "c2400944b099c61e",
-      "title": "수자원공사, AI 데이터 '싹쓸이' 평정…행안부도 놀랐다! - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wM1dxck1XbnFOM3lGdVVMU21JSGVqUVV2YU5wWjB1a2FSWFZnUEtEczhtOEZ5VWI1c2JDQ3JIT3ZiN2xmeDVKMg?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "수자원공사, AI 데이터 '싹쓸이' 평정…행안부도 놀랐다! 브레이크뉴스",
-      "publishedAt": "2026-04-03T02:14:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "5d34216f00d28328",
-      "title": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzUk5kSF81cWFuUkotc2I0aTZSNUtKMTBicV9XVnBlVXRkWW5Gby1semx1ejZOTlVVWVZFd0RlazZLZktEYjl5T2R2SDJjenBDalBn?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "국제AI교육원, ISO/IEC 42001 심사 대응·실무 흐름 정리한 입문 교재 출간 네이트",
-      "publishedAt": "2026-04-02T05:42:00.000Z",
       "rank": 8
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-03T02:30:17.000Z"
+      "updatedAt": "2026-04-04T02:14:45.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
