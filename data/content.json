@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-05T02:32:32.666Z",
-  "projectsCheckedAt": "2026-04-05T02:32:32.666Z",
-  "projectsUpdatedAt": "2026-04-05T02:32:32.666Z",
+  "updatedAt": "2026-04-06T02:33:59.957Z",
+  "projectsCheckedAt": "2026-04-06T02:33:59.957Z",
+  "projectsUpdatedAt": "2026-04-06T02:33:59.957Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,80 +38,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-05T02:32:32.666Z",
+    "checkedAt": "2026-04-06T02:33:59.957Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "461367eb7a042ac1",
-      "title": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" - zdnet.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sM1RGSWg4enVmZ1dnM3BuaVhqTjFHYTJLTXVEZVlEeElrVzdMZTJURDNBbC12X29OaEJjU190Y1JJWjFpb2tVWGRlZWhldW9nUzZnWVlR?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" zdnet.co.kr",
-      "publishedAt": "2026-04-04T07:47:55.000Z",
+      "id": "a1a3d579106f07e8",
+      "title": "다날, AI 에이전트 재단 'AAIF' 가입 \"결제 기술 협업 및 표준화 추진\" - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDZVlLR0lCUWVwbzVIRlpNYUR0YVJRSmw2MWlMY1RGems0bF9YQnR2Zi1OZ2l6NXlJdnhlUUpmOTUxSHBhYlBPd3l6ZG90aFR4QzZ2eDRiUGtEUWFmZ0txMmR4TGd0NFBG?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "다날, AI 에이전트 재단 'AAIF' 가입 \"결제 기술 협업 및 표준화 추진\" 머니투데이",
+      "publishedAt": "2026-04-06T00:44:13.000Z",
       "rank": 1
     },
     {
-      "id": "c491932a2584f388",
-      "title": "아카이버스, 기록관리 ISO/IEC 42001 인증… 기록관리 AI 기반 운영체계 구축 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESWVaZ2xPZ0RvZWFFenBvN3pvUjZ1cWMycHpUZ1ZsTkI1a2gxbkdJX282VDg4REN6a2JteXpSRFE4eGJkZWpUUHpLVVVGanhnYy1DdnNQNU55OHc5TDh6Tk1KbXZqRzF6M2NaWg?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "아카이버스, 기록관리 ISO/IEC 42001 인증… 기록관리 AI 기반 운영체계 구축 IT비즈뉴스",
-      "publishedAt": "2026-04-03T07:20:00.000Z",
+      "id": "1ffaaf961795a9d2",
+      "title": "TTA, ICT 국가표준·국제표준화 간사기관 지위 5년 연장 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VX3huU1EyNXEzUjdUTmdOWnpNcjVHZEtRWGlONlJLakpRVXBpRWlxeFZGM1J0QlFCbmtlNzliTTBnLW9pekFQSzA2N2dfX25zQzBUV3BZNHJ1X3JnZTRVemRqOTBmQzc5d29pUW5LdW9TMjVkZ3VpRtIBeEFVX3lxTE9VX3huU1EyNXEzUjdUTmdOWnpNcjVHZEtRWGlONlJLakpRVXBpRWlxeFZGM1J0QlFCbmtlNzliTTBnLW9pekFQSzA2N2dfX25zQzBUV3BZNHJ1X3JnZTRVemRqOTBmQzc5d29pUW5LdW9TMjVkZ3VpRg?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "TTA, ICT 국가표준·국제표준화 간사기관 지위 5년 연장 뉴시스",
+      "publishedAt": "2026-04-06T00:05:24.000Z",
       "rank": 2
     },
     {
-      "id": "fe4da236c7e242da",
-      "title": "[아키타입(Archetype) 사자성어 경제학](72)환골탈태(換骨奪胎)-디지털 트랜스포메이션의 급속한 전개 - 논객닷컴",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWkZLQkdyaWh0S2V2dnpTYWxOekR1VS1fWXVidjF4SW5aZEJTUGhaMTNoN1VCOVU2YVJNd3lpemVvaEVOdVJjNzNPMTZueXJDN1h1Z2UteHhydmlMN3JERVR1R095dVo1UEY40gFrQVVfeXFMUGZaRktCR3JpaHRLZXZ2elNhbE56RHVVLV9ZdWJ2MXhJblpkQlNQaFoxM2g3VUI5VTZhUk13eWl6ZW9oRU51UmM3M08xNm55ckM3WHVnZS14eHJ2aUw3ckRFVHVHT3l1WjVQRjg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[아키타입(Archetype) 사자성어 경제학](72)환골탈태(換骨奪胎)-디지털 트랜스포메이션의 급속한 전개 논객닷컴",
-      "publishedAt": "2026-04-04T01:30:47.000Z",
+      "id": "8b5dd0ffa5d57eed",
+      "title": "﻿생성형 AI의 한계 돌파와 ‘온톨로지’ 융합 [윤석빈의 Thinking] - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wck44Rm9jaFRRUGRiWVJNZWdwMVdzWGtuWklGbEx0dkkwZ0V2djg3M3RhNEhnSER3UVRndEM4QU9uVThfY0cwajZKVGJtZW1HRG1NRlZ2bGktMGUzcUpSRG12UXFHUjlGa3lQTGFKNE5IUXlm0gF0QVVfeXFMTTByTjhGb2NoVFFQZGJZUk1lZ3AxV3NYa25aSUZsTHR2STBnRXZ2ODczdGE0SGdIRHdRVGd0QzhBT25VOF9jRzBqNkpUYm1lbUdEbU1GVnZsaS0wZTNxSlJEbXZRcUdSOUZreVBMYUo0TkhReWY?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "생성형 AI의 한계 돌파와 ‘온톨로지’ 융합 [윤석빈의 Thinking] IT조선",
+      "publishedAt": "2026-04-05T21:30:25.000Z",
       "rank": 3
     },
     {
-      "id": "ee581edeb7410362",
-      "title": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PcGM5Zm9iN0VLOTR2eHZIckU2aHlrOHhkcExMUGVCVHJtSXB6Qy1sbWVhakwyUWp5MmIwUF9UQk52ODlzLWc?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "헤세드릿지, 국제 정보보호 표준 ‘ISO 27001’ 인증 획득…건강 데이터 보안 강화 beSUCCESS",
-      "publishedAt": "2026-04-03T06:44:14.000Z",
+      "id": "bdce4f05f1188312",
+      "title": "AI 에이전트 2026, 기업 75% 투자 착수…승자는 누구인가 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3drTlVWd2lhbUNqSTFpZjlBQ1JoMlJUamhRN3dhOF9lYTJwX0QwUnB3aDJNM19ReXdGZzFaaGpMR3dUSXNmUEs4WG5NMzExbktYRlpIb3phb2p6b0dpczUzcU5GdXBoaTYxbGdDTzZ6X3ZCaDB4Tkx2TXdFd1MyZHBvMEotWnVz?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 에이전트 2026, 기업 75% 투자 착수…승자는 누구인가 글로벌이코노믹",
+      "publishedAt": "2026-04-05T18:20:00.000Z",
       "rank": 4
     },
     {
-      "id": "79b448db6cbc4fa7",
-      "title": "데이터가 이긴다: AI 시대의 진짜 해자 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWGRlS2JDR3JNOXBIdi1TVmVhUlAyRUtjMHZueFpZWVROS3Z3UEExRzRuWUhBNnVNR2xocTc2bnhWWFY5VTg2My1wTkVQNjQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "데이터가 이긴다: AI 시대의 진짜 해자 브런치",
-      "publishedAt": "2026-04-03T13:31:19.000Z",
+      "id": "a385a9fb2f62c698",
+      "title": "국내 토양 기술이 국가표준으로 인정받는 절차를 한눈에 알려드립니다 - 세계환경신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZkxWdFUtSFlHZWRMWmZhLTVjemEtcU5lY1lkVWdMR0VzLUVMVm91U05NRnE0OEQ1UTRUTThXckd4aktYck5qUTltMU90akRyeHdUa09ISTE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "국내 토양 기술이 국가표준으로 인정받는 절차를 한눈에 알려드립니다 세계환경신문",
+      "publishedAt": "2026-04-05T11:14:39.000Z",
       "rank": 5
     },
     {
-      "id": "8a1dab61bddb8e5f",
-      "title": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" - zdnet.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JSGpacUR3aGhqbTFOcHFpNzkxYWVTbXo4WUJMZWlyVjVyekIxaXI3N3N6cndpTUhqRWU4TUhjb2ZNdUJfUlpZOGZuNTVEMXl5cURObjJR?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"기업 10곳 중 9곳 'AI 캐즘' 넘기 어려워…AI로 가치 창출하는 기업 7% 불과\" zdnet.co.kr",
-      "publishedAt": "2026-04-03T09:45:32.000Z",
+      "id": "b04ec9a9115b5706",
+      "title": "GS칼텍스, 환경솔루션 글로벌 1위 '베올리아'와 전략적 파트너십 체결 - 비즈트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IdWhkTnNSR2p1VjRPVUlyU3Rxd2dqeDNmR2pLVVhMM3ZSRmhTbkV6SGZWSnVSd042UjhCb0sxOVVLMDQ1R1YxUWszenloZE1yUExQYXR5azZFUzFob2tqa25ZQ2twaFZPMDBKaFFaMA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "GS칼텍스, 환경솔루션 글로벌 1위 '베올리아'와 전략적 파트너십 체결 비즈트리뷴",
+      "publishedAt": "2026-04-05T03:20:38.000Z",
       "rank": 6
     },
     {
-      "id": "e81d7ba9728f94f9",
-      "title": "“양자기술 패권 경쟁 본격화”…표준연, 국가 전략·R&D 성과 전면 공개 - 양자신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAybWdNM2pESmVZUzVobHl0cDFEY1lKOXB2TWdjR2hsMHBPaWxIN2pDVGZfMkI0RS0wM3pGMng0LTBHNjQ1SmlSMWh5U2N6UW0xMzdkUTdNdk1pU1VEWF9zX0taOGQ5bGpVdk9Gc3l4QQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“양자기술 패권 경쟁 본격화”…표준연, 국가 전략·R&D 성과 전면 공개 양자신문",
-      "publishedAt": "2026-04-03T07:53:23.000Z",
+      "id": "d1078a4f750a9952",
+      "title": "ISO 인증기관에서 온라인으로 심사원 자격증 딴 리얼 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOHdXaU9tQ2xKYjFiV2o0b0FpSlEtNklxZ2tLa1BPYXVlZGh0THFwUER2dzU4SGxYTUxac1h2eWVlNm1hZnZlXzVzaVdfdw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ISO 인증기관에서 온라인으로 심사원 자격증 딴 리얼 브런치",
+      "publishedAt": "2026-04-04T09:41:42.000Z",
       "rank": 7
     },
     {
-      "id": "5fedcdeb8d422ff4",
-      "title": "이통3사, 6G 전략 분화...SKT 표준화·KT 실증·LGU+ 선행기술 - 우먼타임스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVkwZ0hGNU1DVktBRE5WTHhIWkhKa2tRajdITXNNZWo2b2tpUFpDcW5QWFgxZWtUMlZxQktTbTg1U0ZCQjVYRWlrWFI3TWpGUldhbk5aNks0VXRPaWRTZmRsTm16cXFKSVlOXzlfMTjSAXRBVV95cUxOOXhhbVltbEdnT09Bb0ZDekNKZEdPT2h0SktTNWRwdzhxMFJWZ1JtOGczQTg4SUJiM1pWa1lZSzdiVHk0SHJXV2puWFBZZ2pJNU04d2o2eUVrdzdZY1I0RUlmaWZNc1loeURDa3pibUhHMVhHcQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "이통3사, 6G 전략 분화...SKT 표준화·KT 실증·LGU+ 선행기술 우먼타임스",
-      "publishedAt": "2026-04-03T07:05:39.000Z",
+      "id": "cac5c17e53db0860",
+      "title": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sM1RGSWg4enVmZ1dnM3BuaVhqTjFHYTJLTXVEZVlEeElrVzdMZTJURDNBbC12X29OaEJjU190Y1JJWjFpb2tVWGRlZWhldW9nUzZnWVlR?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" 지디넷코리아",
+      "publishedAt": "2026-04-04T07:47:55.000Z",
       "rank": 8
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-04T02:14:45.000Z"
+      "updatedAt": "2026-04-05T02:36:37.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
