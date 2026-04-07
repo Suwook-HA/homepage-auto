@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-06T02:33:59.957Z",
-  "projectsCheckedAt": "2026-04-06T02:33:59.957Z",
-  "projectsUpdatedAt": "2026-04-06T02:33:59.957Z",
+  "updatedAt": "2026-04-07T02:28:49.712Z",
+  "projectsCheckedAt": "2026-04-07T02:28:49.712Z",
+  "projectsUpdatedAt": "2026-04-07T02:28:49.712Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,120 +38,84 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-06T02:33:59.957Z",
+    "checkedAt": "2026-04-07T02:28:49.712Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "a1a3d579106f07e8",
-      "title": "다날, AI 에이전트 재단 'AAIF' 가입 \"결제 기술 협업 및 표준화 추진\" - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDZVlLR0lCUWVwbzVIRlpNYUR0YVJRSmw2MWlMY1RGems0bF9YQnR2Zi1OZ2l6NXlJdnhlUUpmOTUxSHBhYlBPd3l6ZG90aFR4QzZ2eDRiUGtEUWFmZ0txMmR4TGd0NFBG?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "다날, AI 에이전트 재단 'AAIF' 가입 \"결제 기술 협업 및 표준화 추진\" 머니투데이",
-      "publishedAt": "2026-04-06T00:44:13.000Z",
+      "id": "8253320cd7323755",
+      "title": "[KOREA PACK & ICPI WEEK 2026] Ruisoon Presents Non-Standard Weighing and Packaging Automation Solutions - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FSnRWTTZPcXpwUFB5VjBrOVg3Q0NGdE8yUkJvMnA1cWdVV1J5NWplQkx3aFgyeFdUVzlBM28zcmJhZ1g5WjgxWA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[KOREA PACK & ICPI WEEK 2026] Ruisoon Presents Non-Standard Weighing and Packaging Automation Solutions 산업일보",
+      "publishedAt": "2026-04-06T06:44:21.000Z",
       "rank": 1
     },
     {
-      "id": "1ffaaf961795a9d2",
-      "title": "TTA, ICT 국가표준·국제표준화 간사기관 지위 5년 연장 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VX3huU1EyNXEzUjdUTmdOWnpNcjVHZEtRWGlONlJLakpRVXBpRWlxeFZGM1J0QlFCbmtlNzliTTBnLW9pekFQSzA2N2dfX25zQzBUV3BZNHJ1X3JnZTRVemRqOTBmQzc5d29pUW5LdW9TMjVkZ3VpRtIBeEFVX3lxTE9VX3huU1EyNXEzUjdUTmdOWnpNcjVHZEtRWGlONlJLakpRVXBpRWlxeFZGM1J0QlFCbmtlNzliTTBnLW9pekFQSzA2N2dfX25zQzBUV3BZNHJ1X3JnZTRVemRqOTBmQzc5d29pUW5LdW9TMjVkZ3VpRg?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "TTA, ICT 국가표준·국제표준화 간사기관 지위 5년 연장 뉴시스",
-      "publishedAt": "2026-04-06T00:05:24.000Z",
+      "id": "db4c2129d454e373",
+      "title": "Innodata (INOD) 기업 리서치 보고서 - PDF 다운로드 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGFsYUExWmFTUVJaSkRmakNja3RYSHRzVDRWaXV5QUgteldSRExVbU1QT2FvTnVmWlpIc1doN2N4c1hoR3ViWUpEWVdXWjFkZEJXcDhBTHozR2tNd0tjaTBfeTRmdklyVHNXaTFFSUN1TnNzcU5BNjB1RnpwelEwdTZBaEc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Innodata (INOD) 기업 리서치 보고서 - PDF 다운로드 네이버 프리미엄콘텐츠",
+      "publishedAt": "2026-04-07T01:42:00.000Z",
       "rank": 2
     },
     {
-      "id": "8b5dd0ffa5d57eed",
-      "title": "﻿생성형 AI의 한계 돌파와 ‘온톨로지’ 융합 [윤석빈의 Thinking] - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wck44Rm9jaFRRUGRiWVJNZWdwMVdzWGtuWklGbEx0dkkwZ0V2djg3M3RhNEhnSER3UVRndEM4QU9uVThfY0cwajZKVGJtZW1HRG1NRlZ2bGktMGUzcUpSRG12UXFHUjlGa3lQTGFKNE5IUXlm0gF0QVVfeXFMTTByTjhGb2NoVFFQZGJZUk1lZ3AxV3NYa25aSUZsTHR2STBnRXZ2ODczdGE0SGdIRHdRVGd0QzhBT25VOF9jRzBqNkpUYm1lbUdEbU1GVnZsaS0wZTNxSlJEbXZRcUdSOUZreVBMYUo0TkhReWY?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "생성형 AI의 한계 돌파와 ‘온톨로지’ 융합 [윤석빈의 Thinking] IT조선",
-      "publishedAt": "2026-04-05T21:30:25.000Z",
+      "id": "6dde9d7a64ef5bfd",
+      "title": "한수원, 캐나다 전력 운영사와 디지털 운영혁신 사례 공유 - 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdk5DTDNFMURYeU1WcVJfZm9kcFkwNmk3akpnUGJpRVV1dEtMYTBuSUxmS2FwUE5yZVlhcVJ6Y1ZZWVpiamVkSmhnbUZWS1NKWUw0Nm9OMGF4MUtULW5oQndrdC1rZw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한수원, 캐나다 전력 운영사와 디지털 운영혁신 사례 공유 데일리대구경북뉴스",
+      "publishedAt": "2026-04-07T00:57:24.000Z",
       "rank": 3
     },
     {
-      "id": "bdce4f05f1188312",
-      "title": "AI 에이전트 2026, 기업 75% 투자 착수…승자는 누구인가 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3drTlVWd2lhbUNqSTFpZjlBQ1JoMlJUamhRN3dhOF9lYTJwX0QwUnB3aDJNM19ReXdGZzFaaGpMR3dUSXNmUEs4WG5NMzExbktYRlpIb3phb2p6b0dpczUzcU5GdXBoaTYxbGdDTzZ6X3ZCaDB4Tkx2TXdFd1MyZHBvMEotWnVz?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI 에이전트 2026, 기업 75% 투자 착수…승자는 누구인가 글로벌이코노믹",
-      "publishedAt": "2026-04-05T18:20:00.000Z",
+      "id": "3a20c5eabe0862e1",
+      "title": "신약 개발 vs 헬스케어 확장···국내 제약사, R&D 정체 속 전략 경쟁 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVVBSWExmeXloeGg0X1dfMC1FbVVfOG00eDRsT1AtVDZUeUlQNVR4UmltOVEyUmo0WGZGZmJhdDRtRTI4QlNORFFjRV8wRkxEcGhwVWY5NFZWM2JCZDhkYkFUbHk1b3hBd1E?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "신약 개발 vs 헬스케어 확장···국내 제약사, R&D 정체 속 전략 경쟁 서울파이낸스",
+      "publishedAt": "2026-04-06T23:00:00.000Z",
       "rank": 4
     },
     {
-      "id": "a385a9fb2f62c698",
-      "title": "국내 토양 기술이 국가표준으로 인정받는 절차를 한눈에 알려드립니다 - 세계환경신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZkxWdFUtSFlHZWRMWmZhLTVjemEtcU5lY1lkVWdMR0VzLUVMVm91U05NRnE0OEQ1UTRUTThXckd4aktYck5qUTltMU90akRyeHdUa09ISTE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "국내 토양 기술이 국가표준으로 인정받는 절차를 한눈에 알려드립니다 세계환경신문",
-      "publishedAt": "2026-04-05T11:14:39.000Z",
+      "id": "4091567e6733986b",
+      "title": "“AI 시대에도 결국 사람” 씨엔알리서치가 짚은 임상시험의 본질 - yakup.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWFZcmtKV0xlWno0RDJ1aFo0dlVSbE51TEkwcWdpcXZiMHhQeVZHbzlUMDJ3ZEhQcFRkbXpBZTlsMzZ0dGpWUlhHUlhLNElLc1ViVHAxMVZISjVaMFlGV21fcjdCaVFpMXpVSEZGYTdCNUNYem1naFZtUzRpUTFzM2tEVHFtSWZpMEk4bVNUN0lBMXc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“AI 시대에도 결국 사람” 씨엔알리서치가 짚은 임상시험의 본질 yakup.com",
+      "publishedAt": "2026-04-06T21:01:00.000Z",
       "rank": 5
     },
     {
-      "id": "b04ec9a9115b5706",
-      "title": "GS칼텍스, 환경솔루션 글로벌 1위 '베올리아'와 전략적 파트너십 체결 - 비즈트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IdWhkTnNSR2p1VjRPVUlyU3Rxd2dqeDNmR2pLVVhMM3ZSRmhTbkV6SGZWSnVSd042UjhCb0sxOVVLMDQ1R1YxUWszenloZE1yUExQYXR5azZFUzFob2tqa25ZQ2twaFZPMDBKaFFaMA?oc=5",
+      "id": "54b7c005977385c1",
+      "title": "한수원, 캐나다와 원전 디지털 협력 강화 - 새한일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0RkZPQUg1ajZEZk82eG9zTGtva2NiOXFEY2tFZkIyN3pnTzlYcWFnZWxWbVhyV1oxMldWR21HVDVxU1NEYkdfTlFiQ3U5VkNhUFpEWF9DTlg0SmZjZjZlYjNiWjQxb3ZzWEHSAWpBVV95cUxQNEZGT0FINWo2RGZPNnhvc0xrb2tjYjlxRGNrRWZCMjd6Z085WHFhZ2VsVm1YcldaMTJXVkdtR1Q1cVNTRGJHX05RYkN1OVZDYVBaRFhfQ05YNEpmY2Y2ZWIzYlo0MW92c1hB?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "GS칼텍스, 환경솔루션 글로벌 1위 '베올리아'와 전략적 파트너십 체결 비즈트리뷴",
-      "publishedAt": "2026-04-05T03:20:38.000Z",
+      "summary": "한수원, 캐나다와 원전 디지털 협력 강화 새한일보",
+      "publishedAt": "2026-04-06T16:49:12.000Z",
       "rank": 6
     },
     {
-      "id": "d1078a4f750a9952",
-      "title": "ISO 인증기관에서 온라인으로 심사원 자격증 딴 리얼 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOHdXaU9tQ2xKYjFiV2o0b0FpSlEtNklxZ2tLa1BPYXVlZGh0THFwUER2dzU4SGxYTUxac1h2eWVlNm1hZnZlXzVzaVdfdw?oc=5",
+      "id": "015406e3ce9b23ea",
+      "title": "[ICPI WEEK 2026] Datwyler highlights home-based drug delivery and PFAS regulatory strategy, emphasizing elastomer component roles - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuMU9LMGE2YUxGX0NISkZRdVE1TWRLUzlNVGd3RHhBWUpwSmlCMVhNb1dueWxXRm96Q2JwazRPTzJvU1Jfa1pZTQ?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "ISO 인증기관에서 온라인으로 심사원 자격증 딴 리얼 브런치",
-      "publishedAt": "2026-04-04T09:41:42.000Z",
+      "summary": "[ICPI WEEK 2026] Datwyler highlights home-based drug delivery and PFAS regulatory strategy, emphasizing elastomer component roles 산업일보",
+      "publishedAt": "2026-04-06T08:15:54.000Z",
       "rank": 7
     },
     {
-      "id": "cac5c17e53db0860",
-      "title": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sM1RGSWg4enVmZ1dnM3BuaVhqTjFHYTJLTXVEZVlEeElrVzdMZTJURDNBbC12X29OaEJjU190Y1JJWjFpb2tVWGRlZWhldW9nUzZnWVlR?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "고려대 AI보안연구소 출범...\"AI보안 세계1위 기여\" 지디넷코리아",
-      "publishedAt": "2026-04-04T07:47:55.000Z",
+      "id": "ae9c9c39ecd9bcd3",
+      "title": "환경과학원, 환경 분야 최초 토양 6단계 표준화 안내서 발간 - 투데이에너지",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9scm5XNjBoTndtM28yT3ZGRHZZbmkyaXY3Mk5TZnF1aDgxal9KbkJGajluaHhhMnI5SjgtUkRoYU41dURtcTFTak50R2kyZFdPenpXQjdJTi0zNklBUkp0LS1GTVFveHMzc05XMg?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "환경과학원, 환경 분야 최초 토양 6단계 표준화 안내서 발간 투데이에너지",
+      "publishedAt": "2026-04-06T05:32:32.000Z",
       "rank": 8
     }
   ],
   "videos": [
-    {
-      "id": "6c030a02ead685f7",
-      "title": "Gemini Enterprise - Your front door to AI at workplace",
-      "url": "https://www.youtube.com/watch?v=4NFtsoPg5EU",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/4NFtsoPg5EU/hqdefault.jpg",
-      "publishedAt": "2026-04-03T19:53:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5a231ab97a1da7c9",
-      "title": "NASA's Artemis II Lifts Off | Bloomberg Artemis II Special 4/1/2026",
-      "url": "https://www.youtube.com/watch?v=icIpb6Lofgk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/icIpb6Lofgk/hqdefault.jpg",
-      "publishedAt": "2026-04-03T17:39:38.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ca4403026e408ff5",
-      "title": "Are orbital data centers all hype, or an actual AI infrastructure solution? l Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=L_sPmRNpfb0",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/L_sPmRNpfb0/hqdefault.jpg",
-      "publishedAt": "2026-04-03T16:39:59.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4588b6ca82cf0ef1",
-      "title": "Tesla’s Sales Miss, Next Stage of NASA’s Moon Mission | Bloomberg Tech 4/2/2026",
-      "url": "https://www.youtube.com/watch?v=7M2OoTFMlBQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/7M2OoTFMlBQ/hqdefault.jpg",
-      "publishedAt": "2026-04-02T21:50:13.000Z",
-      "viewCount": 0
-    },
     {
       "id": "a449906aa00bffa1",
       "title": "AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4",
@@ -162,30 +126,66 @@
       "viewCount": 0
     },
     {
-      "id": "a32e12a1f59c29e5",
-      "title": "AI Needs to Be Controlled Properly: Kyndryl CEO",
-      "url": "https://www.youtube.com/watch?v=ouLae74OJ6A",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ouLae74OJ6A/hqdefault.jpg",
-      "publishedAt": "2026-04-02T18:52:30.000Z",
+      "id": "0454b72f42e11ef6",
+      "title": "What’s new in Gemma 4",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/jZVBoFOJK-Q/hqdefault.jpg",
+      "publishedAt": "2026-04-02T16:06:24.000Z",
       "viewCount": 0
     },
     {
-      "id": "33435c17a183971f",
-      "title": "Tesla Vehicle Sales Miss Expectations Again",
-      "url": "https://www.youtube.com/watch?v=zZD4qE3zhQE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/zZD4qE3zhQE/hqdefault.jpg",
-      "publishedAt": "2026-04-02T18:46:43.000Z",
+      "id": "b7ca12361833f126",
+      "title": "Announcing ADK Go 1.0",
+      "url": "https://www.youtube.com/watch?v=Alu4L3Pgzkw",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/Alu4L3Pgzkw/hqdefault.jpg",
+      "publishedAt": "2026-03-31T23:06:27.000Z",
       "viewCount": 0
     },
     {
-      "id": "de05b05e042528c2",
-      "title": "Chime Aims to Move Upmarket With New Accounts",
-      "url": "https://www.youtube.com/watch?v=0oh_kKTvvrc",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/0oh_kKTvvrc/hqdefault.jpg",
-      "publishedAt": "2026-04-02T18:43:55.000Z",
+      "id": "5d783510f1398b40",
+      "title": "Build real-time multimodal agents with Gemini and Pipecat",
+      "url": "https://www.youtube.com/watch?v=Fk2t9AG721E",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/Fk2t9AG721E/hqdefault.jpg",
+      "publishedAt": "2026-03-31T19:00:14.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "08ccd5143d5e07c6",
+      "title": "Google AI Studio's new full-stack vibe coding experience",
+      "url": "https://www.youtube.com/watch?v=gJYZE9UXiHk",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/gJYZE9UXiHk/hqdefault.jpg",
+      "publishedAt": "2026-03-30T22:09:21.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ffd172a6354a5f24",
+      "title": "ADK for Java 1.0 is now available!",
+      "url": "https://www.youtube.com/watch?v=YqABMjSho_M",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/YqABMjSho_M/hqdefault.jpg",
+      "publishedAt": "2026-03-30T19:02:57.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f1ced88c81379a59",
+      "title": "Prototype to Production with ADK",
+      "url": "https://www.youtube.com/watch?v=jDCkirAz4-E",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/jDCkirAz4-E/hqdefault.jpg",
+      "publishedAt": "2026-03-30T19:00:00.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9ed4986de57c9899",
+      "title": "Automate Product Listings with Gemini + Vision Agents",
+      "url": "https://www.youtube.com/watch?v=8lA6bF2EnvA",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/8lA6bF2EnvA/hqdefault.jpg",
+      "publishedAt": "2026-03-27T16:07:14.000Z",
       "viewCount": 0
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-05T02:36:37.000Z"
+      "updatedAt": "2026-04-06T02:38:03.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
