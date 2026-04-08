@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-07T02:28:49.712Z",
-  "projectsCheckedAt": "2026-04-07T02:28:49.712Z",
-  "projectsUpdatedAt": "2026-04-07T02:28:49.712Z",
+  "updatedAt": "2026-04-08T02:29:44.405Z",
+  "projectsCheckedAt": "2026-04-08T02:29:44.405Z",
+  "projectsUpdatedAt": "2026-04-08T02:29:44.405Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,84 +38,111 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-07T02:28:49.712Z",
+    "checkedAt": "2026-04-08T02:29:44.405Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
     {
-      "id": "8253320cd7323755",
-      "title": "[KOREA PACK & ICPI WEEK 2026] Ruisoon Presents Non-Standard Weighing and Packaging Automation Solutions - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FSnRWTTZPcXpwUFB5VjBrOVg3Q0NGdE8yUkJvMnA1cWdVV1J5NWplQkx3aFgyeFdUVzlBM28zcmJhZ1g5WjgxWA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[KOREA PACK & ICPI WEEK 2026] Ruisoon Presents Non-Standard Weighing and Packaging Automation Solutions 산업일보",
-      "publishedAt": "2026-04-06T06:44:21.000Z",
+      "id": "e7c3388da351e07f",
+      "title": "Connecting electronic whiteboards, tablets, and PCs into one… EduSync identified as the core of the digital transformation of public education - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NVHRkdnhLVjhLaWp4S0JFME5TajAyU1g1RW9LMG9YMGMyM01tTm8xa2VZQVVwRnRZSUxoSWxMVHJ4bVBybEF1bHg5eXhNT0pSNXRJ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Connecting electronic whiteboards, tablets, and PCs into one… EduSync identified as the core of the digital transformation of public education 벤처스퀘어",
+      "publishedAt": "2026-04-07T09:30:07.000Z",
       "rank": 1
     },
     {
-      "id": "db4c2129d454e373",
-      "title": "Innodata (INOD) 기업 리서치 보고서 - PDF 다운로드 - 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGFsYUExWmFTUVJaSkRmakNja3RYSHRzVDRWaXV5QUgteldSRExVbU1QT2FvTnVmWlpIc1doN2N4c1hoR3ViWUpEWVdXWjFkZEJXcDhBTHozR2tNd0tjaTBfeTRmdklyVHNXaTFFSUN1TnNzcU5BNjB1RnpwelEwdTZBaEc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Innodata (INOD) 기업 리서치 보고서 - PDF 다운로드 네이버 프리미엄콘텐츠",
-      "publishedAt": "2026-04-07T01:42:00.000Z",
+      "id": "c9444633d1bb22d9",
+      "title": "KHNP Hosts Canada Energy Leaders for AI, Digital Transformation Nuclear Workshop - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sY3luU2VGTHdIT0V0T21ZSG1qSDB0NzRkQ2Y2cGdmRjVlWjFjZXpOZjVxb1paX1U5aTZ6eDNmdUtBSGQxSFQyazNSeV9icVVIZjBIUVBaX2pSaWlLM2lqOUlORFAtUENIMzQ3eHkxclM?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "KHNP Hosts Canada Energy Leaders for AI, Digital Transformation Nuclear Workshop Korea IT Times",
+      "publishedAt": "2026-04-07T05:01:29.000Z",
       "rank": 2
     },
     {
-      "id": "6dde9d7a64ef5bfd",
-      "title": "한수원, 캐나다 전력 운영사와 디지털 운영혁신 사례 공유 - 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdk5DTDNFMURYeU1WcVJfZm9kcFkwNmk3akpnUGJpRVV1dEtMYTBuSUxmS2FwUE5yZVlhcVJ6Y1ZZWVpiamVkSmhnbUZWS1NKWUw0Nm9OMGF4MUtULW5oQndrdC1rZw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한수원, 캐나다 전력 운영사와 디지털 운영혁신 사례 공유 데일리대구경북뉴스",
-      "publishedAt": "2026-04-07T00:57:24.000Z",
+      "id": "522a195a16f6f998",
+      "title": "Starting on the 20th, power banks on board limited to two (160Wh↓)… use and charging prohibited - khan.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tenFyMkpOb3N2SnFDc2lLUGI4eDA2Z0w0Y2Z4Ukp6YXhJZDJBQUlSLW4yVFNac0R4SjJlR3JHT1oxWG1QbTlXLWJneHgxMnlNajFjOVVZbzg5cGZHSlE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Starting on the 20th, power banks on board limited to two (160Wh↓)… use and charging prohibited khan.co.kr",
+      "publishedAt": "2026-04-08T00:21:00.000Z",
       "rank": 3
     },
     {
-      "id": "3a20c5eabe0862e1",
-      "title": "신약 개발 vs 헬스케어 확장···국내 제약사, R&D 정체 속 전략 경쟁 - 서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVVBSWExmeXloeGg0X1dfMC1FbVVfOG00eDRsT1AtVDZUeUlQNVR4UmltOVEyUmo0WGZGZmJhdDRtRTI4QlNORFFjRV8wRkxEcGhwVWY5NFZWM2JCZDhkYkFUbHk1b3hBd1E?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "신약 개발 vs 헬스케어 확장···국내 제약사, R&D 정체 속 전략 경쟁 서울파이낸스",
-      "publishedAt": "2026-04-06T23:00:00.000Z",
+      "id": "c1a417a0d0ce9e99",
+      "title": "IBM® watsonx.data와 Google Cloud BigQuery를 활용한 AI 준비형 금융 인텔리전스 파이프라인 구축 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVHlNb0tORVRNZXd5amh0bkRRYVp2RWcwU3luQUNRd2JOVUZsYlFMYjVRLVFVa291TlhNaXFqbWcxZnp4S3NBT09zMGk4elA0aDVfMlJlQTRqcHNDZmJnTUZCT2pMdkZsOFhDWjhVMzA2b21iMkVreHV4RlphM2ZQalhXSUx0UWU3N1lDZl9LYWl2ckRWV3ZRa3BKVzBPSENseVc5M1lvaTI1R0dMY0NRRS16U2IyekRqMzd3MEgwRW5uaGRPc2FHRl9nUTZTVTBVSmc1dWVtMDI?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "IBM® watsonx.data와 Google Cloud BigQuery를 활용한 AI 준비형 금융 인텔리전스 파이프라인 구축 IBM",
+      "publishedAt": "2026-04-07T22:11:22.000Z",
       "rank": 4
     },
     {
-      "id": "4091567e6733986b",
-      "title": "“AI 시대에도 결국 사람” 씨엔알리서치가 짚은 임상시험의 본질 - yakup.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWFZcmtKV0xlWno0RDJ1aFo0dlVSbE51TEkwcWdpcXZiMHhQeVZHbzlUMDJ3ZEhQcFRkbXpBZTlsMzZ0dGpWUlhHUlhLNElLc1ViVHAxMVZISjVaMFlGV21fcjdCaVFpMXpVSEZGYTdCNUNYem1naFZtUzRpUTFzM2tEVHFtSWZpMEk4bVNUN0lBMXc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“AI 시대에도 결국 사람” 씨엔알리서치가 짚은 임상시험의 본질 yakup.com",
-      "publishedAt": "2026-04-06T21:01:00.000Z",
+      "id": "4e65c4a4ec7b75dd",
+      "title": "HD Hyundai Avikus Spearheads Global Standards of Autonomous Navigation Support - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zN2l3YnNKSmJsbUU5TlQ4dUhkLVZFYnhDMzE0WklfQ1RrbjJIanFkaUIyMFhQamJPeTBBQkpRZG5ZakEyRk1uaGNDQmJ0NGJlVkRITzlGbzFNclRvclhjNllzZTVlUG1m?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "HD Hyundai Avikus Spearheads Global Standards of Autonomous Navigation Support KIPOST",
+      "publishedAt": "2026-04-07T06:44:00.000Z",
       "rank": 5
     },
     {
-      "id": "54b7c005977385c1",
-      "title": "한수원, 캐나다와 원전 디지털 협력 강화 - 새한일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0RkZPQUg1ajZEZk82eG9zTGtva2NiOXFEY2tFZkIyN3pnTzlYcWFnZWxWbVhyV1oxMldWR21HVDVxU1NEYkdfTlFiQ3U5VkNhUFpEWF9DTlg0SmZjZjZlYjNiWjQxb3ZzWEHSAWpBVV95cUxQNEZGT0FINWo2RGZPNnhvc0xrb2tjYjlxRGNrRWZCMjd6Z085WHFhZ2VsVm1YcldaMTJXVkdtR1Q1cVNTRGJHX05RYkN1OVZDYVBaRFhfQ05YNEpmY2Y2ZWIzYlo0MW92c1hB?oc=5",
+      "id": "5168a9f7b6441ca8",
+      "title": "한수원, 캐나다 전력 운영사와 DXㆍAI 기술교류회 - 인사이트N파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOR0lGSGV1ZEVGd01ZU0d2SmpILVN5SFFjSVZ3cE1VaDJyeHpZek1idkN5cm1BU0ZPaHNNeDY1d3ZMdGZBUHBBaTZTdVZtTmxjamFLWVpyUll2X2ZKQjJvZHJyTFF1Zw?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "한수원, 캐나다와 원전 디지털 협력 강화 새한일보",
-      "publishedAt": "2026-04-06T16:49:12.000Z",
+      "summary": "한수원, 캐나다 전력 운영사와 DXㆍAI 기술교류회 인사이트N파워",
+      "publishedAt": "2026-04-07T12:38:55.000Z",
       "rank": 6
     },
     {
-      "id": "015406e3ce9b23ea",
-      "title": "[ICPI WEEK 2026] Datwyler highlights home-based drug delivery and PFAS regulatory strategy, emphasizing elastomer component roles - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuMU9LMGE2YUxGX0NISkZRdVE1TWRLUzlNVGd3RHhBWUpwSmlCMVhNb1dueWxXRm96Q2JwazRPTzJvU1Jfa1pZTQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[ICPI WEEK 2026] Datwyler highlights home-based drug delivery and PFAS regulatory strategy, emphasizing elastomer component roles 산업일보",
-      "publishedAt": "2026-04-06T08:15:54.000Z",
+      "id": "6d0b50390132271b",
+      "title": "도, 인공지능·디지털 대전환 속도 - 제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0VDdQRGZORXo4NEloR0h1VmFqWXNZNW1IX09scmdLMzJkZGJGaWFTWlVwMXFLRTdEcXVYVzFNM1R5QWNLelBBWlFmNWVxWmd5T1dobzBOY3BxM2YtdVQ0Y1Y1Z2tDb00?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "도, 인공지능·디지털 대전환 속도 제민일보",
+      "publishedAt": "2026-04-07T07:58:25.000Z",
       "rank": 7
     },
     {
-      "id": "ae9c9c39ecd9bcd3",
-      "title": "환경과학원, 환경 분야 최초 토양 6단계 표준화 안내서 발간 - 투데이에너지",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9scm5XNjBoTndtM28yT3ZGRHZZbmkyaXY3Mk5TZnF1aDgxal9KbkJGajluaHhhMnI5SjgtUkRoYU41dURtcTFTak50R2kyZFdPenpXQjdJTi0zNklBUkp0LS1GTVFveHMzc05XMg?oc=5",
+      "id": "0681dd019ac623d6",
+      "title": "﻿Samsung Medical Center’s Cancer Hospital becomes the first in Korea to earn ICHOM accreditation for breast cancer care - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yVUY5UjItUDJWcmZvYUpSZVhSOGZJczFRM2tVaFEzVjhIZWU2cjJleV9GZG51enFyNWV6Q1FWYldlekhUM3lQUzRzcFpXY3BNam5BTEUyU3hnR2lrVUhaeFd3VGllTlFpR2tLMNIBcEFVX3lxTFBpNE5YUkhVS3pjT1E2dFZ2ZUNtRlpaRUUwOEk3ZUdjRElfVmo4cFAteHd1Z0E2QmpSNE9kNDR1UXMwaElpa08wU2FPX3pBamRGR1c3RGlnOEdwNjFLQzQzZ1Flc04xaUZORGUyUkc5eVU?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "환경과학원, 환경 분야 최초 토양 6단계 표준화 안내서 발간 투데이에너지",
-      "publishedAt": "2026-04-06T05:32:32.000Z",
+      "summary": "Samsung Medical Center’s Cancer Hospital becomes the first in Korea to earn ICHOM accreditation for breast cancer care 더바이오",
+      "publishedAt": "2026-04-07T07:13:02.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "6e9c46965324514c",
+      "title": "Sam Altman on Building the Future of AI",
+      "url": "https://www.youtube.com/watch?v=ZpUKNYcgM-E",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/ZpUKNYcgM-E/hqdefault.jpg",
+      "publishedAt": "2026-04-07T20:36:27.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f9caf77516aaf71f",
+      "title": "NVIDIA’s New AI Just Changed Everything",
+      "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/ZQAz_HrUq68/hqdefault.jpg",
+      "publishedAt": "2026-04-07T17:38:09.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "10d9470fd90a72eb",
+      "title": "LG Uplus Creates Next Gen AICC",
+      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/2g1e1QUiY8s/hqdefault.jpg",
+      "publishedAt": "2026-04-06T15:19:08.000Z",
+      "viewCount": 0
+    },
     {
       "id": "a449906aa00bffa1",
       "title": "AIventure: Learning about vibe-coding, agents and Gen AI with Gemma 4",
@@ -135,57 +162,30 @@
       "viewCount": 0
     },
     {
-      "id": "b7ca12361833f126",
-      "title": "Announcing ADK Go 1.0",
-      "url": "https://www.youtube.com/watch?v=Alu4L3Pgzkw",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/Alu4L3Pgzkw/hqdefault.jpg",
-      "publishedAt": "2026-03-31T23:06:27.000Z",
+      "id": "d67710ae841faeb7",
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg",
+      "publishedAt": "2026-04-01T21:12:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "5d783510f1398b40",
-      "title": "Build real-time multimodal agents with Gemini and Pipecat",
-      "url": "https://www.youtube.com/watch?v=Fk2t9AG721E",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/Fk2t9AG721E/hqdefault.jpg",
-      "publishedAt": "2026-03-31T19:00:14.000Z",
+      "id": "aa6ce7ebdff3561b",
+      "title": "What Codex Unlocks for Ramp",
+      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/ZXEAuZOSLs0/hqdefault.jpg",
+      "publishedAt": "2026-04-01T20:21:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "08ccd5143d5e07c6",
-      "title": "Google AI Studio's new full-stack vibe coding experience",
-      "url": "https://www.youtube.com/watch?v=gJYZE9UXiHk",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/gJYZE9UXiHk/hqdefault.jpg",
-      "publishedAt": "2026-03-30T22:09:21.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ffd172a6354a5f24",
-      "title": "ADK for Java 1.0 is now available!",
-      "url": "https://www.youtube.com/watch?v=YqABMjSho_M",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/YqABMjSho_M/hqdefault.jpg",
-      "publishedAt": "2026-03-30T19:02:57.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f1ced88c81379a59",
-      "title": "Prototype to Production with ADK",
-      "url": "https://www.youtube.com/watch?v=jDCkirAz4-E",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/jDCkirAz4-E/hqdefault.jpg",
-      "publishedAt": "2026-03-30T19:00:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9ed4986de57c9899",
-      "title": "Automate Product Listings with Gemini + Vision Agents",
-      "url": "https://www.youtube.com/watch?v=8lA6bF2EnvA",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/8lA6bF2EnvA/hqdefault.jpg",
-      "publishedAt": "2026-03-27T16:07:14.000Z",
+      "id": "b19f627edf7c4838",
+      "title": "Google’s New AI Just Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/7YVrb3-ABYE/hqdefault.jpg",
+      "publishedAt": "2026-04-01T14:21:33.000Z",
       "viewCount": 0
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-06T02:38:03.000Z"
+      "updatedAt": "2026-04-07T02:32:53.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
