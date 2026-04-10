@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-09T02:25:11.924Z",
-  "projectsCheckedAt": "2026-04-09T02:25:11.924Z",
-  "projectsUpdatedAt": "2026-04-09T02:25:11.924Z",
+  "updatedAt": "2026-04-10T02:35:44.267Z",
+  "projectsCheckedAt": "2026-04-10T02:35:44.267Z",
+  "projectsUpdatedAt": "2026-04-10T02:35:44.267Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-09T02:25:11.924Z",
+    "checkedAt": "2026-04-10T02:35:44.267Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "08c9f5377bc1958b",
+      "title": "Incheon Launches AI Playground Project To Accelerate Digital Transformation - 경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMk53QUppU2s3S2VUSUtueFJQZXpWTF8wUmFOak5lVmdNLU5RdnJwWkZXNGV5M1YyNmQ0akdpVEdBVU4tTzJaQTRxaWM3Tld6bXJ6Mk5IcWN4eE5PYVlWRnBwcU_SAWhBVV95cUxPRlBvYUg5RFZUREk2RzVTT3NSTEtGeGtLMjNuakxRQlB1VUFzMFJaQmJBQmY4aFlrQ1REbFVwSjlZWmRGRnktZVNIRE1OLUxJQ1poN3F5RUFsckpJZ2lIT0JDS0FCTGVSOA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Incheon Launches AI Playground Project To Accelerate Digital Transformation 경인방송 뉴스",
+      "publishedAt": "2026-04-10T00:47:16.000Z",
+      "rank": 1
+    },
     {
       "id": "f5b016d5fd2c74f7",
       "title": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance - 뉴스와이어",
@@ -49,73 +58,118 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance 뉴스와이어",
       "publishedAt": "2026-04-09T00:55:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "f9c99976ebb5e7e2",
-      "title": "싱가포르 소재 WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득… 석유·가스 AI 거버넌스 분야 세계 최초 기록 수립 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcy03R3UwMnkySHM3V1YzaDBEdVRoWmpsRzZYazJzNVZ1UE9rN1VoSkNnbE16cVlUNG4xcUYtbU5OeVo0UE5oalgtcjQxNGl6WjVIbzV5X0dPZXhucTkw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "싱가포르 소재 WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득… 석유·가스 AI 거버넌스 분야 세계 최초 기록 수립 뉴스와이어",
-      "publishedAt": "2026-04-09T00:55:00.000Z",
       "rank": 2
     },
     {
-      "id": "bdff8ba631031c90",
-      "title": "이니텍 자회사 이니넥스트, 정보보안·개인정보보호 국제표준 인증 동시 획득 - mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFeHRUUTNzc3dTLW5rbmtFemUweHpzV0RwNUZBZ3hiMXE0SW5NWHpJbmNvU3piNnlPVlpsSGdBU3ZXVy1LcmxzX0hlcmlYNDdsaVZWdmRab1ZZOVFwQkxsY1pCdlJWNHZuRW0yVlRB?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "이니텍 자회사 이니넥스트, 정보보안·개인정보보호 국제표준 인증 동시 획득 mt.co.kr",
-      "publishedAt": "2026-04-09T00:58:48.000Z",
+      "id": "5b755ad164b4553d",
+      "title": "Andersen Consulting Strengthens Digital Transformation Capabilities Through Kyanon Consulting Collaboration - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91dkpjLTZXMGthanZUVDBjbUxHT0NiWkVmeFhnWDBXTlh0RE41bXpDeUhnYlRHa2pxVlFRcTlBWTNSdUNDamFyTmoyMVpKYmZaX0JDTnlYVjJsejU1Ql9B?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Andersen Consulting Strengthens Digital Transformation Capabilities Through Kyanon Consulting Collaboration 뉴스와이어",
+      "publishedAt": "2026-04-09T07:20:00.000Z",
       "rank": 3
     },
     {
-      "id": "7e54fbfc7b103129",
-      "title": "비투엔 \"'SDQ', 소규모 지자체 공공데이터 품질관리 대응 지원\" - mt.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5eGpkSDQteURoMzVWMTRiWTdvWWM1ZXR5di1VV04xcF9IaHBydFN3YUdlM1BaX3kzcWg5LUpjX0YwWElOUGlwaElpaU9HN09tTWcwbkJMLUZpMjhHaUdoV1ZYdU1CRkRM?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "비투엔 \"'SDQ', 소규모 지자체 공공데이터 품질관리 대응 지원\" mt.co.kr",
-      "publishedAt": "2026-04-09T00:56:46.000Z",
+      "id": "4c39828bd7976b0a",
+      "title": "\"Korean Cosmetics Must Also Prove Safety and Efficacy in Line with Global Standards\" - 헬스경향",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IOEtwWGQyYkZ6UnQ4TWhlUE0tWWxIZ2kwX2twVUVjeFV6REd2T0hhcTIzY3RoeVduWlY3MjNJcmpEekRVMWhSVzRmSzJnU3lVRWxlYnJDVnJNajhMSlZUV0JkRk9NM01oX2c?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "\"Korean Cosmetics Must Also Prove Safety and Efficacy in Line with Global Standards\" 헬스경향",
+      "publishedAt": "2026-04-09T04:19:00.000Z",
       "rank": 4
     },
     {
-      "id": "0479c34d8fa41327",
-      "title": "공장 키우고 R&D 미뤘다…삼영컴텍, 투자 전략 재편 - 딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BUzM4a2FlRDl6QTRvdlRkUm1QU2VFTzJnSXhYN0pTb0NYX2NUX25RSE41dGMzVEtnWURHM21XWmQ0MkM5Uzg5TThXdW9qdnM?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "공장 키우고 R&D 미뤘다…삼영컴텍, 투자 전략 재편 딜사이트",
-      "publishedAt": "2026-04-08T22:30:17.000Z",
+      "id": "fbb080721d518218",
+      "title": "WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득 - 글로벌 비즈 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fT2RoR2VONk5YdlpFYjNXVHVUazVVdUtfWHowakZZYlRIOVI1T0RqM0dSOFp1WEVwNXpmcFY5Z0pyQUxkR1EwX1N1dVpQNTctdEJtVkdDQkZiZFc5UXVTNTZyVGdtZ9IBaEFVX3lxTFB6akVlN3IyU3FEbkdvb045bWNVU2RpZ21OdGNXNVRqTXE4QnBUaUZ4N1lGS0VTLUJjYngtNDNyNVVHOG9fUEpvNENCOXpfNFFGaHU4TWlLQVctM3g1eUVTRTlWeVQ3aDlK?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득 글로벌 비즈 뉴스",
+      "publishedAt": "2026-04-09T03:01:00.000Z",
       "rank": 5
     },
     {
-      "id": "eaf0aab46f358b54",
-      "title": "제약바이오협, ‘신약개발 R&D 리스크 관리 및 인허가 전략’ 세미나 개최 - 약사공론",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dU4yZ0RFdDlHd0VKMkhNelZYZExpMEJTTE82Zjc1dnE1MHJSTUhXdXdINDZmb0R5ZnhldEZsNUFaeDlYQ3lwZ2k0VnlZOU45M0NwUFJ4NlJDUUU4ZTI2cC1kNERuYWlOZWF0bQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "제약바이오협, ‘신약개발 R&D 리스크 관리 및 인허가 전략’ 세미나 개최 약사공론",
-      "publishedAt": "2026-04-08T20:20:35.000Z",
+      "id": "d79a6319b0d075fe",
+      "title": "Naver Argues News Not Fully Copyright-Protected in AI Training Dispute With Broadcasters - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1V0JIM1lWZE9sdTAzbjNsc0pSdk9yV05BeXJhSmtBQ3hLMUs3a005aERFRmhDUmJUUTRlbUlzTnVYZjVDOTJrWGVjdWFaU1RjblZNVmJ6QkZGWFJiZGfSAW5BVV95cUxQUnY3VTJFYXBLRDZWN0NWc2JFekxrTWxzbHktZWNqVDU3d2VyZXFoN0VMR0U0ZXVKam0ybDl0TjRBdTNpaldjajUyX1FzY0JpTElYNkszZ1VzaG1nN1ZLYjJEZUF3WU5lb1diRVZsZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Naver Argues News Not Fully Copyright-Protected in AI Training Dispute With Broadcasters 알파경제",
+      "publishedAt": "2026-04-09T21:04:26.000Z",
       "rank": 6
     },
     {
-      "id": "4cc2e35315f65cec",
-      "title": "[PRNewswire] Milken Institute Sees Growth Resilience - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PMVdzYzNJeUdfLTNhdENuVHJoTDlkOUE2VEZaemk1TGJsalZBdXM1SWxRNU9ZaGNXbURrVEV6T09SUjBYT2FqYUtMRUFYbUdla1JR?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[PRNewswire] Milken Institute Sees Growth Resilience 네이트",
-      "publishedAt": "2026-04-08T03:10:00.000Z",
+      "id": "8ab47206641fa0c6",
+      "title": "Exito Media Concepts Announces the 34th Edition of the BFSI IT Summit Indonesia 2026 - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veE9xUVVwaEpEbDJITk9UU3czYUR4OUhIeDFNU1I5OVV0OUJSY2dsQTE3ZHpLbm5odjkwcW5iczg2X29xaEEzaTJLUGdPLWEwWTc4R1BzX01rSld2TWs4cTZwNzdZYm9x?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Exito Media Concepts Announces the 34th Edition of the BFSI IT Summit Indonesia 2026 KIPOST",
+      "publishedAt": "2026-04-09T10:47:00.000Z",
       "rank": 7
     },
     {
-      "id": "0515890518a031fa",
-      "title": "Meet CAS Newton: Agentic AI built for science - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNm5rS2NSSXAwUGs5YUhweFBsUXlmdXhyMTVxM2dqWGJOZllOb2o2RVdtVXNtMjVJdXhUYTNzaUxFTHEwQWc1T252Y0J1azhzdVgzSmNybHM5YnhYMDZEaGYxZm00YmRB?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Meet CAS Newton: Agentic AI built for science KIPOST",
-      "publishedAt": "2026-04-08T12:00:00.000Z",
+      "id": "6ba0a1df4758f679",
+      "title": "데이터가 이긴다: AI 시대의 진짜 해자 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWGRlS2JDR3JNOXBIdi1TVmVhUlAyRUtjMHZueFpZWVROS3Z3UEExRzRuWUhBNnVNR2xocTc2bnhWWFY5VTg2My1wTkVQNjQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "데이터가 이긴다: AI 시대의 진짜 해자 브런치",
+      "publishedAt": "2026-04-09T09:58:33.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "c8264040e9af03bf",
+      "title": "CoreWeave, Meta Strike $21 Billion for AI Computing | Bloomberg Tech 4/9/2026",
+      "url": "https://www.youtube.com/watch?v=HXg-abDM9-4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/HXg-abDM9-4/hqdefault.jpg",
+      "publishedAt": "2026-04-09T20:49:39.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "30ff747a76e021a1",
+      "title": "How does video generation work?",
+      "url": "https://www.youtube.com/watch?v=Y5zHHoLrvAE",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/Y5zHHoLrvAE/hqdefault.jpg",
+      "publishedAt": "2026-04-09T19:00:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "84f4fa6833d4cd9a",
+      "title": "Former F1 Champ Compares AI Investing to Racing",
+      "url": "https://www.youtube.com/watch?v=Xry_xkq79Q0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Xry_xkq79Q0/hqdefault.jpg",
+      "publishedAt": "2026-04-09T18:45:19.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a666aad394571cb2",
+      "title": "Quantum Clocks Enable GPS-Free Navigation",
+      "url": "https://www.youtube.com/watch?v=wD3nItBq5i8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/wD3nItBq5i8/hqdefault.jpg",
+      "publishedAt": "2026-04-09T18:34:56.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9d70f6c84267cdcf",
+      "title": "One Design Decision to Create Better Results in Stitch",
+      "url": "https://www.youtube.com/watch?v=tnP_Q5mS1I8",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/tnP_Q5mS1I8/hqdefault.jpg",
+      "publishedAt": "2026-04-09T16:33:55.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a8edf5f9849b9b71",
+      "title": "How to handle layoffs with compassion with Ayal Yogev, Anjuna",
+      "url": "https://www.youtube.com/watch?v=1jCGsEOizz8",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/1jCGsEOizz8/hqdefault.jpg",
+      "publishedAt": "2026-04-09T15:29:30.000Z",
+      "viewCount": 0
+    },
     {
       "id": "04673d8b580e3095",
       "title": "Tech Stocks Rally on the Back of US-Iran Ceasefire Deal | Bloomberg Tech 4/8/2026",
@@ -132,60 +186,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/VEhVj1ODqAs/hqdefault.jpg",
       "publishedAt": "2026-04-08T18:33:41.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "234fe15d3d323341",
-      "title": "Apple’s Foldable Phone On Track for September Launch",
-      "url": "https://www.youtube.com/watch?v=cF9CJTYEdJY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/cF9CJTYEdJY/hqdefault.jpg",
-      "publishedAt": "2026-04-08T18:23:06.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "508384366149e6e9",
-      "title": "Anthropic Gives Tech Firms Early Access to Powerful AI Model",
-      "url": "https://www.youtube.com/watch?v=gG56JMcAFOE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/gG56JMcAFOE/hqdefault.jpg",
-      "publishedAt": "2026-04-08T17:10:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c97aba12a0c7c774",
-      "title": "Supply Chain Uncertainty Remains Despite Ceasefire",
-      "url": "https://www.youtube.com/watch?v=LFbnuLCT3Dk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/LFbnuLCT3Dk/hqdefault.jpg",
-      "publishedAt": "2026-04-08T17:01:56.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "071f2a51e296e72c",
-      "title": "Add Gemini Live agents to your video conferencing with Fishjam",
-      "url": "https://www.youtube.com/watch?v=bc5X2iVyJc0",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/bc5X2iVyJc0/hqdefault.jpg",
-      "publishedAt": "2026-04-08T16:01:05.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "873d8ea422f9fcef",
-      "title": "Why Snowflake is no longer just a data warehouse",
-      "url": "https://www.youtube.com/watch?v=tMEtDa7NGYc",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/tMEtDa7NGYc/hqdefault.jpg",
-      "publishedAt": "2026-04-08T15:22:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0eafc7acda8b2960",
-      "title": "Intel Joins Musk’s Terafab Project With Tesla, SpaceX, xAI | Bloomberg Tech 4/7/2026",
-      "url": "https://www.youtube.com/watch?v=J3uiHbOIsnk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/J3uiHbOIsnk/hqdefault.jpg",
-      "publishedAt": "2026-04-07T21:01:40.000Z",
       "viewCount": 0
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-08T02:33:50.000Z"
+      "updatedAt": "2026-04-09T02:29:19.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
