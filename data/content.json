@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-10T02:35:44.267Z",
-  "projectsCheckedAt": "2026-04-10T02:35:44.267Z",
-  "projectsUpdatedAt": "2026-04-10T02:35:44.267Z",
+  "updatedAt": "2026-04-11T02:21:52.563Z",
+  "projectsCheckedAt": "2026-04-11T02:21:52.563Z",
+  "projectsUpdatedAt": "2026-04-11T02:21:52.563Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -38,10 +38,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-10T02:35:44.267Z",
+    "checkedAt": "2026-04-11T02:21:52.563Z",
     "updatedAt": "2026-03-24T02:07:10.491Z"
   },
   "articles": [
+    {
+      "id": "e095d6d4d97a4679",
+      "title": "글로벌 암학회 시즌 돌입…'대세' 항암 R&D·전략 짚어보니 - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03NUQ1bklsQl9URVQ5NlgyUVUya2pXckxuSDBwZ01teThKV3NNalcwWUdtNjZNS0ducTM1TTRhU2xJbmNOMWI5alM4ckpFRUF2N2NlZnFkVEE2U1hzX29aUW9pXzJZUlpYRzkw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "글로벌 암학회 시즌 돌입…'대세' 항암 R&D·전략 짚어보니 히트뉴스",
+      "publishedAt": "2026-04-10T21:20:00.000Z",
+      "rank": 1
+    },
     {
       "id": "08c9f5377bc1958b",
       "title": "Incheon Launches AI Playground Project To Accelerate Digital Transformation - 경인방송 뉴스",
@@ -49,16 +58,43 @@
       "source": "Google News: Digital Transformation",
       "summary": "Incheon Launches AI Playground Project To Accelerate Digital Transformation 경인방송 뉴스",
       "publishedAt": "2026-04-10T00:47:16.000Z",
-      "rank": 1
+      "rank": 2
     },
     {
-      "id": "f5b016d5fd2c74f7",
-      "title": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZnktZjM4WmpQckhXN0lWeFpxNWoxLXk3YVRpMVlBa2VDckpsVExfUm1GcUowMkd1OEptY2dKTjVrSTRDT3hfNkNwMnM0cEhiTXY1dnZVQTBuNm5wRm5Z?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance 뉴스와이어",
-      "publishedAt": "2026-04-09T00:55:00.000Z",
-      "rank": 2
+      "id": "2a4660321798347f",
+      "title": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 - 월간인물",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MGNwREFCeFNUcER3djZsLXNjam9Wb3hpMS1FX0JWbEExQjdzUFFyWjN0Q20wQm9jQ1AxeVRJNVB6SVJ5clh1Y1gwc3N0ZzFGS29KSG5ROUFrU2tpOXdqVm5NZDhvbTlUM281anNyVXdmUdIBdkFVX3lxTE5fRWtWWjgyMGRYYjJQRFc3ZDI0Q2tDZVdVQzNMR1BPOGgyRy1zdHNiYURELVF1cjkxa0dvaVhnVUZfRTJpbllyQUZ4NEhJc3lJS2RZZEZYczNEdE1sLVJiNl84ZlhTZDBzcWZ1QVVnRkphWkNuQmc?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 월간인물",
+      "publishedAt": "2026-04-10T00:13:23.000Z",
+      "rank": 3
+    },
+    {
+      "id": "0c38807e71dd4b0d",
+      "title": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkaVVmSFFVOGhMamZDYVd1QXdmT2pJM3poVGg2ZVR3QjFwdDF6cHByNUZoNmVtMmNxYmZhdWZ5V0pxeHJvVklyQnFFTFVsRnM?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 v.daum.net",
+      "publishedAt": "2026-04-10T08:05:02.000Z",
+      "rank": 4
+    },
+    {
+      "id": "cc606e1d91b381c8",
+      "title": "리벨리온, Arm·SKT와 공동 개발…소버린 AI 인프라 표준화 방점 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SY2xCeDNFbnpodG5aWnY4OGZmSF9FOHpRREtib2t2SC1vVlk5NVh1dUgteHo0ajd3dWNnbzFQMUNLYzFKVUY2V2hDNU5oLWtFU0pIdnhuYU1tem5NUF81cWxTTUZ0bHVlaXZuZdIBbEFVX3lxTE1SY2xCeDNFbnpodG5aWnY4OGZmSF9FOHpRREtib2t2SC1vVlk5NVh1dUgteHo0ajd3dWNnbzFQMUNLYzFKVUY2V2hDNU5oLWtFU0pIdnhuYU1tem5NUF81cWxTTUZ0bHVlaXZuZQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "리벨리온, Arm·SKT와 공동 개발…소버린 AI 인프라 표준화 방점 블로터",
+      "publishedAt": "2026-04-10T04:21:22.000Z",
+      "rank": 5
+    },
+    {
+      "id": "a70468124631e412",
+      "title": "정부, AI 학습용 데이터 보유 현황 첫 전수조사 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGenE5eVZac2YweDBnelhvZTNBRGFCT2hUZ2N3M0JXakVFU0twdWt2RHg1VTBNQW9uOGlWeExWZVVoeHlsaWxiS3o2WmdyZ05GWFZpYjZ1emZXaC16c1V3?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "정부, AI 학습용 데이터 보유 현황 첫 전수조사 뉴스1",
+      "publishedAt": "2026-04-10T03:00:00.000Z",
+      "rank": 6
     },
     {
       "id": "5b755ad164b4553d",
@@ -67,7 +103,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "Andersen Consulting Strengthens Digital Transformation Capabilities Through Kyanon Consulting Collaboration 뉴스와이어",
       "publishedAt": "2026-04-09T07:20:00.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "4c39828bd7976b0a",
@@ -76,116 +112,80 @@
       "source": "Google News: International Standardization",
       "summary": "\"Korean Cosmetics Must Also Prove Safety and Efficacy in Line with Global Standards\" 헬스경향",
       "publishedAt": "2026-04-09T04:19:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "fbb080721d518218",
-      "title": "WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득 - 글로벌 비즈 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fT2RoR2VONk5YdlpFYjNXVHVUazVVdUtfWHowakZZYlRIOVI1T0RqM0dSOFp1WEVwNXpmcFY5Z0pyQUxkR1EwX1N1dVpQNTctdEJtVkdDQkZiZFc5UXVTNTZyVGdtZ9IBaEFVX3lxTFB6akVlN3IyU3FEbkdvb045bWNVU2RpZ21OdGNXNVRqTXE4QnBUaUZ4N1lGS0VTLUJjYngtNDNyNVVHOG9fUEpvNENCOXpfNFFGaHU4TWlLQVctM3g1eUVTRTlWeVQ3aDlK?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "WPH 디지털, 아시아 AI 중심 디지털 기업 중 최초로 ISO/IEC 42001:2023 인증 획득 글로벌 비즈 뉴스",
-      "publishedAt": "2026-04-09T03:01:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d79a6319b0d075fe",
-      "title": "Naver Argues News Not Fully Copyright-Protected in AI Training Dispute With Broadcasters - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1V0JIM1lWZE9sdTAzbjNsc0pSdk9yV05BeXJhSmtBQ3hLMUs3a005aERFRmhDUmJUUTRlbUlzTnVYZjVDOTJrWGVjdWFaU1RjblZNVmJ6QkZGWFJiZGfSAW5BVV95cUxQUnY3VTJFYXBLRDZWN0NWc2JFekxrTWxzbHktZWNqVDU3d2VyZXFoN0VMR0U0ZXVKam0ybDl0TjRBdTNpaldjajUyX1FzY0JpTElYNkszZ1VzaG1nN1ZLYjJEZUF3WU5lb1diRVZsZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Naver Argues News Not Fully Copyright-Protected in AI Training Dispute With Broadcasters 알파경제",
-      "publishedAt": "2026-04-09T21:04:26.000Z",
-      "rank": 6
-    },
-    {
-      "id": "8ab47206641fa0c6",
-      "title": "Exito Media Concepts Announces the 34th Edition of the BFSI IT Summit Indonesia 2026 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veE9xUVVwaEpEbDJITk9UU3czYUR4OUhIeDFNU1I5OVV0OUJSY2dsQTE3ZHpLbm5odjkwcW5iczg2X29xaEEzaTJLUGdPLWEwWTc4R1BzX01rSld2TWs4cTZwNzdZYm9x?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Exito Media Concepts Announces the 34th Edition of the BFSI IT Summit Indonesia 2026 KIPOST",
-      "publishedAt": "2026-04-09T10:47:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "6ba0a1df4758f679",
-      "title": "데이터가 이긴다: AI 시대의 진짜 해자 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWGRlS2JDR3JNOXBIdi1TVmVhUlAyRUtjMHZueFpZWVROS3Z3UEExRzRuWUhBNnVNR2xocTc2bnhWWFY5VTg2My1wTkVQNjQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "데이터가 이긴다: AI 시대의 진짜 해자 브런치",
-      "publishedAt": "2026-04-09T09:58:33.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "c8264040e9af03bf",
-      "title": "CoreWeave, Meta Strike $21 Billion for AI Computing | Bloomberg Tech 4/9/2026",
-      "url": "https://www.youtube.com/watch?v=HXg-abDM9-4",
+      "id": "5234b84e1c8d52be",
+      "title": "Artemis II Safely Returns to Earth After Historic Moon Mission",
+      "url": "https://www.youtube.com/watch?v=c03moTuX6Ps",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/HXg-abDM9-4/hqdefault.jpg",
-      "publishedAt": "2026-04-09T20:49:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/c03moTuX6Ps/hqdefault.jpg",
+      "publishedAt": "2026-04-11T00:33:27.000Z",
       "viewCount": 0
     },
     {
-      "id": "30ff747a76e021a1",
-      "title": "How does video generation work?",
-      "url": "https://www.youtube.com/watch?v=Y5zHHoLrvAE",
+      "id": "8038c56bfe29e177",
+      "title": "Google's ADK + MCP = The Future of AI Agents",
+      "url": "https://www.youtube.com/watch?v=wIhkYnTpPs4",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/Y5zHHoLrvAE/hqdefault.jpg",
-      "publishedAt": "2026-04-09T19:00:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wIhkYnTpPs4/hqdefault.jpg",
+      "publishedAt": "2026-04-10T21:23:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "84f4fa6833d4cd9a",
-      "title": "Former F1 Champ Compares AI Investing to Racing",
-      "url": "https://www.youtube.com/watch?v=Xry_xkq79Q0",
+      "id": "3fd40a8e4d7b7759",
+      "title": "Medicare Navigation Startup Raises $100 Million",
+      "url": "https://www.youtube.com/watch?v=uW4IZJH_mK0",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Xry_xkq79Q0/hqdefault.jpg",
-      "publishedAt": "2026-04-09T18:45:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/uW4IZJH_mK0/hqdefault.jpg",
+      "publishedAt": "2026-04-10T20:44:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "a666aad394571cb2",
-      "title": "Quantum Clocks Enable GPS-Free Navigation",
-      "url": "https://www.youtube.com/watch?v=wD3nItBq5i8",
+      "id": "2930dfd950acb273",
+      "title": "Wall Street CEOs Summoned to Discuss Anthropic AI Risks | Bloomberg Tech 4/10/2026",
+      "url": "https://www.youtube.com/watch?v=zuO-R4gk5DM",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/wD3nItBq5i8/hqdefault.jpg",
-      "publishedAt": "2026-04-09T18:34:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zuO-R4gk5DM/hqdefault.jpg",
+      "publishedAt": "2026-04-10T19:07:51.000Z",
       "viewCount": 0
     },
     {
-      "id": "9d70f6c84267cdcf",
-      "title": "One Design Decision to Create Better Results in Stitch",
-      "url": "https://www.youtube.com/watch?v=tnP_Q5mS1I8",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/tnP_Q5mS1I8/hqdefault.jpg",
-      "publishedAt": "2026-04-09T16:33:55.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a8edf5f9849b9b71",
-      "title": "How to handle layoffs with compassion with Ayal Yogev, Anjuna",
-      "url": "https://www.youtube.com/watch?v=1jCGsEOizz8",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/1jCGsEOizz8/hqdefault.jpg",
-      "publishedAt": "2026-04-09T15:29:30.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "04673d8b580e3095",
-      "title": "Tech Stocks Rally on the Back of US-Iran Ceasefire Deal | Bloomberg Tech 4/8/2026",
-      "url": "https://www.youtube.com/watch?v=J1M-DDS0VcE",
+      "id": "f52b9904bde343bd",
+      "title": "Apple Accused of ‘Union Busting’ Over Store Closure",
+      "url": "https://www.youtube.com/watch?v=I5RLSR8nqG8",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/J1M-DDS0VcE/hqdefault.jpg",
-      "publishedAt": "2026-04-08T21:16:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/I5RLSR8nqG8/hqdefault.jpg",
+      "publishedAt": "2026-04-10T18:03:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "15d9e7f3c57345df",
-      "title": "Snowflake Seeing Strong Return on AI Investment: CEO",
-      "url": "https://www.youtube.com/watch?v=VEhVj1ODqAs",
+      "id": "ea6b81417466bb6f",
+      "title": "NASA’s Artemis Crew Set to Splashdown After Moon Voyage",
+      "url": "https://www.youtube.com/watch?v=qXXd6wMHRM0",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/VEhVj1ODqAs/hqdefault.jpg",
-      "publishedAt": "2026-04-08T18:33:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qXXd6wMHRM0/hqdefault.jpg",
+      "publishedAt": "2026-04-10T17:30:07.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e32ecaa56b6067d0",
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg",
+      "publishedAt": "2026-04-10T17:30:00.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f0c4e1c47f773c35",
+      "title": "Introducing Cloud Network Insights",
+      "url": "https://www.youtube.com/watch?v=KJ_Qrztildw",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/KJ_Qrztildw/hqdefault.jpg",
+      "publishedAt": "2026-04-10T16:51:22.000Z",
       "viewCount": 0
     }
   ],
@@ -218,7 +218,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-09T02:29:19.000Z"
+      "updatedAt": "2026-04-10T02:39:51.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
