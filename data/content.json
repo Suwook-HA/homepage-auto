@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-11T02:21:52.563Z",
-  "projectsCheckedAt": "2026-04-11T02:21:52.563Z",
-  "projectsUpdatedAt": "2026-04-11T02:21:52.563Z",
+  "updatedAt": "2026-04-12T02:37:38.572Z",
+  "projectsCheckedAt": "2026-04-12T02:37:38.572Z",
+  "projectsUpdatedAt": "2026-04-12T02:37:38.572Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -14,7 +14,7 @@
         "registrations": 0
       },
       "international": {
-        "applications": 1,
+        "applications": 2,
         "registrations": 1
       },
       "yearly": [
@@ -22,10 +22,26 @@
           "year": "2018",
           "applications": 1,
           "registrations": 1
+        },
+        {
+          "year": "2025",
+          "applications": 1,
+          "registrations": 0
         }
       ]
     },
     "records": [
+      {
+        "title": "Method and apparatus for generating data",
+        "region": "US",
+        "status": "Published",
+        "patentNumber": "US20260086990A1",
+        "filedAt": "2025-08-11",
+        "sourceUrl": "https://patents.google.com/patent/US20260086990A1/en",
+        "sourceName": "Google Patents",
+        "inventors": "Suwook HA",
+        "assignee": "Electronics And Telecommunications Research Institute"
+      },
       {
         "title": "Method and system for optimizing cloud storage services",
         "region": "US",
@@ -38,45 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-11T02:21:52.563Z",
-    "updatedAt": "2026-03-24T02:07:10.491Z"
+    "checkedAt": "2026-04-12T02:37:38.572Z",
+    "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "e095d6d4d97a4679",
-      "title": "글로벌 암학회 시즌 돌입…'대세' 항암 R&D·전략 짚어보니 - 히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03NUQ1bklsQl9URVQ5NlgyUVUya2pXckxuSDBwZ01teThKV3NNalcwWUdtNjZNS0ducTM1TTRhU2xJbmNOMWI5alM4ckpFRUF2N2NlZnFkVEE2U1hzX29aUW9pXzJZUlpYRzkw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "글로벌 암학회 시즌 돌입…'대세' 항암 R&D·전략 짚어보니 히트뉴스",
-      "publishedAt": "2026-04-10T21:20:00.000Z",
+      "id": "d93e9b76ab483ef9",
+      "title": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 - 코리아포스트 한글판",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQUG8wbHpOTllqX1NlaDRyRVNVMXVQcEFsQU04TFRtYl90eHNxc0xlMUlKdWpmZURBU2pEZUdmR2VyQXdJU2cteXNUam1zcGdST3BTelNySkVEdTBmYktxQl9zdHNheTR3Z1Z5Q2FR?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 코리아포스트 한글판",
+      "publishedAt": "2026-04-11T22:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "08c9f5377bc1958b",
-      "title": "Incheon Launches AI Playground Project To Accelerate Digital Transformation - 경인방송 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMk53QUppU2s3S2VUSUtueFJQZXpWTF8wUmFOak5lVmdNLU5RdnJwWkZXNGV5M1YyNmQ0akdpVEdBVU4tTzJaQTRxaWM3Tld6bXJ6Mk5IcWN4eE5PYVlWRnBwcU_SAWhBVV95cUxPRlBvYUg5RFZUREk2RzVTT3NSTEtGeGtLMjNuakxRQlB1VUFzMFJaQmJBQmY4aFlrQ1REbFVwSjlZWmRGRnktZVNIRE1OLUxJQ1poN3F5RUFsckpJZ2lIT0JDS0FCTGVSOA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Incheon Launches AI Playground Project To Accelerate Digital Transformation 경인방송 뉴스",
-      "publishedAt": "2026-04-10T00:47:16.000Z",
+      "id": "3d97ac77c0876d88",
+      "title": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) - 헬스포커스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQl9ySkw3ZEhzUUcyTlM4NnNaS2ktSnRVMWFDd2Z2VDVyTzVMTFdOWmVxVFBqUDROOHd4bVduUnVoSnZDNTI3X3oyRjV2ZzZ4Z3pNLWljSGsxd2J3aWpySUo5NV82SGh5UnBqaHVTd0RuZw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) 헬스포커스뉴스",
+      "publishedAt": "2026-04-10T15:00:00.000Z",
       "rank": 2
     },
     {
-      "id": "2a4660321798347f",
-      "title": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 - 월간인물",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MGNwREFCeFNUcER3djZsLXNjam9Wb3hpMS1FX0JWbEExQjdzUFFyWjN0Q20wQm9jQ1AxeVRJNVB6SVJ5clh1Y1gwc3N0ZzFGS29KSG5ROUFrU2tpOXdqVm5NZDhvbTlUM281anNyVXdmUdIBdkFVX3lxTE5fRWtWWjgyMGRYYjJQRFc3ZDI0Q2tDZVdVQzNMR1BPOGgyRy1zdHNiYURELVF1cjkxa0dvaVhnVUZfRTJpbllyQUZ4NEhJc3lJS2RZZEZYczNEdE1sLVJiNl84ZlhTZDBzcWZ1QVVnRkphWkNuQmc?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 월간인물",
-      "publishedAt": "2026-04-10T00:13:23.000Z",
-      "rank": 3
-    },
-    {
-      "id": "0c38807e71dd4b0d",
+      "id": "d9a5a783bc61610d",
       "title": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkaVVmSFFVOGhMamZDYVd1QXdmT2pJM3poVGg2ZVR3QjFwdDF6cHByNUZoNmVtMmNxYmZhdWZ5V0pxeHJvVklyQnFFTFVsRnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcHh0MDVYTGVCNXFibThmVlY1amgySmV2SUdVbmJHa056NzJKV0F6bkJ2UjJnQXB3RDdHNzhDQmJva2dIaW81MWptUFlYbUdSeUNLVA?oc=5",
       "source": "Google News: R&D Strategy",
       "summary": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 v.daum.net",
       "publishedAt": "2026-04-10T08:05:02.000Z",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "cc606e1d91b381c8",
@@ -85,37 +92,64 @@
       "source": "Google News: AI standardization",
       "summary": "리벨리온, Arm·SKT와 공동 개발…소버린 AI 인프라 표준화 방점 블로터",
       "publishedAt": "2026-04-10T04:21:22.000Z",
+      "rank": 4
+    },
+    {
+      "id": "08c9f5377bc1958b",
+      "title": "Incheon Launches AI Playground Project To Accelerate Digital Transformation - 경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMk53QUppU2s3S2VUSUtueFJQZXpWTF8wUmFOak5lVmdNLU5RdnJwWkZXNGV5M1YyNmQ0akdpVEdBVU4tTzJaQTRxaWM3Tld6bXJ6Mk5IcWN4eE5PYVlWRnBwcU_SAWhBVV95cUxPRlBvYUg5RFZUREk2RzVTT3NSTEtGeGtLMjNuakxRQlB1VUFzMFJaQmJBQmY4aFlrQ1REbFVwSjlZWmRGRnktZVNIRE1OLUxJQ1poN3F5RUFsckpJZ2lIT0JDS0FCTGVSOA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Incheon Launches AI Playground Project To Accelerate Digital Transformation 경인방송 뉴스",
+      "publishedAt": "2026-04-10T00:47:16.000Z",
       "rank": 5
     },
     {
-      "id": "a70468124631e412",
-      "title": "정부, AI 학습용 데이터 보유 현황 첫 전수조사 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGenE5eVZac2YweDBnelhvZTNBRGFCT2hUZ2N3M0JXakVFU0twdWt2RHg1VTBNQW9uOGlWeExWZVVoeHlsaWxiS3o2WmdyZ05GWFZpYjZ1emZXaC16c1V3?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "정부, AI 학습용 데이터 보유 현황 첫 전수조사 뉴스1",
-      "publishedAt": "2026-04-10T03:00:00.000Z",
+      "id": "89f8955b56388574",
+      "title": "Passive RFIDs Can Now Stream Telemetry Data from Sensors Under New ISO Standard - ekhbary.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOai1pTFBUbnpGZVNtSmxHWloySUtWbDRFTWs0YXMwOTlnckhCSkIyVDBmYUxGdUc0SEJBYl85WWJ2NEpGSVlieFM2OGNha0dhQXZma19UNm5GX3VtbEh5VDZwNlRDUC13bUF2c3kzREZtZzcxNzRzOF95bkxYMU1KSlREUEpqV1hfeUZxM092MDlPcGVQb1RlQkhabFk3SXhlRTlTUGxtRlBiT3M0RlpHSmpqa2FUa3lzWTU3WDlQZG4?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Passive RFIDs Can Now Stream Telemetry Data from Sensors Under New ISO Standard ekhbary.com",
+      "publishedAt": "2026-04-10T00:11:47.000Z",
       "rank": 6
     },
     {
-      "id": "5b755ad164b4553d",
-      "title": "Andersen Consulting Strengthens Digital Transformation Capabilities Through Kyanon Consulting Collaboration - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91dkpjLTZXMGthanZUVDBjbUxHT0NiWkVmeFhnWDBXTlh0RE41bXpDeUhnYlRHa2pxVlFRcTlBWTNSdUNDamFyTmoyMVpKYmZaX0JDTnlYVjJsejU1Ql9B?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Andersen Consulting Strengthens Digital Transformation Capabilities Through Kyanon Consulting Collaboration 뉴스와이어",
-      "publishedAt": "2026-04-09T07:20:00.000Z",
+      "id": "2a4660321798347f",
+      "title": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 - 월간인물",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MGNwREFCeFNUcER3djZsLXNjam9Wb3hpMS1FX0JWbEExQjdzUFFyWjN0Q20wQm9jQ1AxeVRJNVB6SVJ5clh1Y1gwc3N0ZzFGS29KSG5ROUFrU2tpOXdqVm5NZDhvbTlUM281anNyVXdmUdIBdkFVX3lxTE5fRWtWWjgyMGRYYjJQRFc3ZDI0Q2tDZVdVQzNMR1BPOGgyRy1zdHNiYURELVF1cjkxa0dvaVhnVUZfRTJpbllyQUZ4NEhJc3lJS2RZZEZYczNEdE1sLVJiNl84ZlhTZDBzcWZ1QVVnRkphWkNuQmc?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 월간인물",
+      "publishedAt": "2026-04-10T00:13:23.000Z",
       "rank": 7
     },
     {
-      "id": "4c39828bd7976b0a",
-      "title": "\"Korean Cosmetics Must Also Prove Safety and Efficacy in Line with Global Standards\" - 헬스경향",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IOEtwWGQyYkZ6UnQ4TWhlUE0tWWxIZ2kwX2twVUVjeFV6REd2T0hhcTIzY3RoeVduWlY3MjNJcmpEekRVMWhSVzRmSzJnU3lVRWxlYnJDVnJNajhMSlZUV0JkRk9NM01oX2c?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "\"Korean Cosmetics Must Also Prove Safety and Efficacy in Line with Global Standards\" 헬스경향",
-      "publishedAt": "2026-04-09T04:19:00.000Z",
+      "id": "f5b016d5fd2c74f7",
+      "title": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZnktZjM4WmpQckhXN0lWeFpxNWoxLXk3YVRpMVlBa2VDckpsVExfUm1GcUowMkd1OEptY2dKTjVrSTRDT3hfNkNwMnM0cEhiTXY1dnZVQTBuNm5wRm5Z?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance 뉴스와이어",
+      "publishedAt": "2026-04-09T00:55:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "57c148246ccd5355",
+      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
+      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
+      "publishedAt": "2026-04-11T16:23:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "554350adfe171cd9",
+      "title": "Arm CEO Haas on Shifting From Smartphones to AI",
+      "url": "https://www.youtube.com/watch?v=3PagB-dU79I",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/3PagB-dU79I/hqdefault.jpg",
+      "publishedAt": "2026-04-11T05:00:07.000Z",
+      "viewCount": 0
+    },
     {
       "id": "5234b84e1c8d52be",
       "title": "Artemis II Safely Returns to Earth After Historic Moon Mission",
@@ -169,24 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qXXd6wMHRM0/hqdefault.jpg",
       "publishedAt": "2026-04-10T17:30:07.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "e32ecaa56b6067d0",
-      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
-      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg",
-      "publishedAt": "2026-04-10T17:30:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f0c4e1c47f773c35",
-      "title": "Introducing Cloud Network Insights",
-      "url": "https://www.youtube.com/watch?v=KJ_Qrztildw",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/KJ_Qrztildw/hqdefault.jpg",
-      "publishedAt": "2026-04-10T16:51:22.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -218,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-10T02:39:51.000Z"
+      "updatedAt": "2026-04-11T02:26:00.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
