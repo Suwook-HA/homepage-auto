@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-12T02:37:38.572Z",
-  "projectsCheckedAt": "2026-04-12T02:37:38.572Z",
-  "projectsUpdatedAt": "2026-04-12T02:37:38.572Z",
+  "updatedAt": "2026-04-13T02:42:50.173Z",
+  "projectsCheckedAt": "2026-04-13T02:42:50.173Z",
+  "projectsUpdatedAt": "2026-04-13T02:42:50.173Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-12T02:37:38.572Z",
+    "checkedAt": "2026-04-13T02:42:50.173Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "95a065bd5ddaae3b",
+      "title": "한국MSD, 외형 감소 속 R&D 투자 기조 유지…혁신 전략 지속 - 약사공론",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PbTRxTUJoXzRQdWREQ0ViX1N4SDBvWGtjVUV6V1BPYm1BLUg3dVdCM1VjaXYyQzZXa0tuMHN0aWJCWEJSUGd0N2hKSVp5dUpOTWRyZWVTaUNzNS1nVlVaMmZpS2ljT1JET3hGQw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "한국MSD, 외형 감소 속 R&D 투자 기조 유지…혁신 전략 지속 약사공론",
+      "publishedAt": "2026-04-12T20:50:00.000Z",
+      "rank": 1
+    },
     {
       "id": "d93e9b76ab483ef9",
       "title": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 - 코리아포스트 한글판",
@@ -65,43 +74,7 @@
       "source": "Google News: Trustworthy AI",
       "summary": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 코리아포스트 한글판",
       "publishedAt": "2026-04-11T22:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "3d97ac77c0876d88",
-      "title": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) - 헬스포커스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQl9ySkw3ZEhzUUcyTlM4NnNaS2ktSnRVMWFDd2Z2VDVyTzVMTFdOWmVxVFBqUDROOHd4bVduUnVoSnZDNTI3X3oyRjV2ZzZ4Z3pNLWljSGsxd2J3aWpySUo5NV82SGh5UnBqaHVTd0RuZw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) 헬스포커스뉴스",
-      "publishedAt": "2026-04-10T15:00:00.000Z",
       "rank": 2
-    },
-    {
-      "id": "d9a5a783bc61610d",
-      "title": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcHh0MDVYTGVCNXFibThmVlY1amgySmV2SUdVbmJHa056NzJKV0F6bkJ2UjJnQXB3RDdHNzhDQmJva2dIaW81MWptUFlYbUdSeUNLVA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 v.daum.net",
-      "publishedAt": "2026-04-10T08:05:02.000Z",
-      "rank": 3
-    },
-    {
-      "id": "cc606e1d91b381c8",
-      "title": "리벨리온, Arm·SKT와 공동 개발…소버린 AI 인프라 표준화 방점 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SY2xCeDNFbnpodG5aWnY4OGZmSF9FOHpRREtib2t2SC1vVlk5NVh1dUgteHo0ajd3dWNnbzFQMUNLYzFKVUY2V2hDNU5oLWtFU0pIdnhuYU1tem5NUF81cWxTTUZ0bHVlaXZuZdIBbEFVX3lxTE1SY2xCeDNFbnpodG5aWnY4OGZmSF9FOHpRREtib2t2SC1vVlk5NVh1dUgteHo0ajd3dWNnbzFQMUNLYzFKVUY2V2hDNU5oLWtFU0pIdnhuYU1tem5NUF81cWxTTUZ0bHVlaXZuZQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "리벨리온, Arm·SKT와 공동 개발…소버린 AI 인프라 표준화 방점 블로터",
-      "publishedAt": "2026-04-10T04:21:22.000Z",
-      "rank": 4
-    },
-    {
-      "id": "08c9f5377bc1958b",
-      "title": "Incheon Launches AI Playground Project To Accelerate Digital Transformation - 경인방송 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMk53QUppU2s3S2VUSUtueFJQZXpWTF8wUmFOak5lVmdNLU5RdnJwWkZXNGV5M1YyNmQ0akdpVEdBVU4tTzJaQTRxaWM3Tld6bXJ6Mk5IcWN4eE5PYVlWRnBwcU_SAWhBVV95cUxPRlBvYUg5RFZUREk2RzVTT3NSTEtGeGtLMjNuakxRQlB1VUFzMFJaQmJBQmY4aFlrQ1REbFVwSjlZWmRGRnktZVNIRE1OLUxJQ1poN3F5RUFsckpJZ2lIT0JDS0FCTGVSOA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Incheon Launches AI Playground Project To Accelerate Digital Transformation 경인방송 뉴스",
-      "publishedAt": "2026-04-10T00:47:16.000Z",
-      "rank": 5
     },
     {
       "id": "89f8955b56388574",
@@ -110,7 +83,16 @@
       "source": "Google News: International Standardization",
       "summary": "Passive RFIDs Can Now Stream Telemetry Data from Sensors Under New ISO Standard ekhbary.com",
       "publishedAt": "2026-04-10T00:11:47.000Z",
-      "rank": 6
+      "rank": 3
+    },
+    {
+      "id": "3d97ac77c0876d88",
+      "title": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) - 헬스포커스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQl9ySkw3ZEhzUUcyTlM4NnNaS2ktSnRVMWFDd2Z2VDVyTzVMTFdOWmVxVFBqUDROOHd4bVduUnVoSnZDNTI3X3oyRjV2ZzZ4Z3pNLWljSGsxd2J3aWpySUo5NV82SGh5UnBqaHVTd0RuZw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) 헬스포커스뉴스",
+      "publishedAt": "2026-04-10T15:00:00.000Z",
+      "rank": 4
     },
     {
       "id": "2a4660321798347f",
@@ -119,15 +101,33 @@
       "source": "Google News: ITU-T standardization",
       "summary": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 월간인물",
       "publishedAt": "2026-04-10T00:13:23.000Z",
+      "rank": 5
+    },
+    {
+      "id": "d9a5a783bc61610d",
+      "title": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcHh0MDVYTGVCNXFibThmVlY1amgySmV2SUdVbmJHa056NzJKV0F6bkJ2UjJnQXB3RDdHNzhDQmJva2dIaW81MWptUFlYbUdSeUNLVA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 v.daum.net",
+      "publishedAt": "2026-04-10T08:05:02.000Z",
+      "rank": 6
+    },
+    {
+      "id": "feb945a3d16c2531",
+      "title": "“R&D 기획 새판 짤 때”… 전환기 전략포럼 개최 - 자치행정신문",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY043MTVTTWViTDNvSjJMdXF0S2dpTnBkaVNaaHZudllRSi1MUW9BMTVMSzBXNUlUNEJMUWJHcVpZUUdvelkwT3BkanF2bC1vTXNmSW1UNmlVRV81cmtSUGVRbWxRRE4yYTM2cGZkUzl1TnlsSXRscG1JeGY2MmcxVGh2T1JGVG9EcUozLTZvT0tSYUlPMjZBenpMQnpWcHRKczVhTUIzRmEyelN1M3c?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“R&D 기획 새판 짤 때”… 전환기 전략포럼 개최 자치행정신문",
+      "publishedAt": "2026-04-10T07:16:00.000Z",
       "rank": 7
     },
     {
-      "id": "f5b016d5fd2c74f7",
-      "title": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZnktZjM4WmpQckhXN0lWeFpxNWoxLXk3YVRpMVlBa2VDckpsVExfUm1GcUowMkd1OEptY2dKTjVrSTRDT3hfNkNwMnM0cEhiTXY1dnZVQTBuNm5wRm5Z?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "Singapore‑Based WPH Digital Among the First AI‑Focused Digital Companies in Asia to Achieve ISO/IEC 42001:2023, Setting a Global First for Oil & Gas AI Governance 뉴스와이어",
-      "publishedAt": "2026-04-09T00:55:00.000Z",
+      "id": "d5f638d6d402e064",
+      "title": "리벨리온, Arm·SKT와 공동개발…소버린AI 인프라 표준화 방점 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NUkFaeXNhNXEyRUUzaW1MY2UxNURKSVdkR1FsNnF6emNCa2hPOTEwU2pkT1R4RG10MmJraGRjWUVtVUxhaHhDYXFhRQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "리벨리온, Arm·SKT와 공동개발…소버린AI 인프라 표준화 방점 v.daum.net",
+      "publishedAt": "2026-04-10T07:02:43.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-11T02:26:00.000Z"
+      "updatedAt": "2026-04-12T02:41:45.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
