@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-13T02:42:50.173Z",
-  "projectsCheckedAt": "2026-04-13T02:42:50.173Z",
-  "projectsUpdatedAt": "2026-04-13T02:42:50.173Z",
+  "updatedAt": "2026-04-14T02:35:57.510Z",
+  "projectsCheckedAt": "2026-04-14T02:35:57.510Z",
+  "projectsUpdatedAt": "2026-04-14T02:35:57.510Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-13T02:42:50.173Z",
+    "checkedAt": "2026-04-14T02:35:57.510Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "98961e300ce1e1fc",
+      "title": "Incheon Opens AI And Digital Leadership Course For Women Leaders - 경인방송 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrdlp2OWZrQlZlTTAyUFRXeVE1SGpSbUFVRzZuak80NnhTc1ZBSVRRNkJlTUhmMXJtc1AwNUNlZ0xtQ2xiRHlReGdhcXFFNFNOYlE0YjNyVjd0MHlFMVNyRlJhNFHSAWhBVV95cUxOSlFPak96dzhaangwNGVZRC00MG43NW5YQjNteWRwYVktdXBLdjFTODYzZG1uMUYxRlN3Q0prSXVPS0JDQkg5T0xjVXhDUFVRMU9JT1pWM2sxQ3Jfa2ZscmJyTVgydDU2Sw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Incheon Opens AI And Digital Leadership Course For Women Leaders 경인방송 뉴스",
+      "publishedAt": "2026-04-14T01:53:35.000Z",
+      "rank": 1
+    },
+    {
+      "id": "395036633df42852",
+      "title": "LGE Taps Heat Pumps to Earn Global Carbon Credits - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fRnIwb0I1dk1PdW1KcGZWS0RQQlRQZTUzbDVXTjMtWTgxSkozWl9WQXdLT1ZwTDNKTHZwOVdpaDllZjdOc2V6Q09rSFMxSGlvdVNwVHRNQmc5UDhia1dCYmIxclloOFZMV0E?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "LGE Taps Heat Pumps to Earn Global Carbon Credits 한국면세뉴스",
+      "publishedAt": "2026-04-14T01:49:59.000Z",
+      "rank": 2
+    },
+    {
+      "id": "a99732bd50303696",
+      "title": "동원개발 안전경영 강화, ‘ISO 45001’ 인증 획득 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0JzWVVUSUhpYzV1Xy1pUVZpMndpcXZ2VWN5MG95OXNUSUFGQTMtMEVNeTdoMk1Wa2N0UmJfdXQzSk9vSTZmcHVlT3lhbzJFWFV0NVlVVHR3SnA4X2h4UVprVDROc3RTVkx6Z3o0Sm9JcldiZm5Ma2tQR0ozeVRCMmZ4S2s3MzVQRk5B?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "동원개발 안전경영 강화, ‘ISO 45001’ 인증 획득 국제신문",
+      "publishedAt": "2026-04-13T10:02:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "cefebf054ed111ee",
+      "title": "KTR, AI 개발, 운영에서 검증까지 토털서비스 지원 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KaFVkdGxraDg5aEc2Zlk2bHYwcWUxR0FLMGVpQXo5ZVFvUXBVbVZ0OXQ2c3FZZm1oaUN3ZWJkSGZyOEY4dktIU0tOZEMxaUNqdTZna0NETDV2UktGX1FuWW5tTXBkOGNOdzE0aU5kVGbSAXBBVV95cUxPSmhVZHRsa2g4OWhHNmZZNmx2MHFlMUdBSzBlaUF6OWVRb1FwVW1WdDl0NnNxWWZtaGlDd2ViZEhmcjhGOHZLSFNLTmRDMWlDanU2Z2tDREw1dlJLRl9RbllubU1wZDhjTncxNGlOZFRm?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KTR, AI 개발, 운영에서 검증까지 토털서비스 지원 전기신문",
+      "publishedAt": "2026-04-13T09:48:16.000Z",
+      "rank": 4
+    },
+    {
+      "id": "e03f18997d04b79f",
+      "title": "KTR, AI 개발부터 검증까지 통합 지원 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZUXJvMU95bTFlQ3BxODZUSnA5aDdwTEMzUVBHaXRBSFRQOUhQMXBIZUNyNy0zaEVrREoxdnFiYmR5ck9ucmswUW9JMGI5Sm8weC1FTllEcThoejViTTJHTkVzX0lyV3FCUlF3bmMzYllaOFRM0gF0QVVfeXFMTllRcm8xT3ltMWVDcHE4NlRKcDloN3BMQzNRUEdpdEFIVFA5SFAxcEhlQ3I3LTNoRWtESjF2cWJiZHlyT25yazBRb0kwYjlKbzB4LUVOWURxOGh6NWJNMkdORXNfSXJXcUJSUXduYzNiWVo4VEw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KTR, AI 개발부터 검증까지 통합 지원 이뉴스투데이",
+      "publishedAt": "2026-04-13T09:01:17.000Z",
+      "rank": 5
+    },
+    {
+      "id": "93bface13c6594ea",
+      "title": "일동제약, 자회사 유노비아 재합병…분사 2년만 전략 ‘선회’ - 팜이데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KX0FMTnF2c3ZMY2pkRFlFQ0tLSWZmUlFHQnhndUN1aU83MWtxeGg2Tm94bUppVTdwS3YzSUdpaHJ2Nzd3MWxpQ2NOVC1VYmtqcHdNYkxoSDJSbkZ4Ynp4aGo2a090NkhhQ2lvMXBn?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "일동제약, 자회사 유노비아 재합병…분사 2년만 전략 ‘선회’ 팜이데일리",
+      "publishedAt": "2026-04-13T08:28:21.000Z",
+      "rank": 6
+    },
+    {
+      "id": "b77fdf01e623b8c0",
+      "title": "KTR, AI 시험인증 체계 구축…민간 협력 확대 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTVpiWGhFdHFqME13enAxeTUycGVXN3V6ZHFmSEZCdVpvZmZzeV84UGtxdHM2QWtrWDFMUk1ZMmZBS3JuaVZDNHlEYjRTYWNpVEdwRTJPaVU3QdIBVEFVX3lxTFByODZ3OHBzWExZaFpUbExSMTZDU2cta1Rid1ZJdTZQWnRfbkpXdGdpa1ExLWxmUGI3N3E3bnRBMHdzSzhWV3ltOUJPWEhkNUNrVUp3Vw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "KTR, AI 시험인증 체계 구축…민간 협력 확대 더팩트",
+      "publishedAt": "2026-04-13T08:18:13.000Z",
+      "rank": 7
+    },
     {
       "id": "95a065bd5ddaae3b",
       "title": "한국MSD, 외형 감소 속 R&D 투자 기조 유지…혁신 전략 지속 - 약사공론",
@@ -65,143 +128,80 @@
       "source": "Google News: R&D Strategy",
       "summary": "한국MSD, 외형 감소 속 R&D 투자 기조 유지…혁신 전략 지속 약사공론",
       "publishedAt": "2026-04-12T20:50:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "d93e9b76ab483ef9",
-      "title": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQUG8wbHpOTllqX1NlaDRyRVNVMXVQcEFsQU04TFRtYl90eHNxc0xlMUlKdWpmZURBU2pEZUdmR2VyQXdJU2cteXNUam1zcGdST3BTelNySkVEdTBmYktxQl9zdHNheTR3Z1Z5Q2FR?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[AI Series 6편: 세계 각국의 AI 정책] “AI는 국가 전략”…미국·EU·중국·한국, 기술 패권 경쟁 본격화 코리아포스트 한글판",
-      "publishedAt": "2026-04-11T22:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "89f8955b56388574",
-      "title": "Passive RFIDs Can Now Stream Telemetry Data from Sensors Under New ISO Standard - ekhbary.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOai1pTFBUbnpGZVNtSmxHWloySUtWbDRFTWs0YXMwOTlnckhCSkIyVDBmYUxGdUc0SEJBYl85WWJ2NEpGSVlieFM2OGNha0dhQXZma19UNm5GX3VtbEh5VDZwNlRDUC13bUF2c3kzREZtZzcxNzRzOF95bkxYMU1KSlREUEpqV1hfeUZxM092MDlPcGVQb1RlQkhabFk3SXhlRTlTUGxtRlBiT3M0RlpHSmpqa2FUa3lzWTU3WDlQZG4?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Passive RFIDs Can Now Stream Telemetry Data from Sensors Under New ISO Standard ekhbary.com",
-      "publishedAt": "2026-04-10T00:11:47.000Z",
-      "rank": 3
-    },
-    {
-      "id": "3d97ac77c0876d88",
-      "title": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) - 헬스포커스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQl9ySkw3ZEhzUUcyTlM4NnNaS2ktSnRVMWFDd2Z2VDVyTzVMTFdOWmVxVFBqUDROOHd4bVduUnVoSnZDNTI3X3oyRjV2ZzZ4Z3pNLWljSGsxd2J3aWpySUo5NV82SGh5UnBqaHVTd0RuZw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "신약개발 R&D 리스크 관리ᆞ인허가 전략’ 세미나(4월 13일) 헬스포커스뉴스",
-      "publishedAt": "2026-04-10T15:00:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "2a4660321798347f",
-      "title": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 - 월간인물",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MGNwREFCeFNUcER3djZsLXNjam9Wb3hpMS1FX0JWbEExQjdzUFFyWjN0Q20wQm9jQ1AxeVRJNVB6SVJ5clh1Y1gwc3N0ZzFGS29KSG5ROUFrU2tpOXdqVm5NZDhvbTlUM281anNyVXdmUdIBdkFVX3lxTE5fRWtWWjgyMGRYYjJQRFc3ZDI0Q2tDZVdVQzNMR1BPOGgyRy1zdHNiYURELVF1cjkxa0dvaVhnVUZfRTJpbllyQUZ4NEhJc3lJS2RZZEZYczNEdE1sLVJiNl84ZlhTZDBzcWZ1QVVnRkphWkNuQmc?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "과학기술정보통신부, 사이버보안 국제표준회의 ITU-T SG17 성황리에 마무리 월간인물",
-      "publishedAt": "2026-04-10T00:13:23.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d9a5a783bc61610d",
-      "title": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcHh0MDVYTGVCNXFibThmVlY1amgySmV2SUdVbmJHa056NzJKV0F6bkJ2UjJnQXB3RDdHNzhDQmJva2dIaW81MWptUFlYbUdSeUNLVA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“예타 폐지·PBS 개편”…R&D 전환기, 기획 전략 재정비 필요 v.daum.net",
-      "publishedAt": "2026-04-10T08:05:02.000Z",
-      "rank": 6
-    },
-    {
-      "id": "feb945a3d16c2531",
-      "title": "“R&D 기획 새판 짤 때”… 전환기 전략포럼 개최 - 자치행정신문",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY043MTVTTWViTDNvSjJMdXF0S2dpTnBkaVNaaHZudllRSi1MUW9BMTVMSzBXNUlUNEJMUWJHcVpZUUdvelkwT3BkanF2bC1vTXNmSW1UNmlVRV81cmtSUGVRbWxRRE4yYTM2cGZkUzl1TnlsSXRscG1JeGY2MmcxVGh2T1JGVG9EcUozLTZvT0tSYUlPMjZBenpMQnpWcHRKczVhTUIzRmEyelN1M3c?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“R&D 기획 새판 짤 때”… 전환기 전략포럼 개최 자치행정신문",
-      "publishedAt": "2026-04-10T07:16:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "d5f638d6d402e064",
-      "title": "리벨리온, Arm·SKT와 공동개발…소버린AI 인프라 표준화 방점 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NUkFaeXNhNXEyRUUzaW1MY2UxNURKSVdkR1FsNnF6emNCa2hPOTEwU2pkT1R4RG10MmJraGRjWUVtVUxhaHhDYXFhRQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "리벨리온, Arm·SKT와 공동개발…소버린AI 인프라 표준화 방점 v.daum.net",
-      "publishedAt": "2026-04-10T07:02:43.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "57c148246ccd5355",
-      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
-      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
-      "publishedAt": "2026-04-11T16:23:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "554350adfe171cd9",
-      "title": "Arm CEO Haas on Shifting From Smartphones to AI",
-      "url": "https://www.youtube.com/watch?v=3PagB-dU79I",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3PagB-dU79I/hqdefault.jpg",
-      "publishedAt": "2026-04-11T05:00:07.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5234b84e1c8d52be",
-      "title": "Artemis II Safely Returns to Earth After Historic Moon Mission",
-      "url": "https://www.youtube.com/watch?v=c03moTuX6Ps",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/c03moTuX6Ps/hqdefault.jpg",
-      "publishedAt": "2026-04-11T00:33:27.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "8038c56bfe29e177",
-      "title": "Google's ADK + MCP = The Future of AI Agents",
-      "url": "https://www.youtube.com/watch?v=wIhkYnTpPs4",
+      "id": "c6bf3844c7d6d6ee",
+      "title": "Give your robot a Voice with Gemini Live",
+      "url": "https://www.youtube.com/watch?v=jkdvMEvG8T8",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/wIhkYnTpPs4/hqdefault.jpg",
-      "publishedAt": "2026-04-10T21:23:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jkdvMEvG8T8/hqdefault.jpg",
+      "publishedAt": "2026-04-13T23:00:54.000Z",
       "viewCount": 0
     },
     {
-      "id": "3fd40a8e4d7b7759",
-      "title": "Medicare Navigation Startup Raises $100 Million",
-      "url": "https://www.youtube.com/watch?v=uW4IZJH_mK0",
+      "id": "f0f629aa141470b2",
+      "title": "Regulators Warn of New Era of Cyber Risk From AI | Bloomberg Tech 4/13/2026",
+      "url": "https://www.youtube.com/watch?v=PktAgPaRpCQ",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/uW4IZJH_mK0/hqdefault.jpg",
-      "publishedAt": "2026-04-10T20:44:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/PktAgPaRpCQ/hqdefault.jpg",
+      "publishedAt": "2026-04-13T22:10:29.000Z",
       "viewCount": 0
     },
     {
-      "id": "2930dfd950acb273",
-      "title": "Wall Street CEOs Summoned to Discuss Anthropic AI Risks | Bloomberg Tech 4/10/2026",
-      "url": "https://www.youtube.com/watch?v=zuO-R4gk5DM",
+      "id": "8486244f98c360c3",
+      "title": "We’re Less Safe From Cyber Risks Now, Says HackerOne CEO",
+      "url": "https://www.youtube.com/watch?v=9xY3KdWcWQ8",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/zuO-R4gk5DM/hqdefault.jpg",
-      "publishedAt": "2026-04-10T19:07:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9xY3KdWcWQ8/hqdefault.jpg",
+      "publishedAt": "2026-04-13T21:06:02.000Z",
       "viewCount": 0
     },
     {
-      "id": "f52b9904bde343bd",
-      "title": "Apple Accused of ‘Union Busting’ Over Store Closure",
-      "url": "https://www.youtube.com/watch?v=I5RLSR8nqG8",
+      "id": "751a0a537730b80f",
+      "title": "Apple Plans AI Glasses to Rival Meta’s",
+      "url": "https://www.youtube.com/watch?v=y0myLanQVVw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/I5RLSR8nqG8/hqdefault.jpg",
-      "publishedAt": "2026-04-10T18:03:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/y0myLanQVVw/hqdefault.jpg",
+      "publishedAt": "2026-04-13T20:46:25.000Z",
       "viewCount": 0
     },
     {
-      "id": "ea6b81417466bb6f",
-      "title": "NASA’s Artemis Crew Set to Splashdown After Moon Voyage",
-      "url": "https://www.youtube.com/watch?v=qXXd6wMHRM0",
+      "id": "8b18d971a2202d5b",
+      "title": "NASA, Lockheed Unpack Successes and Failures of Orion Capsule",
+      "url": "https://www.youtube.com/watch?v=6w1f5xZzcgo",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qXXd6wMHRM0/hqdefault.jpg",
-      "publishedAt": "2026-04-10T17:30:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/6w1f5xZzcgo/hqdefault.jpg",
+      "publishedAt": "2026-04-13T20:39:21.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d3e787528f49a3a8",
+      "title": "Roblox Adds Youth Accounts As Push for Social Media Bans Grows",
+      "url": "https://www.youtube.com/watch?v=qugKaBtz6Z0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/qugKaBtz6Z0/hqdefault.jpg",
+      "publishedAt": "2026-04-13T20:29:26.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a68b2900d047b53a",
+      "title": "Public Investors Missed the AI Growth, Baillie Gifford’s Singlehurst Says",
+      "url": "https://www.youtube.com/watch?v=hRe1XUvcT_w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/hRe1XUvcT_w/hqdefault.jpg",
+      "publishedAt": "2026-04-13T20:17:14.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "175b91b990394c32",
+      "title": "Bringing the fairway to every fan",
+      "url": "https://www.youtube.com/watch?v=4tj-mySwbVQ",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/4tj-mySwbVQ/hqdefault.jpg",
+      "publishedAt": "2026-04-13T16:00:00.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-12T02:41:45.000Z"
+      "updatedAt": "2026-04-13T02:46:59.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
