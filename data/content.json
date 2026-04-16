@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-15T02:34:31.356Z",
-  "projectsCheckedAt": "2026-04-15T02:34:31.356Z",
-  "projectsUpdatedAt": "2026-04-15T02:34:31.356Z",
+  "updatedAt": "2026-04-16T02:41:51.115Z",
+  "projectsCheckedAt": "2026-04-16T02:41:51.115Z",
+  "projectsUpdatedAt": "2026-04-16T02:41:51.115Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-15T02:34:31.356Z",
+    "checkedAt": "2026-04-16T02:41:51.115Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "1af1c238facd15c7",
+      "title": "슈어소프트테크, KT '파트너스데이' '우수협력상' 수상 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyTlFPaXh2MnRQV0pya3dmMGxpZVhyN0U3VFQxTnoxVEs4cjR2OTh0UzVkQTBfVHN6djlqMkxIRU5rMEYxNjI2SGswWTd0ZEdXZlFn?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "슈어소프트테크, KT '파트너스데이' '우수협력상' 수상 네이트",
+      "publishedAt": "2026-04-16T01:35:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "6fdc1c626f5cc8c7",
+      "title": "i-DEA-충북테크노파크, 배터리·소재 중심 DX·AX·GX 위한 전략적 협력 본격화 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Yjd1UDB3UEU4cG1rN1BmalJiWWkzc0xWeWZ0NVR0SkZaZENlWE5rZEI0cGFRT2NKWS1lQm4zcFlTSzV1NWJheGFPX0dFWDNFUFhhYVNZZWp0SEcyR0JB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "i-DEA-충북테크노파크, 배터리·소재 중심 DX·AX·GX 위한 전략적 협력 본격화 헬로티",
+      "publishedAt": "2026-04-15T05:17:39.000Z",
+      "rank": 2
+    },
+    {
+      "id": "a6e49766e992aeb5",
+      "title": "[PRNewswire] GSMA Urges Bold Action from Japan - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VVBSRlBDbW5POGZkUVo4dmc4Si1JN21LMHlPU0NkdlF0U1I0aDFaZGN5STNwWXU3TDhLM3U2bFRPN3hYZWg3cTFRdzhuM09BNFln?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[PRNewswire] GSMA Urges Bold Action from Japan 네이트",
+      "publishedAt": "2026-04-15T04:50:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "896cdb8e5677ec97",
+      "title": "Premium music festival ‘Belleforet Week’ to be held on June 6 at Belleforet Resort! Crying Nut→ONEWE·Dragon Pony lineup confirmed - 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUXJHNE1sQUw0QWxVUkJuaENWVlJOSE9QbWpMX1IwYWN6VDNUUGR1aDRXY1Yydk9zV0JBQ2VLdjZwRGNUUDFvYnBxa0pXaXRwdTlWRU83alozMVFpVjRUQkhB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Premium music festival ‘Belleforet Week’ to be held on June 6 at Belleforet Resort! Crying Nut→ONEWE·Dragon Pony lineup confirmed 스포츠경향",
+      "publishedAt": "2026-04-15T04:30:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "f5482c1cdee580b5",
+      "title": "회계업계 이익에 휘둘려 국익 저버린 한국 지속가능성(ESG) 공시 - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vSXJxYVg0d3JxTDBNNVFmWWcxSjJfcGtQMDJXTE9rNklOQ09VeUhfaGd2d0dybC1xNUhUQlNHUTdDSGg1d2tiQXg0LXBxVEtFTDVuTWlOcHFCaEhqVlY1dVdCNUdwNmpNbHpxZW9DbDlyWkk?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "회계업계 이익에 휘둘려 국익 저버린 한국 지속가능성(ESG) 공시 ESG비즈니스리뷰",
+      "publishedAt": "2026-04-15T03:20:57.000Z",
+      "rank": 5
+    },
     {
       "id": "bc72c5e3335aecc4",
       "title": "Exito Media Concepts Announces the 46th Edition of the Digital Transformation Summit Malaysia 2026 - KIPOST",
@@ -65,143 +110,98 @@
       "source": "Google News: Digital Transformation",
       "summary": "Exito Media Concepts Announces the 46th Edition of the Digital Transformation Summit Malaysia 2026 KIPOST",
       "publishedAt": "2026-04-14T06:45:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "d8fcc3770610893f",
-      "title": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpZzg0MFlpdkNxR2V1VUZmNXVjbDF3WHRwS05ESHFFaWpSLWxGSl93ZERYQUdyTWNZRUh1c2RmSEpEQnFUeExN?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 브레이크뉴스",
-      "publishedAt": "2026-04-15T01:02:31.000Z",
-      "rank": 2
-    },
-    {
-      "id": "c167f5a2afd62b5c",
-      "title": "[미르의 글로벌 레이더] 삼성, 베트남서 ‘기술 인재 2200명’ 키운다… 미래 IT 패권의 ‘인적 요새’ 구축 - 미디어펜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vZGREcmVTMnZSNFc1T1d1bFdVVGI5bTB1Z1FINEV0eXZrclZjcDVXVmRiU2tWd2NXSVhubjRKSVVRdkxaWjRlN3M1d1VpZVVlNHZpWENVNljSAVhBVV95cUxOb2RkRHJlUzJ2UjRXNU9XdWxXVVRiOW0wdWdRSDRFdHl2a3JWY3A1V1ZkYlNrVndjV0lYbm40SklVUXZMWlo0ZTdzNXdVaWVVZTR2aVhDVTZY?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[미르의 글로벌 레이더] 삼성, 베트남서 ‘기술 인재 2200명’ 키운다… 미래 IT 패권의 ‘인적 요새’ 구축 미디어펜",
-      "publishedAt": "2026-04-14T23:56:51.000Z",
-      "rank": 3
-    },
-    {
-      "id": "c929e7771c316934",
-      "title": "KKR and Samsung SDS Form Strategic Partnership to Drive Long-Term Value Creation - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMXd3aTZpS1NQWmRGVGZoUW96UVEyVUtyRE80NjZwU1lBSlZIcXg5bGpINkNOdS1IalFKZzlvTGtmQXl4UXhicnBpYzVCSW8tLXR4MWhFa0lKUdIBVEFVX3lxTFB1N3pna3BnMDB1ZGJOejhDNXpTRmU5TUh5cG1kZTE1VXZLTHNuVW45b09oWWpuLUk3RkxkV05vMmlqU1JWcmRKdDJBcUNoVGZVQTFwQg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "KKR and Samsung SDS Form Strategic Partnership to Drive Long-Term Value Creation 한국경제",
-      "publishedAt": "2026-04-14T23:52:44.000Z",
-      "rank": 4
-    },
-    {
-      "id": "ba6209b56075826b",
-      "title": "Naver Pushes Ahead with Saudi Super App Project Despite Middle East Tensions - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZM1M4bnFzY3h1ZTNQLTA1MzY3UndGazZDcjBlNHJ1X05xOFVKV193UWFEQUczM1JDb3dOalRZMlJGU2g1YlJSWWZlVUxxeFp3SFpZaXl6Z0FfNExOYUHSAW5BVV95cUxPbjR6ZkxFWWowRjlfQUVOVXE0QWtERkVXWFdUZkctUWJzX1VSZTZyd3FCa1I0VVBwNkxqajJCRE5EZy02UDhMVHg4ME1XUDdSaV9Ba1hWd2JqY1RfY3VBS1VWMVF5QkJvd19ZU0gxQQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Naver Pushes Ahead with Saudi Super App Project Despite Middle East Tensions 알파경제",
-      "publishedAt": "2026-04-14T22:38:02.000Z",
-      "rank": 5
-    },
-    {
-      "id": "f614531039962321",
-      "title": "Adopting Global Standards: Thailand’s Journey to Implement International Sustainability-Related Financial Disclosures - KDI 경제교육·정보센터",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3lFMjFxQjdNem1LcFdMTW5LVVllVEQxNkpHZjdUQ3JkTEV4T3NIR2pZZWVnRUJpMGpRVU9vQTJBaV9HTHNtR0R5SEVaVjg2ZmtacDZNMS1DVHA3T0ZScnVEQjhxbFNIaFp5c2JMcGVoMXFRcm5sUGtuYmZ0VG5uQWdGNXYwZ00wajB2UVkzM0hKZGVvMVRybU92eHBpbFpUU2I5c1phdDRnel9NdFVIamZBbw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Adopting Global Standards: Thailand’s Journey to Implement International Sustainability-Related Financial Disclosures KDI 경제교육·정보센터",
-      "publishedAt": "2026-04-14T09:53:54.000Z",
       "rank": 6
     },
     {
-      "id": "7c31cb5b8e02292a",
-      "title": "오비맥주, ‘생맥주 표준화’로 외식시장 공략 - smartbizn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qTzVSWUo2T2NydERIVFMzZlFlMVMxdWI0S0lFcHJUMEtTenJjMF9DQ3JGdVJxblRNYWNWaE9HejVkb1FhYXhNZ3gxTGQtRnB1R2lPRFplUGotdENUVHJmVTl3YVBtU1dQT2VYZw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "오비맥주, ‘생맥주 표준화’로 외식시장 공략 smartbizn.com",
-      "publishedAt": "2026-04-14T11:25:07.000Z",
+      "id": "51482f8a1847c940",
+      "title": "Hanshow Completes Full Acquisition of HARB Data to Enhance AI‑Driven Data Services Capabilities - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKOG41aHJFMjVPeG9kUnpOOGd2a1h4WF9OYklndkpLLTlpcnh0MFFtSkNBNlJMeDFQeEZ4V2k0NlRMYnFfM3pGWmVRMG93cUVWM0RJUVJtTEt4eC0yTlljMDR6VWZJa3Nj0gFsQVVfeXFMTzljUWlYMkVPVmNKeEtSaGFYZkJRTFBYaFg1THZtZ0UzQ01vOUk5SThJRUFXay1UMDk4M3B3bGhGazJ0ZV9kQjVybmUxdnNUeG5SQlRzWXJpNWE0T3hyQUNaZkFFNHYtLTV1aFFp?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Hanshow Completes Full Acquisition of HARB Data to Enhance AI‑Driven Data Services Capabilities KIPOST",
+      "publishedAt": "2026-04-15T02:00:00.000Z",
       "rank": 7
     },
     {
-      "id": "bb239b503b0d963b",
-      "title": "‘유노비아’ 재합병…일동제약, R&D 전략 재편 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVWm1ueTkxMVVqWmdfX3h5Y0phZGhDY2M5dXRnZzFFNDZjdGEwUGREakhoQ2JXVzNxQ0t3VlczRHlIUEV2b194ZmtIVENZdmNjRjRZQnRnVGV1Z0VYdl9QYTh6OXNXZXFVbjNKQtIBbEFVX3lxTFBVWm1ueTkxMVVqWmdfX3h5Y0phZGhDY2M5dXRnZzFFNDZjdGEwUGREakhoQ2JXVzNxQ0t3VlczRHlIUEV2b194ZmtIVENZdmNjRjRZQnRnVGV1Z0VYdl9QYTh6OXNXZXFVbjNKQg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "‘유노비아’ 재합병…일동제약, R&D 전략 재편 블로터",
-      "publishedAt": "2026-04-14T06:45:27.000Z",
+      "id": "275efc384d5ba9ae",
+      "title": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyUTd4eEZ0eWtPVkZMVTVxMEw4UXRUbmlkWnN3a3NKeC1Jb1RHQUhiamRNTldLQXZ6bVNGREVzZkRKVkFxbnJHdQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 브레이크뉴스",
+      "publishedAt": "2026-04-15T01:02:31.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "c6bf3844c7d6d6ee",
-      "title": "Give your robot a Voice with Gemini Live",
-      "url": "https://www.youtube.com/watch?v=jkdvMEvG8T8",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/jkdvMEvG8T8/hqdefault.jpg",
-      "publishedAt": "2026-04-13T23:00:54.000Z",
+      "id": "2c371c23b552c020",
+      "title": "New Way Now: Grupo Coppel turns complex data into clear answers in seconds with Google Cloud",
+      "url": "https://www.youtube.com/watch?v=nRX5AadNDSE",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/nRX5AadNDSE/hqdefault.jpg",
+      "publishedAt": "2026-04-15T23:00:53.000Z",
       "viewCount": 0
     },
     {
-      "id": "f0f629aa141470b2",
-      "title": "Regulators Warn of New Era of Cyber Risk From AI | Bloomberg Tech 4/13/2026",
-      "url": "https://www.youtube.com/watch?v=PktAgPaRpCQ",
+      "id": "328bc69acfa2a469",
+      "title": "Anthropic Draws Investor Offers at Over $800 Billion Value | Bloomberg Tech 4/15/2026",
+      "url": "https://www.youtube.com/watch?v=Kkm0zhmLbKc",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/PktAgPaRpCQ/hqdefault.jpg",
-      "publishedAt": "2026-04-13T22:10:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Kkm0zhmLbKc/hqdefault.jpg",
+      "publishedAt": "2026-04-15T20:37:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "8486244f98c360c3",
-      "title": "We’re Less Safe From Cyber Risks Now, Says HackerOne CEO",
-      "url": "https://www.youtube.com/watch?v=9xY3KdWcWQ8",
+      "id": "ea7dc0177d9150e6",
+      "title": "EU Eyes New Tech Rules With The Digital Fairness Act",
+      "url": "https://www.youtube.com/watch?v=YVgsVfDIKzw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/9xY3KdWcWQ8/hqdefault.jpg",
-      "publishedAt": "2026-04-13T21:06:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YVgsVfDIKzw/hqdefault.jpg",
+      "publishedAt": "2026-04-15T20:05:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "751a0a537730b80f",
-      "title": "Apple Plans AI Glasses to Rival Meta’s",
-      "url": "https://www.youtube.com/watch?v=y0myLanQVVw",
+      "id": "8beaa4e82219a79c",
+      "title": "Tech Billionaires Push Pick for Governor",
+      "url": "https://www.youtube.com/watch?v=HmPH-PQsASk",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/y0myLanQVVw/hqdefault.jpg",
-      "publishedAt": "2026-04-13T20:46:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HmPH-PQsASk/hqdefault.jpg",
+      "publishedAt": "2026-04-15T19:26:47.000Z",
       "viewCount": 0
     },
     {
-      "id": "8b18d971a2202d5b",
-      "title": "NASA, Lockheed Unpack Successes and Failures of Orion Capsule",
-      "url": "https://www.youtube.com/watch?v=6w1f5xZzcgo",
+      "id": "65b301f6afe37d06",
+      "title": "ECB Between Baseline and Adverse Outcomes, Says Nagel",
+      "url": "https://www.youtube.com/watch?v=eNvqoLs1VPM",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/6w1f5xZzcgo/hqdefault.jpg",
-      "publishedAt": "2026-04-13T20:39:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/eNvqoLs1VPM/hqdefault.jpg",
+      "publishedAt": "2026-04-15T19:23:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "d3e787528f49a3a8",
-      "title": "Roblox Adds Youth Accounts As Push for Social Media Bans Grows",
-      "url": "https://www.youtube.com/watch?v=qugKaBtz6Z0",
+      "id": "24f8d48482ad5d62",
+      "title": "ASML Won’t Be an AI Bottleneck, Says Berenberg's Qiu",
+      "url": "https://www.youtube.com/watch?v=O637M9K5izo",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qugKaBtz6Z0/hqdefault.jpg",
-      "publishedAt": "2026-04-13T20:29:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/O637M9K5izo/hqdefault.jpg",
+      "publishedAt": "2026-04-15T19:18:57.000Z",
       "viewCount": 0
     },
     {
-      "id": "a68b2900d047b53a",
-      "title": "Public Investors Missed the AI Growth, Baillie Gifford’s Singlehurst Says",
-      "url": "https://www.youtube.com/watch?v=hRe1XUvcT_w",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/hRe1XUvcT_w/hqdefault.jpg",
-      "publishedAt": "2026-04-13T20:17:14.000Z",
+      "id": "0be66872073a9c39",
+      "title": "Easily migrate your data to Google Cloud managed databases",
+      "url": "https://www.youtube.com/watch?v=ne_p-Qh5bcc",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/ne_p-Qh5bcc/hqdefault.jpg",
+      "publishedAt": "2026-04-15T19:04:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "175b91b990394c32",
-      "title": "Bringing the fairway to every fan",
-      "url": "https://www.youtube.com/watch?v=4tj-mySwbVQ",
-      "channel": "IBM Technology",
-      "thumbnail": "https://i.ytimg.com/vi/4tj-mySwbVQ/hqdefault.jpg",
-      "publishedAt": "2026-04-13T16:00:00.000Z",
+      "id": "d7768085ef74f81c",
+      "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point) | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=JVI2cfYRaNM",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/JVI2cfYRaNM/hqdefault.jpg",
+      "publishedAt": "2026-04-15T17:41:00.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-14T02:40:02.000Z"
+      "updatedAt": "2026-04-15T02:38:36.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
