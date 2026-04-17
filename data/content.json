@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-16T02:41:51.115Z",
-  "projectsCheckedAt": "2026-04-16T02:41:51.115Z",
-  "projectsUpdatedAt": "2026-04-16T02:41:51.115Z",
+  "updatedAt": "2026-04-17T02:37:02.174Z",
+  "projectsCheckedAt": "2026-04-17T02:37:02.174Z",
+  "projectsUpdatedAt": "2026-04-17T02:37:02.174Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-16T02:41:51.115Z",
+    "checkedAt": "2026-04-17T02:37:02.174Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "1af1c238facd15c7",
-      "title": "슈어소프트테크, KT '파트너스데이' '우수협력상' 수상 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyTlFPaXh2MnRQV0pya3dmMGxpZVhyN0U3VFQxTnoxVEs4cjR2OTh0UzVkQTBfVHN6djlqMkxIRU5rMEYxNjI2SGswWTd0ZEdXZlFn?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "슈어소프트테크, KT '파트너스데이' '우수협력상' 수상 네이트",
-      "publishedAt": "2026-04-16T01:35:00.000Z",
+      "id": "4df3047b84f081aa",
+      "title": "Pharmavision Wins Strategic Backing From Oregon Angel Partners - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUDdxUXlQM2hlWWUyTk5SREtnRGhRZUNTNW0yRVFuVEh0dFJfeXZ1SVNIZUFTSGkwb05UeWlSMUp5c09obkp0NUpjMWN3QlhLc3Z1VkJHa242STZSWEw1ODN5djY0eGlYbDJJ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "Pharmavision Wins Strategic Backing From Oregon Angel Partners 히트뉴스",
+      "publishedAt": "2026-04-17T01:04:21.000Z",
       "rank": 1
     },
     {
-      "id": "6fdc1c626f5cc8c7",
-      "title": "i-DEA-충북테크노파크, 배터리·소재 중심 DX·AX·GX 위한 전략적 협력 본격화 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Yjd1UDB3UEU4cG1rN1BmalJiWWkzc0xWeWZ0NVR0SkZaZENlWE5rZEI0cGFRT2NKWS1lQm4zcFlTSzV1NWJheGFPX0dFWDNFUFhhYVNZZWp0SEcyR0JB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "i-DEA-충북테크노파크, 배터리·소재 중심 DX·AX·GX 위한 전략적 협력 본격화 헬로티",
-      "publishedAt": "2026-04-15T05:17:39.000Z",
+      "id": "a90477c1905d48ea",
+      "title": "[인터뷰] “고철도 데이터로 본다”…아이모스, AI로 판정 표준화 - 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSaUlqeURCdWhESzRTMi1RN0RpVHpMRU9pQlhnNXpKc1VxdUd1ZVk1aHd2Z2k4T3ZkTTFNSy11Q3dvcy1XVnZVR2tUVS1idWgtWEM0Q3hqU0ZUbXdTMWp5dVBzWDV3S2k3WDQwbg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[인터뷰] “고철도 데이터로 본다”…아이모스, AI로 판정 표준화 페로타임즈",
+      "publishedAt": "2026-04-16T22:00:00.000Z",
       "rank": 2
     },
     {
-      "id": "a6e49766e992aeb5",
-      "title": "[PRNewswire] GSMA Urges Bold Action from Japan - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VVBSRlBDbW5POGZkUVo4dmc4Si1JN21LMHlPU0NkdlF0U1I0aDFaZGN5STNwWXU3TDhLM3U2bFRPN3hYZWg3cTFRdzhuM09BNFln?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[PRNewswire] GSMA Urges Bold Action from Japan 네이트",
-      "publishedAt": "2026-04-15T04:50:00.000Z",
+      "id": "d652d5e20b3a9ef2",
+      "title": "\"공공 AX 성공하려면 데이터 표준화·AI 협업 설계 먼저\" - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJbDhvTVI0U2NxYzREdjZxSC1HTmFZZi15SlJxY0VLMUxYOWk2cEFyVVdWS3JnUDBLVEhMdUZlMXRRd1dEZUtWRnc3dFhra2NBcG5XNExYWXlHZkZQcFN3bDY5dkI?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"공공 AX 성공하려면 데이터 표준화·AI 협업 설계 먼저\" 디지털데일리",
+      "publishedAt": "2026-04-16T21:00:00.000Z",
       "rank": 3
     },
     {
-      "id": "896cdb8e5677ec97",
-      "title": "Premium music festival ‘Belleforet Week’ to be held on June 6 at Belleforet Resort! Crying Nut→ONEWE·Dragon Pony lineup confirmed - 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUXJHNE1sQUw0QWxVUkJuaENWVlJOSE9QbWpMX1IwYWN6VDNUUGR1aDRXY1Yydk9zV0JBQ2VLdjZwRGNUUDFvYnBxa0pXaXRwdTlWRU83alozMVFpVjRUQkhB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Premium music festival ‘Belleforet Week’ to be held on June 6 at Belleforet Resort! Crying Nut→ONEWE·Dragon Pony lineup confirmed 스포츠경향",
-      "publishedAt": "2026-04-15T04:30:00.000Z",
+      "id": "94190f2999bf05ff",
+      "title": "한수원, 디지털전환‧인공지능 기술교류 워크숍 - 서라벌신문",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaN0ZDdDdDNVV2N1Y4WVBQb1RKdDcyNnJZYXdvT0VHWjdjWHMxSGtYSGpxcFdBaENrQW9Wek1CU1VSX2ZOZVdmTGgzVE5sRWJ4X2doVDB5UkhXdTc0ZEpnZ0pkX211dHduZzZxd0ppY2FaVWVEaWhQU2J0T3VvUQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한수원, 디지털전환‧인공지능 기술교류 워크숍 서라벌신문",
+      "publishedAt": "2026-04-16T10:59:17.000Z",
       "rank": 4
     },
     {
-      "id": "f5482c1cdee580b5",
-      "title": "회계업계 이익에 휘둘려 국익 저버린 한국 지속가능성(ESG) 공시 - ESG비즈니스리뷰",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vSXJxYVg0d3JxTDBNNVFmWWcxSjJfcGtQMDJXTE9rNklOQ09VeUhfaGd2d0dybC1xNUhUQlNHUTdDSGg1d2tiQXg0LXBxVEtFTDVuTWlOcHFCaEhqVlY1dVdCNUdwNmpNbHpxZW9DbDlyWkk?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "회계업계 이익에 휘둘려 국익 저버린 한국 지속가능성(ESG) 공시 ESG비즈니스리뷰",
-      "publishedAt": "2026-04-15T03:20:57.000Z",
+      "id": "b41d9f736126704f",
+      "title": "R&D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZGM3X2tSV0V3Skx5VjQ2ZlZ1ODdOckdVV3N0cU5UeHFxMnlrdGYtNzRXVUFCMVBVYzdNVkwxV3AydE4xLXZCNFJRSHZJY2VzUHJCeVhFaU1zZ010Unp3WNIBYEFVX3lxTE9ZZGM3X2tSV0V3Skx5VjQ2ZlZ1ODdOckdVV3N0cU5UeHFxMnlrdGYtNzRXVUFCMVBVYzdNVkwxV3AydE4xLXZCNFJRSHZJY2VzUHJCeVhFaU1zZ010Unp3WA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "R&D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대 연합뉴스",
+      "publishedAt": "2026-04-16T09:00:01.000Z",
       "rank": 5
     },
     {
-      "id": "bc72c5e3335aecc4",
-      "title": "Exito Media Concepts Announces the 46th Edition of the Digital Transformation Summit Malaysia 2026 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vb0c4UHZvRWxNTVNzVm9rMk9HdW9JRnZieUJGd05EZnFhYlU1LU1UWWJ3Z2NobFFJbjBNTHJwWFAyUlRIbFM5aUlIVExKemt5LWZyRnpKZjE4Ui1ZbmdRQVNTc2ZVbjZl0gFsQVVfeXFMTkNNYVhRSmdiLXBXamY1WXR3MzdGWWZQWkRBZEp6NklfUE9XaGJ5OElzTjBUUzBFUm01dUYyNmFXVi1UTDVsTWNDQ054RUVNMU9iMlNEVzh3U2c0WW5zcnpDa1RfVWVYRHdHT1pP?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Exito Media Concepts Announces the 46th Edition of the Digital Transformation Summit Malaysia 2026 KIPOST",
-      "publishedAt": "2026-04-14T06:45:00.000Z",
+      "id": "e3ab9adcaf6ac62f",
+      "title": "제약업계, R&D '운영 방식' 재설계…건강 시장 대응 전략 전환 - 매경헬스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVmR2SnlqRlgzRV9NLVVPYlBxcWxZM1NVOWRJcVFFWGVjaXpkM01GUUxXdkZ6TUFXOE1nVHQtUGNrRXZtN054UVM5SDFfeE15OGl2S081MjU4Q3pnVlAzdmxNeHBRbE5tNDgzZg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "제약업계, R&D '운영 방식' 재설계…건강 시장 대응 전략 전환 매경헬스",
+      "publishedAt": "2026-04-16T04:00:00.000Z",
       "rank": 6
     },
     {
-      "id": "51482f8a1847c940",
-      "title": "Hanshow Completes Full Acquisition of HARB Data to Enhance AI‑Driven Data Services Capabilities - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKOG41aHJFMjVPeG9kUnpOOGd2a1h4WF9OYklndkpLLTlpcnh0MFFtSkNBNlJMeDFQeEZ4V2k0NlRMYnFfM3pGWmVRMG93cUVWM0RJUVJtTEt4eC0yTlljMDR6VWZJa3Nj0gFsQVVfeXFMTzljUWlYMkVPVmNKeEtSaGFYZkJRTFBYaFg1THZtZ0UzQ01vOUk5SThJRUFXay1UMDk4M3B3bGhGazJ0ZV9kQjVybmUxdnNUeG5SQlRzWXJpNWE0T3hyQUNaZkFFNHYtLTV1aFFp?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Hanshow Completes Full Acquisition of HARB Data to Enhance AI‑Driven Data Services Capabilities KIPOST",
-      "publishedAt": "2026-04-15T02:00:00.000Z",
+      "id": "3abc33ad726139cd",
+      "title": "슈어소프트테크, KT ‘파트너스데이’ ‘우수협력상’ 수상 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbXl5SmphaVpvTkJRYzFLQ0Fkd3prcTNLbjBGZ1lGUzRPc09JYkF3b0tYYXo2R2w5emU1bXpMZi02OTZmM3dHc0VYOTRweTBTTlZ4ZkpIZkxBd9IBVEFVX3lxTE8xLVJQVWYtdzZHNTJ0V0NRQlh0SHIyTWtfN1RHaVRqd3hxa0QwTnZXMDhGUmV1dTc0ME5EM2hraWUwdU9Rc3R0bFZWblBZVVB6c3dlOQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "슈어소프트테크, KT ‘파트너스데이’ ‘우수협력상’ 수상 한국경제",
+      "publishedAt": "2026-04-16T01:34:00.000Z",
       "rank": 7
     },
     {
-      "id": "275efc384d5ba9ae",
-      "title": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyUTd4eEZ0eWtPVkZMVTVxMEw4UXRUbmlkWnN3a3NKeC1Jb1RHQUhiamRNTldLQXZ6bVNGREVzZkRKVkFxbnJHdQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "장인화 포스코그룹 회장, 세계 철강 CEO들과 ‘탈탄소 전환’ 공조 강조 브레이크뉴스",
-      "publishedAt": "2026-04-15T01:02:31.000Z",
+      "id": "7d44fe32aec8a9a7",
+      "title": "AI enters Korean legislature, but humans remain in charge - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PZDFENElERjdkWTk2bVBtNDJGMGdSTUFoaW93S1FWT2ZQLU5tczhTYXBISkMzRUdWSGVWbW53ZGZtVUhpS0hzSzlKWGtPMy1haUp3?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI enters Korean legislature, but humans remain in charge 네이트",
+      "publishedAt": "2026-04-15T08:34:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-15T02:38:36.000Z"
+      "updatedAt": "2026-04-16T02:45:55.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
