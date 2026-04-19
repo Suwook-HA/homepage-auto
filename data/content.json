@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-18T02:27:50.780Z",
-  "projectsCheckedAt": "2026-04-18T02:27:50.780Z",
-  "projectsUpdatedAt": "2026-04-18T02:27:50.780Z",
+  "updatedAt": "2026-04-19T02:43:05.012Z",
+  "projectsCheckedAt": "2026-04-19T02:43:05.012Z",
+  "projectsUpdatedAt": "2026-04-19T02:43:05.012Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-18T02:27:50.780Z",
+    "checkedAt": "2026-04-19T02:43:05.012Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "3b441bd5bb91bd5c",
+      "title": "AI 경영도입...솔루션 쇼핑 멈추고 조직 뼈대부터 다시 세워라! - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5QUZxUXFxTXc4dlNLOFh0b1paYVR5d3JuNEdINW9SdS1UbkRvTjVpZnhxM1F1RExlVjktZ0NXRTVaZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 경영도입...솔루션 쇼핑 멈추고 조직 뼈대부터 다시 세워라! 브레이크뉴스",
+      "publishedAt": "2026-04-19T01:28:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "6cd73ae6b113ff79",
+      "title": "한국피지컬AI협회, 피지컬AI 국제표준 선점 공동연구기관 참여 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdUFDSzdnZWxYLVBPVVBsSFFfX1ROQlBuVUlzNTk4YW5GUXUwTDB0UzNHNnZSSWxYQ2JFWTZ3Z2JGb0tOVzR4MllfZlZqOUdBLXlnWDNR?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국피지컬AI협회, 피지컬AI 국제표준 선점 공동연구기관 참여 지디넷코리아",
+      "publishedAt": "2026-04-18T23:06:59.000Z",
+      "rank": 2
+    },
+    {
+      "id": "063bc2b61db1a5e9",
+      "title": "421,000 Votes and Counting: How BTS’s V Became the \"Global Standard\" for the 2026 Spring Playlist - 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HVDJjR3RLdXZrQVh2V2w5T2pvelpxWVBGTE43YURuaWRqeVVkZ0JNblByTDVMckl1WWVBQ1Y4UVljYkJXSm9MaVY3X0o3U3d1Q2ZMNnVR?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "421,000 Votes and Counting: How BTS’s V Became the \"Global Standard\" for the 2026 Spring Playlist 위키트리",
+      "publishedAt": "2026-04-17T05:05:00.000Z",
+      "rank": 3
+    },
     {
       "id": "55c678ad9fb6fd63",
       "title": "Middle East: Conflict risks and GCC flows – Standard Chartered - TMGM",
@@ -65,7 +92,7 @@
       "source": "Google News: International Standardization",
       "summary": "Middle East: Conflict risks and GCC flows – Standard Chartered TMGM",
       "publishedAt": "2026-04-17T00:52:02.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "f7a3868842726525",
@@ -74,7 +101,16 @@
       "source": "Google News: AI Data Quality",
       "summary": "뉴엔AI, 제품안전 R&D 선정…AI로 사고 징후 사전 탐지 나선다 벤처스퀘어",
       "publishedAt": "2026-04-17T00:34:32.000Z",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "id": "d6975d07376b1a39",
+      "title": "부처 간 칸막이를 허물고 연구개발(R&D) 성과 부스트-업(BOOST-UP) - BRIC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLUN0a0R2bldDcHRzakMtU0N3R0tidE1IeDFFZ3VpSEVQYVNLRjNGS0V1alBFdWVKUVBveUIwakJHXzRQQ1BkTVpKRFdMWnh6cE1RMXhKX1dNWThYbm0ydE5ORUJ6Qkh0b1ZBaTBmdlNmcjBTem5nTlZ4NER3dw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "부처 간 칸막이를 허물고 연구개발(R&D) 성과 부스트-업(BOOST-UP) BRIC",
+      "publishedAt": "2026-04-16T23:53:17.000Z",
+      "rank": 6
     },
     {
       "id": "d652d5e20b3a9ef2",
@@ -83,7 +119,7 @@
       "source": "Google News: AI standardization",
       "summary": "\"공공 AX 성공하려면 데이터 표준화·AI 협업 설계 먼저\" 디지털데일리",
       "publishedAt": "2026-04-16T21:00:00.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "b1c7bf887b6d4af5",
@@ -92,116 +128,80 @@
       "source": "Google News: Digital Transformation",
       "summary": "한수원, 디지털전환‧인공지능 기술교류 워크숍 서라벌신문",
       "publishedAt": "2026-04-16T10:59:17.000Z",
-      "rank": 4
-    },
-    {
-      "id": "b41d9f736126704f",
-      "title": "R&D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZZGM3X2tSV0V3Skx5VjQ2ZlZ1ODdOckdVV3N0cU5UeHFxMnlrdGYtNzRXVUFCMVBVYzdNVkwxV3AydE4xLXZCNFJRSHZJY2VzUHJCeVhFaU1zZ010Unp3WNIBYEFVX3lxTE9ZZGM3X2tSV0V3Skx5VjQ2ZlZ1ODdOckdVV3N0cU5UeHFxMnlrdGYtNzRXVUFCMVBVYzdNVkwxV3AydE4xLXZCNFJRSHZJY2VzUHJCeVhFaU1zZ010Unp3WA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "R&D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대 연합뉴스",
-      "publishedAt": "2026-04-16T09:00:01.000Z",
-      "rank": 5
-    },
-    {
-      "id": "6186bd2b0bb08d03",
-      "title": "지역 과기역량 수도권 70%까지 키운다…자생 선순환 구조 마련 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NbmFxVW1XdXNVaEQxRUp4emdqdGVlb2RGenFudzZkVU5abkVueE51OUo3RDR6bVZhNVkyc19ZNlZuWklSOTVKbm8zQW83VDdjVHRhWkRDbzdTVnBtWVRNWNIBYEFVX3lxTE1NbmFxVW1XdXNVaEQxRUp4emdqdGVlb2RGenFudzZkVU5abkVueE51OUo3RDR6bVZhNVkyc19ZNlZuWklSOTVKbm8zQW83VDdjVHRhWkRDbzdTVnBtWVRNWA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "지역 과기역량 수도권 70%까지 키운다…자생 선순환 구조 마련 연합뉴스",
-      "publishedAt": "2026-04-16T09:00:01.000Z",
-      "rank": 6
-    },
-    {
-      "id": "e548f823b80658cd",
-      "title": "보조금 대신 '지분 투자'… 정부, 투자형 R&D 제도 도입 추진 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pYlB5STBzbTFaMTNqNmg2RXVvZHh3ZlNjeHZRRnhSdkxnVV82dFYxczZOXzVBN1BHRXlPT1NxNU0wVmN2ZkVvbThad05qQzZIZUVaOXFyQWhaMHpmaXRlYVNWZHMxOVZrNWdkTU1CbjU1dzRTaEJ0UdIBeEFVX3lxTE9pYlB5STBzbTFaMTNqNmg2RXVvZHh3ZlNjeHZRRnhSdkxnVV82dFYxczZOXzVBN1BHRXlPT1NxNU0wVmN2ZkVvbThad05qQzZIZUVaOXFyQWhaMHpmaXRlYVNWZHMxOVZrNWdkTU1CbjU1dzRTaEJ0UQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "보조금 대신 '지분 투자'… 정부, 투자형 R&D 제도 도입 추진 뉴시스",
-      "publishedAt": "2026-04-16T09:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "e3ab9adcaf6ac62f",
-      "title": "제약업계, R&D '운영 방식' 재설계…건강 시장 대응 전략 전환 - 매경헬스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVmR2SnlqRlgzRV9NLVVPYlBxcWxZM1NVOWRJcVFFWGVjaXpkM01GUUxXdkZ6TUFXOE1nVHQtUGNrRXZtN054UVM5SDFfeE15OGl2S081MjU4Q3pnVlAzdmxNeHBRbE5tNDgzZg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "제약업계, R&D '운영 방식' 재설계…건강 시장 대응 전략 전환 매경헬스",
-      "publishedAt": "2026-04-16T04:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "2c371c23b552c020",
-      "title": "New Way Now: Grupo Coppel turns complex data into clear answers in seconds with Google Cloud",
-      "url": "https://www.youtube.com/watch?v=nRX5AadNDSE",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/nRX5AadNDSE/hqdefault.jpg",
-      "publishedAt": "2026-04-15T23:00:53.000Z",
+      "id": "ddb7078c2b067b2c",
+      "title": "Episode 16: Building AI for Life Sciences",
+      "url": "https://www.youtube.com/watch?v=UZyH0nx5zgI",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/UZyH0nx5zgI/hqdefault.jpg",
+      "publishedAt": "2026-04-16T19:04:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "328bc69acfa2a469",
-      "title": "Anthropic Draws Investor Offers at Over $800 Billion Value | Bloomberg Tech 4/15/2026",
-      "url": "https://www.youtube.com/watch?v=Kkm0zhmLbKc",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Kkm0zhmLbKc/hqdefault.jpg",
-      "publishedAt": "2026-04-15T20:37:11.000Z",
+      "id": "5062848c44cc9075",
+      "title": "DeepMind’s New AI: A Gift To Humanity",
+      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Sk9tvyRSCgY/hqdefault.jpg",
+      "publishedAt": "2026-04-16T17:44:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "ea7dc0177d9150e6",
-      "title": "EU Eyes New Tech Rules With The Digital Fairness Act",
-      "url": "https://www.youtube.com/watch?v=YVgsVfDIKzw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/YVgsVfDIKzw/hqdefault.jpg",
-      "publishedAt": "2026-04-15T20:05:30.000Z",
+      "id": "0d226bc7d16192ad",
+      "title": "Codex for (almost) everything",
+      "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/Lm7-yFZ5fZQ/hqdefault.jpg",
+      "publishedAt": "2026-04-16T17:12:34.000Z",
       "viewCount": 0
     },
     {
-      "id": "8beaa4e82219a79c",
-      "title": "Tech Billionaires Push Pick for Governor",
-      "url": "https://www.youtube.com/watch?v=HmPH-PQsASk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/HmPH-PQsASk/hqdefault.jpg",
-      "publishedAt": "2026-04-15T19:26:47.000Z",
+      "id": "86512b5fbfbf0602",
+      "title": "Bala Vs Waterfall | With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/CPq1V7sH38I/hqdefault.jpg",
+      "publishedAt": "2026-04-15T17:34:29.000Z",
       "viewCount": 0
     },
     {
-      "id": "65b301f6afe37d06",
-      "title": "ECB Between Baseline and Adverse Outcomes, Says Nagel",
-      "url": "https://www.youtube.com/watch?v=eNvqoLs1VPM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/eNvqoLs1VPM/hqdefault.jpg",
-      "publishedAt": "2026-04-15T19:23:22.000Z",
+      "id": "33646e97503529c8",
+      "title": "What Codex Unlocks for Wasmer",
+      "url": "https://www.youtube.com/watch?v=zGT32tk7U7g",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/zGT32tk7U7g/hqdefault.jpg",
+      "publishedAt": "2026-04-14T14:52:41.000Z",
       "viewCount": 0
     },
     {
-      "id": "24f8d48482ad5d62",
-      "title": "ASML Won’t Be an AI Bottleneck, Says Berenberg's Qiu",
-      "url": "https://www.youtube.com/watch?v=O637M9K5izo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/O637M9K5izo/hqdefault.jpg",
-      "publishedAt": "2026-04-15T19:18:57.000Z",
+      "id": "ee92977246a3846c",
+      "title": "Anthropic’s New AI Solves Problems…By Cheating",
+      "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Ersv1ogj7Jo/hqdefault.jpg",
+      "publishedAt": "2026-04-14T14:50:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "0be66872073a9c39",
-      "title": "Easily migrate your data to Google Cloud managed databases",
-      "url": "https://www.youtube.com/watch?v=ne_p-Qh5bcc",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/ne_p-Qh5bcc/hqdefault.jpg",
-      "publishedAt": "2026-04-15T19:04:26.000Z",
+      "id": "57c148246ccd5355",
+      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
+      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
+      "publishedAt": "2026-04-11T16:23:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "d7768085ef74f81c",
-      "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point) | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=JVI2cfYRaNM",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/JVI2cfYRaNM/hqdefault.jpg",
-      "publishedAt": "2026-04-15T17:41:00.000Z",
+      "id": "e32ecaa56b6067d0",
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg",
+      "publishedAt": "2026-04-10T17:30:00.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-17T02:41:06.000Z"
+      "updatedAt": "2026-04-18T02:31:54.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
