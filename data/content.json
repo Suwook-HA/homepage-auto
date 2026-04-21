@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-20T02:43:36.441Z",
-  "projectsCheckedAt": "2026-04-20T02:43:36.441Z",
-  "projectsUpdatedAt": "2026-04-20T02:43:36.441Z",
+  "updatedAt": "2026-04-21T02:37:42.379Z",
+  "projectsCheckedAt": "2026-04-21T02:37:42.379Z",
+  "projectsUpdatedAt": "2026-04-21T02:37:42.379Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-20T02:43:36.441Z",
+    "checkedAt": "2026-04-21T02:37:42.379Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "57f69cc201b92f37",
+      "title": "Naver Partners with Tata Consultancy Services to Expand AI and Cloud Business in India - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jU1JTeWFOTzByQW9uMDZqU0xIMnZEc3pFNEI0ZWl4cnVBSFowajVYN1prLW1zc3pSVkRfTG90eUdIWTJ5eWhJTm1saWVydzlRbmhKNTZqRmV6SlNWbFHSAW5BVV95cUxPdF9WdFBKSjJLOVZoQkRPSk92ZElhRFc4RW9pVGhockJoWjNqLVlSY2tKTUVmMm8yT3JUNDhGd3JGNFI2dXZKVEtvNXBKY0M3N3pLMmhsYU84VzlFSW9MQjBObHFveFdUQUNfeHNsUQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Naver Partners with Tata Consultancy Services to Expand AI and Cloud Business in India 알파경제",
+      "publishedAt": "2026-04-20T21:10:41.000Z",
+      "rank": 1
+    },
     {
       "id": "36ed2e5883ff28ca",
       "title": "[#통신 풍향계] LGU+ '장애인 인식개선 콘서트'·증권가 'SKT 목표주가 상향'·SKB 'AI에이전트랩' 가동·전파연 'ISO/IEC AI 자문그룹' 주도 - 뉴스웍스",
@@ -65,82 +74,64 @@
       "source": "Google News: ISO IEC AI",
       "summary": "[#통신 풍향계] LGU+ '장애인 인식개선 콘서트'·증권가 'SKT 목표주가 상향'·SKB 'AI에이전트랩' 가동·전파연 'ISO/IEC AI 자문그룹' 주도 뉴스웍스",
       "publishedAt": "2026-04-20T00:48:44.000Z",
-      "rank": 1
-    },
-    {
-      "id": "e5db6af0418f492a",
-      "title": "한국, AI 기반 통신 국제표준 논의 주도…자문그룹 신설 이끌어 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rMVczcWthTmR3Y2E2ZzlSOEpDdlE1MjlUZEp4RmhfQ095QVZMNDB1MEFDZC04dEk3clpYbFQwMm92ckV5T3g1WUxrWmZUd00?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, AI 기반 통신 국제표준 논의 주도…자문그룹 신설 이끌어 v.daum.net",
-      "publishedAt": "2026-04-20T02:24:36.000Z",
       "rank": 2
     },
     {
-      "id": "cbe7c8a1e07c3e09",
-      "title": "한국, 피지컬 AI 통신 분야 국제표준화 주도 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02WE5VX0R5VTJHZ3NtcEpiemdJbk5GSHdCVDhvbUhJVmtzdFY1NWM4RXFCRF9pMkhzZHZzRFJqdFhrVTM2WWRpanRZNE8?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, 피지컬 AI 통신 분야 국제표준화 주도 아이뉴스24",
-      "publishedAt": "2026-04-20T02:03:29.000Z",
+      "id": "fa421639faa73ce8",
+      "title": "KTR, 정보보호제품 성능평가 기관 지정…네트워크 보안 제품 성능검증 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qUUZ0MUgxLWp3ZklvZV93bEtzZEZIeVVLdTlsV09feld5UFNoM1A4Z0drUXhaeTdHRG4tUWx4RXJxYmVUNGI5Vk04VVByemZ0bVF0NG9B?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KTR, 정보보호제품 성능평가 기관 지정…네트워크 보안 제품 성능검증 지디넷코리아",
+      "publishedAt": "2026-04-20T09:12:59.000Z",
       "rank": 3
     },
     {
-      "id": "444c7a1957604410",
-      "title": "韓 차세대 시스템 통신 국제표준화 주도…'피지컬 AI' 자문그룹 신설 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UFktVXRjVkhMaXg3aWhNRlVjaXJ3a2JmZGVpV2g5N3lERVo1Qi1LWk1vYXp5R1F2OElKYU1wSnRrd3NSVk5INWc1cGtrVm1fczd1b21XdV9TSmlDMnBBUXFHNks1Zw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓 차세대 시스템 통신 국제표준화 주도…'피지컬 AI' 자문그룹 신설 뉴스1",
-      "publishedAt": "2026-04-20T01:10:16.000Z",
+      "id": "917186700027638b",
+      "title": "광진구, '공공데이터 제공·데이터기반행정 평가' 우수기관 선정 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUVNxOFZjcXJmU2NDWU1ZemhfYmZBMHlPMHNPUklTSG9XLTg5c2JJMlJQQXh4SHR2c1lHdURYQlBHOG1tdFIybUhidzU0cEk?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "광진구, '공공데이터 제공·데이터기반행정 평가' 우수기관 선정 뉴스1",
+      "publishedAt": "2026-04-20T09:06:15.000Z",
       "rank": 4
     },
     {
-      "id": "7836ab581cc6f965",
-      "title": "[AI픽] 한국, AI 통신표준 주도권 확보…국제회의서 주도 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1maWlkd1plbFNGVU9Wd3hwam9MaGZpaUI5cUxoeTl1b09ELVNMUm1KS2xUUGdpR0dnYWtXQVJhVWFPRmNPT3lzVHEyZ0V1VVc0cjBLQ3NoUkdSRWN1MGN4c9IBYEFVX3lxTE1maWlkd1plbFNGVU9Wd3hwam9MaGZpaUI5cUxoeTl1b09ELVNMUm1KS2xUUGdpR0dnYWtXQVJhVWFPRmNPT3lzVHEyZ0V1VVc0cjBLQ3NoUkdSRWN1MGN4cw?oc=5",
+      "id": "58889ad2e7c0653c",
+      "title": "피지컬 AI 국제 표준화…韓, 자문그룹 신설 주도 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pLUItSWpRV2tJMlNkV19sdDJXdFF4TUl2R3BzNlpoc09HS0pKc3ZHQzBiUU9NOVRmZTh1NURvamFjQnhISDB5cE5vX3RiNG9CRHhSaVBYQ0lGZ9IBVEFVX3lxTE1rRDUwUHFBWk9KZkVaaUxMdHo4U29STEl5TU1Bek1jLUo1REtqUzMweTFPbTJSQjlWWlk1a2VnenIzdmZUYnVaX2dpb2VHSGtVOGhsYg?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "[AI픽] 한국, AI 통신표준 주도권 확보…국제회의서 주도 연합뉴스",
-      "publishedAt": "2026-04-20T01:01:09.000Z",
+      "summary": "피지컬 AI 국제 표준화…韓, 자문그룹 신설 주도 한국경제",
+      "publishedAt": "2026-04-20T08:16:47.000Z",
       "rank": 5
     },
     {
-      "id": "0547163e83f1ba50",
-      "title": "[이용기 교수의 ESG 경영 이야기] 디지털 전환과 ESG 혁신: ESG 추적 및 모니터링에 있어 AI의 활용 - 아웃소싱타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EVDlvcERkVk53N2hmOWRjcmNMN3dKRTktenJjUldsTWlTQVY4V3Z0dlpyWEd6SnRVa29TNy0yYzF1bWpwLU40S2hULVpod3VURFJRSEtoeXdraWctTHoyTE1PcXdia1d6SS1KVnpoZzlsZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[이용기 교수의 ESG 경영 이야기] 디지털 전환과 ESG 혁신: ESG 추적 및 모니터링에 있어 AI의 활용 아웃소싱타임스",
-      "publishedAt": "2026-04-20T00:17:59.000Z",
+      "id": "f683f3bad182754d",
+      "title": "Korean pharma-biotech’s global partnership success hinges on trust, data–investment linkage - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92cTM2UzZWZWFpWll4ZUpCcGU0cHotV1B4YnBpZjF5cFVQd2M1ckIya0dabGVfM1JVYi1xM1pFTjhZclZ0MXJGZkVMY3FhZ19WRFNaMUJrRGwyTTk5Z21BVDF3UzZBRXY1UEhSUdIBcEFVX3lxTE1rVm90NDNCU3IxZGxrdEtzUDB1VFEwVUZuS0p6ams0dFpocXF3V2ZXd3RXcGVfa3RZakRDSF84dmFYQ3pWU05yQ1FvSU8tblIycWZVWUZKd3p5eElQYmpOQmVkd2UzbklpSXpiUEhwLTc?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Korean pharma-biotech’s global partnership success hinges on trust, data–investment linkage 더바이오",
+      "publishedAt": "2026-04-20T07:48:40.000Z",
       "rank": 6
     },
     {
-      "id": "4c58b5a5d15677d6",
-      "title": "KTR, 정보보호제품 성능평가 기관 지정 - 에너지신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWHFrQXdPTFI0WDdNblYzRE4zSlAzN2FWQ0g0LXhMYzN6TnFDaUtrMnZFdVM4VHRvUXhlQzBneEpZazVIdVFGcUtobFA3VXVDRzZZTVRmOHlSVk5yaFFqcndZdTBhWGxra0dXZ2Rkcnk?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KTR, 정보보호제품 성능평가 기관 지정 에너지신문",
-      "publishedAt": "2026-04-20T00:15:32.000Z",
+      "id": "c35f5673c23ccc6d",
+      "title": "[PRNewswire] DEKRA Korea Acquires Global Product Service - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZFlUSUdWRnhLdElybHVDVmN0Sjl0NThYcFkwY3hJZEQ3ckdiQkw4b29Ucmw1Y1AzLXR3YVhUTjNSaklqMFNGVFgwOXZtQzFGNFNZ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[PRNewswire] DEKRA Korea Acquires Global Product Service 네이트",
+      "publishedAt": "2026-04-20T06:37:00.000Z",
       "rank": 7
     },
     {
-      "id": "7a78064278dcf757",
-      "title": "동대문구, 홍릉 미래도시 청사진 착수…R&D·주거 결합 전략 구상 - 전국매일신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3OS02OUpYZHZ1UXBkYWRZcUVtTXVLcnhEeUFIQkpVSkRlaXNVS2NKVW5RclpMb0Q2ajFFenVVb1FIajFhdTVMX1poTTVYTXg3XzN6WF9uVE1CaTdLRWRjMlhkMWY0WnR1dkgxcGxB?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "동대문구, 홍릉 미래도시 청사진 착수…R&D·주거 결합 전략 구상 전국매일신문",
-      "publishedAt": "2026-04-19T22:07:13.000Z",
+      "id": "3c7008d5da4da413",
+      "title": "韓, 차세대 시스템 통신 국제표준화 주도…AI 자문그룹 신설 - 아이티비즈",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBveGtrVW1PbGl5ZHlwS2JkOFN4UUFyb2poU1JUTnFyU2NwbGc3VnFKeUtwWkRhNFBlYkJWcms5Um5wWVVPY25tT1NsenNSN0RUMmJ0M3RQS3JlUS1QOXNMR0RIUmwxVFU?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "韓, 차세대 시스템 통신 국제표준화 주도…AI 자문그룹 신설 아이티비즈",
+      "publishedAt": "2026-04-20T06:22:44.000Z",
       "rank": 8
     }
   ],
   "videos": [
-    {
-      "id": "ddb7078c2b067b2c",
-      "title": "Episode 16: Building AI for Life Sciences",
-      "url": "https://www.youtube.com/watch?v=UZyH0nx5zgI",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/UZyH0nx5zgI/hqdefault.jpg",
-      "publishedAt": "2026-04-16T19:04:11.000Z",
-      "viewCount": 0
-    },
     {
       "id": "5062848c44cc9075",
       "title": "DeepMind’s New AI: A Gift To Humanity",
@@ -148,33 +139,6 @@
       "channel": "Two Minute Papers",
       "thumbnail": "https://i.ytimg.com/vi/Sk9tvyRSCgY/hqdefault.jpg",
       "publishedAt": "2026-04-16T17:44:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0d226bc7d16192ad",
-      "title": "Codex for (almost) everything",
-      "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Lm7-yFZ5fZQ/hqdefault.jpg",
-      "publishedAt": "2026-04-16T17:12:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "86512b5fbfbf0602",
-      "title": "Bala Vs Waterfall | With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/CPq1V7sH38I/hqdefault.jpg",
-      "publishedAt": "2026-04-15T17:34:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "33646e97503529c8",
-      "title": "What Codex Unlocks for Wasmer",
-      "url": "https://www.youtube.com/watch?v=zGT32tk7U7g",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/zGT32tk7U7g/hqdefault.jpg",
-      "publishedAt": "2026-04-14T14:52:41.000Z",
       "viewCount": 0
     },
     {
@@ -196,12 +160,48 @@
       "viewCount": 0
     },
     {
-      "id": "e32ecaa56b6067d0",
-      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
-      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg",
-      "publishedAt": "2026-04-10T17:30:00.000Z",
+      "id": "f9caf77516aaf71f",
+      "title": "NVIDIA’s New AI Just Changed Everything",
+      "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/ZQAz_HrUq68/hqdefault.jpg",
+      "publishedAt": "2026-04-07T17:38:09.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b19f627edf7c4838",
+      "title": "Google’s New AI Just Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/7YVrb3-ABYE/hqdefault.jpg",
+      "publishedAt": "2026-04-01T14:21:33.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "2150b5adaf4928f9",
+      "title": "NVIDIA’s New AI Just Cracked The Hardest Part Of Self Driving",
+      "url": "https://www.youtube.com/watch?v=s9SnEE7JXU4",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/s9SnEE7JXU4/hqdefault.jpg",
+      "publishedAt": "2026-03-10T09:28:05.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "31f78f8c82135bd9",
+      "title": "How DeepMind’s New AI Predicts What It Cannot See",
+      "url": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/ssbHkYB0jYM/hqdefault.jpg",
+      "publishedAt": "2026-03-07T14:42:18.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c4a84b582f8924e3",
+      "title": "Adobe & NVIDIA’s New Tech Shouldn’t Be Real Time. But It Is.",
+      "url": "https://www.youtube.com/watch?v=j-B8ymGWlIE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/j-B8ymGWlIE/hqdefault.jpg",
+      "publishedAt": "2026-02-22T09:50:35.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-19T02:47:09.000Z"
+      "updatedAt": "2026-04-20T02:47:40.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
