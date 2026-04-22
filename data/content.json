@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-21T02:37:42.379Z",
-  "projectsCheckedAt": "2026-04-21T02:37:42.379Z",
-  "projectsUpdatedAt": "2026-04-21T02:37:42.379Z",
+  "updatedAt": "2026-04-22T02:36:14.316Z",
+  "projectsCheckedAt": "2026-04-22T02:36:14.316Z",
+  "projectsUpdatedAt": "2026-04-22T02:36:14.316Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-21T02:37:42.379Z",
+    "checkedAt": "2026-04-22T02:36:14.316Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "57f69cc201b92f37",
-      "title": "Naver Partners with Tata Consultancy Services to Expand AI and Cloud Business in India - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jU1JTeWFOTzByQW9uMDZqU0xIMnZEc3pFNEI0ZWl4cnVBSFowajVYN1prLW1zc3pSVkRfTG90eUdIWTJ5eWhJTm1saWVydzlRbmhKNTZqRmV6SlNWbFHSAW5BVV95cUxPdF9WdFBKSjJLOVZoQkRPSk92ZElhRFc4RW9pVGhockJoWjNqLVlSY2tKTUVmMm8yT3JUNDhGd3JGNFI2dXZKVEtvNXBKY0M3N3pLMmhsYU84VzlFSW9MQjBObHFveFdUQUNfeHNsUQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Naver Partners with Tata Consultancy Services to Expand AI and Cloud Business in India 알파경제",
-      "publishedAt": "2026-04-20T21:10:41.000Z",
+      "id": "d0edb86fdac4683d",
+      "title": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IeE90UHEtQ05TMWEwQWJxd2pWZHRQVWJQSk1pS3dyZEYzZXM1YUk2Z1hfZE1rd0stMkxIaHlxdGtGM2RLRkRNYzJQeFJHelFMdWRZ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 네이트",
+      "publishedAt": "2026-04-22T01:53:00.000Z",
       "rank": 1
     },
     {
-      "id": "36ed2e5883ff28ca",
-      "title": "[#통신 풍향계] LGU+ '장애인 인식개선 콘서트'·증권가 'SKT 목표주가 상향'·SKB 'AI에이전트랩' 가동·전파연 'ISO/IEC AI 자문그룹' 주도 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mOHJ6QlZqdF9jT29FTTFRLVRKNVRNN09MTFgzakhWNDh2Sm1WMmdhVFgtT2ltZGg1SHBfeV9zckVMSk85a0pNT1B1emJ2bGV0djB6Tk5ibGdTa3MzUUY3dmsyVXlUQTZvZHcwQzFNWS0tOFHSAXNBVV95cUxOZjhyekJWanRfY09vRU0xUS1USjVUTTdPTExYM2pIVjQ4dkptVjJnYVRYLU9pbWRoNUhwX3lfc3JFTEpPOWtKTU9QdXpidmxldHYwek5OYmxnU2tzM1FGN3ZrMlV5VEE2b2R3MEMxTVktLThR?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "[#통신 풍향계] LGU+ '장애인 인식개선 콘서트'·증권가 'SKT 목표주가 상향'·SKB 'AI에이전트랩' 가동·전파연 'ISO/IEC AI 자문그룹' 주도 뉴스웍스",
-      "publishedAt": "2026-04-20T00:48:44.000Z",
+      "id": "38f9c706282d9f7b",
+      "title": "피처링, AI 경영 정보보호 등 국제 표준 ISO 5종 동시 획득 - 베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RUXBUWWdWbk1fWXR4UzhjUUVIV3RGS3FIRGxBcWtTRkhPU0xGejhJLTVaWGNSTUh6ZEptMEh4WmF6MU82ZmJBMEFoS0J6dFJRdXBwdmxZZWowZ2gzdHFsTzljMXU?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "피처링, AI 경영 정보보호 등 국제 표준 ISO 5종 동시 획득 베타뉴스",
+      "publishedAt": "2026-04-22T01:31:35.000Z",
       "rank": 2
     },
     {
-      "id": "fa421639faa73ce8",
-      "title": "KTR, 정보보호제품 성능평가 기관 지정…네트워크 보안 제품 성능검증 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qUUZ0MUgxLWp3ZklvZV93bEtzZEZIeVVLdTlsV09feld5UFNoM1A4Z0drUXhaeTdHRG4tUWx4RXJxYmVUNGI5Vk04VVByemZ0bVF0NG9B?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KTR, 정보보호제품 성능평가 기관 지정…네트워크 보안 제품 성능검증 지디넷코리아",
-      "publishedAt": "2026-04-20T09:12:59.000Z",
+      "id": "415c27a8c36a2b47",
+      "title": "[#IT라운지] 카카오 '월드IT쇼 참가'·본에이아이 '대드론 논문 수상'·피처링 'ISO 5종 획득'·웍스피어-재정부 '고용 간담회'·웹케시 '금융 AI 컨퍼런스'·여기어때 '대전 여행 공략' - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRVktWXI2eUhFamRRekI3amc4dFV1WjY2R1BJVjZYeERPYUhSOHhnVlZ3d2JqV3RmQjh5M1pJNFlsMmowV0t2c242U2k5N3I5Mzd2TkRzVVFDTEE1bVUtTFpEMjZwN25xNXNqSlhTSXk0TFHSAXNBVV95cUxQWkVZLVlyNnlIRWpkUXpCN2pnOHRVdVo2NkdQSVY2WHhET2FIUjh4Z1ZWd3diald0ZkI4eTNaSTRZbDJqMFdLdnNuNlNpOTdyOTM3dk5Ec1VRQ0xBNW1VLUxaRDI2cDducTVzakpYU0l5NExR?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[#IT라운지] 카카오 '월드IT쇼 참가'·본에이아이 '대드론 논문 수상'·피처링 'ISO 5종 획득'·웍스피어-재정부 '고용 간담회'·웹케시 '금융 AI 컨퍼런스'·여기어때 '대전 여행 공략' 뉴스웍스",
+      "publishedAt": "2026-04-22T00:43:15.000Z",
       "rank": 3
     },
     {
-      "id": "917186700027638b",
-      "title": "광진구, '공공데이터 제공·데이터기반행정 평가' 우수기관 선정 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUVNxOFZjcXJmU2NDWU1ZemhfYmZBMHlPMHNPUklTSG9XLTg5c2JJMlJQQXh4SHR2c1lHdURYQlBHOG1tdFIybUhidzU0cEk?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "광진구, '공공데이터 제공·데이터기반행정 평가' 우수기관 선정 뉴스1",
-      "publishedAt": "2026-04-20T09:06:15.000Z",
+      "id": "172c694a308a1c38",
+      "title": "ITU, 에지컴퓨팅 기능 국제표준 제정…ETRI·호서대 \"기여\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fbHExMW1mZWkyazNIb1B6Q1ViU0dienpEWWc1akFnbkFCNEFPMll1OVNDRklKRHo3a1d5Rml4dGFTejhIeEJfUHdJN2hGQlU?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ITU, 에지컴퓨팅 기능 국제표준 제정…ETRI·호서대 \"기여\" v.daum.net",
+      "publishedAt": "2026-04-22T00:30:14.000Z",
       "rank": 4
     },
     {
-      "id": "58889ad2e7c0653c",
-      "title": "피지컬 AI 국제 표준화…韓, 자문그룹 신설 주도 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pLUItSWpRV2tJMlNkV19sdDJXdFF4TUl2R3BzNlpoc09HS0pKc3ZHQzBiUU9NOVRmZTh1NURvamFjQnhISDB5cE5vX3RiNG9CRHhSaVBYQ0lGZ9IBVEFVX3lxTE1rRDUwUHFBWk9KZkVaaUxMdHo4U29STEl5TU1Bek1jLUo1REtqUzMweTFPbTJSQjlWWlk1a2VnenIzdmZUYnVaX2dpb2VHSGtVOGhsYg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "피지컬 AI 국제 표준화…韓, 자문그룹 신설 주도 한국경제",
-      "publishedAt": "2026-04-20T08:16:47.000Z",
+      "id": "eb20ccbe00dfc12c",
+      "title": "“Educational Institutions Also Compete for Customer Experience”… KOSME Honam Training Center Obtains ISO 10002 Certification - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUZU5QTXNndjFnLXd4WG5QejEwdERRdURSQ3JJa3Vac2VYZWowVTVNblYtSm5adFRkSzNJM1hDYXNiTW9pTFdoWjFhb2tSUUJzV3VB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "“Educational Institutions Also Compete for Customer Experience”… KOSME Honam Training Center Obtains ISO 10002 Certification 벤처스퀘어",
+      "publishedAt": "2026-04-21T13:50:06.000Z",
       "rank": 5
     },
     {
-      "id": "f683f3bad182754d",
-      "title": "Korean pharma-biotech’s global partnership success hinges on trust, data–investment linkage - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92cTM2UzZWZWFpWll4ZUpCcGU0cHotV1B4YnBpZjF5cFVQd2M1ckIya0dabGVfM1JVYi1xM1pFTjhZclZ0MXJGZkVMY3FhZ19WRFNaMUJrRGwyTTk5Z21BVDF3UzZBRXY1UEhSUdIBcEFVX3lxTE1rVm90NDNCU3IxZGxrdEtzUDB1VFEwVUZuS0p6ams0dFpocXF3V2ZXd3RXcGVfa3RZakRDSF84dmFYQ3pWU05yQ1FvSU8tblIycWZVWUZKd3p5eElQYmpOQmVkd2UzbklpSXpiUEhwLTc?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "Korean pharma-biotech’s global partnership success hinges on trust, data–investment linkage 더바이오",
-      "publishedAt": "2026-04-20T07:48:40.000Z",
+      "id": "67e78b5566fbd086",
+      "title": "ETRI, 자율주행·원격의료 핵심 '엣지 컴퓨팅' 국제표준 완성...인공지능 등 다양한 분야에서 산업 파급 기대 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FNkFFdUE3ZHUxbkFCbEtkWTZvWXVmWDYyb0R5T25XaGFYREVpZWtJZ284TUtSZjE4Rk9OVkllN2JzNEVIaUZOSVVtbEZiTXhhNnRqUHdkUWkzb29oMHd6LTg1TmhhaU0?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, 자율주행·원격의료 핵심 '엣지 컴퓨팅' 국제표준 완성...인공지능 등 다양한 분야에서 산업 파급 기대 인공지능신문",
+      "publishedAt": "2026-04-22T02:25:39.000Z",
       "rank": 6
     },
     {
-      "id": "c35f5673c23ccc6d",
-      "title": "[PRNewswire] DEKRA Korea Acquires Global Product Service - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96ZFlUSUdWRnhLdElybHVDVmN0Sjl0NThYcFkwY3hJZEQ3ckdiQkw4b29Ucmw1Y1AzLXR3YVhUTjNSaklqMFNGVFgwOXZtQzFGNFNZ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[PRNewswire] DEKRA Korea Acquires Global Product Service 네이트",
-      "publishedAt": "2026-04-20T06:37:00.000Z",
+      "id": "3a86c2f47f2abe68",
+      "title": "농식품부, GPU 32장으로 'AI 스마트농업' 확산 본격화 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GeGJwSU1Mb0FCcUNCUHdwZXp1RS0tOHJnQUczMDVQamdpUnBWa3BMN0hQejB2bnBuc0w4WjNmOTQ5VGF5VU0wQUVGZHA4ZWwwWThCbg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "농식품부, GPU 32장으로 'AI 스마트농업' 확산 본격화 뉴스1",
+      "publishedAt": "2026-04-22T02:11:59.000Z",
       "rank": 7
     },
     {
-      "id": "3c7008d5da4da413",
-      "title": "韓, 차세대 시스템 통신 국제표준화 주도…AI 자문그룹 신설 - 아이티비즈",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBveGtrVW1PbGl5ZHlwS2JkOFN4UUFyb2poU1JUTnFyU2NwbGc3VnFKeUtwWkRhNFBlYkJWcms5Um5wWVVPY25tT1NsenNSN0RUMmJ0M3RQS3JlUS1QOXNMR0RIUmwxVFU?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "韓, 차세대 시스템 통신 국제표준화 주도…AI 자문그룹 신설 아이티비즈",
-      "publishedAt": "2026-04-20T06:22:44.000Z",
+      "id": "a2cd7944a3e66ff5",
+      "title": "동아대 전동산 교수, 국제전기전자공학회 ‘시니어 멤버’ 선정 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNM3lZWUplXzFRSnBVVHhyVFkzaEdieWwyWHlHYVJVbjJYNGp2SUlmSFFVNGR5a3VDb0FYVnpWd2EtZ0l5Sjh4eXJCcHFac01VRE5OQy1Tc1kzb050MklmSjlpRUJzQTR3YnNLaTZMb1ltX0hS?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "동아대 전동산 교수, 국제전기전자공학회 ‘시니어 멤버’ 선정 부산일보",
+      "publishedAt": "2026-04-22T02:11:34.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-20T02:47:40.000Z"
+      "updatedAt": "2026-04-21T02:41:46.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
