@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-22T02:36:14.316Z",
-  "projectsCheckedAt": "2026-04-22T02:36:14.316Z",
-  "projectsUpdatedAt": "2026-04-22T02:36:14.316Z",
+  "updatedAt": "2026-04-23T02:40:11.456Z",
+  "projectsCheckedAt": "2026-04-23T02:40:11.456Z",
+  "projectsUpdatedAt": "2026-04-23T02:40:11.456Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-22T02:36:14.316Z",
+    "checkedAt": "2026-04-23T02:40:11.456Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d0edb86fdac4683d",
-      "title": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IeE90UHEtQ05TMWEwQWJxd2pWZHRQVWJQSk1pS3dyZEYzZXM1YUk2Z1hfZE1rd0stMkxIaHlxdGtGM2RLRkRNYzJQeFJHelFMdWRZ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 네이트",
-      "publishedAt": "2026-04-22T01:53:00.000Z",
+      "id": "9221b05d8228c7d2",
+      "title": "\"데이터 품질관리\"…기정원, 공공데이터 평가 7년 연속 우수 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14VGxGbEJ2Y0NVMVZJUXhyVm91S2ROdzc5WlFaaFVZakV5VU1vQUFZSDFiMWNIXzdjbFhEV255SWpLSm1wS3pFTDZrOWo2Mkx3ZEZhdy1jMTJLTUE1?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"데이터 품질관리\"…기정원, 공공데이터 평가 7년 연속 우수 뉴스1",
+      "publishedAt": "2026-04-22T23:59:53.000Z",
       "rank": 1
+    },
+    {
+      "id": "39fedebb3d953d25",
+      "title": "[PRNewswire] Ant Digital Technologies at Money20/20 Asia - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TZndxV3pSWVRtaGJXWFNMMzdNSEFienAxeF9mUGJCbUt1Yy1YQld0TDdvdFBmQkxaWlVQc0VIbXhjN2Z0UnphMGFEWHYyQ0dwdTJVSDBpcS1Oc1JHa0xpRg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[PRNewswire] Ant Digital Technologies at Money20/20 Asia 네이트",
+      "publishedAt": "2026-04-22T14:28:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "0282540104638ebd",
+      "title": "피처링, AI·보안 국제표준 5종 동시 획득···글로벌 서비스 기반 강화 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RNUZhR0lMcE1VS0YyVm4xa1FNNlNpbExSRm1jWEhhbWk2Rm1tSmUyQk1GMkZIeFg2bjQ5eGhrbFpzdTFyTTI0R1J6SHhKb3JXOHZuXzFQVDhVVTVXNHVaMDVvNzNLYVhIM24yV29kVmU3MkNP0gF0QVVfeXFMTVE1RmFHSUxwTVVLRjJWbjFrUU02U2lsTFJGbWNYSGFtaTZGbW1KZTJCTUYyRkh4WDZuNDl4aGtsWnN1MXJNMjRHUnpIeEpvclc4dm5fMVBUOFVVNVc0dVowNW83M0thWEgzbjJXb2RWZTcyQ08?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "피처링, AI·보안 국제표준 5종 동시 획득···글로벌 서비스 기반 강화 이뉴스투데이",
+      "publishedAt": "2026-04-22T11:03:07.000Z",
+      "rank": 3
+    },
+    {
+      "id": "32c60410d238e7f1",
+      "title": "From Scale to Responsibility: K‑Beauty Enters a New Era - 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBodl9ZekdlZ29KbVEtN2NlR2hGRDNRaWNtLUxVVjNId2Z3Um9Fa0dfOEprajFKbWo2VWlkNHRmd3QzeEk3QVN3UHgzakNudjU1RTA1b180NG1nUTdIWThQSmd2eGtFdy1xdUE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "From Scale to Responsibility: K‑Beauty Enters a New Era 뷰티경제",
+      "publishedAt": "2026-04-22T10:39:24.000Z",
+      "rank": 4
+    },
+    {
+      "id": "6382f37d14ca4f61",
+      "title": "구글, 스티치 핵심 포맷 ‘DESIGN md’ 오픈소스로 공개…AI 기반 UI 디자인 표준화 나선다 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMWMtRHEwTnVfUndMVnF0cnExRnVfdmdETnIwMTFjVF8zTGJMNlNqYVVKZm9hRTF3R0I2elh3U0NfZG5QRlNoQkJxN0RWUkJQeGYxR0h5dEpCZ0VNRm5vZnR0Y2Z6S3c?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "구글, 스티치 핵심 포맷 ‘DESIGN md’ 오픈소스로 공개…AI 기반 UI 디자인 표준화 나선다 인공지능신문",
+      "publishedAt": "2026-04-22T10:02:56.000Z",
+      "rank": 5
+    },
+    {
+      "id": "b0ef0d9bd4c6ad82",
+      "title": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQnJVemgzUzh6d1JsUVB6Z2djczV3WFdYclE2SlpKUy1EeVJvV3dZM3F6cVhrU181M3RxWEZVa01sT3N2VHA5bVhheHVST0VnQ3dFNHhockpMaU11Nk95Y0VFQlFJTVlfbjFBRdIBbEFVX3lxTE9JQnJVemgzUzh6d1JsUVB6Z2djczV3WFdYclE2SlpKUy1EeVJvV3dZM3F6cVhrU181M3RxWEZVa01sT3N2VHA5bVhheHVST0VnQ3dFNHhockpMaU11Nk95Y0VFQlFJTVlfbjFBRQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI가 만든 차세대 '에지 컴퓨팅' 설계도, ITU 국제표준 승인 - 머니투데이 머니투데이",
+      "publishedAt": "2026-04-22T01:52:24.000Z",
+      "rank": 6
     },
     {
       "id": "38f9c706282d9f7b",
@@ -74,7 +119,7 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "피처링, AI 경영 정보보호 등 국제 표준 ISO 5종 동시 획득 베타뉴스",
       "publishedAt": "2026-04-22T01:31:35.000Z",
-      "rank": 2
+      "rank": 7
     },
     {
       "id": "415c27a8c36a2b47",
@@ -83,51 +128,6 @@
       "source": "Google News: ISO IEC AI",
       "summary": "[#IT라운지] 카카오 '월드IT쇼 참가'·본에이아이 '대드론 논문 수상'·피처링 'ISO 5종 획득'·웍스피어-재정부 '고용 간담회'·웹케시 '금융 AI 컨퍼런스'·여기어때 '대전 여행 공략' 뉴스웍스",
       "publishedAt": "2026-04-22T00:43:15.000Z",
-      "rank": 3
-    },
-    {
-      "id": "172c694a308a1c38",
-      "title": "ITU, 에지컴퓨팅 기능 국제표준 제정…ETRI·호서대 \"기여\" - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fbHExMW1mZWkyazNIb1B6Q1ViU0dienpEWWc1akFnbkFCNEFPMll1OVNDRklKRHo3a1d5Rml4dGFTejhIeEJfUHdJN2hGQlU?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ITU, 에지컴퓨팅 기능 국제표준 제정…ETRI·호서대 \"기여\" v.daum.net",
-      "publishedAt": "2026-04-22T00:30:14.000Z",
-      "rank": 4
-    },
-    {
-      "id": "eb20ccbe00dfc12c",
-      "title": "“Educational Institutions Also Compete for Customer Experience”… KOSME Honam Training Center Obtains ISO 10002 Certification - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUZU5QTXNndjFnLXd4WG5QejEwdERRdURSQ3JJa3Vac2VYZWowVTVNblYtSm5adFRkSzNJM1hDYXNiTW9pTFdoWjFhb2tSUUJzV3VB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "“Educational Institutions Also Compete for Customer Experience”… KOSME Honam Training Center Obtains ISO 10002 Certification 벤처스퀘어",
-      "publishedAt": "2026-04-21T13:50:06.000Z",
-      "rank": 5
-    },
-    {
-      "id": "67e78b5566fbd086",
-      "title": "ETRI, 자율주행·원격의료 핵심 '엣지 컴퓨팅' 국제표준 완성...인공지능 등 다양한 분야에서 산업 파급 기대 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FNkFFdUE3ZHUxbkFCbEtkWTZvWXVmWDYyb0R5T25XaGFYREVpZWtJZ284TUtSZjE4Rk9OVkllN2JzNEVIaUZOSVVtbEZiTXhhNnRqUHdkUWkzb29oMHd6LTg1TmhhaU0?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ETRI, 자율주행·원격의료 핵심 '엣지 컴퓨팅' 국제표준 완성...인공지능 등 다양한 분야에서 산업 파급 기대 인공지능신문",
-      "publishedAt": "2026-04-22T02:25:39.000Z",
-      "rank": 6
-    },
-    {
-      "id": "3a86c2f47f2abe68",
-      "title": "농식품부, GPU 32장으로 'AI 스마트농업' 확산 본격화 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GeGJwSU1Mb0FCcUNCUHdwZXp1RS0tOHJnQUczMDVQamdpUnBWa3BMN0hQejB2bnBuc0w4WjNmOTQ5VGF5VU0wQUVGZHA4ZWwwWThCbg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "농식품부, GPU 32장으로 'AI 스마트농업' 확산 본격화 뉴스1",
-      "publishedAt": "2026-04-22T02:11:59.000Z",
-      "rank": 7
-    },
-    {
-      "id": "a2cd7944a3e66ff5",
-      "title": "동아대 전동산 교수, 국제전기전자공학회 ‘시니어 멤버’ 선정 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNM3lZWUplXzFRSnBVVHhyVFkzaEdieWwyWHlHYVJVbjJYNGp2SUlmSFFVNGR5a3VDb0FYVnpWd2EtZ0l5Sjh4eXJCcHFac01VRE5OQy1Tc1kzb050MklmSjlpRUJzQTR3YnNLaTZMb1ltX0hS?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "동아대 전동산 교수, 국제전기전자공학회 ‘시니어 멤버’ 선정 부산일보",
-      "publishedAt": "2026-04-22T02:11:34.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-21T02:41:46.000Z"
+      "updatedAt": "2026-04-22T02:40:18.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
