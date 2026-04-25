@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-24T02:40:17.259Z",
-  "projectsCheckedAt": "2026-04-24T02:40:17.259Z",
-  "projectsUpdatedAt": "2026-04-24T02:40:17.259Z",
+  "updatedAt": "2026-04-25T02:29:39.691Z",
+  "projectsCheckedAt": "2026-04-25T02:29:39.691Z",
+  "projectsUpdatedAt": "2026-04-25T02:29:39.691Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-24T02:40:17.259Z",
+    "checkedAt": "2026-04-25T02:29:39.691Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "186b4dee7120a062",
-      "title": "EY컨설팅, 로이드인증원과 'Responsible AI·ISO/IEC 42001' 세미나 성료 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uSktzZlBRMlItQkMwZ09LWjdIWTFqaFBxejZBZFMyTm15UFlFS0JwdVJqZjlndU5abHYwcGZ5emUzM1NRSFVYT21aMWltLVlPc29F?oc=5",
+      "id": "d04055dcad2ae8e3",
+      "title": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 - EY",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONjNjMHdDMi1MMlpFRl96N3lCQWN0MFFtOEZUY0ZSSXFldll3N2E2d1NiMUp5UFc2UmRLNFJoQkxsYWNXY2dMcnlvQ0d4OGtVbVBWTXpZLWxiWnU4Q29WdGd1QkRDalNKVE5PVlk3R1dtOGI1X050aHJJcVFmRlk?oc=5",
       "source": "Google News: ISO IEC AI",
-      "summary": "EY컨설팅, 로이드인증원과 'Responsible AI·ISO/IEC 42001' 세미나 성료 네이트",
-      "publishedAt": "2026-04-24T00:56:00.000Z",
+      "summary": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 EY",
+      "publishedAt": "2026-04-24T01:43:42.000Z",
       "rank": 1
+    },
+    {
+      "id": "f70afe49f04ea5bb",
+      "title": "Winning with 'Data' Not Algorithms… Nota Takes 1st Place Overall at NVIDIA Hackathon - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BcEhFNXJfZlV5Z0hBbHpqTkxmb21BLVZJcGVPOFhDX1BPRnBzRThWTDJLSlE3UWZjMEVPU3pOQ2gtYWdGbVVfWUdrMEVVMWFoTDN3?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Winning with 'Data' Not Algorithms… Nota Takes 1st Place Overall at NVIDIA Hackathon 벤처스퀘어",
+      "publishedAt": "2026-04-24T12:04:26.000Z",
+      "rank": 2
+    },
+    {
+      "id": "41dff0663de8c099",
+      "title": "Nota AI Wins Grand Prize at NVIDIA Nemotron Hackathon, Proving MoE Quantization Prowess with Synthetic Data Technology - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZ1Q3N1VMdnA0eTNnUU1TaVNZWjN1NkJ1d25ickptekZESG1VYTR4Qk91dnBXR1lpR1BCVFhySGhHMHpKX3h5TVJIYVRfaWEtU1hfMEx4cGJtZTdHMWh4UEUyRmI1RUlJ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Nota AI Wins Grand Prize at NVIDIA Nemotron Hackathon, Proving MoE Quantization Prowess with Synthetic Data Technology KIPOST",
+      "publishedAt": "2026-04-24T12:00:00.000Z",
+      "rank": 3
     },
     {
       "id": "621e152fc1ba8b80",
@@ -74,134 +92,116 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "“AI 규제, 방어 너머 전략으로”... LRQA-EY, ‘ISO 42001’ 중심의 리스크 관리 해법 제시 한국데이터경제신문",
       "publishedAt": "2026-04-24T01:06:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "44f7de1ec50eaa50",
-      "title": "LRQA, AI 리스크 관리 체계 구축 방향 제시해 - elec4",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UTi1fLVZ4a3pUR2JldW9GelhFWUlTRzhNTHFSZF9uZEUwTEg3U0I5Q00ybEh4RVJFajJPa0dQMHVHVU03ZUNTSU5CQ282NkZGS2xNYzNZQ2RJQnlaSmZFTEthMlZqUC05UTJTS1l3?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "LRQA, AI 리스크 관리 체계 구축 방향 제시해 elec4",
-      "publishedAt": "2026-04-24T02:20:55.000Z",
-      "rank": 3
-    },
-    {
-      "id": "568eae5f175ccb0f",
-      "title": "[AI and Humanity (8) – Interview] Andy Vermaut “AI Concentrates Power and Blurs Accountability, EU Envoy Warns” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fRU5CaWZoOGc0Q3hOdGZaY1VZeUlWbDNpNUpNcVhqQWk1TkhWbm5IUnloM2d0LWplZ1pDaUp2STI5aUFfN3RJLUp1SW8xblRLMWVvY19aQmp1YUhfNjdSVmVsMmpHWnNfQkE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[AI and Humanity (8) – Interview] Andy Vermaut “AI Concentrates Power and Blurs Accountability, EU Envoy Warns” 천지일보",
-      "publishedAt": "2026-04-24T01:30:00.000Z",
       "rank": 4
     },
     {
-      "id": "e67d912cb9250a94",
-      "title": "디지털 전환, 미래 일자리의 갈림길 - 브랜드경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbnJLYkJsbGJUTWhXb1o2RE9nWWVTcmtTSHdVbDRmaDFTWHVIN2F5dlVxWFJTZ2FuOHMyT0Y4MnRBR0hkZUVhS09IMGg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "디지털 전환, 미래 일자리의 갈림길 브랜드경제신문",
-      "publishedAt": "2026-04-23T15:33:14.000Z",
+      "id": "0029ad55d9596592",
+      "title": "LRQA, EY컨설팅과 ‘Responsible AI와 ISO 42001’ 세미나 성료… AI 리스크 관리 체계 구축 방향 제시 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWkNubGtTVjJzM1AxSnR0OXRLUWlBWkNXdzlRSDhLRmlXU1BSQ2dyd2NRWEFMRDV3amk1bHY4b0NDQmhhVWl0RVBDdkVDeTNQUGlhLTVvM3dqREJ2ai1B?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "LRQA, EY컨설팅과 ‘Responsible AI와 ISO 42001’ 세미나 성료… AI 리스크 관리 체계 구축 방향 제시 뉴스와이어",
+      "publishedAt": "2026-04-24T00:30:00.000Z",
       "rank": 5
     },
     {
-      "id": "55a5d5d257cc361b",
-      "title": "ISSB, ‘자연 공시’ IFRS 체계 편입 추진 - ESG비즈니스리뷰",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVXpmZU1JWE9qa2R1c203R2Eza3RtVm1TMXpFVFlpZ2t1UXpSTE1wMHNpMk1OaUZUUTNCRFJjbU9BSy1MelM5WlZROU42N2lRTE1teGM2bWllNXVjTGdEN1g4bGJibFFKOXJiNjM0QlhjZnM?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "ISSB, ‘자연 공시’ IFRS 체계 편입 추진 ESG비즈니스리뷰",
-      "publishedAt": "2026-04-23T15:11:40.000Z",
+      "id": "6ed6d25d80b19900",
+      "title": "AIIA, ‘AI 안전·신뢰 표준화 포럼’ 출범…”산업 적용형 표준 마련” - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FdTdzdzIwSm1DT3pPNzUtYmlYcTJuT3RKQmlRMktoRld5Uk5rOVRYWF91RVZPcDZxYV9kTzVDdlJQb0JBbnZYbk1wNFhQYlQtUDdSTjNKZnVhcHBqTUpPS0RnclNDYnJtMUE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AIIA, ‘AI 안전·신뢰 표준화 포럼’ 출범…”산업 적용형 표준 마련” AI타임스",
+      "publishedAt": "2026-04-24T06:22:47.000Z",
       "rank": 6
     },
     {
-      "id": "e4326d13551e03a3",
-      "title": "[사이언스게시판] 우리동네에서 과학을 만나다, 26년 과학문화 신규 프로그램 추진 外 - 동아사이언스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pd1dWSmtzSlNrb3owWHlmMkhoMmFiMjB4MzVCVzNva2tCNEJ4SXo1RHQ3aUlWNXdHU3JLSWFSVDlKUkdCMnY1NDJNR0Y2Vk1FLTVJ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[사이언스게시판] 우리동네에서 과학을 만나다, 26년 과학문화 신규 프로그램 추진 外 동아사이언스",
-      "publishedAt": "2026-04-23T09:02:00.000Z",
+      "id": "13a95f7fb89428f7",
+      "title": "AI 시대 IT 인력의 진화… “실행보다 통제·관리 역할 커졌다” - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNWRPV0xmYVBqczYyaC1BT0ZMU1NUeHM5ZlRsZHJEWERURUQ3M0xqSVF4VVRZeHU2R2NoaVBEeFh2NzlEazAzdFU2NV83RHZheGVuWnA2aEhmRnA1TzRldUhKQU9VdnVFT2FqX2Zaa0k2MjBrUkZubkFZMVNaaWFQOURzanJxaUdYNll6b205UUNqUk1SSWNVbGN2b09TbWdpVWsxVVhpVW1PWmU5Mnk1bDZuakRnX25MY2RqRGt2RnAzNkRwSU9TV01YU1NuOEpiSjR0OVJYbkNkVG81dE1MMDlEUkFWd2FXSDlXZmxNUC1lVDF2OUViS2JkTHMzaDdmN1daQmR4YjdZbE9XcTV3T0RDRFlJOVVjN1ZzaG9xa3paX2cwUmxIUUlnd0x0MWZDTWk1U0hwRXliRHBiT2FOWkJzNA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 시대 IT 인력의 진화… “실행보다 통제·관리 역할 커졌다” cio.com",
+      "publishedAt": "2026-04-24T06:12:16.000Z",
       "rank": 7
     },
     {
-      "id": "2d9afebaeb3db52d",
-      "title": "Hippocrat Labs achieves four ‘ISO’ certifications spanning healthcare, personal information, and cloud - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jeUhqZm80R0RxTjZsWS0tdHZnd3lCdHZLeEZnY1FyYXVCUFRlSkpscDNKV2U1V2ZiSnphY3JOa0JRQUtQYy1jTDBlOTlGV0FtY0pwTm1xQ25NRktIN0gwSWV2VW5BdmR2Z3JJZtIBcEFVX3lxTE9rWmJkQXZrWEdDZURLc2hLc2FXdF9oS1ByemI2b0ZvdWJHMG1nbEZhMVcyZTVSeTRNYjNvNVpnNldmdXZPWUd0NU1QNGwwWkN6dVJnakF2d1llX3NvN0NCT05PbjR4VXJpUDlXeGZlX1A?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Hippocrat Labs achieves four ‘ISO’ certifications spanning healthcare, personal information, and cloud 더바이오",
-      "publishedAt": "2026-04-23T00:58:50.000Z",
+      "id": "932dbad89a10e90a",
+      "title": "한국인공지능산업협회, AI 안전·신뢰 표준화 포럼 출범…실행 기준 만든다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lU3FuRnk0bGpMV01UcWVWT05YTUFEek92S0t6QWwxbTh4QXNUOHpxUHlTZF9UYjhmZDAybE9qWmpaaWx5OC1lVWNkYkVBd0RyWnpieA?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국인공지능산업협회, AI 안전·신뢰 표준화 포럼 출범…실행 기준 만든다 v.daum.net",
+      "publishedAt": "2026-04-24T05:29:07.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "300a775b387dad48",
-      "title": "From Raw Video to Real Physics: The Google Cloud AI Breakdown",
-      "url": "https://www.youtube.com/watch?v=UUcOSkTDFyo",
+      "id": "77a9070f4c26c261",
+      "title": "Transform Studio: Behind the scenes at Google Cloud Next 2026!",
+      "url": "https://www.youtube.com/watch?v=gDrBiZsU2Xs",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/UUcOSkTDFyo/hqdefault.jpg",
-      "publishedAt": "2026-04-23T21:58:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gDrBiZsU2Xs/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:56:59.000Z",
       "viewCount": 0
     },
     {
-      "id": "80d1b64ed0119fa5",
-      "title": "Fireside chat on an agentic simulation: Race Condition",
-      "url": "https://www.youtube.com/watch?v=WYPdz3OZfuQ",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/WYPdz3OZfuQ/hqdefault.jpg",
-      "publishedAt": "2026-04-23T19:00:52.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e6a70e43eed08c42",
-      "title": "Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform",
-      "url": "https://www.youtube.com/watch?v=m6EyN2Z7HJk",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/m6EyN2Z7HJk/hqdefault.jpg",
-      "publishedAt": "2026-04-23T19:00:27.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "80c8bc32a7d25a1a",
-      "title": "Google Cloud Next '26 Developer Keynote",
-      "url": "https://www.youtube.com/watch?v=A01DQ8_xy7Q",
+      "id": "52ab9ffcd5b9a409",
+      "title": "New Way Now: Honeywell paves the way from automation to autonomy with Google Cloud",
+      "url": "https://www.youtube.com/watch?v=JAHsXp022IM",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/A01DQ8_xy7Q/hqdefault.jpg",
-      "publishedAt": "2026-04-23T18:41:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/JAHsXp022IM/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:46:20.000Z",
       "viewCount": 0
     },
     {
-      "id": "dd937ab1b0f90056",
-      "title": "Google Cloud Next '26 Developer Keynote [ASL]",
-      "url": "https://www.youtube.com/watch?v=6e-lJkYF4Vc",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/6e-lJkYF4Vc/hqdefault.jpg",
-      "publishedAt": "2026-04-23T18:41:01.000Z",
+      "id": "bb7ae755ba35f041",
+      "title": "Introducing GPT-5.5 with Perplexity",
+      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/GNEbX8EvDlg/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:13:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "f86243c6c241ea3c",
-      "title": "From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud",
-      "url": "https://www.youtube.com/watch?v=fY6OL_VOwg4",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/fY6OL_VOwg4/hqdefault.jpg",
-      "publishedAt": "2026-04-23T18:22:19.000Z",
+      "id": "ebe145f1b92f90a8",
+      "title": "Workspace agents in ChatGPT: Weekly metrics reporting agent",
+      "url": "https://www.youtube.com/watch?v=H5rSp32VwV8",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/H5rSp32VwV8/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:10:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "09b7e458d83909cd",
-      "title": "Google Announces Gemini Enterprise Agent Platform: The Future of Agentic AI",
-      "url": "https://www.youtube.com/watch?v=3wMwdzxIyN0",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/3wMwdzxIyN0/hqdefault.jpg",
-      "publishedAt": "2026-04-23T18:21:57.000Z",
+      "id": "09812deca080c10c",
+      "title": "Workspace agents in ChatGPT: Software review agent",
+      "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/7ZVYmoqqnCg/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:06:24.000Z",
       "viewCount": 0
     },
     {
-      "id": "9e1d5443dbabcbf6",
-      "title": "Vibe coding to production: Logan Kilpatrick on the evolution of AI Studio",
-      "url": "https://www.youtube.com/watch?v=GrhTj48kAF4",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/GrhTj48kAF4/hqdefault.jpg",
-      "publishedAt": "2026-04-23T18:01:20.000Z",
+      "id": "c576583f07173dba",
+      "title": "Workspace agents in ChatGPT: Third-party risk management agent",
+      "url": "https://www.youtube.com/watch?v=HnSPedbA02Q",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/HnSPedbA02Q/hqdefault.jpg",
+      "publishedAt": "2026-04-24T20:00:56.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4b009f2e4d8c91c9",
+      "title": "Introducing GPT-5.5 with NVIDIA's AI Researcher",
+      "url": "https://www.youtube.com/watch?v=R3aUYJFVc6w",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/R3aUYJFVc6w/hqdefault.jpg",
+      "publishedAt": "2026-04-24T19:58:35.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ff6ec512a22335e2",
+      "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
+      "url": "https://www.youtube.com/watch?v=DtCNGpeEZxM",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/DtCNGpeEZxM/hqdefault.jpg",
+      "publishedAt": "2026-04-24T19:12:42.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-23T02:44:14.000Z"
+      "updatedAt": "2026-04-24T02:44:21.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
