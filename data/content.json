@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-25T02:29:39.691Z",
-  "projectsCheckedAt": "2026-04-25T02:29:39.691Z",
-  "projectsUpdatedAt": "2026-04-25T02:29:39.691Z",
+  "updatedAt": "2026-04-26T02:46:00.980Z",
+  "projectsCheckedAt": "2026-04-26T02:46:00.980Z",
+  "projectsUpdatedAt": "2026-04-26T02:46:00.980Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-25T02:29:39.691Z",
+    "checkedAt": "2026-04-26T02:46:00.980Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d04055dcad2ae8e3",
-      "title": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 - EY",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONjNjMHdDMi1MMlpFRl96N3lCQWN0MFFtOEZUY0ZSSXFldll3N2E2d1NiMUp5UFc2UmRLNFJoQkxsYWNXY2dMcnlvQ0d4OGtVbVBWTXpZLWxiWnU4Q29WdGd1QkRDalNKVE5PVlk3R1dtOGI1X050aHJJcVFmRlk?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 EY",
-      "publishedAt": "2026-04-24T01:43:42.000Z",
+      "id": "7694c7b7f66964a7",
+      "title": "자이오넥스, ‘ISO/IEC 27701’ 국제표준 인증 획득 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZE1xbUdtZXprNlQwc3doXzRFb0w1clRZMWtjSFRERGlqQjJEck1tYU1LT3E5RmkxMm1MN2w3RWJHdDF0N0llSjMxUWJvNXI2MTI1ajhtaHd0UE43WGl0b0NjbkgxZFRKeFRvbA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "자이오넥스, ‘ISO/IEC 27701’ 국제표준 인증 획득 IT비즈뉴스",
+      "publishedAt": "2026-04-25T03:00:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "cab3542070dbd96b",
+      "title": "Crypto: RUT Price Prediction: Where Technical Analysis Points Next - InteractiveCrypto",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlk1Y214QXZFa0tqc05OQkJxNHNFZGdDMXV3cEdFUU9LVjlfNnBKZTMxLUYzZnFTX3RPQi05WUJyM25vTjQwcERqU3MwUFZnVFdnU3VaamlRNXotTFNUTzVrT3plbFRFS0tSSFRMaVVRaENCZEUybTFPY3J0LWpEdVcyWWgtandSNjRQVm5LejVXZ29Na2VRbGtwLU0?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Crypto: RUT Price Prediction: Where Technical Analysis Points Next InteractiveCrypto",
+      "publishedAt": "2026-04-25T05:08:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "e15ecd8d09c24620",
+      "title": "산업 맞춤형 AI, 빅데이터 혁신 이끈다 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yQjhLeE5Pcno3Y21Tb1I3QnUzdjlaNnBXYlJjREFBMWhhX2JMQS1sTHZuODdJc2VXZi02VjlNU1o3NkdoSDNWbzRpaHI?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "산업 맞춤형 AI, 빅데이터 혁신 이끈다 브랜드경제신문",
+      "publishedAt": "2026-04-24T21:22:23.000Z",
+      "rank": 3
     },
     {
       "id": "f70afe49f04ea5bb",
@@ -74,34 +92,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "Winning with 'Data' Not Algorithms… Nota Takes 1st Place Overall at NVIDIA Hackathon 벤처스퀘어",
       "publishedAt": "2026-04-24T12:04:26.000Z",
-      "rank": 2
-    },
-    {
-      "id": "41dff0663de8c099",
-      "title": "Nota AI Wins Grand Prize at NVIDIA Nemotron Hackathon, Proving MoE Quantization Prowess with Synthetic Data Technology - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZ1Q3N1VMdnA0eTNnUU1TaVNZWjN1NkJ1d25ickptekZESG1VYTR4Qk91dnBXR1lpR1BCVFhySGhHMHpKX3h5TVJIYVRfaWEtU1hfMEx4cGJtZTdHMWh4UEUyRmI1RUlJ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Nota AI Wins Grand Prize at NVIDIA Nemotron Hackathon, Proving MoE Quantization Prowess with Synthetic Data Technology KIPOST",
-      "publishedAt": "2026-04-24T12:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "621e152fc1ba8b80",
-      "title": "“AI 규제, 방어 너머 전략으로”... LRQA-EY, ‘ISO 42001’ 중심의 리스크 관리 해법 제시 - 한국데이터경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03cUJqSDNGbzdCLVAxUi13MzJTQkVwV2dIM1RsVGdUOXN6S3FkcU02ajl2ZmtVSUZDTDhMNmFjcU5TNWM2Znl6N1QwaXNyWm1xLUUtMlJ5SDN3eHVMOXV0aFZKNDBFUzNsVFFCRUY2ZGk?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "“AI 규제, 방어 너머 전략으로”... LRQA-EY, ‘ISO 42001’ 중심의 리스크 관리 해법 제시 한국데이터경제신문",
-      "publishedAt": "2026-04-24T01:06:00.000Z",
       "rank": 4
-    },
-    {
-      "id": "0029ad55d9596592",
-      "title": "LRQA, EY컨설팅과 ‘Responsible AI와 ISO 42001’ 세미나 성료… AI 리스크 관리 체계 구축 방향 제시 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWkNubGtTVjJzM1AxSnR0OXRLUWlBWkNXdzlRSDhLRmlXU1BSQ2dyd2NRWEFMRDV3amk1bHY4b0NDQmhhVWl0RVBDdkVDeTNQUGlhLTVvM3dqREJ2ai1B?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "LRQA, EY컨설팅과 ‘Responsible AI와 ISO 42001’ 세미나 성료… AI 리스크 관리 체계 구축 방향 제시 뉴스와이어",
-      "publishedAt": "2026-04-24T00:30:00.000Z",
-      "rank": 5
     },
     {
       "id": "6ed6d25d80b19900",
@@ -110,7 +101,7 @@
       "source": "Google News: AI standardization",
       "summary": "AIIA, ‘AI 안전·신뢰 표준화 포럼’ 출범…”산업 적용형 표준 마련” AI타임스",
       "publishedAt": "2026-04-24T06:22:47.000Z",
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "13a95f7fb89428f7",
@@ -119,19 +110,46 @@
       "source": "Google News: AI Data Quality",
       "summary": "AI 시대 IT 인력의 진화… “실행보다 통제·관리 역할 커졌다” cio.com",
       "publishedAt": "2026-04-24T06:12:16.000Z",
-      "rank": 7
+      "rank": 6
     },
     {
-      "id": "932dbad89a10e90a",
+      "id": "f547e1c76e105174",
       "title": "한국인공지능산업협회, AI 안전·신뢰 표준화 포럼 출범…실행 기준 만든다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lU3FuRnk0bGpMV01UcWVWT05YTUFEek92S0t6QWwxbTh4QXNUOHpxUHlTZF9UYjhmZDAybE9qWmpaaWx5OC1lVWNkYkVBd0RyWnpieA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LaU0tN3J4UlBVa0Z1X3Z3Nk1hbVJvUmJNdXBTaGo1TTFFY2paUnZOTWFqM3lQNHk1dDlrNUh5ODJWSFRtT3c?oc=5",
       "source": "Google News: AI standardization",
       "summary": "한국인공지능산업협회, AI 안전·신뢰 표준화 포럼 출범…실행 기준 만든다 v.daum.net",
       "publishedAt": "2026-04-24T05:29:07.000Z",
+      "rank": 7
+    },
+    {
+      "id": "d04055dcad2ae8e3",
+      "title": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 - EY",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONjNjMHdDMi1MMlpFRl96N3lCQWN0MFFtOEZUY0ZSSXFldll3N2E2d1NiMUp5UFc2UmRLNFJoQkxsYWNXY2dMcnlvQ0d4OGtVbVBWTXpZLWxiWnU4Q29WdGd1QkRDalNKVE5PVlk3R1dtOGI1X050aHJJcVFmRlk?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 EY",
+      "publishedAt": "2026-04-24T01:43:42.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "975f904216e8911b",
+      "title": "NVIDIA's New AI Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Xf_v62TQOx4/hqdefault.jpg",
+      "publishedAt": "2026-04-25T17:09:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "29661a5c0695683e",
+      "title": "Reddys vs Retirement | With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=fuO669ienMY",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/fuO669ienMY/hqdefault.jpg",
+      "publishedAt": "2026-04-25T07:37:25.000Z",
+      "viewCount": 0
+    },
     {
       "id": "77a9070f4c26c261",
       "title": "Transform Studio: Behind the scenes at Google Cloud Next 2026!",
@@ -185,24 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HnSPedbA02Q/hqdefault.jpg",
       "publishedAt": "2026-04-24T20:00:56.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "4b009f2e4d8c91c9",
-      "title": "Introducing GPT-5.5 with NVIDIA's AI Researcher",
-      "url": "https://www.youtube.com/watch?v=R3aUYJFVc6w",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/R3aUYJFVc6w/hqdefault.jpg",
-      "publishedAt": "2026-04-24T19:58:35.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ff6ec512a22335e2",
-      "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
-      "url": "https://www.youtube.com/watch?v=DtCNGpeEZxM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/DtCNGpeEZxM/hqdefault.jpg",
-      "publishedAt": "2026-04-24T19:12:42.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-24T02:44:21.000Z"
+      "updatedAt": "2026-04-25T02:31:38.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
