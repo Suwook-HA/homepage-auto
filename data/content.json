@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-27T02:48:46.495Z",
-  "projectsCheckedAt": "2026-04-27T02:48:46.495Z",
-  "projectsUpdatedAt": "2026-04-27T02:48:46.495Z",
+  "updatedAt": "2026-04-28T02:55:41.032Z",
+  "projectsCheckedAt": "2026-04-28T02:55:41.032Z",
+  "projectsUpdatedAt": "2026-04-28T02:55:41.032Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-27T02:48:46.495Z",
+    "checkedAt": "2026-04-28T02:55:41.032Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "ad5c1a784a266321",
+      "title": "텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 ‘Hy3’ 공개 - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNeTh1ZTl4MlA1Ri1KNDV3M1pHY0x5dHZiMGFVLWl2ZHh1d2Zpbk1xRHJUbXljUkdJakxacEUzLUNMSDUwS2VSOTFnb3JlY0hBcHE4Y0pGeGI0MndDY0tGQnlILWhnLURVenhMSFdTbE9GWGxIRWNNUG01WHZaQnJ6NWhmV01VN0MtMFdiMUNhaFdUQ3BfOEQtWGgwN0piOUhna1BnNFdjWHcyQnBUdWtzS05VNnp6VG5wMEp0bWtEWWh3WlhZQno0X1VlM3JKcGJ6TjRyZlV3N0N0eVh4QnZQSFlaNWw3bF93ZUJhUGczQ2FWSFdCQzV0aXM1cEJBbHJJZWNtdFpJaHR1RVk3RXBRNDFtWmtKV2Ezd003U0NQN1R5U01BdlVjMEh0MWc4ellCUWk4YWlkNFlxUk03a1JnMg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 ‘Hy3’ 공개 cio.com",
+      "publishedAt": "2026-04-28T02:50:05.000Z",
+      "rank": 1
+    },
+    {
+      "id": "87f185fe55098dbc",
+      "title": "구글, AI가 학습 데이터 스스로 설계하는 '시뮬라' 공개...\"단순 베끼기는 끝나\" - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZDJsdExLaFcySWR0UlNNRFMtZWZUOFdhTmd5SWdIYjRkSjM5bzVDS3hyRWcwbUxsOHlVaXFoa3N5ZDJjcjI4ei1NVTZpTmt6WDhsV1JCRklvNkdwcmV0NGFVb2xfWG9FVGc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "구글, AI가 학습 데이터 스스로 설계하는 '시뮬라' 공개...\"단순 베끼기는 끝나\" AI타임스",
+      "publishedAt": "2026-04-27T09:38:22.000Z",
+      "rank": 2
+    },
+    {
+      "id": "a1814d7e0aeea810",
+      "title": "오명훈 호남대 교수, '엣지 컴퓨팅' 분야 국제표준 제정 기여 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4dmdYdE96S1Q3ekM3WkFpbmlLaWg5dnJORVk5S2tYdGh4c3JtQU9BS0EtOWhYQUEwX1NtNzQ3MF83Qmw0Y3BLbGZVMVE4UQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "오명훈 호남대 교수, '엣지 컴퓨팅' 분야 국제표준 제정 기여 전자신문",
+      "publishedAt": "2026-04-27T09:08:43.000Z",
+      "rank": 3
+    },
+    {
+      "id": "418e04ce717f29db",
+      "title": "(주)푸드테크 프랜디, AI 기반 QSC 서비스 출시…프랜차이즈 매장 관리 디지털화 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVXk2cDRsOWtDSlpxTktUeGh5Uy1kSnA5TlFYSkJUWjJLV0hWWUIyeDZuaHpLbHMtemJGRWdVVlY2bWRFRWc5RGtIYVhMdjRScTNOWkZ4eTgyQdIBWEFVX3lxTFB2SDY4clNtOGxiajFkeTdGb2VWbnN4UC05bTQwRU1fdzc4YXFLSVdvT3IzMDNVa2tNX0F6M1VjcGNjZUhnUjh5cEtGd1BWR2dRY25IVWJ2Y0g?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "(주)푸드테크 프랜디, AI 기반 QSC 서비스 출시…프랜차이즈 매장 관리 디지털화 아주경제",
+      "publishedAt": "2026-04-27T05:56:17.000Z",
+      "rank": 4
+    },
     {
       "id": "341bf7a397cf8778",
       "title": "ETRI 소속인 이강찬 ITU-T 인공지능 표준화 공동조정그룹(JCA-AI) 의장이 제안발표를 하고 있다. - 전자신문",
@@ -65,143 +101,107 @@
       "source": "Google News: ITU-T standardization",
       "summary": "ETRI 소속인 이강찬 ITU-T 인공지능 표준화 공동조정그룹(JCA-AI) 의장이 제안발표를 하고 있다. 전자신문",
       "publishedAt": "2026-04-26T16:38:40.000Z",
-      "rank": 1
-    },
-    {
-      "id": "6be9ef561f9bbdff",
-      "title": "한전, Open R&D 아이디어 공모…기후테크 등 전략기술 확보 나선다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HVmlfVmcwdFdMZF91U0lMQ0stSnlRWDI2YkU1amNqWDlXa1FXQVVlMzFod0FWdGs5SFNLRWxjcGJ0eHRSZzNrSEM0RzJnRVNuMnlYdVZaVC1rQ1VyM2J3dGpIa3RwcVVhakZ0Q1Ixbnpxa2YyR0sxdtIBeEFVX3lxTE5HVmlfVmcwdFdMZF91U0lMQ0stSnlRWDI2YkU1amNqWDlXa1FXQVVlMzFod0FWdGs5SFNLRWxjcGJ0eHRSZzNrSEM0RzJnRVNuMnlYdVZaVC1rQ1VyM2J3dGpIa3RwcVVhakZ0Q1Ixbnpxa2YyR0sxdg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "한전, Open R&D 아이디어 공모…기후테크 등 전략기술 확보 나선다 뉴시스",
-      "publishedAt": "2026-04-26T23:48:47.000Z",
-      "rank": 2
-    },
-    {
-      "id": "2f7f4207dc3740cf",
-      "title": "고장 나기 전에 알려주는 공장··· 제조업 ‘AX 시대’ 열렸다 - 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUjVsY051d3dSMXZYNkNzN1FMc0NLcDhvbWg2TnNabGlrb1YtWVFucW5VSUs5aTV4djIwMUR3aXEyRE9tLWpkVzRERkYwcWxEa3lfUnl6cV9IUQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "고장 나기 전에 알려주는 공장··· 제조업 ‘AX 시대’ 열렸다 경북매일",
-      "publishedAt": "2026-04-26T07:05:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "76c795b7efe31baf",
-      "title": "Sovereign AI for the World: Cohere and Aleph Alpha to Form Global AI Powerhouse as Nations and Enterprises Demand Control Over Their Technology - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNXN5eTZiVFVwblhoYS1FRnZ6UUFqOUZwdWRrUzlvV3ZpR2tFZngwaWlWS3dtcmpEMzRoTmprNWhabmNtdzdpeHZFa1VQbm4zcDZFdU9tcUFmREJUQUtn?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Sovereign AI for the World: Cohere and Aleph Alpha to Form Global AI Powerhouse as Nations and Enterprises Demand Control Over Their Technology 뉴스와이어",
-      "publishedAt": "2026-04-26T06:10:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e15ecd8d09c24620",
-      "title": "산업 맞춤형 AI, 빅데이터 혁신 이끈다 - 브랜드경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yQjhLeE5Pcno3Y21Tb1I3QnUzdjlaNnBXYlJjREFBMWhhX2JMQS1sTHZuODdJc2VXZi02VjlNU1o3NkdoSDNWbzRpaHI?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "산업 맞춤형 AI, 빅데이터 혁신 이끈다 브랜드경제신문",
-      "publishedAt": "2026-04-24T21:22:23.000Z",
       "rank": 5
     },
     {
-      "id": "d04055dcad2ae8e3",
-      "title": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 - EY",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONjNjMHdDMi1MMlpFRl96N3lCQWN0MFFtOEZUY0ZSSXFldll3N2E2d1NiMUp5UFc2UmRLNFJoQkxsYWNXY2dMcnlvQ0d4OGtVbVBWTXpZLWxiWnU4Q29WdGd1QkRDalNKVE5PVlk3R1dtOGI1X050aHJJcVFmRlk?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "EY컨설팅, 로이드인증원과 ‘Responsible AI와 ISO/IEC 42001’ 세미나 성료…AI 규제 대응 전략 제시 EY",
-      "publishedAt": "2026-04-24T01:43:42.000Z",
+      "id": "c27ad28f8bee6e40",
+      "title": "한전, 기후테크 등 전략기술 확보 위한 ‘오픈 R&D 아이디어 공모’ - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lVHhZV2lCWmtLZ05qTzNtalI2bjUzMXlQaTZZQ0loNExTcURHeGJEdEhyMVQwdDhDdE02ZzdISWprWWtQQjBPODVHX0E1dzQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "한전, 기후테크 등 전략기술 확보 위한 ‘오픈 R&D 아이디어 공모’ v.daum.net",
+      "publishedAt": "2026-04-27T02:47:07.000Z",
       "rank": 6
     },
     {
-      "id": "812b446fc71d03b4",
-      "title": "알고리즘 아닌 ‘데이터’로 승부…노타, 엔비디아 해커톤 종합 1위 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94Q0x5WXdTU0FHUUFjOUZsUENueU9uUnFaSW96a2xxc3U3YkFJRUZ0eklRN0lUeWlSdzRYNjM5RU94QThtN2xmVUxUZlJPRUU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "알고리즘 아닌 ‘데이터’로 승부…노타, 엔비디아 해커톤 종합 1위 벤처스퀘어",
-      "publishedAt": "2026-04-24T12:09:01.000Z",
+      "id": "b4668a9e3ef1cf5b",
+      "title": "마사회·농진청, 말산업 R&D 3대 전략 추진…조사료 자급·치유 프로그램 확대 - 라이센스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mRFlXWXZ0V0tSbU1GMHVqTkN0LUVITVN4QTN4Q0p4azZjbXpUdk9VWVlKV0pBUzNEUnZmSElBWHFXUWs1LWdtLWxCQk5RSmliX0NNR0xHc2NzLUYxQlZaaGY3a2dneVRTdTZ3?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "마사회·농진청, 말산업 R&D 3대 전략 추진…조사료 자급·치유 프로그램 확대 라이센스뉴스",
+      "publishedAt": "2026-04-27T01:17:27.000Z",
       "rank": 7
     },
     {
-      "id": "370838852a91d0f9",
-      "title": "From Pest Control to 'Spatial Platform'… CareOne Completely Transforms Brand Strategy - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44YUJMdEVYeW5rV01xczg1TzdFaWlSSWNzQ2MyVWtVTWplTjk0enRvei1sMVVTTmg2TmpJRC1YemNMNE1pb0ZBNHRRQ0lkdUIzM2FZ?oc=5",
+      "id": "7d66ae92f8651cab",
+      "title": "한전, 전략기술 확보 ‘Open R&D 아이디어 공모’ 추진한다 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtbTFONVA4R3hfaTdlbXdXTDVLdU9zQk4xQ0NpTDhud0NRVnhITDZ6RHFPSzlSZFVKZ1FRS1MyN05FbXMzMzBiLXd1WHVDNUlUaGczUkV5U0J6RTNnVlVJX1llWnhQT0UzWG02aw?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "From Pest Control to 'Spatial Platform'… CareOne Completely Transforms Brand Strategy 벤처스퀘어",
-      "publishedAt": "2026-04-24T12:08:29.000Z",
+      "summary": "한전, 전략기술 확보 ‘Open R&D 아이디어 공모’ 추진한다 에너지데일리",
+      "publishedAt": "2026-04-26T23:43:30.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "ff6ec512a22335e2",
-      "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
-      "url": "https://www.youtube.com/watch?v=DtCNGpeEZxM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/DtCNGpeEZxM/hqdefault.jpg",
-      "publishedAt": "2026-04-24T19:12:42.000Z",
+      "id": "80d1b64ed0119fa5",
+      "title": "Fireside chat on an agentic simulation: Race Condition",
+      "url": "https://www.youtube.com/watch?v=WYPdz3OZfuQ",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/WYPdz3OZfuQ/hqdefault.jpg",
+      "publishedAt": "2026-04-23T19:00:52.000Z",
       "viewCount": 0
     },
     {
-      "id": "021c038b0edee145",
-      "title": "Defense Tech Startups See Opportunity in Ongoing Conflicts",
-      "url": "https://www.youtube.com/watch?v=FMlmNGOdp0U",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/FMlmNGOdp0U/hqdefault.jpg",
-      "publishedAt": "2026-04-24T18:51:10.000Z",
+      "id": "e6a70e43eed08c42",
+      "title": "Explore a high-scale agentic AI-powered simulation sandbox with Gemini Enterprise Agent Platform",
+      "url": "https://www.youtube.com/watch?v=m6EyN2Z7HJk",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/m6EyN2Z7HJk/hqdefault.jpg",
+      "publishedAt": "2026-04-23T19:00:27.000Z",
       "viewCount": 0
     },
     {
-      "id": "65abb9ec4df153d6",
-      "title": "Amazon-Backed Nuclear Firm X-Energy Raises $1.02 Billion in IPO",
-      "url": "https://www.youtube.com/watch?v=EGoP1OQnZ5s",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EGoP1OQnZ5s/hqdefault.jpg",
-      "publishedAt": "2026-04-24T18:34:51.000Z",
+      "id": "779397cc3b6022c8",
+      "title": "Introducing Agents CLI in Agent Platform",
+      "url": "https://www.youtube.com/watch?v=ECYKo70pPNc",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/ECYKo70pPNc/hqdefault.jpg",
+      "publishedAt": "2026-04-22T16:04:43.000Z",
       "viewCount": 0
     },
     {
-      "id": "c45bcc364cc171bc",
-      "title": "Meta, Microsoft Cuts Could Hit 23,000 Jobs",
-      "url": "https://www.youtube.com/watch?v=T9G257cqInM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/T9G257cqInM/hqdefault.jpg",
-      "publishedAt": "2026-04-24T18:27:30.000Z",
+      "id": "c682cd07e46f44c0",
+      "title": "📉 Turn your multimodal data into something you can actually query",
+      "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg",
+      "publishedAt": "2026-04-22T14:33:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "359d3a1cc8810746",
-      "title": "Tim Cook is stepping down. What happens to Apple now? | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=pBjEm7t_F5w",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/pBjEm7t_F5w/hqdefault.jpg",
-      "publishedAt": "2026-04-24T17:30:23.000Z",
+      "id": "9224fbc84f429217",
+      "title": "Deep Research Max: A step change for autonomous research agents",
+      "url": "https://www.youtube.com/watch?v=CfYx8FF26u8",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/CfYx8FF26u8/hqdefault.jpg",
+      "publishedAt": "2026-04-21T22:57:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "6bb0dc0dd5223ae7",
-      "title": "Google Plans to Invest up to $40 Billion in Anthropic",
-      "url": "https://www.youtube.com/watch?v=ZNnXlF0-nfk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ZNnXlF0-nfk/hqdefault.jpg",
-      "publishedAt": "2026-04-24T16:22:43.000Z",
+      "id": "8414135077e8460f",
+      "title": "Add Telephony to a Gemini Live Agent",
+      "url": "https://www.youtube.com/watch?v=FCb4LSzPVmo",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/FCb4LSzPVmo/hqdefault.jpg",
+      "publishedAt": "2026-04-21T16:00:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "90063f56acb43160",
-      "title": "Will Social Media Bans Actually Work? | Bloomberg Tech: Asia 4/24/2026",
-      "url": "https://www.youtube.com/watch?v=38F-xcKfFkY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/38F-xcKfFkY/hqdefault.jpg",
-      "publishedAt": "2026-04-24T02:35:00.000Z",
+      "id": "87cc014a51ae8255",
+      "title": "Meet DESIGN.md: A new open standard for AI-generated UI",
+      "url": "https://www.youtube.com/watch?v=W1gWIQp9k1Y",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/W1gWIQp9k1Y/hqdefault.jpg",
+      "publishedAt": "2026-04-21T16:00:28.000Z",
       "viewCount": 0
     },
     {
-      "id": "0e96abad6ebf9b37",
-      "title": "Tesla Plans Additional $25 Billion in Spending | Bloomberg Tech 4/23/2026",
-      "url": "https://www.youtube.com/watch?v=M2GMn9a0wVA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/M2GMn9a0wVA/hqdefault.jpg",
-      "publishedAt": "2026-04-23T20:01:46.000Z",
+      "id": "207ef350d950e4a1",
+      "title": "TensorFlow Developer Professional Certificate",
+      "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg",
+      "publishedAt": "2026-03-23T22:01:50.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-26T02:50:05.000Z"
+      "updatedAt": "2026-04-27T02:52:51.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
