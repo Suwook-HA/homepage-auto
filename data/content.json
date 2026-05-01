@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-30T02:55:31.920Z",
-  "projectsCheckedAt": "2026-04-30T02:55:31.920Z",
-  "projectsUpdatedAt": "2026-04-30T02:55:31.920Z",
+  "updatedAt": "2026-05-01T03:26:53.278Z",
+  "projectsCheckedAt": "2026-05-01T03:26:53.278Z",
+  "projectsUpdatedAt": "2026-05-01T03:26:53.278Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,7 +54,7 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-04-30T02:55:31.920Z",
+    "checkedAt": "2026-05-01T03:26:53.278Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
@@ -68,104 +68,140 @@
       "rank": 1
     },
     {
+      "id": "b8042d9d22a5bd48",
+      "title": "[사이언스게시판] 과기정통부-기획처, 2027년도 R&D 투자전략 논의 外 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wTUJONVhBYzJiZWhwbG1xVXZtX0d2dnlEN0dQc2U5OHdlNjMwQ2YtR0ZnWEU4MHBlYmJrWnRFcjYzeXBoblJ3b2diaw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "[사이언스게시판] 과기정통부-기획처, 2027년도 R&D 투자전략 논의 外 v.daum.net",
+      "publishedAt": "2026-04-30T09:15:34.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b3db7ca6924d8bce",
+      "title": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dVFrdmxvZlhBYjcwT212Ukx4aW1XeTRKMFZrcUtzamp4LXd5OEs0RFRhMGRuRlA4Q2k0enV1c0k3R3BYVktheHRERFJCeXFzRXAyNFNrRHktb3FjNkZuNlptOEJ6MTQ5Vmc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" 헬로디디",
+      "publishedAt": "2026-04-30T08:10:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "cd0f23162e08f3ce",
+      "title": "정부, R&D 전면 재편…전략기술 집중·재량 15% 구조조정 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMVlIc2FpUG9zbEFHbjlyS2pYa25HQW9PNE4zd2hhbk5BT2RnS25KMWdpMnZlZmZpMjVkOWc5aUZsX2pNdERyc3VEX3hxQWlWREFsZFRVQ3hHZ9IBWEFVX3lxTFBrRTZoTUp3bW5RTTlkNjY2Y2tlSVJVMjRCQ2VLMTJCZ3dlM3cyblJfc2laX0I2S0NUNWExVlZFVVAtMUZTcnNscWRUVjJRaU9QZUF1bmwxQ3Y?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "정부, R&D 전면 재편…전략기술 집중·재량 15% 구조조정 아주경제",
+      "publishedAt": "2026-04-30T06:30:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "9f3db018ac943089",
+      "title": "포스코 광양제철소, 폐기물 처리 ‘AI 표준화’ 시동…현장 효율·비용 동시 개선 - 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uUzhFLXRBSGxVdmJlLWhXb0wxQ1VrWmxKR2ZBamk0elJ5VGVDc2NEVzgyY01hNGtvTDdGRjhDMXFnRjA3TGtXMzZBWVdpTWpZWHdEcVZKWFRKMUduRldhZ1YtcDBzYkhwRFE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "포스코 광양제철소, 폐기물 처리 ‘AI 표준화’ 시동…현장 효율·비용 동시 개선 철강금속신문",
+      "publishedAt": "2026-04-30T04:56:22.000Z",
+      "rank": 5
+    },
+    {
+      "id": "c7e9c7c2e10a4e1c",
+      "title": "\"드론이 보고 AI가 푼다\" HDC랩스, GDX플랫폼 공개 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TLVJyN2dFNUxEQXdhX2M2Rmt1REtYYVVnVE4yakVvZ0UzQzNleWZGb1AwRUJkZHJHYWxRS2xPWVNiN2F6YUJKdmxnYWVST1hFQWY0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "\"드론이 보고 AI가 푼다\" HDC랩스, GDX플랫폼 공개 경제타임스",
+      "publishedAt": "2026-04-30T04:32:05.000Z",
+      "rank": 6
+    },
+    {
       "id": "c403ae13b9b164e1",
       "title": "SK bioscience Wins LEED Gold for Songdo R&PD Center, Expanding ESG into R&D Infrastructure - Korea IT Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03SnE3OUNvSnc0TExtTmpUZG4zeG5FajBLYUZCTUt0Q1QxZ3ByeDhrUEZnWm83SHFfdWV1RzkxN1hodFhoM0lxVDNyT2ZxaUt5emxpZy00Um94WjhQb0ZUdlRHYUYzb1pqUXFvRW5wUVQ?oc=5",
       "source": "Google News: International Standardization",
       "summary": "SK bioscience Wins LEED Gold for Songdo R&PD Center, Expanding ESG into R&D Infrastructure Korea IT Times",
       "publishedAt": "2026-04-30T02:48:39.000Z",
-      "rank": 2
-    },
-    {
-      "id": "3919e7479e8b1602",
-      "title": "해성디에스-인터엑스, AX 자율제조 파트너십…반도체 제조 'AI 자율화' 앞당긴다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xNWRTWjBDTGdUR3BLQ3MtM1lFVEV0NV9FN24wR0MzR0lBVVhINVlURkhFajFFMnR2V2lOd3dXdjg4Z0t6TTRHX0daNzM?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "해성디에스-인터엑스, AX 자율제조 파트너십…반도체 제조 'AI 자율화' 앞당긴다 전자신문",
-      "publishedAt": "2026-04-30T01:41:56.000Z",
-      "rank": 3
-    },
-    {
-      "id": "8d43352e7ddfb186",
-      "title": "스텔스 탐지 양자레이더 국산화…국가전략기술 R&D에 5년간 60조원 이상 확대 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQ1BEMnlQeFozSXRTS2lRMVJIZ0R2ZnpIVlk4U1ZyUzZ3a0F6bFhBWnNtcTBiemhJcERlSEl4YklHV3RRa2ViZVFxSzBPaXc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "스텔스 탐지 양자레이더 국산화…국가전략기술 R&D에 5년간 60조원 이상 확대 v.daum.net",
-      "publishedAt": "2026-04-30T01:18:16.000Z",
-      "rank": 4
-    },
-    {
-      "id": "eeb5c68fb64ae16e",
-      "title": "해외 IT 거점 AI 혁신센터 전환·국가전략기술 R&D에 5년간 60조 투입 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWm9MQXpxMU5aNFhpemdwbzNBOHVzSDk2anIxS2ZRbUM2c0QtTm0xdW5hanU0RGl3cVBZa19NTmk0d1RhZk0weWJYdU03Ty12cWUyal90MzZaYmtLcXcwM1k5bjJzVDFzMXBXd0dOWXJXYmPSAXNBVV95cUxQalpvTEF6cTFOWjRYaXpncG8zQTh1c0g5NmpyMUtmUW1DNnNELU5tMXVuYWp1NERpd3FQWWtfTU5pNHdUYWZNMHliWHVNN08tdnFlMmpfdDM2WmJrS3F3MDNZOW4yc1QxczFwV3dHTllyV2Jj?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "해외 IT 거점 AI 혁신센터 전환·국가전략기술 R&D에 5년간 60조 투입 뉴스웍스",
-      "publishedAt": "2026-04-30T01:06:49.000Z",
-      "rank": 5
-    },
-    {
-      "id": "c5e2287efeec5384",
-      "title": "[AI픽] 제조·행정 AX 확산…국가전략기술 R&D 지원사격 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TM2puWFVJOE5JZDEzd0lNSy0ySEJjaU9yR1pxV2ZkbnEzakdWaGVvRWtNZ1VXUGxUZHNkeDZVZWQwWEt3LUhrS1dQRUhMVWZHcl9jZDh6MTBNWXRvekJ6ZdIBYEFVX3lxTE9TM2puWFVJOE5JZDEzd0lNSy0ySEJjaU9yR1pxV2ZkbnEzakdWaGVvRWtNZ1VXUGxUZHNkeDZVZWQwWEt3LUhrS1dQRUhMVWZHcl9jZDh6MTBNWXRvekJ6ZQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[AI픽] 제조·행정 AX 확산…국가전략기술 R&D 지원사격 연합뉴스",
-      "publishedAt": "2026-04-30T01:00:04.000Z",
-      "rank": 6
-    },
-    {
-      "id": "7973758b6f8e561f",
-      "title": "강스템바이오텍, 피부·모낭 오가노이드 '제조 표준화' 국책과제 선정 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ck1DVE9tSmdlMloySWNYeU54NUlrOFpDUnZmNDJGSzgtcERRZFRJaFBrWEhPTHlLSDl4bktpZ0lvYkNJMUNXME5nS1pzZmhLTGpQbnhNaHJGbVJtOTFqaWdaNC1ndnNSZVHSAW9BVV95cUxPZWVBY0ZHZEoyR0FfSlZ1T3hTclI2SXdZeHgzblR1bTBWeEpVMFFpU1ZVb0puZUpxc2hEMk1FLWt4ZHFsN0UtdUxicUExeWJyZFhVOE0tYkkyeDhkOWo1TkcwNzBCbU1WU3Nzam9OZEU?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "강스템바이오텍, 피부·모낭 오가노이드 '제조 표준화' 국책과제 선정 - 머니투데이 머니투데이",
-      "publishedAt": "2026-04-30T00:14:17.000Z",
       "rank": 7
     },
     {
-      "id": "4cac04ba841f0178",
-      "title": "광주은행, ‘‘ISO 45001’ 인증 획득 수여식’ 개최 - stnsports.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZGxZb1ZtTkxrMUI1S3YxYWhaZWN5MDlxNVZkY1RjOHV4MGVhMTgxOTByT2RWRnF5OWJYYmQ5YVRSS2FRMGhtal9mVlBXRkxLRHBJcXUzQ3J0TWpacGNNTld6REZKM1JwRUkzU3R0Yw?oc=5",
+      "id": "6153e21b9660d1a1",
+      "title": "ITeS, AI Medical MyData Transformation Solution 'MediGrid' Wins GS Certification—Top Grade - 코리아스타트업포스트",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aOGFjdVNuclBqMENIMTBGaG1NSEJ6djhiR1pTWGNJRE9weW4xS3FjWXIzNGZ0cU5vRWw3NUpaTnNiX0x4Q09FS2xfREZLQnI0dEFaRg?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "광주은행, ‘‘ISO 45001’ 인증 획득 수여식’ 개최 stnsports.co.kr",
-      "publishedAt": "2026-04-29T09:08:17.000Z",
+      "summary": "ITeS, AI Medical MyData Transformation Solution 'MediGrid' Wins GS Certification—Top Grade 코리아스타트업포스트",
+      "publishedAt": "2026-04-30T02:20:15.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "c682cd07e46f44c0",
-      "title": "📉 Turn your multimodal data into something you can actually query",
-      "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg",
-      "publishedAt": "2026-04-22T14:33:13.000Z",
+      "id": "2d95c7fc852ae2f0",
+      "title": "Keeping Your Team Motivated When FDA Approval Isn’t Guaranteed l Build Mode",
+      "url": "https://www.youtube.com/watch?v=EORsN5jrcyc",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/EORsN5jrcyc/hqdefault.jpg",
+      "publishedAt": "2026-04-30T14:00:24.000Z",
       "viewCount": 0
     },
     {
-      "id": "207ef350d950e4a1",
-      "title": "TensorFlow Developer Professional Certificate",
-      "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg",
-      "publishedAt": "2026-03-23T22:01:50.000Z",
+      "id": "9d2652264690be3e",
+      "title": "IBM and Scuderia Ferrari HP Present: A tribute to the Tifosi",
+      "url": "https://www.youtube.com/watch?v=ZhhhY6fgnLo",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ZhhhY6fgnLo/hqdefault.jpg",
+      "publishedAt": "2026-04-30T13:00:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "100afbc0e1c796d9",
-      "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg",
-      "publishedAt": "2026-03-23T21:59:39.000Z",
+      "id": "93d3e589f0a224c7",
+      "title": "For Runway, AI video was step one. Now they're trying to build worlds | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=0gkBmHryxQA",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/0gkBmHryxQA/hqdefault.jpg",
+      "publishedAt": "2026-04-29T18:10:47.000Z",
       "viewCount": 0
     },
     {
-      "id": "7e502e31ec9e5a29",
-      "title": "AI for Everyone by Andrew Ng",
-      "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg",
-      "publishedAt": "2026-03-23T21:55:47.000Z",
+      "id": "e1ee1da244e7e157",
+      "title": "Solved: The Bug That Haunted AI Video For Years",
+      "url": "https://www.youtube.com/watch?v=yzajLZXh9JU",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/yzajLZXh9JU/hqdefault.jpg",
+      "publishedAt": "2026-04-28T17:16:01.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c96e66831705043d",
+      "title": "Brewing Smarter: How HEINEKEN Is Using AI To Revolutionize Its Global Operations",
+      "url": "https://www.youtube.com/watch?v=08v7VQNXnZc",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/08v7VQNXnZc/hqdefault.jpg",
+      "publishedAt": "2026-04-28T11:00:00.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "abf83a3a01d7d4b3",
+      "title": "This IBM Master Inventor Holds 291 Patents 🤯",
+      "url": "https://www.youtube.com/watch?v=1Itqu51TYV8",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/1Itqu51TYV8/hqdefault.jpg",
+      "publishedAt": "2026-04-27T16:01:06.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "975f904216e8911b",
+      "title": "NVIDIA's New AI Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Xf_v62TQOx4/hqdefault.jpg",
+      "publishedAt": "2026-04-25T17:09:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "359d3a1cc8810746",
+      "title": "Tim Cook is stepping down. What happens to Apple now? | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=pBjEm7t_F5w",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/pBjEm7t_F5w/hqdefault.jpg",
+      "publishedAt": "2026-04-24T17:30:23.000Z",
       "viewCount": 0
     }
   ],
@@ -198,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-04-29T02:58:17.000Z"
+      "updatedAt": "2026-04-30T02:59:35.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
