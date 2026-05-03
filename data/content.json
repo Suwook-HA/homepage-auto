@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-02T02:43:30.271Z",
-  "projectsCheckedAt": "2026-05-02T02:43:30.271Z",
-  "projectsUpdatedAt": "2026-05-02T02:43:30.271Z",
+  "updatedAt": "2026-05-03T02:55:36.088Z",
+  "projectsCheckedAt": "2026-05-03T02:55:36.088Z",
+  "projectsUpdatedAt": "2026-05-03T02:55:36.088Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,26 +54,26 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-02T02:43:30.271Z",
+    "checkedAt": "2026-05-03T02:55:36.088Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "6f6f3b7eed9d22dc",
-      "title": "커머셜 바이오 제약 산업의 데이터, 분석 및 AI 현황 보고서 - Veeva",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVVyN283NGNvdGVOYV9kNjNIS0k4Smk1cU9YZkJNUDYzWFA3N1Q0Yk9nOFhSczYtVlNUMUZuaE16dzN5TXg0bFV5YURyV3lSTGRycUd6aXNtbmxVRHN1TTZ4ek1ZMmJ6OFlKMGx4SU5qWlNMSTRDYmlqVDkwV1VlYkpEQVVEQTV0aHU0VWFqOU5iNlgtYWZhTFdn?oc=5",
+      "id": "d76dfa1d31f1d189",
+      "title": "인터엑스, 반도체 제조 ‘AI 자율화’ 선언해...해성디에스와 AX 파트너십 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JVW1ELURRYVJNLUlveGdkN2JtVVBLSmxvNl9DYzdieGFldW84SzVfM0JaN0FoZXhNNHVTYXhGaF9uNFBtazNUWG1WQVlhajNuenlKWU5NeTlzTVY0dDNj?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "커머셜 바이오 제약 산업의 데이터, 분석 및 AI 현황 보고서 Veeva",
-      "publishedAt": "2026-05-01T21:35:05.000Z",
+      "summary": "인터엑스, 반도체 제조 ‘AI 자율화’ 선언해...해성디에스와 AX 파트너십 헬로티",
+      "publishedAt": "2026-05-02T05:09:03.000Z",
       "rank": 1
     },
     {
-      "id": "6a613c483ab747e7",
-      "title": "크래프톤, 정보보호 국제표준 ISO/IEC 27001, 27701 인증 동시 획득 - 인벤",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jbWZZZGVkejlRdXE2dV90UjdiaGVCS3BBN1E2YVA3R2tqYlE1VU1KWXhwX1dYdTFVU0ZiUnlDV0lpVFdiemJsQXZnVVl6S3FON3hJT2ZWLUpTNVg2N3pYWW5iMXQ3aUo0NDFENlVRYWk?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "크래프톤, 정보보호 국제표준 ISO/IEC 27001, 27701 인증 동시 획득 인벤",
-      "publishedAt": "2026-05-01T00:50:37.000Z",
+      "id": "f6b646d1a6a3e8d3",
+      "title": "요즘 아이들의 독서, 고민과 관심사를 데이터로 읽다 - 우리문화신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmbEJVblYxWkszdjJ4N292a24yOXlxUlFSRE9KMEo5M3FOUkY1SzVIVVA5akpoOF9pT1V1aTlYY21BNjhZLUF5eGhoN1ZLYXkyV25NXzdwbl8zNkE5RzlHczRKTUUtZw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "요즘 아이들의 독서, 고민과 관심사를 데이터로 읽다 우리문화신문",
+      "publishedAt": "2026-05-02T03:22:56.000Z",
       "rank": 2
     },
     {
@@ -104,13 +104,22 @@
       "rank": 5
     },
     {
+      "id": "997057898218455f",
+      "title": "AI That Finds Sea Mines Without Data May Redefine Military Standards - kmjournal.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3SkFUN0tOQ1Q0eGpkVDR0bjVnYmhiV251Qk10TGMxOXIzX2h5MXVoZWlwSWlfZkRwTTF0X0k0MG1iNFRXSHJtajU0NUJjenh4XzFBVFJkZFllcmV6dmFMNkowT0Zyb0hURERB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "AI That Finds Sea Mines Without Data May Redefine Military Standards kmjournal.net",
+      "publishedAt": "2026-04-30T02:34:58.000Z",
+      "rank": 6
+    },
+    {
       "id": "b3db7ca6924d8bce",
       "title": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" - 헬로디디",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dVFrdmxvZlhBYjcwT212Ukx4aW1XeTRKMFZrcUtzamp4LXd5OEs0RFRhMGRuRlA4Q2k0enV1c0k3R3BYVktheHRERFJCeXFzRXAyNFNrRHktb3FjNkZuNlptOEJ6MTQ5Vmc?oc=5",
       "source": "Google News: R&D Strategy",
       "summary": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" 헬로디디",
       "publishedAt": "2026-04-30T08:10:00.000Z",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "3c0cf7d36551c667",
@@ -119,19 +128,37 @@
       "source": "Google News: R&D Strategy",
       "summary": "정부, R&D 전면 재편…전략기술 집중·재량 15% 구조조정 v.daum.net",
       "publishedAt": "2026-04-30T06:30:16.000Z",
-      "rank": 7
-    },
-    {
-      "id": "6360c1ca151ab2ca",
-      "title": "내년 R&D 예산 재량 15%·의무 10% 구조조정⋯전략기술에 집중 투입 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QlRxLUgzLW54Mkp2bEJERXd1SEJSWE1LM0h2Sjh6QVZzdWFHUFc4OExIWWJxclB4SkhWZEdrTFZOVWpPeWVqRlpycmFkdU0?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "내년 R&D 예산 재량 15%·의무 10% 구조조정⋯전략기술에 집중 투입 v.daum.net",
-      "publishedAt": "2026-04-30T06:30:04.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "6039b66c3975ba65",
+      "title": "Eclipse Ventures Co-Founder Lior Susan's Insights Into a $1.3B Bet on Physical AI | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=vEBINcm_HcI",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/vEBINcm_HcI/hqdefault.jpg",
+      "publishedAt": "2026-05-01T22:51:45.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "1b96ec01409d3b54",
+      "title": "Campbell Brown on Going From Anchor to Facebook to Founding Forum AI | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=Vmb_vocUXLc",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/Vmb_vocUXLc/hqdefault.jpg",
+      "publishedAt": "2026-05-01T21:17:22.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "319d7eb4ae3c6e52",
+      "title": "CEO Amjad Masad on How Replit Is Changing Who Gets to Build Software | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=SwT4eg0nC3k",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/SwT4eg0nC3k/hqdefault.jpg",
+      "publishedAt": "2026-05-01T20:15:00.000Z",
+      "viewCount": 0
+    },
     {
       "id": "ed7a4ac8b0fcab62",
       "title": "Apple Forecasts Sales Growth Amid Memory Shortage | Bloomberg Tech 5/1/2026",
@@ -176,33 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YpHF8ky2p50/hqdefault.jpg",
       "publishedAt": "2026-05-01T18:25:29.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "1cb08af331e0466f",
-      "title": "Unlocking Low-Level Control: Customizing Keras Training Loops with JAX",
-      "url": "https://www.youtube.com/watch?v=1PZKfIyrYOc",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/1PZKfIyrYOc/hqdefault.jpg",
-      "publishedAt": "2026-04-30T23:00:02.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "416b057a7b8e1498",
-      "title": "AI Payoff in Focus During Tech Earnings Bonanza | Bloomberg Tech 4/30/2026",
-      "url": "https://www.youtube.com/watch?v=cPCTgExd-UA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/cPCTgExd-UA/hqdefault.jpg",
-      "publishedAt": "2026-04-30T20:31:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "80118e5f4fb99e62",
-      "title": "Building with Gemini Embedding 2: Our first natively multimodal embedding model",
-      "url": "https://www.youtube.com/watch?v=_en7QoZ_utc",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/_en7QoZ_utc/hqdefault.jpg",
-      "publishedAt": "2026-04-30T19:00:38.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-01T03:30:57.000Z"
+      "updatedAt": "2026-05-02T02:47:33.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
