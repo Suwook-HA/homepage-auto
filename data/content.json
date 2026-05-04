@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-03T02:55:36.088Z",
-  "projectsCheckedAt": "2026-05-03T02:55:36.088Z",
-  "projectsUpdatedAt": "2026-05-03T02:55:36.088Z",
+  "updatedAt": "2026-05-04T02:53:45.614Z",
+  "projectsCheckedAt": "2026-05-04T02:53:45.614Z",
+  "projectsUpdatedAt": "2026-05-04T02:53:45.614Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,93 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-03T02:55:36.088Z",
+    "checkedAt": "2026-05-04T02:53:45.614Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d76dfa1d31f1d189",
-      "title": "인터엑스, 반도체 제조 ‘AI 자율화’ 선언해...해성디에스와 AX 파트너십 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JVW1ELURRYVJNLUlveGdkN2JtVVBLSmxvNl9DYzdieGFldW84SzVfM0JaN0FoZXhNNHVTYXhGaF9uNFBtazNUWG1WQVlhajNuenlKWU5NeTlzTVY0dDNj?oc=5",
+      "id": "9aed5a0c0754661d",
+      "title": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbnUzVEVZMG1aTlJxMHktSjV2MXBjV3N6ZXUxR2U4MEswbnZLdWtYd1BLWHNXWXVHb2xadDlIQTdRbUtsMmhuYjJoMjRVMHVWWUE?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "인터엑스, 반도체 제조 ‘AI 자율화’ 선언해...해성디에스와 AX 파트너십 헬로티",
-      "publishedAt": "2026-05-02T05:09:03.000Z",
+      "summary": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services 뉴스1",
+      "publishedAt": "2026-05-04T02:16:48.000Z",
       "rank": 1
     },
     {
-      "id": "f6b646d1a6a3e8d3",
-      "title": "요즘 아이들의 독서, 고민과 관심사를 데이터로 읽다 - 우리문화신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmbEJVblYxWkszdjJ4N292a24yOXlxUlFSRE9KMEo5M3FOUkY1SzVIVVA5akpoOF9pT1V1aTlYY21BNjhZLUF5eGhoN1ZLYXkyV25NXzdwbl8zNkE5RzlHczRKTUUtZw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "요즘 아이들의 독서, 고민과 관심사를 데이터로 읽다 우리문화신문",
-      "publishedAt": "2026-05-02T03:22:56.000Z",
+      "id": "f12bcd6a04372036",
+      "title": "\"제조 AI 종주국 노린다\"…TTA, 피지컬 AI 국제표준 의장직 확보 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVDhSTWhZM0JLbVJaQ2Zrbkdoai1STVcza0hJWmdOYUtOTmJMdV9nb1JlWkNnbXNqZW5aVnBWakFVQU82RG9VTFo1Y2gwcXFKTzRhYzliWTBBUGVCZnJrcFd0NzBYN0Vlb29XcFcyMmJPcElTdHFxZtIBeEFVX3lxTE0zVDhSTWhZM0JLbVJaQ2Zrbkdoai1STVcza0hJWmdOYUtOTmJMdV9nb1JlWkNnbXNqZW5aVnBWakFVQU82RG9VTFo1Y2gwcXFKTzRhYzliWTBBUGVCZnJrcFd0NzBYN0Vlb29XcFcyMmJPcElTdHFxZg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"제조 AI 종주국 노린다\"…TTA, 피지컬 AI 국제표준 의장직 확보 뉴시스",
+      "publishedAt": "2026-05-03T23:57:48.000Z",
       "rank": 2
     },
     {
-      "id": "861cdc10dbc5d18d",
-      "title": "AI가 굶어 죽기 시작했다 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-05-01T15:32:57.000Z",
+      "id": "88a1a2820b787c4d",
+      "title": "TTA, IEEE '제조 피지컬 AI’국제표준화 작업반 의장직 확보 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVFNZd3ltdzBSTXAzb3ZPdms1ZGtQNl9wOEZTbGhtbUZYSEtYc0FjUGRQdGdqWnpIVkJLVl9HUUN3TUJqaENnRUVqNUxCMXZibHgzVFBB?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "TTA, IEEE '제조 피지컬 AI’국제표준화 작업반 의장직 확보 지디넷코리아",
+      "publishedAt": "2026-05-03T23:53:41.000Z",
       "rank": 3
     },
     {
-      "id": "6fb58573c5c148ab",
-      "title": "상업에서 더 많은 모델 이전에 AI는 인프라 혁명을 필요로 한다 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVjF6U01zVFRCUVpadDRpYzJNeGVMY0ZuLUlBUDFseVdvWmVJaHlRallGbWF6M2Uxbjc1ZUQxUUFMMEVzLUo0S3NaTVJHRjJpcXVqZUVhWWtUZFVkVXFMNndnZ0Q2c0NVZG1hRkhtb2otYkNz?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "상업에서 더 많은 모델 이전에 AI는 인프라 혁명을 필요로 한다 Unite.AI",
-      "publishedAt": "2026-05-01T13:03:13.000Z",
+      "id": "fe0d26fedfc7ddfd",
+      "title": "Why 20 Years of Stem Cell Therapy Research Still Lacks Proven Results - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tR2RJX0VGbWFyZG1saW96RVc4NHFnTW9EMDJCazR3MmdCR1lXSnFYbFlpU0N2YnE3dVlMc2tVT2Qzd2F3Rm1XOHo4QjRtaHMtYzNVQ2pJbDZOUEplRU5Cc0I1YlpjUQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Why 20 Years of Stem Cell Therapy Research Still Lacks Proven Results 뉴스1",
+      "publishedAt": "2026-05-03T23:04:30.000Z",
       "rank": 4
     },
     {
-      "id": "71dbd2231b99f2f4",
-      "title": "[사이언스게시판] 과기정통부-기획처, 2027년도 R&D 투자전략 논의 外 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PVmZRMHpMSkM4SjBQOG1DT2xLdVVvWndaMXRsaG1xZkp6bFljTE9BdDUwNldMNVhiQkFORlItdGR6SW9RMFl1bmRQODZhVWM?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[사이언스게시판] 과기정통부-기획처, 2027년도 R&D 투자전략 논의 外 v.daum.net",
-      "publishedAt": "2026-04-30T09:15:34.000Z",
+      "id": "83eadf46ba6fb816",
+      "title": "[AI and Humanity (7) – Interview] Park Jung-jin, Director of the World Peace Institute: “AI is not something to dominate, but a partner for coexistence… Human ‘dignity’ will shape the future” - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wOVhXYmd5WVJSOTFkZFRvUG1vVXFlT1BzbS1vbEdUZTRjSWNPUGprdkk1WFViSG5RR3RhVEMzVktRUnUtVVZpcTRHWjlkZUFiU1lzNTZnOFRoUEhxSklBbjFwc3Z4ajhKdVE?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[AI and Humanity (7) – Interview] Park Jung-jin, Director of the World Peace Institute: “AI is not something to dominate, but a partner for coexistence… Human ‘dignity’ will sha...",
+      "publishedAt": "2026-05-03T06:52:18.000Z",
       "rank": 5
     },
     {
-      "id": "997057898218455f",
-      "title": "AI That Finds Sea Mines Without Data May Redefine Military Standards - kmjournal.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3SkFUN0tOQ1Q0eGpkVDR0bjVnYmhiV251Qk10TGMxOXIzX2h5MXVoZWlwSWlfZkRwTTF0X0k0MG1iNFRXSHJtajU0NUJjenh4XzFBVFJkZFllcmV6dmFMNkowT0Zyb0hURERB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "AI That Finds Sea Mines Without Data May Redefine Military Standards kmjournal.net",
-      "publishedAt": "2026-04-30T02:34:58.000Z",
+      "id": "92ffbcd238392672",
+      "title": "[AI 리뷰] “두더지 잡기 딜레마 해결”…MIT-구글-우스터공대, 인공지능 편향 줄이는 ‘WRING’ 기술 제시 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tWDAzbHJ5cUVBSFNaNG45SFpmMFRPN19CLTVIdmpyRW9NWDBhR1ZONXFkSk1BdGktQXhVM2djOGEtVFNCQ0hTMElhRG91bDBjTE56VUtzNF81YXNIMENmR1BmemVrRms?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[AI 리뷰] “두더지 잡기 딜레마 해결”…MIT-구글-우스터공대, 인공지능 편향 줄이는 ‘WRING’ 기술 제시 인공지능신문",
+      "publishedAt": "2026-05-03T09:44:03.000Z",
       "rank": 6
     },
     {
-      "id": "b3db7ca6924d8bce",
-      "title": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dVFrdmxvZlhBYjcwT212Ukx4aW1XeTRKMFZrcUtzamp4LXd5OEs0RFRhMGRuRlA4Q2k0enV1c0k3R3BYVktheHRERFJCeXFzRXAyNFNrRHktb3FjNkZuNlptOEJ6MTQ5Vmc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "내년 R&D 예산, 원팀 협업·지출 효율화 강화···과기정통부 \"국가성장 핵심기술 집중 투자\" 헬로디디",
-      "publishedAt": "2026-04-30T08:10:00.000Z",
+      "id": "4d5f8abed727a27b",
+      "title": "Korea’s Robot Industry Gets Squeezed Between Japan’s Quality and China’s Price - kmjournal.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieHdlQ3lTM2V3eGxJeXZHVFhQWU5lY0hfcmEtd2VqMVRHUTRhenRfVlpaN2x3VW9WZlRMdXlTdHQ2SS0xWldiSHZOLXVZYXBDVmtRcUJDMGVXZnJRRG1KMV9TdVhCLVB2NDRB?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Korea’s Robot Industry Gets Squeezed Between Japan’s Quality and China’s Price kmjournal.net",
+      "publishedAt": "2026-05-03T01:30:56.000Z",
       "rank": 7
     },
     {
-      "id": "3c0cf7d36551c667",
-      "title": "정부, R&D 전면 재편…전략기술 집중·재량 15% 구조조정 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WOEdCUkdlMkllalA0Qy1pYy1kTVc4RnVMbTl1MVl0cjloUk5KSm44YnZYZ1dIaHRfSkx5b1p1aTJndE5YTFV6UV9nM2huZ1doQWlrYQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "정부, R&D 전면 재편…전략기술 집중·재량 15% 구조조정 v.daum.net",
-      "publishedAt": "2026-04-30T06:30:16.000Z",
+      "id": "030653979da362ae",
+      "title": "Boomi Builds Analyst Momentum Across Integration, API Management, Data Management, and Agentic AI - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQkJfVGtnazJ2YlUya0pPckstSThPYzREbFVnUm1SbWpJNlYzZFJzREhTVy1BR0lsbThoNGtuLW1RNWpvSllWVmlRVkZ4YmRYZWtQUklXNW8wS3BYdlE?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Boomi Builds Analyst Momentum Across Integration, API Management, Data Management, and Agentic AI 투데이안",
+      "publishedAt": "2026-05-03T07:40:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "e5f5518d3f7ce22a",
+      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
+      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
+      "publishedAt": "2026-05-03T17:02:48.000Z",
+      "viewCount": 0
+    },
     {
       "id": "6039b66c3975ba65",
       "title": "Eclipse Ventures Co-Founder Lior Susan's Insights Into a $1.3B Bet on Physical AI | StrictlyVC",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qc4XxHpruCw/hqdefault.jpg",
       "publishedAt": "2026-05-01T18:32:28.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "3bf6f9751098654c",
-      "title": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products",
-      "url": "https://www.youtube.com/watch?v=YpHF8ky2p50",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/YpHF8ky2p50/hqdefault.jpg",
-      "publishedAt": "2026-05-01T18:25:29.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-02T02:47:33.000Z"
+      "updatedAt": "2026-05-03T02:59:39.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
