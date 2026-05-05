@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-04T02:53:45.614Z",
-  "projectsCheckedAt": "2026-05-04T02:53:45.614Z",
-  "projectsUpdatedAt": "2026-05-04T02:53:45.614Z",
+  "updatedAt": "2026-05-05T02:45:34.964Z",
+  "projectsCheckedAt": "2026-05-05T02:45:34.964Z",
+  "projectsUpdatedAt": "2026-05-05T02:45:34.964Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,129 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-04T02:53:45.614Z",
+    "checkedAt": "2026-05-05T02:45:34.964Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "9aed5a0c0754661d",
-      "title": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbnUzVEVZMG1aTlJxMHktSjV2MXBjV3N6ZXUxR2U4MEswbnZLdWtYd1BLWHNXWXVHb2xadDlIQTdRbUtsMmhuYjJoMjRVMHVWWUE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services 뉴스1",
-      "publishedAt": "2026-05-04T02:16:48.000Z",
+      "id": "99af3a1d92706b7a",
+      "title": "ICT Encompassing Disaster Response… ITS Convergence Strengthens 'Sustainable Management' with Integrated ISO 4-Type Certification - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGMEFVaFo1Zl9ldXliblpaVm55T1U0dS1rdkxVSzZQZ3FvTzU3VlRJLU56STUxeFloWkdCVmphZjZ6NmNycUlhZEd3LWF5ZmtQcXBB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ICT Encompassing Disaster Response… ITS Convergence Strengthens 'Sustainable Management' with Integrated ISO 4-Type Certification 벤처스퀘어",
+      "publishedAt": "2026-05-05T00:00:34.000Z",
       "rank": 1
     },
     {
-      "id": "f12bcd6a04372036",
-      "title": "\"제조 AI 종주국 노린다\"…TTA, 피지컬 AI 국제표준 의장직 확보 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVDhSTWhZM0JLbVJaQ2Zrbkdoai1STVcza0hJWmdOYUtOTmJMdV9nb1JlWkNnbXNqZW5aVnBWakFVQU82RG9VTFo1Y2gwcXFKTzRhYzliWTBBUGVCZnJrcFd0NzBYN0Vlb29XcFcyMmJPcElTdHFxZtIBeEFVX3lxTE0zVDhSTWhZM0JLbVJaQ2Zrbkdoai1STVcza0hJWmdOYUtOTmJMdV9nb1JlWkNnbXNqZW5aVnBWakFVQU82RG9VTFo1Y2gwcXFKTzRhYzliWTBBUGVCZnJrcFd0NzBYN0Vlb29XcFcyMmJPcElTdHFxZg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"제조 AI 종주국 노린다\"…TTA, 피지컬 AI 국제표준 의장직 확보 뉴시스",
-      "publishedAt": "2026-05-03T23:57:48.000Z",
+      "id": "1f5dae0ed5413456",
+      "title": "FortyTwoMaru CEO Kim Dong-hwan Participates in Judicial AI Policy Advisory… Appointed to Supreme Court Artificial Intelligence Committee - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fWmNQWHJBTUE4QzdTSnhnY2lZYjAxbXh0dS1WNEgyTW1BdDlDQ3QyY2VHNW5LV0R2c0k3QWFfWWMtYTZzaVU1S3NSeWtrRHQzWHVF?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "FortyTwoMaru CEO Kim Dong-hwan Participates in Judicial AI Policy Advisory… Appointed to Supreme Court Artificial Intelligence Committee 벤처스퀘어",
+      "publishedAt": "2026-05-04T06:52:41.000Z",
       "rank": 2
     },
     {
-      "id": "88a1a2820b787c4d",
-      "title": "TTA, IEEE '제조 피지컬 AI’국제표준화 작업반 의장직 확보 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVFNZd3ltdzBSTXAzb3ZPdms1ZGtQNl9wOEZTbGhtbUZYSEtYc0FjUGRQdGdqWnpIVkJLVl9HUUN3TUJqaENnRUVqNUxCMXZibHgzVFBB?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "TTA, IEEE '제조 피지컬 AI’국제표준화 작업반 의장직 확보 지디넷코리아",
-      "publishedAt": "2026-05-03T23:53:41.000Z",
+      "id": "309171222c5eb0fe",
+      "title": "\"AI 특허문서 플랫폼 신뢰성 입증\"... 아이팩토리, 업계 최초 ISO/IEC 42001 국제인증 획득 - 특허뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Zd2pFbXFVc0pCYXdMMUdOd3NYUnVmQkRVTUgwa3FFS2ViUS01a2JKNXprOUpJYzRKOUM0SU00Ny1jN296ZWJwOQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "\"AI 특허문서 플랫폼 신뢰성 입증\"... 아이팩토리, 업계 최초 ISO/IEC 42001 국제인증 획득 특허뉴스",
+      "publishedAt": "2026-05-04T02:04:00.000Z",
       "rank": 3
     },
     {
-      "id": "fe0d26fedfc7ddfd",
-      "title": "Why 20 Years of Stem Cell Therapy Research Still Lacks Proven Results - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tR2RJX0VGbWFyZG1saW96RVc4NHFnTW9EMDJCazR3MmdCR1lXSnFYbFlpU0N2YnE3dVlMc2tVT2Qzd2F3Rm1XOHo4QjRtaHMtYzNVQ2pJbDZOUEplRU5Cc0I1YlpjUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Why 20 Years of Stem Cell Therapy Research Still Lacks Proven Results 뉴스1",
-      "publishedAt": "2026-05-03T23:04:30.000Z",
+      "id": "4157e487410a7ada",
+      "title": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MUVlTZVdVcGdjZkIxUllfaXJnNmVEdVlQbGJUZWw5R0w0ZXF3NHpfeDRUWnY0Rzh6S3labEwtbFdGVHFDYnpvZFFUT2xoMzZkc3B3d3ZkMA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "South Korea Initiates Preparations for AI Basic Medical Care to Ensure Universal Access to High-quality Medical Services 뉴스1",
+      "publishedAt": "2026-05-04T02:16:48.000Z",
       "rank": 4
     },
     {
-      "id": "83eadf46ba6fb816",
-      "title": "[AI and Humanity (7) – Interview] Park Jung-jin, Director of the World Peace Institute: “AI is not something to dominate, but a partner for coexistence… Human ‘dignity’ will shape the future” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wOVhXYmd5WVJSOTFkZFRvUG1vVXFlT1BzbS1vbEdUZTRjSWNPUGprdkk1WFViSG5RR3RhVEMzVktRUnUtVVZpcTRHWjlkZUFiU1lzNTZnOFRoUEhxSklBbjFwc3Z4ajhKdVE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[AI and Humanity (7) – Interview] Park Jung-jin, Director of the World Peace Institute: “AI is not something to dominate, but a partner for coexistence… Human ‘dignity’ will sha...",
-      "publishedAt": "2026-05-03T06:52:18.000Z",
+      "id": "ca84953eeb8b09e2",
+      "title": "바이슨, AI 기반 동적 비전 검사 시스템 양산 라인 검수 완료 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xU1RHWkRKbDlxSy1pbHY3V0lrcEVoT09fdnFxQnVhVXB1VUh4MTVPVDQ4dkFRRS13eGxzRkhvRkM2UlJTbGFKSUU1dk15N2puM1p3UFVCMm1PU3BmRml5T0tXc01IZUMxQTZfQlVGVExTZ9IBckFVX3lxTE0xU1RHWkRKbDlxSy1pbHY3V0lrcEVoT09fdnFxQnVhVXB1VUh4MTVPVDQ4dkFRRS13eGxzRkhvRkM2UlJTbGFKSUU1dk15N2puM1p3UFVCMm1PU3BmRml5T0tXc01IZUMxQTZfQlVGVExTZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "바이슨, AI 기반 동적 비전 검사 시스템 양산 라인 검수 완료 - 머니투데이 머니투데이",
+      "publishedAt": "2026-05-04T07:19:36.000Z",
       "rank": 5
     },
     {
-      "id": "92ffbcd238392672",
-      "title": "[AI 리뷰] “두더지 잡기 딜레마 해결”…MIT-구글-우스터공대, 인공지능 편향 줄이는 ‘WRING’ 기술 제시 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tWDAzbHJ5cUVBSFNaNG45SFpmMFRPN19CLTVIdmpyRW9NWDBhR1ZONXFkSk1BdGktQXhVM2djOGEtVFNCQ0hTMElhRG91bDBjTE56VUtzNF81YXNIMENmR1BmemVrRms?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[AI 리뷰] “두더지 잡기 딜레마 해결”…MIT-구글-우스터공대, 인공지능 편향 줄이는 ‘WRING’ 기술 제시 인공지능신문",
-      "publishedAt": "2026-05-03T09:44:03.000Z",
+      "id": "f0355cd5b6b9342c",
+      "title": "HLB그룹, 글로벌 BD 수장에 양은영 사장…'R&D→사업화' 전략 본격화 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vTjR6TzIwUUs2bWU4REtLZGRMdDVCLVBSbU5FLUk4MUR6M2MtcThXVjU0WlFZRkQ0eVN1cmU1bkd0eVdDcjNiU3lPTkpuYzhsT0NudmRvTFVLd3dOSlRRVw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "HLB그룹, 글로벌 BD 수장에 양은영 사장…'R&D→사업화' 전략 본격화 뉴스1",
+      "publishedAt": "2026-05-04T04:37:36.000Z",
       "rank": 6
     },
     {
-      "id": "4d5f8abed727a27b",
-      "title": "Korea’s Robot Industry Gets Squeezed Between Japan’s Quality and China’s Price - kmjournal.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieHdlQ3lTM2V3eGxJeXZHVFhQWU5lY0hfcmEtd2VqMVRHUTRhenRfVlpaN2x3VW9WZlRMdXlTdHQ2SS0xWldiSHZOLXVZYXBDVmtRcUJDMGVXZnJRRG1KMV9TdVhCLVB2NDRB?oc=5",
+      "id": "df3dc3e489a91803",
+      "title": "이빗, AI EXPO KOREA 2026서 AI 데이터 구축 서비스 공개…\"고품질 학습 데이터로 모델 성능 혁신\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43UG9Id1E0aU9SeFZ3a3hPUWJJMThGWEQ3emtPRnotS1ltOVNPdDBESTMzV2JnX1czQlVQdGlnNHhfQzVmc3FqSlBvM01NX0NUV1pr?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "Korea’s Robot Industry Gets Squeezed Between Japan’s Quality and China’s Price kmjournal.net",
-      "publishedAt": "2026-05-03T01:30:56.000Z",
+      "summary": "이빗, AI EXPO KOREA 2026서 AI 데이터 구축 서비스 공개…\"고품질 학습 데이터로 모델 성능 혁신\" 네이트",
+      "publishedAt": "2026-05-04T03:44:00.000Z",
       "rank": 7
     },
     {
-      "id": "030653979da362ae",
-      "title": "Boomi Builds Analyst Momentum Across Integration, API Management, Data Management, and Agentic AI - 투데이안",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQkJfVGtnazJ2YlUya0pPckstSThPYzREbFVnUm1SbWpJNlYzZFJzREhTVy1BR0lsbThoNGtuLW1RNWpvSllWVmlRVkZ4YmRYZWtQUklXNW8wS3BYdlE?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Boomi Builds Analyst Momentum Across Integration, API Management, Data Management, and Agentic AI 투데이안",
-      "publishedAt": "2026-05-03T07:40:00.000Z",
+      "id": "23fc8b2c52a47c6a",
+      "title": "TTA \"제조-피지컬 AI 표준화 작업반 의장직 확보\" - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKVjd0QWpYak45R0dWdzRTUGdnWi1abFQ4ekMzbFQ0dXYyZnh4RURTSjVMR2Y1WmhMU3dQMEhGNU5IaTBFSGIzaHFnVWI?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "TTA \"제조-피지컬 AI 표준화 작업반 의장직 확보\" 아이뉴스24",
+      "publishedAt": "2026-05-04T00:03:37.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "3ea4665ba551a091",
+      "title": "GameStop’s $56 Billion Bid for eBay | Bloomberg Tech 5/4/2026",
+      "url": "https://www.youtube.com/watch?v=xkKLxHwIsDs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/xkKLxHwIsDs/hqdefault.jpg",
+      "publishedAt": "2026-05-04T20:15:37.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "12ec028521ba4ce8",
+      "title": "Trump Will Add ‘Many More’ Affordable Homes Says Housing Sec.",
+      "url": "https://www.youtube.com/watch?v=VopPF_o0l1A",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/VopPF_o0l1A/hqdefault.jpg",
+      "publishedAt": "2026-05-04T18:33:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b4957d286f56a268",
+      "title": "Crypto Investor Haun Raises $1 Billion for New Funds",
+      "url": "https://www.youtube.com/watch?v=B8xr_QYVizk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/B8xr_QYVizk/hqdefault.jpg",
+      "publishedAt": "2026-05-04T18:18:25.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "458287fed42aae5a",
+      "title": "Nvidia Backs DeepInfra in $107 Million Raise",
+      "url": "https://www.youtube.com/watch?v=1GTeCNcJoFU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/1GTeCNcJoFU/hqdefault.jpg",
+      "publishedAt": "2026-05-04T18:08:43.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6363823a67f15297",
+      "title": "Accelerating innovation in the Public Sector with AI",
+      "url": "https://www.youtube.com/watch?v=779gT_9YbNE",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/779gT_9YbNE/hqdefault.jpg",
+      "publishedAt": "2026-05-04T14:56:44.000Z",
+      "viewCount": 0
+    },
     {
       "id": "e5f5518d3f7ce22a",
       "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
@@ -157,51 +202,6 @@
       "channel": "TechCrunch",
       "thumbnail": "https://i.ytimg.com/vi/Vmb_vocUXLc/hqdefault.jpg",
       "publishedAt": "2026-05-01T21:17:22.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "319d7eb4ae3c6e52",
-      "title": "CEO Amjad Masad on How Replit Is Changing Who Gets to Build Software | StrictlyVC",
-      "url": "https://www.youtube.com/watch?v=SwT4eg0nC3k",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/SwT4eg0nC3k/hqdefault.jpg",
-      "publishedAt": "2026-05-01T20:15:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ed7a4ac8b0fcab62",
-      "title": "Apple Forecasts Sales Growth Amid Memory Shortage | Bloomberg Tech 5/1/2026",
-      "url": "https://www.youtube.com/watch?v=CnOeMwRg2i8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/CnOeMwRg2i8/hqdefault.jpg",
-      "publishedAt": "2026-05-01T19:19:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "8f0b24d56cb50f61",
-      "title": "Bring your work into Codex in a few clicks",
-      "url": "https://www.youtube.com/watch?v=flvZ6jEj3VU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/flvZ6jEj3VU/hqdefault.jpg",
-      "publishedAt": "2026-05-01T19:09:30.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "846972e2f5f97552",
-      "title": "Roblox Shares Dive on Slower User Growth",
-      "url": "https://www.youtube.com/watch?v=mFmPB_uJIKs",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/mFmPB_uJIKs/hqdefault.jpg",
-      "publishedAt": "2026-05-01T18:41:18.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0611b2c41eff1977",
-      "title": "Twilio CEO on Its ‘Milestone Quarter’",
-      "url": "https://www.youtube.com/watch?v=qc4XxHpruCw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qc4XxHpruCw/hqdefault.jpg",
-      "publishedAt": "2026-05-01T18:32:28.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-03T02:59:39.000Z"
+      "updatedAt": "2026-05-04T02:57:50.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
