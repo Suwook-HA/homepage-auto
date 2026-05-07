@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-06T02:51:56.794Z",
-  "projectsCheckedAt": "2026-05-06T02:51:56.794Z",
-  "projectsUpdatedAt": "2026-05-06T02:51:56.794Z",
+  "updatedAt": "2026-05-07T02:52:59.504Z",
+  "projectsCheckedAt": "2026-05-07T02:52:59.504Z",
+  "projectsUpdatedAt": "2026-05-07T02:52:59.504Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,36 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-06T02:51:56.794Z",
+    "checkedAt": "2026-05-07T02:52:59.504Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "2171b6d21f5504c2",
+      "id": "0f0c0f6e8c842f8a",
       "title": "ETRI’s Policy Intelligence Standard Wins International Approval, Highlighting Data Governance - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HWGtXd2pfd19qYVNrVnVZbkRIRTNOSFZVY0E5eXFKWjVCeE1zeTRhcENGLUJIbGZCOXlIcHVLb2hxYnR2cW11dm1MWDdfR08zTUZuTEF1TURMOUVfWmpnMUFrZFcxXzMtQ2NsODJKSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKM0c5NkVxUTlsT0FZcHhUNWZ2LWUtLXVpUUV3VjNNVFFDVThLVkJqLUlmZmxpT21oTnljTFplc29hajdLc1VpUDQwX2t4a3BvMUxLamZjWnRnTkY2a2JhREkzZjZQTmEyTS0xYWFhX2w?oc=5",
       "source": "Google News: ITU-T standardization",
       "summary": "ETRI’s Policy Intelligence Standard Wins International Approval, Highlighting Data Governance Korea IT Times",
       "publishedAt": "2026-05-06T02:32:34.000Z",
       "rank": 1
     },
     {
-      "id": "ea3b1ad126030c90",
-      "title": "세라젬, 홈 헬스케어 기기 연동 국제표준 'ISO/IEC TR 30123' 출간 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53UU1xeTl0eVljWU9UZXRiN29EUDlmaERrR28tOUxXbmRzQ21UWWxfTTE3dW1ZU0pMYTJ5WUZOeG5sWHBvRXJZbmFOcHNmVlpHVWdGS0R3?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "세라젬, 홈 헬스케어 기기 연동 국제표준 'ISO/IEC TR 30123' 출간 지디넷코리아",
-      "publishedAt": "2026-05-06T01:30:38.000Z",
+      "id": "d67415009d4f97e7",
+      "title": "SK바이오팜, TPD 중심 차세대 R&D 전략 공개 - 약사공론",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Vl9JdXVsS1J4TXVfSTYyMVY3bmZyVEtPT3BUcWJFeXhIM0V5MkYwV3FIb1V6TXZtdjRDeFZNZGJCa0gyaGVSSnR1OFhqYk9uaGlYTHREaVJjZEh6Q1lDT01hNFFYT3dmOGhseg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "SK바이오팜, TPD 중심 차세대 R&D 전략 공개 약사공론",
+      "publishedAt": "2026-05-07T02:18:00.000Z",
       "rank": 2
     },
     {
-      "id": "97c33d096ccd4973",
+      "id": "e4e7de96879ed3cb",
+      "title": "ETRI, ITU-T 정책지능 국제표준 주도 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzVloxVVNJdEJ4NDdFdjhBVlJvRWdILU5PTTZBa2xnSjFXcVdaZUhVV3NvNEh1eFZXdWpLODgxeldua1Q5c042emFxRkJOQ0k?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, ITU-T 정책지능 국제표준 주도 v.daum.net",
+      "publishedAt": "2026-05-06T06:46:07.000Z",
+      "rank": 3
+    },
+    {
+      "id": "920f33fe46bd8f8d",
+      "title": "KTC, 국제 인공지능 대전 ‘AI EXPO KOREA 2026’ 참가…AI 인증 전주기 평가 서비스·국제표준 기반 신뢰성 확보 지원 - KNS뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNZmY1ODFxeWlWUDgtdl93WHRmWlc0ZHk5OE9HdTJjQ2JCQllIVHFjcDBLMUtiREdnNEt4UWh4RnlaNm1KN0NGNTZYVU5wX3ljNmVqMXNZUkRid2FFLUIta2NWNA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KTC, 국제 인공지능 대전 ‘AI EXPO KOREA 2026’ 참가…AI 인증 전주기 평가 서비스·국제표준 기반 신뢰성 확보 지원 KNS뉴스통신",
+      "publishedAt": "2026-05-06T11:26:12.000Z",
+      "rank": 4
+    },
+    {
+      "id": "23d28310307a3b00",
+      "title": "Luffa, 주요 브랜드 업그레이드 발표: AI×Web3 슈퍼 커넥터로 새롭게 포지셔닝 - odaily.news",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zNkdNU0VJS25KejY5U0tnMHdEQjdoaW9RTDgxNnVpWmt2akE4aEVjVHR4ZGcyWFR5amx0TXNRdG1tNDVEWEg5RzdwaDg5d2c?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Luffa, 주요 브랜드 업그레이드 발표: AI×Web3 슈퍼 커넥터로 새롭게 포지셔닝 odaily.news",
+      "publishedAt": "2026-05-06T10:37:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "36eade2e00c79d6e",
       "title": "금결원, ISO 금융AI 국제회의 개최…“한국이 표준 만든다” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42OV85V2NpeU1OWTNXODcteXFvNnhNbS1IVFNjN210Nlk1cFVid1BnNlN2RlFPOUE2NE9nRjM0ZWtQUWRLMDhSRkZWU0M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5waURhNVlNUFJpRmpNT2w1UmlBdXc5Ylk5ZlRIZlJlUGtLWnV2dVd5ZGpYV2xsb0hHZ0VPMEpXZ2Z5bFZ1NXRacGtMaHV0dw?oc=5",
       "source": "Google News: ISO/IEC AI standard",
       "summary": "금결원, ISO 금융AI 국제회의 개최…“한국이 표준 만든다” 전자신문",
       "publishedAt": "2026-05-06T00:52:26.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "548bc73a3cccb0bf",
@@ -92,116 +119,89 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "금융결제원, ISO 금융 AI 국제회의 개최···글로벌 표준 주도권 확보 뉴스프리존",
       "publishedAt": "2026-05-06T00:28:32.000Z",
-      "rank": 4
-    },
-    {
-      "id": "3d0e5413d9be6452",
-      "title": "[SID 2026] Nano TEM Korea to Set New Global Standard for “Zero-Defect” Manufacturing at Display Week - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORUFWOVhubnhDX2RuLXBZYnVlc0cyRTlGNXRFcjFZbkhiaWhHU2Y1YkpCS2hFY1hKRTE2a25Ka2JsLUdvamRoUkFLelR2cEFMR1NMeDBjang3M1N6cGRZQkFJWnNKXzDSAWtBVV95cUxQV014MmdxOUJoaTYyZnlvRC16X0hLeVlrYVIwWnhOWGRfaE1CUnZYc1h2bUFTUVBaX0hWSVphU3FCdjZmWUNoZWdrVUVUVHBZc0xHa2lLS0VIQnhiLS1laFRrZFpjWTljR1c4RQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[SID 2026] Nano TEM Korea to Set New Global Standard for “Zero-Defect” Manufacturing at Display Week 에이빙",
-      "publishedAt": "2026-05-05T18:08:37.000Z",
-      "rank": 5
-    },
-    {
-      "id": "4160986a4c5f3ca6",
-      "title": "수자원공사, 전 세계 ‘물길’ 뚫는 K-AI… 해외사업 활성화 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eDIyblREMDlBVDVhai1FSzU0b0d0eXlNWW90UkFiaHlaZmdtNUNyektyNWtpR1V3QXZmcUtmczFMTHhSMUhR?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "수자원공사, 전 세계 ‘물길’ 뚫는 K-AI… 해외사업 활성화 브레이크뉴스",
-      "publishedAt": "2026-05-06T01:47:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "484ef29e1635b724",
-      "title": "공공정책도 AI로...ETRI, 정책지능 국제표준 완성 - 디트NEWS24",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BTmVpXzMteXVCYzV0NlZQZHVxVGhxc0hLb3FuY29oYkR1R0JvUklXeUNZN1BlbC04U3UzZ0NFWGR1eTlDRUdwYkhYb243NUdmVG5YaEVuSV9TaFNHWXJGQ3ZyN0RxRXRjeVdj?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "공공정책도 AI로...ETRI, 정책지능 국제표준 완성 디트NEWS24",
-      "publishedAt": "2026-05-06T01:36:56.000Z",
       "rank": 7
     },
     {
-      "id": "7d01b9c91e2eb475",
-      "title": "ETRI, AI로 정책 결정 돕는 국제표준 완성…디지털 정부 기반 마련 - 동아사이언스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15M3ZIMmE1Z2tzMFBYTUJzZVJ3UXktMjJVYWVzSERpR3RKa0YzWFRneGpZdnNUUjdvYTljMXBwMVJpOGVlMnZ2dTJqaVdzM0lIWmZOMg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "ETRI, AI로 정책 결정 돕는 국제표준 완성…디지털 정부 기반 마련 동아사이언스",
-      "publishedAt": "2026-05-06T01:36:00.000Z",
+      "id": "42a6c9706e7d919a",
+      "title": "전재수 “부산, AI 강국 핵심도시로 육성\"...하정우 “대한민국 AI 교육 1번지·부울경 산업 혁신” - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1veVVxYUt2eFJlR1B2Q3Z4R05SRnhRQ2I4dXlnejNCbWNCczU1Ti1tZVh6RXhUX25ibEttSW8wZ2hYUQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "전재수 “부산, AI 강국 핵심도시로 육성\"...하정우 “대한민국 AI 교육 1번지·부울경 산업 혁신” 브레이크뉴스",
+      "publishedAt": "2026-05-06T08:12:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "411fc5ec58cb7333",
-      "title": "Add Databases to Your App with AI Studio | Vibe Coding Guide",
-      "url": "https://www.youtube.com/watch?v=YUmB-BnNs18",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/YUmB-BnNs18/hqdefault.jpg",
-      "publishedAt": "2026-05-05T21:13:27.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "da1e8884ea39667a",
-      "title": "Thoma Bravo Is `Model Agnostic,' Says Boro",
-      "url": "https://www.youtube.com/watch?v=w2dHr3wEsK0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/w2dHr3wEsK0/hqdefault.jpg",
-      "publishedAt": "2026-05-05T19:50:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "af027ba834e7e4b9",
-      "title": "Pinterest Sees Payoff From Custom AI",
-      "url": "https://www.youtube.com/watch?v=ytfZEexkYIE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ytfZEexkYIE/hqdefault.jpg",
-      "publishedAt": "2026-05-05T19:13:03.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6fcea46f844c0778",
-      "title": "New Way Now: Wayfair serves up endless inspiration for all things home with AI-powered discovery",
-      "url": "https://www.youtube.com/watch?v=YAQsPVaP5A8",
+      "id": "bb39e13c2b6fca01",
+      "title": "From Napkin Sketch to Next '26: Bringing Ideas to Life with Google Cloud AI",
+      "url": "https://www.youtube.com/watch?v=iqn_xUpMnX8",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/YAQsPVaP5A8/hqdefault.jpg",
-      "publishedAt": "2026-05-05T18:58:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iqn_xUpMnX8/hqdefault.jpg",
+      "publishedAt": "2026-05-07T00:33:31.000Z",
       "viewCount": 0
     },
     {
-      "id": "c3a99f40f0888df6",
-      "title": "PayPal, Coinbase Announce Layoffs as AI Impact Bites",
-      "url": "https://www.youtube.com/watch?v=ftTJD5w1YFQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ftTJD5w1YFQ/hqdefault.jpg",
-      "publishedAt": "2026-05-05T18:54:23.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "abeb0adcefdda637",
-      "title": "Apple Weighs Using Intel, Samsung to Build Device Processors",
-      "url": "https://www.youtube.com/watch?v=_-T5ws6SA6s",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/_-T5ws6SA6s/hqdefault.jpg",
-      "publishedAt": "2026-05-05T17:39:04.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "cccf3a6c6d570f1a",
-      "title": "Apple Weighs Using Intel, Samsung Processors | Bloomberg Tech 5/5/2026",
-      "url": "https://www.youtube.com/watch?v=hE5MH_RoMLQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/hE5MH_RoMLQ/hqdefault.jpg",
-      "publishedAt": "2026-05-05T17:36:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "82b9b2e7a2101f52",
-      "title": "From Legacy to dbLumina: Deutsche Bank’s Global AI Transformation",
-      "url": "https://www.youtube.com/watch?v=NnsBM0UKBp4",
+      "id": "2ab3ef9f3d05784c",
+      "title": "Lions, Koalas, & GPUs: Optimizing AI Inference",
+      "url": "https://www.youtube.com/watch?v=RXX-LouimPY",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/NnsBM0UKBp4/hqdefault.jpg",
-      "publishedAt": "2026-05-05T15:10:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/RXX-LouimPY/hqdefault.jpg",
+      "publishedAt": "2026-05-06T21:21:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "82e2db81ed20ab21",
+      "title": "AMD Soars on Blockbuster AI-Fueled Forecast | Bloomberg Tech 5/6/2026",
+      "url": "https://www.youtube.com/watch?v=fJx7QYHeLCM",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/fJx7QYHeLCM/hqdefault.jpg",
+      "publishedAt": "2026-05-06T20:30:04.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "8c28fcf42119d379",
+      "title": "Uber Signals Growing US Demand",
+      "url": "https://www.youtube.com/watch?v=bUdOAGaPmUU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/bUdOAGaPmUU/hqdefault.jpg",
+      "publishedAt": "2026-05-06T18:38:18.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "29318cffa357349a",
+      "title": "Apple to Let Users Choose Rival AI Models",
+      "url": "https://www.youtube.com/watch?v=GhrHbVV2wE4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/GhrHbVV2wE4/hqdefault.jpg",
+      "publishedAt": "2026-05-06T18:16:07.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a0892c852ae80545",
+      "title": "Introducing ChatGPT for Excel and Google Sheets",
+      "url": "https://www.youtube.com/watch?v=sfkyiXvlYL0",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/sfkyiXvlYL0/hqdefault.jpg",
+      "publishedAt": "2026-05-06T16:52:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "1f6d2f17d0da7cb5",
+      "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
+      "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/p7K3xfViWCE/hqdefault.jpg",
+      "publishedAt": "2026-05-06T16:07:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "28dd7dd0bbd3be2a",
+      "title": "Samsung Hits $1 Trillion Valuation",
+      "url": "https://www.youtube.com/watch?v=KFXnlNlxU6k",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/KFXnlNlxU6k/hqdefault.jpg",
+      "publishedAt": "2026-05-06T14:09:53.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-05T02:47:08.000Z"
+      "updatedAt": "2026-05-06T02:56:00.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
