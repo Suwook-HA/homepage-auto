@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-08T02:55:14.598Z",
-  "projectsCheckedAt": "2026-05-08T02:55:14.598Z",
-  "projectsUpdatedAt": "2026-05-08T02:55:14.598Z",
+  "updatedAt": "2026-05-09T02:50:37.047Z",
+  "projectsCheckedAt": "2026-05-09T02:50:37.047Z",
+  "projectsUpdatedAt": "2026-05-09T02:50:37.047Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,36 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-08T02:55:14.598Z",
+    "checkedAt": "2026-05-09T02:50:37.047Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "a752c653eacc3b49",
+      "id": "cabf1fff59a13f00",
+      "title": "South Korea pushes for drone autonomy through standardization - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QWmdSd3h5TmlOeWF1SzIyb1JMcWkwekExZlBpRU5ZWHhad1ZqQXBKem1yRlF2REVBYVlzcG0zMWd4WjluWE9kRjBhSTF2Ti1RWTg1S1BQSFdZLUwyYXpxcA?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "South Korea pushes for drone autonomy through standardization 네이트",
+      "publishedAt": "2026-05-08T07:15:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3bdfb051a7aafd7c",
       "title": "AI가 굶어 죽기 시작했다 - 브런치",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
       "source": "Google News: AI Data Quality",
       "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-05-08T01:29:25.000Z",
-      "rank": 1
-    },
-    {
-      "id": "311258adb3287834",
-      "title": "POSCO Future M Added to DJBIC World Index - thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3dW5KQmJTdGQxTUxLM0tYODBkejU0Ql9aTWVUTUFieGNoSlRTSVV1NUN1TGlhdXJrYmFKbUt6WXBxSFlnOHkyUWQ1UHlScGU4YjlUX3lGdktsLXBxTDRvU0JCcXdIY1k?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "POSCO Future M Added to DJBIC World Index thelec.net",
-      "publishedAt": "2026-05-08T00:30:43.000Z",
+      "publishedAt": "2026-05-08T15:43:27.000Z",
       "rank": 2
     },
     {
-      "id": "a44af20c534fe95c",
+      "id": "f8d9e2c7bce51bbd",
+      "title": "The Golden Globes also set AI standards···“Awards possible only if used in a secondary manner” - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wRGt3STBrcUVOc2lYS21GMWFwbTEycm43TXFOT29hSU1FU3ZuSU5HVWhhV21IaXlEekxVMF84NWZORHJvRk1FU3pzWXF2S0Fkbl9KUzN1b20xQTM5a1E?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "The Golden Globes also set AI standards···“Awards possible only if used in a secondary manner” 경향신문",
+      "publishedAt": "2026-05-08T06:29:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "8229cd00ed1e9813",
+      "title": "Naver Cloud Launches ACME Feature for Automated Certificate Management - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WM1FFZFFRbkJUZi00VzBfY1phNjJnYnlaWmFJQ095ODlTd1JoNmpCLWw1b0JsWFRvNE9yNG81SUh0LS1vYmdueUNSdU1Od2pDdHlrY25EcHViSWRvSE1Pa1Z0TE1XZm8?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Naver Cloud Launches ACME Feature for Automated Certificate Management thelec.net",
+      "publishedAt": "2026-05-08T10:13:25.000Z",
+      "rank": 4
+    },
+    {
+      "id": "910a8a89988f00c3",
+      "title": "Tech Week Shanghai positions city as global testbed for AI governance and cross-border data collaboration - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icHZqMENoeVVmeEVLS3FGZ3RwVHNRVmVNNldGaVo3cDM5elhkNzlFamVGVEZERFNRcGpqRzE0c0JUYXF4VElsWWNMRXo2ZHdXWTFFbGVxZzBabjZEekN4VV9lejBnNkhw0gFsQVVfeXFMUGVTNDB0YVRMbUtNSVZkSTFBdF9jQzF0SUFRLXpQVnQ5SUJVa0hXNzhUNXVScVZIZDhjdUNIWm1ocGpQVFRfdmdiSjM1SV9FbUlfQXRMdVpLUFl6aEdZV0lhMW1QWkZ0T2dVc3JB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Tech Week Shanghai positions city as global testbed for AI governance and cross-border data collaboration KIPOST",
+      "publishedAt": "2026-05-08T02:24:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "cab1e4291374a92e",
+      "title": "[불편한 진실] “기관별 따로 노는 인프라 AI…데이터 표준화는 실종” - 국토교통신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QndFcUh4RW9ReHp6dXNqY0ZkeXNWYk5CRTFhZHdCS3NuXzB6Yk1XX3lCNHZuWDRGOTFpRDhGdkVsTFB6Qk5paWhzQXVYY3h5bW14eUZGR2RaenRXUDhoWkFqR2dFcEU?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[불편한 진실] “기관별 따로 노는 인프라 AI…데이터 표준화는 실종” 국토교통신문",
+      "publishedAt": "2026-05-08T02:35:56.000Z",
+      "rank": 6
+    },
+    {
+      "id": "7c23eb0aef694ac2",
       "title": "중앙대 김호기 교수팀, AI 최상위 학회 'ICML 2026' 논문 3편 채택 - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tODY5bmV4WE1rQ290ZE5jdWRZRl9mOFlOYy14Z3BTU0I1ZTB5YlpJQUtVM3U4N0trMzM4dGlub3l2WVZiSnlCd2JxdnpJSnBzbnFwSmZGbVp4emJDbkhIOG9GRS15NkNWMzJXTEctb1Q1cmRRX29jbtIBeEFVX3lxTE9tODY5bmV4WE1rQ290ZE5jdWRZRl9mOFlOYy14Z3BTU0I1ZTB5YlpJQUtVM3U4N0trMzM4dGlub3l2WVZiSnlCd2JxdnpJSnBzbnFwSmZGbVp4emJDbkhIOG9GRS15NkNWMzJXTEctb1Q1cmRRX29jbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oZWt6VEdfZjlMTzJKRVZIRTJvd25LbWxqNXktaVhkRTRJQ2lEOTRnbGtlbGhFUWZsbGVPMm1YOTlmVWtESTVNQUI4UmJIVUtJbVdGZlRkRUpQMzFRd2ZtNdIBeEFVX3lxTE9tODY5bmV4WE1rQ290ZE5jdWRZRl9mOFlOYy14Z3BTU0I1ZTB5YlpJQUtVM3U4N0trMzM4dGlub3l2WVZiSnlCd2JxdnpJSnBzbnFwSmZGbVp4emJDbkhIOG9GRS15NkNWMzJXTEctb1Q1cmRRX29jbg?oc=5",
       "source": "Google News: trustworthy AI governance",
       "summary": "중앙대 김호기 교수팀, AI 최상위 학회 'ICML 2026' 논문 3편 채택 newsis.com",
       "publishedAt": "2026-05-08T00:21:33.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "40a29efe02ee430a",
@@ -92,116 +128,80 @@
       "source": "Google News: Trustworthy AI",
       "summary": "[AI and Humanity (10) – Interview] Li Haonan, Chairman of Ximeng AI: “AI Is Becoming Public Infrastructure… Trust Is a Prerequisite for Real Opportunities” 천지일보",
       "publishedAt": "2026-05-07T22:00:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "869617350b8c3eea",
-      "title": "유한, 바이오텍 파트너십 재정비…R&D 전략 '선택과 집중' - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwcGxMMDRNYzRwdE9EbUN3d1NLbFNUb1VRR1VNVW9oWlF2VlIwSkFreGV2c3IxMldCWUFXQmllRFkwVGw1X2xOWXRaNUNrYjVvWkFjSnNn?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "유한, 바이오텍 파트너십 재정비…R&D 전략 '선택과 집중' 데일리팜",
-      "publishedAt": "2026-05-07T16:55:26.000Z",
-      "rank": 5
-    },
-    {
-      "id": "b6f63bd34fdec6bf",
-      "title": "자율운항선박 AI 데이터플랫폼 출범…운항 데이터 표준화와 보안 체계가 핵심 과제로 - 데일리시큐",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85YzlYbnRQbWsyNnF3MF81bXRwTlJ5QUpqOVBMMXRYa3UwcktfcUZfRmRhdDgxWmhkUk5vUGkwWHpmX3djVTR2MFZRVGRJR2dPdEpCbkxIWmxDd3JGZmNlbHJZSmRTYUZmdndoYQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "자율운항선박 AI 데이터플랫폼 출범…운항 데이터 표준화와 보안 체계가 핵심 과제로 데일리시큐",
-      "publishedAt": "2026-05-07T09:55:43.000Z",
-      "rank": 6
-    },
-    {
-      "id": "7115c8966b040f19",
-      "title": "김호기 중앙대 산업보안학과 교수 연구팀, 세계 최고 AI 학회 ‘ICML’서 논문 채택 - 스마트경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04TktfZmlhZm5HZ0YwMGpYZDVJZlJza0oxTzg4enpPUWVySndkbU9ad0k4ZHhpZExiR2l2SzZhWGJ4eVJRdU5JME9vNndqZlVMWUxIWWotX2huS2k4RXFLVDIwN0hIU3RhY0pfZlV2OXE?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "김호기 중앙대 산업보안학과 교수 연구팀, 세계 최고 AI 학회 ‘ICML’서 논문 채택 스마트경제",
-      "publishedAt": "2026-05-07T08:06:17.000Z",
-      "rank": 7
-    },
-    {
-      "id": "7c5966efcf244c5a",
-      "title": "에이전틱 AI 확산 속 ‘파견형 엔지니어’ 의존 심화…기업 부담 커진다 - cio.com",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRzU1M1p4Q3pQa2c0cEJmd1hySFVQRVd3UUtyb19yemFraXpITjd1R3hyRkV1TmN5NWdyeGEtdllReVMtSUszSTZwdGRJLXkzWGtrMzA2RjNkOXJGRzJwdk5rUXJXUGFFNUR3ZndnSGh1UDBUM0VHbDUxSTB5azNtMzFKRk0yWVFWaE1jMkpYenM3LU0ta0IwYnlVdTF3aUdxcFdxM1QxdDhtZzJxQ2lueFotWUp4VXd0SXVidlFPT3hMNDdnNF9tSWxteWNqTXkyRzVrQnBaVDNCTTJRTTkzSTR5dGN6SmIzT0RHai1LWXNEaW9uUzdGV1lQQ0NUV2J1WGgwR1ZIcnJyWk5JU2tyZmZ1UE51eXNlS0pScE1seVV5a0ktSTRYQVFRZURNN0NybVBNbFFDWQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "에이전틱 AI 확산 속 ‘파견형 엔지니어’ 의존 심화…기업 부담 커진다 cio.com",
-      "publishedAt": "2026-05-07T06:07:22.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "b6dcf16b0e4896c4",
-      "title": "We’re introducing three audio models in the API",
-      "url": "https://www.youtube.com/watch?v=JOu8v6CBjkE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/JOu8v6CBjkE/hqdefault.jpg",
-      "publishedAt": "2026-05-07T17:29:40.000Z",
+      "id": "ca68c6dfe5241d72",
+      "title": "Everyone wants a piece of the enterprise AI pie | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=NFJkcq_sBDo",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/NFJkcq_sBDo/hqdefault.jpg",
+      "publishedAt": "2026-05-08T18:08:18.000Z",
       "viewCount": 0
     },
     {
-      "id": "bbf17853f7caf65d",
-      "title": "Introducing GPT-5.5 with Box",
-      "url": "https://www.youtube.com/watch?v=9cenXVrQZNQ",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/9cenXVrQZNQ/hqdefault.jpg",
-      "publishedAt": "2026-05-07T16:22:09.000Z",
+      "id": "0d6d4cdc5de20623",
+      "title": "Inside YC x Google DeepMind Startups Day",
+      "url": "https://www.youtube.com/watch?v=sK7WSa3s0pQ",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/sK7WSa3s0pQ/hqdefault.jpg",
+      "publishedAt": "2026-05-08T16:00:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "a0892c852ae80545",
-      "title": "Introducing ChatGPT for Excel and Google Sheets",
-      "url": "https://www.youtube.com/watch?v=sfkyiXvlYL0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/sfkyiXvlYL0/hqdefault.jpg",
-      "publishedAt": "2026-05-06T16:52:24.000Z",
+      "id": "b198f2658a6d3c50",
+      "title": "The long road to driverless with Aurora's Chris Urmson (Live at HumanX) | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=R4EkisFUBEU",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/R4EkisFUBEU/hqdefault.jpg",
+      "publishedAt": "2026-05-07T14:48:37.000Z",
       "viewCount": 0
     },
     {
-      "id": "6128c9e2f10b8fd6",
-      "title": "Why AI needs a new kind of supercomputer network — the OpenAI Podcast Ep. 18",
-      "url": "https://www.youtube.com/watch?v=TiW96H5HmAw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/TiW96H5HmAw/hqdefault.jpg",
-      "publishedAt": "2026-05-06T11:30:00.000Z",
+      "id": "411fc5ec58cb7333",
+      "title": "Add Databases to Your App with AI Studio | Vibe Coding Guide",
+      "url": "https://www.youtube.com/watch?v=YUmB-BnNs18",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/YUmB-BnNs18/hqdefault.jpg",
+      "publishedAt": "2026-05-05T21:13:27.000Z",
       "viewCount": 0
     },
     {
-      "id": "0dfd458e9361b15f",
-      "title": "Prep for sales meetings faster with Codex",
-      "url": "https://www.youtube.com/watch?v=y5hogSW2mqU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/y5hogSW2mqU/hqdefault.jpg",
-      "publishedAt": "2026-05-05T15:08:56.000Z",
+      "id": "6039b66c3975ba65",
+      "title": "Eclipse Ventures Co-Founder Lior Susan's Insights Into a $1.3B Bet on Physical AI | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=vEBINcm_HcI",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/vEBINcm_HcI/hqdefault.jpg",
+      "publishedAt": "2026-05-01T22:51:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "8f0b24d56cb50f61",
-      "title": "Bring your work into Codex in a few clicks",
-      "url": "https://www.youtube.com/watch?v=flvZ6jEj3VU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/flvZ6jEj3VU/hqdefault.jpg",
-      "publishedAt": "2026-05-01T19:09:30.000Z",
+      "id": "1b96ec01409d3b54",
+      "title": "Campbell Brown on Going From Anchor to Facebook to Founding Forum AI | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=Vmb_vocUXLc",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/Vmb_vocUXLc/hqdefault.jpg",
+      "publishedAt": "2026-05-01T21:17:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "01c0f692ad5e8918",
-      "title": "What Codex Unlocks for Virgin Atlantic",
-      "url": "https://www.youtube.com/watch?v=eHe2F10TlV4",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/eHe2F10TlV4/hqdefault.jpg",
-      "publishedAt": "2026-04-30T18:24:01.000Z",
+      "id": "319d7eb4ae3c6e52",
+      "title": "CEO Amjad Masad on How Replit Is Changing Who Gets to Build Software | StrictlyVC",
+      "url": "https://www.youtube.com/watch?v=SwT4eg0nC3k",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/SwT4eg0nC3k/hqdefault.jpg",
+      "publishedAt": "2026-05-01T20:15:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "355f43eada211d8d",
-      "title": "Build Hour: Workspace agents in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=kktBVmjA19A",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/kktBVmjA19A/hqdefault.jpg",
-      "publishedAt": "2026-04-29T20:59:11.000Z",
+      "id": "ddd4f78d4da035ae",
+      "title": "Musk v. Altman is just getting started | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=y73cmbHCccs",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/y73cmbHCccs/hqdefault.jpg",
+      "publishedAt": "2026-05-01T16:01:43.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-07T02:57:03.000Z"
+      "updatedAt": "2026-05-08T02:59:18.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
