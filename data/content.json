@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-09T02:50:37.047Z",
-  "projectsCheckedAt": "2026-05-09T02:50:37.047Z",
-  "projectsUpdatedAt": "2026-05-09T02:50:37.047Z",
+  "updatedAt": "2026-05-10T02:57:42.371Z",
+  "projectsCheckedAt": "2026-05-10T02:57:42.371Z",
+  "projectsUpdatedAt": "2026-05-10T02:57:42.371Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-09T02:50:37.047Z",
+    "checkedAt": "2026-05-10T02:57:42.371Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "a89252d08a902758",
+      "title": "AI가 굶어 죽기 시작했다 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 굶어 죽기 시작했다 브런치",
+      "publishedAt": "2026-05-09T20:35:50.000Z",
+      "rank": 1
+    },
+    {
+      "id": "d154feeab390705a",
+      "title": "TelkomGroup Launches Pukpuk Submarine Cable: The First Digital Bridge Connecting Indonesia and Papua New Guinea - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZEVSNWxUYVFyLXpZOGt3WTNnYnFZNXhBMENFMzVHUDZEdkNseUhhb1M3ZVNaSndua0JZTksyNVVETHhELV95RUo1bEk0a1N3RW1ndDBlRE4wYWJBdC13M1NhcXBCeU9j0gFsQVVfeXFMTmhlRXpmWE1DUFhLVy1wRFZkV1Jma25ZQW5OenBvUHZuMklRbHFyaTJoS2hqZWhMZzY4UHBhb2k3STN0V3o5NGZXNGhMOEd3ZzItdENzWGg1SnBCVnpDMTVzQkw2bjduV0lRTDl0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "TelkomGroup Launches Pukpuk Submarine Cable: The First Digital Bridge Connecting Indonesia and Papua New Guinea KIPOST",
+      "publishedAt": "2026-05-09T14:19:00.000Z",
+      "rank": 2
+    },
     {
       "id": "cabf1fff59a13f00",
       "title": "South Korea pushes for drone autonomy through standardization - 네이트",
@@ -65,16 +83,7 @@
       "source": "Google News: IT standardization",
       "summary": "South Korea pushes for drone autonomy through standardization 네이트",
       "publishedAt": "2026-05-08T07:15:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "3bdfb051a7aafd7c",
-      "title": "AI가 굶어 죽기 시작했다 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-05-08T15:43:27.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "f8d9e2c7bce51bbd",
@@ -83,7 +92,7 @@
       "source": "Google News: AI standardization",
       "summary": "The Golden Globes also set AI standards···“Awards possible only if used in a secondary manner” 경향신문",
       "publishedAt": "2026-05-08T06:29:00.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "8229cd00ed1e9813",
@@ -92,16 +101,16 @@
       "source": "Google News: International Standardization",
       "summary": "Naver Cloud Launches ACME Feature for Automated Certificate Management thelec.net",
       "publishedAt": "2026-05-08T10:13:25.000Z",
-      "rank": 4
+      "rank": 5
     },
     {
-      "id": "910a8a89988f00c3",
-      "title": "Tech Week Shanghai positions city as global testbed for AI governance and cross-border data collaboration - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icHZqMENoeVVmeEVLS3FGZ3RwVHNRVmVNNldGaVo3cDM5elhkNzlFamVGVEZERFNRcGpqRzE0c0JUYXF4VElsWWNMRXo2ZHdXWTFFbGVxZzBabjZEekN4VV9lejBnNkhw0gFsQVVfeXFMUGVTNDB0YVRMbUtNSVZkSTFBdF9jQzF0SUFRLXpQVnQ5SUJVa0hXNzhUNXVScVZIZDhjdUNIWm1ocGpQVFRfdmdiSjM1SV9FbUlfQXRMdVpLUFl6aEdZV0lhMW1QWkZ0T2dVc3JB?oc=5",
+      "id": "edd02c9eb6f2b024",
+      "title": "LifeScape, The Innovator Behind ‘itda,’ the AI Solution Bridging Furniture, Spaces, and Sellers - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MVzNqaXVUZGlaTzFMaWp1MGtfRUxTakRnUVNEVGZaZlRxUEVubG5qekNHZjl6QWhhTFlWOFBwUFZfS1p3VW9yUVdUaGEzSWZTWXFYc0p5UFBRelp1cFo0eFJRcEVNWklQRzFV?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "Tech Week Shanghai positions city as global testbed for AI governance and cross-border data collaboration KIPOST",
-      "publishedAt": "2026-05-08T02:24:00.000Z",
-      "rank": 5
+      "summary": "LifeScape, The Innovator Behind ‘itda,’ the AI Solution Bridging Furniture, Spaces, and Sellers 한경매거진&북",
+      "publishedAt": "2026-05-08T02:45:00.000Z",
+      "rank": 6
     },
     {
       "id": "cab1e4291374a92e",
@@ -110,98 +119,89 @@
       "source": "Google News: AI standardization",
       "summary": "[불편한 진실] “기관별 따로 노는 인프라 AI…데이터 표준화는 실종” 국토교통신문",
       "publishedAt": "2026-05-08T02:35:56.000Z",
-      "rank": 6
-    },
-    {
-      "id": "7c23eb0aef694ac2",
-      "title": "중앙대 김호기 교수팀, AI 최상위 학회 'ICML 2026' 논문 3편 채택 - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oZWt6VEdfZjlMTzJKRVZIRTJvd25LbWxqNXktaVhkRTRJQ2lEOTRnbGtlbGhFUWZsbGVPMm1YOTlmVWtESTVNQUI4UmJIVUtJbVdGZlRkRUpQMzFRd2ZtNdIBeEFVX3lxTE9tODY5bmV4WE1rQ290ZE5jdWRZRl9mOFlOYy14Z3BTU0I1ZTB5YlpJQUtVM3U4N0trMzM4dGlub3l2WVZiSnlCd2JxdnpJSnBzbnFwSmZGbVp4emJDbkhIOG9GRS15NkNWMzJXTEctb1Q1cmRRX29jbg?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "중앙대 김호기 교수팀, AI 최상위 학회 'ICML 2026' 논문 3편 채택 newsis.com",
-      "publishedAt": "2026-05-08T00:21:33.000Z",
       "rank": 7
     },
     {
-      "id": "40a29efe02ee430a",
-      "title": "[AI and Humanity (10) – Interview] Li Haonan, Chairman of Ximeng AI: “AI Is Becoming Public Infrastructure… Trust Is a Prerequisite for Real Opportunities” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9feW4yWjJ6LS1FRU1QZy1teWZvZUlUejNtcXhUS2dSUXdGaVh0OHNnQXJYMmFIZl9NY3JTRHp0UnNBQ0hlRXVpMDhCYzB2QXJPVW1mQzhhWU9EY3R2NWlMOERmTkUtVmxXVmc?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[AI and Humanity (10) – Interview] Li Haonan, Chairman of Ximeng AI: “AI Is Becoming Public Infrastructure… Trust Is a Prerequisite for Real Opportunities” 천지일보",
-      "publishedAt": "2026-05-07T22:00:00.000Z",
+      "id": "311258adb3287834",
+      "title": "POSCO Future M Added to DJBIC World Index - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3dW5KQmJTdGQxTUxLM0tYODBkejU0Ql9aTWVUTUFieGNoSlRTSVV1NUN1TGlhdXJrYmFKbUt6WXBxSFlnOHkyUWQ1UHlScGU4YjlUX3lGdktsLXBxTDRvU0JCcXdIY1k?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "POSCO Future M Added to DJBIC World Index thelec.net",
+      "publishedAt": "2026-05-08T00:30:43.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "ca68c6dfe5241d72",
-      "title": "Everyone wants a piece of the enterprise AI pie | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=NFJkcq_sBDo",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/NFJkcq_sBDo/hqdefault.jpg",
-      "publishedAt": "2026-05-08T18:08:18.000Z",
+      "id": "bcbdc905234977d4",
+      "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
+      "url": "https://www.youtube.com/watch?v=4jbqgIyNxOg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/4jbqgIyNxOg/hqdefault.jpg",
+      "publishedAt": "2026-05-09T05:00:06.000Z",
       "viewCount": 0
     },
     {
-      "id": "0d6d4cdc5de20623",
-      "title": "Inside YC x Google DeepMind Startups Day",
-      "url": "https://www.youtube.com/watch?v=sK7WSa3s0pQ",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/sK7WSa3s0pQ/hqdefault.jpg",
-      "publishedAt": "2026-05-08T16:00:01.000Z",
+      "id": "10676da7caaf703d",
+      "title": "New Way Now: Catalyst Brands fast tracks design concepts to the closet with Gemini Enterprise",
+      "url": "https://www.youtube.com/watch?v=7GPKsxS9Q0M",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/7GPKsxS9Q0M/hqdefault.jpg",
+      "publishedAt": "2026-05-08T19:17:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "b198f2658a6d3c50",
-      "title": "The long road to driverless with Aurora's Chris Urmson (Live at HumanX) | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=R4EkisFUBEU",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/R4EkisFUBEU/hqdefault.jpg",
-      "publishedAt": "2026-05-07T14:48:37.000Z",
+      "id": "43ec9d646ac9c321",
+      "title": "CoreWeave Shares Drop After Forecast Sparks Growth Fears | Bloomberg Tech 5/8/2026",
+      "url": "https://www.youtube.com/watch?v=_IQ25TPiqOo",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/_IQ25TPiqOo/hqdefault.jpg",
+      "publishedAt": "2026-05-08T18:52:37.000Z",
       "viewCount": 0
     },
     {
-      "id": "411fc5ec58cb7333",
-      "title": "Add Databases to Your App with AI Studio | Vibe Coding Guide",
-      "url": "https://www.youtube.com/watch?v=YUmB-BnNs18",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/YUmB-BnNs18/hqdefault.jpg",
-      "publishedAt": "2026-05-05T21:13:27.000Z",
+      "id": "4350c5e4725f0ec8",
+      "title": "Why the 'SpaceMob' Is So Bullish on AST",
+      "url": "https://www.youtube.com/watch?v=xrAFn3VjU0E",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/xrAFn3VjU0E/hqdefault.jpg",
+      "publishedAt": "2026-05-08T18:39:40.000Z",
       "viewCount": 0
     },
     {
-      "id": "6039b66c3975ba65",
-      "title": "Eclipse Ventures Co-Founder Lior Susan's Insights Into a $1.3B Bet on Physical AI | StrictlyVC",
-      "url": "https://www.youtube.com/watch?v=vEBINcm_HcI",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/vEBINcm_HcI/hqdefault.jpg",
-      "publishedAt": "2026-05-01T22:51:45.000Z",
+      "id": "30b854183f383035",
+      "title": "Impact of AI on Hiring, Workforce Trends",
+      "url": "https://www.youtube.com/watch?v=QosJzMTFW4c",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/QosJzMTFW4c/hqdefault.jpg",
+      "publishedAt": "2026-05-08T18:18:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "1b96ec01409d3b54",
-      "title": "Campbell Brown on Going From Anchor to Facebook to Founding Forum AI | StrictlyVC",
-      "url": "https://www.youtube.com/watch?v=Vmb_vocUXLc",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/Vmb_vocUXLc/hqdefault.jpg",
-      "publishedAt": "2026-05-01T21:17:22.000Z",
+      "id": "fe0f737f7e99bd5a",
+      "title": "Thiel-Backed Olympics Competitor Goes Public",
+      "url": "https://www.youtube.com/watch?v=8hHFbvZyjik",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/8hHFbvZyjik/hqdefault.jpg",
+      "publishedAt": "2026-05-08T18:10:15.000Z",
       "viewCount": 0
     },
     {
-      "id": "319d7eb4ae3c6e52",
-      "title": "CEO Amjad Masad on How Replit Is Changing Who Gets to Build Software | StrictlyVC",
-      "url": "https://www.youtube.com/watch?v=SwT4eg0nC3k",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/SwT4eg0nC3k/hqdefault.jpg",
-      "publishedAt": "2026-05-01T20:15:00.000Z",
+      "id": "643649420712a3a5",
+      "title": "Three Mile Island Gets an AI Makeover",
+      "url": "https://www.youtube.com/watch?v=EFo4u3NRr48",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/EFo4u3NRr48/hqdefault.jpg",
+      "publishedAt": "2026-05-08T16:50:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "ddd4f78d4da035ae",
-      "title": "Musk v. Altman is just getting started | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=y73cmbHCccs",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/y73cmbHCccs/hqdefault.jpg",
-      "publishedAt": "2026-05-01T16:01:43.000Z",
+      "id": "ff8690383a3d9cbd",
+      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
+      "publishedAt": "2026-05-08T16:46:30.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-08T02:59:18.000Z"
+      "updatedAt": "2026-05-09T02:54:42.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
