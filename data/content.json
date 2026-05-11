@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-10T02:57:42.371Z",
-  "projectsCheckedAt": "2026-05-10T02:57:42.371Z",
-  "projectsUpdatedAt": "2026-05-10T02:57:42.371Z",
+  "updatedAt": "2026-05-11T03:33:31.844Z",
+  "projectsCheckedAt": "2026-05-11T03:33:31.844Z",
+  "projectsUpdatedAt": "2026-05-11T03:33:31.844Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,27 +54,45 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-10T02:57:42.371Z",
+    "checkedAt": "2026-05-11T03:33:31.844Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "a89252d08a902758",
+      "id": "2ef16a3554d10abe",
+      "title": "TTA, 日·英·EU 'AI, 양자 기술' 국제표준 공조 확대 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5bFJRWXlVRDE1RHpCRk5JREJNTmlacU1VTVU5Rl8wVE40X042WWNsc3RaTFBCWUpxNTllb3ozQ0Q0T29KT0JOWEFFVFlKZmV4bE03cG1nYXhMdjVKNjVnbFc0NzFQb0dGamQteFYtVEVUNjl1S3YwbtIBeEFVX3lxTFA5bFJRWXlVRDE1RHpCRk5JREJNTmlacU1VTVU5Rl8wVE40X042WWNsc3RaTFBCWUpxNTllb3ozQ0Q0T29KT0JOWEFFVFlKZmV4bE03cG1nYXhMdjVKNjVnbFc0NzFQb0dGamQteFYtVEVUNjl1S3Ywbg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "TTA, 日·英·EU 'AI, 양자 기술' 국제표준 공조 확대 newsis.com",
+      "publishedAt": "2026-05-11T00:41:30.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3fc19510be83b9db",
+      "title": "[로펌 스케일업] 김앤장 출신들이 만든 LX “중견기업에 힘 되고 싶다” - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDJTMmZhNGV0UEVKakdCbndBVHo4UjZGZ0d6R2JJeVp6ODF2TVRLaENtTzVJcDNCb2R5U1JfVlRjOEhMdFUyNGtDNlV3ZDQtUmJSRk9xQzBZUl9SZVQ3UkxlLWF3bWdJMHNENFg2RnEtOVVFcVhIODVrWXN2MnJKSndla9IBlwFBVV95cUxQZlVNOWRVanIzakcyYkE4TTRGTjdVd2JyNzgzYjhwNmhYWEdaUnZ4NnZIcVhkcHBpRnF3ZU1YYWUtQzNvSGp1V1dPYUozU0hybXBlMTB3bGVsV1E3cE5fbG5pU0tNbkwtNkdyb29wMFhVYmFiWFFJNjltOFlBYUpoODhxZnZod2FfbzJDcFlVdGVtOE9kcnFZ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[로펌 스케일업] 김앤장 출신들이 만든 LX “중견기업에 힘 되고 싶다” - 조선비즈 Chosunbiz",
+      "publishedAt": "2026-05-10T21:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "0950910f90a5064e",
       "title": "AI가 굶어 죽기 시작했다 - 브런치",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
       "source": "Google News: AI Data Quality",
       "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-05-09T20:35:50.000Z",
-      "rank": 1
+      "publishedAt": "2026-05-10T14:59:44.000Z",
+      "rank": 3
     },
     {
-      "id": "d154feeab390705a",
-      "title": "TelkomGroup Launches Pukpuk Submarine Cable: The First Digital Bridge Connecting Indonesia and Papua New Guinea - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZEVSNWxUYVFyLXpZOGt3WTNnYnFZNXhBMENFMzVHUDZEdkNseUhhb1M3ZVNaSndua0JZTksyNVVETHhELV95RUo1bEk0a1N3RW1ndDBlRE4wYWJBdC13M1NhcXBCeU9j0gFsQVVfeXFMTmhlRXpmWE1DUFhLVy1wRFZkV1Jma25ZQW5OenBvUHZuMklRbHFyaTJoS2hqZWhMZzY4UHBhb2k3STN0V3o5NGZXNGhMOEd3ZzItdENzWGg1SnBCVnpDMTVzQkw2bjduV0lRTDl0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "TelkomGroup Launches Pukpuk Submarine Cable: The First Digital Bridge Connecting Indonesia and Papua New Guinea KIPOST",
-      "publishedAt": "2026-05-09T14:19:00.000Z",
-      "rank": 2
+      "id": "d9dffe8d5d77a454",
+      "title": "마사회, AI 마필 개체식별 표준특허 개발 박차...국제표준화 정조준 - 뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RdjVGLVkwWVZLQWM1LUJWSVUyamthVzQ2U09jM0pfMFBrMDh1QnpWaEdJUHYta3JWOFJIUGJtZTMtdFl6SnN5emNSRnU2N01KelRrWmhnZlFNQ3kxZVhjMU9wQnlvSGRFUlpfbtIBb0FVX3lxTE1uZmFUTjRleVlOZklTVE9BOWdHQ09CQVpoWTJyVlNnS2FYeWxCdllTWXNZcHhPZUlWUUNBVnd6MGhsSDF0WkJHNlpCNzJXVVZtYlJtekZzZ19yT19VUlktS1dnTXRFMktjOTRyaUtfNA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "마사회, AI 마필 개체식별 표준특허 개발 박차...국제표준화 정조준 뉴스로드",
+      "publishedAt": "2026-05-09T23:44:37.000Z",
+      "rank": 4
     },
     {
       "id": "cabf1fff59a13f00",
@@ -83,7 +101,7 @@
       "source": "Google News: IT standardization",
       "summary": "South Korea pushes for drone autonomy through standardization 네이트",
       "publishedAt": "2026-05-08T07:15:00.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "f8d9e2c7bce51bbd",
@@ -92,7 +110,7 @@
       "source": "Google News: AI standardization",
       "summary": "The Golden Globes also set AI standards···“Awards possible only if used in a secondary manner” 경향신문",
       "publishedAt": "2026-05-08T06:29:00.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "8229cd00ed1e9813",
@@ -101,7 +119,7 @@
       "source": "Google News: International Standardization",
       "summary": "Naver Cloud Launches ACME Feature for Automated Certificate Management thelec.net",
       "publishedAt": "2026-05-08T10:13:25.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "edd02c9eb6f2b024",
@@ -110,28 +128,37 @@
       "source": "Google News: Digital Transformation",
       "summary": "LifeScape, The Innovator Behind ‘itda,’ the AI Solution Bridging Furniture, Spaces, and Sellers 한경매거진&북",
       "publishedAt": "2026-05-08T02:45:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "cab1e4291374a92e",
-      "title": "[불편한 진실] “기관별 따로 노는 인프라 AI…데이터 표준화는 실종” - 국토교통신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QndFcUh4RW9ReHp6dXNqY0ZkeXNWYk5CRTFhZHdCS3NuXzB6Yk1XX3lCNHZuWDRGOTFpRDhGdkVsTFB6Qk5paWhzQXVYY3h5bW14eUZGR2RaenRXUDhoWkFqR2dFcEU?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[불편한 진실] “기관별 따로 노는 인프라 AI…데이터 표준화는 실종” 국토교통신문",
-      "publishedAt": "2026-05-08T02:35:56.000Z",
-      "rank": 7
-    },
-    {
-      "id": "311258adb3287834",
-      "title": "POSCO Future M Added to DJBIC World Index - thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3dW5KQmJTdGQxTUxLM0tYODBkejU0Ql9aTWVUTUFieGNoSlRTSVV1NUN1TGlhdXJrYmFKbUt6WXBxSFlnOHkyUWQ1UHlScGU4YjlUX3lGdktsLXBxTDRvU0JCcXdIY1k?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "POSCO Future M Added to DJBIC World Index thelec.net",
-      "publishedAt": "2026-05-08T00:30:43.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "55be175f2a3c88bc",
+      "title": "How Waymo's Driverless Strategy Compares to Tesla's",
+      "url": "https://www.youtube.com/watch?v=lZRzz1fW4GA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/lZRzz1fW4GA/hqdefault.jpg",
+      "publishedAt": "2026-05-10T05:00:43.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "69fccfbe12308bf2",
+      "title": "Freight's Future Is Electric and Autonomous, Einride CEO Says",
+      "url": "https://www.youtube.com/watch?v=PVh9klSuz6M",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/PVh9klSuz6M/hqdefault.jpg",
+      "publishedAt": "2026-05-10T05:00:19.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "079da06ebef0f239",
+      "title": "IBM Sales Accelerator Program",
+      "url": "https://www.youtube.com/watch?v=g_XUUAGTkGw",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/g_XUUAGTkGw/hqdefault.jpg",
+      "publishedAt": "2026-05-09T11:00:34.000Z",
+      "viewCount": 0
+    },
     {
       "id": "bcbdc905234977d4",
       "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
@@ -176,33 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QosJzMTFW4c/hqdefault.jpg",
       "publishedAt": "2026-05-08T18:18:22.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "fe0f737f7e99bd5a",
-      "title": "Thiel-Backed Olympics Competitor Goes Public",
-      "url": "https://www.youtube.com/watch?v=8hHFbvZyjik",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8hHFbvZyjik/hqdefault.jpg",
-      "publishedAt": "2026-05-08T18:10:15.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "643649420712a3a5",
-      "title": "Three Mile Island Gets an AI Makeover",
-      "url": "https://www.youtube.com/watch?v=EFo4u3NRr48",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EFo4u3NRr48/hqdefault.jpg",
-      "publishedAt": "2026-05-08T16:50:45.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "ff8690383a3d9cbd",
-      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
-      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
-      "publishedAt": "2026-05-08T16:46:30.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-09T02:54:42.000Z"
+      "updatedAt": "2026-05-10T03:01:46.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
