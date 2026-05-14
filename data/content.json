@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-13T03:28:24.726Z",
-  "projectsCheckedAt": "2026-05-13T03:28:24.726Z",
-  "projectsUpdatedAt": "2026-05-13T03:28:24.726Z",
+  "updatedAt": "2026-05-14T03:28:29.541Z",
+  "projectsCheckedAt": "2026-05-14T03:28:29.541Z",
+  "projectsUpdatedAt": "2026-05-14T03:28:29.541Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-13T03:28:24.726Z",
+    "checkedAt": "2026-05-14T03:28:29.541Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "2fa34a5905c2ffba",
-      "title": "간호 분야 인공지능과 인간지능의 융합 방향 탐색 - 메드월드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTnRBakFvY1NJOG1nWTRzTHBxM1ItV2ZwbUwzaFMyQkJsXzRoMTdobFJXNjRRcmtmT3Z0LUppd01OTi1iT2ZCTE1IRjA1bnFBTU9wZkdQUEVad3hoYmJ5cXI5ajlMSUtkZnNMcw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "간호 분야 인공지능과 인간지능의 융합 방향 탐색 메드월드뉴스",
-      "publishedAt": "2026-05-13T00:41:43.000Z",
+      "id": "9afe907ee338226b",
+      "title": "하나은행, 에너지경영 국제표준 ‘ISO 50001’ 인증 획득…친환경 경영 강화 - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Mb2xESmstYkQ0dk80UFFoSE5oeFFfN1RVdGNSZE5LRkdCTlM0bEI2X1lrOGpmUVMwM2RTZ2U3SkdtbFllaFFubXhQck1kbzV1VUMtRHNMeTlMc29RX2VKb2hHRi15RGVa?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "하나은행, 에너지경영 국제표준 ‘ISO 50001’ 인증 획득…친환경 경영 강화 공감신문",
+      "publishedAt": "2026-05-14T02:54:17.000Z",
       "rank": 1
+    },
+    {
+      "id": "1046394994fa857a",
+      "title": "현장 숙련공과 AI의 유기적 협업… 기계연이 주목한 일본식 '인간 중심 제조 AX' - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3czJDLTZoWVVKYjJoWlVuMFg4THlEUFVyNHp1VUVCMkU1SEZVYVNkdVcyQlBWS2FhbExXZ3h2WF9SUXN5cHR3UzdJY0dFaFBQZ1pTQS1CamZSVHBDV2F5Rk8zU19Ddw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "현장 숙련공과 AI의 유기적 협업… 기계연이 주목한 일본식 '인간 중심 제조 AX' 기계신문",
+      "publishedAt": "2026-05-14T00:57:08.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d04f9e19d2dbf4a6",
+      "title": "“AI가 소리로 불량 잡는다”… 디플리, 글로벌 음향 AI 무대서 존재감 확대 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bVpld0FROWVDSmxvZGpua0ZscDdXMmFVVHQwZTRlRWdzN0czeTA3Z3JnZ1paQU5INkxueTZmTkRnWXpsWldCNUdsNXAzNHc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“AI가 소리로 불량 잡는다”… 디플리, 글로벌 음향 AI 무대서 존재감 확대 벤처스퀘어",
+      "publishedAt": "2026-05-14T00:30:44.000Z",
+      "rank": 3
+    },
+    {
+      "id": "ee1976987e43678c",
+      "title": "Lamborghini receives the ESG Recognition from DNV - Lamborghini.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVpBc2wwb09raVVGX2tfeEZELVU4UV9KbDhvdEIxUkZ3YWRLNkJFTWs0bkdBT2dHOU9GZnhwcF9vZ0Z2R2NBWEZBRjdJVE5SVHB6MXNhZHU5ZERHdzZTYWVqcHFxajFPNUFvcHpYbGg4ZWY5NU9NQllReGIyVW92OXUtMlpKSkQwcUZBd2FtTWd5a3ZudEF3cA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Lamborghini receives the ESG Recognition from DNV Lamborghini.com",
+      "publishedAt": "2026-05-13T08:16:25.000Z",
+      "rank": 4
+    },
+    {
+      "id": "adcca8904910979f",
+      "title": "AI가 바꿀 미래 간호 혁신 방향…국내외 전문가 한자리에 - 청년의사",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6TnEyUjRuZXFZXy1CZFhWNWVaUFo1ZDk0S1FtVk9JVDUxQVc2Z2xCamt1MjE3WUtId19pUXRMMzJTRHhFY190elpXZklRQ1YwWGU5YldpY1lkbHRCT1dJWTQzMFA0QTYxUVJDS1VhbWtTMmfSAXNBVV95cUxQek5xMlI0bmVxWV8tQmRYVjVlWlBaNWQ5NEtRbVZPSVQ1MUFXNmdsQmprdTIxN1lLSHdfaVF0TDMyU0R4RWNfdHpaV2ZJUUNWMFhlOWJXaWNZZGx0Qk9XSVk0MzBQNEE2MVFSQ0tVYW1rUzJn?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "AI가 바꿀 미래 간호 혁신 방향…국내외 전문가 한자리에 청년의사",
+      "publishedAt": "2026-05-13T03:33:17.000Z",
+      "rank": 5
+    },
+    {
+      "id": "f8b4c6ca3063dd80",
+      "title": "\"AI 기술, 어떻게 활용하나\"…머리 맞댄 간호사들 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xODY2czJoOWtCV0JLS2Y3RjJBUFBkV3FmYVpvbXJULTdoRnd3eGJvSjN6NEVsVzZoWHJ5aGd4aEkxajNNblUzNHY2WWFlV21kb2ZJWTdDM3hBZWprRVFmRUFNeFIzNEc2OG1ybWVDWE96V0V0RHkyb9IBeEFVX3lxTE1xODY2czJoOWtCV0JLS2Y3RjJBUFBkV3FmYVpvbXJULTdoRnd3eGJvSjN6NEVsVzZoWHJ5aGd4aEkxajNNblUzNHY2WWFlV21kb2ZJWTdDM3hBZWprRVFmRUFNeFIzNEc2OG1ybWVDWE96V0V0RHkybw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "\"AI 기술, 어떻게 활용하나\"…머리 맞댄 간호사들 newsis.com",
+      "publishedAt": "2026-05-13T02:08:44.000Z",
+      "rank": 6
+    },
+    {
+      "id": "c7ff5b823940c7ab",
+      "title": "AI가 바꾸는 간호 현장… SMC, 스마트 간호 공유 - 간호사신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xWmJKaWhFVXBkQTYxQjlzNW8wRklLNW83MUs1OWNoUWhRbWhwdWRDY3lZODdhd0JzaUVOS291dDlUcjRxcm02dTA2ck9YQ1JOaWhkc2FEV2tfc3JzMU5KN1FtOWQ0RklPVEVpMkZB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "AI가 바꾸는 간호 현장… SMC, 스마트 간호 공유 간호사신문",
+      "publishedAt": "2026-05-13T01:08:12.000Z",
+      "rank": 7
     },
     {
       "id": "fb70c8472d8a4f32",
@@ -74,134 +128,53 @@
       "source": "Google News: IT standardization",
       "summary": "Livelively, Building Safe and Standardized Operating Systems for Integrated Care 한경매거진&북",
       "publishedAt": "2026-05-12T07:56:06.000Z",
-      "rank": 2
-    },
-    {
-      "id": "44b565fe31cef063",
-      "title": "“부산 전략산업 R&D 추진, 동남권 협력·비스텝 시너지 기대” - 국제신문",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFNiODdoTDh2Rk5SRnRlMHY1VVFabW1UbDBkSWpEeUpIWXBHaXpVMXFSX2c1el9NeFppd3J2ZWpXQVBJSVpiY3pORjhGdWRfa1M2QUtJWUZBT2s2OU9ud2JOXzlpaUE4TVBrODJKdHhPNDJScTFFWDdTMUFwT0QwNmFLa25YcEw4alRpMHF3?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“부산 전략산업 R&D 추진, 동남권 협력·비스텝 시너지 기대” 국제신문",
-      "publishedAt": "2026-05-12T10:55:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "6e074eab536cc81f",
-      "title": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시리즈-신뢰할 수 있는 인공지능 만들기(5/26(화)) - 서울대학교",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NaC1VNE1DaEM4Ry1fekRYN1NiTHN0cG12YjJheHRldEJZNGF6Q0ZpbzFiaDU2R193aFIxdjc5OTBqaVhxeW96NDkzcWRDRVR6eExCVFNjMElFT2Z1Z0ZUS2ExbzQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시리즈-신뢰할 수 있는 인공지능 만들기(5/26(화)) 서울대학교",
-      "publishedAt": "2026-05-12T10:10:36.000Z",
-      "rank": 4
-    },
-    {
-      "id": "5071dc3f10baeb6c",
-      "title": "\"Trusted klydexglobal exchange operates with strong governance.gkn\" - Results on X | Live Posts & Updates - x.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbS1pczhJQ01iV08zbnNxenZVN1VIQ0hmU3JPQmljNmFZRTJLeHlOY1JJS242SDB3Wm42TU9KTTlqYnA4VzhOUHdySk1aOWVyVGxCMG9PcWlUOFppaDFYcnVSVkw5blhXT2xzTkh2R1dFTDNzR2p1NEh2X09FLTQwcnhoTkZyVVdnSWpTYVIyUHJTSkxRSERZNC02U2FMM3laRzVtWFE5U0dDQQ?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "\"Trusted klydexglobal exchange operates with strong governance.gkn\" - Results on X | Live Posts & Updates x.com",
-      "publishedAt": "2026-05-12T00:52:04.000Z",
-      "rank": 5
-    },
-    {
-      "id": "ffd9619a72f14224",
-      "title": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화 - 디일렉",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTldtTGpVUWg0QmpsNVN2WEpKYVVFd1duWGJpdkdnWXJ3UWpRaUY4VzExLVFPdW9Lb3YtZktuRVI1YTJKV1owWENnNUplb096MGREV2twbjdtSmExQ3RDcVJERnpPdw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "삼성전자, 오라클 자바 SE로 앱 개발 플랫폼 표준화 디일렉",
-      "publishedAt": "2026-05-12T07:11:59.000Z",
-      "rank": 6
-    },
-    {
-      "id": "eeb83dcaeb8a2517",
-      "title": "바이트사이즈, AI EXPO KOREA 2026 연사 무대에서 신발 제조 AX 전략 발표 - 매일타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FV1dLRTE0Um45SmstekMta2ZxNFFMOHdvREhQU09xYS04MDR0cWhPR3RjZzF1dDdNM2dubmdEMk50UktvWXhCZzhWLTI5QXh0aGc1ZkxHMW5RZ2tZT2c?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "바이트사이즈, AI EXPO KOREA 2026 연사 무대에서 신발 제조 AX 전략 발표 매일타임즈",
-      "publishedAt": "2026-05-12T07:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "bd4e40254ef819e4",
-      "title": "헛도는 AI 에이전트… 세일즈포스 처방은 ‘데이터’ - 더에이아이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QbDV0eHpyZmJjY2lvLW1VVmlBTGdQaDVNRlhSNEtkS2dOZFZ3WlhqeV8zU2pyTzVKTFhwOEJGak1WZTgzSWkzRFFZZUFEVmdrRG9yRGFUTWVwWlQxZ0dUNGcyeHRWNi05N1p3?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "헛도는 AI 에이전트… 세일즈포스 처방은 ‘데이터’ 더에이아이",
-      "publishedAt": "2026-05-12T06:49:34.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "55be175f2a3c88bc",
-      "title": "How Waymo's Driverless Strategy Compares to Tesla's",
-      "url": "https://www.youtube.com/watch?v=lZRzz1fW4GA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/lZRzz1fW4GA/hqdefault.jpg",
-      "publishedAt": "2026-05-10T05:00:43.000Z",
+      "id": "13d2abc686cf8ffa",
+      "title": "Inside AI Dev 26 × San Francisco",
+      "url": "https://www.youtube.com/watch?v=20qpc5m5Pko",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/20qpc5m5Pko/hqdefault.jpg",
+      "publishedAt": "2026-05-12T19:45:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "69fccfbe12308bf2",
-      "title": "Freight's Future Is Electric and Autonomous, Einride CEO Says",
-      "url": "https://www.youtube.com/watch?v=PVh9klSuz6M",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/PVh9klSuz6M/hqdefault.jpg",
-      "publishedAt": "2026-05-10T05:00:19.000Z",
+      "id": "c682cd07e46f44c0",
+      "title": "📉 Turn your multimodal data into something you can actually query",
+      "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg",
+      "publishedAt": "2026-04-22T14:33:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "079da06ebef0f239",
-      "title": "IBM Sales Accelerator Program",
-      "url": "https://www.youtube.com/watch?v=g_XUUAGTkGw",
-      "channel": "IBM Technology",
-      "thumbnail": "https://i.ytimg.com/vi/g_XUUAGTkGw/hqdefault.jpg",
-      "publishedAt": "2026-05-09T11:00:34.000Z",
+      "id": "207ef350d950e4a1",
+      "title": "TensorFlow Developer Professional Certificate",
+      "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg",
+      "publishedAt": "2026-03-23T22:01:50.000Z",
       "viewCount": 0
     },
     {
-      "id": "bcbdc905234977d4",
-      "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
-      "url": "https://www.youtube.com/watch?v=4jbqgIyNxOg",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/4jbqgIyNxOg/hqdefault.jpg",
-      "publishedAt": "2026-05-09T05:00:06.000Z",
+      "id": "100afbc0e1c796d9",
+      "title": "Natural Language Processing Specialization by DeepLearning.AI",
+      "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg",
+      "publishedAt": "2026-03-23T21:59:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "10676da7caaf703d",
-      "title": "New Way Now: Catalyst Brands fast tracks design concepts to the closet with Gemini Enterprise",
-      "url": "https://www.youtube.com/watch?v=7GPKsxS9Q0M",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/7GPKsxS9Q0M/hqdefault.jpg",
-      "publishedAt": "2026-05-08T19:17:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "43ec9d646ac9c321",
-      "title": "CoreWeave Shares Drop After Forecast Sparks Growth Fears | Bloomberg Tech 5/8/2026",
-      "url": "https://www.youtube.com/watch?v=_IQ25TPiqOo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/_IQ25TPiqOo/hqdefault.jpg",
-      "publishedAt": "2026-05-08T18:52:37.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4350c5e4725f0ec8",
-      "title": "Why the 'SpaceMob' Is So Bullish on AST",
-      "url": "https://www.youtube.com/watch?v=xrAFn3VjU0E",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/xrAFn3VjU0E/hqdefault.jpg",
-      "publishedAt": "2026-05-08T18:39:40.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "30b854183f383035",
-      "title": "Impact of AI on Hiring, Workforce Trends",
-      "url": "https://www.youtube.com/watch?v=QosJzMTFW4c",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/QosJzMTFW4c/hqdefault.jpg",
-      "publishedAt": "2026-05-08T18:18:22.000Z",
+      "id": "7e502e31ec9e5a29",
+      "title": "AI for Everyone by Andrew Ng",
+      "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg",
+      "publishedAt": "2026-03-23T21:55:47.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +207,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-12T03:01:58.000Z"
+      "updatedAt": "2026-05-13T03:32:29.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
