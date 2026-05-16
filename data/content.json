@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-15T03:32:09.159Z",
-  "projectsCheckedAt": "2026-05-15T03:32:09.159Z",
-  "projectsUpdatedAt": "2026-05-15T03:32:09.159Z",
+  "updatedAt": "2026-05-16T02:55:00.904Z",
+  "projectsCheckedAt": "2026-05-16T02:55:00.904Z",
+  "projectsUpdatedAt": "2026-05-16T02:55:00.904Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,64 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-15T03:32:09.159Z",
+    "checkedAt": "2026-05-16T02:55:00.904Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "ef0b70f8acea0738",
+      "title": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCVXNraGNnTVY0b3ZzVGdFTlQxV0lWZTM5V0dkLWZKcE94WHE3SzI1bnhqNDRQZzlNSExrRDRpSzhMdlIwRmFvYUloTXNLQnpSZzZDQXNhQ0ZNU000VUUtOFVHWWZCT1ZO0gFsQVVfeXFMT2VUZ09tMm5RdmppSVRjdFZ0dGtfRF9acWRTU2dfR2E1bmFueFlQdUREZVRSVDcydUE5VnA1NktUWm05Zm03RzB4VWZLLTh6ZG5hMkxSVlZlTWs2YTRFVUxCMlJnVThGaFRKR0ls?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises KIPOST",
+      "publishedAt": "2026-05-15T15:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "0e4a550ddda40d75",
+      "title": "Boomi and Couchbase Partner to Power Enterprise AI Agents with Trusted Recollection, Connectivity, and Governance - 매일타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTVpIdnBWT0ZVLTctVjV1QWtJZEkwRDQzb1RYc0VKdWszZlZ6emZqMHpLNVlfQmdHeWF2YjVNYUpBb2lxckI0Y1FsbWFvLVUxS1kyaGhvOUh0ZUZmS0E?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Boomi and Couchbase Partner to Power Enterprise AI Agents with Trusted Recollection, Connectivity, and Governance 매일타임즈",
+      "publishedAt": "2026-05-15T04:40:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "2924172928d74739",
+      "title": "한수원, 중소기업 AI 실무인재 247명 배출…디지털 전환 지원 본격화 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSl81MjJYUFZPM2N1N2VrNlBSQWVkMGpHbmxBS1hKTVlaaWk1c3NjZF8xMnpRUFBPeV9DM1B2X3Radw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한수원, 중소기업 AI 실무인재 247명 배출…디지털 전환 지원 본격화 브레이크뉴스",
+      "publishedAt": "2026-05-15T08:26:02.000Z",
+      "rank": 3
+    },
+    {
+      "id": "aa5021f7ba9f0be0",
+      "title": "스타트업 - 스타트업데일리",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZRWpBWDh5dDMya21yRzVlTlJwZG41dFRxN0Q2STFEMExKUXgzaEtMZ0QxYW1RUl9kNDZxaWlkN0pFTlJpMF9NTF94bmR4c2tuOGVucmFiWjdWSGxTLXdN?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "스타트업 스타트업데일리",
+      "publishedAt": "2026-05-15T07:30:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "d2a329742c2539ec",
+      "title": "“AI로 반복 심사 줄인다”… 식약처 화장품 안전성·표준화 체계 전환 본격화 - 약업신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84MW5ZSC00ZmhzNWlkSTJtYlVwZjcxU2FaZ0FHUHRtblpONmJPTXFnZ1BXQTlzVjNhVVp2cFNJV3pNNWUzMDhYV1g0REF1Mnlsd3ZtZkpybXIzSFFORU42WkpjREkyT3A2RFFsZXJ5VDZDdw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "“AI로 반복 심사 줄인다”… 식약처 화장품 안전성·표준화 체계 전환 본격화 약업신문",
+      "publishedAt": "2026-05-15T06:12:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "9453ff7eb9dd9f70",
+      "title": "Vietnam Emerges as Strategic Destination for Global Capital as Stock Market Enters Rapid Growth Cycle - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OZTc4RlRVV0JZOEV2M01oU1h6aW5ESXJvblotUWk4SFFhVFduS2tkUDF4czhUeW9ndkpKNl9LdkQ3N2ZmampSaEE4empSR1Q3ZGtIWU1sU2haNUxmU1hGWWxET04wcWZFQTNNajZicHM?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Vietnam Emerges as Strategic Destination for Global Capital as Stock Market Enters Rapid Growth Cycle Korea IT Times",
+      "publishedAt": "2026-05-15T03:44:00.000Z",
+      "rank": 6
+    },
     {
       "id": "5b262dec889a008a",
       "title": "\"Even SMEs can create standards\"… Daeshin MC targets global standardization by pursuing KS certification for oil-water separators - 에이빙",
@@ -65,143 +119,89 @@
       "source": "Google News: IT standardization",
       "summary": "\"Even SMEs can create standards\"… Daeshin MC targets global standardization by pursuing KS certification for oil-water separators 에이빙",
       "publishedAt": "2026-05-14T04:48:53.000Z",
-      "rank": 1
-    },
-    {
-      "id": "e35753b8fe28da0e",
-      "title": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ra25Kc0ZpOW5aaEhJV0hPMVkxQmxKbGV4QnVYdlY0V1ZRQm50bDVRQURneFFETGZqeHplWVBXWTVtbnZVajMwTXJOTDcxLURJcUl2SGFSR1gzVUszeDRQbnlRcmdTZVdQM3JRbFNPWDE?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 보안뉴스",
-      "publishedAt": "2026-05-15T02:08:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "a97cda11a116e5dc",
-      "title": "TTA, 경기도에 첫 AI거버넌스 CAT 인증 부여 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMeUV1eDFrLThKbDFsdmJHYlBLT2xoZFBmdktuNlptbVBDdEdxMXdtVzVwT1phNG11ODlNNVozR0N5Z2JueXlJaFFFU1ZzM29GSjk5VF93?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "TTA, 경기도에 첫 AI거버넌스 CAT 인증 부여 지디넷코리아",
-      "publishedAt": "2026-05-14T23:37:43.000Z",
-      "rank": 3
-    },
-    {
-      "id": "0f19e5aece6cb2be",
-      "title": "[AI and Humanity (11) – Interview] Prof. Young Sup Joo of Seoul National University: “Human Co-Prosperity Is the Goal, AI Is Only a Tool” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNW1OVWw0LUZJZlhWTG5TTTlvUF8zdVFwcEdReDJOOEg1aWlRZDlKQ1VpMnNUYzZvOVBSRmFRVW1oVWNHdks3MFdOYXNOdDloMk92ZlBhbXRBbXZRaE0wTm9LLWc1VlZYUUE?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "[AI and Humanity (11) – Interview] Prof. Young Sup Joo of Seoul National University: “Human Co-Prosperity Is the Goal, AI Is Only a Tool” 천지일보",
-      "publishedAt": "2026-05-14T22:00:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "ee9c0dc654c5b101",
-      "title": "세계평화통일가정연합, 종교계 최초 ISO 37001·37301 통합 인증 - ctnews.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12dWRuVFk0dXFPbnlhU3JuM0NxNFdUdC1GR3VJaVpXdlBOdHd1R3pzRFVDbnpnQjl2Qi1sLUdtS1NvcXhWdENhaHlmNi1QSmtuMHRZNlpPRnI4d1htZUZnaE80YWo?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "세계평화통일가정연합, 종교계 최초 ISO 37001·37301 통합 인증 ctnews.kr",
-      "publishedAt": "2026-05-14T05:41:43.000Z",
-      "rank": 5
-    },
-    {
-      "id": "543a718712fa3079",
-      "title": "KTL, 제주한라대와 ‘AIoT·피지컬AI’ 기술협력 확대 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45QVRHU1NsVUgzUWVxYy15NTYwVjEyOW9SMURGU2c1b1h4Y215Qk51WHkwZFdSQnlFTGdPNWpaSHJWRDBybDVyNEpqbGY4SmFDMmxXel9JTXZTbi1aMUw2SHBiU2RTTVgzSklCWEdXS2QxRW1X?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KTL, 제주한라대와 ‘AIoT·피지컬AI’ 기술협력 확대 부산일보",
-      "publishedAt": "2026-05-14T11:03:07.000Z",
-      "rank": 6
-    },
-    {
-      "id": "fc911058d9374255",
-      "title": "하나은행, 에너지경영 국제표준 ‘ISO 50001’ 인증 획득…친환경 경영 강화 - 공감신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRX0EtdU1OV3ZmYzkwRFN2Um9MdEtKSHE3WWxrMllJZnNLR2h5Snd0di1xb3dETEVMZFhabHNuOHVENlNqUVNsUl9VMmlvWEd4SXJucm5RWmJSczZmbXBYcENNa3lpckU?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "하나은행, 에너지경영 국제표준 ‘ISO 50001’ 인증 획득…친환경 경영 강화 공감신문",
-      "publishedAt": "2026-05-14T02:54:17.000Z",
       "rank": 7
     },
     {
-      "id": "ed647dd36cab29f9",
-      "title": "한영, 6G 표준화 맞손…AI 네트워크 공동연구 본격화 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNUHVzYzJCSHNJMU9uRy05ZXFuMkthWFlhekNONDBFREJabEd2WDNpaEtuUXFTZ21CQ2k4V2JVYk9uRVkwMTkwa0VNVXNZSWVCMG9mWGd1bUoyakXSAWBBVV95cUxPRlB6SWFnbWxQLW1zYTdQb0k4aVBtdkxIVHQtZ2JseUFVNzBBWXlkZ2ppV0Z0QUpMdm0teW1ydmIwNk4teG1pUlZlZ3dfUk9LY2pPcktjNGJFT1pycHdFcWg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한영, 6G 표준화 맞손…AI 네트워크 공동연구 본격화 연합뉴스",
-      "publishedAt": "2026-05-14T07:03:01.000Z",
+      "id": "5f4da31a12a7c2ce",
+      "title": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ONEVBR1RBRkJmRUJYM1V2MzZPR1czRUU0N05IUTI5eGZlUll0Z1dSRmsxZnpXMnRXbGxiNGNQUGItMXdQd3JEdzlpeWl5SHplTV9vZVUtbmYzbUpZTWU1cg?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 보안뉴스",
+      "publishedAt": "2026-05-15T02:08:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "353534b3d7d0d0df",
-      "title": "Apple-OpenAI Partnership Frays, Setting Up a Possible Legal Battle",
-      "url": "https://www.youtube.com/watch?v=LxMxCBd7O6g",
+      "id": "12775c73b53f4b34",
+      "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
+      "url": "https://www.youtube.com/watch?v=pnLuiDLdqW0",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/LxMxCBd7O6g/hqdefault.jpg",
-      "publishedAt": "2026-05-14T21:24:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pnLuiDLdqW0/hqdefault.jpg",
+      "publishedAt": "2026-05-15T23:45:16.000Z",
       "viewCount": 0
     },
     {
-      "id": "8c448ff2f98206c0",
-      "title": "Cerebras Goes Public in Year's Biggest IPO | Bloomberg Tech 5/14/2026",
-      "url": "https://www.youtube.com/watch?v=41JDdCEdcoI",
+      "id": "fab5311fd931848f",
+      "title": "Figure CEO Says No Teleoperation in Their Humanoid Robot Testing",
+      "url": "https://www.youtube.com/watch?v=vcLdWwoG0mQ",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/41JDdCEdcoI/hqdefault.jpg",
-      "publishedAt": "2026-05-14T20:58:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vcLdWwoG0mQ/hqdefault.jpg",
+      "publishedAt": "2026-05-15T20:50:40.000Z",
       "viewCount": 0
     },
     {
-      "id": "f250260078ea1d7e",
-      "title": "Codex for Everyday Work: AI Agents Beyond Coding",
-      "url": "https://www.youtube.com/watch?v=DLP9CagE3dU",
+      "id": "7e368e00d55549fa",
+      "title": "Figma Jumps as Results Ease AI Disruption Concerns",
+      "url": "https://www.youtube.com/watch?v=ToiPNJFEn8w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ToiPNJFEn8w/hqdefault.jpg",
+      "publishedAt": "2026-05-15T20:44:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7bcd17fcbc2435a6",
+      "title": "Update and audit a finance model in Excel with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/DLP9CagE3dU/hqdefault.jpg",
-      "publishedAt": "2026-05-14T20:28:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CaBXLZyaJYU/hqdefault.jpg",
+      "publishedAt": "2026-05-15T20:41:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "7f86d7f097dbe7f7",
-      "title": "Xi’s Threat to Trump Cements Taiwan as Top US-China Risk",
-      "url": "https://www.youtube.com/watch?v=XnLVXWU2JZY",
+      "id": "fbe48ad52c61c4c3",
+      "title": "US Chip Sector Needs More Talent, Says SEMI",
+      "url": "https://www.youtube.com/watch?v=bHJeV7mMZRI",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/XnLVXWU2JZY/hqdefault.jpg",
-      "publishedAt": "2026-05-14T18:26:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/bHJeV7mMZRI/hqdefault.jpg",
+      "publishedAt": "2026-05-15T20:39:21.000Z",
       "viewCount": 0
     },
     {
-      "id": "f05a83859e66f3f3",
-      "title": "Oura Has Been Doing AI For Years, CEO Says",
-      "url": "https://www.youtube.com/watch?v=6p_urIFrVjE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/6p_urIFrVjE/hqdefault.jpg",
-      "publishedAt": "2026-05-14T18:16:58.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9a86af890256856c",
-      "title": "Ericsson CEO: To Compete With China, You Need to Lead on Technology",
-      "url": "https://www.youtube.com/watch?v=KHwSY74oM8k",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/KHwSY74oM8k/hqdefault.jpg",
-      "publishedAt": "2026-05-14T18:06:10.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "941b648510a12fd0",
-      "title": "Simplify database migration with AI",
-      "url": "https://www.youtube.com/watch?v=NenJXz88j-A",
+      "id": "3f27a7d57b13ae91",
+      "title": "Cloud SQL: Fully-managed relational database service",
+      "url": "https://www.youtube.com/watch?v=Qnc6HezqjfA",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/NenJXz88j-A/hqdefault.jpg",
-      "publishedAt": "2026-05-14T17:59:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Qnc6HezqjfA/hqdefault.jpg",
+      "publishedAt": "2026-05-15T18:31:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "5d16a0cac91f2ba2",
-      "title": "Inside image generation’s Renaissance moment — the OpenAI Podcast Ep. 19",
-      "url": "https://www.youtube.com/watch?v=bH2nP-aCFjk",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/bH2nP-aCFjk/hqdefault.jpg",
-      "publishedAt": "2026-05-14T17:31:22.000Z",
+      "id": "5b83fb2beefdd9bc",
+      "title": "ODU accelerates genomic research and “time to science” by 12x with Google AI",
+      "url": "https://www.youtube.com/watch?v=AbLC8LvlOOY",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/AbLC8LvlOOY/hqdefault.jpg",
+      "publishedAt": "2026-05-15T18:24:29.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "35d5e4db52e4d37c",
+      "title": "Sovereignty vs. Innovation: The trade-off ends with Google Sovereign Cloud",
+      "url": "https://www.youtube.com/watch?v=WiVKAhD-Lg4",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/WiVKAhD-Lg4/hqdefault.jpg",
+      "publishedAt": "2026-05-15T18:22:51.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-14T03:32:33.000Z"
+      "updatedAt": "2026-05-15T03:36:12.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
