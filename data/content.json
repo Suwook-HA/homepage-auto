@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-16T02:55:00.904Z",
-  "projectsCheckedAt": "2026-05-16T02:55:00.904Z",
-  "projectsUpdatedAt": "2026-05-16T02:55:00.904Z",
+  "updatedAt": "2026-05-17T03:29:09.202Z",
+  "projectsCheckedAt": "2026-05-17T03:29:09.202Z",
+  "projectsUpdatedAt": "2026-05-17T03:29:09.202Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-16T02:55:00.904Z",
+    "checkedAt": "2026-05-17T03:29:09.202Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "39cf07fc2efb2804",
+      "title": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWSDNwbzZFVmlzR3BrQUNfRkhJN1JmZ05wYVQ0d1lsN0J2ZlRiTGZRcm5tZWpaV0xnMG1uWjhxSE5qdXhlalIwdnRoNXpZREo3X0NZSWozWEQ5UENBZV9z?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce 뉴스와이어",
+      "publishedAt": "2026-05-17T02:25:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "d896776ecec99995",
+      "title": "AI도 결국 데이터...국립산림과학원, 산림과학 데이터 표준화 논의 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEVhYV94RWo4bkpncVNzVHduWnh4UTNoblhDLWNnS2RkMzBwWUJiblYwYWx4amxLcFlrcTZ5eXRqbE9seFNRRDZGcnR1Y09WRjZ6SXhMeHkwcVIxemwxZ3pOclJMUkVBWE1GSF9tRFRHXzEyYXVUaGZpWjZLUFpSVG1xUmtYQkZpX0YxNQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI도 결국 데이터...국립산림과학원, 산림과학 데이터 표준화 논의 대한민국 정책브리핑",
+      "publishedAt": "2026-05-16T08:56:58.000Z",
+      "rank": 2
+    },
+    {
+      "id": "ec0ed24ccc0d2a42",
+      "title": "\"AI가 쇳물 품질까지 판단\"…철강업계, 자율 운영 공장으로 진화 [산업AX파일] - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRUhEUWRIWjN4bTUyUV80M0JmeW5UQVJaNmVMdVBnLTJkeEY1NktReEhtLWpLaThEeUZTZlVJRy1vN29RdWR5aGZwMS1VaEVibnNiVHFMbU91ZklIaVNqb1NDeUU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"AI가 쇳물 품질까지 판단\"…철강업계, 자율 운영 공장으로 진화 [산업AX파일] 디지털데일리",
+      "publishedAt": "2026-05-16T04:00:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "f8dbb99c11aad8e7",
+      "title": "AI가 굶어 죽기 시작했다 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 굶어 죽기 시작했다 브런치",
+      "publishedAt": "2026-05-16T00:08:40.000Z",
+      "rank": 4
+    },
     {
       "id": "ef0b70f8acea0738",
       "title": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises - KIPOST",
@@ -65,25 +101,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises KIPOST",
       "publishedAt": "2026-05-15T15:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "0e4a550ddda40d75",
-      "title": "Boomi and Couchbase Partner to Power Enterprise AI Agents with Trusted Recollection, Connectivity, and Governance - 매일타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTVpIdnBWT0ZVLTctVjV1QWtJZEkwRDQzb1RYc0VKdWszZlZ6emZqMHpLNVlfQmdHeWF2YjVNYUpBb2lxckI0Y1FsbWFvLVUxS1kyaGhvOUh0ZUZmS0E?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Boomi and Couchbase Partner to Power Enterprise AI Agents with Trusted Recollection, Connectivity, and Governance 매일타임즈",
-      "publishedAt": "2026-05-15T04:40:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "2924172928d74739",
-      "title": "한수원, 중소기업 AI 실무인재 247명 배출…디지털 전환 지원 본격화 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSl81MjJYUFZPM2N1N2VrNlBSQWVkMGpHbmxBS1hKTVlaaWk1c3NjZF8xMnpRUFBPeV9DM1B2X3Radw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한수원, 중소기업 AI 실무인재 247명 배출…디지털 전환 지원 본격화 브레이크뉴스",
-      "publishedAt": "2026-05-15T08:26:02.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "aa5021f7ba9f0be0",
@@ -92,7 +110,16 @@
       "source": "Google News: Trustworthy AI",
       "summary": "스타트업 스타트업데일리",
       "publishedAt": "2026-05-15T07:30:00.000Z",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "id": "dc285a12e64142b6",
+      "title": "다종·소량 산업용 배터리 표준화 시동…수요조사 착수 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmdFR2Y4Sm5FYkZ5MElhamEzekRaY0FvOGxjbFRGRXQ0MUdKVm5UTVlKaXF6YjZRdzhvOW1tQXlndmNvNjJpeW9EUjVxdw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "다종·소량 산업용 배터리 표준화 시동…수요조사 착수 전자신문",
+      "publishedAt": "2026-05-15T06:32:00.000Z",
+      "rank": 7
     },
     {
       "id": "d2a329742c2539ec",
@@ -101,33 +128,6 @@
       "source": "Google News: AI standardization",
       "summary": "“AI로 반복 심사 줄인다”… 식약처 화장품 안전성·표준화 체계 전환 본격화 약업신문",
       "publishedAt": "2026-05-15T06:12:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "9453ff7eb9dd9f70",
-      "title": "Vietnam Emerges as Strategic Destination for Global Capital as Stock Market Enters Rapid Growth Cycle - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OZTc4RlRVV0JZOEV2M01oU1h6aW5ESXJvblotUWk4SFFhVFduS2tkUDF4czhUeW9ndkpKNl9LdkQ3N2ZmampSaEE4empSR1Q3ZGtIWU1sU2haNUxmU1hGWWxET04wcWZFQTNNajZicHM?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Vietnam Emerges as Strategic Destination for Global Capital as Stock Market Enters Rapid Growth Cycle Korea IT Times",
-      "publishedAt": "2026-05-15T03:44:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "5b262dec889a008a",
-      "title": "\"Even SMEs can create standards\"… Daeshin MC targets global standardization by pursuing KS certification for oil-water separators - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Jc0o5b1dJLXNaSGVESGZnSXB4X0RuV3pHelAxTi1vNnFtdHk1bV9hamhIMFJ3TzFzZlY5S05XVlE0NzZVSjlHY1lBZGJqTmk0dkFBTHFtZzU2QXZLTTN3ODk2Um9oazA?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "\"Even SMEs can create standards\"… Daeshin MC targets global standardization by pursuing KS certification for oil-water separators 에이빙",
-      "publishedAt": "2026-05-14T04:48:53.000Z",
-      "rank": 7
-    },
-    {
-      "id": "5f4da31a12a7c2ce",
-      "title": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ONEVBR1RBRkJmRUJYM1V2MzZPR1czRUU0N05IUTI5eGZlUll0Z1dSRmsxZnpXMnRXbGxiNGNQUGItMXdQd3JEdzlpeWl5SHplTV9vZVUtbmYzbUpZTWU1cg?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "TTA, ‘경기도청 인공지능 거버넌스’에 국내 1호 인공지능 신뢰성 인증(CAT) 부여 보안뉴스",
-      "publishedAt": "2026-05-15T02:08:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-15T03:36:12.000Z"
+      "updatedAt": "2026-05-16T02:59:04.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
