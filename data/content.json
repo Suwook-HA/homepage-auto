@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-17T03:29:09.202Z",
-  "projectsCheckedAt": "2026-05-17T03:29:09.202Z",
-  "projectsUpdatedAt": "2026-05-17T03:29:09.202Z",
+  "updatedAt": "2026-05-18T03:41:56.147Z",
+  "projectsCheckedAt": "2026-05-18T03:41:56.147Z",
+  "projectsUpdatedAt": "2026-05-18T03:41:56.147Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-17T03:29:09.202Z",
+    "checkedAt": "2026-05-18T03:41:56.147Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "703ab5a02c14f398",
+      "title": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EeVg4THRCMXZQZmJLTkpsUUUwUXhrQjFudUo5MEI2NHppaExETGFLeVlTM1ZJek5TYmVYbk13bGpUNUpoRUVueFlMa0JSZ3lhVU1mR1lacWI1U2NaWTExbEhhWG10V0dOcUE?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 파이낸스스코프",
+      "publishedAt": "2026-05-18T01:15:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "a819647084645dbe",
+      "title": "롯데이노베이트, AI 국제표준 인증 추가…피지컬 AI 강화 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb3BQLWpOdkZmWEFwOVNFNjdIbEIzekZXVjk2MGtGMDVVMjZoZVd6YWllSkF0aW1fTTZTSHBLRWxLMEtkX01QUzB3ZDh2NW9CeUhtX1pVSTNja190VUpHb1JkWFQxNnJtb05aTmdBalZlUDl3WHBPVTZEbEZhbWh0U25n0gGWAUFVX3lxTE9GMzhzYzc2TkFZazlNcnh0R0FJNGduTDFYcV9ldndGNnlHcXB5V3FGY25CcFZqaTRwVUktSXo5VGtNMG8tdDFpTXhHNldfRkYxLXBnLXdUcFpNZ3NJcWJHR2IyOVhlWldfMkdjZ3NsWHFJWWdqcVVjR0EyNUllRU5PMmYteDRzTmhKdjRvZDZKYTdtcmIzZw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 국제표준 인증 추가…피지컬 AI 강화 - 조선비즈 Chosunbiz",
+      "publishedAt": "2026-05-18T02:28:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "7d29390cfa4b2a9f",
+      "title": "롯데이노베이트, AI 국제표준 확대...휴머노이드 경쟁력 강화 - 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVzJzMkRtRHRTQmRBVk5PLW1ocF9ZOEdkMEpaOUNiV0tsYUgwQ1VEZVF6Ums2UmVBU2pRUFByQ2hnUUE4V191b1p0NjNKRVFHa1B3cTJpTHlaWmIwZXUtWWNwQWtWQQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 국제표준 확대...휴머노이드 경쟁력 강화 이로운넷",
+      "publishedAt": "2026-05-18T01:46:18.000Z",
+      "rank": 3
+    },
+    {
+      "id": "34d698a0d8ef969d",
+      "title": "롯데이노베이트, 피지컬 AI 경쟁력 강화…AI 국제 표준 인증 확대 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DV00xc1RKVXhxMFVmdGZnRGluZUY4RTF0U2M0V0ZJM3lFdER1aTFaX2xLSDJ0VzdidFgxYmZtMmpUT1BTMzdCb2hYNXRHejJrNExWbUpKTVcxYnlQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, 피지컬 AI 경쟁력 강화…AI 국제 표준 인증 확대 뉴스핌",
+      "publishedAt": "2026-05-18T01:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "21232e53e8a6326a",
+      "title": "엑손 지원 탄소회계 새 기준 논란 - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tRnF3SEl5THVyNkdWQjBKeGEtNThGSVF5VGRJZ2lOUUI3X3JXb0E3WVNEOXZuS19zXzNhQnc2a3NIT2xKNzd2RXpSclBpd0pEVERLYzdpaFl1eU93WkZLS2hfU3RadzRfQ2lZOFdIczM5eG8?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "엑손 지원 탄소회계 새 기준 논란 ESG비즈니스리뷰",
+      "publishedAt": "2026-05-17T07:00:13.000Z",
+      "rank": 5
+    },
     {
       "id": "39cf07fc2efb2804",
       "title": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce - 뉴스와이어",
@@ -65,7 +110,16 @@
       "source": "Google News: Trustworthy AI",
       "summary": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce 뉴스와이어",
       "publishedAt": "2026-05-17T02:25:00.000Z",
-      "rank": 1
+      "rank": 6
+    },
+    {
+      "id": "1312b82135619c0d",
+      "title": "휴머노이드·드론배터리 표준화 시동 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmdFR2Y4Sm5FYkZ5MElhamEzekRaY0FvOGxjbFRGRXQ0MUdKVm5UTVlKaXF6YjZRdzhvOW1tQXlndmNvNjJpeW9EUjVxdw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "휴머노이드·드론배터리 표준화 시동 전자신문",
+      "publishedAt": "2026-05-16T21:00:00.000Z",
+      "rank": 7
     },
     {
       "id": "d896776ecec99995",
@@ -74,60 +128,6 @@
       "source": "Google News: AI standardization",
       "summary": "AI도 결국 데이터...국립산림과학원, 산림과학 데이터 표준화 논의 대한민국 정책브리핑",
       "publishedAt": "2026-05-16T08:56:58.000Z",
-      "rank": 2
-    },
-    {
-      "id": "ec0ed24ccc0d2a42",
-      "title": "\"AI가 쇳물 품질까지 판단\"…철강업계, 자율 운영 공장으로 진화 [산업AX파일] - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRUhEUWRIWjN4bTUyUV80M0JmeW5UQVJaNmVMdVBnLTJkeEY1NktReEhtLWpLaThEeUZTZlVJRy1vN29RdWR5aGZwMS1VaEVibnNiVHFMbU91ZklIaVNqb1NDeUU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "\"AI가 쇳물 품질까지 판단\"…철강업계, 자율 운영 공장으로 진화 [산업AX파일] 디지털데일리",
-      "publishedAt": "2026-05-16T04:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "f8dbb99c11aad8e7",
-      "title": "AI가 굶어 죽기 시작했다 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-05-16T00:08:40.000Z",
-      "rank": 4
-    },
-    {
-      "id": "ef0b70f8acea0738",
-      "title": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCVXNraGNnTVY0b3ZzVGdFTlQxV0lWZTM5V0dkLWZKcE94WHE3SzI1bnhqNDRQZzlNSExrRDRpSzhMdlIwRmFvYUloTXNLQnpSZzZDQXNhQ0ZNU000VUUtOFVHWWZCT1ZO0gFsQVVfeXFMT2VUZ09tMm5RdmppSVRjdFZ0dGtfRF9acWRTU2dfR2E1bmFueFlQdUREZVRSVDcydUE5VnA1NktUWm05Zm03RzB4VWZLLTh6ZG5hMkxSVlZlTWs2YTRFVUxCMlJnVThGaFRKR0ls?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Sprouts.ai Raises $9M Pre-Series A Led by True Global Ventures and Accel to Scale Revenue Agents with Differentiated Data for B2B Enterprises KIPOST",
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "aa5021f7ba9f0be0",
-      "title": "스타트업 - 스타트업데일리",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZRWpBWDh5dDMya21yRzVlTlJwZG41dFRxN0Q2STFEMExKUXgzaEtMZ0QxYW1RUl9kNDZxaWlkN0pFTlJpMF9NTF94bmR4c2tuOGVucmFiWjdWSGxTLXdN?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "스타트업 스타트업데일리",
-      "publishedAt": "2026-05-15T07:30:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "dc285a12e64142b6",
-      "title": "다종·소량 산업용 배터리 표준화 시동…수요조사 착수 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmdFR2Y4Sm5FYkZ5MElhamEzekRaY0FvOGxjbFRGRXQ0MUdKVm5UTVlKaXF6YjZRdzhvOW1tQXlndmNvNjJpeW9EUjVxdw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "다종·소량 산업용 배터리 표준화 시동…수요조사 착수 전자신문",
-      "publishedAt": "2026-05-15T06:32:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "d2a329742c2539ec",
-      "title": "“AI로 반복 심사 줄인다”… 식약처 화장품 안전성·표준화 체계 전환 본격화 - 약업신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84MW5ZSC00ZmhzNWlkSTJtYlVwZjcxU2FaZ0FHUHRtblpONmJPTXFnZ1BXQTlzVjNhVVp2cFNJV3pNNWUzMDhYV1g0REF1Mnlsd3ZtZkpybXIzSFFORU42WkpjREkyT3A2RFFsZXJ5VDZDdw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "“AI로 반복 심사 줄인다”… 식약처 화장품 안전성·표준화 체계 전환 본격화 약업신문",
-      "publishedAt": "2026-05-15T06:12:00.000Z",
       "rank": 8
     }
   ],
@@ -178,30 +178,30 @@
       "viewCount": 0
     },
     {
-      "id": "3f27a7d57b13ae91",
-      "title": "Cloud SQL: Fully-managed relational database service",
-      "url": "https://www.youtube.com/watch?v=Qnc6HezqjfA",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/Qnc6HezqjfA/hqdefault.jpg",
-      "publishedAt": "2026-05-15T18:31:13.000Z",
+      "id": "3d4a5d716ff06272",
+      "title": "The Musk v. Altman case is in the jury's hands. The trust verdict is still out. | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=eCpsgOw-8W0",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/eCpsgOw-8W0/hqdefault.jpg",
+      "publishedAt": "2026-05-15T18:21:54.000Z",
       "viewCount": 0
     },
     {
-      "id": "5b83fb2beefdd9bc",
-      "title": "ODU accelerates genomic research and “time to science” by 12x with Google AI",
-      "url": "https://www.youtube.com/watch?v=AbLC8LvlOOY",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/AbLC8LvlOOY/hqdefault.jpg",
-      "publishedAt": "2026-05-15T18:24:29.000Z",
+      "id": "eb6cf9ed185a7fc1",
+      "title": "MiniMed Aims to Be 'Self-Driving Car' of Diabetes Care",
+      "url": "https://www.youtube.com/watch?v=tYrKYToKfrQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/tYrKYToKfrQ/hqdefault.jpg",
+      "publishedAt": "2026-05-15T15:51:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "35d5e4db52e4d37c",
-      "title": "Sovereignty vs. Innovation: The trade-off ends with Google Sovereign Cloud",
-      "url": "https://www.youtube.com/watch?v=WiVKAhD-Lg4",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/WiVKAhD-Lg4/hqdefault.jpg",
-      "publishedAt": "2026-05-15T18:22:51.000Z",
+      "id": "42b7dd8f63c089df",
+      "title": "AI, Robotics Key to Transforming Health Care: BD CEO",
+      "url": "https://www.youtube.com/watch?v=ZfZWasbN4Lk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ZfZWasbN4Lk/hqdefault.jpg",
+      "publishedAt": "2026-05-15T14:36:15.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-16T02:59:04.000Z"
+      "updatedAt": "2026-05-17T03:33:12.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
