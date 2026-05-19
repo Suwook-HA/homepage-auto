@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-18T03:41:56.147Z",
-  "projectsCheckedAt": "2026-05-18T03:41:56.147Z",
-  "projectsUpdatedAt": "2026-05-18T03:41:56.147Z",
+  "updatedAt": "2026-05-19T03:35:18.929Z",
+  "projectsCheckedAt": "2026-05-19T03:35:18.929Z",
+  "projectsUpdatedAt": "2026-05-19T03:35:18.929Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,100 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-18T03:41:56.147Z",
+    "checkedAt": "2026-05-19T03:35:18.929Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "703ab5a02c14f398",
-      "title": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 - 파이낸스스코프",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EeVg4THRCMXZQZmJLTkpsUUUwUXhrQjFudUo5MEI2NHppaExETGFLeVlTM1ZJek5TYmVYbk13bGpUNUpoRUVueFlMa0JSZ3lhVU1mR1lacWI1U2NaWTExbEhhWG10V0dOcUE?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 파이낸스스코프",
-      "publishedAt": "2026-05-18T01:15:00.000Z",
+      "id": "4ba6175dd346130c",
+      "title": "소방청·질병청, 급성심장정지 대응 논의…\"AI 기반 골든타임 확보\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYndOZ0ZFc0Y5WHdhZXgyc2xwa1pUTG5zcjNwZlBZX0Jaa1pZVGNvSWFrek1TakpPUy01NEtXQk53NTRhRmRNY21TaWdpYmdFcnVNQ09DVW5JcnRFTkZZYUJB?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "소방청·질병청, 급성심장정지 대응 논의…\"AI 기반 골든타임 확보\" 뉴스1",
+      "publishedAt": "2026-05-19T03:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "a819647084645dbe",
-      "title": "롯데이노베이트, AI 국제표준 인증 추가…피지컬 AI 강화 - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb3BQLWpOdkZmWEFwOVNFNjdIbEIzekZXVjk2MGtGMDVVMjZoZVd6YWllSkF0aW1fTTZTSHBLRWxLMEtkX01QUzB3ZDh2NW9CeUhtX1pVSTNja190VUpHb1JkWFQxNnJtb05aTmdBalZlUDl3WHBPVTZEbEZhbWh0U25n0gGWAUFVX3lxTE9GMzhzYzc2TkFZazlNcnh0R0FJNGduTDFYcV9ldndGNnlHcXB5V3FGY25CcFZqaTRwVUktSXo5VGtNMG8tdDFpTXhHNldfRkYxLXBnLXdUcFpNZ3NJcWJHR2IyOVhlWldfMkdjZ3NsWHFJWWdqcVVjR0EyNUllRU5PMmYteDRzTmhKdjRvZDZKYTdtcmIzZw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 국제표준 인증 추가…피지컬 AI 강화 - 조선비즈 Chosunbiz",
-      "publishedAt": "2026-05-18T02:28:00.000Z",
+      "id": "1e21db844a80fbff",
+      "title": "의류산업학회, ‘2026 춘계학술대회’ 성료 - TIN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBVaXJfTmh3SFJ2dE5ubkdBVmRrWFo1TlVrN2dkOWlJbGh0QmRvM0Nja1FBLWR6UzdpX2tIQlpwbHZCc3lO?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "의류산업학회, ‘2026 춘계학술대회’ 성료 TIN뉴스",
+      "publishedAt": "2026-05-19T01:46:00.000Z",
       "rank": 2
     },
     {
-      "id": "7d29390cfa4b2a9f",
-      "title": "롯데이노베이트, AI 국제표준 확대...휴머노이드 경쟁력 강화 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVzJzMkRtRHRTQmRBVk5PLW1ocF9ZOEdkMEpaOUNiV0tsYUgwQ1VEZVF6Ums2UmVBU2pRUFByQ2hnUUE4V191b1p0NjNKRVFHa1B3cTJpTHlaWmIwZXUtWWNwQWtWQQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 국제표준 확대...휴머노이드 경쟁력 강화 이로운넷",
-      "publishedAt": "2026-05-18T01:46:18.000Z",
+      "id": "2b404b85f00112c1",
+      "title": "현대카드, 슈퍼콘서트 28 ‘위켄드’ 개최 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanV2SDhiQm5sUUZqX3JVaDNhM1IzMWxGbTc1WGNpNUtvaW9uOEpabk9QTl9xalJTcDROaWlsRzFQZUU0RmpRS1hGa3QxTDVpUm1VVGtEOTQwRDllV3U0MTZCMG1iay0weHlZSERSMWhSejlVTF9PTXc0NkFneUpQUlpicEFsdw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "현대카드, 슈퍼콘서트 28 ‘위켄드’ 개최 Hyundai Motor Group",
+      "publishedAt": "2026-05-19T01:22:55.000Z",
       "rank": 3
     },
     {
-      "id": "34d698a0d8ef969d",
-      "title": "롯데이노베이트, 피지컬 AI 경쟁력 강화…AI 국제 표준 인증 확대 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DV00xc1RKVXhxMFVmdGZnRGluZUY4RTF0U2M0V0ZJM3lFdER1aTFaX2xLSDJ0VzdidFgxYmZtMmpUT1BTMzdCb2hYNXRHejJrNExWbUpKTVcxYnlQ?oc=5",
+      "id": "d37a37ad30f3f220",
+      "title": "롯데이노베이트, 피지컬 AI 경쟁력 강화 ··· ISO/IEC 42001 인증 추가 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXVk94cVlUSHRzY0twNmxtVzhJd3hMRUZIdjdTN2ZRc0FSTFN1WmxmajFPeHdXbUd3amdFRXBNQ1lDLXhvQkV3M0NNaFM0WGNTZXU5VGxWaG9xWjNyeFFrS3dzUnZMUVhXV2VLag?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, 피지컬 AI 경쟁력 강화…AI 국제 표준 인증 확대 뉴스핌",
-      "publishedAt": "2026-05-18T01:00:00.000Z",
+      "summary": "롯데이노베이트, 피지컬 AI 경쟁력 강화 ··· ISO/IEC 42001 인증 추가 데이터넷",
+      "publishedAt": "2026-05-18T02:02:03.000Z",
       "rank": 4
     },
     {
-      "id": "21232e53e8a6326a",
-      "title": "엑손 지원 탄소회계 새 기준 논란 - ESG비즈니스리뷰",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tRnF3SEl5THVyNkdWQjBKeGEtNThGSVF5VGRJZ2lOUUI3X3JXb0E3WVNEOXZuS19zXzNhQnc2a3NIT2xKNzd2RXpSclBpd0pEVERLYzdpaFl1eU93WkZLS2hfU3RadzRfQ2lZOFdIczM5eG8?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "엑손 지원 탄소회계 새 기준 논란 ESG비즈니스리뷰",
-      "publishedAt": "2026-05-17T07:00:13.000Z",
+      "id": "b3ddc444353fb03b",
+      "title": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 - 파이낸스스코프",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ISW9rSWxUVWtPZFpNeXFOdUFwcWVDaWJ0RWMzY3dBOU1uWmZqYXJDSnBYbW15SHhwRGYyMGphRnF3My1RTFpoNXNick1jWEN1bm40QnoyUVhWQUFIcGRZWFdJV2Rfb0JXR0pR?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 파이낸스스코프",
+      "publishedAt": "2026-05-18T01:15:08.000Z",
       "rank": 5
     },
     {
-      "id": "39cf07fc2efb2804",
-      "title": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWSDNwbzZFVmlzR3BrQUNfRkhJN1JmZ05wYVQ0d1lsN0J2ZlRiTGZRcm5tZWpaV0xnMG1uWjhxSE5qdXhlalIwdnRoNXpZREo3X0NZSWozWEQ5UENBZV9z?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Experian Expands Agent Trust Partner Ecosystem with Akamai to Advance Trusted AI Driven Commerce 뉴스와이어",
-      "publishedAt": "2026-05-17T02:25:00.000Z",
+      "id": "efe268fcd028936a",
+      "title": "국제AI교육원, ISO 통합심사 및 VB 검증심사 실무교육 성료 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Z2FMQi1qbkJwNVl5SXkxdUpjVkw0bUNmM2ZEQjRDY195ME9GRjZTQ2d3cEtVTHpJNXB5SWhGZW8xUmZmMlZrdDNXMGx5Zy1UM1ZvQ1ZMbGFFZ3IwS0F2NWZGV2c?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "국제AI교육원, ISO 통합심사 및 VB 검증심사 실무교육 성료 서울경제TV",
+      "publishedAt": "2026-05-18T05:09:48.000Z",
       "rank": 6
     },
     {
-      "id": "1312b82135619c0d",
-      "title": "휴머노이드·드론배터리 표준화 시동 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmdFR2Y4Sm5FYkZ5MElhamEzekRaY0FvOGxjbFRGRXQ0MUdKVm5UTVlKaXF6YjZRdzhvOW1tQXlndmNvNjJpeW9EUjVxdw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "휴머노이드·드론배터리 표준화 시동 전자신문",
-      "publishedAt": "2026-05-16T21:00:00.000Z",
+      "id": "31221156d1c88359",
+      "title": "롯데이노베이트, AI 신뢰성 인증 확대…로봇 서비스 사업 힘 싣는다 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MejN1Umc0Q0RVYUNua2ZSbGNxSy1Zc0RLQ2lZelRja1RZeWlrTk5MZDhHWWR4akdXZ0VOMk11YWFyX21xM2NsRmJZemlGak1sN3M2d2Nn?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 신뢰성 인증 확대…로봇 서비스 사업 힘 싣는다 지디넷코리아",
+      "publishedAt": "2026-05-18T08:54:46.000Z",
       "rank": 7
     },
     {
-      "id": "d896776ecec99995",
-      "title": "AI도 결국 데이터...국립산림과학원, 산림과학 데이터 표준화 논의 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEVhYV94RWo4bkpncVNzVHduWnh4UTNoblhDLWNnS2RkMzBwWUJiblYwYWx4amxLcFlrcTZ5eXRqbE9seFNRRDZGcnR1Y09WRjZ6SXhMeHkwcVIxemwxZ3pOclJMUkVBWE1GSF9tRFRHXzEyYXVUaGZpWjZLUFpSVG1xUmtYQkZpX0YxNQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI도 결국 데이터...국립산림과학원, 산림과학 데이터 표준화 논의 대한민국 정책브리핑",
-      "publishedAt": "2026-05-16T08:56:58.000Z",
+      "id": "b5e11208f2d696b4",
+      "title": "롯데이노베이트, AI 국제표준 인증 확대…AI 경쟁력 강화 - 파이낸셜투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrMmttVVQ2cVk1R0NqN1BFVlJCd1dPY3Q4UW14NF9lbUZfM2F3bVBCZ1I5UkgtY0praXpMVHI3Y25tTFk5WE1EYWdaYlJPZ01UUzZJenJFMk9IMkVzemM3YmtiQmNJOXBtaFJOdUpR0gFuQVVfeXFMUGsya21VVDZxWTVHQ2o3UEVWUkJ3V09jdDhRbXg0X2VtRl8zYXdtUEJnUjlSSC1jSmtpekxUcjdjbm1MWTlYTURhZ1piUk9nTVRTNkl6ckUyT0gyRXN6Yzdia2JCY0k5cG1oUk51SlE?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "롯데이노베이트, AI 국제표준 인증 확대…AI 경쟁력 강화 파이낸셜투데이",
+      "publishedAt": "2026-05-18T08:27:33.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "12775c73b53f4b34",
-      "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
-      "url": "https://www.youtube.com/watch?v=pnLuiDLdqW0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pnLuiDLdqW0/hqdefault.jpg",
-      "publishedAt": "2026-05-15T23:45:16.000Z",
+      "id": "13d2abc686cf8ffa",
+      "title": "Inside AI Dev 26 × San Francisco",
+      "url": "https://www.youtube.com/watch?v=20qpc5m5Pko",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/20qpc5m5Pko/hqdefault.jpg",
+      "publishedAt": "2026-05-12T19:45:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "fab5311fd931848f",
-      "title": "Figure CEO Says No Teleoperation in Their Humanoid Robot Testing",
-      "url": "https://www.youtube.com/watch?v=vcLdWwoG0mQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/vcLdWwoG0mQ/hqdefault.jpg",
-      "publishedAt": "2026-05-15T20:50:40.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7e368e00d55549fa",
-      "title": "Figma Jumps as Results Ease AI Disruption Concerns",
-      "url": "https://www.youtube.com/watch?v=ToiPNJFEn8w",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ToiPNJFEn8w/hqdefault.jpg",
-      "publishedAt": "2026-05-15T20:44:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7bcd17fcbc2435a6",
-      "title": "Update and audit a finance model in Excel with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/CaBXLZyaJYU/hqdefault.jpg",
-      "publishedAt": "2026-05-15T20:41:26.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "fbe48ad52c61c4c3",
-      "title": "US Chip Sector Needs More Talent, Says SEMI",
-      "url": "https://www.youtube.com/watch?v=bHJeV7mMZRI",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/bHJeV7mMZRI/hqdefault.jpg",
-      "publishedAt": "2026-05-15T20:39:21.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "3d4a5d716ff06272",
-      "title": "The Musk v. Altman case is in the jury's hands. The trust verdict is still out. | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=eCpsgOw-8W0",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/eCpsgOw-8W0/hqdefault.jpg",
-      "publishedAt": "2026-05-15T18:21:54.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "eb6cf9ed185a7fc1",
-      "title": "MiniMed Aims to Be 'Self-Driving Car' of Diabetes Care",
-      "url": "https://www.youtube.com/watch?v=tYrKYToKfrQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/tYrKYToKfrQ/hqdefault.jpg",
-      "publishedAt": "2026-05-15T15:51:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "42b7dd8f63c089df",
-      "title": "AI, Robotics Key to Transforming Health Care: BD CEO",
-      "url": "https://www.youtube.com/watch?v=ZfZWasbN4Lk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ZfZWasbN4Lk/hqdefault.jpg",
-      "publishedAt": "2026-05-15T14:36:15.000Z",
+      "id": "c682cd07e46f44c0",
+      "title": "📉 Turn your multimodal data into something you can actually query",
+      "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg",
+      "publishedAt": "2026-04-22T14:33:13.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +180,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-17T03:33:12.000Z"
+      "updatedAt": "2026-05-18T03:46:00.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
