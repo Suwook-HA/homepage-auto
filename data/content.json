@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-19T03:35:18.929Z",
-  "projectsCheckedAt": "2026-05-19T03:35:18.929Z",
-  "projectsUpdatedAt": "2026-05-19T03:35:18.929Z",
+  "updatedAt": "2026-05-20T03:36:19.430Z",
+  "projectsCheckedAt": "2026-05-20T03:36:19.430Z",
+  "projectsUpdatedAt": "2026-05-20T03:36:19.430Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,100 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-19T03:35:18.929Z",
+    "checkedAt": "2026-05-20T03:36:19.430Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "4ba6175dd346130c",
-      "title": "소방청·질병청, 급성심장정지 대응 논의…\"AI 기반 골든타임 확보\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYndOZ0ZFc0Y5WHdhZXgyc2xwa1pUTG5zcjNwZlBZX0Jaa1pZVGNvSWFrek1TakpPUy01NEtXQk53NTRhRmRNY21TaWdpYmdFcnVNQ09DVW5JcnRFTkZZYUJB?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "소방청·질병청, 급성심장정지 대응 논의…\"AI 기반 골든타임 확보\" 뉴스1",
-      "publishedAt": "2026-05-19T03:00:00.000Z",
+      "id": "dbcf4f49885ba61a",
+      "title": "90% of Manufacturers Say Digital Transformation Is Now Essential, According to New Global Study - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSHBGYXgtajJGcFVhVjRVa2tfSzF5X1l3a0VfLXlEVV8xQVpmbm9mY1NwdmExalFVbllQenVwRm9hT2c4LUl5ODFETWVZRnlIeHY1WEZQLTdVYXpndlQ1ZHFLUUdaN2NV0gFsQVVfeXFMUFhZUG9aOXhIQmZLcnRmSzV5YnRVQkJtMjRtcHVUZGNUMXo3RUlUT2Z6Y3E0UVFMemVzVDcyQWFxNTdhdmdBemZsOFBpM0ZQYkxOSk5VTU5VekpKNGVpeTQyUGQ1RTliM2Q4dE9a?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "90% of Manufacturers Say Digital Transformation Is Now Essential, According to New Global Study KIPOST",
+      "publishedAt": "2026-05-19T11:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "1e21db844a80fbff",
-      "title": "의류산업학회, ‘2026 춘계학술대회’ 성료 - TIN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBVaXJfTmh3SFJ2dE5ubkdBVmRrWFo1TlVrN2dkOWlJbGh0QmRvM0Nja1FBLWR6UzdpX2tIQlpwbHZCc3lO?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "의류산업학회, ‘2026 춘계학술대회’ 성료 TIN뉴스",
-      "publishedAt": "2026-05-19T01:46:00.000Z",
+      "id": "30d171f25a8bc770",
+      "title": "이데아텍, ‘ISO/IEC 27001’ 획득…AX iPaaS·패스워드리스 보안 글로벌 경쟁력 강화 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10d0FrWEVMTUFfZmVzSGFmeFdGRUlVTkhFYkFwMnN3M21MSzh6ckpTZ1VwNzNIaThsUndqbS1xZEM0Um1fUTRzVkppNkdSNkFSd2FiSGNIU09pSm1QUUQyY25GOVZfZjA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "이데아텍, ‘ISO/IEC 27001’ 획득…AX iPaaS·패스워드리스 보안 글로벌 경쟁력 강화 아이티데일리",
+      "publishedAt": "2026-05-19T04:35:49.000Z",
       "rank": 2
     },
     {
-      "id": "2b404b85f00112c1",
-      "title": "현대카드, 슈퍼콘서트 28 ‘위켄드’ 개최 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanV2SDhiQm5sUUZqX3JVaDNhM1IzMWxGbTc1WGNpNUtvaW9uOEpabk9QTl9xalJTcDROaWlsRzFQZUU0RmpRS1hGa3QxTDVpUm1VVGtEOTQwRDllV3U0MTZCMG1iay0weHlZSERSMWhSejlVTF9PTXc0NkFneUpQUlpicEFsdw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "현대카드, 슈퍼콘서트 28 ‘위켄드’ 개최 Hyundai Motor Group",
-      "publishedAt": "2026-05-19T01:22:55.000Z",
+      "id": "b0fcf6fab894c89c",
+      "title": "HD Hyundai Electric, Hyosung Heavy Industries, LS Electric See Record KRW 32 Trillion Order Backlog on AI Data Center Boom - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRVjhfbHRjTVZ0LWZ4WEE5eGVPRDVpX1ZPNHp6UHppSFh6UG81Tnc1Y0Zyc3lFX3l0Vm1rRDJGVklBM2l3dFJYaFRaQk9Ca1RKOUJ3SzNVejVsLU5rVWfSAW5BVV95cUxNZ0R5QS0xQnJMX3lfRDNLT2lqWWlJRkhTOUhSa0dMVFlYMEVTNEpoTHZ0NlJNNTNVU25VS3NZWWF3dkxZSkJQVlREbFFESm5NcjZzRTdRQnlIdTVaeEhLS1VNalFEWnFCa2xtYlk1dw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "HD Hyundai Electric, Hyosung Heavy Industries, LS Electric See Record KRW 32 Trillion Order Backlog on AI Data Center Boom 알파경제",
+      "publishedAt": "2026-05-20T00:31:58.000Z",
       "rank": 3
     },
     {
-      "id": "d37a37ad30f3f220",
-      "title": "롯데이노베이트, 피지컬 AI 경쟁력 강화 ··· ISO/IEC 42001 인증 추가 - 데이터넷",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXVk94cVlUSHRzY0twNmxtVzhJd3hMRUZIdjdTN2ZRc0FSTFN1WmxmajFPeHdXbUd3amdFRXBNQ1lDLXhvQkV3M0NNaFM0WGNTZXU5VGxWaG9xWjNyeFFrS3dzUnZMUVhXV2VLag?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, 피지컬 AI 경쟁력 강화 ··· ISO/IEC 42001 인증 추가 데이터넷",
-      "publishedAt": "2026-05-18T02:02:03.000Z",
+      "id": "f018c0ac9e865248",
+      "title": "정하일 인터엑스 CTO, 제61회 발명의 날 '대통령 표창' 수상 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNQWRaQ1dkdmdmU1NWY0JBUEJ6TUd5OWFTUlZaU0FNN0ZHZ1ZWWWJOWEJLQTNPbWY5YWIycjVKRnh3bVUtejc1dllVNmNjdw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "정하일 인터엑스 CTO, 제61회 발명의 날 '대통령 표창' 수상 전자신문",
+      "publishedAt": "2026-05-20T00:20:36.000Z",
       "rank": 4
     },
     {
-      "id": "b3ddc444353fb03b",
-      "title": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 - 파이낸스스코프",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ISW9rSWxUVWtPZFpNeXFOdUFwcWVDaWJ0RWMzY3dBOU1uWmZqYXJDSnBYbW15SHhwRGYyMGphRnF3My1RTFpoNXNick1jWEN1bm40QnoyUVhWQUFIcGRZWFdJV2Rfb0JXR0pR?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 국제표준 'ISO/IEC 42001' 획득…피지컬 AI 사업 확장 박차 파이낸스스코프",
-      "publishedAt": "2026-05-18T01:15:08.000Z",
+      "id": "0d5f3d382c75a5e0",
+      "title": "세계 임상시험의 날, “AI 도입 속도가 임상 성과 갈랐다”…메디데이터 보고서가 보여준 임상 경쟁력의 변화 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83SE50eXlHNjJ5a29GZngwM2c5RmpwSUhxVEp5V21kTGxWYThnV29tLWExY0szenVzS2FEQlZ3ek5nbTRUX0VYYm5mcnVwc1k?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "세계 임상시험의 날, “AI 도입 속도가 임상 성과 갈랐다”…메디데이터 보고서가 보여준 임상 경쟁력의 변화 벤처스퀘어",
+      "publishedAt": "2026-05-19T14:00:27.000Z",
       "rank": 5
     },
     {
-      "id": "efe268fcd028936a",
-      "title": "국제AI교육원, ISO 통합심사 및 VB 검증심사 실무교육 성료 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Z2FMQi1qbkJwNVl5SXkxdUpjVkw0bUNmM2ZEQjRDY195ME9GRjZTQ2d3cEtVTHpJNXB5SWhGZW8xUmZmMlZrdDNXMGx5Zy1UM1ZvQ1ZMbGFFZ3IwS0F2NWZGV2c?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "국제AI교육원, ISO 통합심사 및 VB 검증심사 실무교육 성료 서울경제TV",
-      "publishedAt": "2026-05-18T05:09:48.000Z",
+      "id": "d00f737f8259d5a4",
+      "title": "새로운 글로벌 연구에 따르면 제조기업의 90%가 디지털 트랜스포메이션은 이제 필수라고 답했습니다. - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96cXRIZGg3WVhXRHFKYjBRUDVhRV9nRG1MVnc1OE1NdEZNSXY5SndPMFVoVTRLa0dlSVpWWTZZck0xbExQc2wzVUhDRE5rSVdxdXBWOERoMlRRRlZtZmlF?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "새로운 글로벌 연구에 따르면 제조기업의 90%가 디지털 트랜스포메이션은 이제 필수라고 답했습니다. 뉴스1",
+      "publishedAt": "2026-05-19T10:00:00.000Z",
       "rank": 6
     },
     {
-      "id": "31221156d1c88359",
-      "title": "롯데이노베이트, AI 신뢰성 인증 확대…로봇 서비스 사업 힘 싣는다 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MejN1Umc0Q0RVYUNua2ZSbGNxSy1Zc0RLQ2lZelRja1RZeWlrTk5MZDhHWWR4akdXZ0VOMk11YWFyX21xM2NsRmJZemlGak1sN3M2d2Nn?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 신뢰성 인증 확대…로봇 서비스 사업 힘 싣는다 지디넷코리아",
-      "publishedAt": "2026-05-18T08:54:46.000Z",
+      "id": "a8a2797cacea7894",
+      "title": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시 - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQUzZ1YmI2ZlViMU5KTHd1MlpTVGpETWdQekJIRTF0ajlqV2hteTBaRmM4RXdNQ3NVd2g4SV9yVGRNbFZvVXRqaktkVUQxbjA4cGZjOXVyWFlhSWNxa2k1T09Qa0xSX3pEWTgzZkJrdW13anV2QXhRZVNoX2lkUDg5LW1CSHU5OU5fbnNoZFNmcDZnYS1XWEdNVWNEek41T0RMUE03SkFKS0s3cDlNcEpGZ2tIMVNIcGZZZFFEblZyalFZOEY5NGw2ekN0aVRHSjVsNXlyYUp3Vm95WDVqbERCa3FZMDlVM2s0VTNMU3QtUnBLMEdUWHotekVJZlFKdWxmWFJ4b3c2eU9GV2xnMTU3SFFFN2ZHWnZIYTZFUDd6SVpObGVVNHJPTGZQTmJiZjFxMjE4aQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시 cio.com",
+      "publishedAt": "2026-05-19T09:43:29.000Z",
       "rank": 7
     },
     {
-      "id": "b5e11208f2d696b4",
-      "title": "롯데이노베이트, AI 국제표준 인증 확대…AI 경쟁력 강화 - 파이낸셜투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrMmttVVQ2cVk1R0NqN1BFVlJCd1dPY3Q4UW14NF9lbUZfM2F3bVBCZ1I5UkgtY0praXpMVHI3Y25tTFk5WE1EYWdaYlJPZ01UUzZJenJFMk9IMkVzemM3YmtiQmNJOXBtaFJOdUpR0gFuQVVfeXFMUGsya21VVDZxWTVHQ2o3UEVWUkJ3V09jdDhRbXg0X2VtRl8zYXdtUEJnUjlSSC1jSmtpekxUcjdjbm1MWTlYTURhZ1piUk9nTVRTNkl6ckUyT0gyRXN6Yzdia2JCY0k5cG1oUk51SlE?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "롯데이노베이트, AI 국제표준 인증 확대…AI 경쟁력 강화 파이낸셜투데이",
-      "publishedAt": "2026-05-18T08:27:33.000Z",
+      "id": "02ca7e947c4ee2ec",
+      "title": "한국지역정보개발원-TTA, 디지털 지방정부 표준모델 구축에 ‘맞손’ - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9URWZnZ1Q0YXRGTlAwcVFtZmFlbWFlQ2d0ZU1yVWRmVlZlbFNraFp5Q2s2UmVJczB2S2hvZmFIYkZsMXFkOEFkXzF3Tnd5WXp3TkRhS0Y1a0ZnaWRmbWhoMWY4T1BwQUYxeWl1NkZncmpMckN3TDJERThaLWg?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "한국지역정보개발원-TTA, 디지털 지방정부 표준모델 구축에 ‘맞손’ 한국금융신문",
+      "publishedAt": "2026-05-19T07:28:53.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "13d2abc686cf8ffa",
-      "title": "Inside AI Dev 26 × San Francisco",
-      "url": "https://www.youtube.com/watch?v=20qpc5m5Pko",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/20qpc5m5Pko/hqdefault.jpg",
-      "publishedAt": "2026-05-12T19:45:58.000Z",
+      "id": "202421b52b748eb0",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg",
+      "publishedAt": "2026-05-13T16:07:20.000Z",
       "viewCount": 0
     },
     {
-      "id": "c682cd07e46f44c0",
-      "title": "📉 Turn your multimodal data into something you can actually query",
-      "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg",
-      "publishedAt": "2026-04-22T14:33:13.000Z",
+      "id": "54fa5a838ac37c40",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
+      "publishedAt": "2026-05-08T16:46:30.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "1f6d2f17d0da7cb5",
+      "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
+      "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/p7K3xfViWCE/hqdefault.jpg",
+      "publishedAt": "2026-05-06T16:07:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e5f5518d3f7ce22a",
+      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
+      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
+      "publishedAt": "2026-05-03T17:02:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "975f904216e8911b",
+      "title": "NVIDIA's New AI Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Xf_v62TQOx4/hqdefault.jpg",
+      "publishedAt": "2026-04-25T17:09:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "57c148246ccd5355",
+      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
+      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
+      "publishedAt": "2026-04-11T16:23:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f9caf77516aaf71f",
+      "title": "NVIDIA’s New AI Just Changed Everything",
+      "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/ZQAz_HrUq68/hqdefault.jpg",
+      "publishedAt": "2026-04-07T17:38:09.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b19f627edf7c4838",
+      "title": "Google’s New AI Just Broke My Brain",
+      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/7YVrb3-ABYE/hqdefault.jpg",
+      "publishedAt": "2026-04-01T14:21:33.000Z",
       "viewCount": 0
     }
   ],
@@ -180,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-18T03:46:00.000Z"
+      "updatedAt": "2026-05-19T03:39:23.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
