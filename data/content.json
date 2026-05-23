@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-22T03:40:44.477Z",
-  "projectsCheckedAt": "2026-05-22T03:40:44.477Z",
-  "projectsUpdatedAt": "2026-05-22T03:40:44.477Z",
+  "updatedAt": "2026-05-23T02:57:06.870Z",
+  "projectsCheckedAt": "2026-05-23T02:57:06.870Z",
+  "projectsUpdatedAt": "2026-05-23T02:57:06.870Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-22T03:40:44.477Z",
+    "checkedAt": "2026-05-23T02:57:06.870Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "8dc26d9b5654a01c",
+      "title": "[FAMS 2026] 중국품질검사협회(CAQI)와 MOU…AI모빌리티 글로벌 품질표준화 시동 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR1BZLU5oRmVVZFhtVGJuUV9scjRQX3pyNXhHbXB3MzdxNlJuZnZKZmEyTU1YNFRoTTJHdlJwQUNSY3BVMUhkTVVVRmNCLU1vWUxHMQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[FAMS 2026] 중국품질검사협회(CAQI)와 MOU…AI모빌리티 글로벌 품질표준화 시동 v.daum.net",
+      "publishedAt": "2026-05-22T03:23:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "6e733cdae45a9a97",
+      "title": "India: Higher CPI risks drive FY27 hike call – Standard Chartered - TMGM",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNxa2NLZEVBdTdYQVNiUkI4dXNPam45RVJyamNIdmVjb2Z3NUE4em1tWThmYThVNmJtM3RaWk9wSVBZek1TZE8wcmVpZWJjMURMaXZYU0pvdy1VeFUwTmx2Y1JrU2UyWlpuWVBGRVE0cXJFME83cEVkZlVJYXVJWnpvTmVMRHZSbU4wTnhDX3VLZmtZTXA2SmxwWHpIcjZ4WEstSWpQb21IclN5WF8zek5NbVlscFJDanVjY0Z6TlU3WXpIbkpn?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "India: Higher CPI risks drive FY27 hike call – Standard Chartered TMGM",
+      "publishedAt": "2026-05-21T16:23:34.000Z",
+      "rank": 2
+    },
     {
       "id": "55ec348b7818fc1a",
       "title": "인핸스, 'ISO/IEC 27001'인증 획득…AI 에이전트 신뢰성 입증 - 전자신문",
@@ -65,7 +83,16 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "인핸스, 'ISO/IEC 27001'인증 획득…AI 에이전트 신뢰성 입증 전자신문",
       "publishedAt": "2026-05-21T06:22:40.000Z",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "id": "52bbbfab114f7672",
+      "title": "서울경제진흥원, 24시간 묻고 답하는 홈페이지 안내 도우미 ‘AI 사업알리미’ 가동 - 시사타임즈",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd25mRmdkeUJPLUR4cXM0NXZrc2Y1dnRyUWdsVFMxMjJJZXI2UEMtQmFYc05jeFRJWnVlSTVxRUtHWmkxd0hYZTZiWFZvT0dEaS0tVldxaTBCRTBEZU84RWRTRUxRdmRZZEdsdGtwSE5sT1h5Uk1uVnYzUjFtakxxTw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "서울경제진흥원, 24시간 묻고 답하는 홈페이지 안내 도우미 ‘AI 사업알리미’ 가동 시사타임즈",
+      "publishedAt": "2026-05-22T02:32:43.000Z",
+      "rank": 4
     },
     {
       "id": "2179e267cc6722db",
@@ -74,134 +101,107 @@
       "source": "Google News: Digital Transformation",
       "summary": "[덴탈MBA] 단순한 도구의 통합을 넘어선 ‘시스템의 구축’ 워크 플랫폼 덴탈아리랑",
       "publishedAt": "2026-05-22T02:24:18.000Z",
-      "rank": 2
-    },
-    {
-      "id": "b5212ca0596f827c",
-      "title": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시리즈-신뢰할 수 있는 인공지능 만들기(5/26(화)) - 서울대학교",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Mzk5cExOUXYxSHJCTnZsWGFIeGZXRUt5RWo0TWdkWlpxcnQzeG1uWlBJWmN3a2ozODdESHVLX0tqcXZvaUlxOGdXUldJMkx1b0E5MlZuaF9XcG9IRlctbTF3dE8?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시리즈-신뢰할 수 있는 인공지능 만들기(5/26(화)) 서울대학교",
-      "publishedAt": "2026-05-22T01:42:55.000Z",
-      "rank": 3
-    },
-    {
-      "id": "cc02e1728cbbb670",
-      "title": "서경란의 중소기업 정책설명서(11) \"중소기업 R&D는 국가 전략 자산\"...서경란 소장이 말하는 '함께 빨리 가는' 기술 혁신 [굿모닝 인천] | - 경인방송 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91a2xLcmdhX1BBa3J2UDJqVHBLSEJUcHZfOVVHQ1NYQ0pDVHc4bmVjS1NzMzhWZl8yLWVxSzVyRGdqbGZjSkExaXlaRUFHVXBvZmQ4cVRTSG1ua1BxWmVjcnpqOHZWTUd0?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "서경란의 중소기업 정책설명서(11) \"중소기업 R&D는 국가 전략 자산\"...서경란 소장이 말하는 '함께 빨리 가는' 기술 혁신 [굿모닝 인천] | 경인방송 뉴스",
-      "publishedAt": "2026-05-22T01:20:53.000Z",
-      "rank": 4
-    },
-    {
-      "id": "03de1cede452a20c",
-      "title": "[AI and Humanity (12) – Interview] Lalit Agarwal, MERI Vice Chancellor “AI should be an engine for the peace of mankind” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FU2VDdkF6Z0h1bkhiOXZReGI4T2QzZ2tPVnlRS1MydmcxRjdqWU5iVVR5ZzhzMDk4UGhYT2tYeUp6a3FiajBocndjZXd4bWxuQjhIRlg5dTU3UjVBTkJ3ZmhUS0ZZejQ3SUE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[AI and Humanity (12) – Interview] Lalit Agarwal, MERI Vice Chancellor “AI should be an engine for the peace of mankind” 천지일보",
-      "publishedAt": "2026-05-21T22:00:00.000Z",
       "rank": 5
     },
     {
-      "id": "d30e25e84aea86d3",
-      "title": "더그리트, ISO 국제표준 인증 4종 확보… 글로벌 수준 운영 경쟁력 입증 - 한경매거진&북",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHOTJiaF81U08ydGJRUllxSkEyYW1fTHNRVDNraEFoeUhyeW1RNFllZEtvazdRMUJILVVkZl82a191SW5jM3k2c2dadWotT0JyNlpJRlhlcmI1ekR1bnJseWlfQVhZM2c0NXdWTg?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "더그리트, ISO 국제표준 인증 4종 확보… 글로벌 수준 운영 경쟁력 입증 한경매거진&북",
-      "publishedAt": "2026-05-21T06:32:00.000Z",
+      "id": "cc655f638a061878",
+      "title": "연암대, ‘K-스마트팜 AID 허브대학’ 본격 가동 - 대학저널",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVVlJd1ZOamNBWU9NR2FtSk5YZ2dwX25CcHd1VlhWMm5RZnlNYjRpTXljem1CRG9mUFFlMHlkZ2hXMzROcTByNHVXZExIbHBZaEJPRXFma2FNa2fSAWpBVV95cUxQdHVQQWY0N181SGVzVlU5a2lhODNjUHFVMWtVc0R5RVdkVmZGV1pURm96QnZEOTlmUnhJeEp6OXBsNVhOOGUwWmxuSnRFZGtKY0JfREl1b1ZUVGozXy05ZlluendZS29UeVZR?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "연암대, ‘K-스마트팜 AID 허브대학’ 본격 가동 대학저널",
+      "publishedAt": "2026-05-22T02:24:07.000Z",
       "rank": 6
     },
     {
-      "id": "1a0b3f9104a37920",
-      "title": "Quanta Computer selects Siemens Xcelerator - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBncWt3aERDWnEwTHV0NjFzdHRrVko0SEFBYlhQel8tTzNZWEMzWUktUFBwTWJrWmlhWDJEZUNNUlhyeTRydi10WS1lMi0wWXpFQUtWd0c0SFhMenlSY3gyZlNZYS1Ndw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Quanta Computer selects Siemens Xcelerator Siemens",
-      "publishedAt": "2026-05-21T15:36:09.000Z",
+      "id": "f5945d0391ffcc55",
+      "title": "LS Electric Accelerates Smart Power Infrastructure Push as AI Data Center Demand Surges - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NQV9Zdk5YcWlCOExPbW0xdkRyMmM3WDFSODBMbHptb0M3Z2F2SUpGTWtDTWZ0cnllYzVBQUVQWHpMdS1jYXFLMTB2ZWc2T1hPNlFIS2NhdjlOOVRGakZLTHo1RzJBaGxZcnd6RDh6UmU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "LS Electric Accelerates Smart Power Infrastructure Push as AI Data Center Demand Surges Korea IT Times",
+      "publishedAt": "2026-05-22T02:18:55.000Z",
       "rank": 7
     },
     {
-      "id": "9f7f7e9408193199",
-      "title": "Hikvision brings AI to video compression with Guanlan Encoding, cutting storage costs by up to 50% - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GTWxfNDRtWEN6SS1DckF0WWRaRjZTM2RXa1F4YVplZDZjTUlrd3NfUTdoZTkwSGlNSEc3X3NpTUJUVTRldllfNS00dzNOVHN4dGxZSXdvU3dDUVpRdDA4SnAyaEsyTmxw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Hikvision brings AI to video compression with Guanlan Encoding, cutting storage costs by up to 50% KIPOST",
-      "publishedAt": "2026-05-21T09:22:00.000Z",
+      "id": "ecee9ecde9ed4369",
+      "title": "대구보건대 고주연 교수, 과기정통부 장관 표창 수상...한국인 균형능력 참조표준 개발 공로 인정 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fTEFJaGdMZndWZXZ6bXhtc3ZVME83V2hMNjBVRVh0UUVXbklyd2NTOUVnbmlTaWJzN3Z6Vi11UzFKZw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "대구보건대 고주연 교수, 과기정통부 장관 표창 수상...한국인 균형능력 참조표준 개발 공로 인정 브레이크뉴스",
+      "publishedAt": "2026-05-22T02:05:50.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "202421b52b748eb0",
-      "title": "NVIDIA New AI Is An Efficiency Monster",
-      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg",
-      "publishedAt": "2026-05-13T16:07:20.000Z",
+      "id": "30adc0e3791c72b2",
+      "title": "What's new in Google AI",
+      "url": "https://www.youtube.com/watch?v=SSe1VmVrtw0",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/SSe1VmVrtw0/hqdefault.jpg",
+      "publishedAt": "2026-05-23T00:45:21.000Z",
       "viewCount": 0
     },
     {
-      "id": "54fa5a838ac37c40",
-      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
-      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
-      "publishedAt": "2026-05-08T16:46:30.000Z",
+      "id": "9e313c81e92dca65",
+      "title": "SpaceX Starship Rocket Takes Off From Texas",
+      "url": "https://www.youtube.com/watch?v=B-Nuk6XrfZw",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/B-Nuk6XrfZw/hqdefault.jpg",
+      "publishedAt": "2026-05-22T23:23:34.000Z",
       "viewCount": 0
     },
     {
-      "id": "1f6d2f17d0da7cb5",
-      "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
-      "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/p7K3xfViWCE/hqdefault.jpg",
-      "publishedAt": "2026-05-06T16:07:54.000Z",
+      "id": "60278e2ed1603cf9",
+      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
+      "url": "https://www.youtube.com/watch?v=fAfuQN0WwFE",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg",
+      "publishedAt": "2026-05-22T23:14:59.000Z",
       "viewCount": 0
     },
     {
-      "id": "e5f5518d3f7ce22a",
-      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
-      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
-      "publishedAt": "2026-05-03T17:02:48.000Z",
+      "id": "932ad9cc48e88e6c",
+      "title": "Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi",
+      "url": "https://www.youtube.com/watch?v=RsDSeMXaCak",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/RsDSeMXaCak/hqdefault.jpg",
+      "publishedAt": "2026-05-22T23:00:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "975f904216e8911b",
-      "title": "NVIDIA's New AI Broke My Brain",
-      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/Xf_v62TQOx4/hqdefault.jpg",
-      "publishedAt": "2026-04-25T17:09:47.000Z",
+      "id": "0aae07c5a9de100e",
+      "title": "Workspace agents in ChatGPT: Admin and builder controls",
+      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/HaaKUFAOi84/hqdefault.jpg",
+      "publishedAt": "2026-05-22T22:48:37.000Z",
       "viewCount": 0
     },
     {
-      "id": "57c148246ccd5355",
-      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
-      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
-      "publishedAt": "2026-04-11T16:23:48.000Z",
+      "id": "f0359a217224c823",
+      "title": "The future of software development",
+      "url": "https://www.youtube.com/watch?v=v0RQiNJ9nhw",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/v0RQiNJ9nhw/hqdefault.jpg",
+      "publishedAt": "2026-05-22T22:45:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "f9caf77516aaf71f",
-      "title": "NVIDIA’s New AI Just Changed Everything",
-      "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/ZQAz_HrUq68/hqdefault.jpg",
-      "publishedAt": "2026-04-07T17:38:09.000Z",
+      "id": "49ee7d60d6502f71",
+      "title": "Create and edit presentations faster in PowerPoint",
+      "url": "https://www.youtube.com/watch?v=ECkHTfvf2e8",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/ECkHTfvf2e8/hqdefault.jpg",
+      "publishedAt": "2026-05-22T19:41:41.000Z",
       "viewCount": 0
     },
     {
-      "id": "b19f627edf7c4838",
-      "title": "Google’s New AI Just Broke My Brain",
-      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/7YVrb3-ABYE/hqdefault.jpg",
-      "publishedAt": "2026-04-01T14:21:33.000Z",
+      "id": "989eb2db5cb64717",
+      "title": "Bring the power of on-device AI to life with Google AI Edge and Gemma",
+      "url": "https://www.youtube.com/watch?v=boy-UjB8hpA",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/boy-UjB8hpA/hqdefault.jpg",
+      "publishedAt": "2026-05-22T19:00:42.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-21T03:46:55.000Z"
+      "updatedAt": "2026-05-22T03:44:48.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
