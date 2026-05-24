@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-23T02:57:06.870Z",
-  "projectsCheckedAt": "2026-05-23T02:57:06.870Z",
-  "projectsUpdatedAt": "2026-05-23T02:57:06.870Z",
+  "updatedAt": "2026-05-24T03:37:35.953Z",
+  "projectsCheckedAt": "2026-05-24T03:37:35.953Z",
+  "projectsUpdatedAt": "2026-05-24T03:37:35.953Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,45 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-23T02:57:06.870Z",
+    "checkedAt": "2026-05-24T03:37:35.953Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "8dc26d9b5654a01c",
-      "title": "[FAMS 2026] 중국품질검사협회(CAQI)와 MOU…AI모빌리티 글로벌 품질표준화 시동 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR1BZLU5oRmVVZFhtVGJuUV9scjRQX3pyNXhHbXB3MzdxNlJuZnZKZmEyTU1YNFRoTTJHdlJwQUNSY3BVMUhkTVVVRmNCLU1vWUxHMQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[FAMS 2026] 중국품질검사협회(CAQI)와 MOU…AI모빌리티 글로벌 품질표준화 시동 v.daum.net",
-      "publishedAt": "2026-05-22T03:23:00.000Z",
+      "id": "31cef625bce6194e",
+      "title": "#19. 대한민국 AI 철학은? - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TdEdXSXhjU21JUHZCOTU4Wml3d2RyX0xBc2tRbVZRTDNCeDc2MkVwb0hQamxGTnRGRDNBOVk5Uy1SMHMyWktQaXlDTQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "#19. 대한민국 AI 철학은? 브런치",
+      "publishedAt": "2026-05-23T01:54:29.000Z",
       "rank": 1
+    },
+    {
+      "id": "e0137827e16f0d28",
+      "title": "슈어소프트테크, 'AI 기본법' 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 'AI MASTER' 인증 지원 - news.dlwlrmaon.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waWRCWWZZOHI0NU5ZcUtXVnUzVGdlRXZTeEhnQ3dMVTVZeU8zRktac1QtUUVuQzZhb0pOd3labW1VS0NqekNyQnpVUW03anhoVWp3?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "슈어소프트테크, 'AI 기본법' 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 'AI MASTER' 인증 지원 news.dlwlrmaon.com",
+      "publishedAt": "2026-05-23T01:12:27.000Z",
+      "rank": 2
+    },
+    {
+      "id": "29ca435262f665d2",
+      "title": "[Column] 'Humans,' Not Robots, Collect Data… Human Trajectory, the New Standard for the Physical AI Era - Shim Dong-hyun, CEO of Watts Lab - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVl9XV0JrMDYwTlc2Q2lhTTRHN3RVMDBJQ0VSSWRPVE1zd3JHYTNoUV9TNjNZbU9FWDNiNHpCbHVHakxBUTdSd3dSWTNGQm5DSld2OUFwemYxd1pnVEd6ZVZveXZjdGfSAWtBVV95cUxQOFBGdTItaG96Uy15RGFBM2V1M3FEY1p2TmFqZnA4a2NWQ3NpN1FTQld6OTdwLV8zN0ZtSHpvNzRQREs2bGRucDZscm9QV2RHREhmQjZZSFRybFk1M3BlM2RlUWZxbHNNUVBlYw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "[Column] 'Humans,' Not Robots, Collect Data… Human Trajectory, the New Standard for the Physical AI Era - Shim Dong-hyun, CEO of Watts Lab 에이빙",
+      "publishedAt": "2026-05-22T06:58:37.000Z",
+      "rank": 3
+    },
+    {
+      "id": "bd30cd122aa15631",
+      "title": "“The Era of AI Intervening in the Buying Journey”… Appier Unveils Agency Commerce Strategy at CMTS - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sLS10M2podWZTcW5SSkhsYlY3MDkwTXE2aWs1eWNEaVJPYWcxMFdpNmtJTHhUeW9MT1NWdEc1WnkxR1ljdzN0WEpvclhtU2I0bnNJ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "“The Era of AI Intervening in the Buying Journey”… Appier Unveils Agency Commerce Strategy at CMTS 벤처스퀘어",
+      "publishedAt": "2026-05-22T06:54:12.000Z",
+      "rank": 4
     },
     {
       "id": "6e733cdae45a9a97",
@@ -74,7 +101,7 @@
       "source": "Google News: International Standardization",
       "summary": "India: Higher CPI risks drive FY27 hike call – Standard Chartered TMGM",
       "publishedAt": "2026-05-21T16:23:34.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "55ec348b7818fc1a",
@@ -83,25 +110,7 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "인핸스, 'ISO/IEC 27001'인증 획득…AI 에이전트 신뢰성 입증 전자신문",
       "publishedAt": "2026-05-21T06:22:40.000Z",
-      "rank": 3
-    },
-    {
-      "id": "52bbbfab114f7672",
-      "title": "서울경제진흥원, 24시간 묻고 답하는 홈페이지 안내 도우미 ‘AI 사업알리미’ 가동 - 시사타임즈",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd25mRmdkeUJPLUR4cXM0NXZrc2Y1dnRyUWdsVFMxMjJJZXI2UEMtQmFYc05jeFRJWnVlSTVxRUtHWmkxd0hYZTZiWFZvT0dEaS0tVldxaTBCRTBEZU84RWRTRUxRdmRZZEdsdGtwSE5sT1h5Uk1uVnYzUjFtakxxTw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "서울경제진흥원, 24시간 묻고 답하는 홈페이지 안내 도우미 ‘AI 사업알리미’ 가동 시사타임즈",
-      "publishedAt": "2026-05-22T02:32:43.000Z",
-      "rank": 4
-    },
-    {
-      "id": "2179e267cc6722db",
-      "title": "[덴탈MBA] 단순한 도구의 통합을 넘어선 ‘시스템의 구축’ 워크 플랫폼 - 덴탈아리랑",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RdllRQUVRX0JzdDIzM3BSMkVkYi1RaThGdFBGU0ZDN1VRQnZQWHRzdnVwUDFMSmZ0WEhzMlhqT3g5b2RXdFVjWFNrbktMd1FNcklNbjhsU2g1ZGJ6bHBIVGltdHdUUER0TXFSLUlrWU8?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[덴탈MBA] 단순한 도구의 통합을 넘어선 ‘시스템의 구축’ 워크 플랫폼 덴탈아리랑",
-      "publishedAt": "2026-05-22T02:24:18.000Z",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "cc655f638a061878",
@@ -110,7 +119,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "연암대, ‘K-스마트팜 AID 허브대학’ 본격 가동 대학저널",
       "publishedAt": "2026-05-22T02:24:07.000Z",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "f5945d0391ffcc55",
@@ -119,15 +128,6 @@
       "source": "Google News: AI Data Quality",
       "summary": "LS Electric Accelerates Smart Power Infrastructure Push as AI Data Center Demand Surges Korea IT Times",
       "publishedAt": "2026-05-22T02:18:55.000Z",
-      "rank": 7
-    },
-    {
-      "id": "ecee9ecde9ed4369",
-      "title": "대구보건대 고주연 교수, 과기정통부 장관 표창 수상...한국인 균형능력 참조표준 개발 공로 인정 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fTEFJaGdMZndWZXZ6bXhtc3ZVME83V2hMNjBVRVh0UUVXbklyd2NTOUVnbmlTaWJzN3Z6Vi11UzFKZw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "대구보건대 고주연 교수, 과기정통부 장관 표창 수상...한국인 균형능력 참조표준 개발 공로 인정 브레이크뉴스",
-      "publishedAt": "2026-05-22T02:05:50.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-22T03:44:48.000Z"
+      "updatedAt": "2026-05-23T03:01:10.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
