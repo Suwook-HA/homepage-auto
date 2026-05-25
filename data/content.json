@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-24T03:37:35.953Z",
-  "projectsCheckedAt": "2026-05-24T03:37:35.953Z",
-  "projectsUpdatedAt": "2026-05-24T03:37:35.953Z",
+  "updatedAt": "2026-05-25T03:52:10.021Z",
+  "projectsCheckedAt": "2026-05-25T03:52:10.021Z",
+  "projectsUpdatedAt": "2026-05-25T03:52:10.021Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,54 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-24T03:37:35.953Z",
+    "checkedAt": "2026-05-25T03:52:10.021Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "31cef625bce6194e",
+      "id": "210c6917be85f950",
+      "title": "후보 물질을 찾아 다니던 R&D 비서 AI, 이젠 전략까지 짠다 - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOVk5akhhVFBEdXo4aXpCTTB2MW5EMklGMEMxbUdQQmFVTGVQMm5lWlVQQ1E1N1o5OTR5djlUajlSQ0toa1BVXzhlMmF0WE40TEp5U3hZcW9SN3RWR0VlR3hZOENJc190T3Jn?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "후보 물질을 찾아 다니던 R&D 비서 AI, 이젠 전략까지 짠다 히트뉴스",
+      "publishedAt": "2026-05-24T21:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "eb9f3e49663a9245",
+      "title": "노보 노디스크, Veeva Clinical Data를 통해 임상시험 구축 가속화 및 사이클 타임 단축 - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFNCMGNGWWM1aGZ2dWVNZU1vRk1ZLUlJQVM5cXJ4WkxWNlNjSGZjT3FQcmIyQTM4ME5BVUROM0thSXhmQklBX2hnZmswNFFoN0Z3YUJJUWhGZFh6U0k2N21PWlRGYW1fWWFFcXNoMkFBS1A1cjA2Z2VNLTRBNDBGNzN2WFFSV19HcHdtY3NXcE82NGpNNVFDVE1jZnE1SUdkU2k1TDhjREp4cUQyQTdhODEyMVg3RmlOTFNUZW5HMlNjb2xZWHc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "노보 노디스크, Veeva Clinical Data를 통해 임상시험 구축 가속화 및 사이클 타임 단축 Veeva",
+      "publishedAt": "2026-05-24T16:05:11.000Z",
+      "rank": 2
+    },
+    {
+      "id": "ded446df938abd55",
       "title": "#19. 대한민국 AI 철학은? - 브런치",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TdEdXSXhjU21JUHZCOTU4Wml3d2RyX0xBc2tRbVZRTDNCeDc2MkVwb0hQamxGTnRGRDNBOVk5Uy1SMHMyWktQaXlDTQ?oc=5",
       "source": "Google News: Trustworthy AI",
       "summary": "#19. 대한민국 AI 철학은? 브런치",
-      "publishedAt": "2026-05-23T01:54:29.000Z",
-      "rank": 1
+      "publishedAt": "2026-05-24T05:37:30.000Z",
+      "rank": 3
+    },
+    {
+      "id": "69fa317753c83182",
+      "title": "日, AI·반도체 등 '국제표준' 주도권 잡는다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxLUQ5WnpmM1pZNDMtUEFMbkhtcFRnUW9TeHFraUhmeDlxS1ptNU9MelVwbnZoTnBBdkxnTWxCQXVVdFk1TmJEUUZEdldtWEk?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "日, AI·반도체 등 '국제표준' 주도권 잡는다 v.daum.net",
+      "publishedAt": "2026-05-23T23:12:02.000Z",
+      "rank": 4
+    },
+    {
+      "id": "daa9ded02d96a87e",
+      "title": "서울경제진흥원 홈페이지 도우미 ‘AI 사업알리미’ 가동 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdE5iejEtakJMTGc3RVFON040NlBLTlVmbGx4Ql85M3VRYW1qdkl4LXRZWENCNlNyVTMyZEVSQUxSQzJmRExYV0V3bFFWVTVVd0FVOXN3?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "서울경제진흥원 홈페이지 도우미 ‘AI 사업알리미’ 가동 헤럴드경제",
+      "publishedAt": "2026-05-23T03:32:01.000Z",
+      "rank": 5
     },
     {
       "id": "e0137827e16f0d28",
@@ -74,25 +110,16 @@
       "source": "Google News: Trustworthy AI",
       "summary": "슈어소프트테크, 'AI 기본법' 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 'AI MASTER' 인증 지원 news.dlwlrmaon.com",
       "publishedAt": "2026-05-23T01:12:27.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
-      "id": "29ca435262f665d2",
-      "title": "[Column] 'Humans,' Not Robots, Collect Data… Human Trajectory, the New Standard for the Physical AI Era - Shim Dong-hyun, CEO of Watts Lab - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVl9XV0JrMDYwTlc2Q2lhTTRHN3RVMDBJQ0VSSWRPVE1zd3JHYTNoUV9TNjNZbU9FWDNiNHpCbHVHakxBUTdSd3dSWTNGQm5DSld2OUFwemYxd1pnVEd6ZVZveXZjdGfSAWtBVV95cUxQOFBGdTItaG96Uy15RGFBM2V1M3FEY1p2TmFqZnA4a2NWQ3NpN1FTQld6OTdwLV8zN0ZtSHpvNzRQREs2bGRucDZscm9QV2RHREhmQjZZSFRybFk1M3BlM2RlUWZxbHNNUVBlYw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "[Column] 'Humans,' Not Robots, Collect Data… Human Trajectory, the New Standard for the Physical AI Era - Shim Dong-hyun, CEO of Watts Lab 에이빙",
-      "publishedAt": "2026-05-22T06:58:37.000Z",
-      "rank": 3
-    },
-    {
-      "id": "bd30cd122aa15631",
-      "title": "“The Era of AI Intervening in the Buying Journey”… Appier Unveils Agency Commerce Strategy at CMTS - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sLS10M2podWZTcW5SSkhsYlY3MDkwTXE2aWs1eWNEaVJPYWcxMFdpNmtJTHhUeW9MT1NWdEc1WnkxR1ljdzN0WEpvclhtU2I0bnNJ?oc=5",
+      "id": "66a8327e025f8713",
+      "title": "한국외대·셀트리온스킨큐어·세종디엑스, DX 전문인재 양성 맞손 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBINXcwemNqQ0FLdzFqa29iUFphRE5FakszTy1lQW5pX1BrNE1SS29qUS04TVZDTi0zeFNLaUpadlNPbjlJWm9TNmRHUmRoME1uRVllMHdVSThnQUQ2OURtcGZTUFdYallWMkFNUW50LVZIRUo40gF0QVVfeXFMUEg1dzB6Y2pDQUt3MWprb2JQWmFETkVqSzNPLWVBbmlfUGs0TVJLb2pRLThNVkNOLTN4U0tpSlp2U09uOUlab1M2ZEdSZGgwTW5FWWUwd1VJOGdBRDY5RG1wZlNQV1hqWVYyQU1RbnQtVkhFSjg?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "“The Era of AI Intervening in the Buying Journey”… Appier Unveils Agency Commerce Strategy at CMTS 벤처스퀘어",
-      "publishedAt": "2026-05-22T06:54:12.000Z",
-      "rank": 4
+      "summary": "한국외대·셀트리온스킨큐어·세종디엑스, DX 전문인재 양성 맞손 이뉴스투데이",
+      "publishedAt": "2026-05-22T04:02:07.000Z",
+      "rank": 7
     },
     {
       "id": "6e733cdae45a9a97",
@@ -101,33 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "India: Higher CPI risks drive FY27 hike call – Standard Chartered TMGM",
       "publishedAt": "2026-05-21T16:23:34.000Z",
-      "rank": 5
-    },
-    {
-      "id": "55ec348b7818fc1a",
-      "title": "인핸스, 'ISO/IEC 27001'인증 획득…AI 에이전트 신뢰성 입증 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01RkVGalBTbDlySU1FdjNmLWxkQnF5NTB0dGxLWFN4eEdMdF80VnJKNm5Ta2x5ZzJYc0tRUDBldk1TN1d5RXN6SDJmbGM?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "인핸스, 'ISO/IEC 27001'인증 획득…AI 에이전트 신뢰성 입증 전자신문",
-      "publishedAt": "2026-05-21T06:22:40.000Z",
-      "rank": 6
-    },
-    {
-      "id": "cc655f638a061878",
-      "title": "연암대, ‘K-스마트팜 AID 허브대학’ 본격 가동 - 대학저널",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVVlJd1ZOamNBWU9NR2FtSk5YZ2dwX25CcHd1VlhWMm5RZnlNYjRpTXljem1CRG9mUFFlMHlkZ2hXMzROcTByNHVXZExIbHBZaEJPRXFma2FNa2fSAWpBVV95cUxQdHVQQWY0N181SGVzVlU5a2lhODNjUHFVMWtVc0R5RVdkVmZGV1pURm96QnZEOTlmUnhJeEp6OXBsNVhOOGUwWmxuSnRFZGtKY0JfREl1b1ZUVGozXy05ZlluendZS29UeVZR?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "연암대, ‘K-스마트팜 AID 허브대학’ 본격 가동 대학저널",
-      "publishedAt": "2026-05-22T02:24:07.000Z",
-      "rank": 7
-    },
-    {
-      "id": "f5945d0391ffcc55",
-      "title": "LS Electric Accelerates Smart Power Infrastructure Push as AI Data Center Demand Surges - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NQV9Zdk5YcWlCOExPbW0xdkRyMmM3WDFSODBMbHptb0M3Z2F2SUpGTWtDTWZ0cnllYzVBQUVQWHpMdS1jYXFLMTB2ZWc2T1hPNlFIS2NhdjlOOVRGakZLTHo1RzJBaGxZcnd6RDh6UmU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "LS Electric Accelerates Smart Power Infrastructure Push as AI Data Center Demand Surges Korea IT Times",
-      "publishedAt": "2026-05-22T02:18:55.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-23T03:01:10.000Z"
+      "updatedAt": "2026-05-24T03:41:39.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
