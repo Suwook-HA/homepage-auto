@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-25T03:52:10.021Z",
-  "projectsCheckedAt": "2026-05-25T03:52:10.021Z",
-  "projectsUpdatedAt": "2026-05-25T03:52:10.021Z",
+  "updatedAt": "2026-05-26T03:34:36.724Z",
+  "projectsCheckedAt": "2026-05-26T03:34:36.724Z",
+  "projectsUpdatedAt": "2026-05-26T03:34:36.724Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-25T03:52:10.021Z",
+    "checkedAt": "2026-05-26T03:34:36.724Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "210c6917be85f950",
-      "title": "후보 물질을 찾아 다니던 R&D 비서 AI, 이젠 전략까지 짠다 - 히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOVk5akhhVFBEdXo4aXpCTTB2MW5EMklGMEMxbUdQQmFVTGVQMm5lWlVQQ1E1N1o5OTR5djlUajlSQ0toa1BVXzhlMmF0WE40TEp5U3hZcW9SN3RWR0VlR3hZOENJc190T3Jn?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "후보 물질을 찾아 다니던 R&D 비서 AI, 이젠 전략까지 짠다 히트뉴스",
-      "publishedAt": "2026-05-24T21:00:00.000Z",
+      "id": "2fa6697e5b392de7",
+      "title": "수자원공사, AI 관로진단 기술…ITU 국제표준 과제 채택 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRzhrdzNockJqc2JuaW95ZlpEUkR2MlNzRTR1aTJ6X29IQUJocll1NlZfOEFuZFlCd1dWTW9rOW5NV3YwVWp6bTdXcVlNLVJfazQ5c2U5TDlROGFJRENaTE94Vm05Sjh0X25rajhRNzI3bmJYbEpva044UDJIdTBzTVJTaDk1TkNWb09aSDFPU012X2x2WlE4MllYTElQTTI0d1BQRC1VQ1JSOThFa1I1MXROMmhtc0RCZkRmU25ibnB2Vms2ZDVZcVlXNm1ZWWFEUndfOHpqUVpKWjIwM3RkUGs5NUxieXF0N1NYWFlWONIB7wFBVV95cUxNRzhrdzNockJqc2JuaW95ZlpEUkR2MlNzRTR1aTJ6X29IQUJocll1NlZfOEFuZFlCd1dWTW9rOW5NV3YwVWp6bTdXcVlNLVJfazQ5c2U5TDlROGFJRENaTE94Vm05Sjh0X25rajhRNzI3bmJYbEpva044UDJIdTBzTVJTaDk1TkNWb09aSDFPU012X2x2WlE4MllYTElQTTI0d1BQRC1VQ1JSOThFa1I1MXROMmhtc0RCZkRmU25ibnB2Vms2ZDVZcVlXNm1ZWWFEUndfOHpqUVpKWjIwM3RkUGs5NUxieXF0N1NYWFlWOA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "수자원공사, AI 관로진단 기술…ITU 국제표준 과제 채택 데일리안",
+      "publishedAt": "2026-05-26T01:30:00.000Z",
       "rank": 1
     },
     {
-      "id": "eb9f3e49663a9245",
-      "title": "노보 노디스크, Veeva Clinical Data를 통해 임상시험 구축 가속화 및 사이클 타임 단축 - Veeva",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFNCMGNGWWM1aGZ2dWVNZU1vRk1ZLUlJQVM5cXJ4WkxWNlNjSGZjT3FQcmIyQTM4ME5BVUROM0thSXhmQklBX2hnZmswNFFoN0Z3YUJJUWhGZFh6U0k2N21PWlRGYW1fWWFFcXNoMkFBS1A1cjA2Z2VNLTRBNDBGNzN2WFFSV19HcHdtY3NXcE82NGpNNVFDVE1jZnE1SUdkU2k1TDhjREp4cUQyQTdhODEyMVg3RmlOTFNUZW5HMlNjb2xZWHc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "노보 노디스크, Veeva Clinical Data를 통해 임상시험 구축 가속화 및 사이클 타임 단축 Veeva",
-      "publishedAt": "2026-05-24T16:05:11.000Z",
+      "id": "0c40eb2c0424fb49",
+      "title": "Silicon Motion Achieves ISO 26262 Certification for Automotive Applications - 세계뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CcVc4X3BIckxPMmdnWkhIXzZwS21QZ3pUQ3lTalZUX0Nqd1NCMUQzeDU5cVJzb1NuOFQtLVNzUVp6OEJZLW8tTnRkOXlwMjZMVzFVY1Q1S296d09Kc2xKMDFLX3pZTHo2QjVnYi1IYkJ0Ylot?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Silicon Motion Achieves ISO 26262 Certification for Automotive Applications 세계뉴스통신",
+      "publishedAt": "2026-05-26T00:13:04.000Z",
       "rank": 2
     },
     {
-      "id": "ded446df938abd55",
-      "title": "#19. 대한민국 AI 철학은? - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TdEdXSXhjU21JUHZCOTU4Wml3d2RyX0xBc2tRbVZRTDNCeDc2MkVwb0hQamxGTnRGRDNBOVk5Uy1SMHMyWktQaXlDTQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "#19. 대한민국 AI 철학은? 브런치",
-      "publishedAt": "2026-05-24T05:37:30.000Z",
+      "id": "50173dd4f413b644",
+      "title": "위세아이텍, 8년 연속 공공데이터 품질관리 사업 수주 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zSXNvNHREdzB1TzYzZXB6WmVnRUJvQzVyaHhBbzkxdVFOTldZTzNMVkxRRXE5bjNseXpxMkh6aUI0WHpBd1pNVGVHekhuYlBWdGlEM09VY3FiaFc0WHZZY3RldkxpZ19jdEszN05IZVlrZ9IBckFVX3lxTE4zSXNvNHREdzB1TzYzZXB6WmVnRUJvQzVyaHhBbzkxdVFOTldZTzNMVkxRRXE5bjNseXpxMkh6aUI0WHpBd1pNVGVHekhuYlBWdGlEM09VY3FiaFc0WHZZY3RldkxpZ19jdEszN05IZVlrZw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "위세아이텍, 8년 연속 공공데이터 품질관리 사업 수주 - 머니투데이 머니투데이",
+      "publishedAt": "2026-05-26T02:30:23.000Z",
       "rank": 3
     },
     {
-      "id": "69fa317753c83182",
-      "title": "日, AI·반도체 등 '국제표준' 주도권 잡는다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxLUQ5WnpmM1pZNDMtUEFMbkhtcFRnUW9TeHFraUhmeDlxS1ptNU9MelVwbnZoTnBBdkxnTWxCQXVVdFk1TmJEUUZEdldtWEk?oc=5",
+      "id": "2acb69ea0cd221a1",
+      "title": "한국수자원공사, AI 상수도 관로 진단기술 국제표준화 본격 추진 - 세계환경신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOWt1a19xMmUybjh2MG94TVNKOVZjMXBpa0JUSVAzcHlCYlM2VzZaeS04SE1CZ1RvTVpkUWExMHY4RThsXzAwWXpMWXFiNG1kd0o0VzU5VXRLSUtfQ1hV?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "日, AI·반도체 등 '국제표준' 주도권 잡는다 v.daum.net",
-      "publishedAt": "2026-05-23T23:12:02.000Z",
+      "summary": "한국수자원공사, AI 상수도 관로 진단기술 국제표준화 본격 추진 세계환경신문",
+      "publishedAt": "2026-05-26T02:06:00.000Z",
       "rank": 4
     },
     {
-      "id": "daa9ded02d96a87e",
-      "title": "서울경제진흥원 홈페이지 도우미 ‘AI 사업알리미’ 가동 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdE5iejEtakJMTGc3RVFON040NlBLTlVmbGx4Ql85M3VRYW1qdkl4LXRZWENCNlNyVTMyZEVSQUxSQzJmRExYV0V3bFFWVTVVd0FVOXN3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "서울경제진흥원 홈페이지 도우미 ‘AI 사업알리미’ 가동 헤럴드경제",
-      "publishedAt": "2026-05-23T03:32:01.000Z",
+      "id": "75567509154c93a7",
+      "title": "수자원공사, AI 기반 상수도 관로 진단 국제표준화 추진 - 충남일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aSEU3WE1SaEVGaHBnc3VQejQ3eDhJbEhTWm8zaXU5MXJrX3kxdUNJRVBwOFNLYXU4enB1X2FQNDA3UF9RclB0N29WRTlFaS1GZ2hOLU5vVE5SeGZacWY0RjdRNjdXOHdhaUpIMkdnRG5zZWc?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "수자원공사, AI 기반 상수도 관로 진단 국제표준화 추진 충남일보",
+      "publishedAt": "2026-05-26T02:01:35.000Z",
       "rank": 5
     },
     {
-      "id": "e0137827e16f0d28",
-      "title": "슈어소프트테크, 'AI 기본법' 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 'AI MASTER' 인증 지원 - news.dlwlrmaon.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waWRCWWZZOHI0NU5ZcUtXVnUzVGdlRXZTeEhnQ3dMVTVZeU8zRktac1QtUUVuQzZhb0pOd3labW1VS0NqekNyQnpVUW03anhoVWp3?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "슈어소프트테크, 'AI 기본법' 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 'AI MASTER' 인증 지원 news.dlwlrmaon.com",
-      "publishedAt": "2026-05-23T01:12:27.000Z",
+      "id": "7e22a3f7cf945a84",
+      "title": "\"AI가 연구개발 행위자로\"…서울서 'AI시대 R&D 전략' 국제포럼 개최 - 유니콘팩토리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzWUNDUkV4dzI0dDJHc1hDMEZHVzRzUGNubU1PM2M0S0Z0T3lIMV9WcXhZSlA4WktWdHVnVkI2Y1NneVV4SzI0dEtpZFdtX2VudnlzbnJtWEthR3N6UUtOT1hkVy1nZXU5Y1B0Ug?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "\"AI가 연구개발 행위자로\"…서울서 'AI시대 R&D 전략' 국제포럼 개최 유니콘팩토리",
+      "publishedAt": "2026-05-26T02:00:15.000Z",
       "rank": 6
     },
     {
-      "id": "66a8327e025f8713",
-      "title": "한국외대·셀트리온스킨큐어·세종디엑스, DX 전문인재 양성 맞손 - 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBINXcwemNqQ0FLdzFqa29iUFphRE5FakszTy1lQW5pX1BrNE1SS29qUS04TVZDTi0zeFNLaUpadlNPbjlJWm9TNmRHUmRoME1uRVllMHdVSThnQUQ2OURtcGZTUFdYallWMkFNUW50LVZIRUo40gF0QVVfeXFMUEg1dzB6Y2pDQUt3MWprb2JQWmFETkVqSzNPLWVBbmlfUGs0TVJLb2pRLThNVkNOLTN4U0tpSlp2U09uOUlab1M2ZEdSZGgwTW5FWWUwd1VJOGdBRDY5RG1wZlNQV1hqWVYyQU1RbnQtVkhFSjg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한국외대·셀트리온스킨큐어·세종디엑스, DX 전문인재 양성 맞손 이뉴스투데이",
-      "publishedAt": "2026-05-22T04:02:07.000Z",
+      "id": "20ba253d75de7af1",
+      "title": "아하, 전자칠판 업계 최초 'AI 국제인증'으로 시장 재편 선도 - 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xa3NZZC1kU1IyNl95MHhZbUhaR2hRZ2ItLTZlUmkxSWFiZUFjNkZzTFhnTUpfcGN0bk00WjJaZHgza09icDZWRU9IU3BUWWlQUmR5MVZiX3ZVbG1pbVVUbndGbHY?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "아하, 전자칠판 업계 최초 'AI 국제인증'으로 시장 재편 선도 에너지안전신문",
+      "publishedAt": "2026-05-26T01:06:42.000Z",
       "rank": 7
     },
     {
-      "id": "6e733cdae45a9a97",
-      "title": "India: Higher CPI risks drive FY27 hike call – Standard Chartered - TMGM",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNxa2NLZEVBdTdYQVNiUkI4dXNPam45RVJyamNIdmVjb2Z3NUE4em1tWThmYThVNmJtM3RaWk9wSVBZek1TZE8wcmVpZWJjMURMaXZYU0pvdy1VeFUwTmx2Y1JrU2UyWlpuWVBGRVE0cXJFME83cEVkZlVJYXVJWnpvTmVMRHZSbU4wTnhDX3VLZmtZTXA2SmxwWHpIcjZ4WEstSWpQb21IclN5WF8zek5NbVlscFJDanVjY0Z6TlU3WXpIbkpn?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "India: Higher CPI risks drive FY27 hike call – Standard Chartered TMGM",
-      "publishedAt": "2026-05-21T16:23:34.000Z",
+      "id": "0ebdbb4fc8af2417",
+      "title": "수공, 'AI 상수도 관로 진단기술' 2028년까지 국제표준화 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iX3Bjd2s0bnB6dWJPN3pMMzBaa0p5MElWN1BDWDUwRmI5dng3TjZueVZNVllWSTlNZ01rOUhEMUFhc25JNWVrUWVpN2w5ZHdON3ZKVW8xRENTZzIzTDc0SjZiRW5TZnR2dU5Fcmk3dWlaQVQwWnI4b9IBeEFVX3lxTE9iX3Bjd2s0bnB6dWJPN3pMMzBaa0p5MElWN1BDWDUwRmI5dng3TjZueVZNVllWSTlNZ01rOUhEMUFhc25JNWVrUWVpN2w5ZHdON3ZKVW8xRENTZzIzTDc0SjZiRW5TZnR2dU5Fcmk3dWlaQVQwWnI4bw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "수공, 'AI 상수도 관로 진단기술' 2028년까지 국제표준화 뉴시스",
+      "publishedAt": "2026-05-26T01:03:18.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-24T03:41:39.000Z"
+      "updatedAt": "2026-05-25T03:56:13.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
