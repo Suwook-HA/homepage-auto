@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-28T03:37:37.691Z",
-  "projectsCheckedAt": "2026-05-28T03:37:37.691Z",
-  "projectsUpdatedAt": "2026-05-28T03:37:37.691Z",
+  "updatedAt": "2026-05-29T03:37:55.228Z",
+  "projectsCheckedAt": "2026-05-29T03:37:55.228Z",
+  "projectsUpdatedAt": "2026-05-29T03:37:55.228Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,129 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-28T03:37:37.691Z",
+    "checkedAt": "2026-05-29T03:37:55.228Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "07f6f1ae896b9410",
-      "title": "GAC Deepens Its Global Footprint through High-Standard Services, Entering a New Phase of High-Quality Overseas Expansion - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jRkk3QkJkLUhNendobFZzX1Q5cFRWVnZDTjlXSkV5em40UXBqR05sMWdTUjg5ZXRVOE1tcTVIUW95VTRFcWpPdWdSWms0T1hqX1RqaEljN3RwMEhyeVhwa0YyR0sybzlM0gFsQVVfeXFMT2Q5QS1USXZ2T3gwQzNteXY3UnJ6cUg5dGR0cm1xWnR1Y3lyQ1ZfMWFPNlZfQjNLVFVpWXlfOXlBdk5BX21BMUlBQW9TNnFQTk03R200aUk1c0djQXFMaDA3b1NILVBKVTh0Rkta?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "GAC Deepens Its Global Footprint through High-Standard Services, Entering a New Phase of High-Quality Overseas Expansion KIPOST",
-      "publishedAt": "2026-05-27T03:56:00.000Z",
+      "id": "69c25cd52085f0b6",
+      "title": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdXNnOEpxelFyZDl3QTVROWJDR21aYWxkc3RBMEo0Q3hxWGR4MVY2S1lqcHpMNlBIdkJock9PNl9Lb0FUMWtROTJVYlhjMUxQMXp2bndFRjc2Q2RjT1Q4RkprRkE1WkhEOE4tV1MydlDSAXRBVV95cUxQR1p2TFVnWXpydnkyS0x1VTJvb3RYQzZGLXNmTUh0LUpMd3ozYzREZU9NTHByR2JWZkxETl9iYS1RWFNtcFpzUFVLWkFlMmhWQzVDZEpjZFpVVVlybGltZjFqN0E4cXBKd1Z1eE42ZmhpZ1hDdw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem IT조선",
+      "publishedAt": "2026-05-29T03:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "693569eca982a155",
-      "title": "\"피지컬 AI 시대, 로봇 강령·지능체계 표준화 필요\" - 서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWi1qQ2pSTU9Ma25PN3VLRGhWcDZ0UkJ2VEZ2NnVvd3JXeDNMYjI3YnI5UEhPNzJZOExlcFlZbFlUYTNlVi1Ic0lXM3d0ekpiZGdTSjg0dGxtajRSQ1pHV2d2NFlleTdOM3c?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"피지컬 AI 시대, 로봇 강령·지능체계 표준화 필요\" 서울파이낸스",
-      "publishedAt": "2026-05-28T01:47:24.000Z",
+      "id": "5b3731b29027cbf6",
+      "title": "아하(AHA), 전자칠판 업계 최초 'AI 국제인증' 획득…조달 가점은 글쎄? - 조달경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0ZkVCWFdQZjBVR3R0VjFKenpkdDNZYUFjOGYzQ1J1S21ILThUZWt1ZlVwMjRyeExkdm9mUGJhRFdyUmo1MlUwNFhjU3VJd1ZHYXpHR1QxVkE5dlZuOUotbnNJM25fanFKR1hVek13?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "아하(AHA), 전자칠판 업계 최초 'AI 국제인증' 획득…조달 가점은 글쎄? 조달경제신문",
+      "publishedAt": "2026-05-28T22:00:00.000Z",
       "rank": 2
     },
     {
-      "id": "5318c172594870e2",
-      "title": "네이버, 콘텐츠 생태계 5년간 1조원 투자…\"AI 시대 경쟁력은 창작자\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SDNQbGJUcWl4SHJoTF9SQjRtb09BVFJ3T3dxck5BRkFkcmR3NEphcHBZUWZqbkt0emZRR0ZNZzdZLTBIaklYZl9iSERkbFBDbGlidXFmaTA0QjZOdC1r?oc=5",
+      "id": "6166f5dca5a3a0aa",
+      "title": "Naver to Invest KRW 1 Trillion in Content Ecosystem to Strengthen AI Competitiveness - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsY1AwVENCZzBOMjZ2N1NrcXQzMmlReEk0UUFLdUV5OVZnbXUxN09Xc25mTVdXTmxJaGFmMThETklwRjhEaUE2cHgzOGRpRTQ2Q2lLdlJNcmoxSlByc1HSAW5BVV95cUxOUjBWdDk3VDEzdzBHcTUyY2ZWMU9QS3U2NVRUNmQxcE5rT0daTmVmamY2TmVJOURBbWNlZ0VqZkRsMnl0NFNZOTBwbkd3OU5mbXdjUUlUNkJOQ3hwdGVLSG9ucGZfT2V5ejJSbTVMdw?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "네이버, 콘텐츠 생태계 5년간 1조원 투자…\"AI 시대 경쟁력은 창작자\" 뉴스1",
-      "publishedAt": "2026-05-28T01:30:00.000Z",
+      "summary": "Naver to Invest KRW 1 Trillion in Content Ecosystem to Strengthen AI Competitiveness 알파경제",
+      "publishedAt": "2026-05-28T21:55:37.000Z",
       "rank": 3
     },
     {
-      "id": "b68e6a87e37af7ec",
-      "title": "과기부, 6차 과기기본계획 공개…AI 대전환 담는다 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdHRfekRuRlNJbFl4alNwd2RFZVFQVEExTThfTUJadmpmNW1HUFcwT2h3TVVxa2ttX1ZJUnNtS0lzMS05dV8wbi1hNTBhLVNYdnltNy11dHZuMUtYMTRvMtIBYEFVX3lxTE1NdHRfekRuRlNJbFl4alNwd2RFZVFQVEExTThfTUJadmpmNW1HUFcwT2h3TVVxa2ttX1ZJUnNtS0lzMS05dV8wbi1hNTBhLVNYdnltNy11dHZuMUtYMTRvMg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "과기부, 6차 과기기본계획 공개…AI 대전환 담는다 연합뉴스",
-      "publishedAt": "2026-05-28T01:00:04.000Z",
+      "id": "16df3770a600ad30",
+      "title": "보도자료: 전 세계 인터넷 커뮤니티, ICANN86 정책 포럼 차 세비야로 집결 - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d1ExdUJrUG4zOENoTVo5VHM2dDZLTGRkZGZKZTViMXoyYnczUDVtamhUU0p1Y18yMktnd3hnaGk4Ym1ad0xpWnZrcGhJSmIxaURTeXZDdnFxQ1BJQWl2S0hweVpOMHVzSUhJbNIBbEFVX3lxTFB1d1ExdUJrUG4zOENoTVo5VHM2dDZLTGRkZGZKZTViMXoyYnczUDVtamhUU0p1Y18yMktnd3hnaGk4Ym1ad0xpWnZrcGhJSmIxaURTeXZDdnFxQ1BJQWl2S0hweVpOMHVzSUhJbA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "보도자료: 전 세계 인터넷 커뮤니티, ICANN86 정책 포럼 차 세비야로 집결 KIPOST",
+      "publishedAt": "2026-05-28T10:17:12.000Z",
       "rank": 4
     },
     {
-      "id": "49ab95dcb0447357",
-      "title": "Tripbitoz Automatically Converts Land Operator Excel Quotes with AI… Expands B2B Travel Booking Platform - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlR21lZWktX0pXaWJzcng2bFVEeDE5UlRMUFZxZ3cxbGNLTXU1N1RYaV85VmI1TXIzV0xXcUtORHdFRktPVmoxZVViS0pwbU5qaXlJ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tripbitoz Automatically Converts Land Operator Excel Quotes with AI… Expands B2B Travel Booking Platform 벤처스퀘어",
-      "publishedAt": "2026-05-27T12:09:55.000Z",
+      "id": "d6d9425aca634bef",
+      "title": "\"연구실 나와 돈 벌 시간\"…로봇, 이젠 대량생산·표준화가 숙제 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eHlsd01JRzFRanNqWEM5ZUN1amtwZUNmSmIyMXBEZzkzVjVZcjVFTDVoSVZwYWpSUkJVU19heFhQbWVhYnZ5RlJ3eXFsMUlaNWJQS3NmM0lYMW5Qdm0yQlJwYmRwTWRp0gFuQVVfeXFMTkdnWlFWTEd1TExSZnlvNEhfbW4ySGRJUFoyd2s4YmwtTUVsUUJCSkNNVHV6ODlMVEpDTlZGQTlmVVpHRFhzUzNVbGJSaXJIM0l4YkNsdnA2MTJPbGthNnh6dTV2NjJYdXd2M1V3VXc?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "\"연구실 나와 돈 벌 시간\"…로봇, 이젠 대량생산·표준화가 숙제 - 머니투데이 머니투데이",
+      "publishedAt": "2026-05-28T09:30:00.000Z",
       "rank": 5
     },
     {
-      "id": "145070569f0fe1e2",
-      "title": "Enlit Africa 2026: Huawei Launches Intelligent Substation Solution for Sub-Saharan Africa - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rbC1GSUNYRllKNGpuVFdSRVA4YzRrYnhTOEJ6ekdFQ3BYbjBvb001eXJiMlA1cWN2SmI1T2JVRzl4cXFMa0tzMzhzV1pvaktUQVRjNlJ1QVhSS3pGR25DVXEzY0cxbktJ0gFsQVVfeXFMTjhOaURBZlB3WmI5Nk5BUnNRb19KZHJRcDVINzdJQkd5eUhqTEFndXBHeGpJVG9tSndadVQ1eElJdW9CNTRabkk0aFg4T1lfMTdkTTZhbFZSSkZ3dmRtYXlNVTVMZmFnVGVYWVZI?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Enlit Africa 2026: Huawei Launches Intelligent Substation Solution for Sub-Saharan Africa KIPOST",
-      "publishedAt": "2026-05-27T07:53:00.000Z",
+      "id": "55b5a7e025a4e952",
+      "title": "\"데이터 표준화·법제화 없인 엔지니어링 AI 공염불\" - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RQmRTNW5raGVncUc2aFR2anVTRjZSSzNMSU80bzVsQTZ3b3p0am9ySlRyYVlnYXNEbUVYOTk2MkRLaHJLWW9NdWRsQngyWTdoVGlZRXpZWnROSmhyWGhoT3ItSTJwUHN6azRUV0dPeWFFcms?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"데이터 표준화·법제화 없인 엔지니어링 AI 공염불\" 뉴스웍스",
+      "publishedAt": "2026-05-28T09:13:05.000Z",
       "rank": 6
     },
     {
-      "id": "f5f876bda6e482dd",
-      "title": "\"연구실 특허가 국부 된다\"... 정부, ‘R&D→IP→사업화’ 국가 전략 본격 가동 - 특허뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPYmdEdXhUR2tDTFIwbnJGOGJDQUlVeTV5RDIzN2VYbWdTMjVVVF96TFhrTzRBemw2Uy1VOU1fQ29NOEhITUxYdA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "\"연구실 특허가 국부 된다\"... 정부, ‘R&D→IP→사업화’ 국가 전략 본격 가동 특허뉴스",
-      "publishedAt": "2026-05-27T07:05:00.000Z",
+      "id": "61ceabb641f05705",
+      "title": "2026 경산 카페 축제, 배달의민족 'B마트' 연계한 줄 서지 않는 'DX 스마트 축제' 선언 - 한국방송뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbHdXZmNZWXk2dXg2R0EwaExPX0ZJWklHRUcxTEc5RVM2a1NHMnd6WkpIUzBLc2g3MEZxRjVKeVdyd3J0OTlWeENsSVFDdVdCSUFxVDVmUjA0eWw3MGc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "2026 경산 카페 축제, 배달의민족 'B마트' 연계한 줄 서지 않는 'DX 스마트 축제' 선언 한국방송뉴스",
+      "publishedAt": "2026-05-28T09:00:27.000Z",
       "rank": 7
     },
     {
-      "id": "4f2a5f26af168880",
-      "title": "R&D 성과 확산 위한 선순환 체계 구축…고품질 IP 창출·사업화 촉진 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OR2dwOWw1dWhDTmI4X1c4QXI2QmRPaVkzY1otZE56WGtEem9TNnNTSmhGN25ScXdLdUNBQmtUSW91TnFvX2JNYnZqZFRTSWJWTDNnVnI2RVo5Nmt2?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "R&D 성과 확산 위한 선순환 체계 구축…고품질 IP 창출·사업화 촉진 뉴스1",
-      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "id": "38e24e369be28ba4",
+      "title": "GAC, 고품질 서비스 기반으로 글로벌 입지 확대… 해외 고도화 성장 단계 진입 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PVmZpcUZGSkxoZFBJS1NwWVJpb2E5X21EMEhCMXA1V1JpTmo5Sy1PV2ctMTF6REZrVkowOC1WVjhYYzdXZFo3djdlYjJZT3M1STVmT3FLUUpvYnFqRnhoSQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "GAC, 고품질 서비스 기반으로 글로벌 입지 확대… 해외 고도화 성장 단계 진입 뉴시스",
+      "publishedAt": "2026-05-28T08:41:09.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "a40a611da476daeb",
+      "title": "Build Hour: Agents SDK",
+      "url": "https://www.youtube.com/watch?v=tK32trvj_b4",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/tK32trvj_b4/hqdefault.jpg",
+      "publishedAt": "2026-05-28T20:09:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "5d69027d542d756c",
+      "title": "How Abridge uses GPT-5.5 for clinical decision support",
+      "url": "https://www.youtube.com/watch?v=tXBRYPpIvms",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/tXBRYPpIvms/hqdefault.jpg",
+      "publishedAt": "2026-05-28T18:11:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "480a7e534df0e5fc",
+      "title": "R&D Part 1",
+      "url": "https://www.youtube.com/watch?v=DHfZqTWlSc4",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/DHfZqTWlSc4/hqdefault.jpg",
+      "publishedAt": "2026-05-28T16:01:56.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "43a7b36f1a598e84",
+      "title": "Developer Keynote (Google I/O '26) - Audio Described",
+      "url": "https://www.youtube.com/watch?v=eC7t22gDwWo",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/eC7t22gDwWo/hqdefault.jpg",
+      "publishedAt": "2026-05-26T19:46:49.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4e6ab123f83622cf",
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/hqdefault.jpg",
+      "publishedAt": "2026-05-25T17:49:30.000Z",
+      "viewCount": 0
+    },
     {
       "id": "30adc0e3791c72b2",
       "title": "What's new in Google AI",
@@ -139,24 +184,6 @@
       "channel": "Google for Developers",
       "thumbnail": "https://i.ytimg.com/vi/SSe1VmVrtw0/hqdefault.jpg",
       "publishedAt": "2026-05-23T00:45:21.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9e313c81e92dca65",
-      "title": "SpaceX Starship Rocket Takes Off From Texas",
-      "url": "https://www.youtube.com/watch?v=B-Nuk6XrfZw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/B-Nuk6XrfZw/hqdefault.jpg",
-      "publishedAt": "2026-05-22T23:23:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "60278e2ed1603cf9",
-      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
-      "url": "https://www.youtube.com/watch?v=fAfuQN0WwFE",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg",
-      "publishedAt": "2026-05-22T23:14:59.000Z",
       "viewCount": 0
     },
     {
@@ -175,33 +202,6 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/HaaKUFAOi84/hqdefault.jpg",
       "publishedAt": "2026-05-22T22:48:37.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f0359a217224c823",
-      "title": "The future of software development",
-      "url": "https://www.youtube.com/watch?v=v0RQiNJ9nhw",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/v0RQiNJ9nhw/hqdefault.jpg",
-      "publishedAt": "2026-05-22T22:45:30.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "49ee7d60d6502f71",
-      "title": "Create and edit presentations faster in PowerPoint",
-      "url": "https://www.youtube.com/watch?v=ECkHTfvf2e8",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/ECkHTfvf2e8/hqdefault.jpg",
-      "publishedAt": "2026-05-22T19:41:41.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "989eb2db5cb64717",
-      "title": "Bring the power of on-device AI to life with Google AI Edge and Gemma",
-      "url": "https://www.youtube.com/watch?v=boy-UjB8hpA",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/boy-UjB8hpA/hqdefault.jpg",
-      "publishedAt": "2026-05-22T19:00:42.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-27T03:55:51.000Z"
+      "updatedAt": "2026-05-28T03:41:41.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
