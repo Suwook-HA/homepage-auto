@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-29T03:37:55.228Z",
-  "projectsCheckedAt": "2026-05-29T03:37:55.228Z",
-  "projectsUpdatedAt": "2026-05-29T03:37:55.228Z",
+  "updatedAt": "2026-05-30T03:26:50.006Z",
+  "projectsCheckedAt": "2026-05-30T03:26:50.006Z",
+  "projectsUpdatedAt": "2026-05-30T03:26:50.006Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,64 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-29T03:37:55.228Z",
+    "checkedAt": "2026-05-30T03:26:50.006Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "343d66d9af66a922",
+      "title": "MAXHUB Drives Digital Transformation at 2026 BRICS New Industrial Revolution Expo with Smart Healthcare and Intelligent Manufacturing Solutions - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SZkRuQmFaY1QtU1B0anplQTV0RGhPMUhTUkMyNlRTN1Z0M2s0UVVnd2VIQ1cteG81dVFhYWVISDB1NllXQzVDamlpNkdMQUQwZTZYQjRIOFlvTHJjU0pndnVUTVgwbXBW?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "MAXHUB Drives Digital Transformation at 2026 BRICS New Industrial Revolution Expo with Smart Healthcare and Intelligent Manufacturing Solutions KIPOST",
+      "publishedAt": "2026-05-29T07:30:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "befd0835c7dfb705",
+      "title": "국가 R&D 성과를 고부가 IP로 만드는.. ‘R&D to IP’ 전략 협의회 출범 - IPDaily",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOSkljMGd4d0xVblRDbl9fYk9QX3hXTFYwQTdUYlMyMGVWeExtMGJnRFpudm1GQkRVYkhqdVFvQk00S3hSci1QYTlUVFVJbWdpRVd2YnhaYkktckgtOTRwMHl6NTNwUVJFdjd4dzlTTG4zb2lUa1JId3BGYmNEVXNDNUZZaEdBbnBld0ROcFpfSzJmYmo0YnVtTlhkdXhLb1JPaWMwZGZ5OWl0Qlg5OUxXZTJ6ZFlUT3NPTFZFSjdYUWx4R2lWVWJJeDk4ZnNLdUtKc2UwbnVrMVY0T0hKMkZ1cXhYOVFLWGc5QUlDRndSR083aXRSQ1FYelZsUUFWb1NQU3hlLVlxbG84bnNhVnlKLS1TZVhGbUFITGZ2T2JwQnVYRTR4Q1gzOTRwZVRqZHZvOWY3ZTFpejRzajJWeGtBUFVZWE9vWWZUR2c?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "국가 R&D 성과를 고부가 IP로 만드는.. ‘R&D to IP’ 전략 협의회 출범 IPDaily",
+      "publishedAt": "2026-05-30T02:28:50.000Z",
+      "rank": 2
+    },
+    {
+      "id": "f67c0b909a01af9f",
+      "title": "[최민성의 미래 읽기] AI 시대의 보이지 않는 혁명, 도심에 '엣지 데이터센터'가 온다 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nRXNuaUhrajJhOXk0R01nUkozbFVmbkJSZFhlc1BUT1hkZTlBa1NfMnBUdDJWSFhVblhUSWpqdUQ1SWw2STZScWZ4WkM4Q0NySnNLQ1d0Y0p4UTdmTGpadkdER2FzX0czMVRLaHRDZ1BHZFhUTWpydkZCQVg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[최민성의 미래 읽기] AI 시대의 보이지 않는 혁명, 도심에 '엣지 데이터센터'가 온다 한국금융신문",
+      "publishedAt": "2026-05-29T20:00:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "a5e16d92c1907927",
+      "title": "\"AI 시대, 특허만으로는 살아남을 수 없다\"... RWS CEO 벤자민 페스가 제시한 '차세대 IP 전략' - 특허뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GeTFtWDc3Q25HdVdIdlhSZ2R3N3BpSjFTVllUbmRkS3IzSlFiNC1OcURvY05paXhNbEQ5dDNnVDQxbU1kMzRtMQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"AI 시대, 특허만으로는 살아남을 수 없다\"... RWS CEO 벤자민 페스가 제시한 '차세대 IP 전략' 특허뉴스",
+      "publishedAt": "2026-05-29T10:11:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "045e4e8279f09919",
+      "title": "13 Consecutive Years of Profitability Driven by Safety AI… Intellivix Sets Off to Become a Global Mid-sized Enterprise - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ic2k2cVNvSmNRMDB4RFQyN0F0Q1Q1S2xVTnpDbVJwT1Q0T0NaM0RUZC1panBDSTFxMldJMWlQZUxJVVFKY0JWM2ZSaHpYOU5OV0NN?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "13 Consecutive Years of Profitability Driven by Safety AI… Intellivix Sets Off to Become a Global Mid-sized Enterprise 벤처스퀘어",
+      "publishedAt": "2026-05-29T00:35:11.000Z",
+      "rank": 5
+    },
+    {
+      "id": "81a79eb8ee551ec7",
+      "title": "Qlik and Starburst Turn Fragmented Enterprise Data into Governed, AI-Ready Intelligence - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQXZyR3pWZDhqY2oySXZXbHd1VWpCZ2d2QmllN2hSMERTRWhYMVdzZHJpUmVxdm5lZ3dNS2R1LWJVSGowZ2p1WkJaWk41RVM0V2o3cDZRZmNGRExPbkZfR0diYUhYSnItaTM2RQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Qlik and Starburst Turn Fragmented Enterprise Data into Governed, AI-Ready Intelligence IT비즈뉴스",
+      "publishedAt": "2026-05-29T03:20:00.000Z",
+      "rank": 6
+    },
     {
       "id": "69c25cd52085f0b6",
       "title": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem - IT조선",
@@ -65,143 +119,89 @@
       "source": "Google News: AI Data Quality",
       "summary": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem IT조선",
       "publishedAt": "2026-05-29T03:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "5b3731b29027cbf6",
-      "title": "아하(AHA), 전자칠판 업계 최초 'AI 국제인증' 획득…조달 가점은 글쎄? - 조달경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0ZkVCWFdQZjBVR3R0VjFKenpkdDNZYUFjOGYzQ1J1S21ILThUZWt1ZlVwMjRyeExkdm9mUGJhRFdyUmo1MlUwNFhjU3VJd1ZHYXpHR1QxVkE5dlZuOUotbnNJM25fanFKR1hVek13?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "아하(AHA), 전자칠판 업계 최초 'AI 국제인증' 획득…조달 가점은 글쎄? 조달경제신문",
-      "publishedAt": "2026-05-28T22:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "6166f5dca5a3a0aa",
-      "title": "Naver to Invest KRW 1 Trillion in Content Ecosystem to Strengthen AI Competitiveness - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsY1AwVENCZzBOMjZ2N1NrcXQzMmlReEk0UUFLdUV5OVZnbXUxN09Xc25mTVdXTmxJaGFmMThETklwRjhEaUE2cHgzOGRpRTQ2Q2lLdlJNcmoxSlByc1HSAW5BVV95cUxOUjBWdDk3VDEzdzBHcTUyY2ZWMU9QS3U2NVRUNmQxcE5rT0daTmVmamY2TmVJOURBbWNlZ0VqZkRsMnl0NFNZOTBwbkd3OU5mbXdjUUlUNkJOQ3hwdGVLSG9ucGZfT2V5ejJSbTVMdw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Naver to Invest KRW 1 Trillion in Content Ecosystem to Strengthen AI Competitiveness 알파경제",
-      "publishedAt": "2026-05-28T21:55:37.000Z",
-      "rank": 3
-    },
-    {
-      "id": "16df3770a600ad30",
-      "title": "보도자료: 전 세계 인터넷 커뮤니티, ICANN86 정책 포럼 차 세비야로 집결 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d1ExdUJrUG4zOENoTVo5VHM2dDZLTGRkZGZKZTViMXoyYnczUDVtamhUU0p1Y18yMktnd3hnaGk4Ym1ad0xpWnZrcGhJSmIxaURTeXZDdnFxQ1BJQWl2S0hweVpOMHVzSUhJbNIBbEFVX3lxTFB1d1ExdUJrUG4zOENoTVo5VHM2dDZLTGRkZGZKZTViMXoyYnczUDVtamhUU0p1Y18yMktnd3hnaGk4Ym1ad0xpWnZrcGhJSmIxaURTeXZDdnFxQ1BJQWl2S0hweVpOMHVzSUhJbA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "보도자료: 전 세계 인터넷 커뮤니티, ICANN86 정책 포럼 차 세비야로 집결 KIPOST",
-      "publishedAt": "2026-05-28T10:17:12.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d6d9425aca634bef",
-      "title": "\"연구실 나와 돈 벌 시간\"…로봇, 이젠 대량생산·표준화가 숙제 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eHlsd01JRzFRanNqWEM5ZUN1amtwZUNmSmIyMXBEZzkzVjVZcjVFTDVoSVZwYWpSUkJVU19heFhQbWVhYnZ5RlJ3eXFsMUlaNWJQS3NmM0lYMW5Qdm0yQlJwYmRwTWRp0gFuQVVfeXFMTkdnWlFWTEd1TExSZnlvNEhfbW4ySGRJUFoyd2s4YmwtTUVsUUJCSkNNVHV6ODlMVEpDTlZGQTlmVVpHRFhzUzNVbGJSaXJIM0l4YkNsdnA2MTJPbGthNnh6dTV2NjJYdXd2M1V3VXc?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "\"연구실 나와 돈 벌 시간\"…로봇, 이젠 대량생산·표준화가 숙제 - 머니투데이 머니투데이",
-      "publishedAt": "2026-05-28T09:30:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "55b5a7e025a4e952",
-      "title": "\"데이터 표준화·법제화 없인 엔지니어링 AI 공염불\" - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RQmRTNW5raGVncUc2aFR2anVTRjZSSzNMSU80bzVsQTZ3b3p0am9ySlRyYVlnYXNEbUVYOTk2MkRLaHJLWW9NdWRsQngyWTdoVGlZRXpZWnROSmhyWGhoT3ItSTJwUHN6azRUV0dPeWFFcms?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"데이터 표준화·법제화 없인 엔지니어링 AI 공염불\" 뉴스웍스",
-      "publishedAt": "2026-05-28T09:13:05.000Z",
-      "rank": 6
-    },
-    {
-      "id": "61ceabb641f05705",
-      "title": "2026 경산 카페 축제, 배달의민족 'B마트' 연계한 줄 서지 않는 'DX 스마트 축제' 선언 - 한국방송뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbHdXZmNZWXk2dXg2R0EwaExPX0ZJWklHRUcxTEc5RVM2a1NHMnd6WkpIUzBLc2g3MEZxRjVKeVdyd3J0OTlWeENsSVFDdVdCSUFxVDVmUjA0eWw3MGc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "2026 경산 카페 축제, 배달의민족 'B마트' 연계한 줄 서지 않는 'DX 스마트 축제' 선언 한국방송뉴스",
-      "publishedAt": "2026-05-28T09:00:27.000Z",
       "rank": 7
     },
     {
-      "id": "38e24e369be28ba4",
-      "title": "GAC, 고품질 서비스 기반으로 글로벌 입지 확대… 해외 고도화 성장 단계 진입 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PVmZpcUZGSkxoZFBJS1NwWVJpb2E5X21EMEhCMXA1V1JpTmo5Sy1PV2ctMTF6REZrVkowOC1WVjhYYzdXZFo3djdlYjJZT3M1STVmT3FLUUpvYnFqRnhoSQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "GAC, 고품질 서비스 기반으로 글로벌 입지 확대… 해외 고도화 성장 단계 진입 뉴시스",
-      "publishedAt": "2026-05-28T08:41:09.000Z",
+      "id": "38d212454aa7594c",
+      "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtaWVzM21oWmlQSDEzT2JHUG1iVEVRVzNUNkdHNkEtdjlpazRkaFQ1N2hZa2lZUlVOMnV6MGtZYVZPeUF3WjBSYlRDTzBWNUdMZVpOZXVFLXo0dllfdEd0LURuQ0JPNWVk?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong KIPOST",
+      "publishedAt": "2026-05-29T02:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "a40a611da476daeb",
-      "title": "Build Hour: Agents SDK",
-      "url": "https://www.youtube.com/watch?v=tK32trvj_b4",
+      "id": "cf1c45d54ed260eb",
+      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Leader at Alchemy",
+      "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/tK32trvj_b4/hqdefault.jpg",
-      "publishedAt": "2026-05-28T20:09:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8QKqENa_eQQ/hqdefault.jpg",
+      "publishedAt": "2026-05-29T20:29:25.000Z",
       "viewCount": 0
     },
     {
-      "id": "5d69027d542d756c",
-      "title": "How Abridge uses GPT-5.5 for clinical decision support",
-      "url": "https://www.youtube.com/watch?v=tXBRYPpIvms",
+      "id": "d5289471a732a092",
+      "title": "Rocket Explosion Deals Blow to Blue Origin's Space Ambitions",
+      "url": "https://www.youtube.com/watch?v=wxrPETlmxfg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/wxrPETlmxfg/hqdefault.jpg",
+      "publishedAt": "2026-05-29T20:01:26.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "de8df022efe5e2b4",
+      "title": "Windows Computer Use and mobile access for Codex",
+      "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/tXBRYPpIvms/hqdefault.jpg",
-      "publishedAt": "2026-05-28T18:11:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MPIAB-8VmCo/hqdefault.jpg",
+      "publishedAt": "2026-05-29T18:31:52.000Z",
       "viewCount": 0
     },
     {
-      "id": "480a7e534df0e5fc",
-      "title": "R&D Part 1",
-      "url": "https://www.youtube.com/watch?v=DHfZqTWlSc4",
+      "id": "8c796a97029304b3",
+      "title": "SpaceX Lowers IPO Valuation Target | Bloomberg Tech 5/29/2026",
+      "url": "https://www.youtube.com/watch?v=u1upVgkVKVQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/u1upVgkVKVQ/hqdefault.jpg",
+      "publishedAt": "2026-05-29T17:32:52.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9205431c160f753b",
+      "title": "Anthropic Valuation of $965 Billion Passes OpenAI",
+      "url": "https://www.youtube.com/watch?v=q_jiEJzZ1S0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/q_jiEJzZ1S0/hqdefault.jpg",
+      "publishedAt": "2026-05-29T17:26:19.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "baffc42aa9b10437",
+      "title": "SpaceX Said to Lower Target for IPO Valuation to $1.8 Trillion",
+      "url": "https://www.youtube.com/watch?v=b9bN5ZKNJlA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/b9bN5ZKNJlA/hqdefault.jpg",
+      "publishedAt": "2026-05-29T17:23:30.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "85202a8a85fde1bc",
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do. | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=-EKoqUbG-is",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/-EKoqUbG-is/hqdefault.jpg",
+      "publishedAt": "2026-05-29T17:11:37.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "97c93fd3196e7ae4",
+      "title": "Loblaw Ships Faster with Codex",
+      "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/DHfZqTWlSc4/hqdefault.jpg",
-      "publishedAt": "2026-05-28T16:01:56.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "43a7b36f1a598e84",
-      "title": "Developer Keynote (Google I/O '26) - Audio Described",
-      "url": "https://www.youtube.com/watch?v=eC7t22gDwWo",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/eC7t22gDwWo/hqdefault.jpg",
-      "publishedAt": "2026-05-26T19:46:49.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4e6ab123f83622cf",
-      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
-      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/hqdefault.jpg",
-      "publishedAt": "2026-05-25T17:49:30.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "30adc0e3791c72b2",
-      "title": "What's new in Google AI",
-      "url": "https://www.youtube.com/watch?v=SSe1VmVrtw0",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/SSe1VmVrtw0/hqdefault.jpg",
-      "publishedAt": "2026-05-23T00:45:21.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "932ad9cc48e88e6c",
-      "title": "Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi",
-      "url": "https://www.youtube.com/watch?v=RsDSeMXaCak",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/RsDSeMXaCak/hqdefault.jpg",
-      "publishedAt": "2026-05-22T23:00:46.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0aae07c5a9de100e",
-      "title": "Workspace agents in ChatGPT: Admin and builder controls",
-      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/HaaKUFAOi84/hqdefault.jpg",
-      "publishedAt": "2026-05-22T22:48:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EYvzpZX2-Ww/hqdefault.jpg",
+      "publishedAt": "2026-05-29T17:03:52.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-28T03:41:41.000Z"
+      "updatedAt": "2026-05-29T03:41:59.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
