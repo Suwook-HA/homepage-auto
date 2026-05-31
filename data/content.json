@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-30T03:26:50.006Z",
-  "projectsCheckedAt": "2026-05-30T03:26:50.006Z",
-  "projectsUpdatedAt": "2026-05-30T03:26:50.006Z",
+  "updatedAt": "2026-05-31T03:53:35.578Z",
+  "projectsCheckedAt": "2026-05-31T03:53:35.578Z",
+  "projectsUpdatedAt": "2026-05-31T03:53:35.578Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-30T03:26:50.006Z",
+    "checkedAt": "2026-05-31T03:53:35.578Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "6aaaed7c626fcc22",
+      "title": "(주)아하, AI 국제표준 인증으로 ‘5세대 전자칠판’ 시대 연다 - 교육연합신문",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hOTN5VTZaMS1JVjdGS0RiQ3M4LWJQdWRCekJSVGwwNVFWMU1ZSmZ6VGpaZHhKdGRsNmtvSkVuVmZ1Y2s3Qk8tWFNnX0NVLWtiR0x2aFl6QVpaVWps?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "(주)아하, AI 국제표준 인증으로 ‘5세대 전자칠판’ 시대 연다 교육연합신문",
+      "publishedAt": "2026-05-30T10:32:00.000Z",
+      "rank": 1
+    },
     {
       "id": "343d66d9af66a922",
       "title": "MAXHUB Drives Digital Transformation at 2026 BRICS New Industrial Revolution Expo with Smart Healthcare and Intelligent Manufacturing Solutions - KIPOST",
@@ -65,7 +74,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "MAXHUB Drives Digital Transformation at 2026 BRICS New Industrial Revolution Expo with Smart Healthcare and Intelligent Manufacturing Solutions KIPOST",
       "publishedAt": "2026-05-29T07:30:00.000Z",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "befd0835c7dfb705",
@@ -74,7 +83,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "국가 R&D 성과를 고부가 IP로 만드는.. ‘R&D to IP’ 전략 협의회 출범 IPDaily",
       "publishedAt": "2026-05-30T02:28:50.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "f67c0b909a01af9f",
@@ -83,7 +92,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "[최민성의 미래 읽기] AI 시대의 보이지 않는 혁명, 도심에 '엣지 데이터센터'가 온다 한국금융신문",
       "publishedAt": "2026-05-29T20:00:00.000Z",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "id": "51534876c7ec4f72",
+      "title": "바카라를 할 수 있는 곳 에 대한 심층 분석: 현황, 경향 및 미래 전망 - 장단점 비교 분석 - kmrk.ru",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rM1l6S0xmaWVxSC1hZ3JXazZhZ3BUcDc0LVdJSUt2enlNYkpzMXY2d21rWTVUT0N4Rk9Zc3k3OVVfTndQRW1DN0s3UHVSSTN5V2RxV1Y2dUhVVExHZm1Z?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "바카라를 할 수 있는 곳 에 대한 심층 분석: 현황, 경향 및 미래 전망 - 장단점 비교 분석 kmrk.ru",
+      "publishedAt": "2026-05-29T14:50:25.000Z",
+      "rank": 5
     },
     {
       "id": "a5e16d92c1907927",
@@ -92,49 +110,40 @@
       "source": "Google News: AI Data Quality",
       "summary": "\"AI 시대, 특허만으로는 살아남을 수 없다\"... RWS CEO 벤자민 페스가 제시한 '차세대 IP 전략' 특허뉴스",
       "publishedAt": "2026-05-29T10:11:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "045e4e8279f09919",
-      "title": "13 Consecutive Years of Profitability Driven by Safety AI… Intellivix Sets Off to Become a Global Mid-sized Enterprise - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ic2k2cVNvSmNRMDB4RFQyN0F0Q1Q1S2xVTnpDbVJwT1Q0T0NaM0RUZC1panBDSTFxMldJMWlQZUxJVVFKY0JWM2ZSaHpYOU5OV0NN?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "13 Consecutive Years of Profitability Driven by Safety AI… Intellivix Sets Off to Become a Global Mid-sized Enterprise 벤처스퀘어",
-      "publishedAt": "2026-05-29T00:35:11.000Z",
-      "rank": 5
-    },
-    {
-      "id": "81a79eb8ee551ec7",
-      "title": "Qlik and Starburst Turn Fragmented Enterprise Data into Governed, AI-Ready Intelligence - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQXZyR3pWZDhqY2oySXZXbHd1VWpCZ2d2QmllN2hSMERTRWhYMVdzZHJpUmVxdm5lZ3dNS2R1LWJVSGowZ2p1WkJaWk41RVM0V2o3cDZRZmNGRExPbkZfR0diYUhYSnItaTM2RQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Qlik and Starburst Turn Fragmented Enterprise Data into Governed, AI-Ready Intelligence IT비즈뉴스",
-      "publishedAt": "2026-05-29T03:20:00.000Z",
       "rank": 6
     },
     {
-      "id": "69c25cd52085f0b6",
-      "title": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdXNnOEpxelFyZDl3QTVROWJDR21aYWxkc3RBMEo0Q3hxWGR4MVY2S1lqcHpMNlBIdkJock9PNl9Lb0FUMWtROTJVYlhjMUxQMXp2bndFRjc2Q2RjT1Q4RkprRkE1WkhEOE4tV1MydlDSAXRBVV95cUxQR1p2TFVnWXpydnkyS0x1VTJvb3RYQzZGLXNmTUh0LUpMd3ozYzREZU9NTHByR2JWZkxETl9iYS1RWFNtcFpzUFVLWkFlMmhWQzVDZEpjZFpVVVlybGltZjFqN0E4cXBKd1Z1eE42ZmhpZ1hDdw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“Content Is Key in the AI Era”… Naver to Invest 1 Trillion Won in UGC Ecosystem IT조선",
-      "publishedAt": "2026-05-29T03:00:00.000Z",
+      "id": "9665c1decc75d4d1",
+      "title": "농업 AI 플랫폼 만든다…국립순천대, 데이터 표준화 연구 합류 - 베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQXBUdmE3VFMxX004WXJrSUpUbTRzWjFxbHJzTHJvb0dqc2szVE1UTUdXbklSaXpTUjhRRWNRRVVjM3pLWk9UM3NfT0s0TEZQVEozVi12ZWFrU3dtcjFoejhNLWo?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "농업 AI 플랫폼 만든다…국립순천대, 데이터 표준화 연구 합류 베타뉴스",
+      "publishedAt": "2026-05-29T08:25:40.000Z",
       "rank": 7
     },
     {
-      "id": "38d212454aa7594c",
-      "title": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtaWVzM21oWmlQSDEzT2JHUG1iVEVRVzNUNkdHNkEtdjlpazRkaFQ1N2hZa2lZUlVOMnV6MGtZYVZPeUF3WjBSYlRDTzBWNUdMZVpOZXVFLXo0dllfdEd0LURuQ0JPNWVk?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tencent Rolls Out New AI Tools and Enterprise Solutions for Global Markets at Inaugural Tencent Cloud Day Hong Kong KIPOST",
-      "publishedAt": "2026-05-29T02:00:00.000Z",
+      "id": "d5157931e993aeee",
+      "title": "국가데이터처, 경제총조사 콜센터 내달 운영 시작…상담체계 전반 점검 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cd2ZTRHdJRUtjT0l6UjMyd1lPeGkzY1BHNDd2Q09WV2ZEU0pKTmttTXBtRWdxTFpPRzBSbkNCMXFKWk1RSElocFQwbWV0QUxXcm1QLQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "국가데이터처, 경제총조사 콜센터 내달 운영 시작…상담체계 전반 점검 뉴스1",
+      "publishedAt": "2026-05-29T06:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "cf1c45d54ed260eb",
-      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Leader at Alchemy",
+      "id": "497e54c350d682a5",
+      "title": "Terence Tao on How AI Is Changing Mathematics",
+      "url": "https://www.youtube.com/watch?v=cdflu9ZXZGE",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/cdflu9ZXZGE/hqdefault.jpg",
+      "publishedAt": "2026-05-30T13:19:23.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "25b5e361342024f6",
+      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Lead at Alchemy",
       "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ",
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/8QKqENa_eQQ/hqdefault.jpg",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-EKoqUbG-is/hqdefault.jpg",
       "publishedAt": "2026-05-29T17:11:37.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "97c93fd3196e7ae4",
-      "title": "Loblaw Ships Faster with Codex",
-      "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/EYvzpZX2-Ww/hqdefault.jpg",
-      "publishedAt": "2026-05-29T17:03:52.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-29T03:41:59.000Z"
+      "updatedAt": "2026-05-30T03:30:53.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
