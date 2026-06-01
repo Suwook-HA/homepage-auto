@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-31T03:53:35.578Z",
-  "projectsCheckedAt": "2026-05-31T03:53:35.578Z",
-  "projectsUpdatedAt": "2026-05-31T03:53:35.578Z",
+  "updatedAt": "2026-06-01T04:06:02.660Z",
+  "projectsCheckedAt": "2026-06-01T04:06:02.660Z",
+  "projectsUpdatedAt": "2026-06-01T04:06:02.660Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-05-31T03:53:35.578Z",
+    "checkedAt": "2026-06-01T04:06:02.660Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "6aaaed7c626fcc22",
-      "title": "(주)아하, AI 국제표준 인증으로 ‘5세대 전자칠판’ 시대 연다 - 교육연합신문",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hOTN5VTZaMS1JVjdGS0RiQ3M4LWJQdWRCekJSVGwwNVFWMU1ZSmZ6VGpaZHhKdGRsNmtvSkVuVmZ1Y2s3Qk8tWFNnX0NVLWtiR0x2aFl6QVpaVWps?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "(주)아하, AI 국제표준 인증으로 ‘5세대 전자칠판’ 시대 연다 교육연합신문",
-      "publishedAt": "2026-05-30T10:32:00.000Z",
+      "id": "d515090b47b584d0",
+      "title": "‘e-sports as cultural heritage’···First public discussion at a National Assembly policy forum - 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03cEhvTDl6SFhjQ3BGVlhxRFl0eVl6dTJlN1N0Q1hjVFFHaHdtYlFFanhBU1ViUE5ZcjlHaUJOVi1iYTN3SnVWU2JwM0F6N1AwenJCUUNGUGlHZU5CT3phTzlR?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "‘e-sports as cultural heritage’···First public discussion at a National Assembly policy forum 스포츠경향",
+      "publishedAt": "2026-05-31T07:01:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "d17b5bd56f6865e8",
+      "title": "네이버, 콘텐츠 생태계에 5년간 1조원 투자 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHlSbGdfRmNlZlU4eldkbHBqSGhENk1NTld4VG9lU01pcFFaRXJfVzVmX0xpQ1dtdDVWMFl5azQ2Znk1M2dCYkdYYW5Tb3hpNV8tRXM3TS1PUkFsMVJrWVo0bWJLVERGNk9RZ2NwMjN2a0cwM3AtbUtITVlUTF9CZVQ0VVNfc1NUUmREbzVNRQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "네이버, 콘텐츠 생태계에 5년간 1조원 투자 : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-05-31T13:53:53.000Z",
+      "rank": 2
+    },
+    {
+      "id": "245c07877b960542",
+      "title": "폭스바겐, 통합 품질보증으로 검사 시간 30% 단축…전동화 시대 품질 혁신 가속 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5feGU3VWpmLWczcVJMZ2ZGeE9oejU3aXliZ1lLMFNpVjRUVkYtVEZ6TlFoT05TWFB6cXZLQ1lWQTZrOE1VV0xMSzZXM09naTR4dE1oV0NLUXFsZE4tb0Nr?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "폭스바겐, 통합 품질보증으로 검사 시간 30% 단축…전동화 시대 품질 혁신 가속 헬로티",
+      "publishedAt": "2026-05-31T12:15:46.000Z",
+      "rank": 3
     },
     {
       "id": "343d66d9af66a922",
@@ -74,7 +92,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "MAXHUB Drives Digital Transformation at 2026 BRICS New Industrial Revolution Expo with Smart Healthcare and Intelligent Manufacturing Solutions KIPOST",
       "publishedAt": "2026-05-29T07:30:00.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "befd0835c7dfb705",
@@ -83,7 +101,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "국가 R&D 성과를 고부가 IP로 만드는.. ‘R&D to IP’ 전략 협의회 출범 IPDaily",
       "publishedAt": "2026-05-30T02:28:50.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "f67c0b909a01af9f",
@@ -92,16 +110,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "[최민성의 미래 읽기] AI 시대의 보이지 않는 혁명, 도심에 '엣지 데이터센터'가 온다 한국금융신문",
       "publishedAt": "2026-05-29T20:00:00.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
-      "id": "51534876c7ec4f72",
-      "title": "바카라를 할 수 있는 곳 에 대한 심층 분석: 현황, 경향 및 미래 전망 - 장단점 비교 분석 - kmrk.ru",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rM1l6S0xmaWVxSC1hZ3JXazZhZ3BUcDc0LVdJSUt2enlNYkpzMXY2d21rWTVUT0N4Rk9Zc3k3OVVfTndQRW1DN0s3UHVSSTN5V2RxV1Y2dUhVVExHZm1Z?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "바카라를 할 수 있는 곳 에 대한 심층 분석: 현황, 경향 및 미래 전망 - 장단점 비교 분석 kmrk.ru",
-      "publishedAt": "2026-05-29T14:50:25.000Z",
-      "rank": 5
+      "id": "f38d4aa841ec4880",
+      "title": "Leading Korean Digital Contents Companies Target Global Market at CommunicAsia 2026 K-Digital Contents Pavilion - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52bW1KQkM1SHhHZ2wxMXBmekZvMDhDMGU5ZTlVTWctYUVqTGNCbVZPbGFrWS1hdmZlYzBCbzNXR3BCek9SVGUycm1iQ0w4ZW1JU3Bpc3pVQm9JSkpnUEFLSU5PdnZ3c25DX3dyWg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Leading Korean Digital Contents Companies Target Global Market at CommunicAsia 2026 K-Digital Contents Pavilion IT비즈뉴스",
+      "publishedAt": "2026-05-29T13:05:00.000Z",
+      "rank": 7
     },
     {
       "id": "a5e16d92c1907927",
@@ -110,24 +128,6 @@
       "source": "Google News: AI Data Quality",
       "summary": "\"AI 시대, 특허만으로는 살아남을 수 없다\"... RWS CEO 벤자민 페스가 제시한 '차세대 IP 전략' 특허뉴스",
       "publishedAt": "2026-05-29T10:11:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "9665c1decc75d4d1",
-      "title": "농업 AI 플랫폼 만든다…국립순천대, 데이터 표준화 연구 합류 - 베타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQXBUdmE3VFMxX004WXJrSUpUbTRzWjFxbHJzTHJvb0dqc2szVE1UTUdXbklSaXpTUjhRRWNRRVVjM3pLWk9UM3NfT0s0TEZQVEozVi12ZWFrU3dtcjFoejhNLWo?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "농업 AI 플랫폼 만든다…국립순천대, 데이터 표준화 연구 합류 베타뉴스",
-      "publishedAt": "2026-05-29T08:25:40.000Z",
-      "rank": 7
-    },
-    {
-      "id": "d5157931e993aeee",
-      "title": "국가데이터처, 경제총조사 콜센터 내달 운영 시작…상담체계 전반 점검 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cd2ZTRHdJRUtjT0l6UjMyd1lPeGkzY1BHNDd2Q09WV2ZEU0pKTmttTXBtRWdxTFpPRzBSbkNCMXFKWk1RSElocFQwbWV0QUxXcm1QLQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "국가데이터처, 경제총조사 콜센터 내달 운영 시작…상담체계 전반 점검 뉴스1",
-      "publishedAt": "2026-05-29T06:00:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-05-30T03:30:53.000Z"
+      "updatedAt": "2026-05-31T03:57:39.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
