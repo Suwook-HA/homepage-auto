@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-02T04:00:00.331Z",
-  "projectsCheckedAt": "2026-06-02T04:00:00.331Z",
-  "projectsUpdatedAt": "2026-06-02T04:00:00.331Z",
+  "updatedAt": "2026-06-03T04:08:29.192Z",
+  "projectsCheckedAt": "2026-06-03T04:08:29.192Z",
+  "projectsUpdatedAt": "2026-06-03T04:08:29.192Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,27 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-02T04:00:00.331Z",
+    "checkedAt": "2026-06-03T04:08:29.192Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "59b91442f4cdb6ac",
-      "title": "Incheon City Magazines Retain ISO Quality and Customer Satisfaction Certifications - 경인방송 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSeU5SUTRpWWUxamFfd0R2YmkyZTFhY2pjYnNHWFNmMXMzeU1ORnNabjJEZ0RaSlUtakg5MFZER0VmVlU3WEpYVGpkenVDVVVNRTFpR0FSZHR1YzdmZmdQNGNiTGbSAWhBVV95cUxQZ2JndjB4SGhveWQyeWtLenJnRHg1Uk40NUJrOXJJTjh0VGJuTDFJNnVxZTNJRzB5Yl9vd19UNnNVQzQxdFdiaW1QQ3ZLemxkN3FlRnhWc2lPbnNIYWhEQlNkZDJVQ1dMRw?oc=5",
+      "id": "ab0c63afb0cc541c",
+      "title": "[중화학 ON]한화, 샹그릴라 대화서 AI 자주국방·안보 협력 논의 外 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazVMLVR6NkdsQ2hWRDZlb3ZJcmZLeVZQTHNOZExfZ1RZb0ZXaElucUJFVHVuQXVzYUxvdlViOWNXTnFoTHVDNGlSTWlZcmxxbVJWQkIwQ1BxR2VPUHdPenNySlYyM0g3YUJjUFU2UHBSd1lodUNlcUFXSVdYLXdLV0V4MFBfanllOFNpQXJfYw?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Incheon City Magazines Retain ISO Quality and Customer Satisfaction Certifications 경인방송 뉴스",
-      "publishedAt": "2026-06-01T04:13:57.000Z",
+      "summary": "[중화학 ON]한화, 샹그릴라 대화서 AI 자주국방·안보 협력 논의 外 : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-06-02T18:58:17.000Z",
       "rank": 1
     },
     {
-      "id": "2b484319218f0b43",
-      "title": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 - beyondpost.co.kr",
+      "id": "ded26ef54d46d0fa",
+      "title": "티쓰리큐 컨소시엄, '재난안전 AI데이터 구축' 국가사업 착수 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUE1ZLW9VdFI5VU9IcHo5QkFNQjlYcDVIMFJTSWtxRGdKU0l4SmsxazVWYW5neUlWTEJGaWdnWnpuclVnRTA3RnA1a0xwZnV3NzA2ZUY4T3NVc1NIQl9kNER2cVdtSjJGM1pEejc0SdIBb0FVX3lxTE1GUE1ZLW9VdFI5VU9IcHo5QkFNQjlYcDVIMFJTSWtxRGdKU0l4SmsxazVWYW5neUlWTEJGaWdnWnpuclVnRTA3RnA1a0xwZnV3NzA2ZUY4T3NVc1NIQl9kNER2cVdtSjJGM1pEejc0SQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "티쓰리큐 컨소시엄, '재난안전 AI데이터 구축' 국가사업 착수 - 머니투데이 머니투데이",
+      "publishedAt": "2026-06-02T09:48:51.000Z",
+      "rank": 2
+    },
+    {
+      "id": "c1ecc78bbb415dfe",
+      "title": "'AI 수술계획·3D 프린팅·로봇' 로봇수술 진화 이끈다 - 의협신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1paFRpbjAxNXBCTm1saWVHRi1mbDU2VEhJMTNiblp0WDd1b3ByZlpaTnRDMndrS1VYUHFRQ1o0QmdJLUJMQkR0ZEVjX1JfS3RiNy1pSTZEbDFRX2RzTHhibG5GNWg5NFZBUi1hMlFfSzBBUQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "'AI 수술계획·3D 프린팅·로봇' 로봇수술 진화 이끈다 의협신문",
+      "publishedAt": "2026-06-02T08:02:34.000Z",
+      "rank": 3
+    },
+    {
+      "id": "e6f590f4bd7cb0aa",
+      "title": "[칼럼] AI와 데이터중 누가 먼저인가 - 시사타임즈",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHRhbjdQQ0wtcUZUNG5vam1USE16YlMyTklxaE1yMm9qN3NTMXQ0Ym9wVDl6am1DZ3E5djJlYTBHaUZKOVdQWEY2OU1FN0xlTi1vRFNGSDJaWmZVZDdlTS14bW1icnFCOHpEcjg5SFlfTDZ4RjdvX1MzTjlqOU5TaDhjaGM?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[칼럼] AI와 데이터중 누가 먼저인가 시사타임즈",
+      "publishedAt": "2026-06-02T04:34:44.000Z",
+      "rank": 4
+    },
+    {
+      "id": "524b9445f94223ef",
+      "title": "건양대 의학대학 이상섭 박사과정생, Cell Press 국제 권위지 초청 논문 게재 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfT1VKQlNzcjRMaUVGaURZeWN2bkI1T2QyTzlHSTdITVpJSTI0M3ZneHU5MmRMZU5Tckw4WXJ5b0hEa0c1UFJ1NGtxRmNza0k?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "건양대 의학대학 이상섭 박사과정생, Cell Press 국제 권위지 초청 논문 게재 v.daum.net",
+      "publishedAt": "2026-06-02T04:24:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "ec88b871d9e3e6a7",
+      "title": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 - 비욘드포스트",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RTUtDLVM4MzdIOThYZzFXdnRha05ORjlrRWNmbV9uYTZYNWxERmhuSzYyOF90dnhjaFZieFBNZ25iMTF1bGFETndkOVBZN2trSlRfSE4yUEtfa3c4alJLb3BxRlJ1TUtKdTVlVGUtcTY2NUU0amdpZDMwOA?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 beyondpost.co.kr",
+      "summary": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 비욘드포스트",
       "publishedAt": "2026-06-02T03:21:00.000Z",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "id": "b7e4ac08a586600c",
+      "title": "딥엑스, 에이온과 3년 양산 협력…피지컬 AI 표준화 속도 [컴퓨텍스2026] - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQLXFKalpkeUctdkxDQ0c1MkVIY1JYY1JDc2VOS0wyM25PYUp0UlltNm9FRUxSTDRZNF9HUXlJZFI0d1NxWlczdjZleTJmQ2JpNmVZMw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "딥엑스, 에이온과 3년 양산 협력…피지컬 AI 표준화 속도 [컴퓨텍스2026] 이투데이",
+      "publishedAt": "2026-06-02T03:00:00.000Z",
+      "rank": 7
     },
     {
       "id": "a7db7fd1664e926c",
@@ -83,55 +128,19 @@
       "source": "Google News: AI Data Quality",
       "summary": "Flex Showcases Scalable Power Solutions for New AI Infrastructure at COMPUTEX 2026 IT비즈뉴스",
       "publishedAt": "2026-06-02T03:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "183b95d3e9bc7e69",
-      "title": "“K-인증, 글로벌 표준으로” 한국디지털인증협회, 염흥열 신임 회장 취임 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZUV1T2pCRzlJOXBpQVJrZkx5WWwxRk9MMzY3WThfem1SZHF0M1Z4bklnajBOTkF6NnpQRk0tZF9NcE1FbWpKRWY0QjB4VkFYT2hWUXo4WEVpOENJZm5ZOE5DS2t5SElBYTlUZ1JON2c?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "“K-인증, 글로벌 표준으로” 한국디지털인증협회, 염흥열 신임 회장 취임 보안뉴스",
-      "publishedAt": "2026-06-02T02:34:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "842d76f31d2ea3e9",
-      "title": "'정보보호 석학' 염흥열 교수, 디지털인증협회장 취임 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbU5ZOFIwdHBqM3JLRWNfdmxmTEVwV0wxV3BzS000Y0hMc21DOGhLY21nNjZobkxoNUtYWlA5RkpUOF9JRks0bTdYOWc4QmtrbXRKMHBDdHVXYVVMV0tNOdIBeEFVX3lxTFB0ajNFRjk1ZXNsYjdvTGxSVEM5ZmV6czA1T0MxM01teDdCcVhQak1XU0xOSW1OaEN5RzVHTmxHLXlKWG1taDVnQ2oyWWlMMkdVMkpmSUMzTzV3bDROUmdtWE9waGpyQ01zS2Z4ZjBtLWwxLTcxZzhYTg?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "'정보보호 석학' 염흥열 교수, 디지털인증협회장 취임 뉴시스",
-      "publishedAt": "2026-06-02T00:28:32.000Z",
-      "rank": 5
-    },
-    {
-      "id": "1c1e1d2d036c483f",
-      "title": "[대덕포럼] 출연연의 정체성과 R&D 효과성 - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEX0JpX2lCUXpPRkg1Z19RWVlCMjBBb3VKMkx0ZEJaWUdVNllTRUJHOEtJcnZKTjJWNU95RVRVOWxaYmwwN1BLbmxrMk0tMVRvVHcxdGM2SlY5MUZHS3g4THJ5MmlrZXM3UFNfazQ5MTBVX0XSAXNBVV95cUxQRF9CaV9pQlF6T0ZINWdfUVlZQjIwQW91SjJMdGRCWllHVTZZU0VCRzhLSXJ2Sk4yVjVPeUVUVTlsWmJsMDdQS25sazJNLTFUb1R3MXRjNkpWOTFGR0t4OExyeTJpa2VzN1BTX2s0OTEwVV9F?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[대덕포럼] 출연연의 정체성과 R&D 효과성 대전일보",
-      "publishedAt": "2026-06-01T22:06:49.000Z",
-      "rank": 6
-    },
-    {
-      "id": "df7ac5280f02f327",
-      "title": "Haier Launches Horizon Refrigerator in Vietnam, Setting New Standards for Freshness and Home Appliance Design - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41ZjVJaERUWXU3QjRMd3A3TVkybl9BLThCMnVTTHZfd1ktNzdXQXBRWXdqRjJCWWJfUDlTVFFjcnM3ay1iRGN4VGE3WnRiZXFfLVB3NFlxOTlGcWxodjA1V05lVmxNQlNk0gFsQVVfeXFMUGV2QVlncnRXby1zX3o2Z2FRZTYtMW42Z19ETGtPVjJrWTJXdF8yWXh1UzVfYkJmeXd0aE54OEI1QTJYcEpXMDVfemEwMUdiU1FmM3J6dTJQR2lHZG1ZQTAxU0VDbHJnMTRZbFFk?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Haier Launches Horizon Refrigerator in Vietnam, Setting New Standards for Freshness and Home Appliance Design KIPOST",
-      "publishedAt": "2026-06-01T07:57:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "9f4b82e14a72a93d",
-      "title": "Haddy scales adaptive microfactories with Siemens - Siemens",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rZGtqM3hGV1BtVXVoYTlndWhQQnpoVDJOT3RJdmU0WHI1YktGYjZpa1hVTnBXRUxwV0JsREJKOXNHU2dJY1NxVTRTYVU3ZGM2QS1wdFJqVWc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Haddy scales adaptive microfactories with Siemens Siemens",
-      "publishedAt": "2026-06-01T13:09:26.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "6b5c40f2b1c58dfa",
+      "title": "Getting Started with Managed Agents",
+      "url": "https://www.youtube.com/watch?v=0YXe7u-i1qU",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/0YXe7u-i1qU/hqdefault.jpg",
+      "publishedAt": "2026-06-02T19:00:24.000Z",
+      "viewCount": 0
+    },
     {
       "id": "93c3100af6dc0c30",
       "title": "Vibe code conversational agents in AI Studio",
@@ -187,21 +196,12 @@
       "viewCount": 0
     },
     {
-      "id": "932ad9cc48e88e6c",
-      "title": "Google I/O 2026 Recap with Logan Kilpatrick, Josh Woodward and Tulsee Doshi",
-      "url": "https://www.youtube.com/watch?v=RsDSeMXaCak",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/RsDSeMXaCak/hqdefault.jpg",
-      "publishedAt": "2026-05-22T23:00:46.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f0359a217224c823",
-      "title": "The future of software development",
-      "url": "https://www.youtube.com/watch?v=v0RQiNJ9nhw",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/v0RQiNJ9nhw/hqdefault.jpg",
-      "publishedAt": "2026-05-22T22:45:30.000Z",
+      "id": "60278e2ed1603cf9",
+      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
+      "url": "https://www.youtube.com/watch?v=fAfuQN0WwFE",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg",
+      "publishedAt": "2026-05-22T23:14:59.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-01T04:10:07.000Z"
+      "updatedAt": "2026-06-02T04:04:04.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
