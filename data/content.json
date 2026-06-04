@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-03T04:08:29.192Z",
-  "projectsCheckedAt": "2026-06-03T04:08:29.192Z",
-  "projectsUpdatedAt": "2026-06-03T04:08:29.192Z",
+  "updatedAt": "2026-06-04T04:02:33.751Z",
+  "projectsCheckedAt": "2026-06-04T04:02:33.751Z",
+  "projectsUpdatedAt": "2026-06-04T04:02:33.751Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-03T04:08:29.192Z",
+    "checkedAt": "2026-06-04T04:02:33.751Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "9a7d1665b098042d",
+      "title": "How Pure RIMS Powers University Digital Transformation - Elsevier",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0hQTnVqc1NXWGtFbExYSktqbW1taVlEcHhyNHdVZkxWOFU0NnhueGh1WGZxMjJWMTg5Q1FreDlUVkM1a1g2ZW1Gcjh1TnZlclZMSTZNVHBNMFM1QzR3dXJHeTF2aVdodng1R1ZUdUZPRk5CeGVuaThkV0NUdHd5QVUteU5vZk5SSG43NG93?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "How Pure RIMS Powers University Digital Transformation Elsevier",
+      "publishedAt": "2026-06-03T11:55:31.000Z",
+      "rank": 1
+    },
+    {
+      "id": "e8a606a006cb3ddd",
+      "title": "한국과 일본의 AI 거버넌스…정상 향한 두 갈래 길 [머브 히콕] - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WYnNaVFg0OTkzaDRRLTdwampFVlV5dThRMUF6LXl5anVXLWJxY0ZWRS1sUHBiYS1vOEZ0bURNVlFvZ0pGT2xkb2xPaU90MFZzZ1cxdGdR?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "한국과 일본의 AI 거버넌스…정상 향한 두 갈래 길 [머브 히콕] 헤럴드경제",
+      "publishedAt": "2026-06-04T02:12:03.000Z",
+      "rank": 2
+    },
+    {
+      "id": "dfeb7ff75220166a",
+      "title": "Brighthive가 IBM watsonx Orchestrate를 사용해 거버넌스가 적용된 AI 준비 데이터 세트를 구축하는 방법 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFlpYnJrck83eGNQUFZaV2lzSDdVcXJvWjlGN0I3VnlOSEJlTXFqQTN6QmpwZ1FQcUJRWWRDU29Ic1BZYlVuUkR2eHBaWkU3dEEwbE1SaDZheVlLYV9nVlFXa1d2TXZVYWpnUFF5anRhbFY4aXBDdm4zNmc5VW5fNWlXWkJrNVM1cGdxRmpDRE96cXdKN3psRmRsdW5SWjFCdTRtRG1ORjFiS2pmV1VEMVlZOFlLQk1VWjNzSQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Brighthive가 IBM watsonx Orchestrate를 사용해 거버넌스가 적용된 AI 준비 데이터 세트를 구축하는 방법 IBM",
+      "publishedAt": "2026-06-03T20:04:07.000Z",
+      "rank": 3
+    },
+    {
+      "id": "f8e3ff9c3c117790",
+      "title": "스마트홈, 고령자 돌봄 시장 주목…AAL 표준화 예의주시 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzQWNoc21GdXB4QmpNMU5leE4yU0NOZzRzUmlVaWwzVEYwSXhPSkhtc2tJVTdiMUFWc3NHT3ZMWm9zM0JuSHRQWm1aX09DQQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "스마트홈, 고령자 돌봄 시장 주목…AAL 표준화 예의주시 전자신문",
+      "publishedAt": "2026-06-03T07:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "e7fa604ccb09b296",
+      "title": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pRGlXUlZSUDkwWXBkNUgtZVNlV21FbV9Vd2xfTktBc0VXQUttRmJNNmVkRlI5eGlqQ25rODFhaU9tc2ZRMHlXQlY0dk9YdlJ5WWNEdk9VV0hob3BlQ01LaEhYam45TnZC0gFsQVVfeXFMTlJsR0s1WFJ0MnY0OFhKUi1MczNmT2EyeE9aVFpKMTlWcmx3NzlhTmZ2V3R0TVJRUmZ5czhoVFFNbXF6Wnd2eXJMU0FHQWdrTm51N1R2Vi1HaXE4Y1cyM0hBTzkxU08xNDBKSVA4?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Tencent Cloud Partners with UXSoft to Build Smarter Retail Operations for Hung Fook Tong, Hong Kong's Largest Herbal Product Retailer KIPOST",
+      "publishedAt": "2026-06-03T06:19:00.000Z",
+      "rank": 5
+    },
     {
       "id": "ab0c63afb0cc541c",
       "title": "[중화학 ON]한화, 샹그릴라 대화서 AI 자주국방·안보 협력 논의 外 : 네이버 블로그 - Naver Blog",
@@ -65,7 +110,7 @@
       "source": "Google News: International Standardization",
       "summary": "[중화학 ON]한화, 샹그릴라 대화서 AI 자주국방·안보 협력 논의 外 : 네이버 블로그 Naver Blog",
       "publishedAt": "2026-06-02T18:58:17.000Z",
-      "rank": 1
+      "rank": 6
     },
     {
       "id": "ded26ef54d46d0fa",
@@ -74,134 +119,89 @@
       "source": "Google News: AI Data Quality",
       "summary": "티쓰리큐 컨소시엄, '재난안전 AI데이터 구축' 국가사업 착수 - 머니투데이 머니투데이",
       "publishedAt": "2026-06-02T09:48:51.000Z",
-      "rank": 2
-    },
-    {
-      "id": "c1ecc78bbb415dfe",
-      "title": "'AI 수술계획·3D 프린팅·로봇' 로봇수술 진화 이끈다 - 의협신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1paFRpbjAxNXBCTm1saWVHRi1mbDU2VEhJMTNiblp0WDd1b3ByZlpaTnRDMndrS1VYUHFRQ1o0QmdJLUJMQkR0ZEVjX1JfS3RiNy1pSTZEbDFRX2RzTHhibG5GNWg5NFZBUi1hMlFfSzBBUQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "'AI 수술계획·3D 프린팅·로봇' 로봇수술 진화 이끈다 의협신문",
-      "publishedAt": "2026-06-02T08:02:34.000Z",
-      "rank": 3
-    },
-    {
-      "id": "e6f590f4bd7cb0aa",
-      "title": "[칼럼] AI와 데이터중 누가 먼저인가 - 시사타임즈",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHRhbjdQQ0wtcUZUNG5vam1USE16YlMyTklxaE1yMm9qN3NTMXQ0Ym9wVDl6am1DZ3E5djJlYTBHaUZKOVdQWEY2OU1FN0xlTi1vRFNGSDJaWmZVZDdlTS14bW1icnFCOHpEcjg5SFlfTDZ4RjdvX1MzTjlqOU5TaDhjaGM?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[칼럼] AI와 데이터중 누가 먼저인가 시사타임즈",
-      "publishedAt": "2026-06-02T04:34:44.000Z",
-      "rank": 4
-    },
-    {
-      "id": "524b9445f94223ef",
-      "title": "건양대 의학대학 이상섭 박사과정생, Cell Press 국제 권위지 초청 논문 게재 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfT1VKQlNzcjRMaUVGaURZeWN2bkI1T2QyTzlHSTdITVpJSTI0M3ZneHU5MmRMZU5Tckw4WXJ5b0hEa0c1UFJ1NGtxRmNza0k?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "건양대 의학대학 이상섭 박사과정생, Cell Press 국제 권위지 초청 논문 게재 v.daum.net",
-      "publishedAt": "2026-06-02T04:24:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "ec88b871d9e3e6a7",
-      "title": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 - 비욘드포스트",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RTUtDLVM4MzdIOThYZzFXdnRha05ORjlrRWNmbV9uYTZYNWxERmhuSzYyOF90dnhjaFZieFBNZ25iMTF1bGFETndkOVBZN2trSlRfSE4yUEtfa3c4alJLb3BxRlJ1TUtKdTVlVGUtcTY2NUU0amdpZDMwOA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "건양대 의대 이상섭 박사과정생, 국제 학술지 'TIPS' 초청 논문 게재 비욘드포스트",
-      "publishedAt": "2026-06-02T03:21:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "b7e4ac08a586600c",
-      "title": "딥엑스, 에이온과 3년 양산 협력…피지컬 AI 표준화 속도 [컴퓨텍스2026] - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQLXFKalpkeUctdkxDQ0c1MkVIY1JYY1JDc2VOS0wyM25PYUp0UlltNm9FRUxSTDRZNF9HUXlJZFI0d1NxWlczdjZleTJmQ2JpNmVZMw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "딥엑스, 에이온과 3년 양산 협력…피지컬 AI 표준화 속도 [컴퓨텍스2026] 이투데이",
-      "publishedAt": "2026-06-02T03:00:00.000Z",
       "rank": 7
     },
     {
-      "id": "a7db7fd1664e926c",
-      "title": "Flex Showcases Scalable Power Solutions for New AI Infrastructure at COMPUTEX 2026 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kemdDQlFhdFJtNVpkWjB2WUY3eU50NGEzYl82RGx5b1ZwZzlMLWhYczc5UDNUdFBrT0lSdmZTSjY0cXAzbkNBOWVHb0lLcXd1X1JGVDhuMXZmb1ZQR01rOE1LNUhQYk1QQ3Boag?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Flex Showcases Scalable Power Solutions for New AI Infrastructure at COMPUTEX 2026 IT비즈뉴스",
-      "publishedAt": "2026-06-02T03:00:00.000Z",
+      "id": "9f5c3926d6a603fc",
+      "title": "GREP Secures Two International Security Certifications… Strengthening Reliability of Online Assessment Service - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLR2hMcXhhR0lSeVBhbTZDSzVhd3FNRWJyWjk5Z0FFNVlLd2FTb3ZMbVd6TzJsYldpcHR1WXZ5aVVod1ZCc3BTVHVwMkNROEF2WHRZ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "GREP Secures Two International Security Certifications… Strengthening Reliability of Online Assessment Service 벤처스퀘어",
+      "publishedAt": "2026-06-02T06:27:52.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "6b5c40f2b1c58dfa",
-      "title": "Getting Started with Managed Agents",
-      "url": "https://www.youtube.com/watch?v=0YXe7u-i1qU",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/0YXe7u-i1qU/hqdefault.jpg",
-      "publishedAt": "2026-06-02T19:00:24.000Z",
+      "id": "6c473c53b3361ada",
+      "title": "It's time to fly | Codex",
+      "url": "https://www.youtube.com/watch?v=bJcA23ckzcY",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg",
+      "publishedAt": "2026-06-03T19:11:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "93c3100af6dc0c30",
-      "title": "Vibe code conversational agents in AI Studio",
-      "url": "https://www.youtube.com/watch?v=KiJcZlqJKuE",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/KiJcZlqJKuE/hqdefault.jpg",
-      "publishedAt": "2026-06-01T23:00:26.000Z",
+      "id": "e46d703a91ef9de0",
+      "title": "AI Financing Is an Arms Race, Says GoldenTree's Tananbaum",
+      "url": "https://www.youtube.com/watch?v=KVRonMDYoB4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/KVRonMDYoB4/hqdefault.jpg",
+      "publishedAt": "2026-06-03T18:21:04.000Z",
       "viewCount": 0
     },
     {
-      "id": "2c791e21371ec44f",
-      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
-      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/yz6I23VRbdg/hqdefault.jpg",
-      "publishedAt": "2026-06-01T15:41:22.000Z",
+      "id": "74c01e6050f0aa0f",
+      "title": "SpaceX Rejects Another Wall Street Convention Ahead of IPO",
+      "url": "https://www.youtube.com/watch?v=wvu7K_fF3mI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/wvu7K_fF3mI/hqdefault.jpg",
+      "publishedAt": "2026-06-03T18:11:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "939dd7cb4459cee6",
-      "title": "Gemini co-leads on project origins and what's next",
-      "url": "https://www.youtube.com/watch?v=8hfpLa5wPGo",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/8hfpLa5wPGo/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:00:20.000Z",
+      "id": "2d1c3129b984dc3e",
+      "title": "SpaceX To Target $75B in IPO at $135 Per Share | Bloomberg Tech 6/03/2026",
+      "url": "https://www.youtube.com/watch?v=xhTc7Jl88Ww",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/xhTc7Jl88Ww/hqdefault.jpg",
+      "publishedAt": "2026-06-03T18:03:55.000Z",
       "viewCount": 0
     },
     {
-      "id": "43a7b36f1a598e84",
-      "title": "Developer Keynote (Google I/O '26) - Audio Described",
-      "url": "https://www.youtube.com/watch?v=eC7t22gDwWo",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/eC7t22gDwWo/hqdefault.jpg",
-      "publishedAt": "2026-05-26T19:46:49.000Z",
+      "id": "bdffa27a7f38689e",
+      "title": "Perplexity Is 'Chip Agnostic,' Says CEO",
+      "url": "https://www.youtube.com/watch?v=ByNmf_y_Hrs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ByNmf_y_Hrs/hqdefault.jpg",
+      "publishedAt": "2026-06-02T19:19:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "2137e91e8c512018",
-      "title": "Demis Hassabis On What AI Will Do Next",
-      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/hqdefault.jpg",
-      "publishedAt": "2026-05-25T17:49:30.000Z",
+      "id": "4c21e973c1046593",
+      "title": "True Space Age Is Starting Now, Says Impulse Space CEO",
+      "url": "https://www.youtube.com/watch?v=D6RLhR4mM5k",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/D6RLhR4mM5k/hqdefault.jpg",
+      "publishedAt": "2026-06-02T19:17:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "30adc0e3791c72b2",
-      "title": "What's new in Google AI",
-      "url": "https://www.youtube.com/watch?v=SSe1VmVrtw0",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/SSe1VmVrtw0/hqdefault.jpg",
-      "publishedAt": "2026-05-23T00:45:21.000Z",
+      "id": "4fb5a43735112a05",
+      "title": "Investors Rethink Strategies Amid Mega IPOs",
+      "url": "https://www.youtube.com/watch?v=IQit2vOYzUk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/IQit2vOYzUk/hqdefault.jpg",
+      "publishedAt": "2026-06-02T19:16:12.000Z",
       "viewCount": 0
     },
     {
-      "id": "60278e2ed1603cf9",
-      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
-      "url": "https://www.youtube.com/watch?v=fAfuQN0WwFE",
-      "channel": "DeepLearningAI",
-      "thumbnail": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg",
-      "publishedAt": "2026-05-22T23:14:59.000Z",
+      "id": "f98e35a93667c50e",
+      "title": "Alphabet To Raise $80B in Equity, Anthropic Files For IPO | Bloomberg Tech 6/2/2026",
+      "url": "https://www.youtube.com/watch?v=wkISIxb4v18",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/wkISIxb4v18/hqdefault.jpg",
+      "publishedAt": "2026-06-02T18:38:34.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-02T04:04:04.000Z"
+      "updatedAt": "2026-06-03T04:12:33.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
