@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-05T03:47:04.692Z",
-  "projectsCheckedAt": "2026-06-05T03:47:04.692Z",
-  "projectsUpdatedAt": "2026-06-05T03:47:04.692Z",
+  "updatedAt": "2026-06-06T03:31:17.693Z",
+  "projectsCheckedAt": "2026-06-06T03:31:17.693Z",
+  "projectsUpdatedAt": "2026-06-06T03:31:17.693Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-05T03:47:04.692Z",
+    "checkedAt": "2026-06-06T03:31:17.693Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "4fc0525cc299e901",
-      "title": "JNPMedi Secures ISO 13485 Certification, Strengthening Its Medical Device Consulting Credibility - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xTTg3cUhsLWIzc0VPZU1wVU53bGdwQUxpamxVU19RTWlYWnZMUzA5Zk1ac2hMd3N3SEdfMkMyMFRvcG5Cd2p3dmRWekhFTHNmbXlsUm5n?oc=5",
+      "id": "009870f7a2f6ec0b",
+      "title": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations - 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xcHFkZy02c01LeDBqd1dDQTM3MFlmNjRIZDNoSXNuREM4cktIdFgycWdhWFZKeXNOWDVlWW0wLVYyenIxZHBNMGhtck9RWEZHZDRRVHdWeHRIeFo4RG0yTEUwQ1ZpeTBOUFE?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "JNPMedi Secures ISO 13485 Certification, Strengthening Its Medical Device Consulting Credibility 뉴스1",
-      "publishedAt": "2026-06-05T00:28:02.000Z",
+      "summary": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations 뷰티경제",
+      "publishedAt": "2026-06-06T03:05:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "0e95fafa70e3c4f6",
+      "title": "[Interview] YEPYEONG CEO Kwon Ha-ram \"We Will Establish the 21st-Century K-Tea Lifestyle as a Global Standard\" - 한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vTG8xU3otczhkdTd6OU9NY1RqZlVvckRNZFlvVTZyVnQwTFByYlJZU2YxdWt2bnVCUVZjdV9JTlJqRC04eWRPOWNLeG8?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[Interview] YEPYEONG CEO Kwon Ha-ram \"We Will Establish the 21st-Century K-Tea Lifestyle as a Global Standard\" 한국AI부동산신문",
+      "publishedAt": "2026-06-05T13:15:51.000Z",
+      "rank": 2
+    },
+    {
+      "id": "5c3c6f90bb05f00d",
+      "title": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pSGFUbllVaHZTdUJzR0JOeUlPUjdGemkzQTJtbE9QSVpPazNwWWpQZ3BsRHBEWHNxR1FYemRkTFUyYUlpRHJ6MVVJcmFhanBzQ3Z3?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea 데일리팜",
+      "publishedAt": "2026-06-05T16:18:45.000Z",
+      "rank": 3
+    },
+    {
+      "id": "27bd56ac017183b6",
+      "title": "차의과학대학교 AI정보의학연구소, 헬스 데이터 가치 평가 국제표준 (ISO/PWI TS 26040) 개발 및 활성화 - 데일리경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbmR6OFNWR2xOQlluemdwaU1vVGdkOVpULXJDU2FYMnRDSmRDb3JXSnhoWll6bGljUGlicWhMSkx3WVpmN3ZDTzJDaGNyXzItWFYySm5CU2p1ZHdQNlpFdGt6TzRLalJnRmxCVg?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "차의과학대학교 AI정보의학연구소, 헬스 데이터 가치 평가 국제표준 (ISO/PWI TS 26040) 개발 및 활성화 데일리경제",
+      "publishedAt": "2026-06-05T06:03:47.000Z",
+      "rank": 4
+    },
+    {
+      "id": "fe431193a783e825",
+      "title": "\"It's not about technology anymore, it's about trust\"… Hurotics establishes wearable robots as 'medical devices' - Laying the groundwork for global expansion with simultaneous ISO 13485 and 9001 certi - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DWWJnQVRxT2pUZndHbmo2NkpOem02TUNPN2Y3dHpCX3RSOE9NU1htRm9GS1Z5QlhFVVNVRGRyWjJCa0tfSlBfV2w5cHZQRkdiTWh6emZzMkNlX0kzaG5kaUVTdnRmelE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "\"It's not about technology anymore, it's about trust\"… Hurotics establishes wearable robots as 'medical devices' - Laying the groundwork for global expansion with simultaneous I...",
+      "publishedAt": "2026-06-05T05:28:30.000Z",
+      "rank": 5
+    },
+    {
+      "id": "379fc237db556be2",
+      "title": "2045년 기술주권 확립…정부, R&D 미래전략 수립 착수 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hekkyRFUtYlFpU3dwNFhycFc2TTgxZjV2TVpwTl83T1ZVM2puRFBWSDZMNnVkX2w3TXhLdVZRTDlqVV9WTllXcTRKcGVlcXQ3VUlfOGk5cGRIMVRoZkdUZk5yZGdrNk53NWZfRg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "2045년 기술주권 확립…정부, R&D 미래전략 수립 착수 IT비즈뉴스",
+      "publishedAt": "2026-06-05T05:00:00.000Z",
+      "rank": 6
     },
     {
       "id": "4f325706a7ddc1a4",
@@ -74,134 +119,89 @@
       "source": "Google News: Digital Transformation",
       "summary": "First Mold Accelerates Digital Transformation with Strategic AI Hiring to Boost Enterprise-Wide Efficiency IT비즈뉴스",
       "publishedAt": "2026-06-04T06:33:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "f647451caf342e9a",
-      "title": "더 큰 모델보다 더 나은 데이터가 먼저다 - itworld.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOc0ZWbVRpUjdqLXVQQlVibzREZkVjQ0VDVHZjU2dLZUJNZmJzcEV3T3NGc2UyMnJhaDE4a2psU0lXNUJ6UHZfRUNsV3BZeFhMczhSVERYNy1CdFI2SlBwYXc5ZmhpZUgwa2NvNFMxVjBKWVVoQ29rSE1vdDZ0SVRmQkVDamQ5UnowdnJ2eW9ENWRzNXZSSHN2Rm40eFA5dWVuUUZEZUtOYXZBV0RWSHo2TU5hM0FDNWxZbFpnaEV5YW1VLUlxQ2czYlo1aVBCNW1Vb1dlT1JrTUdHa1gyZ2hTNmd1anFvVVRUbkd5QjFFd1JCUHFFYXpmMlZlUlhhT2NYMEY4dURtTEtEMFZSMFlsTFl0ZFZyaDdBMnRFOURheHlxZDg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "더 큰 모델보다 더 나은 데이터가 먼저다 itworld.co.kr",
-      "publishedAt": "2026-06-05T01:08:30.000Z",
-      "rank": 3
-    },
-    {
-      "id": "f66d00c7064c0174",
-      "title": "SKAI Intelligence Partners with Korea's Leading AI Institute to Advance Synthetic Data and Physical AI Research - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mSG13Z0VmTjlxVGNsR0VZYUpfTnJmRzVqZmdHZk9rUHdJVTJfX3JnTks1MV9SMVRKaFhtRXNval9IbEZ5VnVLdzRhOG9hTmNzb0hkOWthU3VtNVhzNXJ3WXo1WGN6UHU3?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "SKAI Intelligence Partners with Korea's Leading AI Institute to Advance Synthetic Data and Physical AI Research KIPOST",
-      "publishedAt": "2026-06-04T04:00:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "31fa72af8e1f1ca1",
-      "title": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OZXlEWm1veGRod2l0eUQzeHZLa0NlQkphNXc4THRRUmlpLVY2MUtzelFBdjF2NTJyTXNQZk1XRy1OM2lsT29zdEQ2djM0dEx1ODBMV0o3eTl5NDRSZUItYTVHTjBTWVFv0gFsQVVfeXFMUHlfTVRuUnFCRXR2ZHo0Y1dHY1dMbk9IMXlvUGozUnRhdlk0M0RCUDM1TFNpQk8xRDNkU1gzaGdnZUxvYmh5NWpKLVI1bUFsNVFmMGNfQ3c4bmdPVW9ENHFyNVNtR29sVGx5ZDIy?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "MegazoneCloud Deploys Multi-Agent AI Shopping Agent for Golfzon Commerce KIPOST",
-      "publishedAt": "2026-06-04T13:45:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "5e55ae4c44b38285",
-      "title": "Miridi Secures 3 Types of Security Certifications Simultaneously… Preparing to Expand Global AI Services - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWHpycm0tR1A3VmxQMlJjWDVoZUwxcVIzSWFvaHRSZFB5YnBpVnRuekdXWVZlYzBVQ0djeTk4WU5EQkNCOHB2aEJvc0E3MXBsVW9J?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Miridi Secures 3 Types of Security Certifications Simultaneously… Preparing to Expand Global AI Services 벤처스퀘어",
-      "publishedAt": "2026-06-04T11:10:37.000Z",
-      "rank": 6
-    },
-    {
-      "id": "9a7d1665b098042d",
-      "title": "How Pure RIMS Powers University Digital Transformation - Elsevier",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0hQTnVqc1NXWGtFbExYSktqbW1taVlEcHhyNHdVZkxWOFU0NnhueGh1WGZxMjJWMTg5Q1FreDlUVkM1a1g2ZW1Gcjh1TnZlclZMSTZNVHBNMFM1QzR3dXJHeTF2aVdodng1R1ZUdUZPRk5CeGVuaThkV0NUdHd5QVUteU5vZk5SSG43NG93?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "How Pure RIMS Powers University Digital Transformation Elsevier",
-      "publishedAt": "2026-06-03T11:55:31.000Z",
       "rank": 7
     },
     {
-      "id": "e0a944242bd7cb83",
-      "title": "한시스템, 데이터 품질 숙련도시험 운영체계 구축...시험인증 분야 DX·AX 혁신 지원 - 비욘드포스트",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10dE5adHZzVENXak04N1VqYXV2SUxTdnlObWZ5dXFsRzRITGFnNG9CRkhfdXcwNVlLc2NNLVcxZDN1ek5DRlVSYmZEYWFuS2xDYVlvOWpzek9sdVcwN2prTWFEYzlUcEhVSmpyUU11MjY2X3BQTXl5QU5nWXM?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "한시스템, 데이터 품질 숙련도시험 운영체계 구축...시험인증 분야 DX·AX 혁신 지원 비욘드포스트",
-      "publishedAt": "2026-06-04T07:51:00.000Z",
+      "id": "bde1b678e3ab2ccb",
+      "title": "퀀텀테크엔시큐 '씨앤케어 홈캠', 산업통상자원부 '첨단기술·제품 확인' 획득… AI 기술력 인정 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82QVNmVVBaMVoySWwwU3lJcEliSl84a2s1Y1o2ZVNXdjVtRmNXRUhCOWY2cVc4WmFaWU1pM2RvLUNvRUlPS0xfVElzYlpKdw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "퀀텀테크엔시큐 '씨앤케어 홈캠', 산업통상자원부 '첨단기술·제품 확인' 획득… AI 기술력 인정 전자신문",
+      "publishedAt": "2026-06-05T01:21:28.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "3114709874ee8545",
-      "title": "What Codex Unlocks for Zapier",
-      "url": "https://www.youtube.com/watch?v=DDnGhZ01PqM",
+      "id": "3b2aae448e2d667d",
+      "title": "Tech Trade Under Pressure; Musk Sells His Vision of the Future | Bloomberg Tech 6/05/2026",
+      "url": "https://www.youtube.com/watch?v=9nSQkCXcZAk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/9nSQkCXcZAk/hqdefault.jpg",
+      "publishedAt": "2026-06-05T18:14:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "1abfdb9979e112ae",
+      "title": "Index Ventures' Achadjian on Backing Ex-SpaceX Workers",
+      "url": "https://www.youtube.com/watch?v=uJMgzPX7jBI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/uJMgzPX7jBI/hqdefault.jpg",
+      "publishedAt": "2026-06-05T18:09:59.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e912b1bad08fba89",
+      "title": "Apex Is the 'Ford' of Satellites, Says CEO",
+      "url": "https://www.youtube.com/watch?v=x2V_2OAsO5g",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/x2V_2OAsO5g/hqdefault.jpg",
+      "publishedAt": "2026-06-05T18:09:10.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "0e21eeb1a053145b",
+      "title": "Orbital Data Centers Face Space-Based Challenges",
+      "url": "https://www.youtube.com/watch?v=j_nUW53bF0U",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/j_nUW53bF0U/hqdefault.jpg",
+      "publishedAt": "2026-06-05T18:08:35.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a30a42f1b89f09d7",
+      "title": "Introducing Sites in Codex",
+      "url": "https://www.youtube.com/watch?v=VRvC5smyzso",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/DDnGhZ01PqM/hqdefault.jpg",
-      "publishedAt": "2026-06-04T20:25:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VRvC5smyzso/hqdefault.jpg",
+      "publishedAt": "2026-06-05T17:42:23.000Z",
       "viewCount": 0
     },
     {
-      "id": "27f1070d28783235",
-      "title": "Bloomberg Tech Event Special | Bloomberg Tech 6/04/2026",
-      "url": "https://www.youtube.com/watch?v=1bMjMj8D_dc",
+      "id": "78d53718c7143759",
+      "title": "Automate Agent Development Life Cycle Using Antigravity 2.0 and Gemini Enterprise Agent Platform",
+      "url": "https://www.youtube.com/watch?v=lB96_tdvdow",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/lB96_tdvdow/hqdefault.jpg",
+      "publishedAt": "2026-06-05T17:34:22.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "efed5071475cfe36",
+      "title": "The most interesting startups right now want to get you off your phone | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=GB4gPdD-fzM",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/GB4gPdD-fzM/hqdefault.jpg",
+      "publishedAt": "2026-06-05T17:04:23.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "3dd90fd178833b0d",
+      "title": "Broadcom CEO on the Biggest AI Chip Bets",
+      "url": "https://www.youtube.com/watch?v=pYMsjVcvlAw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/1bMjMj8D_dc/hqdefault.jpg",
-      "publishedAt": "2026-06-04T19:40:41.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "df71c0333cbdfc77",
-      "title": "Anthropic President Amodei on the Future of Claude",
-      "url": "https://www.youtube.com/watch?v=J_oUABikcCQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/J_oUABikcCQ/hqdefault.jpg",
-      "publishedAt": "2026-06-04T19:40:13.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6b338e6762152e0a",
-      "title": "Anthropic's Ethicist on Whether AI Can Become Conscious",
-      "url": "https://www.youtube.com/watch?v=6v15PyTfu4U",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/6v15PyTfu4U/hqdefault.jpg",
-      "publishedAt": "2026-06-04T19:39:14.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "40d527516f30b718",
-      "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
-      "url": "https://www.youtube.com/watch?v=U2C55LC0ZLM",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/U2C55LC0ZLM/hqdefault.jpg",
-      "publishedAt": "2026-06-04T19:32:57.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a0df60a429fe091d",
-      "title": "Build and share interactive prototypes in Codex",
-      "url": "https://www.youtube.com/watch?v=_9ImjmzAyus",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/_9ImjmzAyus/hqdefault.jpg",
-      "publishedAt": "2026-06-04T18:06:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "17c9a272d6f85386",
-      "title": "AI Has Become Major Capital Formation Cycle, Says Altimeter",
-      "url": "https://www.youtube.com/watch?v=sVXiW5yqLGs",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/sVXiW5yqLGs/hqdefault.jpg",
-      "publishedAt": "2026-06-04T18:00:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a6a34f472203ebae",
-      "title": "SaaSpocalypse Is Overblown, Says Okta CEO",
-      "url": "https://www.youtube.com/watch?v=bGr89V3ybP4",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/bGr89V3ybP4/hqdefault.jpg",
-      "publishedAt": "2026-06-04T17:56:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pYMsjVcvlAw/hqdefault.jpg",
+      "publishedAt": "2026-06-05T16:01:06.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-04T04:06:38.000Z"
+      "updatedAt": "2026-06-05T03:51:08.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
