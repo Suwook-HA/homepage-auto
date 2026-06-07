@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-06T03:31:17.693Z",
-  "projectsCheckedAt": "2026-06-06T03:31:17.693Z",
-  "projectsUpdatedAt": "2026-06-06T03:31:17.693Z",
+  "updatedAt": "2026-06-07T03:57:48.610Z",
+  "projectsCheckedAt": "2026-06-07T03:57:48.610Z",
+  "projectsUpdatedAt": "2026-06-07T03:57:48.610Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-06T03:31:17.693Z",
+    "checkedAt": "2026-06-07T03:57:48.610Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "ac8d4c6a59e077b4",
+      "title": "(주) AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 - 우먼컨슈머",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRjhoeXhEOU15ZFJidTBTdEI2R1RfcTRiRVFnRm50WUVoanhwenc4WVkyYkN1RkwwWUs1V3g2Qlh5cFdLS3g0Z2xEc1ZhRTFQQWtvUVBBcUpEUlhiTmFVZFNxMm5UMy1GZldmYQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "(주) AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 우먼컨슈머",
+      "publishedAt": "2026-06-06T09:39:51.000Z",
+      "rank": 1
+    },
+    {
+      "id": "26621e1df303cddf",
+      "title": "베트남, ‘디지털 전환법’ 7월 시행…“디지털 국가 전환 법적 토대 마련” - 법치뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vc2VJWnhvWjQ3VkVzSmpwS2RPNVNQcnZjUkJqNU5yZERwWmpnel81NnRYelB5MFE5QjF3MnJjeVZCNEpaVlBqY1lZOUlyTW0wVXJZNGFUd2trTm9hUTJveXplWVhYVElO0gFoQVVfeXFMTlVzZUlaeG9aNDdWRXNKanBLZE81U1BydmNSQmo1TnJkRHBaamd6XzU2dFh6UHkwUTlCMXcycmN5VkI0SlpWUGpjWVk5SXJNbTBVclk0YVR3a2tOb2FRMm95emVZWFhUSU4?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "베트남, ‘디지털 전환법’ 7월 시행…“디지털 국가 전환 법적 토대 마련” 법치뉴스",
+      "publishedAt": "2026-06-06T12:47:49.000Z",
+      "rank": 2
+    },
+    {
+      "id": "a21efe3abec052cd",
+      "title": "Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026 - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ReGg4ZHFHS0MtdmlJXzg5bWNWVlBUektCVk5iTUxZMXluX1hzdmRYOW1VTVlHZS1oTUtSdmlzeE1hNVhDWHdTTUl2VGhpWFJ5Umx5RUxQNEp3YThyYURrdWwwU1ZGVlNw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026 KIPOST",
+      "publishedAt": "2026-06-06T11:43:00.000Z",
+      "rank": 3
+    },
     {
       "id": "009870f7a2f6ec0b",
       "title": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations - 뷰티경제",
@@ -65,7 +92,16 @@
       "source": "Google News: International Standardization",
       "summary": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations 뷰티경제",
       "publishedAt": "2026-06-06T03:05:00.000Z",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "id": "bf91254f648b3892",
+      "title": "사물인터넷융합포럼, 정기총회 개최…AI 시대 IoT 표준화 논의 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45VjBHcUNFdGhReVE2Y00xWm91TnFzdThrcXVsYUZoWFVoblJTZ3lSWnVZYUdLQlpKeUFSME8tQWMwdnBFYnJpdzhSQ0x6UTBwbkk3R2R5cm1HU3hJaGxv?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "사물인터넷융합포럼, 정기총회 개최…AI 시대 IoT 표준화 논의 헬로티",
+      "publishedAt": "2026-06-06T07:09:22.000Z",
+      "rank": 5
     },
     {
       "id": "0e95fafa70e3c4f6",
@@ -74,64 +110,37 @@
       "source": "Google News: International Standardization",
       "summary": "[Interview] YEPYEONG CEO Kwon Ha-ram \"We Will Establish the 21st-Century K-Tea Lifestyle as a Global Standard\" 한국AI부동산신문",
       "publishedAt": "2026-06-05T13:15:51.000Z",
-      "rank": 2
-    },
-    {
-      "id": "5c3c6f90bb05f00d",
-      "title": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pSGFUbllVaHZTdUJzR0JOeUlPUjdGemkzQTJtbE9QSVpPazNwWWpQZ3BsRHBEWHNxR1FYemRkTFUyYUlpRHJ6MVVJcmFhanBzQ3Z3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea 데일리팜",
-      "publishedAt": "2026-06-05T16:18:45.000Z",
-      "rank": 3
-    },
-    {
-      "id": "27bd56ac017183b6",
-      "title": "차의과학대학교 AI정보의학연구소, 헬스 데이터 가치 평가 국제표준 (ISO/PWI TS 26040) 개발 및 활성화 - 데일리경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbmR6OFNWR2xOQlluemdwaU1vVGdkOVpULXJDU2FYMnRDSmRDb3JXSnhoWll6bGljUGlicWhMSkx3WVpmN3ZDTzJDaGNyXzItWFYySm5CU2p1ZHdQNlpFdGt6TzRLalJnRmxCVg?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "차의과학대학교 AI정보의학연구소, 헬스 데이터 가치 평가 국제표준 (ISO/PWI TS 26040) 개발 및 활성화 데일리경제",
-      "publishedAt": "2026-06-05T06:03:47.000Z",
-      "rank": 4
-    },
-    {
-      "id": "fe431193a783e825",
-      "title": "\"It's not about technology anymore, it's about trust\"… Hurotics establishes wearable robots as 'medical devices' - Laying the groundwork for global expansion with simultaneous ISO 13485 and 9001 certi - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DWWJnQVRxT2pUZndHbmo2NkpOem02TUNPN2Y3dHpCX3RSOE9NU1htRm9GS1Z5QlhFVVNVRGRyWjJCa0tfSlBfV2w5cHZQRkdiTWh6emZzMkNlX0kzaG5kaUVTdnRmelE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "\"It's not about technology anymore, it's about trust\"… Hurotics establishes wearable robots as 'medical devices' - Laying the groundwork for global expansion with simultaneous I...",
-      "publishedAt": "2026-06-05T05:28:30.000Z",
-      "rank": 5
-    },
-    {
-      "id": "379fc237db556be2",
-      "title": "2045년 기술주권 확립…정부, R&D 미래전략 수립 착수 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hekkyRFUtYlFpU3dwNFhycFc2TTgxZjV2TVpwTl83T1ZVM2puRFBWSDZMNnVkX2w3TXhLdVZRTDlqVV9WTllXcTRKcGVlcXQ3VUlfOGk5cGRIMVRoZkdUZk5yZGdrNk53NWZfRg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "2045년 기술주권 확립…정부, R&D 미래전략 수립 착수 IT비즈뉴스",
-      "publishedAt": "2026-06-05T05:00:00.000Z",
       "rank": 6
     },
     {
-      "id": "4f325706a7ddc1a4",
-      "title": "First Mold Accelerates Digital Transformation with Strategic AI Hiring to Boost Enterprise-Wide Efficiency - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PN3g4OWl1R2hLcGR0X0NqWUxOY2pyaDBnYWRTZnpxWERscHdqQjY5TEtVWWRGQWxzVTZzem0wVGs0MFU3bHViZHExdDZ4aUJfTnFTeHdTTDJPM1BYTEY2WmtnNGxtT2hkUmNpQw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "First Mold Accelerates Digital Transformation with Strategic AI Hiring to Boost Enterprise-Wide Efficiency IT비즈뉴스",
-      "publishedAt": "2026-06-04T06:33:00.000Z",
+      "id": "0d85db12f79fb0dd",
+      "title": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZE1rSTNSa0taYm5BWThnSW01elNjRmstYVdFVzI3LXY2WFNUMmtmYjJ0d1hEOV9mQUhvWjhVd3RkWXk0a3RqM21sRkJHLWVwSjlDemdfaEJ3U1cwOVk0YnNfcTBJLTVBM3c?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea 데일리팜",
+      "publishedAt": "2026-06-05T13:47:39.000Z",
       "rank": 7
     },
     {
-      "id": "bde1b678e3ab2ccb",
-      "title": "퀀텀테크엔시큐 '씨앤케어 홈캠', 산업통상자원부 '첨단기술·제품 확인' 획득… AI 기술력 인정 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82QVNmVVBaMVoySWwwU3lJcEliSl84a2s1Y1o2ZVNXdjVtRmNXRUhCOWY2cVc4WmFaWU1pM2RvLUNvRUlPS0xfVElzYlpKdw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "퀀텀테크엔시큐 '씨앤케어 홈캠', 산업통상자원부 '첨단기술·제품 확인' 획득… AI 기술력 인정 전자신문",
-      "publishedAt": "2026-06-05T01:21:28.000Z",
+      "id": "3e0aa8875119f05e",
+      "title": "무분별한 AI 도입 막는다... 美 연방 정부, 표준화된 안보 가이드라인 구축 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bjlSNFdOanktMWtuQW5ydFAwdXFWaTJDc01HQ1lGZEk2VHFOSVdUakJrTWZmcnFyUHdWZ1dTMEljbm51ekRadHZ0Ym5EODZVQ2x2TXhpQWVOcDFkdWNOejFtQTkxbzJo?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "무분별한 AI 도입 막는다... 美 연방 정부, 표준화된 안보 가이드라인 구축 보안뉴스",
+      "publishedAt": "2026-06-05T07:50:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "f0df960937f02b64",
+      "title": "OpenAI Investor Innovation Day",
+      "url": "https://www.youtube.com/watch?v=RwzRm-qCXwA",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/RwzRm-qCXwA/hqdefault.jpg",
+      "publishedAt": "2026-06-06T23:50:54.000Z",
+      "viewCount": 0
+    },
     {
       "id": "3b2aae448e2d667d",
       "title": "Tech Trade Under Pressure; Musk Sells His Vision of the Future | Bloomberg Tech 6/05/2026",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GB4gPdD-fzM/hqdefault.jpg",
       "publishedAt": "2026-06-05T17:04:23.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "3dd90fd178833b0d",
-      "title": "Broadcom CEO on the Biggest AI Chip Bets",
-      "url": "https://www.youtube.com/watch?v=pYMsjVcvlAw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pYMsjVcvlAw/hqdefault.jpg",
-      "publishedAt": "2026-06-05T16:01:06.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-05T03:51:08.000Z"
+      "updatedAt": "2026-06-06T03:35:20.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
