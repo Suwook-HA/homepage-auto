@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-07T03:57:48.610Z",
-  "projectsCheckedAt": "2026-06-07T03:57:48.610Z",
-  "projectsUpdatedAt": "2026-06-07T03:57:48.610Z",
+  "updatedAt": "2026-06-08T04:02:00.898Z",
+  "projectsCheckedAt": "2026-06-08T04:02:00.898Z",
+  "projectsUpdatedAt": "2026-06-08T04:02:00.898Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-07T03:57:48.610Z",
+    "checkedAt": "2026-06-08T04:02:00.898Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "ac8d4c6a59e077b4",
-      "title": "(주) AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 - 우먼컨슈머",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRjhoeXhEOU15ZFJidTBTdEI2R1RfcTRiRVFnRm50WUVoanhwenc4WVkyYkN1RkwwWUs1V3g2Qlh5cFdLS3g0Z2xEc1ZhRTFQQWtvUVBBcUpEUlhiTmFVZFNxMm5UMy1GZldmYQ?oc=5",
+      "id": "5aa144f85013c13e",
+      "title": "AI경영연구소주식회사, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 취득 - 시선뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zWS1UVVRqQVNfcngxd2NQVkVGZEJtQzhET0N6MUpUUGFxV0EwQ1d6R0FCT1RVSE5ZUTRQQ2ZBX1J3LWdpOUtDdklmVU01WDhOVW1lWnVYaXRZN2ZVMUxNeFNWM3Bja0gtcjlLTnNVNDJRd9IBckFVX3lxTE4zWS1UVVRqQVNfcngxd2NQVkVGZEJtQzhET0N6MUpUUGFxV0EwQ1d6R0FCT1RVSE5ZUTRQQ2ZBX1J3LWdpOUtDdklmVU01WDhOVW1lWnVYaXRZN2ZVMUxNeFNWM3Bja0gtcjlLTnNVNDJRdw?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "(주) AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 우먼컨슈머",
-      "publishedAt": "2026-06-06T09:39:51.000Z",
+      "summary": "AI경영연구소주식회사, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 취득 시선뉴스",
+      "publishedAt": "2026-06-08T01:31:57.000Z",
       "rank": 1
     },
     {
-      "id": "26621e1df303cddf",
-      "title": "베트남, ‘디지털 전환법’ 7월 시행…“디지털 국가 전환 법적 토대 마련” - 법치뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vc2VJWnhvWjQ3VkVzSmpwS2RPNVNQcnZjUkJqNU5yZERwWmpnel81NnRYelB5MFE5QjF3MnJjeVZCNEpaVlBqY1lZOUlyTW0wVXJZNGFUd2trTm9hUTJveXplWVhYVElO0gFoQVVfeXFMTlVzZUlaeG9aNDdWRXNKanBLZE81U1BydmNSQmo1TnJkRHBaamd6XzU2dFh6UHkwUTlCMXcycmN5VkI0SlpWUGpjWVk5SXJNbTBVclk0YVR3a2tOb2FRMm95emVZWFhUSU4?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "베트남, ‘디지털 전환법’ 7월 시행…“디지털 국가 전환 법적 토대 마련” 법치뉴스",
-      "publishedAt": "2026-06-06T12:47:49.000Z",
+      "id": "85779913361bc727",
+      "title": "From Fragmentation to One Global Data Standard - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOS1HdFdvMnc1UHVLRjFaUE5TUDhJNUZHOHhrZzVwUEpfYU1qUTNyaUZOVGFCNHJiZUl1dWJjZjJSbUhkLTh4ay1jMjVsbXY5TFBSTFFNdEZBWURvc2E4WUx2Qk9mczJubjlsMzlDazRSbks4YzJQNElSZjhnQWo5eUpGQnhsWlhzVnc?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "From Fragmentation to One Global Data Standard Veeva",
+      "publishedAt": "2026-06-07T23:56:28.000Z",
       "rank": 2
     },
     {
-      "id": "a21efe3abec052cd",
-      "title": "Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ReGg4ZHFHS0MtdmlJXzg5bWNWVlBUektCVk5iTUxZMXluX1hzdmRYOW1VTVlHZS1oTUtSdmlzeE1hNVhDWHdTTUl2VGhpWFJ5Umx5RUxQNEp3YThyYURrdWwwU1ZGVlNw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026 KIPOST",
-      "publishedAt": "2026-06-06T11:43:00.000Z",
+      "id": "8c29829f5c8775b3",
+      "title": "규제·제도혁신 리포트 ④ AI 의료제품 시대 열린다…심사체계 개편이 바이오산업에 던지는 과제 - 금융경제플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95a3dhelFIcmJSTmhQUWlSQXEtX3hka2NMTDliVUNqQWJGb09RYkdEUVhyaS02ZHFWRGtQYy0zWFBzM3lQRTVLNy1RTnJQak9veEpNV2g5MlRuNXNCSzktOWxtOHZhUU13Y3ZNWQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "규제·제도혁신 리포트 ④ AI 의료제품 시대 열린다…심사체계 개편이 바이오산업에 던지는 과제 금융경제플러스",
+      "publishedAt": "2026-06-08T01:15:00.000Z",
       "rank": 3
     },
     {
-      "id": "009870f7a2f6ec0b",
-      "title": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations - 뷰티경제",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xcHFkZy02c01LeDBqd1dDQTM3MFlmNjRIZDNoSXNuREM4cktIdFgycWdhWFZKeXNOWDVlWW0wLVYyenIxZHBNMGhtck9RWEZHZDRRVHdWeHRIeFo4RG0yTEUwQ1ZpeTBOUFE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations 뷰티경제",
-      "publishedAt": "2026-06-06T03:05:00.000Z",
+      "id": "ed8ce0370476a387",
+      "title": "Getting the Basics Right: Bayer AG’s Data Foundation for AI - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEprSXd3dnZwQTZLc1BGMDR6MXAzemVhWEQ0cllRZ0xaSGtwbzJYbTdhSmFsdFNORHROTkpBWmRaMktEbkdUdkVKSDktekhTaFR3MDdKdzdNWV9rajFMQk0zQkx0WEw3S3pqUFBuMk05M2JEUG1zaVBIc1dHTk0zMy1LYWY2b0RZMlFmYVdJQng0U3hlRTAtcw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Getting the Basics Right: Bayer AG’s Data Foundation for AI Veeva",
+      "publishedAt": "2026-06-07T23:56:28.000Z",
       "rank": 4
     },
     {
-      "id": "bf91254f648b3892",
-      "title": "사물인터넷융합포럼, 정기총회 개최…AI 시대 IoT 표준화 논의 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45VjBHcUNFdGhReVE2Y00xWm91TnFzdThrcXVsYUZoWFVoblJTZ3lSWnVZYUdLQlpKeUFSME8tQWMwdnBFYnJpdzhSQ0x6UTBwbkk3R2R5cm1HU3hJaGxv?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "사물인터넷융합포럼, 정기총회 개최…AI 시대 IoT 표준화 논의 헬로티",
-      "publishedAt": "2026-06-06T07:09:22.000Z",
+      "id": "a731af8d9246ac88",
+      "title": "Driving Operational Excellence with Deeper Data Understanding - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeU1DVVdQcmhMRWhYNGg1SlkyN2xRdGhHVFZZZ2NjdFFBb2ljUWVMdnpRUmx0cmhwWS1LSy1wSFRzaGdab2VqZGdIcTBNU3k5YVhwUUYtUmh6YjZmREt6NVJtQklXYWJDLVFsMEE3VDRiUnBvWlJPdHBHS0dzSU1mOVlZb2NPc2VqWi11T1ZvUmd1d2RMTEZzaE1GcWZzQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Driving Operational Excellence with Deeper Data Understanding Veeva",
+      "publishedAt": "2026-06-07T23:56:28.000Z",
       "rank": 5
     },
     {
-      "id": "0e95fafa70e3c4f6",
-      "title": "[Interview] YEPYEONG CEO Kwon Ha-ram \"We Will Establish the 21st-Century K-Tea Lifestyle as a Global Standard\" - 한국AI부동산신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vTG8xU3otczhkdTd6OU9NY1RqZlVvckRNZFlvVTZyVnQwTFByYlJZU2YxdWt2bnVCUVZjdV9JTlJqRC04eWRPOWNLeG8?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[Interview] YEPYEONG CEO Kwon Ha-ram \"We Will Establish the 21st-Century K-Tea Lifestyle as a Global Standard\" 한국AI부동산신문",
-      "publishedAt": "2026-06-05T13:15:51.000Z",
+      "id": "e9c280d83587ac68",
+      "title": "Daiichi Sankyo Europe GmbH: Powering AI and Analytics with Deep KOL Data - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjh5Qm8zbTVuTVIxbmxkeHNrZGZjTFA3U0Vsb0tGM3pfcmpvclV0Y0NZYVFrYnJjdkprbDRDSjlNSlVwZmpvNWU1alh2SVNUUHRzSjBhQmlsMFRBX2VFcWFDV3N6V1FyaHZvNzNWYXNoeThXa1ByMWhzQ0c0RWRQQ1lCcXhlZDF1ZXM4LVdSYW5kdExfd0JnWU96REo4cnJqNGFaYUhnYmEwem8?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Daiichi Sankyo Europe GmbH: Powering AI and Analytics with Deep KOL Data Veeva",
+      "publishedAt": "2026-06-07T23:56:28.000Z",
       "rank": 6
     },
     {
-      "id": "0d85db12f79fb0dd",
-      "title": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZE1rSTNSa0taYm5BWThnSW01elNjRmstYVdFVzI3LXY2WFNUMmtmYjJ0d1hEOV9mQUhvWjhVd3RkWXk0a3RqM21sRkJHLWVwSjlDemdfaEJ3U1cwOVk0YnNfcTBJLTVBM3c?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "데일리팜코리아, 데일리팜 영문뉴스, dailypharmkorea 데일리팜",
-      "publishedAt": "2026-06-05T13:47:39.000Z",
+      "id": "c578bf015de89187",
+      "title": "Astellas: Measuring Medical Impact - From Vision to Reality - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT29CY085UEszQTVzZHNDSVpzWlNTZE5tZld2b2hKVmJoM3B6aTlIVUFfZkM5TzJrU0lGTXFaRGNvdk9hVllDVUg1TEljWjkyeEV1U05vUFZaZUk4UVVPeTBpZzVJbi15VEFxNWpJUmh3ZmNNbzV6RWIzbE1DUndMZkxsYUNjZU1JR3ZtUUJ3cWhueU54eDBWd0J5Q3E2dEM1SmpnNmNPRUQwa0VibjBya0paMFg4Qm1qR2ZSa293WF9rMzBpWXhJNWlTSjU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Astellas: Measuring Medical Impact - From Vision to Reality Veeva",
+      "publishedAt": "2026-06-07T23:56:28.000Z",
       "rank": 7
     },
     {
-      "id": "3e0aa8875119f05e",
-      "title": "무분별한 AI 도입 막는다... 美 연방 정부, 표준화된 안보 가이드라인 구축 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bjlSNFdOanktMWtuQW5ydFAwdXFWaTJDc01HQ1lGZEk2VHFOSVdUakJrTWZmcnFyUHdWZ1dTMEljbm51ekRadHZ0Ym5EODZVQ2x2TXhpQWVOcDFkdWNOejFtQTkxbzJo?oc=5",
+      "id": "5a681faf5d69e4fa",
+      "title": "AI 기반 디지털 의료기기 신속 상용화 지원사업 실시 - 한국의약통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VeUhVazBGSThBWHdTQ1BWSkVRcF9Xd3pVQ1V1emx1dllwMUtRQlhKbF9kaXJ3NEg3eGZfU3FBMks2SVRUSzhBMmx4djRHeU90ZnM4ODNFQU1NeFN3Z0RoZ3hIeWdlMWRaa2Y4?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "무분별한 AI 도입 막는다... 美 연방 정부, 표준화된 안보 가이드라인 구축 보안뉴스",
-      "publishedAt": "2026-06-05T07:50:00.000Z",
+      "summary": "AI 기반 디지털 의료기기 신속 상용화 지원사업 실시 한국의약통신",
+      "publishedAt": "2026-06-07T21:38:30.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-06T03:35:20.000Z"
+      "updatedAt": "2026-06-07T04:01:52.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
@@ -277,16 +277,6 @@
       "updatedAt": "2026-03-14T09:59:14.000Z"
     },
     {
-      "id": "9724cd70e0f80b2a",
-      "name": "MultiCatalogue_integration",
-      "description": "No description",
-      "url": "https://github.com/Suwook-HA/MultiCatalogue_integration",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-03-12T05:16:47.000Z"
-    },
-    {
       "id": "2255cb92e821ecd3",
       "name": "Multi-agent-Crypto-management",
       "description": "다중 에이전트 기반 크립토 관리",
@@ -295,6 +285,16 @@
       "forks": 1,
       "language": "Python",
       "updatedAt": "2025-09-22T07:27:10.000Z"
+    },
+    {
+      "id": "9724cd70e0f80b2a",
+      "name": "MultiCatalogue_integration",
+      "description": "No description",
+      "url": "https://github.com/Suwook-HA/MultiCatalogue_integration",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-03-12T05:16:47.000Z"
     },
     {
       "id": "a13f6ec1bd997fa9",
