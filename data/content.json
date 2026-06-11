@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-10T03:43:08.224Z",
-  "projectsCheckedAt": "2026-06-10T03:43:08.224Z",
-  "projectsUpdatedAt": "2026-06-10T03:43:08.224Z",
+  "updatedAt": "2026-06-11T03:59:58.555Z",
+  "projectsCheckedAt": "2026-06-11T03:59:58.555Z",
+  "projectsUpdatedAt": "2026-06-11T03:59:58.555Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-10T03:43:08.224Z",
+    "checkedAt": "2026-06-11T03:59:58.555Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "a630de0c544e6ba4",
+      "title": "한국경영인증원, AI 시대 대응 ‘ISO/IEC 42001’ 도입 사례 공유 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6SDBrRDdOME9uX1p6aUh2UkRSWEpTU3g1NWJ2NkdOdW1pZ3VkWVVIcV9pQmtpZHJhSVFKbEhPekdDdEZEbW1KWExzOHNsU1h2ZWUtdThfQXYzYzBaRzA2ZkNmRDJJZDZYb2pz?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "한국경영인증원, AI 시대 대응 ‘ISO/IEC 42001’ 도입 사례 공유 데이터넷",
+      "publishedAt": "2026-06-11T01:01:40.000Z",
+      "rank": 1
+    },
+    {
+      "id": "d9e454208d14d6f1",
+      "title": "[ESG 아카데미 강의소개 - ⑫] 지속가능성 인증 실무, 무엇을 어떻게 준비할 것인가 - CPA뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneXlvXzNqX3hfaDN0Q3ptQThQNlhmcXZPMjJoWmxGc2ZlcUF3QjBQRVFkR2VhcFVnOUhVdTU0SHZBM0pKLXd4SW9PdWhrMEtacHR2ZWU5dGdjRnRpYnBJS2xON3pfUkZf?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[ESG 아카데미 강의소개 - ⑫] 지속가능성 인증 실무, 무엇을 어떻게 준비할 것인가 CPA뉴스",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "496a78f8fe70e8f6",
+      "title": "KAI Unveils AI-Integrated Manned-Unmanned Combat Systems at Defense Expo - OECD AI Policy Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlaGRDSFl1QjEzcF9LTVNObWktOGdubjdlaGpVdHVpbUtMLURqNFF3VlluRmRVdmFnWTZSVWxnN2w2WmkwdnNuZnZFTjdjeGdocXMzWnh1aw?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "KAI Unveils AI-Integrated Manned-Unmanned Combat Systems at Defense Expo OECD AI Policy Observatory",
+      "publishedAt": "2026-06-10T08:17:34.000Z",
+      "rank": 3
+    },
+    {
+      "id": "6b704eaa2a2109f2",
+      "title": "AI 도입보다 데이터 표준화 먼저···SK이노, 울산 제조 AX 장벽 짚었다 - smartbizn.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZVhBU205MEhKbzcyQklHRzBFYkd3VlBHMUxJaUxDZ21QbjZjTC1sWnYtdDRncnlNeUxzb1pVSXV2SC16VExRcmV3ZTFGeVVBZE1BaU85Ulh0Y1BKSnRnYi1pdzBDVXl4TVduNw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI 도입보다 데이터 표준화 먼저···SK이노, 울산 제조 AX 장벽 짚었다 smartbizn.com",
+      "publishedAt": "2026-06-10T08:56:06.000Z",
+      "rank": 4
+    },
+    {
+      "id": "c19ddb0afcbc9c64",
+      "title": "재료연·중국과학원 공동연구실 출범···전략소재 협력 확대 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taHdnSmNSVUZJYnZ2OGZaUVdVc2xzcHJvZWJBZHd5dkUwMXdnVTdjYW8wSHNrRV9qS243eTAwOFVnYzlxcDVWcjJobF93QWZHUlFMTXZ3bnV0NmtKUURSNEY4N1NPYXpuR0E?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "재료연·중국과학원 공동연구실 출범···전략소재 협력 확대 헬로디디",
+      "publishedAt": "2026-06-10T08:20:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "50c70188894af986",
+      "title": "R&D성과 산업 경쟁력으로···\"연구소·기업 함께 기획·검증해야\"선박플랜트연에서 협력 전략 논의 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XMTcxZlFwTG5JWDJrT2hZa2tnOXNvMXRRMndrSkF4OWcyVk9yT2hSVW5aVEdJb1B3bWJKdWdHWHctVUdUODdxQ0ltbktEVWFaRV8tVkJnRFBUT0tJa3lmc1VRNDVGNlFfTlE?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "R&D성과 산업 경쟁력으로···\"연구소·기업 함께 기획·검증해야\"선박플랜트연에서 협력 전략 논의 헬로디디",
+      "publishedAt": "2026-06-10T08:10:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "1c50e3982097de0f",
+      "title": "KB라이프, AI 기반 상담 지원 확대·상담 품질 표준화 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmJTT0tHajMxVk5RbVJmelljanVvTElxS0pHVDFBRll4QmlmLTNXdTRzVjcwbExKTlJqY1dIU19HZjBhemFFaUR6dWFCWlczTDNndnNwdDNuY05EbEw4TjNNUzJEM0o3S3JlMGdURHFzVkVGOUZfdEl3ZmJpMi1NejJkZlo?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KB라이프, AI 기반 상담 지원 확대·상담 품질 표준화 글로벌이코노믹",
+      "publishedAt": "2026-06-10T06:10:12.000Z",
+      "rank": 7
+    },
     {
       "id": "13f2d3f8596a9b0e",
       "title": "AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 - 경남대학교 교육방송국",
@@ -65,143 +128,80 @@
       "source": "Google News: ISO IEC AI",
       "summary": "AI경영연구소, ISO/IEC 42001:2023 심사원/선임심사원 연수기관 지정 경남대학교 교육방송국",
       "publishedAt": "2026-06-09T04:21:04.000Z",
-      "rank": 1
-    },
-    {
-      "id": "6e31e3370b84eacd",
-      "title": "공공기관 AI 구축 절차 표준화…행안부, 도입 가이드 배포 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tOElnQkd2Y0RvNDR3cFplclFidW1OaHR5MzBzNm0teC1wbmxVMVlOcFRPOXNXYk1fQk9SZ3YwaUFXNE8yWUpqMGc3RjlkQjA?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "공공기관 AI 구축 절차 표준화…행안부, 도입 가이드 배포 v.daum.net",
-      "publishedAt": "2026-06-10T03:02:01.000Z",
-      "rank": 2
-    },
-    {
-      "id": "13393198683a667a",
-      "title": "Korea-Japan cooperation is a matter of survival, says SK Group chief - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91N2E4VlZnMjZqaktJLW03dDNPX21xUlZQQ1hpbVk3UXNOaHBBd2djVXFRMHU0UTJrYUFKNTRaZUpabm40bFNDanNkRXZySW1neVhQRFR1LVA3NllLLWtBSUk1QlJxQWR6OE0zTW5hSnpGVGJ5WjhObg?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Korea-Japan cooperation is a matter of survival, says SK Group chief 네이트",
-      "publishedAt": "2026-06-10T01:51:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "bd27d173aef03dce",
-      "title": "바이오에 몰리는 국가 R&D 자금…‘예산 확대·규제 개선’ 국가전략 본격화 - 금융경제플러스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByUmpjSU5pRGozUWVzNkNrd0pXVWVZMGstNUFBOXJEMnVPZU02aDFGTjktMW5iUjF1Rkk0ZHVIVlNSSWd3WEp2elprNkNyNVhWOXpIODZXQWxfSi1tR2M0VlpmZEZIaWljSGg2cg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "바이오에 몰리는 국가 R&D 자금…‘예산 확대·규제 개선’ 국가전략 본격화 금융경제플러스",
-      "publishedAt": "2026-06-10T00:10:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d07f53c7e6f54dc1",
-      "title": "크라우드웍스, 340억 규모 피지컬 AI 월드모델 개발 국책과제 수주 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40SENTYmxWVDNYMS13N3ZmR3MweDRyTVh1b3pwWVU4R0pKV2dadGFadFhTdnZMZVZJcHBkM0EwTll4aUxFWXMyRVBFeFZjdHk1d0FfX1duS3pJWkFPUG1MRUlrbXhPOEVTVnk4WmRn0gFuQVVfeXFMTjRIQ1NibFZUM1gxLXc3dmZHczB4NHJNWHVvenBZVThHSkpXZ1p0YVp0WFN2dkxlVklwcGQzQTBOWXhpTEVZczJFUEV4VmN0eTV3QV9fV25LeklaQU9QbUxFSWtteE84RVNWeThaZGc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "크라우드웍스, 340억 규모 피지컬 AI 월드모델 개발 국책과제 수주 - 머니투데이 머니투데이",
-      "publishedAt": "2026-06-09T23:57:34.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d00ab4fd5a917e40",
-      "title": "이화여대, 美 조지워싱턴대 초청해 교류 협력 확대 논의 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jbnNlZmRqNWpPUFBRbC1mWDVzV2ZQYnNBT0ZoWGxJemJ4ZS1KeVN0eHV0RWJGWGdOdmx5aFVmZkFreS1aemh2SU91eWpsS3B3OHhmT1ptalkycjBVcTQtVkNINHdmNkFRa1NjVUpqeVpCbVIzaDFVUdIBeEFVX3lxTE9jbnNlZmRqNWpPUFBRbC1mWDVzV2ZQYnNBT0ZoWGxJemJ4ZS1KeVN0eHV0RWJGWGdOdmx5aFVmZkFreS1aemh2SU91eWpsS3B3OHhmT1ptalkycjBVcTQtVkNINHdmNkFRa1NjVUpqeVpCbVIzaDFVUQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "이화여대, 美 조지워싱턴대 초청해 교류 협력 확대 논의 뉴시스",
-      "publishedAt": "2026-06-09T23:50:30.000Z",
-      "rank": 6
-    },
-    {
-      "id": "9ed4c1c32026fc6f",
-      "title": "MediThinQ Exclusively Supplies 3D Surgical Solution to U.S. Baxter… “Challenging Global Standards for K-Medical Devices” - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KcjJQc0tyUllPTktsMjA5QThHeUNOaEwxRWFvbHc0Wmpuc2lILWpvdGVDbEhwN2JFSTBZbkEyTWZaZF81MndJS3J3dC1mYlkzZ3RB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "MediThinQ Exclusively Supplies 3D Surgical Solution to U.S. Baxter… “Challenging Global Standards for K-Medical Devices” 벤처스퀘어",
-      "publishedAt": "2026-06-09T12:40:55.000Z",
-      "rank": 7
-    },
-    {
-      "id": "f9f263f8ab12a6b5",
-      "title": "THE SULTANATE OF OMAN CONSOLIDATES ITS POSITION AS A STABLE DESTINATION FOR GLOBAL CAPITAL - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZQnRTeXU4MU9XMGpOSmxRbWhETWRFY1pPcDJkSjBmTUJyb3NLVG9mNXk2S0hQUG1qZmpkZDVEVy1fRVBKbm9aZnoxMUlkMGY3OFJZX2RCWVRhUnJUaF9qMTA0MzVZZzJI0gFsQVVfeXFMT1pBaG80R3otNUMzUlAxMTFmaDN0MWtCOVBJdzFIX1JHdEpMZmxCamQ1dzk1d0FqQ2dmNE1WV3Y5c0RqWVFDRWtFVDNXUURjWDlMaXdiZHU2Q2h4ODJyX3FVQnh6VU9OQWlRNXl3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "THE SULTANATE OF OMAN CONSOLIDATES ITS POSITION AS A STABLE DESTINATION FOR GLOBAL CAPITAL KIPOST",
-      "publishedAt": "2026-06-09T16:59:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "3513f839b77f4162",
-      "title": "Codex for Finance: Faster Reports, Dashboards, and Decisions",
-      "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/IEYU-CgLo3E/hqdefault.jpg",
-      "publishedAt": "2026-06-09T21:42:40.000Z",
+      "id": "355d4ad806b1d601",
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Dkqzqw8rxXI/hqdefault.jpg",
+      "publishedAt": "2026-06-05T15:50:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "9a6e5771862f5d2a",
-      "title": "Codex for data science",
-      "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Lvk_VZOppIY/hqdefault.jpg",
-      "publishedAt": "2026-06-09T21:30:13.000Z",
+      "id": "2c791e21371ec44f",
+      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/yz6I23VRbdg/hqdefault.jpg",
+      "publishedAt": "2026-06-01T15:41:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "ce47decb95356453",
-      "title": "What Codex Unlocks for Nextdoor",
-      "url": "https://www.youtube.com/watch?v=evPsMeSiP_4",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/evPsMeSiP_4/hqdefault.jpg",
-      "publishedAt": "2026-06-09T20:39:20.000Z",
+      "id": "2137e91e8c512018",
+      "title": "Demis Hassabis On What AI Will Do Next",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/hqdefault.jpg",
+      "publishedAt": "2026-05-25T17:49:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "b3f6fd75487cbcc1",
-      "title": "OpenAI's CFO Presents the Future of Finance with University of California’s Chief Investment Officer",
-      "url": "https://www.youtube.com/watch?v=76ABuBGX4IY",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/76ABuBGX4IY/hqdefault.jpg",
-      "publishedAt": "2026-06-09T20:38:48.000Z",
+      "id": "c87f8b833a25d220",
+      "title": "DeepSeek’s New AI Is A Game Changer",
+      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/LpXhy2iiaQE/hqdefault.jpg",
+      "publishedAt": "2026-05-22T00:47:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "633e5946ecee3e09",
-      "title": "Introducing Gemini 3.5 Live Translate",
-      "url": "https://www.youtube.com/watch?v=TNwKs39uSVk",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/TNwKs39uSVk/hqdefault.jpg",
-      "publishedAt": "2026-06-09T15:14:29.000Z",
+      "id": "202421b52b748eb0",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg",
+      "publishedAt": "2026-05-13T16:07:20.000Z",
       "viewCount": 0
     },
     {
-      "id": "ec276dd4f1619836",
-      "title": "Gemma Playground: Robot Duck",
-      "url": "https://www.youtube.com/watch?v=pLwB_63yUBY",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/pLwB_63yUBY/hqdefault.jpg",
-      "publishedAt": "2026-06-09T04:00:33.000Z",
+      "id": "54fa5a838ac37c40",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
+      "publishedAt": "2026-05-08T16:46:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "e49e764f6eb79333",
-      "title": "Intelligence At Work - Enterprise Readiness",
-      "url": "https://www.youtube.com/watch?v=gRSzTChV_bk",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/gRSzTChV_bk/hqdefault.jpg",
-      "publishedAt": "2026-06-08T21:51:05.000Z",
+      "id": "1f6d2f17d0da7cb5",
+      "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
+      "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/p7K3xfViWCE/hqdefault.jpg",
+      "publishedAt": "2026-05-06T16:07:54.000Z",
       "viewCount": 0
     },
     {
-      "id": "8709b2cd56d6f7c9",
-      "title": "Palo Alto Networks Moves Faster with GPT-5.5",
-      "url": "https://www.youtube.com/watch?v=KWAE5G7nF8Q",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/KWAE5G7nF8Q/hqdefault.jpg",
-      "publishedAt": "2026-06-08T18:06:21.000Z",
+      "id": "e5f5518d3f7ce22a",
+      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
+      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
+      "publishedAt": "2026-05-03T17:02:48.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-09T03:36:15.000Z"
+      "updatedAt": "2026-06-10T03:47:14.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
