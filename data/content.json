@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-12T03:59:38.816Z",
-  "projectsCheckedAt": "2026-06-12T03:59:38.816Z",
-  "projectsUpdatedAt": "2026-06-12T03:59:38.816Z",
+  "updatedAt": "2026-06-13T03:45:14.563Z",
+  "projectsCheckedAt": "2026-06-13T03:45:14.563Z",
+  "projectsUpdatedAt": "2026-06-13T03:45:14.563Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-12T03:59:38.816Z",
+    "checkedAt": "2026-06-13T03:45:14.563Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "b17dbf46677ebbab",
+      "title": "From Fragmentation to One Global Data Standard - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFN1Tm9lVGdKVUh1RHdaS1lnVGtJZGpoYlBDRFFBNDhOdERvVDRPQ2M1akpSMXAzeTZrZXNONThHMUdKVnE5U0lMRHB1LWtxUFVOOHBYdEFycnNla0liOHgtbGJhd2JUcFhCLVVIUjJ4Q1RRcHQtbUgwNF9HVWlJNy05V0NEMlR5WGZhZ09FLXNFMzg?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "From Fragmentation to One Global Data Standard Veeva",
+      "publishedAt": "2026-06-13T00:05:01.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3c5369c57d521568",
+      "title": "Astellas: Measuring Medical Impact - From Vision to Reality - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFJrVk9UVTFwYzdUU2tLSjk1ZUFhV0hjTktNc09yM3h1dFZTREprX1VVUUQxaXFBM3RKVXcwWW50b014RmZCNjRBNDhLWGhPd2lpSEJnUHdULTZsWjdQNEJsMEZQdlRFRlBvckpuTFE1bnJIWWFJX1c1cjg0NTZjazhnVWVFMElRQ1pLRUFDaUNxRmhOcEhNT2Fkd1FoT1Az?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Astellas: Measuring Medical Impact - From Vision to Reality Veeva",
+      "publishedAt": "2026-06-13T00:05:01.000Z",
+      "rank": 2
+    },
+    {
+      "id": "4dfd21e0b5fb636f",
+      "title": "“The end of the AI competition is control, not performance”… 'Trusted AI' as described by Intellivix CEO Choi Eun-soo - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00aTNQQWpTVFBzVVJQSEZKNXRScnNPNEhGdU1KUWRILWV2V2gwQm9DN1Y0aDNqRUJlQ0kwZlhzLUREaU9yUGJfa1FaR2ZRUDZ5alRN?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "“The end of the AI competition is control, not performance”… 'Trusted AI' as described by Intellivix CEO Choi Eun-soo 벤처스퀘어",
+      "publishedAt": "2026-06-12T23:11:54.000Z",
+      "rank": 3
+    },
+    {
+      "id": "3460a74d791e2687",
+      "title": "한국, AI·6G 보안 국제표준 14건 승인 이끌어…ITU-T 회의서 글로벌 주도권 확보 - 대한일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OREpaaFFQSHhhd1BZUFJZclZjZ3NPOUVHZEVFZzY3cDNyRzFnVnlnTG44aV9XbU5BdE9qLWtrSi1FMXk3dlFLTG5Cc0hmWXNwbDl2Y1ZBYW13cFFaQmJvMS0waV80THlVU240ajktSQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "한국, AI·6G 보안 국제표준 14건 승인 이끌어…ITU-T 회의서 글로벌 주도권 확보 대한일보",
+      "publishedAt": "2026-06-12T09:22:51.000Z",
+      "rank": 4
+    },
+    {
+      "id": "fba0d2289b35546a",
+      "title": "[GAFH 2026] 국내외 석학들 “AI, 기술 패권 아닌 인류공영 수단 돼야” - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR2dtYnRJVlFIV2RxVUJRRnRzNzFMVU5mV1dEbTBLRXpOekN3MU5LMDhNSEI1QU1ZbnF4U2RqSk1oN3NVRXlGMjBqSzgtOTB6V1JmME5aUGpuQWMtNVIwZy1zVVlzMlBUaWc?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[GAFH 2026] 국내외 석학들 “AI, 기술 패권 아닌 인류공영 수단 돼야” 천지일보",
+      "publishedAt": "2026-06-12T12:00:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "e75603245224ef70",
+      "title": "韓, 'AI 표준동맹 구축' 주도권 강화 - 넷제로뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LMTExNmgybHpIY0h6QjZMek9EcDBEbk95Q2JhUzRobTN6YXA0SmEwbS10SF9aYUt6VGxCQkh1RnRCemdiV0Q2TXVyeE1aSWw0eE9yQ0ZwMDJDZ1UwWkJkc1dCVjQwNFJ2NXdj0gFuQVVfeXFMTmt5LU9VdWhjRExpTzdHemdhTlA2NVY4Um1BN0FMWms5MEJ4MTdBUEZUX1kwQkMwRjB1YVliQ0xyWXV6UzRNWnhYcnB1UXJzVlVtckhXMjI3YkNtSV8zbmNqbnRnb0dRZzZwY1VaMEE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "韓, 'AI 표준동맹 구축' 주도권 강화 넷제로뉴스",
+      "publishedAt": "2026-06-12T10:12:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "6e379bca8a36711e",
+      "title": "AI·6G 정보보안 국제기준, 한국이 쥐락펴락…ITU 회의서 29건 성과 - nanamcom.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MRWpEMmhRNlBuN3d6dTZyZUxBS2Zqd010cDlJTjEtbTRBMGxBMlVqZVpmTG5SZTVCVjBWSlJEdlZFWUxXRkxSTTNDaFFzbVA3ZGdjQ1JDOHEydUsySy1oX19sVGRQeG16Uktycg?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "AI·6G 정보보안 국제기준, 한국이 쥐락펴락…ITU 회의서 29건 성과 nanamcom.co.kr",
+      "publishedAt": "2026-06-12T03:02:19.000Z",
+      "rank": 7
+    },
     {
       "id": "08c6f9b86f5168fb",
       "title": "韓 AI·6G 보안 표준 주도권 선점…ITU-T서 신규과제 14건 승인 - 디지털데일리",
@@ -65,143 +128,80 @@
       "source": "Google News: ITU-T standardization",
       "summary": "韓 AI·6G 보안 표준 주도권 선점…ITU-T서 신규과제 14건 승인 디지털데일리",
       "publishedAt": "2026-06-12T03:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "7659a4439ff24d83",
-      "title": "CJ온스타일, ISO 37301 준법경영시스템 사후심사 3년 연속 통과 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4td1hQYmpyNUw4dXZhbFJpcndiUWVHN19JSWVKMDRpMXJkb3VNOFhSbWQxU1VrQ3hVS0phcUhmeDFJZw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "CJ온스타일, ISO 37301 준법경영시스템 사후심사 3년 연속 통과 브레이크뉴스",
-      "publishedAt": "2026-06-12T01:05:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "09ed3cdf6f696842",
-      "title": "﻿﻿LAMEDITECH’s ‘HandyRay Glu’ laser blood glucose monitor meets international accuracy standards in clinical trials - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxcmY5VG9BLVU3b2lQaU1UU2IyaklCU2o5cV82OExybTgwYkhiZFpjS1QxWFBUWi1kNWxnUFZTTzNaeG53c3pjWmhnanBQcGxnMXpYSVU4RDA1VmZNY2Z2aTJtY2pucjNCTG02TdIBcEFVX3lxTFBXTjBuejBMNzVXUlE0U0NSVjZXUllkNzh0eEEzV1BHMnNxRG40c2ctN3BkdmZlYWFBeUJEZ0RyOHQtbFBVdUJHRERVeVlROTQzZHJIZVVKZndNV1VMWmNnWjBpV3pISkFMeDAwRDNNa0s?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "LAMEDITECH’s ‘HandyRay Glu’ laser blood glucose monitor meets international accuracy standards in clinical trials 더바이오",
-      "publishedAt": "2026-06-11T21:45:15.000Z",
-      "rank": 3
-    },
-    {
-      "id": "1a61e824a42b3b30",
-      "title": "한국, AI·6G 보안 국제표준 주도권 잡는다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02TWQxWExFN181Zi0wSzhrYXVKUnlWN3BkN3FUcEhpbGRTYm41SjkwVEhkNlVRMWhPdk4wRVZDejFzZnVjSUhobXFSUjU1SEU?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, AI·6G 보안 국제표준 주도권 잡는다 v.daum.net",
-      "publishedAt": "2026-06-12T03:02:33.000Z",
-      "rank": 4
-    },
-    {
-      "id": "dc34f5bde17c022f",
-      "title": "韓 주도 AI·6G 보안 국제표준화 작업 본격화 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zRktSSU9ESDBwOUxyT1ZONDdROXM2NzFvN20wZGs0YmZyeXlFR216bEoyYkh3eXJlcGExeVJ5R2xLVl91YlFZZVJXQURZdw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓 주도 AI·6G 보안 국제표준화 작업 본격화 전자신문",
-      "publishedAt": "2026-06-12T03:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "61aa76b5cd3ff760",
-      "title": "정보보호 국제표준 6건 최종 승인…한국 AI·6G 보안표준 선점 속도 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96dG1adE8yVFhqektXMVJ4eXNLZ3JncmNPR0diejBYeHVBVEVKZ25JM1dkUnFQQ2pJU0lhdDJqb1pjR0JScV9tcTRaVjhtTmxDNER5YlZfRk5uOGZtZnF6Tkl4QmdGRi1XaE5GVnRPcjQwZ0k?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "정보보호 국제표준 6건 최종 승인…한국 AI·6G 보안표준 선점 속도 디지털투데이",
-      "publishedAt": "2026-06-12T03:00:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "113e975e35b230ad",
-      "title": "AI·6G 보안 표준에 韓 기술 반영…국제회의서 29건 성과 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wRUQybkZfdk81M2Jxa0VQUHNGV0VYNVlad2h3Rk55NmdENW1nLW9YV3g0ajRsdnhMc2VwREpsRUpZejNldUlkWi14S3VmdXktTWdrakgwZEkzR25oNzBRWtIBeEFVX3lxTE1abndvaVFLUVd2RGE4U1Rzd2d1QXlTUTBtaUVOQnN4VWRRSXNmVEN4dUJwWWdROHdOT3hTa2FwUjRibTdYR05YX1NUUG5Oc3VNanFidW1CdFpMb2JUMzF0NEduMEVpWmh0N0RCSHpBYUVlVjBra1hzdg?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "AI·6G 보안 표준에 韓 기술 반영…국제회의서 29건 성과 뉴시스",
-      "publishedAt": "2026-06-12T03:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "e9f775c5423c69f5",
-      "title": "韓, 싱가포르·영국·호주·캐나다와 ‘AI 표준화 협력’ MOU 체결 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWNkJGY2U4NXRJeE9WNUNKYTFMcUdNcHdJOFhDNDF2bzVXNGd5TXRNVjBXMEJvWGt5Y1U4dFBLakV4bTNteVdCZmZFeFdva0xjQWJVLWFhbDI0eGxZN2llbFVsVGV4aE5BZkFWedIBcEFVX3lxTE9ERWNyU2I0alVmbExWcXlQSzdwdTJyQ3JKXzl3aWtEYmI2aVBqT2hxc3VjMllXaGtfQmdTMF8zN1Z5OTVpVV9NczdSZmVuMU8xSl9QZElFTlJoS3UtZjZZakotRjRBSG9fS0o1cE9LTjI?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓, 싱가포르·영국·호주·캐나다와 ‘AI 표준화 협력’ MOU 체결 전기신문",
-      "publishedAt": "2026-06-12T02:30:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "7f9b241a877acc37",
-      "title": "Debug web apps with browser use in Codex",
-      "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/bhgYFRZLyKI/hqdefault.jpg",
-      "publishedAt": "2026-06-12T00:15:38.000Z",
+      "id": "f4c24a493655b2b9",
+      "title": "SpaceX's IPO Made Elon Musk a Trillionaire...Now What?│Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=Zno9J7le1N4",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/Zno9J7le1N4/hqdefault.jpg",
+      "publishedAt": "2026-06-12T22:41:55.000Z",
       "viewCount": 0
     },
     {
-      "id": "12470bc0f4e1b878",
-      "title": "Codex for Creatives: Riff, Design, Ship",
-      "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY",
+      "id": "43cf59a93fd8a6f4",
+      "title": "Analyze earnings and update your investment thesis with Codex",
+      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/K6wxZOqD-HY/hqdefault.jpg",
-      "publishedAt": "2026-06-11T21:28:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg",
+      "publishedAt": "2026-06-12T20:36:47.000Z",
       "viewCount": 0
     },
     {
-      "id": "3d6f1e0e8947e549",
-      "title": "Life Near OpenAI's Stargate Project",
-      "url": "https://www.youtube.com/watch?v=6QoMzZ8FdTA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/6QoMzZ8FdTA/hqdefault.jpg",
-      "publishedAt": "2026-06-11T20:58:53.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "298ba2022d9db266",
-      "title": "Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) & OpenAI",
-      "url": "https://www.youtube.com/watch?v=UNJSk90Lz1c",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/UNJSk90Lz1c/hqdefault.jpg",
-      "publishedAt": "2026-06-11T19:51:04.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "efbf8f5428bfa544",
-      "title": "Build sales account strategies and outreach with Codex",
-      "url": "https://www.youtube.com/watch?v=4YkOAYNZVOQ",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/4YkOAYNZVOQ/hqdefault.jpg",
-      "publishedAt": "2026-06-11T19:24:28.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "17cc0197fa0de255",
-      "title": "Yossi Matias on the golden age of research",
-      "url": "https://www.youtube.com/watch?v=FPBwadTeph0",
+      "id": "5db116f61238f483",
+      "title": "AIventure: Vibe Coding Journey",
+      "url": "https://www.youtube.com/watch?v=xQcbwGS6Ahc",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/FPBwadTeph0/hqdefault.jpg",
-      "publishedAt": "2026-06-11T19:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xQcbwGS6Ahc/hqdefault.jpg",
+      "publishedAt": "2026-06-12T19:00:24.000Z",
       "viewCount": 0
     },
     {
-      "id": "21136f0122b64aaa",
-      "title": "Gopuff Chose xAI For Cost and Quality, Says Co-CEO",
-      "url": "https://www.youtube.com/watch?v=xJhq4i3DpAU",
+      "id": "b343d9cc23ea8ea2",
+      "title": "SpaceX Makes History With Biggest-Ever IPO | Bloomberg Tech 6/12/2026",
+      "url": "https://www.youtube.com/watch?v=onqTWxk4fZs",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/xJhq4i3DpAU/hqdefault.jpg",
-      "publishedAt": "2026-06-11T18:03:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/onqTWxk4fZs/hqdefault.jpg",
+      "publishedAt": "2026-06-12T17:50:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "27b58cf32f8d6c0d",
-      "title": "SpaceX Investors Bet It Can Turn Sci-Fi Into Reality",
-      "url": "https://www.youtube.com/watch?v=RoCzx-PhD48",
+      "id": "de2894052bc8d82c",
+      "title": "Elon Musk Is the World's First Trillionaire",
+      "url": "https://www.youtube.com/watch?v=bjehrHhtLPc",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RoCzx-PhD48/hqdefault.jpg",
-      "publishedAt": "2026-06-11T18:01:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/bjehrHhtLPc/hqdefault.jpg",
+      "publishedAt": "2026-06-12T16:27:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "67d3812d9bf70377",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/sU9-u5p-jA0/hqdefault.jpg",
+      "publishedAt": "2026-06-12T16:24:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "dffec293cce9d48c",
+      "title": "SpaceX Begins Trading on the Nasdaq After Record IPO",
+      "url": "https://www.youtube.com/watch?v=6iNY8B_P6GQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/6iNY8B_P6GQ/hqdefault.jpg",
+      "publishedAt": "2026-06-12T16:18:43.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9b0be625748324cb",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=PI7rT-Jmsks",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/PI7rT-Jmsks/hqdefault.jpg",
+      "publishedAt": "2026-06-12T15:58:59.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-11T04:04:04.000Z"
+      "updatedAt": "2026-06-12T04:03:42.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
