@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-13T03:45:14.563Z",
-  "projectsCheckedAt": "2026-06-13T03:45:14.563Z",
-  "projectsUpdatedAt": "2026-06-13T03:45:14.563Z",
+  "updatedAt": "2026-06-14T04:06:07.218Z",
+  "projectsCheckedAt": "2026-06-14T04:06:07.218Z",
+  "projectsUpdatedAt": "2026-06-14T04:06:07.218Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,64 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-13T03:45:14.563Z",
+    "checkedAt": "2026-06-14T04:06:07.218Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "00a6b044764fda7f",
+      "title": "AI 쓰는 제련소 보안도 깐깐하게…영풍, ISO27001 첫 획득 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUks3WklMOHZoaWNJMi1WRlNhTWU1dUs5WjBSNVNBN3ZHUlZoNUNocFJxa3FaeG9FWTBsVVJVZjNnZ1FBcUdhTEpIbzZPam5MVy1NV1VTblVhdW9NVG5hSUd2SHJoOVZ4U19jZ2pIVk1oYXZWaGZQX19aN01vb1k5djUwc1VKdw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "AI 쓰는 제련소 보안도 깐깐하게…영풍, ISO27001 첫 획득 글로벌이코노믹",
+      "publishedAt": "2026-06-14T03:50:20.000Z",
+      "rank": 1
+    },
+    {
+      "id": "7d9cefa202756558",
+      "title": "IEC 이사회 한국서 개최...반도체·AI 등 미래 표준화 전략 논의 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NQXRDZUJNWEs5UFl1ZllvOFYzMHVKelFzcDBNaXhiSExKLURUU1BsQkwzdXpmRHRzMUVTVnFNMDRsRG1TMGNpazl5OGpzNEk5bk4ydlFMX3rSAVhBVV95cUxPTUF0Q2VCTVhLOVBZdWZZbzhWMzB1SnpRc3AwTWl4YkhMSi1EVFNQbEJMM3V6ZkR0czFFU1ZxTTA0bERtUzBjaWs5eThqczRJOW5OMnZRTF96?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "IEC 이사회 한국서 개최...반도체·AI 등 미래 표준화 전략 논의 아주경제",
+      "publishedAt": "2026-06-14T01:05:52.000Z",
+      "rank": 2
+    },
+    {
+      "id": "c8c542af9fb0ff55",
+      "title": "[GAFH 2026] Global AI Declaration Adopted, Calling for Trustworthy AI as a Tool for Peace and Shared Prosperity - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14X0VZN1plTEhfTVBuNGJha05QUzVhYS1ad1VhWnVjc19iUW1fOXNrOF9iSTNJcG1NdW9HaHliYnc1QndwcFZCaGdfYkYzR2pwU1piV2FUdVVPcnJGaW1Lb0ZzU0dCeExDQ3c?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[GAFH 2026] Global AI Declaration Adopted, Calling for Trustworthy AI as a Tool for Peace and Shared Prosperity 천지일보",
+      "publishedAt": "2026-06-13T06:00:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "12ddeb4f3fc3abce",
+      "title": "AI·6G·피지컬AI 보안 표준 선점…韓 제안 신규 표준화 14건 승인 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRlZmMkRUMlVtOUw3bGF1Yl83eVpsZ1NZX1dydkd2ZzlVN3N0UDlPTW9OR3J0bmJXdnM0bDVzYTVhNDdwM2UyLTVPRjJPWW44OEJQV0N1OW5faHZtVlhWS25hcDBvd2E4dWhBYw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "AI·6G·피지컬AI 보안 표준 선점…韓 제안 신규 표준화 14건 승인 IT비즈뉴스",
+      "publishedAt": "2026-06-14T01:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "910631caab11e015",
+      "title": "한국, AI·6G 보안 국제표준 개발 주도…국제회의서 총 29건 성과 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUkNlem9QZElLYmhqQXYwSnI2aHhmY3hySUNGUXVrbXk3Mms5MTBVdGp3aXMwV0hlX1VVYmJyRVBPdEJULXNVTFZscUJrS0VCTHpnTkYtUGdvb3pxWWJyeXU4cVlJS3NjNVRKSg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국, AI·6G 보안 국제표준 개발 주도…국제회의서 총 29건 성과 대한민국 정책브리핑",
+      "publishedAt": "2026-06-13T17:24:54.000Z",
+      "rank": 5
+    },
+    {
+      "id": "a6ce4acb9f989998",
+      "title": "LIG D&A and NearsLab Partner to Develop AI Interceptor Drones for Air Defense - OECD AI Policy Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0MjZUaE9talhqNFFZaWVtekpLeWlxbUNvOE9JLVJhR1hCdjdXR24zU3REeXRHR3l0SnN0VkhCOFdBcmJxQ2tVS2NHWEM1bmdVMVVQZ3JLYw?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "LIG D&A and NearsLab Partner to Develop AI Interceptor Drones for Air Defense OECD AI Policy Observatory",
+      "publishedAt": "2026-06-13T09:12:18.000Z",
+      "rank": 6
+    },
     {
       "id": "b17dbf46677ebbab",
       "title": "From Fragmentation to One Global Data Standard - Veeva",
@@ -65,73 +119,28 @@
       "source": "Google News: data quality standard",
       "summary": "From Fragmentation to One Global Data Standard Veeva",
       "publishedAt": "2026-06-13T00:05:01.000Z",
-      "rank": 1
-    },
-    {
-      "id": "3c5369c57d521568",
-      "title": "Astellas: Measuring Medical Impact - From Vision to Reality - Veeva",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFJrVk9UVTFwYzdUU2tLSjk1ZUFhV0hjTktNc09yM3h1dFZTREprX1VVUUQxaXFBM3RKVXcwWW50b014RmZCNjRBNDhLWGhPd2lpSEJnUHdULTZsWjdQNEJsMEZQdlRFRlBvckpuTFE1bnJIWWFJX1c1cjg0NTZjazhnVWVFMElRQ1pLRUFDaUNxRmhOcEhNT2Fkd1FoT1Az?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Astellas: Measuring Medical Impact - From Vision to Reality Veeva",
-      "publishedAt": "2026-06-13T00:05:01.000Z",
-      "rank": 2
-    },
-    {
-      "id": "4dfd21e0b5fb636f",
-      "title": "“The end of the AI competition is control, not performance”… 'Trusted AI' as described by Intellivix CEO Choi Eun-soo - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00aTNQQWpTVFBzVVJQSEZKNXRScnNPNEhGdU1KUWRILWV2V2gwQm9DN1Y0aDNqRUJlQ0kwZlhzLUREaU9yUGJfa1FaR2ZRUDZ5alRN?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "“The end of the AI competition is control, not performance”… 'Trusted AI' as described by Intellivix CEO Choi Eun-soo 벤처스퀘어",
-      "publishedAt": "2026-06-12T23:11:54.000Z",
-      "rank": 3
-    },
-    {
-      "id": "3460a74d791e2687",
-      "title": "한국, AI·6G 보안 국제표준 14건 승인 이끌어…ITU-T 회의서 글로벌 주도권 확보 - 대한일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OREpaaFFQSHhhd1BZUFJZclZjZ3NPOUVHZEVFZzY3cDNyRzFnVnlnTG44aV9XbU5BdE9qLWtrSi1FMXk3dlFLTG5Cc0hmWXNwbDl2Y1ZBYW13cFFaQmJvMS0waV80THlVU240ajktSQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국, AI·6G 보안 국제표준 14건 승인 이끌어…ITU-T 회의서 글로벌 주도권 확보 대한일보",
-      "publishedAt": "2026-06-12T09:22:51.000Z",
-      "rank": 4
-    },
-    {
-      "id": "fba0d2289b35546a",
-      "title": "[GAFH 2026] 국내외 석학들 “AI, 기술 패권 아닌 인류공영 수단 돼야” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR2dtYnRJVlFIV2RxVUJRRnRzNzFMVU5mV1dEbTBLRXpOekN3MU5LMDhNSEI1QU1ZbnF4U2RqSk1oN3NVRXlGMjBqSzgtOTB6V1JmME5aUGpuQWMtNVIwZy1zVVlzMlBUaWc?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[GAFH 2026] 국내외 석학들 “AI, 기술 패권 아닌 인류공영 수단 돼야” 천지일보",
-      "publishedAt": "2026-06-12T12:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "e75603245224ef70",
-      "title": "韓, 'AI 표준동맹 구축' 주도권 강화 - 넷제로뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LMTExNmgybHpIY0h6QjZMek9EcDBEbk95Q2JhUzRobTN6YXA0SmEwbS10SF9aYUt6VGxCQkh1RnRCemdiV0Q2TXVyeE1aSWw0eE9yQ0ZwMDJDZ1UwWkJkc1dCVjQwNFJ2NXdj0gFuQVVfeXFMTmt5LU9VdWhjRExpTzdHemdhTlA2NVY4Um1BN0FMWms5MEJ4MTdBUEZUX1kwQkMwRjB1YVliQ0xyWXV6UzRNWnhYcnB1UXJzVlVtckhXMjI3YkNtSV8zbmNqbnRnb0dRZzZwY1VaMEE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓, 'AI 표준동맹 구축' 주도권 강화 넷제로뉴스",
-      "publishedAt": "2026-06-12T10:12:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "6e379bca8a36711e",
-      "title": "AI·6G 정보보안 국제기준, 한국이 쥐락펴락…ITU 회의서 29건 성과 - nanamcom.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MRWpEMmhRNlBuN3d6dTZyZUxBS2Zqd010cDlJTjEtbTRBMGxBMlVqZVpmTG5SZTVCVjBWSlJEdlZFWUxXRkxSTTNDaFFzbVA3ZGdjQ1JDOHEydUsySy1oX19sVGRQeG16Uktycg?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "AI·6G 정보보안 국제기준, 한국이 쥐락펴락…ITU 회의서 29건 성과 nanamcom.co.kr",
-      "publishedAt": "2026-06-12T03:02:19.000Z",
       "rank": 7
     },
     {
-      "id": "08c6f9b86f5168fb",
-      "title": "韓 AI·6G 보안 표준 주도권 선점…ITU-T서 신규과제 14건 승인 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sQTlodEdYenF6dlhFX0QtMnc0RllzX3NLbWVBd1BURmltUklZdnNycHVyRWhKYVZsWUxKZ1hxanpMU2RyanA0c053T3o1SG5vcFp0SlptcmdoYUNtV2FzWWpGdEo?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "韓 AI·6G 보안 표준 주도권 선점…ITU-T서 신규과제 14건 승인 디지털데일리",
-      "publishedAt": "2026-06-12T03:00:00.000Z",
+      "id": "94d6a062f0b4c10d",
+      "title": "[GAFH 2026] Li Haonan: “We Must Focus on AI’s Impact, Not Just Its Capabilities” - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTTnlWRklyM1dpTy1mSkkza0FTcUFCd0lPNmhxajZKemhWYXVEWXNTN1VRLTB4cW9JUU03ZVgwSDhVRUJIdkllbW5sb1VwbW90Nmxud2lLLUMzSU5pQ1pRMXctU1lDdm90alE?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "[GAFH 2026] Li Haonan: “We Must Focus on AI’s Impact, Not Just Its Capabilities” 천지일보",
+      "publishedAt": "2026-06-13T06:20:53.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "52a39e37b6d7ffd7",
+      "title": "London's AI Ecosystem Never Better, ElevenLabs CEO Says",
+      "url": "https://www.youtube.com/watch?v=_S1ZtA6647A",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/_S1ZtA6647A/hqdefault.jpg",
+      "publishedAt": "2026-06-13T05:00:02.000Z",
+      "viewCount": 0
+    },
     {
       "id": "f4c24a493655b2b9",
       "title": "SpaceX's IPO Made Elon Musk a Trillionaire...Now What?│Equity Podcast",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6iNY8B_P6GQ/hqdefault.jpg",
       "publishedAt": "2026-06-12T16:18:43.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "9b0be625748324cb",
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=PI7rT-Jmsks",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/PI7rT-Jmsks/hqdefault.jpg",
-      "publishedAt": "2026-06-12T15:58:59.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-12T04:03:42.000Z"
+      "updatedAt": "2026-06-13T03:49:18.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
