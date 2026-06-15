@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-14T04:06:07.218Z",
-  "projectsCheckedAt": "2026-06-14T04:06:07.218Z",
-  "projectsUpdatedAt": "2026-06-14T04:06:07.218Z",
+  "updatedAt": "2026-06-15T04:18:35.268Z",
+  "projectsCheckedAt": "2026-06-15T04:18:35.268Z",
+  "projectsUpdatedAt": "2026-06-15T04:18:35.268Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,111 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-14T04:06:07.218Z",
+    "checkedAt": "2026-06-15T04:18:35.268Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "00a6b044764fda7f",
-      "title": "AI 쓰는 제련소 보안도 깐깐하게…영풍, ISO27001 첫 획득 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUks3WklMOHZoaWNJMi1WRlNhTWU1dUs5WjBSNVNBN3ZHUlZoNUNocFJxa3FaeG9FWTBsVVJVZjNnZ1FBcUdhTEpIbzZPam5MVy1NV1VTblVhdW9NVG5hSUd2SHJoOVZ4U19jZ2pIVk1oYXZWaGZQX19aN01vb1k5djUwc1VKdw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "AI 쓰는 제련소 보안도 깐깐하게…영풍, ISO27001 첫 획득 글로벌이코노믹",
-      "publishedAt": "2026-06-14T03:50:20.000Z",
+      "id": "51d951e321764e70",
+      "title": "SIJE Unveils Agentic AI and 470,000-Class Ontology Supply Chain Platform at VivaTech 2026, Redefining Global Apparel OEM Industry Standards - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWmtXZXlyN2w1ZXFhYTFtMmdsWXdHbG5fSXozZmw1aG03UTFha3V5MEZ0RWxlVE5ENk5Kel9MdXl2TkF0eFlwa1kyNGc3cnZQS0FuT3lLT09veS1aVXVZMXV5b3poTU3SAWtBVV95cUxQMjFUX0Q1emZQZURiM0NDUFJhR0sxYjg0RVFTS1A5UHl2ZWUxMEdySVlsNXR3T05kMUYzcVZ6MEZTR1BIMk9aUGpQakd0dWhEQkp5MHlPbnVyOXNkYzM3N3BtaDJvSU5qd3Ataw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "SIJE Unveils Agentic AI and 470,000-Class Ontology Supply Chain Platform at VivaTech 2026, Redefining Global Apparel OEM Industry Standards 에이빙",
+      "publishedAt": "2026-06-14T17:10:07.000Z",
       "rank": 1
     },
     {
-      "id": "7d9cefa202756558",
-      "title": "IEC 이사회 한국서 개최...반도체·AI 등 미래 표준화 전략 논의 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NQXRDZUJNWEs5UFl1ZllvOFYzMHVKelFzcDBNaXhiSExKLURUU1BsQkwzdXpmRHRzMUVTVnFNMDRsRG1TMGNpazl5OGpzNEk5bk4ydlFMX3rSAVhBVV95cUxPTUF0Q2VCTVhLOVBZdWZZbzhWMzB1SnpRc3AwTWl4YkhMSi1EVFNQbEJMM3V6ZkR0czFFU1ZxTTA0bERtUzBjaWs5eThqczRJOW5OMnZRTF96?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "IEC 이사회 한국서 개최...반도체·AI 등 미래 표준화 전략 논의 아주경제",
-      "publishedAt": "2026-06-14T01:05:52.000Z",
+      "id": "4538a6470dcdff58",
+      "title": "How to bridge the digital divide in administrative tasks using AI, digital smartphones - 의정신문 서울시티",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Qbll1WjAwWV9JUzlXYW9DS2xLY0RVaHV2clpYNU9ITldPYUhqRWo5MlJMVEhUOWt2RXV5ZWVDU01rS3pYUWc3cllvVVJSZ0h1QUxTcnkzcUFSMEpqelJ3NlE2a3EyUHhFbXFMNUVBRQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "How to bridge the digital divide in administrative tasks using AI, digital smartphones 의정신문 서울시티",
+      "publishedAt": "2026-06-15T02:05:44.000Z",
       "rank": 2
     },
     {
-      "id": "c8c542af9fb0ff55",
-      "title": "[GAFH 2026] Global AI Declaration Adopted, Calling for Trustworthy AI as a Tool for Peace and Shared Prosperity - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14X0VZN1plTEhfTVBuNGJha05QUzVhYS1ad1VhWnVjc19iUW1fOXNrOF9iSTNJcG1NdW9HaHliYnc1QndwcFZCaGdfYkYzR2pwU1piV2FUdVVPcnJGaW1Lb0ZzU0dCeExDQ3c?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[GAFH 2026] Global AI Declaration Adopted, Calling for Trustworthy AI as a Tool for Peace and Shared Prosperity 천지일보",
-      "publishedAt": "2026-06-13T06:00:00.000Z",
+      "id": "8bff0838b9d5c70f",
+      "title": "OK저축은행, 전사 AX 체계 구축…생산성 높인다 - 딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTVp4MFRNWjZKcFdKdGpnb09ycFVwS0lzSFQzMXk1SEk2VWs4S0haOUhuREVPdkF3eF9zaElZMVBSaW52M0l2Tl9LQ050UFk?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "OK저축은행, 전사 AX 체계 구축…생산성 높인다 딜사이트",
+      "publishedAt": "2026-06-15T00:25:00.000Z",
       "rank": 3
     },
     {
-      "id": "12ddeb4f3fc3abce",
-      "title": "AI·6G·피지컬AI 보안 표준 선점…韓 제안 신규 표준화 14건 승인 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRlZmMkRUMlVtOUw3bGF1Yl83eVpsZ1NZX1dydkd2ZzlVN3N0UDlPTW9OR3J0bmJXdnM0bDVzYTVhNDdwM2UyLTVPRjJPWW44OEJQV0N1OW5faHZtVlhWS25hcDBvd2E4dWhBYw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "AI·6G·피지컬AI 보안 표준 선점…韓 제안 신규 표준화 14건 승인 IT비즈뉴스",
-      "publishedAt": "2026-06-14T01:00:00.000Z",
+      "id": "cebb26fa15400042",
+      "title": "한국, 세계 AI표준화 선도…싱가포르·영국·호주·캐나다와 맞손 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYllYQ0I3b3FlM0t0dDJaV1ItY0V1NWN0TjhqZFNiay1OM3FsYThJV2V5V1lyc0JNa0F0V3duS0lDWm5ybWs3ZnVPRXpXOHpOMkZaMlV5ci1yalFsSGhJTk1uV0J1TGRUc2Z6Vjh0Umo?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국, 세계 AI표준화 선도…싱가포르·영국·호주·캐나다와 맞손 코리아리포트",
+      "publishedAt": "2026-06-14T23:54:52.000Z",
       "rank": 4
     },
     {
-      "id": "910631caab11e015",
-      "title": "한국, AI·6G 보안 국제표준 개발 주도…국제회의서 총 29건 성과 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUkNlem9QZElLYmhqQXYwSnI2aHhmY3hySUNGUXVrbXk3Mms5MTBVdGp3aXMwV0hlX1VVYmJyRVBPdEJULXNVTFZscUJrS0VCTHpnTkYtUGdvb3pxWWJyeXU4cVlJS3NjNVRKSg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, AI·6G 보안 국제표준 개발 주도…국제회의서 총 29건 성과 대한민국 정책브리핑",
-      "publishedAt": "2026-06-13T17:24:54.000Z",
+      "id": "f0c740f4087ff4ce",
+      "title": "[인사] 한국전자통신연구원 - 동아사이언스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IN2lwckgxZ1FHNE9yRFBNNGxHdVF3Y2p2NHZpS3BrNXRIZFdFRVZjSjZ0Vlota3RFZ29sdUN6aTN1Ujg0MUNIQmdJUjRsOXBqMnoyRg?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[인사] 한국전자통신연구원 동아사이언스",
+      "publishedAt": "2026-06-14T23:44:00.000Z",
       "rank": 5
     },
     {
-      "id": "a6ce4acb9f989998",
-      "title": "LIG D&A and NearsLab Partner to Develop AI Interceptor Drones for Air Defense - OECD AI Policy Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0MjZUaE9talhqNFFZaWVtekpLeWlxbUNvOE9JLVJhR1hCdjdXR24zU3REeXRHR3l0SnN0VkhCOFdBcmJxQ2tVS2NHWEM1bmdVMVVQZ3JLYw?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "LIG D&A and NearsLab Partner to Develop AI Interceptor Drones for Air Defense OECD AI Policy Observatory",
-      "publishedAt": "2026-06-13T09:12:18.000Z",
+      "id": "f3051104f870de03",
+      "title": "한전KDN, 미래사업개발 자문위 발족…DX·AX 박차 - 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNHZ6MEstRzctMnlzQ0ZYYVo0ZXVPa2tRLXBpZ3Jqcm9pUlV2Qm5yRnM0MGlzNGUxeGJHYnhVbmxHN1BsOTBmWlppZ2RvVEo1UHQtXzhyT0wtcXZiX0x6aW00QnY?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한전KDN, 미래사업개발 자문위 발족…DX·AX 박차 에너지안전신문",
+      "publishedAt": "2026-06-14T23:41:37.000Z",
       "rank": 6
     },
     {
-      "id": "b17dbf46677ebbab",
-      "title": "From Fragmentation to One Global Data Standard - Veeva",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFN1Tm9lVGdKVUh1RHdaS1lnVGtJZGpoYlBDRFFBNDhOdERvVDRPQ2M1akpSMXAzeTZrZXNONThHMUdKVnE5U0lMRHB1LWtxUFVOOHBYdEFycnNla0liOHgtbGJhd2JUcFhCLVVIUjJ4Q1RRcHQtbUgwNF9HVWlJNy05V0NEMlR5WGZhZ09FLXNFMzg?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "From Fragmentation to One Global Data Standard Veeva",
-      "publishedAt": "2026-06-13T00:05:01.000Z",
+      "id": "c8b3abf4d7cdcfa0",
+      "title": "Young Poong Sanctioned for Accounting Violations, Understating Environmental Liabilities - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DaDZOcDYzN1NQRzNOVVFOWnhBQXo4bkhISTBSR0NRdTNGU05VaXM4aExYUHBzREZKcnpmd3pQZjU4b2Z6dDl3RHpmZ2htSFJDdUNkLUh3YnQ1TVZwQUHSAW5BVV95cUxNS1hwcTVXc1Vod3ZMeWg3elE5d2ZkYzVmMkF2cDE4V2VHN0VpUGxnWFk2RzVJeUh6Q09xVWNHLXFuQ2Y4cFZKME1lcmxJRjRFSFl4Vk5hRnhlWGdZWnNLX002aVZ0dlhQUVpNWmQzUQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Young Poong Sanctioned for Accounting Violations, Understating Environmental Liabilities 알파경제",
+      "publishedAt": "2026-06-14T21:49:44.000Z",
       "rank": 7
     },
     {
-      "id": "94d6a062f0b4c10d",
-      "title": "[GAFH 2026] Li Haonan: “We Must Focus on AI’s Impact, Not Just Its Capabilities” - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTTnlWRklyM1dpTy1mSkkza0FTcUFCd0lPNmhxajZKemhWYXVEWXNTN1VRLTB4cW9JUU03ZVgwSDhVRUJIdkllbW5sb1VwbW90Nmxud2lLLUMzSU5pQ1pRMXctU1lDdm90alE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "[GAFH 2026] Li Haonan: “We Must Focus on AI’s Impact, Not Just Its Capabilities” 천지일보",
-      "publishedAt": "2026-06-13T06:20:53.000Z",
+      "id": "2d688ebb66e96259",
+      "title": "한국, AI 국제표준 선점 나선다...5개국 사전표준화 협력체계 구축 - 테크데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SeElDLURYeTNQSDFuN0N5U1hRdExNOWJGWWRMY1BaMGtlY2V6aTRqSlRUSVR2bVNlLW1aYTNLZFQtd3VjSXNxYjU5dFE5NHhTM0dYTnFFNlFyeWgzZ1pQU2NRU045QWJkZnN1Q055R0VoUdIBckFVX3lxTE9SeElDLURYeTNQSDFuN0N5U1hRdExNOWJGWWRMY1BaMGtlY2V6aTRqSlRUSVR2bVNlLW1aYTNLZFQtd3VjSXNxYjU5dFE5NHhTM0dYTnFFNlFyeWgzZ1pQU2NRU045QWJkZnN1Q055R0VoUQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국, AI 국제표준 선점 나선다...5개국 사전표준화 협력체계 구축 테크데일리",
+      "publishedAt": "2026-06-14T17:23:54.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "f9215f4e76858760",
+      "title": "How Payward Ships Faster with Codex",
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/NxAxwsu6_Zs/hqdefault.jpg",
+      "publishedAt": "2026-06-14T22:44:45.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d9293f1792223517",
+      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
+      "publishedAt": "2026-06-14T15:27:17.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "445213938c116d92",
+      "title": "When Will the UK Have Its First £100 Billion Tech Firm?",
+      "url": "https://www.youtube.com/watch?v=8jjV3Tl0_d0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/8jjV3Tl0_d0/hqdefault.jpg",
+      "publishedAt": "2026-06-14T05:00:20.000Z",
+      "viewCount": 0
+    },
     {
       "id": "52a39e37b6d7ffd7",
       "title": "London's AI Ecosystem Never Better, ElevenLabs CEO Says",
@@ -176,33 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/onqTWxk4fZs/hqdefault.jpg",
       "publishedAt": "2026-06-12T17:50:11.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "de2894052bc8d82c",
-      "title": "Elon Musk Is the World's First Trillionaire",
-      "url": "https://www.youtube.com/watch?v=bjehrHhtLPc",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/bjehrHhtLPc/hqdefault.jpg",
-      "publishedAt": "2026-06-12T16:27:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "67d3812d9bf70377",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/sU9-u5p-jA0/hqdefault.jpg",
-      "publishedAt": "2026-06-12T16:24:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "dffec293cce9d48c",
-      "title": "SpaceX Begins Trading on the Nasdaq After Record IPO",
-      "url": "https://www.youtube.com/watch?v=6iNY8B_P6GQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/6iNY8B_P6GQ/hqdefault.jpg",
-      "publishedAt": "2026-06-12T16:18:43.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-13T03:49:18.000Z"
+      "updatedAt": "2026-06-14T04:10:10.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
