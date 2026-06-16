@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-15T04:18:35.268Z",
-  "projectsCheckedAt": "2026-06-15T04:18:35.268Z",
-  "projectsUpdatedAt": "2026-06-15T04:18:35.268Z",
+  "updatedAt": "2026-06-16T04:09:14.424Z",
+  "projectsCheckedAt": "2026-06-16T04:09:14.424Z",
+  "projectsUpdatedAt": "2026-06-16T04:09:14.424Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-15T04:18:35.268Z",
+    "checkedAt": "2026-06-16T04:09:14.424Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "51d951e321764e70",
-      "title": "SIJE Unveils Agentic AI and 470,000-Class Ontology Supply Chain Platform at VivaTech 2026, Redefining Global Apparel OEM Industry Standards - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWmtXZXlyN2w1ZXFhYTFtMmdsWXdHbG5fSXozZmw1aG03UTFha3V5MEZ0RWxlVE5ENk5Kel9MdXl2TkF0eFlwa1kyNGc3cnZQS0FuT3lLT09veS1aVXVZMXV5b3poTU3SAWtBVV95cUxQMjFUX0Q1emZQZURiM0NDUFJhR0sxYjg0RVFTS1A5UHl2ZWUxMEdySVlsNXR3T05kMUYzcVZ6MEZTR1BIMk9aUGpQakd0dWhEQkp5MHlPbnVyOXNkYzM3N3BtaDJvSU5qd3Ataw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "SIJE Unveils Agentic AI and 470,000-Class Ontology Supply Chain Platform at VivaTech 2026, Redefining Global Apparel OEM Industry Standards 에이빙",
-      "publishedAt": "2026-06-14T17:10:07.000Z",
+      "id": "2eeb6b4231b521a5",
+      "title": "ETRI Takes Lead in Global Standards for AI-Based Smart Cities - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdEFOUmZad3JvNXk1akpTWnZNXzhRTDFPV1hzcTFKNmFEZVNXQmxGMmxNYV9OYjJUQU9uel96MVhlVmladlotcVpLT1EtYjllc3F6cENsV3p1RTBkR082aUhwNmVXYTFGbHJYVEtnc3I?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "ETRI Takes Lead in Global Standards for AI-Based Smart Cities Korea IT Times",
+      "publishedAt": "2026-06-16T00:59:40.000Z",
       "rank": 1
     },
     {
-      "id": "4538a6470dcdff58",
-      "title": "How to bridge the digital divide in administrative tasks using AI, digital smartphones - 의정신문 서울시티",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Qbll1WjAwWV9JUzlXYW9DS2xLY0RVaHV2clpYNU9ITldPYUhqRWo5MlJMVEhUOWt2RXV5ZWVDU01rS3pYUWc3cllvVVJSZ0h1QUxTcnkzcUFSMEpqelJ3NlE2a3EyUHhFbXFMNUVBRQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "How to bridge the digital divide in administrative tasks using AI, digital smartphones 의정신문 서울시티",
-      "publishedAt": "2026-06-15T02:05:44.000Z",
+      "id": "863cd31eba4be661",
+      "title": "ETRI, AI 기반 스마트시티 국제표준화 주도 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVW4xSW5uTkdoYi1VUXhpeXBpckFDN2lubGxzbGFBZWctenkzOElTQXVFYnhMQmdVZXBrTVowNk44RFY0ekFVSlNjbDdpUWZTM2ladjZIOExyUWJRY3V1VkRLV2xZcnBnNUJV?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, AI 기반 스마트시티 국제표준화 주도 충청뉴스",
+      "publishedAt": "2026-06-16T02:10:26.000Z",
       "rank": 2
     },
     {
-      "id": "8bff0838b9d5c70f",
-      "title": "OK저축은행, 전사 AX 체계 구축…생산성 높인다 - 딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTVp4MFRNWjZKcFdKdGpnb09ycFVwS0lzSFQzMXk1SEk2VWs4S0haOUhuREVPdkF3eF9zaElZMVBSaW52M0l2Tl9LQ050UFk?oc=5",
+      "id": "5b57ec93d47447c4",
+      "title": "Government Revamps KSP Program to Expand Overseas Opportunities for Korean Companies - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JRzZmODV5QlUtUEFSelBIV1NVOXREd0pzbF9hY2FJblp5WVVOcHFFNVlodzY3WGVLNURCbkc5R3A2NXNlbWFHYlpQWXo0bnlLWEhQR0kyWHFKYTA0b3dwZkYwcXk5VktPVFJqWmFZTGg?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "OK저축은행, 전사 AX 체계 구축…생산성 높인다 딜사이트",
-      "publishedAt": "2026-06-15T00:25:00.000Z",
+      "summary": "Government Revamps KSP Program to Expand Overseas Opportunities for Korean Companies Korea IT Times",
+      "publishedAt": "2026-06-16T01:25:35.000Z",
       "rank": 3
     },
     {
-      "id": "cebb26fa15400042",
-      "title": "한국, 세계 AI표준화 선도…싱가포르·영국·호주·캐나다와 맞손 - 코리아리포트",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYllYQ0I3b3FlM0t0dDJaV1ItY0V1NWN0TjhqZFNiay1OM3FsYThJV2V5V1lyc0JNa0F0V3duS0lDWm5ybWs3ZnVPRXpXOHpOMkZaMlV5ci1yalFsSGhJTk1uV0J1TGRUc2Z6Vjh0Umo?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, 세계 AI표준화 선도…싱가포르·영국·호주·캐나다와 맞손 코리아리포트",
-      "publishedAt": "2026-06-14T23:54:52.000Z",
+      "id": "412f614f10077039",
+      "title": "ETRI, 스마트시티 국제표준 주도권 확보 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tNmJPNkRhS3JDblJiMDNIRFpmTjZmaU5JdlBzVEpQZFB3MFZfaHFGWUFuTGc2dEh3YzVmY0ZmelpUby12U1JNc1dJb0hoaFI4M1U2Vzd3?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, 스마트시티 국제표준 주도권 확보 지디넷코리아",
+      "publishedAt": "2026-06-16T01:09:16.000Z",
       "rank": 4
     },
     {
-      "id": "f0c740f4087ff4ce",
-      "title": "[인사] 한국전자통신연구원 - 동아사이언스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IN2lwckgxZ1FHNE9yRFBNNGxHdVF3Y2p2NHZpS3BrNXRIZFdFRVZjSjZ0Vlota3RFZ29sdUN6aTN1Ujg0MUNIQmdJUjRsOXBqMnoyRg?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[인사] 한국전자통신연구원 동아사이언스",
-      "publishedAt": "2026-06-14T23:44:00.000Z",
+      "id": "d013ae8a98f4952c",
+      "title": "韓, AI 스마트시티 ‘국제표준화’ 이끈다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQUhia21NNHNVV2szdWcwd0x3Q0lnWWJheDEwRHk0QksxYnpMa3pLeTdpQnkyRGQyTFo0a045aWJQS2dIWW5IT1A1aWctMXc?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "韓, AI 스마트시티 ‘국제표준화’ 이끈다 v.daum.net",
+      "publishedAt": "2026-06-16T01:01:01.000Z",
       "rank": 5
     },
     {
-      "id": "f3051104f870de03",
-      "title": "한전KDN, 미래사업개발 자문위 발족…DX·AX 박차 - 에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNHZ6MEstRzctMnlzQ0ZYYVo0ZXVPa2tRLXBpZ3Jqcm9pUlV2Qm5yRnM0MGlzNGUxeGJHYnhVbmxHN1BsOTBmWlppZ2RvVEo1UHQtXzhyT0wtcXZiX0x6aW00QnY?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한전KDN, 미래사업개발 자문위 발족…DX·AX 박차 에너지안전신문",
-      "publishedAt": "2026-06-14T23:41:37.000Z",
+      "id": "5a529ce6d1be0076",
+      "title": "ETRI \"스마트도시 포커스그룹 초대 의장 배출…국제표준화 주도\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KN1hZclRIU1hGMmRCdVNORmNlcFMxQjBKS25IWDdReFJJaVFSd05vVHlzRHJJUExnZmpXV1JLcy1VemZ3SGdmb3ptcW9MQ3BDYVd3?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI \"스마트도시 포커스그룹 초대 의장 배출…국제표준화 주도\" 네이트",
+      "publishedAt": "2026-06-16T00:53:00.000Z",
       "rank": 6
     },
     {
-      "id": "c8b3abf4d7cdcfa0",
-      "title": "Young Poong Sanctioned for Accounting Violations, Understating Environmental Liabilities - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DaDZOcDYzN1NQRzNOVVFOWnhBQXo4bkhISTBSR0NRdTNGU05VaXM4aExYUHBzREZKcnpmd3pQZjU4b2Z6dDl3RHpmZ2htSFJDdUNkLUh3YnQ1TVZwQUHSAW5BVV95cUxNS1hwcTVXc1Vod3ZMeWg3elE5d2ZkYzVmMkF2cDE4V2VHN0VpUGxnWFk2RzVJeUh6Q09xVWNHLXFuQ2Y4cFZKME1lcmxJRjRFSFl4Vk5hRnhlWGdZWnNLX002aVZ0dlhQUVpNWmQzUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Young Poong Sanctioned for Accounting Violations, Understating Environmental Liabilities 알파경제",
-      "publishedAt": "2026-06-14T21:49:44.000Z",
+      "id": "4c19118b4134809b",
+      "title": "로지스올그룹, IPIC서 LAPI 유닛로드 표준화 사례 발표 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UN1BBN2xVendueWdNcFhRSUpWT3paQ0R5WVp1OUxSQld2ZmFJTGUzd0RhdlFXeE8zZjZYY0IyT1hCd1Z2anZwei1yd3N0dEh2c3VUU3p2dHRzcXNzRWxUcy04Tl9wMHZsTno00gFvQVVfeXFMTlIzUXFkQmZYM1I1bW1VSkRHNmtWUUhRYXpCNmtfbXBFUEtpalczeDB1dVpDLTBFc3AydWNEZEphM0sycUVfQlB0cVJpOEpOU2JLX1NRVlhrU2ZvcWozcmtTRUNMaUI0MERhR1RzUmFB?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "로지스올그룹, IPIC서 LAPI 유닛로드 표준화 사례 발표 한스경제",
+      "publishedAt": "2026-06-16T00:52:46.000Z",
       "rank": 7
     },
     {
-      "id": "2d688ebb66e96259",
-      "title": "한국, AI 국제표준 선점 나선다...5개국 사전표준화 협력체계 구축 - 테크데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SeElDLURYeTNQSDFuN0N5U1hRdExNOWJGWWRMY1BaMGtlY2V6aTRqSlRUSVR2bVNlLW1aYTNLZFQtd3VjSXNxYjU5dFE5NHhTM0dYTnFFNlFyeWgzZ1pQU2NRU045QWJkZnN1Q055R0VoUdIBckFVX3lxTE9SeElDLURYeTNQSDFuN0N5U1hRdExNOWJGWWRMY1BaMGtlY2V6aTRqSlRUSVR2bVNlLW1aYTNLZFQtd3VjSXNxYjU5dFE5NHhTM0dYTnFFNlFyeWgzZ1pQU2NRU045QWJkZnN1Q055R0VoUQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국, AI 국제표준 선점 나선다...5개국 사전표준화 협력체계 구축 테크데일리",
-      "publishedAt": "2026-06-14T17:23:54.000Z",
+      "id": "27575b70f24e9094",
+      "title": "에이전트AI, 위성·AI 융합 플랫폼 '어스레이더' 정식 가동 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPQ1JpMV9yT1l1YlZWQUVTeXFoS0NPekdvQlF2TFRPYzlkYWFSSExseGNnYlhUYUFkU24zdmxDMmJjRzhOU25Yb3V5MlROOWZNVnpMZU1DTDZpaFhSbjRVWlVwWDhaWVRTVG5Vb2t30gFuQVVfeXFMUE9DUmkxX3JPWXViVlZBRVN5cWhLQ096R29CUXZMVE9jOWRhYVJITGx4Y2diWFRhQWRTbjN2bEMyYmNHOE5TblhvdXkyVE45Zk1WekxlTUNMNmloWFJuNFVaVXBYOFpZVFNUblVva3c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "에이전트AI, 위성·AI 융합 플랫폼 '어스레이더' 정식 가동 - 머니투데이 머니투데이",
+      "publishedAt": "2026-06-16T00:43:59.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-14T04:10:10.000Z"
+      "updatedAt": "2026-06-15T04:22:39.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
