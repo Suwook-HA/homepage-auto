@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-18T03:59:55.613Z",
-  "projectsCheckedAt": "2026-06-18T03:59:55.613Z",
-  "projectsUpdatedAt": "2026-06-18T03:59:55.613Z",
+  "updatedAt": "2026-06-19T04:19:32.951Z",
+  "projectsCheckedAt": "2026-06-19T04:19:32.951Z",
+  "projectsUpdatedAt": "2026-06-19T04:19:32.951Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-18T03:59:55.613Z",
+    "checkedAt": "2026-06-19T04:19:32.951Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "1d7dc99820866904",
+      "title": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWFB1Sllac3BOZmhzVVdHaTgzVUpFeDBCMUhjeGFvdUZjb0pub2E2SHVKYTMzX1ZmX3VmRG5FV3hxZEhyMUp0V1g4LW9TQXdUbzctczU5d0MyTzJlUnAxSFBMMUFoVU1PZUl2UjB5MHA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 신아일보",
+      "publishedAt": "2026-06-19T03:31:27.000Z",
+      "rank": 1
+    },
+    {
+      "id": "7fce3913c91e25fa",
+      "title": "금융부터 스포츠까지…SAS, 서울 고객 컨퍼런스서 산업별 AI 활용 사례 공개 - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNczBWZUNNY09na1NlSTlvT2p4MWlSMWNMdHc1TWZ6Z21EZmVZTXRGdUNRVXZvRzJOblVVTnRGenFQTl95QlJSOF9razU5eFpRQUZNTkRkWEZ0ZjhKcnpMMy1OWlVSY3g0aFplcFRSNldQWjRBdjdPdE5KMG4tVUJHNkNpUFJieDE1RXVtRnNYWF9yVE1BUmhmWUV0Y0ZxRlZNb0hZS1A5UDNFTWpXTE44WF9hZ3ljc1pQdkstQWk2NEUwT1ZYOGR0alNFb1BhTHZRaDdsRmxkZV9HQVdHV2RHOXFGaTU0NDB1SXh1NVJkRFZUREEtNG9YSXFaa1J1N05JT3lfUC1Ram1pMUV1c0l2d3JURGJFeHJyal9kZmFwV1BTRTVyX0U1LTlBNm03TUN0WkR4VWZ1bjJFX1dwcVRjU0xqdFlENHlVNDFoRS04VQ?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "금융부터 스포츠까지…SAS, 서울 고객 컨퍼런스서 산업별 AI 활용 사례 공개 cio.com",
+      "publishedAt": "2026-06-19T02:41:23.000Z",
+      "rank": 2
+    },
+    {
+      "id": "e32f4ded26162347",
+      "title": "KTL, 산업 'AI 에이전트' 국제표준화 과제 신규 제안 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93THp0UlA2UFBzNjZTeFZFV2liUTdMR3JlT2xIdHIxYjZyd3lKalRuRWJzRlZQaWNGVm5ZNlhTY1dMTmVfZWZSM0Y4NzFEZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KTL, 산업 'AI 에이전트' 국제표준화 과제 신규 제안 전자신문",
+      "publishedAt": "2026-06-19T02:01:14.000Z",
+      "rank": 3
+    },
     {
       "id": "e0ca78e17f098fe6",
       "title": "G-P Achieves ISO/IEC 42001 Certification, Setting the Global Standard for Trust and Ethical AI in Global Employment - IT비즈뉴스",
@@ -65,143 +92,116 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "G-P Achieves ISO/IEC 42001 Certification, Setting the Global Standard for Trust and Ethical AI in Global Employment IT비즈뉴스",
       "publishedAt": "2026-06-17T12:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "99070e76a9900e42",
-      "title": "[#시큐리티 포커스] 윈스테크넷-중앙대 'AI 보안기술 산학협력' 협약·이너버스 '보안 컴플라이언스' 사업 확대·마이페어 'ISO/IEC 27001 인증' 획득·포티넷 '사이버보안 멘토링' 진행 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVU9vVExSTW1BOXRIcGVYVV96WG0xMlZZSzFoNWlFZUNDYm5aVjA2V3oyNFczVXZtTjhOR2pNY0swdk1VeDdrd29JM3poSlh0UVFIU0dpV1VMSzYtNTRoZzZpaDhXYnZZWEVoc2FnbVA1TjjSAXNBVV95cUxNTFVPb1RMUk1tQTl0SHBlWFVfelhtMTJWWUsxaDVpRWVDQ2JuWlYwNld6MjRXM1V2bU44TkdqTWNLMHZNVXg3a3dvSTN6aEpYdFFRSFNHaVdVTEs2LTU0aGc2aWg4V2J2WVhFaHNhZ21QNU44?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "[#시큐리티 포커스] 윈스테크넷-중앙대 'AI 보안기술 산학협력' 협약·이너버스 '보안 컴플라이언스' 사업 확대·마이페어 'ISO/IEC 27001 인증' 획득·포티넷 '사이버보안 멘토링' 진행 뉴스웍스",
-      "publishedAt": "2026-06-17T07:08:12.000Z",
-      "rank": 2
-    },
-    {
-      "id": "c294ad37aeb33481",
-      "title": "Ji Chang-wook Officially Invited to the Da Nang Asian Film Festival (DANAFF IV) - 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFVCb0RQS0sxY1NVY0l2OFp2cnh2X1JjSVR1em1NdWtNZFZCRVlHRnBOMmRDc1ltTFR3azZwa3VWVXJRSC15LTVyd2RiWWdvNFladHRqMXRLNFh5VE1xSUliYVdET1gwaDNvM3NhZjZTVDdpX1RFM2pNeXlnZFkzLXlZc1pabjNEcnRWSTdMd3N2cm5BejU5RTVWSkU4SFY3V3JDOXg2V3hFYl80U2pJOA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Ji Chang-wook Officially Invited to the Da Nang Asian Film Festival (DANAFF IV) 스포츠경향",
-      "publishedAt": "2026-06-17T22:25:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "f01ced2cd7edf01a",
-      "title": "KPMG strengthens System of Quality Management framework to drive continuous audit quality improvement in Hong Kong - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLMjVYY0ZTTHc2Sk0tMlQxWEljUkZtZDJkeTVkNU5vSVRuSkdFLWFTV0hmYkpwNXJwM0JWa0pUQmlwZHBINS1tZzhJLUNzM0RoMTBqYjVsUG45YVhrRHV6YXZXbEhvZm9x0gFsQVVfeXFMT2ZBOUFqekNHUTlBRldXakxBSHYzU1d4c0x3YjVjNjdFN2otUXMtcGV5RnVBU3VMbWFrV1FZYndQOU9pSlM1ZUtaQ1pYZDZMRXloQzFGc3N5OHMzejFGQV9MalQ1ellOUU1ra2pP?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "KPMG strengthens System of Quality Management framework to drive continuous audit quality improvement in Hong Kong KIPOST",
-      "publishedAt": "2026-06-17T01:00:00.000Z",
       "rank": 4
     },
     {
-      "id": "d8e829bdd5a5c628",
-      "title": "Mobile Technologies Contributed $240 Billion to Africa's Economy in 2025 as the Continent Enters a New Phase of Digital Transformation - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fNzZscjhvdFpTb0dPOWtoQW9yeUN1akRmTUdkTjA4T21uNnlLRGsxX0VFeUZXMTRzUUROZ29BcVRHZWk5SUhhMG9pYlZOZElsd0x6Zm9PbW95YmhrX3Q0M3c0ZTJBcGV60gFsQVVfeXFMTWppOW1ZaTZjRmFfLUh6V2QzakRMV2lIV3o4dFRXbFlfd1VCcWRhaVhvSlVRSTR2UXVLWHN6cTZKSkFuWlhkNVNVb0ZGU2xVSmMwb0FwU2FJWU1FMWVDYXVQamFwRmxEMEt0NElt?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Mobile Technologies Contributed $240 Billion to Africa's Economy in 2025 as the Continent Enters a New Phase of Digital Transformation KIPOST",
-      "publishedAt": "2026-06-16T10:10:00.000Z",
+      "id": "6d286decc6587de6",
+      "title": "순천향대, ITU 국제회의서 피지컬 AI·6G 보안 국제표준 선도 - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MTGtaQjl5SF84RHZtMl9NVU0yMzEtU3pfT08yMVowWnUwcDlqamJwdWdNVHhnRVF3MjJBWTkwZ0NZdFg5cnA2bFVfckdqbGNVVjNsTHVXWDJrZlE1cURDel9ZUnZYbDF5?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "순천향대, ITU 국제회의서 피지컬 AI·6G 보안 국제표준 선도 뉴스밴드",
+      "publishedAt": "2026-06-18T05:53:33.000Z",
       "rank": 5
     },
     {
-      "id": "aedcb6f3fb215325",
-      "title": "AI-First Companies Will Reach 10% by 2030. Gartner Says Data, Not Models, Will Decide the Winners - kmjournal.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04WjdFSXFyaWE0M0hCRnNVNGRxSWJ1QVFqaVpjbXo1d1JLTjhMaHEwRng2OU9SYkRZZXdCQlNQTksyZ3hKTks2UWE0ekx3ZDkwWUpIVEVZXzNDaDJ0ZEhIbHVfUUNlbXdjUV9V?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "AI-First Companies Will Reach 10% by 2030. Gartner Says Data, Not Models, Will Decide the Winners kmjournal.net",
-      "publishedAt": "2026-06-17T09:04:11.000Z",
+      "id": "8a22818da4127bfe",
+      "title": "순천향대, ITU서 ‘피지컬 AI·6G 보안’ 첫 국제표준 과제 따냈다 - 아산뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zcVNCVHR2VEN2bnROZFNrUkxhU2RoSWkzM0RZSzFqSG5uaXlReTBlem95NXBaMzYyb3NsUkhVeW1Qb3NPdjY4?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "순천향대, ITU서 ‘피지컬 AI·6G 보안’ 첫 국제표준 과제 따냈다 아산뉴스",
+      "publishedAt": "2026-06-18T05:08:00.000Z",
       "rank": 6
     },
     {
-      "id": "e2d206d0769382f6",
-      "title": "전주 미래산업, AI·가상융합·미디어테크 산업거점 키운다 - 전북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwckI4MFJBR3BPd2RvcGNKZXdJZEdfckJqRFNEZ1hUNHRfVnYtQmJJa0tsZF9jdXlmRXRESXU2SFk1RVNvNXBOZ3BNUEVHaUVJT1phNFJZdDJEMDEzNk5fa3diQWJjbHg3SlE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "전주 미래산업, AI·가상융합·미디어테크 산업거점 키운다 전북도민일보",
-      "publishedAt": "2026-06-17T08:12:00.000Z",
+      "id": "7c707ec3106c27ac",
+      "title": "China outlines next steps for advancing Global Governance Initiative - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOaTNiY2F6NEFlVl9KLU9US2Y5alpMMk8tOHNrcmJsRkNBeFBGMGdLcWtkeU8xSDBLVzlBWDdyUjlIMkliaHFoMDNEMXN3cXVrUWh3UUREX2cwRV9uM0puX3UxWm1FRkM5VThyRQ?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "China outlines next steps for advancing Global Governance Initiative IT비즈뉴스",
+      "publishedAt": "2026-06-18T02:34:00.000Z",
       "rank": 7
     },
     {
-      "id": "4732a4c184d65db6",
-      "title": "K아파트 홈네트워크 기술, 글로벌 표준화 첫 관문 뚫었다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MWE5xSHlXRnhPS0xkLXFaUG9fblBrdW52OGdzZXJKUHhjUGFTdXNfWnN2NUtwTTVFb3J2R2hFVVhGa2NKbmtjaDdNTXRqQQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "K아파트 홈네트워크 기술, 글로벌 표준화 첫 관문 뚫었다 전자신문",
-      "publishedAt": "2026-06-17T08:00:00.000Z",
+      "id": "691626705ebd57b4",
+      "title": "KACI, ‘AI-Cloud포럼’ 출범… AI·클라우드 표준화 추진 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQNFp0dFB0WXNWTU5DczBfLTJGNlRBT0doNno1WFFjZmhZMmRsOGs2d210M2p3OEVpWmZ6M2h3QlFKNkhIMWZGRDVWdGpGdjlXaVZFNTF0dS1yREY1a0hVcHdWUkZsN3AtUUVrX051cWU5alJW0gF0QVVfeXFMUFA0WnR0UHRZc1ZNTkNzMF8tMkY2VEFPR2g2ejVYUWNmaFkyZGw4azZ3bXQzanc4RWlaZnozaHdCUUo2SEgxZkZENVZ0akZ2OVdpVkU1MXR1LXJERjVrSFVwd1ZSRmw3cC1RRWtfTnVxZTlqUlY?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KACI, ‘AI-Cloud포럼’ 출범… AI·클라우드 표준화 추진 IT조선",
+      "publishedAt": "2026-06-18T10:12:02.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "f9215f4e76858760",
-      "title": "How Payward Ships Faster with Codex",
-      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/NxAxwsu6_Zs/hqdefault.jpg",
-      "publishedAt": "2026-06-14T22:44:45.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "d9293f1792223517",
-      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
-      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
-      "publishedAt": "2026-06-14T15:27:17.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "445213938c116d92",
-      "title": "When Will the UK Have Its First £100 Billion Tech Firm?",
-      "url": "https://www.youtube.com/watch?v=8jjV3Tl0_d0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8jjV3Tl0_d0/hqdefault.jpg",
-      "publishedAt": "2026-06-14T05:00:20.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "52a39e37b6d7ffd7",
-      "title": "London's AI Ecosystem Never Better, ElevenLabs CEO Says",
-      "url": "https://www.youtube.com/watch?v=_S1ZtA6647A",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/_S1ZtA6647A/hqdefault.jpg",
-      "publishedAt": "2026-06-13T05:00:02.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f4c24a493655b2b9",
-      "title": "SpaceX's IPO Made Elon Musk a Trillionaire...Now What?│Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=Zno9J7le1N4",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/Zno9J7le1N4/hqdefault.jpg",
-      "publishedAt": "2026-06-12T22:41:55.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "43cf59a93fd8a6f4",
-      "title": "Analyze earnings and update your investment thesis with Codex",
-      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg",
-      "publishedAt": "2026-06-12T20:36:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5db116f61238f483",
-      "title": "AIventure: Vibe Coding Journey",
-      "url": "https://www.youtube.com/watch?v=xQcbwGS6Ahc",
+      "id": "d52c7889435b99ec",
+      "title": "Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade",
+      "url": "https://www.youtube.com/watch?v=O6499i4TFYA",
       "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/xQcbwGS6Ahc/hqdefault.jpg",
-      "publishedAt": "2026-06-12T19:00:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/O6499i4TFYA/hqdefault.jpg",
+      "publishedAt": "2026-06-18T23:00:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "b343d9cc23ea8ea2",
-      "title": "SpaceX Makes History With Biggest-Ever IPO | Bloomberg Tech 6/12/2026",
-      "url": "https://www.youtube.com/watch?v=onqTWxk4fZs",
+      "id": "f6c008e63e6538bd",
+      "title": "President Trump Announces Apple and Intel Chip Collaboration | Bloomberg Tech 6/18/2026",
+      "url": "https://www.youtube.com/watch?v=YPZKi0vqbh4",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/onqTWxk4fZs/hqdefault.jpg",
-      "publishedAt": "2026-06-12T17:50:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YPZKi0vqbh4/hqdefault.jpg",
+      "publishedAt": "2026-06-18T20:44:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "26d4fd161ffa9a19",
+      "title": "Gemma Playground: AI Edge Gallery",
+      "url": "https://www.youtube.com/watch?v=XkwQwBZ_Q8w",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/XkwQwBZ_Q8w/hqdefault.jpg",
+      "publishedAt": "2026-06-18T19:20:15.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6e6682970a498c7a",
+      "title": "Rumble Bets on AI Compute Demand With New AI Platform",
+      "url": "https://www.youtube.com/watch?v=H6JJA8oZ5Fo",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/H6JJA8oZ5Fo/hqdefault.jpg",
+      "publishedAt": "2026-06-18T19:10:50.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "951fd1b0767578df",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg",
+      "publishedAt": "2026-06-18T19:10:18.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "8ea9984046892b14",
+      "title": "Investors Anticipate Fresh Liquidity Following Historic SpaceX Debut",
+      "url": "https://www.youtube.com/watch?v=Nx0JIjIhQLU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Nx0JIjIhQLU/hqdefault.jpg",
+      "publishedAt": "2026-06-18T19:08:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c6bc09bfd2c516d4",
+      "title": "Investors Look Beyond Chips For Next Big Thing in Tech",
+      "url": "https://www.youtube.com/watch?v=s2hiEfZur2E",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/s2hiEfZur2E/hqdefault.jpg",
+      "publishedAt": "2026-06-18T19:05:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "3db2d3f7c6a61da2",
+      "title": "Record & Replay in Codex",
+      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg",
+      "publishedAt": "2026-06-18T18:57:34.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-17T04:13:37.000Z"
+      "updatedAt": "2026-06-18T04:03:59.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
