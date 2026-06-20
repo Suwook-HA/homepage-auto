@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-19T04:19:32.951Z",
-  "projectsCheckedAt": "2026-06-19T04:19:32.951Z",
-  "projectsUpdatedAt": "2026-06-19T04:19:32.951Z",
+  "updatedAt": "2026-06-20T03:41:03.983Z",
+  "projectsCheckedAt": "2026-06-20T03:41:03.983Z",
+  "projectsUpdatedAt": "2026-06-20T03:41:03.983Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-19T04:19:32.951Z",
+    "checkedAt": "2026-06-20T03:41:03.983Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "1d7dc99820866904",
-      "title": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWFB1Sllac3BOZmhzVVdHaTgzVUpFeDBCMUhjeGFvdUZjb0pub2E2SHVKYTMzX1ZmX3VmRG5FV3hxZEhyMUp0V1g4LW9TQXdUbzctczU5d0MyTzJlUnAxSFBMMUFoVU1PZUl2UjB5MHA?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 신아일보",
-      "publishedAt": "2026-06-19T03:31:27.000Z",
+      "id": "f4c662eb45336531",
+      "title": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHQlNabEd3WXEtTVBBcEJWeG1oWncwUEp6U0ZFWXk4RjJfQ3hzV2h0Mmg3U3hUWUVHY1FITFFUS0F2WC1xVkNPanpCMUtGdw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 전자신문",
+      "publishedAt": "2026-06-19T04:29:36.000Z",
       "rank": 1
     },
     {
-      "id": "7fce3913c91e25fa",
-      "title": "금융부터 스포츠까지…SAS, 서울 고객 컨퍼런스서 산업별 AI 활용 사례 공개 - cio.com",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNczBWZUNNY09na1NlSTlvT2p4MWlSMWNMdHc1TWZ6Z21EZmVZTXRGdUNRVXZvRzJOblVVTnRGenFQTl95QlJSOF9razU5eFpRQUZNTkRkWEZ0ZjhKcnpMMy1OWlVSY3g0aFplcFRSNldQWjRBdjdPdE5KMG4tVUJHNkNpUFJieDE1RXVtRnNYWF9yVE1BUmhmWUV0Y0ZxRlZNb0hZS1A5UDNFTWpXTE44WF9hZ3ljc1pQdkstQWk2NEUwT1ZYOGR0alNFb1BhTHZRaDdsRmxkZV9HQVdHV2RHOXFGaTU0NDB1SXh1NVJkRFZUREEtNG9YSXFaa1J1N05JT3lfUC1Ram1pMUV1c0l2d3JURGJFeHJyal9kZmFwV1BTRTVyX0U1LTlBNm03TUN0WkR4VWZ1bjJFX1dwcVRjU0xqdFlENHlVNDFoRS04VQ?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "금융부터 스포츠까지…SAS, 서울 고객 컨퍼런스서 산업별 AI 활용 사례 공개 cio.com",
-      "publishedAt": "2026-06-19T02:41:23.000Z",
+      "id": "0345d99b5a462cca",
+      "title": "AI-Assisted Crackdown on Phone Number Spoofing Reduces Phishing Scams in South Korea - OECD AI Policy Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhN1djNFZxdWVYZDNDNUI5d1Bfdk95ZnlPLUI4RHEtWEFVSm5Pd2NPZkRJbzhLNWdUT3dIcUZiQVBPVlY3QVM4Wjg5RjVuX1lyZ0IwVHFhMA?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "AI-Assisted Crackdown on Phone Number Spoofing Reduces Phishing Scams in South Korea OECD AI Policy Observatory",
+      "publishedAt": "2026-06-19T08:51:17.000Z",
       "rank": 2
     },
     {
-      "id": "e32f4ded26162347",
-      "title": "KTL, 산업 'AI 에이전트' 국제표준화 과제 신규 제안 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93THp0UlA2UFBzNjZTeFZFV2liUTdMR3JlT2xIdHIxYjZyd3lKalRuRWJzRlZQaWNGVm5ZNlhTY1dMTmVfZWZSM0Y4NzFEZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KTL, 산업 'AI 에이전트' 국제표준화 과제 신규 제안 전자신문",
-      "publishedAt": "2026-06-19T02:01:14.000Z",
+      "id": "77144022ebcd9b43",
+      "title": "한국마사회, 가축 개체식별 기술 ‘ITU-T SG17’서 글로벌 표준 신규과제 채택 - 백세시대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bkRaMTIzNHlCZ3pQcmY3LURhRTRNNmhhUm5rX2dHX21hZHZ3Tkx3RlBiQ3JuOG9VaDhXUDg4WHlHb3FFbW9MY1UwMlJ5WW1pYVhNdmI0MmhpamlDejZqQlhHSk1NWjJhOG93?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "한국마사회, 가축 개체식별 기술 ‘ITU-T SG17’서 글로벌 표준 신규과제 채택 백세시대",
+      "publishedAt": "2026-06-19T07:50:57.000Z",
       "rank": 3
     },
     {
-      "id": "e0ca78e17f098fe6",
-      "title": "G-P Achieves ISO/IEC 42001 Certification, Setting the Global Standard for Trust and Ethical AI in Global Employment - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tN01tbDR1ZkNLZHJtdVFPdzY0MGxrS19RQ0FHTkRZdWI2Zk13MktYSEJZbnlhbGpyamhhTmVIa1RpcFo2TVpNcG8ySlNxZ2VWUHppWEZUdnkwMDZGaFBWbUdFeThKbF95a3JjNQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "G-P Achieves ISO/IEC 42001 Certification, Setting the Global Standard for Trust and Ethical AI in Global Employment IT비즈뉴스",
-      "publishedAt": "2026-06-17T12:00:00.000Z",
+      "id": "019fd7bb1d113fa9",
+      "title": "마사회 '가축동물 개체식별 인증지침', 세계 최초 ITU-T 국제표준 과제 채택 - 컨슈머타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1bDVyT0ZYUjZ6SzZZXzRpYW51UGhFVkduYzBaV1VaOTRYeTd1X2ZoM2VDUVg1NnE2R21EWDgyNEY3Q0dzRnpPRHZtNHAzaE9WOVhaYjE3d1NsNnUyUlJscUhLeGVKaGdJZ2c?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "마사회 '가축동물 개체식별 인증지침', 세계 최초 ITU-T 국제표준 과제 채택 컨슈머타임스",
+      "publishedAt": "2026-06-19T05:48:06.000Z",
       "rank": 4
     },
     {
-      "id": "6d286decc6587de6",
-      "title": "순천향대, ITU 국제회의서 피지컬 AI·6G 보안 국제표준 선도 - 뉴스밴드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MTGtaQjl5SF84RHZtMl9NVU0yMzEtU3pfT08yMVowWnUwcDlqamJwdWdNVHhnRVF3MjJBWTkwZ0NZdFg5cnA2bFVfckdqbGNVVjNsTHVXWDJrZlE1cURDel9ZUnZYbDF5?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "순천향대, ITU 국제회의서 피지컬 AI·6G 보안 국제표준 선도 뉴스밴드",
-      "publishedAt": "2026-06-18T05:53:33.000Z",
+      "id": "44d6bb7b2c113165",
+      "title": "KTL, 글로벌 표준 선점 나선다...한국이 이끄는 '산업 AI'의 미래 - 산업인뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USHFOUklNYjdyX0xrSElLQ3NmektGdndtQnAwMGpGemotc0xHZzdDS0sxeFFpbnBiWmdUcVdrNTVOcFcxVU5UZGhod0k2bmNnTVViN0R5TnBvempfeFJVdzlGa2ktUnRvQzBkM3dn?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KTL, 글로벌 표준 선점 나선다...한국이 이끄는 '산업 AI'의 미래 산업인뉴스",
+      "publishedAt": "2026-06-19T08:22:00.000Z",
       "rank": 5
     },
     {
-      "id": "8a22818da4127bfe",
-      "title": "순천향대, ITU서 ‘피지컬 AI·6G 보안’ 첫 국제표준 과제 따냈다 - 아산뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zcVNCVHR2VEN2bnROZFNrUkxhU2RoSWkzM0RZSzFqSG5uaXlReTBlem95NXBaMzYyb3NsUkhVeW1Qb3NPdjY4?oc=5",
+      "id": "ca54c43ec39d362c",
+      "title": "한국마사회·국내 스타트업 협력…가축 개체식별 국제표준화 첫걸음 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4YU91YXJSeGY3dUFtaTZBUzdnR1VUWGNJTlVINE15ZTdLWjNzV3d1WmVKdjdETFZ5WUpiQW9iOUxsSUstTXQzbDlJYnpNMjY0N3FYblc2TVlmWVk?oc=5",
       "source": "Google News: ITU-T standardization",
-      "summary": "순천향대, ITU서 ‘피지컬 AI·6G 보안’ 첫 국제표준 과제 따냈다 아산뉴스",
-      "publishedAt": "2026-06-18T05:08:00.000Z",
+      "summary": "한국마사회·국내 스타트업 협력…가축 개체식별 국제표준화 첫걸음 경기일보",
+      "publishedAt": "2026-06-19T05:42:00.000Z",
       "rank": 6
     },
     {
-      "id": "7c707ec3106c27ac",
-      "title": "China outlines next steps for advancing Global Governance Initiative - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOaTNiY2F6NEFlVl9KLU9US2Y5alpMMk8tOHNrcmJsRkNBeFBGMGdLcWtkeU8xSDBLVzlBWDdyUjlIMkliaHFoMDNEMXN3cXVrUWh3UUREX2cwRV9uM0puX3UxWm1FRkM5VThyRQ?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "China outlines next steps for advancing Global Governance Initiative IT비즈뉴스",
-      "publishedAt": "2026-06-18T02:34:00.000Z",
+      "id": "b59593144b7db0e3",
+      "title": "KTL, 산업 현장 'AI 에이전트' 국제표준화 이끈다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hYWFNRW9WUnVudzVKbm91VHpkZE10ZEIwQ2dadkhRZExVeUx5R1Bqdk4zYjhwbW9obElocXkwNjNNTWtseUZCdTB2dWFLSDJrZTFnWg?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "KTL, 산업 현장 'AI 에이전트' 국제표준화 이끈다 v.daum.net",
+      "publishedAt": "2026-06-19T04:55:09.000Z",
       "rank": 7
     },
     {
-      "id": "691626705ebd57b4",
-      "title": "KACI, ‘AI-Cloud포럼’ 출범… AI·클라우드 표준화 추진 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQNFp0dFB0WXNWTU5DczBfLTJGNlRBT0doNno1WFFjZmhZMmRsOGs2d210M2p3OEVpWmZ6M2h3QlFKNkhIMWZGRDVWdGpGdjlXaVZFNTF0dS1yREY1a0hVcHdWUkZsN3AtUUVrX051cWU5alJW0gF0QVVfeXFMUFA0WnR0UHRZc1ZNTkNzMF8tMkY2VEFPR2g2ejVYUWNmaFkyZGw4azZ3bXQzanc4RWlaZnozaHdCUUo2SEgxZkZENVZ0akZ2OVdpVkU1MXR1LXJERjVrSFVwd1ZSRmw3cC1RRWtfTnVxZTlqUlY?oc=5",
+      "id": "c704dbac110a4987",
+      "title": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWFB1Sllac3BOZmhzVVdHaTgzVUpFeDBCMUhjeGFvdUZjb0pub2E2SHVKYTMzX1ZmX3VmRG5FV3hxZEhyMUp0V1g4LW9TQXdUbzctczU5d0MyTzJlUnAxSFBMMUFoVU1PZUl2UjB5MHA?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "KACI, ‘AI-Cloud포럼’ 출범… AI·클라우드 표준화 추진 IT조선",
-      "publishedAt": "2026-06-18T10:12:02.000Z",
+      "summary": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 신아일보",
+      "publishedAt": "2026-06-19T03:31:27.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "d52c7889435b99ec",
-      "title": "Gemma 4 and the AI Edge Gallery: On-Device AI Gets an Upgrade",
-      "url": "https://www.youtube.com/watch?v=O6499i4TFYA",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/O6499i4TFYA/hqdefault.jpg",
-      "publishedAt": "2026-06-18T23:00:05.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f6c008e63e6538bd",
-      "title": "President Trump Announces Apple and Intel Chip Collaboration | Bloomberg Tech 6/18/2026",
-      "url": "https://www.youtube.com/watch?v=YPZKi0vqbh4",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/YPZKi0vqbh4/hqdefault.jpg",
-      "publishedAt": "2026-06-18T20:44:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "26d4fd161ffa9a19",
-      "title": "Gemma Playground: AI Edge Gallery",
-      "url": "https://www.youtube.com/watch?v=XkwQwBZ_Q8w",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/XkwQwBZ_Q8w/hqdefault.jpg",
-      "publishedAt": "2026-06-18T19:20:15.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6e6682970a498c7a",
-      "title": "Rumble Bets on AI Compute Demand With New AI Platform",
-      "url": "https://www.youtube.com/watch?v=H6JJA8oZ5Fo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/H6JJA8oZ5Fo/hqdefault.jpg",
-      "publishedAt": "2026-06-18T19:10:50.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "951fd1b0767578df",
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU",
+      "id": "650b3cecc5ce8f58",
+      "title": "What Codex Unlocks for NTT Data",
+      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg",
-      "publishedAt": "2026-06-18T19:10:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
+      "publishedAt": "2026-06-19T22:57:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "8ea9984046892b14",
-      "title": "Investors Anticipate Fresh Liquidity Following Historic SpaceX Debut",
-      "url": "https://www.youtube.com/watch?v=Nx0JIjIhQLU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Nx0JIjIhQLU/hqdefault.jpg",
-      "publishedAt": "2026-06-18T19:08:24.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c6bc09bfd2c516d4",
-      "title": "Investors Look Beyond Chips For Next Big Thing in Tech",
-      "url": "https://www.youtube.com/watch?v=s2hiEfZur2E",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/s2hiEfZur2E/hqdefault.jpg",
-      "publishedAt": "2026-06-18T19:05:36.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "3db2d3f7c6a61da2",
-      "title": "Record & Replay in Codex",
-      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18",
+      "id": "6b726913a4ab15f2",
+      "title": "Plan with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg",
-      "publishedAt": "2026-06-18T18:57:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
+      "publishedAt": "2026-06-19T21:22:26.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6dbf1aa23878976b",
+      "title": "Score with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
+      "publishedAt": "2026-06-19T21:20:04.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "657a9d792a836092",
+      "title": "Is There an AI Bubble? Two Top VCs on Valuations and ARR Inflation | StrictlyVC LA 2026",
+      "url": "https://www.youtube.com/watch?v=-0BpjkRCHqs",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/-0BpjkRCHqs/hqdefault.jpg",
+      "publishedAt": "2026-06-19T20:10:39.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "80c9ef731eaa722f",
+      "title": "He Dropped Out of MIT at 19 to Build America's Drone Arsenal. It's Working | StrictlyVC LA 2026",
+      "url": "https://www.youtube.com/watch?v=YOi1yo9AC5Y",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/YOi1yo9AC5Y/hqdefault.jpg",
+      "publishedAt": "2026-06-19T20:10:31.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f4b658700450c108",
+      "title": "90% of \"American\" Fish Gets Processed in China. This Startup Is Changing That | StrictlyVC LA 2026",
+      "url": "https://www.youtube.com/watch?v=hpUBtz6lbhw",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/hpUBtz6lbhw/hqdefault.jpg",
+      "publishedAt": "2026-06-19T20:10:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "de45addc7380742d",
+      "title": "Is the US government's Anthropic ban accidentally helping the brand? | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=UY-1tTeDrZ4",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/UY-1tTeDrZ4/hqdefault.jpg",
+      "publishedAt": "2026-06-19T16:11:30.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "0128a88c930484cc",
+      "title": "Scientists Found A Better Language For AI Agents",
+      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
+      "publishedAt": "2026-06-19T14:06:00.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-18T04:03:59.000Z"
+      "updatedAt": "2026-06-19T04:23:37.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
