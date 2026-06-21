@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-20T03:41:03.983Z",
-  "projectsCheckedAt": "2026-06-20T03:41:03.983Z",
-  "projectsUpdatedAt": "2026-06-20T03:41:03.983Z",
+  "updatedAt": "2026-06-21T04:14:14.793Z",
+  "projectsCheckedAt": "2026-06-21T04:14:14.793Z",
+  "projectsUpdatedAt": "2026-06-21T04:14:14.793Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-20T03:41:03.983Z",
+    "checkedAt": "2026-06-21T04:14:14.793Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "0b305e8f9b7c2cbc",
+      "title": "Digital Transformation의 본질: - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZVF5cjhybWdsT2NGY3VzX04tMFdkbzlieHFQbjZrVEs1cXlMUTA1emw2Q2xrUzhFXy1tWGNDNm42dUJ1MGhZUlR2YWxUelVJ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Digital Transformation의 본질: 브런치",
+      "publishedAt": "2026-06-20T01:45:48.000Z",
+      "rank": 1
+    },
+    {
+      "id": "65c7af93da2a61c8",
+      "title": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions - Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQakoyYUNmNi0tZm9Oa0JEbDExR2RwNDQ5S3hGa0lDM0IxdWZmbWxQRkxwU0U1QlR5LXp0VHlsZXpxWHVRdFlFUGJOcjRyZkpOck15ZlBUcDJvSElsN01KYThYa0RfYlJzSjBrTWRkUDNXNjlKNl9Xb0htNlhBbUhmcUpnNlZLSEJPZnNYUDZUOURrSERuQ3NpeGU4UkJaa1U3Y0U5aUNHb2J5VGZ1S0daQUZabTZBN05PM0pZVEZYZDJLN2hzRHVTUG43di0xVHBWRGlzeEVtQmRDeDNBYWVQMzFYZ3JueTBEQm44VnR5UUdjNzJiRHBaSExwNFBEbEZwMm03UkJuRWFDS1dGY2NuajBqZUJmQmFK?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions Business and Human Rights Centre",
+      "publishedAt": "2026-06-20T01:46:57.000Z",
+      "rank": 2
+    },
+    {
+      "id": "97581aed4015e65b",
+      "title": "Montenegro seeks to adopt Kazakh digital governance model - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TElyNWR0YzBuX0FDUUc0V3hfV21qeTZORjc2M2p3UWd5Y2l2U0dQNHA1VnFsR3BnZTQ5NnFKa3VIN3RjRF96dHpwX3lnVmpNM1VUZ09xSC01eTluc0pRbg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Montenegro seeks to adopt Kazakh digital governance model 네이트",
+      "publishedAt": "2026-06-20T01:07:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "01e7ee987d00c24a",
+      "title": "한전KDN, '제1차 ESG추진단 회의' 개최…글로벌 ESG 리더십 강화 나선다 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMWS1Xd2d1MDhEV1VvbDdVU3h2Qjc4bVRsaVpfdThPbU9yWXN3Zy1idUwxeDIzcENfSVRUNldvZ1hsbjVFbnp3aQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "한전KDN, '제1차 ESG추진단 회의' 개최…글로벌 ESG 리더십 강화 나선다 브레이크뉴스",
+      "publishedAt": "2026-06-20T09:49:00.000Z",
+      "rank": 4
+    },
     {
       "id": "f4c662eb45336531",
       "title": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 - 전자신문",
@@ -65,7 +101,16 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 전자신문",
       "publishedAt": "2026-06-19T04:29:36.000Z",
-      "rank": 1
+      "rank": 5
+    },
+    {
+      "id": "6ccbf5b47a90bb6f",
+      "title": "[PRNewswire] RI Court Urges Lawyers' Reason & Soul Amid Complexity - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96S2I3MEpZalgwNkFqc3RGWmp1SzZDRzdOdzRHYUxIXzZfWWZBMFBadmVjUzZnWWJGNW55U200YldPN203WmRzeEpOX2RoTFpxSVdZ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[PRNewswire] RI Court Urges Lawyers' Reason & Soul Amid Complexity 네이트",
+      "publishedAt": "2026-06-20T02:53:00.000Z",
+      "rank": 6
     },
     {
       "id": "0345d99b5a462cca",
@@ -74,7 +119,7 @@
       "source": "Google News: Trustworthy AI",
       "summary": "AI-Assisted Crackdown on Phone Number Spoofing Reduces Phishing Scams in South Korea OECD AI Policy Observatory",
       "publishedAt": "2026-06-19T08:51:17.000Z",
-      "rank": 2
+      "rank": 7
     },
     {
       "id": "77144022ebcd9b43",
@@ -83,55 +128,19 @@
       "source": "Google News: ITU-T standardization",
       "summary": "한국마사회, 가축 개체식별 기술 ‘ITU-T SG17’서 글로벌 표준 신규과제 채택 백세시대",
       "publishedAt": "2026-06-19T07:50:57.000Z",
-      "rank": 3
-    },
-    {
-      "id": "019fd7bb1d113fa9",
-      "title": "마사회 '가축동물 개체식별 인증지침', 세계 최초 ITU-T 국제표준 과제 채택 - 컨슈머타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1bDVyT0ZYUjZ6SzZZXzRpYW51UGhFVkduYzBaV1VaOTRYeTd1X2ZoM2VDUVg1NnE2R21EWDgyNEY3Q0dzRnpPRHZtNHAzaE9WOVhaYjE3d1NsNnUyUlJscUhLeGVKaGdJZ2c?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "마사회 '가축동물 개체식별 인증지침', 세계 최초 ITU-T 국제표준 과제 채택 컨슈머타임스",
-      "publishedAt": "2026-06-19T05:48:06.000Z",
-      "rank": 4
-    },
-    {
-      "id": "44d6bb7b2c113165",
-      "title": "KTL, 글로벌 표준 선점 나선다...한국이 이끄는 '산업 AI'의 미래 - 산업인뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USHFOUklNYjdyX0xrSElLQ3NmektGdndtQnAwMGpGemotc0xHZzdDS0sxeFFpbnBiWmdUcVdrNTVOcFcxVU5UZGhod0k2bmNnTVViN0R5TnBvempfeFJVdzlGa2ktUnRvQzBkM3dn?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KTL, 글로벌 표준 선점 나선다...한국이 이끄는 '산업 AI'의 미래 산업인뉴스",
-      "publishedAt": "2026-06-19T08:22:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "ca54c43ec39d362c",
-      "title": "한국마사회·국내 스타트업 협력…가축 개체식별 국제표준화 첫걸음 - 경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4YU91YXJSeGY3dUFtaTZBUzdnR1VUWGNJTlVINE15ZTdLWjNzV3d1WmVKdjdETFZ5WUpiQW9iOUxsSUstTXQzbDlJYnpNMjY0N3FYblc2TVlmWVk?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국마사회·국내 스타트업 협력…가축 개체식별 국제표준화 첫걸음 경기일보",
-      "publishedAt": "2026-06-19T05:42:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "b59593144b7db0e3",
-      "title": "KTL, 산업 현장 'AI 에이전트' 국제표준화 이끈다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hYWFNRW9WUnVudzVKbm91VHpkZE10ZEIwQ2dadkhRZExVeUx5R1Bqdk4zYjhwbW9obElocXkwNjNNTWtseUZCdTB2dWFLSDJrZTFnWg?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "KTL, 산업 현장 'AI 에이전트' 국제표준화 이끈다 v.daum.net",
-      "publishedAt": "2026-06-19T04:55:09.000Z",
-      "rank": 7
-    },
-    {
-      "id": "c704dbac110a4987",
-      "title": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWFB1Sllac3BOZmhzVVdHaTgzVUpFeDBCMUhjeGFvdUZjb0pub2E2SHVKYTMzX1ZmX3VmRG5FV3hxZEhyMUp0V1g4LW9TQXdUbzctczU5d0MyTzJlUnAxSFBMMUFoVU1PZUl2UjB5MHA?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KTL, 산업현장 AI 에이전트 운영 국제표준화 과제 제안 신아일보",
-      "publishedAt": "2026-06-19T03:31:27.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "25073ad2fabc6728",
+      "title": "Discover life at IBM ISDL",
+      "url": "https://www.youtube.com/watch?v=BzJKzCdp7N4",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/BzJKzCdp7N4/hqdefault.jpg",
+      "publishedAt": "2026-06-20T05:30:41.000Z",
+      "viewCount": 0
+    },
     {
       "id": "650b3cecc5ce8f58",
       "title": "What Codex Unlocks for NTT Data",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UY-1tTeDrZ4/hqdefault.jpg",
       "publishedAt": "2026-06-19T16:11:30.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "0128a88c930484cc",
-      "title": "Scientists Found A Better Language For AI Agents",
-      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
-      "publishedAt": "2026-06-19T14:06:00.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-19T04:23:37.000Z"
+      "updatedAt": "2026-06-20T03:45:07.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
