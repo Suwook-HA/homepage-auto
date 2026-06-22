@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-21T04:14:14.793Z",
-  "projectsCheckedAt": "2026-06-21T04:14:14.793Z",
-  "projectsUpdatedAt": "2026-06-21T04:14:14.793Z",
+  "updatedAt": "2026-06-22T04:15:49.783Z",
+  "projectsCheckedAt": "2026-06-22T04:15:49.783Z",
+  "projectsUpdatedAt": "2026-06-22T04:15:49.783Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,93 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-21T04:14:14.793Z",
+    "checkedAt": "2026-06-22T04:15:49.783Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "0b305e8f9b7c2cbc",
-      "title": "Digital Transformation의 본질: - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZVF5cjhybWdsT2NGY3VzX04tMFdkbzlieHFQbjZrVEs1cXlMUTA1emw2Q2xrUzhFXy1tWGNDNm42dUJ1MGhZUlR2YWxUelVJ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Digital Transformation의 본질: 브런치",
-      "publishedAt": "2026-06-20T01:45:48.000Z",
+      "id": "f3d43a9f36aca6e2",
+      "title": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 - 데일리시큐",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUzN4M0hfNzFZOGI1MjJCei1UZnBtbVBjVWlkeGxWTTRpUUhsakVNNmE1ZElsRGtXMm5DYXAtdVlDWnA3d2hxdDJuSTRRVHFFQkMwdHdIVW91X2lTY0E5TGpDSG5WekxFNVZXNQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 데일리시큐",
+      "publishedAt": "2026-06-22T00:33:59.000Z",
       "rank": 1
     },
     {
-      "id": "65c7af93da2a61c8",
-      "title": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions - Business and Human Rights Centre",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQakoyYUNmNi0tZm9Oa0JEbDExR2RwNDQ5S3hGa0lDM0IxdWZmbWxQRkxwU0U1QlR5LXp0VHlsZXpxWHVRdFlFUGJOcjRyZkpOck15ZlBUcDJvSElsN01KYThYa0RfYlJzSjBrTWRkUDNXNjlKNl9Xb0htNlhBbUhmcUpnNlZLSEJPZnNYUDZUOURrSERuQ3NpeGU4UkJaa1U3Y0U5aUNHb2J5VGZ1S0daQUZabTZBN05PM0pZVEZYZDJLN2hzRHVTUG43di0xVHBWRGlzeEVtQmRDeDNBYWVQMzFYZ3JueTBEQm44VnR5UUdjNzJiRHBaSExwNFBEbEZwMm03UkJuRWFDS1dGY2NuajBqZUJmQmFK?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions Business and Human Rights Centre",
-      "publishedAt": "2026-06-20T01:46:57.000Z",
+      "id": "30775e5b08886f95",
+      "title": "한국바이오협회-비엑스플랜트, R&D 부트캠프 개최 - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqc1MyMXhkSHVfamN4VWxVWW9KV0ZaM0FNRlVHN0Itc0dvYVMxenUxb0hwN3pnNVh5VVZMbVl5UEZCd0NYb1BJVllIWHg2WEc0TjhPdWVB?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "한국바이오협회-비엑스플랜트, R&D 부트캠프 개최 데일리팜",
+      "publishedAt": "2026-06-22T03:39:14.000Z",
       "rank": 2
     },
     {
-      "id": "97581aed4015e65b",
-      "title": "Montenegro seeks to adopt Kazakh digital governance model - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TElyNWR0YzBuX0FDUUc0V3hfV21qeTZORjc2M2p3UWd5Y2l2U0dQNHA1VnFsR3BnZTQ5NnFKa3VIN3RjRF96dHpwX3lnVmpNM1VUZ09xSC01eTluc0pRbg?oc=5",
+      "id": "95953aedf89abf77",
+      "title": "AI는 아름다움을 어떻게 재정의하는가 - 브랜드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZjFlclNFNDk1ejEtdXNTTEJqVWh4ZThHYUlrRTZIOXBkVDFiRjZock10Tm90Y3JVUmo2aXhDRHJCSWlTbVFkWU5CVUlhdkUyampZal9BZTVNZW9uU3JFdXQ5MFYyWnZvMWVQYg?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "Montenegro seeks to adopt Kazakh digital governance model 네이트",
-      "publishedAt": "2026-06-20T01:07:00.000Z",
+      "summary": "AI는 아름다움을 어떻게 재정의하는가 브랜드뉴스",
+      "publishedAt": "2026-06-22T01:09:37.000Z",
       "rank": 3
     },
     {
-      "id": "01e7ee987d00c24a",
-      "title": "한전KDN, '제1차 ESG추진단 회의' 개최…글로벌 ESG 리더십 강화 나선다 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMWS1Xd2d1MDhEV1VvbDdVU3h2Qjc4bVRsaVpfdThPbU9yWXN3Zy1idUwxeDIzcENfSVRUNldvZ1hsbjVFbnp3aQ?oc=5",
+      "id": "3bfa2e62edef67cc",
+      "title": "Samsung Medical Center Named Asia-Pacific’s Top Hospital for Cancer, Respiratory and Digestive Care by Newsweek - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ja21ZQUVUWk1kYUdydThORHBPZmRJaDlUYXNrRVVIc0pQdlpYdHR4WldFR3hEOGR6bEJuMjVHN2hkOHB4VFo5ZTVjdUxBbXNjSjd2YnBTTzduaGtSWjhDSkZ3?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "한전KDN, '제1차 ESG추진단 회의' 개최…글로벌 ESG 리더십 강화 나선다 브레이크뉴스",
-      "publishedAt": "2026-06-20T09:49:00.000Z",
+      "summary": "Samsung Medical Center Named Asia-Pacific’s Top Hospital for Cancer, Respiratory and Digestive Care by Newsweek 뉴스1",
+      "publishedAt": "2026-06-21T23:42:52.000Z",
       "rank": 4
     },
     {
-      "id": "f4c662eb45336531",
-      "title": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHQlNabEd3WXEtTVBBcEJWeG1oWncwUEp6U0ZFWXk4RjJfQ3hzV2h0Mmg3U3hUWUVHY1FITFFUS0F2WC1xVkNPanpCMUtGdw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득 전자신문",
-      "publishedAt": "2026-06-19T04:29:36.000Z",
+      "id": "1e863696ca28c015",
+      "title": "[헬스인·싸] 보건의료 미래 시장, ‘기술’보다 ‘국제표준’이 지배한다 - 라포르시안",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia2tXRFAxRlh3NmhrcVlobTdGN1ktRTBKME5mbmsxenMxU3MwUElFYU9RT2pVU1RXWXItLVVtczlDbVFacEIzbXo1OUtWV2xWbENxbUxhaWdub2xLd1ptS04yekRSdVM0RXpfUA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[헬스인·싸] 보건의료 미래 시장, ‘기술’보다 ‘국제표준’이 지배한다 라포르시안",
+      "publishedAt": "2026-06-21T22:30:00.000Z",
       "rank": 5
     },
     {
-      "id": "6ccbf5b47a90bb6f",
-      "title": "[PRNewswire] RI Court Urges Lawyers' Reason & Soul Amid Complexity - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96S2I3MEpZalgwNkFqc3RGWmp1SzZDRzdOdzRHYUxIXzZfWWZBMFBadmVjUzZnWWJGNW55U200YldPN203WmRzeEpOX2RoTFpxSVdZ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[PRNewswire] RI Court Urges Lawyers' Reason & Soul Amid Complexity 네이트",
-      "publishedAt": "2026-06-20T02:53:00.000Z",
+      "id": "ecf0aceb0b4e0ff2",
+      "title": "‘R&D 전략 재편’ K-제약바이오⋯“합병보다 경쟁력 강화가 중요” - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVU5XemZzVUQwMzBDcUthTm5BMXZtQzhmamlJd2Q5ck1pb2xZZU1rdlFjd1JyY0djU1Q1VGZkSE9rZ0FlaVVjQnRXZEhQN2I5bmRvVXM2Z1ZLZw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "‘R&D 전략 재편’ K-제약바이오⋯“합병보다 경쟁력 강화가 중요” 브릿지경제",
+      "publishedAt": "2026-06-21T21:01:00.000Z",
       "rank": 6
     },
     {
-      "id": "0345d99b5a462cca",
-      "title": "AI-Assisted Crackdown on Phone Number Spoofing Reduces Phishing Scams in South Korea - OECD AI Policy Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhN1djNFZxdWVYZDNDNUI5d1Bfdk95ZnlPLUI4RHEtWEFVSm5Pd2NPZkRJbzhLNWdUT3dIcUZiQVBPVlY3QVM4Wjg5RjVuX1lyZ0IwVHFhMA?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "AI-Assisted Crackdown on Phone Number Spoofing Reduces Phishing Scams in South Korea OECD AI Policy Observatory",
-      "publishedAt": "2026-06-19T08:51:17.000Z",
+      "id": "c30fb49cf6a389e0",
+      "title": "대만 노동규제, 한국의 비용변수 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBEM3hWQU10N0JxTmZ0eDN2RTZibktLd2lSMHpHVXVzRVotWERwbGVUT29lWmZVbWdRVGFPNGIxT0JpS1k?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "대만 노동규제, 한국의 비용변수 한국공공정책신문",
+      "publishedAt": "2026-06-21T19:49:23.000Z",
       "rank": 7
     },
     {
-      "id": "77144022ebcd9b43",
-      "title": "한국마사회, 가축 개체식별 기술 ‘ITU-T SG17’서 글로벌 표준 신규과제 채택 - 백세시대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bkRaMTIzNHlCZ3pQcmY3LURhRTRNNmhhUm5rX2dHX21hZHZ3Tkx3RlBiQ3JuOG9VaDhXUDg4WHlHb3FFbW9MY1UwMlJ5WW1pYVhNdmI0MmhpamlDejZqQlhHSk1NWjJhOG93?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국마사회, 가축 개체식별 기술 ‘ITU-T SG17’서 글로벌 표준 신규과제 채택 백세시대",
-      "publishedAt": "2026-06-19T07:50:57.000Z",
+      "id": "1db01a96566c5443",
+      "title": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwNTVIZ1VBaVFnX2xHRkhHOE1QSkNTMlhRbmFiUm1mRGsxQ2NZamg0dlU2S2pHZ19kamllZGRCS3RaNWowWENUaDBreWcyaFFWYWg1RGRTV1NPU1VTeDJCZ2x4SFhHdGl6UWdPejBjTFpMSkda?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外 부산일보",
+      "publishedAt": "2026-06-20T11:49:41.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "ef7dac5e5750ccb0",
+      "title": "Reimagining Tennis for Every Fan",
+      "url": "https://www.youtube.com/watch?v=-AMnd_CD06Q",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/-AMnd_CD06Q/hqdefault.jpg",
+      "publishedAt": "2026-06-21T23:01:18.000Z",
+      "viewCount": 0
+    },
     {
       "id": "25073ad2fabc6728",
       "title": "Discover life at IBM ISDL",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hpUBtz6lbhw/hqdefault.jpg",
       "publishedAt": "2026-06-19T20:10:24.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "de45addc7380742d",
-      "title": "Is the US government's Anthropic ban accidentally helping the brand? | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=UY-1tTeDrZ4",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/UY-1tTeDrZ4/hqdefault.jpg",
-      "publishedAt": "2026-06-19T16:11:30.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-20T03:45:07.000Z"
+      "updatedAt": "2026-06-21T04:18:18.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
