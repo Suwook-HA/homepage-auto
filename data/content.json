@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-22T04:15:49.783Z",
-  "projectsCheckedAt": "2026-06-22T04:15:49.783Z",
-  "projectsUpdatedAt": "2026-06-22T04:15:49.783Z",
+  "updatedAt": "2026-06-23T03:35:12.559Z",
+  "projectsCheckedAt": "2026-06-23T03:35:12.559Z",
+  "projectsUpdatedAt": "2026-06-23T03:35:12.559Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-22T04:15:49.783Z",
+    "checkedAt": "2026-06-23T03:35:12.559Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "d8bf3d9650865944",
+      "title": "[기자의 눈] 병리 AI 열풍이 놓치고 있는 것 - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1scnluRXRteS1Mb2VaMUZYdU9hZ2NJOS1vNGZERVVBWFBHWTlXNXNNRTBJNU9YdkpxdDFJeXZ3Ny1GVnA4V3lyakFKdmhyYmxZ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[기자의 눈] 병리 AI 열풍이 놓치고 있는 것 데일리팜",
+      "publishedAt": "2026-06-23T02:30:07.000Z",
+      "rank": 1
+    },
+    {
+      "id": "a1f66adfd3b6acb1",
+      "title": "[ME2026] TIZ Solutions Showcases Data-Driven Manufacturing Intelligence for Smart Factory Transformation - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uQVZScDgtZ2lRZ2NLUHdaMTdGVDlIc1k2NnAwS1RLajVzVE80WUhzd2lxQ0lZVFA3dTFBNEhNdmVNN1dNeFhOWQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[ME2026] TIZ Solutions Showcases Data-Driven Manufacturing Intelligence for Smart Factory Transformation 산업일보",
+      "publishedAt": "2026-06-22T10:27:44.000Z",
+      "rank": 2
+    },
     {
       "id": "f3d43a9f36aca6e2",
       "title": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 - 데일리시큐",
@@ -65,7 +83,16 @@
       "source": "Google News: ITU-T standardization",
       "summary": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 데일리시큐",
       "publishedAt": "2026-06-22T00:33:59.000Z",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "id": "f32493dbb7a18fb6",
+      "title": "\"AI가 선택하는 시대…정부 역할, 데이터 표준화와 신뢰 구축\" - 딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYUVY0ankxdVladDhSU1Y5MEUyQm1CejNBNVU5WnVYdmdTRjNTU2ZjYWp3ZXpISWczeGFGdG0xZklFUzFFbnhQWmItdmdJNlk?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"AI가 선택하는 시대…정부 역할, 데이터 표준화와 신뢰 구축\" 딜사이트",
+      "publishedAt": "2026-06-22T04:52:45.000Z",
+      "rank": 4
     },
     {
       "id": "30775e5b08886f95",
@@ -74,7 +101,16 @@
       "source": "Google News: R&D Strategy",
       "summary": "한국바이오협회-비엑스플랜트, R&D 부트캠프 개최 데일리팜",
       "publishedAt": "2026-06-22T03:39:14.000Z",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "id": "8435446294a3f08f",
+      "title": "S2W, 글로벌 온라인 인증 표준화 기구 'FIDO 얼라이언스' 합류 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kcVpjajBfbVVmRDE3UVFVTk41T0lfRG1YRk12M3dXZmRlQkJNdUxBZG5teHJGRTd6SnhnektLZEY3X1pSZC1UTzh5UmVQdHRwaUtxX3hCcjZaSzlFb0w4dDF4Tk51ckM2czBINXVEcW9QNWh5?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "S2W, 글로벌 온라인 인증 표준화 기구 'FIDO 얼라이언스' 합류 파이낸셜포스트",
+      "publishedAt": "2026-06-22T02:20:09.000Z",
+      "rank": 6
     },
     {
       "id": "95953aedf89abf77",
@@ -83,71 +119,44 @@
       "source": "Google News: Digital Transformation",
       "summary": "AI는 아름다움을 어떻게 재정의하는가 브랜드뉴스",
       "publishedAt": "2026-06-22T01:09:37.000Z",
-      "rank": 3
-    },
-    {
-      "id": "3bfa2e62edef67cc",
-      "title": "Samsung Medical Center Named Asia-Pacific’s Top Hospital for Cancer, Respiratory and Digestive Care by Newsweek - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ja21ZQUVUWk1kYUdydThORHBPZmRJaDlUYXNrRVVIc0pQdlpYdHR4WldFR3hEOGR6bEJuMjVHN2hkOHB4VFo5ZTVjdUxBbXNjSjd2YnBTTzduaGtSWjhDSkZ3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Samsung Medical Center Named Asia-Pacific’s Top Hospital for Cancer, Respiratory and Digestive Care by Newsweek 뉴스1",
-      "publishedAt": "2026-06-21T23:42:52.000Z",
-      "rank": 4
-    },
-    {
-      "id": "1e863696ca28c015",
-      "title": "[헬스인·싸] 보건의료 미래 시장, ‘기술’보다 ‘국제표준’이 지배한다 - 라포르시안",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia2tXRFAxRlh3NmhrcVlobTdGN1ktRTBKME5mbmsxenMxU3MwUElFYU9RT2pVU1RXWXItLVVtczlDbVFacEIzbXo1OUtWV2xWbENxbUxhaWdub2xLd1ptS04yekRSdVM0RXpfUA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[헬스인·싸] 보건의료 미래 시장, ‘기술’보다 ‘국제표준’이 지배한다 라포르시안",
-      "publishedAt": "2026-06-21T22:30:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "ecf0aceb0b4e0ff2",
-      "title": "‘R&D 전략 재편’ K-제약바이오⋯“합병보다 경쟁력 강화가 중요” - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVU5XemZzVUQwMzBDcUthTm5BMXZtQzhmamlJd2Q5ck1pb2xZZU1rdlFjd1JyY0djU1Q1VGZkSE9rZ0FlaVVjQnRXZEhQN2I5bmRvVXM2Z1ZLZw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "‘R&D 전략 재편’ K-제약바이오⋯“합병보다 경쟁력 강화가 중요” 브릿지경제",
-      "publishedAt": "2026-06-21T21:01:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "c30fb49cf6a389e0",
-      "title": "대만 노동규제, 한국의 비용변수 - 한국공공정책신문",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBEM3hWQU10N0JxTmZ0eDN2RTZibktLd2lSMHpHVXVzRVotWERwbGVUT29lWmZVbWdRVGFPNGIxT0JpS1k?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "대만 노동규제, 한국의 비용변수 한국공공정책신문",
-      "publishedAt": "2026-06-21T19:49:23.000Z",
       "rank": 7
     },
     {
-      "id": "1db01a96566c5443",
-      "title": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwNTVIZ1VBaVFnX2xHRkhHOE1QSkNTMlhRbmFiUm1mRGsxQ2NZamg0dlU2S2pHZ19kamllZGRCS3RaNWowWENUaDBreWcyaFFWYWg1RGRTV1NPU1VTeDJCZ2x4SFhHdGl6UWdPejBjTFpMSkda?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外 부산일보",
-      "publishedAt": "2026-06-20T11:49:41.000Z",
+      "id": "3dce16ba6d23957b",
+      "title": "“알아서 일하는 ‘AI 직원’, 믿고 맡길 기준 만든다”… KTL, 국제표준화 첫발 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40X2xDNEk1NURzQWpkSmZ4X2E3ZXMtZW1lcUU2NkJiLXhrYUVGMlkwbDhlZk8wemVFZVBIUlg3V0thMlhfbTZrTkpodw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "“알아서 일하는 ‘AI 직원’, 믿고 맡길 기준 만든다”… KTL, 국제표준화 첫발 v.daum.net",
+      "publishedAt": "2026-06-22T00:26:17.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "ef7dac5e5750ccb0",
-      "title": "Reimagining Tennis for Every Fan",
-      "url": "https://www.youtube.com/watch?v=-AMnd_CD06Q",
-      "channel": "IBM Technology",
-      "thumbnail": "https://i.ytimg.com/vi/-AMnd_CD06Q/hqdefault.jpg",
-      "publishedAt": "2026-06-21T23:01:18.000Z",
+      "id": "4c11b49fbc41a37c",
+      "title": "Gemma Playground: Parallel Agents in Action",
+      "url": "https://www.youtube.com/watch?v=bfvS1UeAkN0",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/bfvS1UeAkN0/hqdefault.jpg",
+      "publishedAt": "2026-06-22T23:00:03.000Z",
       "viewCount": 0
     },
     {
-      "id": "25073ad2fabc6728",
-      "title": "Discover life at IBM ISDL",
-      "url": "https://www.youtube.com/watch?v=BzJKzCdp7N4",
-      "channel": "IBM Technology",
-      "thumbnail": "https://i.ytimg.com/vi/BzJKzCdp7N4/hqdefault.jpg",
-      "publishedAt": "2026-06-20T05:30:41.000Z",
+      "id": "75dddd53dfde4892",
+      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
+      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
+      "publishedAt": "2026-06-22T17:45:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4b1e147dd4236a7f",
+      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg",
+      "publishedAt": "2026-06-22T15:53:06.000Z",
       "viewCount": 0
     },
     {
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YOi1yo9AC5Y/hqdefault.jpg",
       "publishedAt": "2026-06-19T20:10:31.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "f4b658700450c108",
-      "title": "90% of \"American\" Fish Gets Processed in China. This Startup Is Changing That | StrictlyVC LA 2026",
-      "url": "https://www.youtube.com/watch?v=hpUBtz6lbhw",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/hpUBtz6lbhw/hqdefault.jpg",
-      "publishedAt": "2026-06-19T20:10:24.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-21T04:18:18.000Z"
+      "updatedAt": "2026-06-22T04:19:55.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
