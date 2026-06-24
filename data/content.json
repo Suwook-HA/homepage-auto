@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-23T03:35:12.559Z",
-  "projectsCheckedAt": "2026-06-23T03:35:12.559Z",
-  "projectsUpdatedAt": "2026-06-23T03:35:12.559Z",
+  "updatedAt": "2026-06-24T03:36:00.768Z",
+  "projectsCheckedAt": "2026-06-24T03:36:00.768Z",
+  "projectsUpdatedAt": "2026-06-24T03:36:00.768Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,102 +54,84 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-23T03:35:12.559Z",
+    "checkedAt": "2026-06-24T03:36:00.768Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d8bf3d9650865944",
-      "title": "[기자의 눈] 병리 AI 열풍이 놓치고 있는 것 - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1scnluRXRteS1Mb2VaMUZYdU9hZ2NJOS1vNGZERVVBWFBHWTlXNXNNRTBJNU9YdkpxdDFJeXZ3Ny1GVnA4V3lyakFKdmhyYmxZ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[기자의 눈] 병리 AI 열풍이 놓치고 있는 것 데일리팜",
-      "publishedAt": "2026-06-23T02:30:07.000Z",
+      "id": "725e1ff27d4f13a1",
+      "title": "기보, 금융 공공기관 최초 ‘ISO/IEC 42001’ 인증 획득 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkY4MFlYcDl6Vnd5dzVPcVVVc24zZTFTWkQyTHF1SXZyRzlDMG51Y3BiV2RnelB1bVZSLVlHbHF1eXRvM1hOaXFkaXdMcm84VHMxRzZkR3FlWTdRV1Z5UEVRLWNfSm1VeFBqZVN1c3ZrS2gz?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "기보, 금융 공공기관 최초 ‘ISO/IEC 42001’ 인증 획득 부산일보",
+      "publishedAt": "2026-06-24T02:21:44.000Z",
       "rank": 1
     },
     {
-      "id": "a1f66adfd3b6acb1",
-      "title": "[ME2026] TIZ Solutions Showcases Data-Driven Manufacturing Intelligence for Smart Factory Transformation - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uQVZScDgtZ2lRZ2NLUHdaMTdGVDlIc1k2NnAwS1RLajVzVE80WUhzd2lxQ0lZVFA3dTFBNEhNdmVNN1dNeFhOWQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[ME2026] TIZ Solutions Showcases Data-Driven Manufacturing Intelligence for Smart Factory Transformation 산업일보",
-      "publishedAt": "2026-06-22T10:27:44.000Z",
+      "id": "f32f9c9dd043dc00",
+      "title": "한국경영인증원, AI 규제 대응 및 AX 지식서비스 확산···ISO/IEC 42001 세미나 개최 - 이넷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pOEdvZVMwdmw0T1R4ZjZBbXBZZlhSeGxxZmJYNnhDYW8yYnI3SGlQLWFOMkI5R2hVV3Jpamd3UmNZMnZVWW9lbGYzZmNPb09jV1ZfR1lVTjFXSG5tYk5zcDhhQnM0UU83SGhOVko0SWjSAXBBVV95cUxPaThHb2VTMHZsNE9UeGY2QW1wWWZYUnhscWZiWDZ4Q2FvMmJyN0hpUC1hTjJCOUdoVVdyaWpnd1JjWTJ2VVlvZWxmM2ZjT29PY1dWX0dZVU4xV0hubWJOc3A4YUJzNFFPN0hoTlZKNElo?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한국경영인증원, AI 규제 대응 및 AX 지식서비스 확산···ISO/IEC 42001 세미나 개최 이넷뉴스",
+      "publishedAt": "2026-06-24T01:45:43.000Z",
       "rank": 2
     },
     {
-      "id": "f3d43a9f36aca6e2",
-      "title": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 - 데일리시큐",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUzN4M0hfNzFZOGI1MjJCei1UZnBtbVBjVWlkeGxWTTRpUUhsakVNNmE1ZElsRGtXMm5DYXAtdVlDWnA3d2hxdDJuSTRRVHFFQkMwdHdIVW91X2lTY0E5TGpDSG5WekxFNVZXNQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "잇핀, DLT 데이터 저장구조 ITU-T 국제표준화 착수 데일리시큐",
-      "publishedAt": "2026-06-22T00:33:59.000Z",
+      "id": "182b8f7b00a82035",
+      "title": "기술보증기금, 금융 공공기관 최초 AI 국제표준 'ISO 42001' 획득AI - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNG9zdTVQdXMyUWVNaVk2ZzBhTUZkbmllb0prWHVmZXVNVk1DeFk3LWRKZUJ0TGxpTEI5Z2xIUGRoNXVkbHhCQU4tUEp4NVZkaTdtSjR3aG84RUxxWmlfMA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "기술보증기금, 금융 공공기관 최초 AI 국제표준 'ISO 42001' 획득AI 네이트",
+      "publishedAt": "2026-06-23T23:32:00.000Z",
       "rank": 3
     },
     {
-      "id": "f32493dbb7a18fb6",
-      "title": "\"AI가 선택하는 시대…정부 역할, 데이터 표준화와 신뢰 구축\" - 딜사이트",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYUVY0ankxdVladDhSU1Y5MEUyQm1CejNBNVU5WnVYdmdTRjNTU2ZjYWp3ZXpISWczeGFGdG0xZklFUzFFbnhQWmItdmdJNlk?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"AI가 선택하는 시대…정부 역할, 데이터 표준화와 신뢰 구축\" 딜사이트",
-      "publishedAt": "2026-06-22T04:52:45.000Z",
+      "id": "074bfd39d59e6dbf",
+      "title": "AI가 공장을 바꾸는 시대… 부산산학융합원-日 본디지털 협약, 왜 주목받나 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50UnRnS0xoOFZVeVM5M2dMbWdyMVA2LS04dHN3T0dnbXJoVDlzSHA4cmZnVU92RFVlTmY1TjhKNkdzWS1hTktKd3B4NnZEaXI3eWhzZnZTQTFVVmdvLXZ5dXQ2YlktVnVK?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "AI가 공장을 바꾸는 시대… 부산산학융합원-日 본디지털 협약, 왜 주목받나 녹색경제신문",
+      "publishedAt": "2026-06-24T02:40:42.000Z",
       "rank": 4
     },
     {
-      "id": "30775e5b08886f95",
-      "title": "한국바이오협회-비엑스플랜트, R&D 부트캠프 개최 - 데일리팜",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqc1MyMXhkSHVfamN4VWxVWW9KV0ZaM0FNRlVHN0Itc0dvYVMxenUxb0hwN3pnNVh5VVZMbVl5UEZCd0NYb1BJVllIWHg2WEc0TjhPdWVB?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "한국바이오협회-비엑스플랜트, R&D 부트캠프 개최 데일리팜",
-      "publishedAt": "2026-06-22T03:39:14.000Z",
+      "id": "95a8e7c9ab309984",
+      "title": "기보, AI 국제표준 인증 획득…신뢰 기반 AI 경영체계 구축 - 라이센스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sY1k0RkFpQWNHemlXNUtmT1RyRW9fZ1NwLWdjekNBMUlRN1pPOVVZY1VKeVI5STQtU1Z4ZW5NNE9jNVVBVW9iMjItWTlOT1d1QW1MTmtMMzl6Yl82MVdROTZQdi1peFJ4SWdV?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "기보, AI 국제표준 인증 획득…신뢰 기반 AI 경영체계 구축 라이센스뉴스",
+      "publishedAt": "2026-06-24T02:13:36.000Z",
       "rank": 5
     },
     {
-      "id": "8435446294a3f08f",
-      "title": "S2W, 글로벌 온라인 인증 표준화 기구 'FIDO 얼라이언스' 합류 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kcVpjajBfbVVmRDE3UVFVTk41T0lfRG1YRk12M3dXZmRlQkJNdUxBZG5teHJGRTd6SnhnektLZEY3X1pSZC1UTzh5UmVQdHRwaUtxX3hCcjZaSzlFb0w4dDF4Tk51ckM2czBINXVEcW9QNWh5?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "S2W, 글로벌 온라인 인증 표준화 기구 'FIDO 얼라이언스' 합류 파이낸셜포스트",
-      "publishedAt": "2026-06-22T02:20:09.000Z",
+      "id": "cfbc936819856ed3",
+      "title": "기보, 금융 공공기관 최초 AI 국제표준 인증 획득…‘책임 있는 AI 금융’ 선도 - bseconomy.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xb0VpT1Z2Sndwd0R1STBsU3ZsZ1dDTlo4MUtCcGFZNnM1clA1dTA4c3dKSmJQeVJSY1g0TnRNSzlrVXlDakpycXJEeG9QZWItSjVXeHRVNDZlR0pu?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "기보, 금융 공공기관 최초 AI 국제표준 인증 획득…‘책임 있는 AI 금융’ 선도 bseconomy.com",
+      "publishedAt": "2026-06-24T01:34:56.000Z",
       "rank": 6
     },
     {
-      "id": "95953aedf89abf77",
-      "title": "AI는 아름다움을 어떻게 재정의하는가 - 브랜드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZjFlclNFNDk1ejEtdXNTTEJqVWh4ZThHYUlrRTZIOXBkVDFiRjZock10Tm90Y3JVUmo2aXhDRHJCSWlTbVFkWU5CVUlhdkUyampZal9BZTVNZW9uU3JFdXQ5MFYyWnZvMWVQYg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "AI는 아름다움을 어떻게 재정의하는가 브랜드뉴스",
-      "publishedAt": "2026-06-22T01:09:37.000Z",
+      "id": "02ccdcf3d97d9af7",
+      "title": "기보, AI 경영시스템 국제인증 획득 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NYm5YdDhKVVE1N1YwS0kxWU1obmVWV2V1TkFEU25zdDNBYi0tVDgzOWdJOGkwN1d3cW5kWlk3ZHp0S1FQN3dUeGJWWVdXMnRUc3FMVnRhWFIyNWxtTUprRmlUUlowLXJRLUE?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "기보, AI 경영시스템 국제인증 획득 서울파이낸스",
+      "publishedAt": "2026-06-24T01:00:00.000Z",
       "rank": 7
     },
     {
-      "id": "3dce16ba6d23957b",
-      "title": "“알아서 일하는 ‘AI 직원’, 믿고 맡길 기준 만든다”… KTL, 국제표준화 첫발 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40X2xDNEk1NURzQWpkSmZ4X2E3ZXMtZW1lcUU2NkJiLXhrYUVGMlkwbDhlZk8wemVFZVBIUlg3V0thMlhfbTZrTkpodw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "“알아서 일하는 ‘AI 직원’, 믿고 맡길 기준 만든다”… KTL, 국제표준화 첫발 v.daum.net",
-      "publishedAt": "2026-06-22T00:26:17.000Z",
+      "id": "1a2ac78ee06421a4",
+      "title": "ETRI Targets National AI Backbone for High-Speed Data Center Connectivity - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZk13YmlhdTJVYkNxRWtZcDRwNm9EOHNLUnlWNXJfMDNwRTZiZG1kWHAtTzgybWJhOS1ZNnRBYTdyNkV6NWVKVVU5RHl0eDFHR3I5Z1ItOTB0dnNrWjFlTllua05KZnVZaVA0MlpyNDk?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ETRI Targets National AI Backbone for High-Speed Data Center Connectivity Korea IT Times",
+      "publishedAt": "2026-06-24T00:59:40.000Z",
       "rank": 8
     }
   ],
   "videos": [
-    {
-      "id": "4c11b49fbc41a37c",
-      "title": "Gemma Playground: Parallel Agents in Action",
-      "url": "https://www.youtube.com/watch?v=bfvS1UeAkN0",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/bfvS1UeAkN0/hqdefault.jpg",
-      "publishedAt": "2026-06-22T23:00:03.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "75dddd53dfde4892",
-      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
-      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
-      "publishedAt": "2026-06-22T17:45:36.000Z",
-      "viewCount": 0
-    },
     {
       "id": "4b1e147dd4236a7f",
       "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
@@ -160,48 +142,66 @@
       "viewCount": 0
     },
     {
-      "id": "650b3cecc5ce8f58",
-      "title": "What Codex Unlocks for NTT Data",
-      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
-      "publishedAt": "2026-06-19T22:57:58.000Z",
+      "id": "0128a88c930484cc",
+      "title": "Scientists Found A Better Language For AI Agents",
+      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
+      "publishedAt": "2026-06-19T14:06:00.000Z",
       "viewCount": 0
     },
     {
-      "id": "6b726913a4ab15f2",
-      "title": "Plan with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
-      "publishedAt": "2026-06-19T21:22:26.000Z",
+      "id": "52c28776734aecc2",
+      "title": "Voice for AI Agents and Applications",
+      "url": "https://www.youtube.com/watch?v=z4gueKVs6Bo",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/z4gueKVs6Bo/hqdefault.jpg",
+      "publishedAt": "2026-06-17T15:00:38.000Z",
       "viewCount": 0
     },
     {
-      "id": "6dbf1aa23878976b",
-      "title": "Score with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
-      "publishedAt": "2026-06-19T21:20:04.000Z",
+      "id": "917c0798b800d7e3",
+      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg",
+      "publishedAt": "2026-06-16T15:53:17.000Z",
       "viewCount": 0
     },
     {
-      "id": "657a9d792a836092",
-      "title": "Is There an AI Bubble? Two Top VCs on Valuations and ARR Inflation | StrictlyVC LA 2026",
-      "url": "https://www.youtube.com/watch?v=-0BpjkRCHqs",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/-0BpjkRCHqs/hqdefault.jpg",
-      "publishedAt": "2026-06-19T20:10:39.000Z",
+      "id": "8f0f1a68b74dae58",
+      "title": "NVIDIA's New Free AI - A Gift To Humanity",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
+      "publishedAt": "2026-06-14T15:27:17.000Z",
       "viewCount": 0
     },
     {
-      "id": "80c9ef731eaa722f",
-      "title": "He Dropped Out of MIT at 19 to Build America's Drone Arsenal. It's Working | StrictlyVC LA 2026",
-      "url": "https://www.youtube.com/watch?v=YOi1yo9AC5Y",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/YOi1yo9AC5Y/hqdefault.jpg",
-      "publishedAt": "2026-06-19T20:10:31.000Z",
+      "id": "355d4ad806b1d601",
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/Dkqzqw8rxXI/hqdefault.jpg",
+      "publishedAt": "2026-06-05T15:50:26.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a2a87210b3b5ff38",
+      "title": "AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Needs Its Own Data Stack",
+      "url": "https://www.youtube.com/watch?v=ycKLqk5tezw",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/ycKLqk5tezw/hqdefault.jpg",
+      "publishedAt": "2026-05-22T16:55:15.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "202421b52b748eb0",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg",
+      "publishedAt": "2026-05-13T16:07:20.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-22T04:19:55.000Z"
+      "updatedAt": "2026-06-23T03:39:17.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
