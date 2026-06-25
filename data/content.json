@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-24T03:36:00.768Z",
-  "projectsCheckedAt": "2026-06-24T03:36:00.768Z",
-  "projectsUpdatedAt": "2026-06-24T03:36:00.768Z",
+  "updatedAt": "2026-06-25T03:34:22.057Z",
+  "projectsCheckedAt": "2026-06-25T03:34:22.057Z",
+  "projectsUpdatedAt": "2026-06-25T03:34:22.057Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-24T03:36:00.768Z",
+    "checkedAt": "2026-06-25T03:34:22.057Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "725e1ff27d4f13a1",
-      "title": "기보, 금융 공공기관 최초 ‘ISO/IEC 42001’ 인증 획득 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQkY4MFlYcDl6Vnd5dzVPcVVVc24zZTFTWkQyTHF1SXZyRzlDMG51Y3BiV2RnelB1bVZSLVlHbHF1eXRvM1hOaXFkaXdMcm84VHMxRzZkR3FlWTdRV1Z5UEVRLWNfSm1VeFBqZVN1c3ZrS2gz?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "기보, 금융 공공기관 최초 ‘ISO/IEC 42001’ 인증 획득 부산일보",
-      "publishedAt": "2026-06-24T02:21:44.000Z",
+      "id": "cbc7b910b6e45523",
+      "title": "수산아이앤티 '디바이스 인증 서비스' ISO/IEC 27001' 인증 획득 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xVjlFOTFQNXNDZFdmYzZXSllwTG5iRUNvVjM2VFFDWmdvN3ExVHBaVEtWNW5fWnphTjZPVEt5ZUdZVE1YeEotTDFtZW1Tem5jSVFpcGxR?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "수산아이앤티 '디바이스 인증 서비스' ISO/IEC 27001' 인증 획득 지디넷코리아",
+      "publishedAt": "2026-06-24T10:17:59.000Z",
       "rank": 1
     },
     {
-      "id": "f32f9c9dd043dc00",
-      "title": "한국경영인증원, AI 규제 대응 및 AX 지식서비스 확산···ISO/IEC 42001 세미나 개최 - 이넷뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pOEdvZVMwdmw0T1R4ZjZBbXBZZlhSeGxxZmJYNnhDYW8yYnI3SGlQLWFOMkI5R2hVV3Jpamd3UmNZMnZVWW9lbGYzZmNPb09jV1ZfR1lVTjFXSG5tYk5zcDhhQnM0UU83SGhOVko0SWjSAXBBVV95cUxPaThHb2VTMHZsNE9UeGY2QW1wWWZYUnhscWZiWDZ4Q2FvMmJyN0hpUC1hTjJCOUdoVVdyaWpnd1JjWTJ2VVlvZWxmM2ZjT29PY1dWX0dZVU4xV0hubWJOc3A4YUJzNFFPN0hoTlZKNElo?oc=5",
+      "id": "c2ff8c077a2947ed",
+      "title": "아이쉴드, 정보보호 국제표준 ‘ISO/IEC 27001:2022’ 인증 취득… AI 온라인 평판 관리 데이터 보안 강화 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qQzJIYzExSG0wVnZWblBRaDlvTUo3Mm1mS2VFYk5Yb3MwTl9fSk5Kb19DX0ZWV2RXT3RjejNlRjZkTi1UNkUtM3JTaEo0aHBXN3RUYjZQajVZclZ3enNrc3BoZTZOM1ZPZ2VJaDJQcw?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "한국경영인증원, AI 규제 대응 및 AX 지식서비스 확산···ISO/IEC 42001 세미나 개최 이넷뉴스",
-      "publishedAt": "2026-06-24T01:45:43.000Z",
+      "summary": "아이쉴드, 정보보호 국제표준 ‘ISO/IEC 27001:2022’ 인증 취득… AI 온라인 평판 관리 데이터 보안 강화 서울신문",
+      "publishedAt": "2026-06-24T05:28:07.000Z",
       "rank": 2
     },
     {
-      "id": "182b8f7b00a82035",
-      "title": "기술보증기금, 금융 공공기관 최초 AI 국제표준 'ISO 42001' 획득AI - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNG9zdTVQdXMyUWVNaVk2ZzBhTUZkbmllb0prWHVmZXVNVk1DeFk3LWRKZUJ0TGxpTEI5Z2xIUGRoNXVkbHhCQU4tUEp4NVZkaTdtSjR3aG84RUxxWmlfMA?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "기술보증기금, 금융 공공기관 최초 AI 국제표준 'ISO 42001' 획득AI 네이트",
-      "publishedAt": "2026-06-23T23:32:00.000Z",
+      "id": "dce1767f2a007f7e",
+      "title": "SKT \"AI 네트워크도 표준화\"…자율망 구축 본격화 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5peVNyeF9GSFo3UWhtd2hzR01MV3Z0akt2SktKNU9XUGw4a3VPaEgzRGhOWENOanJUZXdDbkZvbUtkWmwzWFllMTg2SkFFcjB2V2VLZXRLbzQ0bDjSAWBBVV95cUxOMVFxVlJWYk13VE1jUkNZeWdhWTlpeVZ6NEJ1OUtKWGVTU3FCV1ZWanYwejdVTXNrUW53N3ZodURSR2laSTBjNnZpbVpkbVp4dXQ5Y1V4Tk9YSU9RYjQwcFo?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "SKT \"AI 네트워크도 표준화\"…자율망 구축 본격화 연합뉴스",
+      "publishedAt": "2026-06-25T01:12:31.000Z",
       "rank": 3
     },
     {
-      "id": "074bfd39d59e6dbf",
-      "title": "AI가 공장을 바꾸는 시대… 부산산학융합원-日 본디지털 협약, 왜 주목받나 - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50UnRnS0xoOFZVeVM5M2dMbWdyMVA2LS04dHN3T0dnbXJoVDlzSHA4cmZnVU92RFVlTmY1TjhKNkdzWS1hTktKd3B4NnZEaXI3eWhzZnZTQTFVVmdvLXZ5dXQ2YlktVnVK?oc=5",
+      "id": "b53a4d327264de7d",
+      "title": "Rockwell Automation Site Named a World Economic Forum Global Lighthouse - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vS3NKUi1EakFhdVE4S1N2LU54QWtxM2ZHbDJZWkgwdjJzeU5jM00yZk1nN1BFQzRkUGl1SkZLRGhUc2ZRcWRna1k3NWFwUmlOR1kyM3FncWdKWnl0Tzhr?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "AI가 공장을 바꾸는 시대… 부산산학융합원-日 본디지털 협약, 왜 주목받나 녹색경제신문",
-      "publishedAt": "2026-06-24T02:40:42.000Z",
+      "summary": "Rockwell Automation Site Named a World Economic Forum Global Lighthouse 뉴스와이어",
+      "publishedAt": "2026-06-25T01:00:00.000Z",
       "rank": 4
     },
     {
-      "id": "95a8e7c9ab309984",
-      "title": "기보, AI 국제표준 인증 획득…신뢰 기반 AI 경영체계 구축 - 라이센스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sY1k0RkFpQWNHemlXNUtmT1RyRW9fZ1NwLWdjekNBMUlRN1pPOVVZY1VKeVI5STQtU1Z4ZW5NNE9jNVVBVW9iMjItWTlOT1d1QW1MTmtMMzl6Yl82MVdROTZQdi1peFJ4SWdV?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "기보, AI 국제표준 인증 획득…신뢰 기반 AI 경영체계 구축 라이센스뉴스",
-      "publishedAt": "2026-06-24T02:13:36.000Z",
+      "id": "79b2471adb1d7b6e",
+      "title": "국립군산대-씽크포비엘, AI 신뢰성 교육 운영…CTAP 자격 취득 지원 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ua3dwVTljMGdWMFp1UmtfZzFaSmQ3ZHRTdFJqMjBNRE9JMmZuQ0U5NThIVnZrN2VPOFJBVEsxbU1iMVpISjZwT2RQQk5Jdi1TT2pETTAtU3k5WmRQSnN0NzlxN3RzazBG?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "국립군산대-씽크포비엘, AI 신뢰성 교육 운영…CTAP 자격 취득 지원 테크월드",
+      "publishedAt": "2026-06-25T00:48:50.000Z",
       "rank": 5
     },
     {
-      "id": "cfbc936819856ed3",
-      "title": "기보, 금융 공공기관 최초 AI 국제표준 인증 획득…‘책임 있는 AI 금융’ 선도 - bseconomy.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xb0VpT1Z2Sndwd0R1STBsU3ZsZ1dDTlo4MUtCcGFZNnM1clA1dTA4c3dKSmJQeVJSY1g0TnRNSzlrVXlDakpycXJEeG9QZWItSjVXeHRVNDZlR0pu?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "기보, 금융 공공기관 최초 AI 국제표준 인증 획득…‘책임 있는 AI 금융’ 선도 bseconomy.com",
-      "publishedAt": "2026-06-24T01:34:56.000Z",
+      "id": "49e28afb3a9daa9b",
+      "title": "AI 시대, 교육의 본질에 더 집중하다: 교사의 성장을 지원하는 Microsoft Elevate for Educators, 한국에서도 시작합니다 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMGxOV3VTV3BWOElSbkQzZmpKczk4WUtJUThRNEpQcmhmMTJfaXhxaHNDU2M2TGEtS1JybTlwcXdGaGM5X3FDM1AtRUl5TG9GZDBiNlJEOEx1MGM3dTVqaWRvdGdOYlUySEpKMC1yY0ZXTnJGcGM0Ujl5TXJNMWxUSWtVam1VaXowb0dackxYS2QyNllqZTlvZE5BYjUyS29K?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "AI 시대, 교육의 본질에 더 집중하다: 교사의 성장을 지원하는 Microsoft Elevate for Educators, 한국에서도 시작합니다 Microsoft Source",
+      "publishedAt": "2026-06-25T00:28:34.000Z",
       "rank": 6
     },
     {
-      "id": "02ccdcf3d97d9af7",
-      "title": "기보, AI 경영시스템 국제인증 획득 - 서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NYm5YdDhKVVE1N1YwS0kxWU1obmVWV2V1TkFEU25zdDNBYi0tVDgzOWdJOGkwN1d3cW5kWlk3ZHp0S1FQN3dUeGJWWVdXMnRUc3FMVnRhWFIyNWxtTUprRmlUUlowLXJRLUE?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "기보, AI 경영시스템 국제인증 획득 서울파이낸스",
-      "publishedAt": "2026-06-24T01:00:00.000Z",
+      "id": "092a17b6f3dcc93d",
+      "title": "이노비즈협회, 업무 자동화·R&D 전략부터 복지까지 신규 회원서비스 도입 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ONnhIRWtLaWxUb09CWXM1cWh4VDBwckRFQVFTcjY2U21mSjFVeE1NcTl5RldVUHhHM3NzWW9ZODJvSHJhdGQ3elJyYl9BYkJQY1NlSVBDSUlZTGVURzNacUZNRll4UklX0gFsQVVfeXFMTTN5Y19SS1c2U2YyaUVBWDBFTEJKOUM2TTVuSDl1UlVrUFdlZGl6QjA2T2dSYTV2RGxoa0Q0NklpTEVzQUhjcmgwX1FiUF9VZFJpUFNQa2tfM1VFRXBEYzZzcWl1Rnpud0VXYUZX?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "이노비즈협회, 업무 자동화·R&D 전략부터 복지까지 신규 회원서비스 도입 정보통신신문",
+      "publishedAt": "2026-06-24T23:53:29.000Z",
       "rank": 7
     },
     {
-      "id": "1a2ac78ee06421a4",
-      "title": "ETRI Targets National AI Backbone for High-Speed Data Center Connectivity - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZk13YmlhdTJVYkNxRWtZcDRwNm9EOHNLUnlWNXJfMDNwRTZiZG1kWHAtTzgybWJhOS1ZNnRBYTdyNkV6NWVKVVU5RHl0eDFHR3I5Z1ItOTB0dnNrWjFlTllua05KZnVZaVA0MlpyNDk?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "ETRI Targets National AI Backbone for High-Speed Data Center Connectivity Korea IT Times",
-      "publishedAt": "2026-06-24T00:59:40.000Z",
+      "id": "5b26ebdf7668f784",
+      "title": "[현장] AI 시대의 러다이트는 누구인가? - 테크42",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV0hSaWJuUV9FSy1XTGdJZlV3MmFCbktBUWFCcWJMV3VZLVYwYUlLUHlFcXFpekRyUS1tSVdzYTlHN1VDMHljaUlQQjZHY0V3WEJTYmN1OFB6dVVfR0ZjUUxITlNLSS1OS01ZejU1LUNmYmQ2MVJXZklwNXRMRnFYWXljYV9ZaEMtWml6M3dDOEdxU1B6N3BSaTFFejJ4aF82ZUNVY0E0OGlpUmVFYWFkaUNMZmZaZE92ZUNINDFGU0tCSmRnZ0JVMThYZVplSjZFYldDb1U4MThKU05MckVRRjBHRDNaMjVlQk5xb284UQ?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "[현장] AI 시대의 러다이트는 누구인가? 테크42",
+      "publishedAt": "2026-06-24T23:31:15.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-23T03:39:17.000Z"
+      "updatedAt": "2026-06-24T03:40:06.000Z"
     },
     {
       "id": "b18fde5f1219bce6",
