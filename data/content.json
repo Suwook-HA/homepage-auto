@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-28T03:51:54.209Z",
-  "projectsCheckedAt": "2026-06-28T03:51:54.209Z",
-  "projectsUpdatedAt": "2026-06-28T03:51:54.209Z",
+  "updatedAt": "2026-06-29T03:56:33.867Z",
+  "projectsCheckedAt": "2026-06-29T03:56:33.867Z",
+  "projectsUpdatedAt": "2026-06-29T03:56:33.867Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,45 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-06-28T03:51:54.209Z",
+    "checkedAt": "2026-06-29T03:56:33.867Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d64a1df70bf4a349",
-      "title": "김도원 기계전기전자시험연구원 AI·SW융합센터장, “TrustAI, ISO/IEC 국제표준･근거 기반 전주기 통합 평가체계” - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KNU82RlgtbHJHUXllajc1SENUM0xWT2Jaa2pGTzd2UFV6TlAxOFRPZEgwbzhsd1VWQngyQ2hVRDhGakNpOUh0TG9vNFItMDR2Xzg1MjRCUUdWNWh0N3BjVF82UFV2b3NkaWF6WUZ3OWjSAXBBVV95cUxPSjVPNkZYLWxyR1F5ZWo3NUhDVDNMVk9iWmtqRk83dlBVek5QMThUT2RIMG84bHdVVkJ4MkNoVUQ4RmpDaTlIdExvbzRSLTA0dl84NTI0QlFHVjVodDdwY1RfNlBVdm9zZGlhellGdzlo?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "김도원 기계전기전자시험연구원 AI·SW융합센터장, “TrustAI, ISO/IEC 국제표준･근거 기반 전주기 통합 평가체계” 전기신문",
-      "publishedAt": "2026-06-26T22:06:00.000Z",
+      "id": "b06ac63ce2880b0a",
+      "title": "LG AI Research secures ISO 27001 certification for entire AI lifecycle - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVk9FcTQyOEFRd3ZmRTg1aWExUmsxX2tDR2NNRTVRZU5iMlJDUm5zdDkwSVp3Q2J1ajk4WTVrOUJhVXpyUHQxX0RVbXp2bHA2aERFbkFPaFJHRmRfeTl0aQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "LG AI Research secures ISO 27001 certification for entire AI lifecycle 네이트",
+      "publishedAt": "2026-06-29T00:40:00.000Z",
       "rank": 1
     },
     {
-      "id": "fce9ed3210cba9cd",
-      "title": "[국가혁신전략] AI가 국가 성장전략의 중심으로…'R&D 200조 시대' 여는 제6차 과학기술기본계획 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeXhzUTRZQ1djS0hTb2RaWmZBZGpxUktKSTFUUDNYQ0ZLM2tGR3EyLW1xZkNmeFBQSGVwXzJiOVF3Zks1dXpDOGlGYVF6M2NNaHFFanhuWlBweUJhN3NDMkRKdFBWOGUtbi1JdEtR?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[국가혁신전략] AI가 국가 성장전략의 중심으로…'R&D 200조 시대' 여는 제6차 과학기술기본계획 코리아포스트 한글판",
-      "publishedAt": "2026-06-27T08:52:41.000Z",
+      "id": "bcf8b4a33696bff2",
+      "title": "김도원 기계전기전자시험연구원 AI·SW융합센터장, “TrustAI, ISO/IEC 국제표준･근거 기반 전주기 통합 평가체계” - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpOS1yUTVaM0NydjZUTXJYN3MtUE1nVU9JUVJyOWhTOXRxR3IyZzhfWThIcXVGMzNmR2VhX3FHUmxqMVJBd3FEdU96cDFHRnRDSlFxc2lTVF93MHNZaEVZLWlsVU11S1llSHpWNdIBcEFVX3lxTE9KNU82RlgtbHJHUXllajc1SENUM0xWT2Jaa2pGTzd2UFV6TlAxOFRPZEgwbzhsd1VWQngyQ2hVRDhGakNpOUh0TG9vNFItMDR2Xzg1MjRCUUdWNWh0N3BjVF82UFV2b3NkaWF6WUZ3OWg?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "김도원 기계전기전자시험연구원 AI·SW융합센터장, “TrustAI, ISO/IEC 국제표준･근거 기반 전주기 통합 평가체계” 전기신문",
+      "publishedAt": "2026-06-28T07:07:38.000Z",
       "rank": 2
     },
     {
-      "id": "707f293e370cb930",
-      "title": "넥써쓰, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 획득 - 국민일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ejBoQngwd1FxdVNHV0x3TjFGRmFHSDI2T2ljS0VqcVhSTU9PTnc1SUlfQlRyZ2ZURUJZaDdwblpKQnNpbUJhZEpTNWJlZ3FTREVQUkVLRFNVWWs4MV9LZ1JCR3REdmvSAWxBVV95cUxPUjRjRzgtM25LQm9HYzJkbU9jaGxnbExyaWp2alp0N1NucVZHTFpNNkl4cG1xdUdsZDdJeEwycnMxb3NSMkZJY05rUkNKdmkwcUE5VGIxb1A4aktiS0ZqV01WXzJGWjBRVTNGTU4?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "넥써쓰, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 획득 국민일보",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "id": "35d67f1585de2196",
+      "title": "R&D 기획부터 분쟁 대응까지, 선행기술조사의 3단계 활용 전략 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPeHp1WkRZeGZKdlZ3NGx4NGxaaVpHUDZGQlFySmc4NHlDYmJnbXB1WHhRZFE3aURjYUxncXBZeEROdVgxSkNyTmxWalBzUWFwenhIOVdST3Q4UdIBVEFVX3lxTFA1YlMtaV9iLU52eDZaMUw4ZGpTT1MxRFhrX3p0MGpfTlFpcnJ4MGRkVjdxdUF6N3Q4LWtMV1BFd2Y2LUNHOVdfVW9LVFo2YWpHSkIxdQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "R&D 기획부터 분쟁 대응까지, 선행기술조사의 3단계 활용 전략 한국경제",
+      "publishedAt": "2026-06-29T00:09:43.000Z",
       "rank": 3
     },
     {
-      "id": "8cf091772738583a",
-      "title": "정부, R&D 200조원 투자…선진국 기술격차 2.8년→2년 줄인다 - 이데일리TV",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SNXNoT1NtUGFzRV84UE1MSkNlUXZIQ3lkNEUzeXFYb1h3WndUMlZUem9oOUFpY29wR0tOWG5OVC1RYmNhbGFBWENBQ3Niclg0Mm92aXZBNm43M3dzUlpfc0xEbk9HUDFCV2k5TTNmWkp5TVI0dGo4M0tHUQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "정부, R&D 200조원 투자…선진국 기술격차 2.8년→2년 줄인다 이데일리TV",
-      "publishedAt": "2026-06-27T02:48:00.000Z",
+      "id": "ba12c69620266f94",
+      "title": "[해외조사연구보고서] “AI 붐, 2036년까지 유럽 데이터센터 용수 관련 지출 68억 유로 증가” - 워터저널",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DQ21lbVpxR1IxenNhcFJ0NUJzNzNFMmlqRU9PUmhqU3hZVkduMmRtYzVoUU05amJMUTlVaFJaNl8wcVF0UWF4cjhhckd5d1pjMzFHY0VBRHgyOHBDNHRDdlJYejNIV19QYzVXdlZVN2hCZ9IBdkFVX3lxTE5UUEhrR3YyNVlKYlZDQlN6ZGpMZGJ3Rm9Ha2o3djdkRGdvYXVhZjV1SmhLTWc1VkpxM3pXX292Zzd0aVlscjhSZzU4bWMxVkVlcFcyVXpLZ2dLU0ZrdTVTRHJ0clhEcFRubVJDdWhUdTE4Vk1Wcnc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[해외조사연구보고서] “AI 붐, 2036년까지 유럽 데이터센터 용수 관련 지출 68억 유로 증가” 워터저널",
+      "publishedAt": "2026-06-28T19:45:00.000Z",
       "rank": 4
+    },
+    {
+      "id": "1db2d3a525351ee0",
+      "title": "\"전략기술 확대조정, 지역R&D 자율기획\" 혁신본부, 체계 전면 개편 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MZWJsNVNCbFphbWthM1BhZjduNk5ZWkZIdWNJc21KMVo1UHpLSEptRGd1VVlBN3VTdWlMV2l5UTZvdHJFZmYxVEZJTWc4QnJXZjNFWWQzQm1QdHZFdFR4eFJSRTRzaG83S1E?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "\"전략기술 확대조정, 지역R&D 자율기획\" 혁신본부, 체계 전면 개편 헬로디디",
+      "publishedAt": "2026-06-28T08:10:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "b4b61a03522d23f4",
+      "title": "넥써쓰, 글로벌 AI 통합 관리 역량 강화...AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WGU5amY3ZVF4ekFNeHFHN25BOHZEMGo0VU5uOUZpRkotVEI4YmJYTXhGMm00N2Z2bTJOV3VpU1JIUzJXUHZVRXdPeE9jVXVqdlJJaQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "넥써쓰, 글로벌 AI 통합 관리 역량 강화...AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 v.daum.net",
+      "publishedAt": "2026-06-27T09:15:18.000Z",
+      "rank": 6
     },
     {
       "id": "007b195f5054fb2a",
@@ -101,7 +119,7 @@
       "source": "Google News: ITU-T standardization",
       "summary": "서울과학기술대학교 박종열 교수, ‘인공지능 학습데이터 표준 주도’ ITU-T Q7/17 공동 라포처 선임 중앙일보",
       "publishedAt": "2026-06-26T06:20:54.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "6c0e40ee8ce01975",
@@ -110,24 +128,6 @@
       "source": "Google News: R&D Strategy",
       "summary": "정부, AI 대전환 청사진 확정…5년간 R&D 200조 투자 연합뉴스",
       "publishedAt": "2026-06-26T07:41:23.000Z",
-      "rank": 6
-    },
-    {
-      "id": "600d07f0657f96a5",
-      "title": "정부, 전략기술 R&D에 5년간 200조 투입…\"'미래 30년' 설계\" - 민주신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZUtlMzlMak13cHhvVGI5N2RybHRGV1NqaGltT3kxQzF4czVOdlc3eEFqQWhTNDMxWmtIYWpONExiR01VeWtjVW8xMGR3cTc5ZDFaOC1tM3JST2RfQVFLMXAxWGNGV3Nl?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "정부, 전략기술 R&D에 5년간 200조 투입…\"'미래 30년' 설계\" 민주신문",
-      "publishedAt": "2026-06-26T07:26:30.000Z",
-      "rank": 7
-    },
-    {
-      "id": "f77d2a66bb880f7a",
-      "title": "AI·전략기술에 R&D 예산 200조 투입…\"미래 30년 기반\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YLXdpUHlvbjZpZEUydXVscmhQYWhXbVhWRXo3ekJYQ0dsclU3d1VlTm9qemx1TU16NWd4amNVa1pwSTJWXzR5cWFrMkpabnVScUVfUXFzX1hMYVRwUU4zUdIBeEFVX3lxTFBLX3BlUkJNcGxsUE5lUzdxOXZsVTMtcnRHY3V5YzNCWkxJWDdtX3J3bVhxMjJUbkd5b1RralBTVkJGcTQwYlVIbnZfTDF2dGpvcXZrZ0J0aGJ6SEdVVkNiOXYxcEFRRU1BZ0JIVzBKdlhoWXNJUDUxVw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "AI·전략기술에 R&D 예산 200조 투입…\"미래 30년 기반\" 뉴시스",
-      "publishedAt": "2026-06-26T06:33:36.000Z",
       "rank": 8
     }
   ],
@@ -234,17 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-27T03:32:35.000Z"
-    },
-    {
-      "id": "b18fde5f1219bce6",
-      "name": "docx-object-to-image",
-      "description": "DOCX 파일의 차트·그룹 도형 오브젝트를 PNG 이미지로 변환하는 Python 스크립트",
-      "url": "https://github.com/Suwook-HA/docx-object-to-image",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-04-03T00:26:26.000Z"
+      "updatedAt": "2026-06-28T03:55:58.000Z"
     },
     {
       "id": "8fc328e75ace7570",
@@ -265,6 +255,16 @@
       "forks": 1,
       "language": "Python",
       "updatedAt": "2025-09-22T07:27:10.000Z"
+    },
+    {
+      "id": "b18fde5f1219bce6",
+      "name": "docx-object-to-image",
+      "description": "DOCX 파일의 차트·그룹 도형 오브젝트를 PNG 이미지로 변환하는 Python 스크립트",
+      "url": "https://github.com/Suwook-HA/docx-object-to-image",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-04-03T00:26:26.000Z"
     },
     {
       "id": "9fa29fa3d681cced",
