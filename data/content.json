@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-01T03:54:54.920Z",
-  "projectsCheckedAt": "2026-07-01T03:54:54.920Z",
-  "projectsUpdatedAt": "2026-07-01T03:54:54.920Z",
+  "updatedAt": "2026-07-02T03:35:58.189Z",
+  "projectsCheckedAt": "2026-07-02T03:35:58.189Z",
+  "projectsUpdatedAt": "2026-07-02T03:35:58.189Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-01T03:54:54.920Z",
+    "checkedAt": "2026-07-02T03:35:58.189Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "89a3b4d7d9ea42f6",
-      "title": "LawTalk, KakaoTalk, and Hana Financial TI Join Forces… Digital Transformation of Legal Documents via Mobile Electronic Certification - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40UEpsV2dsZC1UMHR6R2ZTSXBHU1ljVjVzZzhzYWtLdmx2V3FqLWYzZ2hYT2cyX1ZiSjlBRVMtSjZ5UlM5V1VuV3VORF84OVlkelFZ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "LawTalk, KakaoTalk, and Hana Financial TI Join Forces… Digital Transformation of Legal Documents via Mobile Electronic Certification 벤처스퀘어",
-      "publishedAt": "2026-06-30T12:23:55.000Z",
+      "id": "f2fae774b55fc7fc",
+      "title": "Global Standards for Stimulant Drug Dependence: What You Need to Know - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtSzN4bmVGUGF5LXdFSXBwMFQ3cUl4Z1BYNHZFZHpBU1hFY3EzN2d1TkhsNWdXdXQ1LVFoX3lEUW1qUTgxQUw5NVVZeURGSGdBbXFHTTZsUQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Global Standards for Stimulant Drug Dependence: What You Need to Know 뉴스1",
+      "publishedAt": "2026-07-02T01:36:35.000Z",
       "rank": 1
     },
     {
-      "id": "d6e06556775d4893",
-      "title": "제조데이터 표준화 속도낸다…중소 제조기업 AI 전환 지원 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BMFVzNUNjM3VYbk9FUE91dnpVMzNIRF9rNUt1dXBfMVRpd1ZBTUlySDFMekZ5eGpqZm4wQmhxYzl2WWdpLW03cnNvWDliVEU2cGFCM0V6dGdCR25M?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "제조데이터 표준화 속도낸다…중소 제조기업 AI 전환 지원 뉴스1",
-      "publishedAt": "2026-06-30T23:57:25.000Z",
+      "id": "063eb41d1c5a7ad9",
+      "title": "AI 에이전트 신원관리 기술 표준, 한·미 공동개발 착수 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWa2JCV3d1YXpsNkJlcHdkYW1MUThYVU83OGYxSEZkUnl6eEVuQ2FJbElMWnY1dHFUd0UzT2RCWGp3akdqOV9aejkxYjhTMWd5dWFPQzRkeFdpSFNOOE54VXJTR2tSeElSM05JZkg2b2bSAXRBVV95cUxNSzROdjUzNV9jWW1JX0FOR2RQQmg4d2JGZjllU2hNdlJHXzlXcGFQZnVkR1FXVDhJT1p4ZXRZN1NMQ1V0OHVkeGZPcGk4R2xDZnRrV0gzakRTOUl2QjRYZnNQYzloRG1kRFY0dEcyeWFpQjF1WQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "AI 에이전트 신원관리 기술 표준, 한·미 공동개발 착수 IT조선",
+      "publishedAt": "2026-07-02T02:02:29.000Z",
       "rank": 2
     },
     {
-      "id": "57587f9ae5b9ca22",
-      "title": "크라우드웍스, '로봇 정밀 조작 피지컬 AI 데이터' 공급 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaYWZ2NHQ2d25hSmdzM25ta3QwY3FnNHN1eVB1TUdVcmpZOGUwSC1UX2JDSDVrRkFMZDY4emVMNVVLS3hRU0xtREpQMUN3ckhic0tDVFg4S000N0pXenhOdzlFODg4cjdwOEE5Vzhn0gFuQVVfeXFMUFphZnY0dDZ3bmFKZ3Mzbm1rdDBjcWc0c3V5UHVNR1Vyalk4ZTBILVRfYkNINWtGQUxkNjh6ZUw1VUtLeFFTTG1ESlAxQ3dySGJzS0NUWDhLTTQ3Sld6eE53OUU4ODhyN3A4QTlXOGc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "크라우드웍스, '로봇 정밀 조작 피지컬 AI 데이터' 공급 - 머니투데이 머니투데이",
-      "publishedAt": "2026-06-30T23:47:15.000Z",
+      "id": "29eb1ef7d3b259bb",
+      "title": "한국탄소산업진흥원 '국제표준' 제정 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xNDkwZDdUaFRyajhVRF84UjJuRVpKVm1fNDNvVDhBSXJFb0pxUjJLZHRvYmtpYnoyclNYS0xWeWMyUQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "한국탄소산업진흥원 '국제표준' 제정 브레이크뉴스",
+      "publishedAt": "2026-07-02T01:28:00.000Z",
       "rank": 3
     },
     {
-      "id": "1989c357c6828008",
-      "title": "\"국산 NPU 호환성 확보\"...AI반도체 표준화 연구반 착수 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFdW5jTG9kczgtYWlHbl9jRFprbU1JMzNqcThXaTJJMUJDTElXV1gxNHMtNXVaUTJhZkhHYUhNNkNRVk5RYUlKOERXaS0zd1ROYVNzUllB?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"국산 NPU 호환성 확보\"...AI반도체 표준화 연구반 착수 지디넷코리아",
-      "publishedAt": "2026-06-30T23:44:59.000Z",
+      "id": "9526db334b718b80",
+      "title": "아이서티, 성균관대와 AI 데이터 트러스트 플랫폼 개발 추진 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BYmNsSWdZd1JkMWJKMVloNzdjZlM1cWh3ekFmdWdsS2V3UXNUb05lUk4zVmZlWlRuWnA1T25QM0Zja1V0LVh5S2pyTGx2QQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "아이서티, 성균관대와 AI 데이터 트러스트 플랫폼 개발 추진 전자신문",
+      "publishedAt": "2026-07-02T01:12:31.000Z",
       "rank": 4
     },
     {
-      "id": "b1307ce0d1fa939c",
-      "title": "[우리품의 아프리카인](41) 에티오피아 '엔지니어 유학생' 아베네제르 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Zm1pRDNsdEVCR25WbjM2UWhtUG5VS0thWG5kajFld0FiOG5ibElFbzJtUDRZbFZqRlRNb2VGa3hQY2N5RW1nMzJhR0l0Skx5dTJ5X1ZtY2gwRnRqRlBhRtIBYEFVX3lxTE10Zm1pRDNsdEVCR25WbjM2UWhtUG5VS0thWG5kajFld0FiOG5ibElFbzJtUDRZbFZqRlRNb2VGa3hQY2N5RW1nMzJhR0l0Skx5dTJ5X1ZtY2gwRnRqRlBhRg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[우리품의 아프리카인](41) 에티오피아 '엔지니어 유학생' 아베네제르 연합뉴스",
-      "publishedAt": "2026-06-30T22:00:04.000Z",
+      "id": "d65edf8737c50806",
+      "title": "디지털인증협, AI 에이전트 신원관리 국제표준 개발 추진 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSXpLTXNLZjl1c01ON2dYQXBLc05Pa2ZUc3VRQktaNERmbV8yQ0tueVBhZVhiaGFkQzRkVzIxclNuQTVOeFQwTGFlc3F5YW1pUnQ2VVdieWcyelhIOFdEeXpRR044ajY2cWVrX1VJazg2QklEcEJSZ9IBeEFVX3lxTFBVSXpLTXNLZjl1c01ON2dYQXBLc05Pa2ZUc3VRQktaNERmbV8yQ0tueVBhZVhiaGFkQzRkVzIxclNuQTVOeFQwTGFlc3F5YW1pUnQ2VVdieWcyelhIOFdEeXpRR044ajY2cWVrX1VJazg2QklEcEJSZw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "디지털인증협, AI 에이전트 신원관리 국제표준 개발 추진 뉴시스",
+      "publishedAt": "2026-07-02T00:16:23.000Z",
       "rank": 5
     },
     {
-      "id": "3fb52b7f1c78cf11",
-      "title": "현대백화점, 안전보건경영 국제표준 ‘ISO 45001’ 인증 획득 - 리버티코리아포스트",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81SFo5czRlb1VpWTJsZU9lUjAyVlhOQTRzZDMweVVnX3I2QXNsSl9OR2ZtMzhTYi14WkptbjJaaWJiY0Vfc3ZDWEwwa0tMdXZFUy1SaHU2anRzdkEzX0lvbWJNMWxVLTDSAWdBVV95cUxPNUhaOXM0ZW9VaVkybGVPZVIwMlZYTkE0c2QzMHlVZ19yNkFzbEpfTkdmbTM4U2IteFpKbW4yWmliYmNFX3N2Q1hMMGtLTHV2RVMtUmh1Nmp0c3ZBM19Jb21iTTFsVS0w?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "현대백화점, 안전보건경영 국제표준 ‘ISO 45001’ 인증 획득 리버티코리아포스트",
-      "publishedAt": "2026-06-30T07:01:45.000Z",
+      "id": "f3c652ef5c839873",
+      "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 채택 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fM25hTWtXNkg1aFFHSVJaUnRTUlRhSnJkZU42WlBxMy1MUVZrZnJBLUNfYnN1QWZ1RHRwdnllcHpxXzVNcVJXVHljcmZEbm1tblJNUzRmeVY3YXFXNXJMd9IBYEFVX3lxTE1fM25hTWtXNkg1aFFHSVJaUnRTUlRhSnJkZU42WlBxMy1MUVZrZnJBLUNfYnN1QWZ1RHRwdnllcHpxXzVNcVJXVHljcmZEbm1tblJNUzRmeVY3YXFXNXJMdw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 채택 연합뉴스",
+      "publishedAt": "2026-07-01T23:55:26.000Z",
       "rank": 6
     },
     {
-      "id": "d28007eca6a907be",
-      "title": "KHNP and IAEA Strengthen Nuclear Safety Reviews for Climate Resilience in New Reactor Designs - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xMmZzZFE3QW5WdXRJVzZOWnFnM183UVBGZXc4dC01dGF0LXRVWVNIN3JwN1NjcTliWHJTZWd4NWVKNllUTEd3dk1OdXdxeWVwbjltMkVYZnFLZ1Flbkk5a2sxYlctUnREem1qNzRvT3I?oc=5",
+      "id": "37f36d6888fb0f74",
+      "title": "현대백화점 '안전보건경영 국제표준 ‘ISO 45001’ 인증 획득' - 스포츠한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uMlp0R2Q3dTNMUThxUnJ4QUsyblFxb2Zsalhqa0M3TjRmMDhNUXFmN1Vzemp0NjgzQWhDNEJCa0haeTRkenRwY212anFkcVZZMmQ3U2hOUDdOUWcxUUtCV3BCa1Y1cWJhRms3bFA2RmHSAXRBVV95cUxPSnRLQnZRZWIwODdoc1lhUzBhajI2N3RJM0tKcWpaZ3k4aWE4UENTYUJpeWx0UmVoU1RCX2xMa1YzOUhSR2hTUUd1UVE4Qi1xQzhCOFZNY0drUDBycVVXaXpYWTZ5QTNVSnhGRXdCWlRWdWtyWQ?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "KHNP and IAEA Strengthen Nuclear Safety Reviews for Climate Resilience in New Reactor Designs Korea IT Times",
-      "publishedAt": "2026-06-30T06:06:16.000Z",
+      "summary": "현대백화점 '안전보건경영 국제표준 ‘ISO 45001’ 인증 획득' 스포츠한국",
+      "publishedAt": "2026-07-01T08:05:59.000Z",
       "rank": 7
     },
     {
-      "id": "3abb74198eab0a02",
-      "title": "Sinopec Awarded \"Social Responsibility Best Practice\" at the 3rd Sino-European Corporate ESG Best Practice Conference - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzN2N1SzBINHU4c3B6MFN2dDFKLXlneTV1OU03WlRleFp5RjJEaUxOSTM0LUNnSlY2RHBFRlRadDUtVHBGS0xBVWlmdU1LX25zMTM4S0xYYl8tV2RRaHQ3UEtVZk1EWkR4NHlFag?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Sinopec Awarded \"Social Responsibility Best Practice\" at the 3rd Sino-European Corporate ESG Best Practice Conference IT비즈뉴스",
-      "publishedAt": "2026-06-30T10:32:00.000Z",
+      "id": "391a603408e233ee",
+      "title": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식 - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOb3Bicm1qdENuRzcyalhOQmFGOUY5MUpwWW9ybmJhcFVmb3gyVTNnQ05QWWY0TTdlUXJVZFVzd3lzd3J5U3ZCT3ZIRHdWUmRWVWlhSWNTWlZrbmtfTlJRZFZXMVVteFU5OFptMWVaU1pDakNLTjktbE5FQTVTYng4enlSNHFuSENiWTB2WExhM2kyc29nWnVJMGFFd1JONWRhQUxQWkFRZURCZmI5ek5EZ3pNSEZqRnlWS1RaSEVfbnl1SDEycV9PNnJMM0tSa1lPak02UmpGcjF1YkVWRzkyOWY2dGVaVlJhcnVJUmZ0RHVkTTdLMDZUOUt3aGNSWUtlaEdtYUJPVGw3bGFvU1BrWmVmLXhxRFQya0wxVVBFZ2IzbWEtbjBMUWtCYUxVRjBTanRGUTR1ai12eEx2dDl2QnA1QW0wMHpOSVJrOS1EYlpqeUkwdVp5aw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식 cio.com",
+      "publishedAt": "2026-07-01T11:48:24.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-06-30T03:44:01.000Z"
+      "updatedAt": "2026-07-01T03:58:59.000Z"
     },
     {
       "id": "8fc328e75ace7570",
