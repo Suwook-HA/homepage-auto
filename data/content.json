@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-02T03:35:58.189Z",
-  "projectsCheckedAt": "2026-07-02T03:35:58.189Z",
-  "projectsUpdatedAt": "2026-07-02T03:35:58.189Z",
+  "updatedAt": "2026-07-03T03:16:11.722Z",
+  "projectsCheckedAt": "2026-07-03T03:16:11.722Z",
+  "projectsUpdatedAt": "2026-07-03T03:16:11.722Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-02T03:35:58.189Z",
+    "checkedAt": "2026-07-03T03:16:11.722Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "559cf0dd0b1ea8cd",
+      "title": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGFFYndvbDVtdjZYX3NsSm00VFJQRXA4UTcxTF9CRm9sRXhmVkk4VzZnYzRLYzh3U1VBZjFvS3p1RE5tZHlOLW9ZWFduc0RGb3EyTnNwejFRSHVBWUZheGE1b2w1dk9meURTTWR1ZWlCeDhEM24wem5nLUJKQmoxS1NoSG9XdEV4SWtEYU12TkNwcDJwSmgxMHdJU2xHWEdGQlpIeGt6Z2VYc2ZxX29mbG83RlFfVGxZaTZEWGt6UTNTN0JDVVlKVGUzMWR4RFc2bkpLTUloMGRGMGVN?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 Microsoft Source",
+      "publishedAt": "2026-07-03T01:38:13.000Z",
+      "rank": 1
+    },
+    {
+      "id": "938d6716d3526251",
+      "title": "연구재단 국가전략연구본부장에 문수복 KAIST 교수 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nV3VkR3RQYUVkSUdsRkNmOXN3WmlnTUF1VnR4d0tyRy1fM25OejVxVVpLdmZhUGE3ZjBQREo1OEthQ0hlYVVraUVoQzNqM2E1cC1OcWFfLU80RVpic05wYUdNSDFDdmpWaFE?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "연구재단 국가전략연구본부장에 문수복 KAIST 교수 헬로디디",
+      "publishedAt": "2026-07-03T01:22:36.000Z",
+      "rank": 2
+    },
+    {
+      "id": "819950e09f6099ef",
+      "title": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 - 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuN09MZ012NVpTX3IxSFk2Q1U5UnRjb21oa1lJejYxOGxoU0kwWTV5cWZoZ21nV0xvbFlFOVVscjFrcy1vV0t6b2gyMmFKSkdMZFE5SFk4Vm9LQzY1bWZ1WVdhSkVFRkxKQ2JYSWVmQkVBU1V4Y25Dd0130gGAAUFVX3lxTFA2ZG5UeTQ0NkFmYldVQWVYU0xKcktXdFZNUHlfaUc1MlRkcjdiNndQR0pfR2t0WTdIejN4bXc1RzJVWnRibUhNNlMzX0JsbFFRdjJHTmlQMXBvaUZJODBHWDhtR21qbDZjV3lxUUQ5NWQtVldFT1MtaUhIX3pKaXcw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
+      "publishedAt": "2026-07-03T01:05:51.000Z",
+      "rank": 3
+    },
+    {
+      "id": "4c89ffbcea2af6e2",
+      "title": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 - YTN 사이언스",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXF0NWVncjZRSVpxaHNyNVNPS25xMnVEMDZCX2ZMbjR5d0ZWeDVSZURQM3V1N1lPUTdMMUNLUFNYSjBWVG52UEQ4aDJSQ29PZ3RBdXQwbDZZakQ0c0VzYkVNRzFsUWRUQWJvTW9sYkpiM1UyM05xQzFtZWxlTERhU2Z2TU00MHVuOTlRNg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 YTN 사이언스",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "adf5d7b41d85744b",
+      "title": "The Era of 'ID Cards' for AI Agents... Korea Digital Certification Association Leads International Standard Development - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uTVR4X2ZRTjFoazYyQjlsTG9venZPR1UtcmU1TmtFVDdBZU1vblYwUWwwYnlid3czd0VRTDdXSkhyNE5kRmxrQml5by1yZWQtQjA0?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "The Era of 'ID Cards' for AI Agents... Korea Digital Certification Association Leads International Standard Development 벤처스퀘어",
+      "publishedAt": "2026-07-02T12:41:58.000Z",
+      "rank": 5
+    },
     {
       "id": "f2fae774b55fc7fc",
       "title": "Global Standards for Stimulant Drug Dependence: What You Need to Know - 뉴스1",
@@ -65,143 +110,98 @@
       "source": "Google News: International Standardization",
       "summary": "Global Standards for Stimulant Drug Dependence: What You Need to Know 뉴스1",
       "publishedAt": "2026-07-02T01:36:35.000Z",
-      "rank": 1
-    },
-    {
-      "id": "063eb41d1c5a7ad9",
-      "title": "AI 에이전트 신원관리 기술 표준, 한·미 공동개발 착수 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWa2JCV3d1YXpsNkJlcHdkYW1MUThYVU83OGYxSEZkUnl6eEVuQ2FJbElMWnY1dHFUd0UzT2RCWGp3akdqOV9aejkxYjhTMWd5dWFPQzRkeFdpSFNOOE54VXJTR2tSeElSM05JZkg2b2bSAXRBVV95cUxNSzROdjUzNV9jWW1JX0FOR2RQQmg4d2JGZjllU2hNdlJHXzlXcGFQZnVkR1FXVDhJT1p4ZXRZN1NMQ1V0OHVkeGZPcGk4R2xDZnRrV0gzakRTOUl2QjRYZnNQYzloRG1kRFY0dEcyeWFpQjF1WQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "AI 에이전트 신원관리 기술 표준, 한·미 공동개발 착수 IT조선",
-      "publishedAt": "2026-07-02T02:02:29.000Z",
-      "rank": 2
-    },
-    {
-      "id": "29eb1ef7d3b259bb",
-      "title": "한국탄소산업진흥원 '국제표준' 제정 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xNDkwZDdUaFRyajhVRF84UjJuRVpKVm1fNDNvVDhBSXJFb0pxUjJLZHRvYmtpYnoyclNYS0xWeWMyUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "한국탄소산업진흥원 '국제표준' 제정 브레이크뉴스",
-      "publishedAt": "2026-07-02T01:28:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "9526db334b718b80",
-      "title": "아이서티, 성균관대와 AI 데이터 트러스트 플랫폼 개발 추진 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BYmNsSWdZd1JkMWJKMVloNzdjZlM1cWh3ekFmdWdsS2V3UXNUb05lUk4zVmZlWlRuWnA1T25QM0Zja1V0LVh5S2pyTGx2QQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "아이서티, 성균관대와 AI 데이터 트러스트 플랫폼 개발 추진 전자신문",
-      "publishedAt": "2026-07-02T01:12:31.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d65edf8737c50806",
-      "title": "디지털인증협, AI 에이전트 신원관리 국제표준 개발 추진 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSXpLTXNLZjl1c01ON2dYQXBLc05Pa2ZUc3VRQktaNERmbV8yQ0tueVBhZVhiaGFkQzRkVzIxclNuQTVOeFQwTGFlc3F5YW1pUnQ2VVdieWcyelhIOFdEeXpRR044ajY2cWVrX1VJazg2QklEcEJSZ9IBeEFVX3lxTFBVSXpLTXNLZjl1c01ON2dYQXBLc05Pa2ZUc3VRQktaNERmbV8yQ0tueVBhZVhiaGFkQzRkVzIxclNuQTVOeFQwTGFlc3F5YW1pUnQ2VVdieWcyelhIOFdEeXpRR044ajY2cWVrX1VJazg2QklEcEJSZw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "디지털인증협, AI 에이전트 신원관리 국제표준 개발 추진 뉴시스",
-      "publishedAt": "2026-07-02T00:16:23.000Z",
-      "rank": 5
-    },
-    {
-      "id": "f3c652ef5c839873",
-      "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 채택 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fM25hTWtXNkg1aFFHSVJaUnRTUlRhSnJkZU42WlBxMy1MUVZrZnJBLUNfYnN1QWZ1RHRwdnllcHpxXzVNcVJXVHljcmZEbm1tblJNUzRmeVY3YXFXNXJMd9IBYEFVX3lxTE1fM25hTWtXNkg1aFFHSVJaUnRTUlRhSnJkZU42WlBxMy1MUVZrZnJBLUNfYnN1QWZ1RHRwdnllcHpxXzVNcVJXVHljcmZEbm1tblJNUzRmeVY3YXFXNXJMdw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 채택 연합뉴스",
-      "publishedAt": "2026-07-01T23:55:26.000Z",
       "rank": 6
     },
     {
-      "id": "37f36d6888fb0f74",
-      "title": "현대백화점 '안전보건경영 국제표준 ‘ISO 45001’ 인증 획득' - 스포츠한국",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uMlp0R2Q3dTNMUThxUnJ4QUsyblFxb2Zsalhqa0M3TjRmMDhNUXFmN1Vzemp0NjgzQWhDNEJCa0haeTRkenRwY212anFkcVZZMmQ3U2hOUDdOUWcxUUtCV3BCa1Y1cWJhRms3bFA2RmHSAXRBVV95cUxPSnRLQnZRZWIwODdoc1lhUzBhajI2N3RJM0tKcWpaZ3k4aWE4UENTYUJpeWx0UmVoU1RCX2xMa1YzOUhSR2hTUUd1UVE4Qi1xQzhCOFZNY0drUDBycVVXaXpYWTZ5QTNVSnhGRXdCWlRWdWtyWQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "현대백화점 '안전보건경영 국제표준 ‘ISO 45001’ 인증 획득' 스포츠한국",
-      "publishedAt": "2026-07-01T08:05:59.000Z",
+      "id": "b62fd59ef33a6737",
+      "title": "국가 R&D 5년 투자전략 윤곽… “성과·현장 연계가 관건” - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVNyaUVYMF9DY3NWbVR2QlB3M19IbFVXQklUUUp6dXFMX2UyLWZCa0lORkFTcE5lMTlkVXh3OGZUWGRKZl9Kak5RQTJ6Qi13NXFUdWtMclBhWG04cFNMVGxuOVNSdzZsM3lXVjBHR18xTE5tQWhSQWJVMUZZRFd6NF81ZnVURVk1Qll2YtIBoAFBVV95cUxOVkwxTEZiaGx0QlhXQzN5N0NHcU1ENkJabVdJVkRhRDdNOWQ0bGh5UE9mZHJkSGhHMkdZM2JKWHZyRUF6a0dvSVBDWFRiTVZkbW1xaUx5TTFhQkhKRktsUS1HVWxiVU5fZnB6Q0d1NVRSMzZvTkZTWnlFbEJsUU9icU1qTXBmRDZNZGNFY2Y4MXdkaEFVRnptZkVrc2p3X2V1?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "국가 R&D 5년 투자전략 윤곽… “성과·현장 연계가 관건” - 조선비즈 Chosunbiz",
+      "publishedAt": "2026-07-02T08:50:00.000Z",
       "rank": 7
     },
     {
-      "id": "391a603408e233ee",
-      "title": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식 - cio.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOb3Bicm1qdENuRzcyalhOQmFGOUY5MUpwWW9ybmJhcFVmb3gyVTNnQ05QWWY0TTdlUXJVZFVzd3lzd3J5U3ZCT3ZIRHdWUmRWVWlhSWNTWlZrbmtfTlJRZFZXMVVteFU5OFptMWVaU1pDakNLTjktbE5FQTVTYng4enlSNHFuSENiWTB2WExhM2kyc29nWnVJMGFFd1JONWRhQUxQWkFRZURCZmI5ek5EZ3pNSEZqRnlWS1RaSEVfbnl1SDEycV9PNnJMM0tSa1lPak02UmpGcjF1YkVWRzkyOWY2dGVaVlJhcnVJUmZ0RHVkTTdLMDZUOUt3aGNSWUtlaEdtYUJPVGw3bGFvU1BrWmVmLXhxRFQya0wxVVBFZ2IzbWEtbjBMUWtCYUxVRjBTanRGUTR1ai12eEx2dDl2QnA1QW0wMHpOSVJrOS1EYlpqeUkwdVp5aw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식 cio.com",
-      "publishedAt": "2026-07-01T11:48:24.000Z",
+      "id": "17f1a614d2bc5f12",
+      "title": "정부 지출의 5%를 R&D에 투자...기술주도성장 4대 전략 제시 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORjUxd09YaHVKQ0tUc0loN2RqbzZIR2FjVjFqRGtqVXU5UHh5al9YY05RX3FxQjd6SWw2eDNTNm9TOUJMSzVKUGhpWnVrQXc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "정부 지출의 5%를 R&D에 투자...기술주도성장 4대 전략 제시 v.daum.net",
+      "publishedAt": "2026-07-02T08:02:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "a2bd0d5947803123",
-      "title": "Advent Accelerates Deals with ChatGPT + Codex",
-      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/f-HiB82Tl94/hqdefault.jpg",
-      "publishedAt": "2026-06-29T14:30:09.000Z",
+      "id": "f758db04119d0720",
+      "title": "Tesla Deliveries Jump 25% | Bloomberg Tech 7/02/2026",
+      "url": "https://www.youtube.com/watch?v=-Aoq-07mDdY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/-Aoq-07mDdY/hqdefault.jpg",
+      "publishedAt": "2026-07-02T17:58:49.000Z",
       "viewCount": 0
     },
     {
-      "id": "435e23949cef3f34",
-      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
-      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/SPC_yCe1cUw/hqdefault.jpg",
-      "publishedAt": "2026-06-26T19:40:00.000Z",
+      "id": "182db05f0d61d884",
+      "title": "Nuclear Reactor Powers Nvidia AI Chip in US First",
+      "url": "https://www.youtube.com/watch?v=KSUZ57wFKHM",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/KSUZ57wFKHM/hqdefault.jpg",
+      "publishedAt": "2026-07-02T17:37:44.000Z",
       "viewCount": 0
     },
     {
-      "id": "c282f91c032fadfc",
-      "title": "Verso, l'entreprise qui ne dort jamais",
-      "url": "https://www.youtube.com/watch?v=mFwWax5pLTs",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/mFwWax5pLTs/hqdefault.jpg",
-      "publishedAt": "2026-06-26T11:00:22.000Z",
+      "id": "c83c9e29ac80c228",
+      "title": "Microsoft Shifts Strategy on Enterprise AI",
+      "url": "https://www.youtube.com/watch?v=EKhA9oRC6yg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/EKhA9oRC6yg/hqdefault.jpg",
+      "publishedAt": "2026-07-02T17:37:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "d86d4544e61c58d8",
-      "title": "What if plants could talk?",
-      "url": "https://www.youtube.com/watch?v=q_diWy3xdrw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg",
-      "publishedAt": "2026-06-25T17:19:53.000Z",
+      "id": "0daaa28b8f3775f7",
+      "title": "S3NS & Google Cloud: Driving the Future of European Cloud Innovation",
+      "url": "https://www.youtube.com/watch?v=WZXTvj_uozA",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/WZXTvj_uozA/hqdefault.jpg",
+      "publishedAt": "2026-07-01T19:19:49.000Z",
       "viewCount": 0
     },
     {
-      "id": "e8143a75ccfe7ad2",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://www.youtube.com/watch?v=qU5-komJ-GE",
+      "id": "f78bf8d05af2aaff",
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg",
-      "publishedAt": "2026-06-23T11:30:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg",
+      "publishedAt": "2026-07-01T18:31:25.000Z",
       "viewCount": 0
     },
     {
-      "id": "75dddd53dfde4892",
-      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
-      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
-      "publishedAt": "2026-06-22T17:45:36.000Z",
+      "id": "f26c08f0ee85ac98",
+      "title": "Meta to Build Cloud Business to Sell Excess AI Compute | Bloomberg Tech 7/01/2026",
+      "url": "https://www.youtube.com/watch?v=W0v74tB4pZE",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/W0v74tB4pZE/hqdefault.jpg",
+      "publishedAt": "2026-07-01T17:02:14.000Z",
       "viewCount": 0
     },
     {
-      "id": "4b1e147dd4236a7f",
-      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg",
-      "publishedAt": "2026-06-22T15:53:06.000Z",
+      "id": "6229fafccfc805ff",
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freights | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=OPiqNwy_45s",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/OPiqNwy_45s/hqdefault.jpg",
+      "publishedAt": "2026-07-01T16:47:28.000Z",
       "viewCount": 0
     },
     {
-      "id": "650b3cecc5ce8f58",
-      "title": "What Codex Unlocks for NTT Data",
-      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
-      "publishedAt": "2026-06-19T22:57:58.000Z",
+      "id": "a6b179fd25e2a15a",
+      "title": "Why Marlinspike Is Investing in America's Defense Boom",
+      "url": "https://www.youtube.com/watch?v=UbBuzBxhj6A",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/UbBuzBxhj6A/hqdefault.jpg",
+      "publishedAt": "2026-07-01T16:46:16.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-01T03:58:59.000Z"
+      "updatedAt": "2026-07-02T03:40:02.000Z"
     },
     {
       "id": "8fc328e75ace7570",
