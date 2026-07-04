@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-03T03:16:11.722Z",
-  "projectsCheckedAt": "2026-07-03T03:16:11.722Z",
-  "projectsUpdatedAt": "2026-07-03T03:16:11.722Z",
+  "updatedAt": "2026-07-04T02:55:05.038Z",
+  "projectsCheckedAt": "2026-07-04T02:55:05.038Z",
+  "projectsUpdatedAt": "2026-07-04T02:55:05.038Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-03T03:16:11.722Z",
+    "checkedAt": "2026-07-04T02:55:05.038Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "f38f8e9ee3ca2a3b",
+      "title": "CSTS Launches Generation C Foundation Training Academy in China - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMXh3dGZyaDNlR3NqbGpIVnAxUFNlXzBvY2Z3cV9qWXdYMFMwYlYxc3BwQkhyU2hmWjd0QkhKVmExZ0hzRzNMMV9KQU1mNklqbERDdXJ4bl9nRzd6ZVRrNXJRQllFeFBLQ1E2Ng?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "CSTS Launches Generation C Foundation Training Academy in China IT비즈뉴스",
+      "publishedAt": "2026-07-03T09:15:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "f6f80262867b757a",
+      "title": "전공·지역 허문 ‘ESG 정책 실험’···고려대 세종캠, 첨단인재 융합교육 판 키웠다 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wWDFRSGc2WXpQeVRxeDhOSk5QY01SQU5vY0tVNDlhZkpuWFF6aDdaem02MFJPT0MzTGw3YkQ3Z0lxOXBWaEpnSUdlX01GTTRwSDhVQUFONVk0MnNtaklj0gFfQVVfeXFMTjBYMVFIZzZZelB5VHF4OE5KTlBjTVJBTm9jS1U0OWFmSm5YUXpoN1p6bTYwUk9PQzNMbDdiRDdnSXE5cFZoSmdJR2VfTUZNNHBIOFVBQU41WTQyc21qSWM?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "전공·지역 허문 ‘ESG 정책 실험’···고려대 세종캠, 첨단인재 융합교육 판 키웠다 경향신문",
+      "publishedAt": "2026-07-03T01:57:00.000Z",
+      "rank": 2
+    },
     {
       "id": "559cf0dd0b1ea8cd",
       "title": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 - Microsoft Source",
@@ -65,16 +83,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 Microsoft Source",
       "publishedAt": "2026-07-03T01:38:13.000Z",
-      "rank": 1
-    },
-    {
-      "id": "938d6716d3526251",
-      "title": "연구재단 국가전략연구본부장에 문수복 KAIST 교수 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nV3VkR3RQYUVkSUdsRkNmOXN3WmlnTUF1VnR4d0tyRy1fM25OejVxVVpLdmZhUGE3ZjBQREo1OEthQ0hlYVVraUVoQzNqM2E1cC1OcWFfLU80RVpic05wYUdNSDFDdmpWaFE?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "연구재단 국가전략연구본부장에 문수복 KAIST 교수 헬로디디",
-      "publishedAt": "2026-07-03T01:22:36.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "819950e09f6099ef",
@@ -83,16 +92,25 @@
       "source": "Google News: data quality standard",
       "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
       "publishedAt": "2026-07-03T01:05:51.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
-      "id": "4c89ffbcea2af6e2",
+      "id": "4c7ac178436fe821",
       "title": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 - YTN 사이언스",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXF0NWVncjZRSVpxaHNyNVNPS25xMnVEMDZCX2ZMbjR5d0ZWeDVSZURQM3V1N1lPUTdMMUNLUFNYSjBWVG52UEQ4aDJSQ29PZ3RBdXQwbDZZakQ0c0VzYkVNRzFsUWRUQWJvTW9sYkpiM1UyM05xQzFtZWxlTERhU2Z2TU00MHVuOTlRNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZnB5VmZtUlZYeG9FX3dYTUJPZWpHQm9wU3hPQ3NXSUk2Z3FvVUR3SnVkUG9tb3JpOXZPbnJiVVQtSWRQNzdqWHVxUlNiZlF3Rjc1UnlTdWFqSGJGQzFVR3hWaWNlRUEwWDlWVEVpOGNsVW5GNV84QjllTzJ5bVE?oc=5",
       "source": "Google News: R&D Strategy",
       "summary": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 YTN 사이언스",
       "publishedAt": "2026-07-03T00:00:00.000Z",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "6776b00156ff444e",
+      "title": "HD Hyundai Electric Signs Framework Deal Worth Up to KRW 1.12 Trillion With Global Big Tech Company - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUGlIX2Q0ckt1UldYUFg1VTJJR2FhVnVrdVZYLUo2cW96N3V2Z24xNG5zc29fOWhacUpRaFZuWUVrZXE1YXlDaDg0QTZNcVNCWGc0cnNuTjNSOXU0WlQ1Z1I1SXFiVFR5c0ZocVhR?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "HD Hyundai Electric Signs Framework Deal Worth Up to KRW 1.12 Trillion With Global Big Tech Company 알파경제",
+      "publishedAt": "2026-07-02T21:10:00.000Z",
+      "rank": 6
     },
     {
       "id": "adf5d7b41d85744b",
@@ -101,33 +119,15 @@
       "source": "Google News: International Standardization",
       "summary": "The Era of 'ID Cards' for AI Agents... Korea Digital Certification Association Leads International Standard Development 벤처스퀘어",
       "publishedAt": "2026-07-02T12:41:58.000Z",
-      "rank": 5
-    },
-    {
-      "id": "f2fae774b55fc7fc",
-      "title": "Global Standards for Stimulant Drug Dependence: What You Need to Know - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtSzN4bmVGUGF5LXdFSXBwMFQ3cUl4Z1BYNHZFZHpBU1hFY3EzN2d1TkhsNWdXdXQ1LVFoX3lEUW1qUTgxQUw5NVVZeURGSGdBbXFHTTZsUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Global Standards for Stimulant Drug Dependence: What You Need to Know 뉴스1",
-      "publishedAt": "2026-07-02T01:36:35.000Z",
-      "rank": 6
-    },
-    {
-      "id": "b62fd59ef33a6737",
-      "title": "국가 R&D 5년 투자전략 윤곽… “성과·현장 연계가 관건” - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVNyaUVYMF9DY3NWbVR2QlB3M19IbFVXQklUUUp6dXFMX2UyLWZCa0lORkFTcE5lMTlkVXh3OGZUWGRKZl9Kak5RQTJ6Qi13NXFUdWtMclBhWG04cFNMVGxuOVNSdzZsM3lXVjBHR18xTE5tQWhSQWJVMUZZRFd6NF81ZnVURVk1Qll2YtIBoAFBVV95cUxOVkwxTEZiaGx0QlhXQzN5N0NHcU1ENkJabVdJVkRhRDdNOWQ0bGh5UE9mZHJkSGhHMkdZM2JKWHZyRUF6a0dvSVBDWFRiTVZkbW1xaUx5TTFhQkhKRktsUS1HVWxiVU5fZnB6Q0d1NVRSMzZvTkZTWnlFbEJsUU9icU1qTXBmRDZNZGNFY2Y4MXdkaEFVRnptZkVrc2p3X2V1?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "국가 R&D 5년 투자전략 윤곽… “성과·현장 연계가 관건” - 조선비즈 Chosunbiz",
-      "publishedAt": "2026-07-02T08:50:00.000Z",
       "rank": 7
     },
     {
-      "id": "17f1a614d2bc5f12",
-      "title": "정부 지출의 5%를 R&D에 투자...기술주도성장 4대 전략 제시 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORjUxd09YaHVKQ0tUc0loN2RqbzZIR2FjVjFqRGtqVXU5UHh5al9YY05RX3FxQjd6SWw2eDNTNm9TOUJMSzVKUGhpWnVrQXc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "정부 지출의 5%를 R&D에 투자...기술주도성장 4대 전략 제시 v.daum.net",
-      "publishedAt": "2026-07-02T08:02:00.000Z",
+      "id": "842cdf7e5566730d",
+      "title": "Rosota, an AI robot startup collecting surgical data, raises 1.5 billion won in seed investment - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRXlSTHRMUXlqN0NCOW1UcTh0dlZEeVZKbVh4TTlvVlI0YVhHZjBrOVRmVmdOMUdibGZtb0E0WHNOVVhkRDBSWVFXREFmX0hxSm1v?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Rosota, an AI robot startup collecting surgical data, raises 1.5 billion won in seed investment 벤처스퀘어",
+      "publishedAt": "2026-07-02T12:39:05.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-02T03:40:02.000Z"
+      "updatedAt": "2026-07-03T03:20:15.000Z"
     },
     {
       "id": "8fc328e75ace7570",
