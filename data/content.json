@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-04T02:55:05.038Z",
-  "projectsCheckedAt": "2026-07-04T02:55:05.038Z",
-  "projectsUpdatedAt": "2026-07-04T02:55:05.038Z",
+  "updatedAt": "2026-07-05T03:24:47.178Z",
+  "projectsCheckedAt": "2026-07-05T03:24:47.178Z",
+  "projectsUpdatedAt": "2026-07-05T03:24:47.178Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-04T02:55:05.038Z",
+    "checkedAt": "2026-07-05T03:24:47.178Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "9b60728db1ccf2cc",
+      "title": "[AI 토큰 청구서④] 단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wd0pvMjQyTUhBSE9uV1B4bWlJZGMxSnhqZy1sVVo5eDNJc0hJUTVfOXl4cWJaLURkZ29HekFaTDBaOG5oazE0c29pUUNzRG9fcHFIYW9MUS05NXhfY2J4VnFmRmk?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "[AI 토큰 청구서④] 단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목 디지털데일리",
+      "publishedAt": "2026-07-04T23:55:02.000Z",
+      "rank": 1
+    },
     {
       "id": "f38f8e9ee3ca2a3b",
       "title": "CSTS Launches Generation C Foundation Training Academy in China - IT비즈뉴스",
@@ -65,25 +74,25 @@
       "source": "Google News: International Standardization",
       "summary": "CSTS Launches Generation C Foundation Training Academy in China IT비즈뉴스",
       "publishedAt": "2026-07-03T09:15:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "f6f80262867b757a",
-      "title": "전공·지역 허문 ‘ESG 정책 실험’···고려대 세종캠, 첨단인재 융합교육 판 키웠다 - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wWDFRSGc2WXpQeVRxeDhOSk5QY01SQU5vY0tVNDlhZkpuWFF6aDdaem02MFJPT0MzTGw3YkQ3Z0lxOXBWaEpnSUdlX01GTTRwSDhVQUFONVk0MnNtaklj0gFfQVVfeXFMTjBYMVFIZzZZelB5VHF4OE5KTlBjTVJBTm9jS1U0OWFmSm5YUXpoN1p6bTYwUk9PQzNMbDdiRDdnSXE5cFZoSmdJR2VfTUZNNHBIOFVBQU41WTQyc21qSWM?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "전공·지역 허문 ‘ESG 정책 실험’···고려대 세종캠, 첨단인재 융합교육 판 키웠다 경향신문",
-      "publishedAt": "2026-07-03T01:57:00.000Z",
       "rank": 2
     },
     {
-      "id": "559cf0dd0b1ea8cd",
-      "title": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGFFYndvbDVtdjZYX3NsSm00VFJQRXA4UTcxTF9CRm9sRXhmVkk4VzZnYzRLYzh3U1VBZjFvS3p1RE5tZHlOLW9ZWFduc0RGb3EyTnNwejFRSHVBWUZheGE1b2w1dk9meURTTWR1ZWlCeDhEM24wem5nLUJKQmoxS1NoSG9XdEV4SWtEYU12TkNwcDJwSmgxMHdJU2xHWEdGQlpIeGt6Z2VYc2ZxX29mbG83RlFfVGxZaTZEWGt6UTNTN0JDVVlKVGUzMWR4RFc2bkpLTUloMGRGMGVN?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 Microsoft Source",
-      "publishedAt": "2026-07-03T01:38:13.000Z",
+      "id": "a3b3ace81531ac24",
+      "title": "Xcell begins infrastructure expansion and manufacturing process upgrades for MEDIPOST’s CARTISTEM in Japan - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqQ09wNlRzUUszRUN4MXYtOUhHNnk5MTRKR0tCM2tYMXRaemIxVktJUlhEYTdpYUgyVEpDN2M4R0otTFlWVWZ1RGlxOHZqZVpQTEUwUzVkeHg4NDBPREl5WEZmTFVPV0ZWNzJydtIBcEFVX3lxTE1PLUp4VlJpME5kNllzaFRnY241R01HVU96a1pxdTh3RWMwRUhkeThiRUhZemx0LTlpdkExdnlOQ0RESjd4Q2c5TlpiVWtmVlNVa3lmMEYxOE5QR1JPV1FHb2JUbXk1QWV5XzBzcDQwakI?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Xcell begins infrastructure expansion and manufacturing process upgrades for MEDIPOST’s CARTISTEM in Japan 더바이오",
+      "publishedAt": "2026-07-03T06:24:06.000Z",
       "rank": 3
+    },
+    {
+      "id": "c14813da94064129",
+      "title": "박성중 KPC 창립 69주년 기념사 - AGI시대 살아남는 조직을 만들자 - 의회신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaUJNZEZSQkZONDZRQUZCLVRoNHhzakc5RzBQMFcxZkFYSEhqSWc2ME1nZHpnOUItVlA1ejVMVEdIZHJvNjZwZ1czVzhLcXVJMGlSRGMwcGhDRXpOc1htODBrcy1yTkRERE800gFrQVVfeXFMTVppQk1kRlJCRk40NlFBRkItVGg0eHNqRzlHMFAwVzFmQVhISGpJZzYwTWdkemc5Qi1WUDV6NUxUR0hkcm82NnBnVzNXOEtxdUkwaVJEYzBwaENFek5zWG04MGtzLXJORERETzQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "박성중 KPC 창립 69주년 기념사 - AGI시대 살아남는 조직을 만들자 의회신문",
+      "publishedAt": "2026-07-03T04:11:58.000Z",
+      "rank": 4
     },
     {
       "id": "819950e09f6099ef",
@@ -92,7 +101,16 @@
       "source": "Google News: data quality standard",
       "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
       "publishedAt": "2026-07-03T01:05:51.000Z",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "367e58898f6068e5",
+      "title": "[위클리 시그널] 통신 3사, 보안 투자·인력 확대, AI 네트워크 표준화 본격화 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SSDJkQXhrU2hKS3kyTE54MlhrLXpMWm82TFd1RTc4MEp5dS1WNnJMZ0cxYTIwandfWm1VOXZRZ0VKd0dNMmphVjhIbnJlT3FxNm5QT3paX1FrUlRDczFjb3F1d1BnWjg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[위클리 시그널] 통신 3사, 보안 투자·인력 확대, AI 네트워크 표준화 본격화 아이티데일리",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "rank": 6
     },
     {
       "id": "4c7ac178436fe821",
@@ -101,33 +119,15 @@
       "source": "Google News: R&D Strategy",
       "summary": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 YTN 사이언스",
       "publishedAt": "2026-07-03T00:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "6776b00156ff444e",
-      "title": "HD Hyundai Electric Signs Framework Deal Worth Up to KRW 1.12 Trillion With Global Big Tech Company - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUGlIX2Q0ckt1UldYUFg1VTJJR2FhVnVrdVZYLUo2cW96N3V2Z24xNG5zc29fOWhacUpRaFZuWUVrZXE1YXlDaDg0QTZNcVNCWGc0cnNuTjNSOXU0WlQ1Z1I1SXFiVFR5c0ZocVhR?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "HD Hyundai Electric Signs Framework Deal Worth Up to KRW 1.12 Trillion With Global Big Tech Company 알파경제",
-      "publishedAt": "2026-07-02T21:10:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "adf5d7b41d85744b",
-      "title": "The Era of 'ID Cards' for AI Agents... Korea Digital Certification Association Leads International Standard Development - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uTVR4X2ZRTjFoazYyQjlsTG9venZPR1UtcmU1TmtFVDdBZU1vblYwUWwwYnlid3czd0VRTDdXSkhyNE5kRmxrQml5by1yZWQtQjA0?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "The Era of 'ID Cards' for AI Agents... Korea Digital Certification Association Leads International Standard Development 벤처스퀘어",
-      "publishedAt": "2026-07-02T12:41:58.000Z",
       "rank": 7
     },
     {
-      "id": "842cdf7e5566730d",
-      "title": "Rosota, an AI robot startup collecting surgical data, raises 1.5 billion won in seed investment - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvRXlSTHRMUXlqN0NCOW1UcTh0dlZEeVZKbVh4TTlvVlI0YVhHZjBrOVRmVmdOMUdibGZtb0E0WHNOVVhkRDBSWVFXREFmX0hxSm1v?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Rosota, an AI robot startup collecting surgical data, raises 1.5 billion won in seed investment 벤처스퀘어",
-      "publishedAt": "2026-07-02T12:39:05.000Z",
+      "id": "1d2ff622c82ab689",
+      "title": "﻿[BIO USA] Txinno aims to set new global standard with ADC combination strategy tackling overlapping toxicity - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90QS1VUW1iaVdQMWd0T2k2UTA0ZTI5ZDJuVjlzU3N3VmQyLUZuak9oSFR2aWVqNkRMR0pJWVVQcHVoZnRBWXN2TWtFZWdIdDRScWVwNGltWHZ4T2lYNFVENTM1Q3NjOFFmeThnU9IBcEFVX3lxTE1zR0Z4WWFWb19SRmdFSEp6Yi10dUZJMWczdkRLaXNNZktwWFB0dTlKckJibExXV3pJT2hvRl9vYXoxNTFSb0xQOEVvTXkzSm9sa2N2ZkFNZjhyOGlfX3g0RG03X3JGQk9ZVEhlQzNMSjI?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[BIO USA] Txinno aims to set new global standard with ADC combination strategy tackling overlapping toxicity 더바이오",
+      "publishedAt": "2026-07-02T07:28:56.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-03T03:20:15.000Z"
+      "updatedAt": "2026-07-04T02:59:08.000Z"
     },
     {
       "id": "8fc328e75ace7570",
