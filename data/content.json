@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-05T03:24:47.178Z",
-  "projectsCheckedAt": "2026-07-05T03:24:47.178Z",
-  "projectsUpdatedAt": "2026-07-05T03:24:47.178Z",
+  "updatedAt": "2026-07-06T03:32:57.534Z",
+  "projectsCheckedAt": "2026-07-06T03:32:57.534Z",
+  "projectsUpdatedAt": "2026-07-06T03:32:57.534Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-05T03:24:47.178Z",
+    "checkedAt": "2026-07-06T03:32:57.534Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "9b60728db1ccf2cc",
-      "title": "[AI 토큰 청구서④] 단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wd0pvMjQyTUhBSE9uV1B4bWlJZGMxSnhqZy1sVVo5eDNJc0hJUTVfOXl4cWJaLURkZ29HekFaTDBaOG5oazE0c29pUUNzRG9fcHFIYW9MUS05NXhfY2J4VnFmRmk?oc=5",
+      "id": "bcd15c72b2456c47",
+      "title": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XcjNlbmhsZzYyNHJKeFlVbG51VnV5MXlVRjFWTHYtTE9FRE9aZ3FERXU3cmpZcEgyVnFpX3Z3bVdfOWdTMHdja0NIdGlldw?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "[AI 토큰 청구서④] 단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목 디지털데일리",
-      "publishedAt": "2026-07-04T23:55:02.000Z",
+      "summary": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 전자신문",
+      "publishedAt": "2026-07-06T02:21:25.000Z",
       "rank": 1
     },
     {
-      "id": "f38f8e9ee3ca2a3b",
-      "title": "CSTS Launches Generation C Foundation Training Academy in China - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMXh3dGZyaDNlR3NqbGpIVnAxUFNlXzBvY2Z3cV9qWXdYMFMwYlYxc3BwQkhyU2hmWjd0QkhKVmExZ0hzRzNMMV9KQU1mNklqbERDdXJ4bl9nRzd6ZVRrNXJRQllFeFBLQ1E2Ng?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "CSTS Launches Generation C Foundation Training Academy in China IT비즈뉴스",
-      "publishedAt": "2026-07-03T09:15:00.000Z",
+      "id": "eda8d282089968db",
+      "title": "Galux: “Beyond Molecular Design, AI Will Run Entire Drug Discovery Process Within 10 Years” - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UW12eDdBcGNkVFQzeFdheldtVGlQOEtMZnFJdHdpSjBrZm1sVVRSZVF2VDdDbkVLaG93Z0FZdmR0Q0RYR0pxUWFxTVV6MkIxRWFybEc5amJuZ3Y5MmNmbmVPX3VpZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Galux: “Beyond Molecular Design, AI Will Run Entire Drug Discovery Process Within 10 Years” 뉴스1",
+      "publishedAt": "2026-07-05T23:26:48.000Z",
       "rank": 2
     },
     {
-      "id": "a3b3ace81531ac24",
-      "title": "Xcell begins infrastructure expansion and manufacturing process upgrades for MEDIPOST’s CARTISTEM in Japan - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqQ09wNlRzUUszRUN4MXYtOUhHNnk5MTRKR0tCM2tYMXRaemIxVktJUlhEYTdpYUgyVEpDN2M4R0otTFlWVWZ1RGlxOHZqZVpQTEUwUzVkeHg4NDBPREl5WEZmTFVPV0ZWNzJydtIBcEFVX3lxTE1PLUp4VlJpME5kNllzaFRnY241R01HVU96a1pxdTh3RWMwRUhkeThiRUhZemx0LTlpdkExdnlOQ0RESjd4Q2c5TlpiVWtmVlNVa3lmMEYxOE5QR1JPV1FHb2JUbXk1QWV5XzBzcDQwakI?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Xcell begins infrastructure expansion and manufacturing process upgrades for MEDIPOST’s CARTISTEM in Japan 더바이오",
-      "publishedAt": "2026-07-03T06:24:06.000Z",
+      "id": "0dffaa5f632c89e0",
+      "title": "[베트남리포트/투자] 7월 베트남 규제 업데이트 리포트...새로운 컴플라이언스 환경: 투자자들을 위한 주요 변화 - 굿모닝베트남미디어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiam5LU2dhMURxd0RjUWM3RUM2TGZodm1pS1p1SDhaNmpnRjdvdjNxZlFXbUFZWXByR3dvRFNReEMxWndNRGRmdEFFSHFNenhHaElCTHhpUGFjaHB5S0g2akl0aHktcTZXZlpaeVhjelE?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[베트남리포트/투자] 7월 베트남 규제 업데이트 리포트...새로운 컴플라이언스 환경: 투자자들을 위한 주요 변화 굿모닝베트남미디어",
+      "publishedAt": "2026-07-05T10:42:52.000Z",
       "rank": 3
     },
     {
-      "id": "c14813da94064129",
-      "title": "박성중 KPC 창립 69주년 기념사 - AGI시대 살아남는 조직을 만들자 - 의회신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaUJNZEZSQkZONDZRQUZCLVRoNHhzakc5RzBQMFcxZkFYSEhqSWc2ME1nZHpnOUItVlA1ejVMVEdIZHJvNjZwZ1czVzhLcXVJMGlSRGMwcGhDRXpOc1htODBrcy1yTkRERE800gFrQVVfeXFMTVppQk1kRlJCRk40NlFBRkItVGg0eHNqRzlHMFAwVzFmQVhISGpJZzYwTWdkemc5Qi1WUDV6NUxUR0hkcm82NnBnVzNXOEtxdUkwaVJEYzBwaENFek5zWG04MGtzLXJORERETzQ?oc=5",
+      "id": "9788f946753b4f89",
+      "title": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상” - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNFNZLU5CRy16SXNhVDZXR3ZmbWcxNEVZMlpEYXJBeHVJQkotRUtRZkNtM0Z2a0lQdnFUSHk5V2YtNEtxRUMyMzlzd0JTLTc3YXVIa0ExMGJrRmNyZnpyQWQ1OEFMWk4tOHc?oc=5",
       "source": "Google News: Trustworthy AI",
-      "summary": "박성중 KPC 창립 69주년 기념사 - AGI시대 살아남는 조직을 만들자 의회신문",
-      "publishedAt": "2026-07-03T04:11:58.000Z",
+      "summary": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상” AI타임스",
+      "publishedAt": "2026-07-05T10:42:13.000Z",
       "rank": 4
     },
     {
-      "id": "819950e09f6099ef",
-      "title": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 - 뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuN09MZ012NVpTX3IxSFk2Q1U5UnRjb21oa1lJejYxOGxoU0kwWTV5cWZoZ21nV0xvbFlFOVVscjFrcy1vV0t6b2gyMmFKSkdMZFE5SFk4Vm9LQzY1bWZ1WVdhSkVFRkxKQ2JYSWVmQkVBU1V4Y25Dd0130gGAAUFVX3lxTFA2ZG5UeTQ0NkFmYldVQWVYU0xKcktXdFZNUHlfaUc1MlRkcjdiNndQR0pfR2t0WTdIejN4bXc1RzJVWnRibUhNNlMzX0JsbFFRdjJHTmlQMXBvaUZJODBHWDhtR21qbDZjV3lxUUQ5NWQtVldFT1MtaUhIX3pKaXcw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
-      "publishedAt": "2026-07-03T01:05:51.000Z",
+      "id": "f53a0f22a2aa8522",
+      "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQ0RyLTFuNERuLWl6VGExWThuc0NUb3lZa19IeEZrbFI3akFxdlNtaTc2Rk9QOHQ4eXlMU1FTVl9LVFpmNm1jY3pvdmFTVmNlMVZCWldaLUZaekdtaGJn?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\" 뉴스1",
+      "publishedAt": "2026-07-04T23:00:00.000Z",
       "rank": 5
     },
     {
-      "id": "367e58898f6068e5",
-      "title": "[위클리 시그널] 통신 3사, 보안 투자·인력 확대, AI 네트워크 표준화 본격화 - 아이티데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SSDJkQXhrU2hKS3kyTE54MlhrLXpMWm82TFd1RTc4MEp5dS1WNnJMZ0cxYTIwandfWm1VOXZRZ0VKd0dNMmphVjhIbnJlT3FxNm5QT3paX1FrUlRDczFjb3F1d1BnWjg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[위클리 시그널] 통신 3사, 보안 투자·인력 확대, AI 네트워크 표준화 본격화 아이티데일리",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "id": "79ae371581fe2fe4",
+      "title": "금융사 ETF 투자 \"금리만 보면 낭패\"…이제 '이것' 집중해야 [주末머니] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96OTlzWVR6MEh4ejg2aEl1YkplRDZJNllDbmQ2aU1DUGxTcXdCZTA5NDdYQURKRXVJemNEeGhjejZDZTJqMW5DMW40TlZhNGNnNzRTWQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "금융사 ETF 투자 \"금리만 보면 낭패\"…이제 '이것' 집중해야 [주末머니] v.daum.net",
+      "publishedAt": "2026-07-04T08:21:43.000Z",
       "rank": 6
     },
     {
-      "id": "4c7ac178436fe821",
-      "title": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 - YTN 사이언스",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZnB5VmZtUlZYeG9FX3dYTUJPZWpHQm9wU3hPQ3NXSUk2Z3FvVUR3SnVkUG9tb3JpOXZPbnJiVVQtSWRQNzdqWHVxUlNiZlF3Rjc1UnlTdWFqSGJGQzFVR3hWaWNlRUEwWDlWVEVpOGNsVW5GNV84QjllTzJ5bVE?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "R&D에 정부 총지출 5% 투입…5년 투자전략 제시 YTN 사이언스",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "id": "559cf0dd0b1ea8cd",
+      "title": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGFFYndvbDVtdjZYX3NsSm00VFJQRXA4UTcxTF9CRm9sRXhmVkk4VzZnYzRLYzh3U1VBZjFvS3p1RE5tZHlOLW9ZWFduc0RGb3EyTnNwejFRSHVBWUZheGE1b2w1dk9meURTTWR1ZWlCeDhEM24wem5nLUJKQmoxS1NoSG9XdEV4SWtEYU12TkNwcDJwSmgxMHdJU2xHWEdGQlpIeGt6Z2VYc2ZxX29mbG83RlFfVGxZaTZEWGt6UTNTN0JDVVlKVGUzMWR4RFc2bkpLTUloMGRGMGVN?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 Microsoft Source",
+      "publishedAt": "2026-07-03T01:38:13.000Z",
       "rank": 7
     },
     {
-      "id": "1d2ff622c82ab689",
-      "title": "﻿[BIO USA] Txinno aims to set new global standard with ADC combination strategy tackling overlapping toxicity - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90QS1VUW1iaVdQMWd0T2k2UTA0ZTI5ZDJuVjlzU3N3VmQyLUZuak9oSFR2aWVqNkRMR0pJWVVQcHVoZnRBWXN2TWtFZWdIdDRScWVwNGltWHZ4T2lYNFVENTM1Q3NjOFFmeThnU9IBcEFVX3lxTE1zR0Z4WWFWb19SRmdFSEp6Yi10dUZJMWczdkRLaXNNZktwWFB0dTlKckJibExXV3pJT2hvRl9vYXoxNTFSb0xQOEVvTXkzSm9sa2N2ZkFNZjhyOGlfX3g0RG03X3JGQk9ZVEhlQzNMSjI?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[BIO USA] Txinno aims to set new global standard with ADC combination strategy tackling overlapping toxicity 더바이오",
-      "publishedAt": "2026-07-02T07:28:56.000Z",
+      "id": "43e187510581334c",
+      "title": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 - 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdDA2OUJqaFpqOWtMeGtndnFOaEotQzB1SEJ5NmVjTGRqREwwMHhNRXk1NllGOVlHbEtmdWhXQVFHLXNTc0s0TkpVUWFuMlFPOTRjbUF1clRFTWo1ZDdOTHNhQmxKbzAyZVc2WWs4MVhoNkQwd0ZDTXl0d9IBgAFBVV95cUxQNmRuVHk0NDZBZmJXVUFlWFNMSnJLV3RWTVB5X2lHNTJUZHI3YjZ3UEdKX0drdFk3SHozeG13NUcyVVp0Ym1ITTZTM19CbGxRUXYyR05pUDFwb2lGSTgwR1g4bUdtamw2Y1d5cVFEOTVkLVZXRU9TLWlISF96Sml3MA?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
+      "publishedAt": "2026-07-03T01:05:51.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-04T02:59:08.000Z"
+      "updatedAt": "2026-07-05T03:28:51.000Z"
     },
     {
       "id": "8fc328e75ace7570",
