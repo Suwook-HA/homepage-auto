@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-06T03:32:57.534Z",
-  "projectsCheckedAt": "2026-07-06T03:32:57.534Z",
-  "projectsUpdatedAt": "2026-07-06T03:32:57.534Z",
+  "updatedAt": "2026-07-07T03:23:24.735Z",
+  "projectsCheckedAt": "2026-07-07T03:23:24.735Z",
+  "projectsUpdatedAt": "2026-07-07T03:23:24.735Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-06T03:32:57.534Z",
+    "checkedAt": "2026-07-07T03:23:24.735Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "7a014fc5f014a691",
+      "title": "몬드리안에이아이, 국제 표준 정보보호 인증 ‘ISO 27001’ 획득… 안전한 AI 인프라 및 데이터 주권 보장 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ud09UZ1loalNtTEpEZmRSZmZhdXJadXJfb1QyMEhqU0VEcVR4SEZyVXo4dnZCUjBXWnZHR0F4VDJ4c09uRk84Z2t3dVgtWXZGMjZDYkFHTm9DTTFrMkww?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "몬드리안에이아이, 국제 표준 정보보호 인증 ‘ISO 27001’ 획득… 안전한 AI 인프라 및 데이터 주권 보장 뉴스와이어",
+      "publishedAt": "2026-07-06T23:40:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "17b5614a798d170f",
+      "title": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZnpRUVZXQ1BJUTNUbWNzREd0WmRUWlE5WmtEcHRROEEwMkFxMUlMOHZ4TExrZmlvZlJUQ0cwYmxhQ0ExbHJPNkkyM1RFTVBDZGZKdzJ0UkNKUmsycWIxNUJubWpxZE0?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" 에이빙",
+      "publishedAt": "2026-07-06T07:04:43.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d768786161f04df3",
+      "title": "한미약품, 글로벌 혁신 선도기업 포함…대사·희귀질환 R&D 전략 주목 - 백세시대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRWhabnFVSmlqcW9ZRmY5T3NXRF9MbF83aDVxM1ExZ0dla043WUhDdDJ6MDVOQTBQYXlaNUhkWkR6bGxQbzhwMmxPeDR0ajBrNXhqTi1xUTlVa2tBc0Nsa0VTNU13bnFudHA0?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "한미약품, 글로벌 혁신 선도기업 포함…대사·희귀질환 R&D 전략 주목 백세시대",
+      "publishedAt": "2026-07-06T09:46:51.000Z",
+      "rank": 3
+    },
+    {
+      "id": "ab6727fe95aaf379",
+      "title": "천재교육·천재교과서, 홍콩 박람회 이어 중남미 사절단 만나 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEMUFjM3Z2OXdrd2FRUTJVenNxNGVvWTQyeGNUZVpGejNvS1p3dGdkeGxCR2lmZmlZdWJIQ0dmQ29zUHNrN3RRXzBnZ0NjTW1jUlhnWXU3R0RuNEdsREVNTUJvMk1ydDZFalNWZ2JST3h5SVF4?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "천재교육·천재교과서, 홍콩 박람회 이어 중남미 사절단 만나 대한경제",
+      "publishedAt": "2026-07-06T07:16:56.000Z",
+      "rank": 4
+    },
     {
       "id": "bcd15c72b2456c47",
       "title": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 - 전자신문",
@@ -65,7 +101,16 @@
       "source": "Google News: R&D Strategy",
       "summary": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 전자신문",
       "publishedAt": "2026-07-06T02:21:25.000Z",
-      "rank": 1
+      "rank": 5
+    },
+    {
+      "id": "1780b52a5325433a",
+      "title": "㈜팜존에스엔씨 천승우 대표 - 원료부터 식탁까지 하나의 데이터로 잇다, 식품 제조현장의 디지털 전환 인프라를 설계하는 ‘팜존에스엔씨’ - 월간인물",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOVFhdXM4Sk9hV0R6amJtaWx4b0I3dF9Ddi0yanFnNTlBYVgzaFpEdmVaa3RfQWwxVGtBSS1DaEhXbVJzcHBnaER6SXF1MnYyQkNldEEtU3VvbjExVFJsZTNkQmFYYndkV3RURlI0Q21pQdIBdkFVX3lxTE5oczdjOFdtTzlTT1hKREUtY2R3MnRxbDRwNnl5eEc1dGFSUUxmVUJLX0xVY19qWF9JbVFfUHlhNDY0aHBwVnFWZW5WREFBV2EtVTFCaktSOXBYZlNtdGswenhjR0FLLW9TRURvbGVIYkdNbFQxUXc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "㈜팜존에스엔씨 천승우 대표 - 원료부터 식탁까지 하나의 데이터로 잇다, 식품 제조현장의 디지털 전환 인프라를 설계하는 ‘팜존에스엔씨’ 월간인물",
+      "publishedAt": "2026-07-06T01:43:43.000Z",
+      "rank": 6
     },
     {
       "id": "eda8d282089968db",
@@ -74,16 +119,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "Galux: “Beyond Molecular Design, AI Will Run Entire Drug Discovery Process Within 10 Years” 뉴스1",
       "publishedAt": "2026-07-05T23:26:48.000Z",
-      "rank": 2
-    },
-    {
-      "id": "0dffaa5f632c89e0",
-      "title": "[베트남리포트/투자] 7월 베트남 규제 업데이트 리포트...새로운 컴플라이언스 환경: 투자자들을 위한 주요 변화 - 굿모닝베트남미디어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiam5LU2dhMURxd0RjUWM3RUM2TGZodm1pS1p1SDhaNmpnRjdvdjNxZlFXbUFZWXByR3dvRFNReEMxWndNRGRmdEFFSHFNenhHaElCTHhpUGFjaHB5S0g2akl0aHktcTZXZlpaeVhjelE?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[베트남리포트/투자] 7월 베트남 규제 업데이트 리포트...새로운 컴플라이언스 환경: 투자자들을 위한 주요 변화 굿모닝베트남미디어",
-      "publishedAt": "2026-07-05T10:42:52.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "9788f946753b4f89",
@@ -92,42 +128,6 @@
       "source": "Google News: Trustworthy AI",
       "summary": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상” AI타임스",
       "publishedAt": "2026-07-05T10:42:13.000Z",
-      "rank": 4
-    },
-    {
-      "id": "f53a0f22a2aa8522",
-      "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQ0RyLTFuNERuLWl6VGExWThuc0NUb3lZa19IeEZrbFI3akFxdlNtaTc2Rk9QOHQ4eXlMU1FTVl9LVFpmNm1jY3pvdmFTVmNlMVZCWldaLUZaekdtaGJn?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\" 뉴스1",
-      "publishedAt": "2026-07-04T23:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "79ae371581fe2fe4",
-      "title": "금융사 ETF 투자 \"금리만 보면 낭패\"…이제 '이것' 집중해야 [주末머니] - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96OTlzWVR6MEh4ejg2aEl1YkplRDZJNllDbmQ2aU1DUGxTcXdCZTA5NDdYQURKRXVJemNEeGhjejZDZTJqMW5DMW40TlZhNGNnNzRTWQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "금융사 ETF 투자 \"금리만 보면 낭패\"…이제 '이것' 집중해야 [주末머니] v.daum.net",
-      "publishedAt": "2026-07-04T08:21:43.000Z",
-      "rank": 6
-    },
-    {
-      "id": "559cf0dd0b1ea8cd",
-      "title": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGFFYndvbDVtdjZYX3NsSm00VFJQRXA4UTcxTF9CRm9sRXhmVkk4VzZnYzRLYzh3U1VBZjFvS3p1RE5tZHlOLW9ZWFduc0RGb3EyTnNwejFRSHVBWUZheGE1b2w1dk9meURTTWR1ZWlCeDhEM24wem5nLUJKQmoxS1NoSG9XdEV4SWtEYU12TkNwcDJwSmgxMHdJU2xHWEdGQlpIeGt6Z2VYc2ZxX29mbG83RlFfVGxZaTZEWGt6UTNTN0JDVVlKVGUzMWR4RFc2bkpLTUloMGRGMGVN?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트 프론티어 컴퍼니: 고객의 인텔리전스를 확장하고 보호하는 AI 엔지니어링 Microsoft Source",
-      "publishedAt": "2026-07-03T01:38:13.000Z",
-      "rank": 7
-    },
-    {
-      "id": "43e187510581334c",
-      "title": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 - 뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdDA2OUJqaFpqOWtMeGtndnFOaEotQzB1SEJ5NmVjTGRqREwwMHhNRXk1NllGOVlHbEtmdWhXQVFHLXNTc0s0TkpVUWFuMlFPOTRjbUF1clRFTWo1ZDdOTHNhQmxKbzAyZVc2WWs4MVhoNkQwd0ZDTXl0d9IBgAFBVV95cUxQNmRuVHk0NDZBZmJXVUFlWFNMSnJLV3RWTVB5X2lHNTJUZHI3YjZ3UEdKX0drdFk3SHozeG13NUcyVVp0Ym1ITTZTM19CbGxRUXYyR05pUDFwb2lGSTgwR1g4bUdtamw2Y1d5cVFEOTVkLVZXRU9TLWlISF96Sml3MA?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "HD현대오일뱅크, 한국서비스품질지수 주유소 부문 12년 연속 1위… 정유업계 최장 기록 뉴데일리",
-      "publishedAt": "2026-07-03T01:05:51.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-05T03:28:51.000Z"
+      "updatedAt": "2026-07-06T03:37:01.000Z"
     },
     {
       "id": "8fc328e75ace7570",
