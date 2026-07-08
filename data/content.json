@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-07T03:23:24.735Z",
-  "projectsCheckedAt": "2026-07-07T03:23:24.735Z",
-  "projectsUpdatedAt": "2026-07-07T03:23:24.735Z",
+  "updatedAt": "2026-07-08T02:40:52.277Z",
+  "projectsCheckedAt": "2026-07-08T02:40:52.277Z",
+  "projectsUpdatedAt": "2026-07-08T02:40:52.277Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-07T03:23:24.735Z",
+    "checkedAt": "2026-07-08T02:40:52.277Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "38925ec41b3fdbfe",
+      "title": "HCLTech achieves ISO/IEC 42001:2023 Certification demonstrating leadership in Responsible AI - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMnIyUmJnUzc1dHd5LWhubXM4d0kyeE5kZGNoM0gzU0R3MTRzTlJZZ3JFR1B5MDAtTDRlNmtHYng0WHM4NjJUVzRVaktIaUNzRm1KYkczNjhkTzNOM0ZlaFNCWGJnWnVv0gFsQVVfeXFMT2dqLTF5dzRLN0VCU1pHc2xZQ1VXWmxiYjIzekJVWGFfQi1pczBkQ0xOQjRicVR2RUh5TS1oMkM1ZEhDZUl5WHI4MkVqckhUOEdqVFI2bHIydEZreV85SksxNGlHQW5za1JXaFN4?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "HCLTech achieves ISO/IEC 42001:2023 Certification demonstrating leadership in Responsible AI KIPOST",
+      "publishedAt": "2026-07-07T09:04:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3a08fdb783f15114",
+      "title": "촉각 로보틱스 AI 학습 데이터 플랫폼 식스센스, 美 와이콤비네이터 여름배치 선정, 10억 원 규모 프리시드 유치 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zbURzb0dheHNQSkNyU1dIR2JnQzVuVmkxSkJ6WVBrbDF4ak80Q2ptVGRNZ2R2OTI0Yzg1SHZnbk01MUxoRkhjcmZPRHpjalFPVVJIWVh0eTJnSDdQeDlSQjFtdEFEVFE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "촉각 로보틱스 AI 학습 데이터 플랫폼 식스센스, 美 와이콤비네이터 여름배치 선정, 10억 원 규모 프리시드 유치 인공지능신문",
+      "publishedAt": "2026-07-08T01:06:36.000Z",
+      "rank": 2
+    },
+    {
+      "id": "df522c4c4446deed",
+      "title": "SKT, 전국 T 월드 매장 ‘AI 전환’ 시동…고객 서비스 혁신 나선다 - SK텔레콤 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HaXFVUkN2a0lacHFpcElnUmJIaVNrQU9BbW01RHl1SC1zWUtqTS1NTVh3RUQ4X1Y5RXRtTjdGZDZES2hYVXdZZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "SKT, 전국 T 월드 매장 ‘AI 전환’ 시동…고객 서비스 혁신 나선다 SK텔레콤 뉴스룸",
+      "publishedAt": "2026-07-07T23:41:30.000Z",
+      "rank": 3
+    },
+    {
+      "id": "d4cbcd7858de96d8",
+      "title": "Cosmax Wins Global SPF Testing Recognition, Strengthens Suncare Technology - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45RXhpcUt2bHJ1bk1sS0pFcExsT2w2TnY4Q2JZTjNsMnRTMkljaGhMbDFpenZQMVlNbGZMVHJBZGNSSzZ5NzNkMmk3aTMtXy0tUnlGcTlCczdkSm1SbHBoU1N6eHFGN2JnSHc?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Cosmax Wins Global SPF Testing Recognition, Strengthens Suncare Technology 한국면세뉴스",
+      "publishedAt": "2026-07-07T09:01:17.000Z",
+      "rank": 4
+    },
+    {
+      "id": "d1b42ffb67fa9407",
+      "title": "AI 경쟁, 결국 데이터가 좌우...개인정보위 '가명정보 전문가 풀' 위촉 - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TzNpaU80c0V2SC1FNV9WQXhLZEw4VXZmd2RFaXF3RGx2TThWQXJCU2ltT1VmTE5fU2NLQVZFRlIzd1JpMi1nMXoydkdYeVNzUzRtNm9NaDBfRldDUUloMWlwZjQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 경쟁, 결국 데이터가 좌우...개인정보위 '가명정보 전문가 풀' 위촉 MTN 머니투데이방송",
+      "publishedAt": "2026-07-07T08:46:14.000Z",
+      "rank": 5
+    },
     {
       "id": "7a014fc5f014a691",
       "title": "몬드리안에이아이, 국제 표준 정보보호 인증 ‘ISO 27001’ 획득… 안전한 AI 인프라 및 데이터 주권 보장 - 뉴스와이어",
@@ -65,143 +110,98 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "몬드리안에이아이, 국제 표준 정보보호 인증 ‘ISO 27001’ 획득… 안전한 AI 인프라 및 데이터 주권 보장 뉴스와이어",
       "publishedAt": "2026-07-06T23:40:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "17b5614a798d170f",
-      "title": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZnpRUVZXQ1BJUTNUbWNzREd0WmRUWlE5WmtEcHRROEEwMkFxMUlMOHZ4TExrZmlvZlJUQ0cwYmxhQ0ExbHJPNkkyM1RFTVBDZGZKdzJ0UkNKUmsycWIxNUJubWpxZE0?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" 에이빙",
-      "publishedAt": "2026-07-06T07:04:43.000Z",
-      "rank": 2
-    },
-    {
-      "id": "d768786161f04df3",
-      "title": "한미약품, 글로벌 혁신 선도기업 포함…대사·희귀질환 R&D 전략 주목 - 백세시대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRWhabnFVSmlqcW9ZRmY5T3NXRF9MbF83aDVxM1ExZ0dla043WUhDdDJ6MDVOQTBQYXlaNUhkWkR6bGxQbzhwMmxPeDR0ajBrNXhqTi1xUTlVa2tBc0Nsa0VTNU13bnFudHA0?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "한미약품, 글로벌 혁신 선도기업 포함…대사·희귀질환 R&D 전략 주목 백세시대",
-      "publishedAt": "2026-07-06T09:46:51.000Z",
-      "rank": 3
-    },
-    {
-      "id": "ab6727fe95aaf379",
-      "title": "천재교육·천재교과서, 홍콩 박람회 이어 중남미 사절단 만나 - 대한경제",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEMUFjM3Z2OXdrd2FRUTJVenNxNGVvWTQyeGNUZVpGejNvS1p3dGdkeGxCR2lmZmlZdWJIQ0dmQ29zUHNrN3RRXzBnZ0NjTW1jUlhnWXU3R0RuNEdsREVNTUJvMk1ydDZFalNWZ2JST3h5SVF4?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "천재교육·천재교과서, 홍콩 박람회 이어 중남미 사절단 만나 대한경제",
-      "publishedAt": "2026-07-06T07:16:56.000Z",
-      "rank": 4
-    },
-    {
-      "id": "bcd15c72b2456c47",
-      "title": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XcjNlbmhsZzYyNHJKeFlVbG51VnV5MXlVRjFWTHYtTE9FRE9aZ3FERXU3cmpZcEgyVnFpX3Z3bVdfOWdTMHdja0NIdGlldw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "지식재산처, 특허 빅데이터로 국가 R&D 전략 지원…AI·우주·바이오 미래기술 한눈에 전자신문",
-      "publishedAt": "2026-07-06T02:21:25.000Z",
-      "rank": 5
-    },
-    {
-      "id": "1780b52a5325433a",
-      "title": "㈜팜존에스엔씨 천승우 대표 - 원료부터 식탁까지 하나의 데이터로 잇다, 식품 제조현장의 디지털 전환 인프라를 설계하는 ‘팜존에스엔씨’ - 월간인물",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOVFhdXM4Sk9hV0R6amJtaWx4b0I3dF9Ddi0yanFnNTlBYVgzaFpEdmVaa3RfQWwxVGtBSS1DaEhXbVJzcHBnaER6SXF1MnYyQkNldEEtU3VvbjExVFJsZTNkQmFYYndkV3RURlI0Q21pQdIBdkFVX3lxTE5oczdjOFdtTzlTT1hKREUtY2R3MnRxbDRwNnl5eEc1dGFSUUxmVUJLX0xVY19qWF9JbVFfUHlhNDY0aHBwVnFWZW5WREFBV2EtVTFCaktSOXBYZlNtdGswenhjR0FLLW9TRURvbGVIYkdNbFQxUXc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "㈜팜존에스엔씨 천승우 대표 - 원료부터 식탁까지 하나의 데이터로 잇다, 식품 제조현장의 디지털 전환 인프라를 설계하는 ‘팜존에스엔씨’ 월간인물",
-      "publishedAt": "2026-07-06T01:43:43.000Z",
       "rank": 6
     },
     {
-      "id": "eda8d282089968db",
-      "title": "Galux: “Beyond Molecular Design, AI Will Run Entire Drug Discovery Process Within 10 Years” - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UW12eDdBcGNkVFQzeFdheldtVGlQOEtMZnFJdHdpSjBrZm1sVVRSZVF2VDdDbkVLaG93Z0FZdmR0Q0RYR0pxUWFxTVV6MkIxRWFybEc5amJuZ3Y5MmNmbmVPX3VpZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Galux: “Beyond Molecular Design, AI Will Run Entire Drug Discovery Process Within 10 Years” 뉴스1",
-      "publishedAt": "2026-07-05T23:26:48.000Z",
+      "id": "37687e18db80243e",
+      "title": "COSMAX Gains International Recognition for In Vitro SPF Testing… Strengthens Global Sun Care Competitiveness - 헬스경향",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XRXN5SVF1UW92b253TXpBZXpPXzJEZEpkMGRVbEJkNEV0b0FKdkpEMDY1eHh1Q0ZvSDRZRlNIU01FNl9BNk16UG9LeFdocnNDWEctX1ROa3NNMVdKTlZUSkxQLVg?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "COSMAX Gains International Recognition for In Vitro SPF Testing… Strengthens Global Sun Care Competitiveness 헬스경향",
+      "publishedAt": "2026-07-07T04:51:01.000Z",
       "rank": 7
     },
     {
-      "id": "9788f946753b4f89",
-      "title": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상” - AI타임스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNFNZLU5CRy16SXNhVDZXR3ZmbWcxNEVZMlpEYXJBeHVJQkotRUtRZkNtM0Z2a0lQdnFUSHk5V2YtNEtxRUMyMzlzd0JTLTc3YXVIa0ExMGJrRmNyZnpyQWQ1OEFMWk4tOHc?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상” AI타임스",
-      "publishedAt": "2026-07-05T10:42:13.000Z",
+      "id": "225d52184a472bfa",
+      "title": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZnpRUVZXQ1BJUTNUbWNzREd0WmRUWlE5WmtEcHRROEEwMkFxMUlMOHZ4TExrZmlvZlJUQ0cwYmxhQ0ExbHJPNkkyM1RFTVBDZGZKdzJ0UkNKUmsycWIxNUJubWpxZE0?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "COREX Unveils Functional Plant Standard Ingredients at AFPRO 2026… \"K-Ingredient Standardization\" 에이빙",
+      "publishedAt": "2026-07-06T07:04:43.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "f758db04119d0720",
-      "title": "Tesla Deliveries Jump 25% | Bloomberg Tech 7/02/2026",
-      "url": "https://www.youtube.com/watch?v=-Aoq-07mDdY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/-Aoq-07mDdY/hqdefault.jpg",
-      "publishedAt": "2026-07-02T17:58:49.000Z",
+      "id": "c89048cc28b0df3b",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
+      "publishedAt": "2026-07-07T16:33:29.000Z",
       "viewCount": 0
     },
     {
-      "id": "182db05f0d61d884",
-      "title": "Nuclear Reactor Powers Nvidia AI Chip in US First",
-      "url": "https://www.youtube.com/watch?v=KSUZ57wFKHM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/KSUZ57wFKHM/hqdefault.jpg",
-      "publishedAt": "2026-07-02T17:37:44.000Z",
+      "id": "c3d9b3b2b7e2650c",
+      "title": "Building an Android app in AI Studio",
+      "url": "https://www.youtube.com/watch?v=KwJwYIqDMLY",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/KwJwYIqDMLY/hqdefault.jpg",
+      "publishedAt": "2026-07-07T04:00:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "c83c9e29ac80c228",
-      "title": "Microsoft Shifts Strategy on Enterprise AI",
-      "url": "https://www.youtube.com/watch?v=EKhA9oRC6yg",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EKhA9oRC6yg/hqdefault.jpg",
-      "publishedAt": "2026-07-02T17:37:05.000Z",
+      "id": "ec4dc1c7cb241f17",
+      "title": "Create agent skills for on-device generative AI (I/O Connect ‘26)",
+      "url": "https://www.youtube.com/watch?v=KIp8PAU3oAI",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/KIp8PAU3oAI/hqdefault.jpg",
+      "publishedAt": "2026-07-06T22:00:15.000Z",
       "viewCount": 0
     },
     {
-      "id": "0daaa28b8f3775f7",
-      "title": "S3NS & Google Cloud: Driving the Future of European Cloud Innovation",
-      "url": "https://www.youtube.com/watch?v=WZXTvj_uozA",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/WZXTvj_uozA/hqdefault.jpg",
-      "publishedAt": "2026-07-01T19:19:49.000Z",
+      "id": "95d608adb96a5005",
+      "title": "Dynamic Callbacks on Android for Google Pay",
+      "url": "https://www.youtube.com/watch?v=WZvd1tUreTY",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/WZvd1tUreTY/hqdefault.jpg",
+      "publishedAt": "2026-07-06T21:10:53.000Z",
       "viewCount": 0
     },
     {
-      "id": "f78bf8d05af2aaff",
-      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
-      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg",
-      "publishedAt": "2026-07-01T18:31:25.000Z",
+      "id": "4cfb91e0fdcd3685",
+      "title": "Build creative apps with the GenMedia suite (I/O Connect ‘26)",
+      "url": "https://www.youtube.com/watch?v=nRLZqaNOrwQ",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/nRLZqaNOrwQ/hqdefault.jpg",
+      "publishedAt": "2026-07-06T18:14:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "f26c08f0ee85ac98",
-      "title": "Meta to Build Cloud Business to Sell Excess AI Compute | Bloomberg Tech 7/01/2026",
-      "url": "https://www.youtube.com/watch?v=W0v74tB4pZE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/W0v74tB4pZE/hqdefault.jpg",
-      "publishedAt": "2026-07-01T17:02:14.000Z",
+      "id": "392b65876486a579",
+      "title": "Build agents with Gemini API (I/O Connect ‘26)",
+      "url": "https://www.youtube.com/watch?v=d9LAQWKUnx8",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/d9LAQWKUnx8/hqdefault.jpg",
+      "publishedAt": "2026-07-06T18:14:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "6229fafccfc805ff",
-      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freights | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=OPiqNwy_45s",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/OPiqNwy_45s/hqdefault.jpg",
-      "publishedAt": "2026-07-01T16:47:28.000Z",
+      "id": "98bff942d352c257",
+      "title": "AI Just Entered A New Era",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg",
+      "publishedAt": "2026-07-01T05:23:54.000Z",
       "viewCount": 0
     },
     {
-      "id": "a6b179fd25e2a15a",
-      "title": "Why Marlinspike Is Investing in America's Defense Boom",
-      "url": "https://www.youtube.com/watch?v=UbBuzBxhj6A",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/UbBuzBxhj6A/hqdefault.jpg",
-      "publishedAt": "2026-07-01T16:46:16.000Z",
+      "id": "274d60692bb734ad",
+      "title": "Sameer Samat on Android 17 and the Future of Intelligent Computing",
+      "url": "https://www.youtube.com/watch?v=YvVsdZL2ogY",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/YvVsdZL2ogY/hqdefault.jpg",
+      "publishedAt": "2026-06-30T19:00:24.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-06T03:37:01.000Z"
+      "updatedAt": "2026-07-07T03:27:28.000Z"
     },
     {
       "id": "8fc328e75ace7570",
