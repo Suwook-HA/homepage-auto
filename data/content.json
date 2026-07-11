@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-10T03:19:11.401Z",
-  "projectsCheckedAt": "2026-07-10T03:19:11.401Z",
-  "projectsUpdatedAt": "2026-07-10T03:19:11.401Z",
+  "updatedAt": "2026-07-11T02:37:56.496Z",
+  "projectsCheckedAt": "2026-07-11T02:37:56.496Z",
+  "projectsUpdatedAt": "2026-07-11T02:37:56.496Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-10T03:19:11.401Z",
+    "checkedAt": "2026-07-11T02:37:56.496Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "6488d6197dca0202",
+      "title": "울산 AI기업, 국제표준 ISO/IEC 42001 인증 잇단 획득 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wbEdaNHhKUk0wdHVscUh1TEFkdHFhbnMxUm5YZVplZGFhTHc5RDJqTndRR3NPU3g4YVdaQVdjZ2xQVjlITDBQa2RRUGlJc2w2c1RqaVg2NHY0TDlDcHlBNHlpdVhLQTRvOW9JNEo1RnU3RE13TlA0aNIBeEFVX3lxTE8wbEdaNHhKUk0wdHVscUh1TEFkdHFhbnMxUm5YZVplZGFhTHc5RDJqTndRR3NPU3g4YVdaQVdjZ2xQVjlITDBQa2RRUGlJc2w2c1RqaVg2NHY0TDlDcHlBNHlpdVhLQTRvOW9JNEo1RnU3RE13TlA0aA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "울산 AI기업, 국제표준 ISO/IEC 42001 인증 잇단 획득 뉴시스",
+      "publishedAt": "2026-07-10T06:16:24.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3e35740efc30862b",
+      "title": "LGU+, ITU-T서 차세대 보안통신 품질 관리 국제표준화 추진 - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CeGNsdzdaVnlTNXV5am5Pbzc4elh3WGI0NVpDekhTU0FoOGtuNWlMYW1mOTlhbENQZmZRRHBHbHM1REJOOHRQWVNUUEVuT1lZZ3FtaDRXVEZyclhUbVJIM3JoR2tPTUExbHV3?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "LGU+, ITU-T서 차세대 보안통신 품질 관리 국제표준화 추진 퍼블릭뉴스통신",
+      "publishedAt": "2026-07-10T14:01:23.000Z",
+      "rank": 2
+    },
+    {
+      "id": "f2b2947d2b9dfcbf",
+      "title": "\"미래 모빌리티 보안 위해선 선제적 연구 나서야\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMktWQ0FQRzIzcHVpaU1wS29zWVRtQTNHZnBqcHh6Q2dRM2M0VU0wc1FJOTZ6Q3BoT05QV1lpelFZR1JfSGl2Q3dsOC1PYjRMd29PdC1B?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "\"미래 모빌리티 보안 위해선 선제적 연구 나서야\" 지디넷코리아",
+      "publishedAt": "2026-07-10T04:38:47.000Z",
+      "rank": 3
+    },
+    {
+      "id": "31ef396ffdbbafce",
+      "title": "과기정통부·OECD, AI 시대 인재양성 보고서 공개...디지털 역량 강화가 핵심 - 테크데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3czU4V0V4c19YaUtXcmIyVDZ6N3dsMzFmVlJvaVZSeUVsNnlHMTZYZW9kelRBZG5NRDA1QTBqNHB3Y1ZzNVpYNU1tdHk4ZGRLeGt6YnprakVDeXoxUTdpTC1UWC14d0lhQ0FXTk9R0gFyQVVfeXFMTUhWQnVoSjNrQ2QyeGQ1RjM1OExzelpWeHpFdkVhWDlRcm1Ba2ZDVnVxNjI2MVl2RUMwb2VZc2VNSjMwMWF1b3BtM09PMTVMbm4ySUlWdlRHRk1qRTc3R0p6SjJ5ZXVlWTh4QWhGY1dTbFJB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "과기정통부·OECD, AI 시대 인재양성 보고서 공개...디지털 역량 강화가 핵심 테크데일리",
+      "publishedAt": "2026-07-10T02:11:16.000Z",
+      "rank": 4
+    },
     {
       "id": "e390a2f600ab6714",
       "title": "AI 전문기업 스마트코어, AI 솔루션 4종 상용화 정식 출시 - 전자신문",
@@ -65,25 +101,25 @@
       "source": "Google News: AI Data Quality",
       "summary": "AI 전문기업 스마트코어, AI 솔루션 4종 상용화 정식 출시 전자신문",
       "publishedAt": "2026-07-10T00:57:00.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
-      "id": "a00b4e62f8be31f7",
-      "title": "Amazon’s bold AI grab is reshaping Asia fast - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3o1NWE2X3hZNU55bEo0SHJuUl9ZZ193UVRpbnBxZVNPemZxV2ttbDNEWVpMMnFNYWFkLTJJZDRrYnBjUVJuYkZNTEJlS0syWTJXV1k3WXdGMmgtOUpNYk9IX1BZTHRXQjJERmZmUmZySzFPS1VOeEVhVFliTXcyQnR1dklNMW5xUmd1YlkwMlRLbFl1QnJyQ2FxRXpRMG95T1Y4?oc=5",
+      "id": "2fd6aa2c354b08f4",
+      "title": "KT, 전사 AI 분석 환경 구축해 글로벌 혁신상…“질문만 하면 AI가 데이터 분석” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CYmt5cW9kWWU0azRYVHFTRVZpbGVZRHVFeFpFQUNCSng2Nkp3aVNvcDdZZjNmUHFzY3R0SEVuTVRtWWNJZXRCN3VoRQ?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "Amazon’s bold AI grab is reshaping Asia fast Korea JoongAng Daily",
-      "publishedAt": "2026-07-10T00:48:59.000Z",
-      "rank": 2
+      "summary": "KT, 전사 AI 분석 환경 구축해 글로벌 혁신상…“질문만 하면 AI가 데이터 분석” v.daum.net",
+      "publishedAt": "2026-07-10T00:47:03.000Z",
+      "rank": 6
     },
     {
-      "id": "54a7a0ed277de577",
-      "title": "\"질문만 하면 AI가 데이터 분석\"…KT, 전사 AX로 글로벌 혁신상 수상 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02NFZYamo5Q0JETU02dWl0LUl4X1RFSFNSbVN6LXNkS2ZZMm9wQVJteU1CN2I4cUNXdE5vZnJvVWhydTk0cERzbWFMZ1A4ZGFBckJMOUdJS1JMREQ0QXh6dWRKMlE3VnFvUm51a9IBbEFVX3lxTE02NFZYamo5Q0JETU02dWl0LUl4X1RFSFNSbVN6LXNkS2ZZMm9wQVJteU1CN2I4cUNXdE5vZnJvVWhydTk0cERzbWFMZ1A4ZGFBckJMOUdJS1JMREQ0QXh6dWRKMlE3VnFvUm51aw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "\"질문만 하면 AI가 데이터 분석\"…KT, 전사 AX로 글로벌 혁신상 수상 - 머니투데이 머니투데이",
-      "publishedAt": "2026-07-10T00:38:10.000Z",
-      "rank": 3
+      "id": "04d0fb989ede121c",
+      "title": "[심층분석] '보안'에서 'AI 실행 통제'로…프라이빗에이아이의 사명 변경이 던지는 의미 - 뉴스밸류",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OMUNTZXY5eU5RMTM2QWFJWHBwNkxsa2k0QmF0Ry1sOFFJeC01RGM5RnBlQ2xiRElQWWFTUzhua2xRRnV2T2szRTJLRTdoZEZWanJxRldNazBBb2dBakFoLS1iQWxreG00bWc?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "[심층분석] '보안'에서 'AI 실행 통제'로…프라이빗에이아이의 사명 변경이 던지는 의미 뉴스밸류",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "rank": 7
     },
     {
       "id": "c759526f07ffae4c",
@@ -92,116 +128,80 @@
       "source": "Google News: Digital Transformation",
       "summary": "스트래티지 ‘Strategy World Seoul 2026’ 성료… AI 시대 데이터·의사결정 전략 기준 제시 매일타임즈",
       "publishedAt": "2026-07-09T22:00:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "71ca4aaf2c2c3022",
-      "title": "자회사 IPO 잇따르는 K-바이오...R&D 성장전략 자리매김 - 팜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBERm5PWG96SXZJd0swQUFFNzFCRVQ0d2JtRG55MXA4Nm1uRThDTDhmRVU4bDlmWUh2ckphLThyaldqM2tiNmVhdkk5cFdaSG1XbUh3cU52M3NrbFBhSVhZem1Kd3N6SW9iUm5iVA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "자회사 IPO 잇따르는 K-바이오...R&D 성장전략 자리매김 팜뉴스",
-      "publishedAt": "2026-07-09T21:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "4a1341041c9ca827",
-      "title": "How Generative AI Is Reshaping the Future of the Content Industry - 뉴스컬처",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSmVDX0lRVUsxTVZSR2d6ZWR1UlAwT1Y2ZWlwcTA1aHlmekhpRHpMY0JwU281dnF4Yk1Cb0F6aklUbWlkRm1UTEtVRlVkcTRtNmNyVkJPOElQZ25ackNtOTRoeTREdw?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "How Generative AI Is Reshaping the Future of the Content Industry 뉴스컬처",
-      "publishedAt": "2026-07-09T20:00:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "6789789f14c73b7c",
-      "title": "﻿Seegene launches ‘Global Million Clinical Study’ aimed at setting new global testing standards - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0VKT29rLUczcVJ2VzlkbFJBS2wxQTNyQTM2N3Q0RDFkbXhFYTg5OFlueVFleExPYl9zVm9oQThRQ1Q5RG5jOHlYWDZYbDRZR3BvQUpxUjdNUzJ0TzNYdnVPMWpFREVIeDMyUtIBcEFVX3lxTE1MdkZmSGlXbVBncm9nU1dvSkxLbC1nQzhiTHZLMHBKNUNlX1RxRVlpWjhBWUFzd2dabU5rZEZkbmVXMjVMWUwtRGNuRHVUZXB2MVZkVm9XTG9wNG4tVE05YTZ4OTg4M2w5OHhQSkpvOEg?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Seegene launches ‘Global Million Clinical Study’ aimed at setting new global testing standards 더바이오",
-      "publishedAt": "2026-07-09T07:35:42.000Z",
-      "rank": 7
-    },
-    {
-      "id": "660680ffd78c87bd",
-      "title": "KT Joins UN-Led Talks on Responsible AI and Global Standards - 한국면세뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPSDF2NURVWC13R203M09tY2RvSHZaYnMwMXVTWi1XX3FGS3pWeUNGMnNrdWZuenNCdEhGOHZLUTVCcnJpRG9oanBxWEdIRE5JOFJzR2NSVHR6RDRPZUF2aWF3dkVPTS1ERGc?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "KT Joins UN-Led Talks on Responsible AI and Global Standards 한국면세뉴스",
-      "publishedAt": "2026-07-09T07:20:46.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "e6da042f477f2866",
-      "title": "ChatGPT Work | How NVIDIA Scales GTM with AI",
-      "url": "https://www.youtube.com/watch?v=xYVfknDQHU4",
+      "id": "b82281448efc9224",
+      "title": "Stampli scales product marketing with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=yATno77Uo6A",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/xYVfknDQHU4/hqdefault.jpg",
-      "publishedAt": "2026-07-09T22:30:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/yATno77Uo6A/hqdefault.jpg",
+      "publishedAt": "2026-07-10T21:11:41.000Z",
       "viewCount": 0
     },
     {
-      "id": "6c0bd1e151cbf147",
-      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-      "url": "https://www.youtube.com/watch?v=sqXsMDOxP0Y",
+      "id": "6ad8468fe19ae3e4",
+      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
+      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/sqXsMDOxP0Y/hqdefault.jpg",
-      "publishedAt": "2026-07-09T21:19:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/IYYTI73J7Rg/hqdefault.jpg",
+      "publishedAt": "2026-07-10T19:45:02.000Z",
       "viewCount": 0
     },
     {
-      "id": "637f50980a6a5df9",
-      "title": "Get started with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=GphgJjaKKhw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/GphgJjaKKhw/hqdefault.jpg",
-      "publishedAt": "2026-07-09T21:00:03.000Z",
+      "id": "a51c28ddc5736ae4",
+      "title": "SK Hynix Starts Trading on Nasdaq, Opens 14% Above Offer Price | Bloomberg Tech 7/10/2026",
+      "url": "https://www.youtube.com/watch?v=yuq4YniqrwA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/yuq4YniqrwA/hqdefault.jpg",
+      "publishedAt": "2026-07-10T17:37:16.000Z",
       "viewCount": 0
     },
     {
-      "id": "d06402967e8079dc",
-      "title": "Meet a mathematician solving previously unsolvable math problems with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=5X5CALvYvp0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/5X5CALvYvp0/hqdefault.jpg",
-      "publishedAt": "2026-07-09T20:00:35.000Z",
+      "id": "ece809664c17cb80",
+      "title": "Build With AI 2026 Recap",
+      "url": "https://www.youtube.com/watch?v=yGHi5V4sVkc",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/yGHi5V4sVkc/hqdefault.jpg",
+      "publishedAt": "2026-07-10T16:22:10.000Z",
       "viewCount": 0
     },
     {
-      "id": "d6216a104f314c05",
-      "title": "Meet the broccoli farmer running his farm with GPT-5.6.",
-      "url": "https://www.youtube.com/watch?v=hWhfrR9WJ_c",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/hWhfrR9WJ_c/hqdefault.jpg",
-      "publishedAt": "2026-07-09T20:00:24.000Z",
+      "id": "fd156012ca7d11bd",
+      "title": "SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US Plans",
+      "url": "https://www.youtube.com/watch?v=HTmE6ZKZ9sU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/HTmE6ZKZ9sU/hqdefault.jpg",
+      "publishedAt": "2026-07-10T16:18:28.000Z",
       "viewCount": 0
     },
     {
-      "id": "00b90e14929d1790",
-      "title": "Meet a family running a cereal business from their dining room with GPT-5.6.",
-      "url": "https://www.youtube.com/watch?v=A5VgJ0KZgKs",
+      "id": "59b121425d713db5",
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=nep5byxmr_M",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/A5VgJ0KZgKs/hqdefault.jpg",
-      "publishedAt": "2026-07-09T20:00:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nep5byxmr_M/hqdefault.jpg",
+      "publishedAt": "2026-07-10T16:02:41.000Z",
       "viewCount": 0
     },
     {
-      "id": "9683138bd8746cfd",
-      "title": "ChatGPT Work for Marketing Teams",
-      "url": "https://www.youtube.com/watch?v=8sUXGKDUEzI",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/8sUXGKDUEzI/hqdefault.jpg",
-      "publishedAt": "2026-07-09T18:30:29.000Z",
+      "id": "de6fa7e19bde2c21",
+      "title": "Hugging Face's CEO on why companies are done renting their AI | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=MqdEHMJFlSI",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/MqdEHMJFlSI/hqdefault.jpg",
+      "publishedAt": "2026-07-10T16:00:12.000Z",
       "viewCount": 0
     },
     {
-      "id": "598cd0a4204b85f0",
-      "title": "Codex for Engineering teams",
-      "url": "https://www.youtube.com/watch?v=Ga792ftrBu4",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Ga792ftrBu4/hqdefault.jpg",
-      "publishedAt": "2026-07-09T18:30:19.000Z",
+      "id": "fce949023a68b8f9",
+      "title": "SK Chairman Says He Has 'Much, Much Bigger' Plans for US",
+      "url": "https://www.youtube.com/watch?v=nm6lzLaWToQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/nm6lzLaWToQ/hqdefault.jpg",
+      "publishedAt": "2026-07-10T15:42:28.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-09T03:21:31.000Z"
+      "updatedAt": "2026-07-10T03:23:16.000Z"
     },
     {
       "id": "8fc328e75ace7570",
