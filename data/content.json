@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-11T02:37:56.496Z",
-  "projectsCheckedAt": "2026-07-11T02:37:56.496Z",
-  "projectsUpdatedAt": "2026-07-11T02:37:56.496Z",
+  "updatedAt": "2026-07-12T02:45:42.050Z",
+  "projectsCheckedAt": "2026-07-12T02:45:42.050Z",
+  "projectsUpdatedAt": "2026-07-12T02:45:42.050Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-11T02:37:56.496Z",
+    "checkedAt": "2026-07-12T02:45:42.050Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "542aed9eb26dde67",
+      "title": "LG유플러스, 차세대 보안 통신 품질관리 국제표준 개발 추진 - 더글로벌기빙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LX1lsdzIxcnNkUHdmRGtnUll4ZkNnX3RNeE1iRE9FR0NHRGIyZmwwaEtsWGJwMElJWGQ5ZUFJZmtsQi13R2ZRazRSbmI3R0JsTWhvbQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "LG유플러스, 차세대 보안 통신 품질관리 국제표준 개발 추진 더글로벌기빙뉴스",
+      "publishedAt": "2026-07-12T01:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "92eaee7a7a8e8a49",
+      "title": "LG유플러스, 차세대 보안 통신기술 국제표준화 나선다 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yNV9aR0RyOXhPWTAwV3ZnZWZSM3lhTjZvT25mNzVTVm9TOVUwWmNNUFY3eE1seHRpcjlPaDJFOGVxQXZfVTlYcTQ2bDBvNE9zTGd1STFuQ1VuRF9mX2YzTHZYQVVJcDQtcGZlMEw3T1RLSGvSAXdBVV95cUxNbzBWV3hiRmNkSE9uMUFNSDN3OXZELWpaMzN5MkJPNGt3OXg1NzRucHZIUkg3bEdpMTBMR0FUNmNSQktoV2FtSC1yUTRQZ29rbDlXOUlzZ3ZJQ2t5QnBSSXdrd0p6aF85Qm54SUd3QU11ck12eG5zbw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "LG유플러스, 차세대 보안 통신기술 국제표준화 나선다 스트레이트뉴스",
+      "publishedAt": "2026-07-12T00:10:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "335abdf6f3bad8e5",
+      "title": "LG유플러스, 차세대 보안 통신 품질 관리 국제표준화 추진 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11RDEzZ3lRZ3dXU3VILWowU0xsdF9NaVEtTnZxeUFzWHY5c2JEdGVPQk9oNF9tYnU0VXloOG5ZYVBSUkF0TmhPdlNpWFJhejcyLU5iOHh1TW5ybUxCRkZwUnVrMG8zcUVQbW1vdFJ3ZXJkZEE?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "LG유플러스, 차세대 보안 통신 품질 관리 국제표준화 추진 디지털투데이",
+      "publishedAt": "2026-07-12T00:00:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "3c0cd5de637d73c9",
+      "title": "양자암호 적용한 통신도 빠르게…LG U+, 품질관리 국제표준화 추진 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CVkxtU1dWb0lxMEhlTFQ2dmFwckEzWWxQMTM3TmRSLUo5VTktdmpod0xHX19DMWdIS0d4c0xIMkhPUTlrTWhTWDFkNENKRUctTkdMSHhrTktjQXBscXg3YnpLNGQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "양자암호 적용한 통신도 빠르게…LG U+, 품질관리 국제표준화 추진 아시아경제",
+      "publishedAt": "2026-07-12T00:00:00.000Z",
+      "rank": 4
+    },
     {
       "id": "6488d6197dca0202",
       "title": "울산 AI기업, 국제표준 ISO/IEC 42001 인증 잇단 획득 - 뉴시스",
@@ -65,16 +101,25 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "울산 AI기업, 국제표준 ISO/IEC 42001 인증 잇단 획득 뉴시스",
       "publishedAt": "2026-07-10T06:16:24.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
-      "id": "3e35740efc30862b",
-      "title": "LGU+, ITU-T서 차세대 보안통신 품질 관리 국제표준화 추진 - 퍼블릭뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CeGNsdzdaVnlTNXV5am5Pbzc4elh3WGI0NVpDekhTU0FoOGtuNWlMYW1mOTlhbENQZmZRRHBHbHM1REJOOHRQWVNUUEVuT1lZZ3FtaDRXVEZyclhUbVJIM3JoR2tPTUExbHV3?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "LGU+, ITU-T서 차세대 보안통신 품질 관리 국제표준화 추진 퍼블릭뉴스통신",
-      "publishedAt": "2026-07-10T14:01:23.000Z",
-      "rank": 2
+      "id": "52727956101751b5",
+      "title": "스트래티지 'Strategy World Seoul 2026' 성료… AI 시대 데이터·의사결정 전략 방향 제시 - 금융경제플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUXdTVXJjaXU5cVRCRFc3bHlsU2lKbW9aNHhKUkdRbVVQU1V6WHhhYUdWWWhsZXlVTDNrUmFFME5MQzlxTXNGYlpjLWVNMzN4VG1SeHRyMEJpZHloeFdqZmFtcGd4RnpYd19CdQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "스트래티지 'Strategy World Seoul 2026' 성료… AI 시대 데이터·의사결정 전략 방향 제시 금융경제플러스",
+      "publishedAt": "2026-07-11T02:40:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "e05aa9779780ad9e",
+      "title": "LGU+, 양자암호 통신 ‘품질 관리’ 국제표준화 나선다 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5veGhZaVZUVEFnUnZ1ZnVCUkNYeDB2WTJ2Y2Y2QmV1WlpkX1hFOVhjUU9aVnhRVHhnZ2ZXR1Vpdng2MHpkOUxCc09tZnh5ekJ2TG5TRGZ3?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "LGU+, 양자암호 통신 ‘품질 관리’ 국제표준화 나선다 지디넷코리아",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "rank": 7
     },
     {
       "id": "f2b2947d2b9dfcbf",
@@ -83,51 +128,6 @@
       "source": "Google News: ITU-T standardization",
       "summary": "\"미래 모빌리티 보안 위해선 선제적 연구 나서야\" 지디넷코리아",
       "publishedAt": "2026-07-10T04:38:47.000Z",
-      "rank": 3
-    },
-    {
-      "id": "31ef396ffdbbafce",
-      "title": "과기정통부·OECD, AI 시대 인재양성 보고서 공개...디지털 역량 강화가 핵심 - 테크데일리",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3czU4V0V4c19YaUtXcmIyVDZ6N3dsMzFmVlJvaVZSeUVsNnlHMTZYZW9kelRBZG5NRDA1QTBqNHB3Y1ZzNVpYNU1tdHk4ZGRLeGt6YnprakVDeXoxUTdpTC1UWC14d0lhQ0FXTk9R0gFyQVVfeXFMTUhWQnVoSjNrQ2QyeGQ1RjM1OExzelpWeHpFdkVhWDlRcm1Ba2ZDVnVxNjI2MVl2RUMwb2VZc2VNSjMwMWF1b3BtM09PMTVMbm4ySUlWdlRHRk1qRTc3R0p6SjJ5ZXVlWTh4QWhGY1dTbFJB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "과기정통부·OECD, AI 시대 인재양성 보고서 공개...디지털 역량 강화가 핵심 테크데일리",
-      "publishedAt": "2026-07-10T02:11:16.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e390a2f600ab6714",
-      "title": "AI 전문기업 스마트코어, AI 솔루션 4종 상용화 정식 출시 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wa3pWa0pXNHlYdW9JZ1hIZWl4ckQxLWYwQTh0NTBVNTB1WV9SNUt1aHNpTFZ3TldPcllqR0NhUDRDWXZjVDJSSExzMjhQdw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI 전문기업 스마트코어, AI 솔루션 4종 상용화 정식 출시 전자신문",
-      "publishedAt": "2026-07-10T00:57:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "2fd6aa2c354b08f4",
-      "title": "KT, 전사 AI 분석 환경 구축해 글로벌 혁신상…“질문만 하면 AI가 데이터 분석” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CYmt5cW9kWWU0azRYVHFTRVZpbGVZRHVFeFpFQUNCSng2Nkp3aVNvcDdZZjNmUHFzY3R0SEVuTVRtWWNJZXRCN3VoRQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "KT, 전사 AI 분석 환경 구축해 글로벌 혁신상…“질문만 하면 AI가 데이터 분석” v.daum.net",
-      "publishedAt": "2026-07-10T00:47:03.000Z",
-      "rank": 6
-    },
-    {
-      "id": "04d0fb989ede121c",
-      "title": "[심층분석] '보안'에서 'AI 실행 통제'로…프라이빗에이아이의 사명 변경이 던지는 의미 - 뉴스밸류",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OMUNTZXY5eU5RMTM2QWFJWHBwNkxsa2k0QmF0Ry1sOFFJeC01RGM5RnBlQ2xiRElQWWFTUzhua2xRRnV2T2szRTJLRTdoZEZWanJxRldNazBBb2dBakFoLS1iQWxreG00bWc?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "[심층분석] '보안'에서 'AI 실행 통제'로…프라이빗에이아이의 사명 변경이 던지는 의미 뉴스밸류",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "c759526f07ffae4c",
-      "title": "스트래티지 ‘Strategy World Seoul 2026’ 성료… AI 시대 데이터·의사결정 전략 기준 제시 - 매일타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMlEyNkphR2pvSnh1Uk95d1VxTWJCbkNlTkRrblFNTUxTS3ZJeFgxejVESmNzTktXOFlpRmdaR0N4UmdKcVQzakRRUU11U190NFhFMWZXSWR3Y0l6cGc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "스트래티지 ‘Strategy World Seoul 2026’ 성료… AI 시대 데이터·의사결정 전략 기준 제시 매일타임즈",
-      "publishedAt": "2026-07-09T22:00:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-10T03:23:16.000Z"
+      "updatedAt": "2026-07-11T02:42:00.000Z"
     },
     {
       "id": "8fc328e75ace7570",
