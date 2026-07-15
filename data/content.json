@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-14T02:29:16.321Z",
-  "projectsCheckedAt": "2026-07-14T02:29:16.321Z",
-  "projectsUpdatedAt": "2026-07-14T02:29:16.321Z",
+  "updatedAt": "2026-07-15T02:27:06.221Z",
+  "projectsCheckedAt": "2026-07-15T02:27:06.221Z",
+  "projectsUpdatedAt": "2026-07-15T02:27:06.221Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,138 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-14T02:29:16.321Z",
+    "checkedAt": "2026-07-15T02:27:06.221Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "beb0de7baae0cb8e",
-      "title": "Joining hands for ESG expansion… Korea Institute of SMEs & Startups and Korea Environmental Industry Association strengthen support for ISO certification - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tSVF5dFhLR3dsUmROUFhHZHVyRlZBQ0JyZE5qc0g1Uk43UndaU1BPRndvb29lcGNlLVdTV3psTHM0ZzdBcE1iN2JRWWpRd3dxLTBN?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Joining hands for ESG expansion… Korea Institute of SMEs & Startups and Korea Environmental Industry Association strengthen support for ISO certification 벤처스퀘어",
-      "publishedAt": "2026-07-13T04:45:19.000Z",
+      "id": "31f6f850bbab4fa5",
+      "title": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NU2dQN3pTWWR2TE1Kbmh6a01iN1p0X2lIZlViTElvMklQQllLZThENlBidE1vWkJQRmttbkZFMzJXMGRhckVLQVlhdDdTalhzV2h5WjhkajQ5WWtZSXc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 보안뉴스",
+      "publishedAt": "2026-07-15T02:15:00.000Z",
       "rank": 1
     },
     {
-      "id": "3022c3d145c3952f",
-      "title": "모두싸인, AI 경영시스템 국제표준 인증 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ya19YMUJGeUM2RzF4OVFyY3Bqb3dPRmRiSTV6RktORVU2OUViemdudTBrYmpFRDZacFVXRmktb2lGVEMwM1RNRDA2cXR2MkZGUmJZRTFidWFvMmxpd2ZWNnlHYnBldWQxbXJvdTNVMNIBb0FVX3lxTE5Ya19YMUJGeUM2RzF4OVFyY3Bqb3dPRmRiSTV6RktORVU2OUViemdudTBrYmpFRDZacFVXRmktb2lGVEMwM1RNRDA2cXR2MkZGUmJZRTFidWFvMmxpd2ZWNnlHYnBldWQxbXJvdTNVMA?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "모두싸인, AI 경영시스템 국제표준 인증 한스경제",
-      "publishedAt": "2026-07-14T00:00:40.000Z",
+      "id": "b2d0b0315fef7267",
+      "title": "Korea’s Tesla FSD limbo leaves owners frustrated - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2JPaXV3X24ybkU1dGNBWkRjVVk1UC02U0lnSUFnNzNnck1vWVFiRGlXRVhuY0dvX1NOd29kRkI4T3haS2Z1d3JxSzBuUXdFY0h5VVppcTNiNUVfX2dqemx2VXpLZU85Y2lsQ3RyU1QxcmlOZHFVZ1oyQXU5VkwtQVBDdm14MnhXSVRpa1NsTGVZN0p6UEUwXzFReHY3aVNodFJ1a3AzTVZBNmxCaWdHUGtVako?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Korea’s Tesla FSD limbo leaves owners frustrated Korea JoongAng Daily",
+      "publishedAt": "2026-07-15T01:00:46.000Z",
       "rank": 2
     },
     {
-      "id": "b94d04840c7993ad",
-      "title": "모두싸인, 업계 첫 AI 경영시스템 국제인증 획득…플랫폼 신뢰 강화 - edaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVRiYmE0WXBWSWU0UWNkWHFScHBXTjBIWmxycEd1NkU5NkF4MGd4c0FtWkFPWFkwZHJyN2VzWHhSQ3JMRjVodmM0MU9nMnNzbnFBNmxFUEVGMmZ2X25BTjVFM3RjUDdvejkxQWVCNG9WSzEtdHhVMFpsdjd0RkhYbw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "모두싸인, 업계 첫 AI 경영시스템 국제인증 획득…플랫폼 신뢰 강화 edaily.co.kr",
-      "publishedAt": "2026-07-13T23:52:22.000Z",
+      "id": "0127ae317e8551cc",
+      "title": "크라우드웍스, 국립농업과학원과 농업 분야 AI 기술 협력 모색 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vQmZFbE9EajVLOERNX0RuTl9JdUZhWUxqV3pvcGx0cHgxbXRpWDRLWnpHbk1XNWQxM0ZBSlZVbm05TjBfUHB4Nk94N0RmaFcyeGJfS1VraDluaXB6YXZ0VVRXeXVRUWhKZFkxSlBB0gFuQVVfeXFMT29CZkVsT0RqNUs4RE1fRG5OX0l1RmFZTGpXem9wbHRweDFtdGlYNEtaekduTVc1ZDEzRkFKVlVubTlOMF9QcHg2T3g3RGZoVzJ4Yl9LVWtoOW5pcHphdnRVVFd5dVFRaEpkWTFKUEE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "크라우드웍스, 국립농업과학원과 농업 분야 AI 기술 협력 모색 - 머니투데이 머니투데이",
+      "publishedAt": "2026-07-15T00:53:57.000Z",
       "rank": 3
     },
     {
-      "id": "19c6f2362266bb2b",
-      "title": "Ant Group Open-Sources SingGuard-NSFA to Establish New Security Paradigms for Autonomous AI Agents - 매일타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VZ3NYQXk3Q3F6UlNGdTIycHZuNmdQem9mWDhRWXRrZ0RId1Z2ZkZuQWVhSkphZDZ1WEI2WDhkb1ZhWVBfbDJyQzh5OUdCZU1hUHRHNGdSNElrdEM2WWc?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Ant Group Open-Sources SingGuard-NSFA to Establish New Security Paradigms for Autonomous AI Agents 매일타임즈",
-      "publishedAt": "2026-07-13T23:46:00.000Z",
+      "id": "dd567af2318166be",
+      "title": "딜로이트 안진, 글로벌 감사·인증 플랫폼 ‘옴니아’에 에이전틱 AI 도입 - CPA뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Rd2ZKNHpfQ3BGanRYSFB1dENoY3FhZFRpNGVNWFE2Q0pyYmhzSGllazlPbmNOODdzSlBvWVZIYkktRFNoX3Q5R2R2ODQ5czIzUFFSMVBCTXBzazA1OGlJUzc4ZF9MNVNU?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "딜로이트 안진, 글로벌 감사·인증 플랫폼 ‘옴니아’에 에이전틱 AI 도입 CPA뉴스",
+      "publishedAt": "2026-07-15T00:12:26.000Z",
       "rank": 4
     },
     {
-      "id": "7df0a32dfffcdf29",
-      "title": "[기고] 한국 의료 AI, 디지털 트윈 활용 부족…신뢰성 확보 위한 규제체계 필요 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yMlNWM2s2a0stN051Sm1sQWg0b3RjWlJYcUVIYkFEcVN6dFZPY2JyR3RzWmhaQWpKaUw4bDNJSk9NbmptbkViZWs0Ujh0Smpib0U3Y21yQ3R2c3Y2?oc=5",
+      "id": "bd0e766b323614aa",
+      "title": "우주에서 모은 농업 데이터, AI가 키운다…크라우드웍스, 농진청과 AX 협력 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IaWtSVmNCZTBLZHpDWm9aZklXU0xPazV3NlVYbkxBalN2T1dWeHRpajI1MFd2VmJic3pIM0V1WDAySmtBbC1FRjZoenl4S1E?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "[기고] 한국 의료 AI, 디지털 트윈 활용 부족…신뢰성 확보 위한 규제체계 필요 뉴스핌",
-      "publishedAt": "2026-07-13T23:30:00.000Z",
+      "summary": "우주에서 모은 농업 데이터, AI가 키운다…크라우드웍스, 농진청과 AX 협력 벤처스퀘어",
+      "publishedAt": "2026-07-14T23:23:06.000Z",
       "rank": 5
     },
     {
-      "id": "052901b6fbbdcf90",
-      "title": "\"돼지를 옮기던 시대 끝…이젠 데이터가 움직인다\" - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OeDl2WXBoT2xleFlNMDhVbkl2eXFtMFdXNlZ5NDVSd19VTlBBTmF3bXRLMTFXRURqVXVNckZMaVBwQkpueFhCamlLcnMxaDNSaGg4ZjdCTERzVWc3clJnVnFXeXYxXzg2VXVF0gFwQVVfeXFMTjdfZ3llbXVEWlE2UXpQWFMwSmtmZk9SYUVSWTFhVDd5akVzcGpnc2o0UEpCSzlZT0k5d200RVVfTDUtek9QTnVDSjBiZEJlcC1YcmhHYzFRaXl4cVFhSExfQmtTaDhHUVdoUktHdkd2dw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "\"돼지를 옮기던 시대 끝…이젠 데이터가 움직인다\" - 머니투데이 머니투데이",
-      "publishedAt": "2026-07-13T22:36:28.000Z",
+      "id": "c34b86a2474b098b",
+      "title": "[BIO USA Interview] SK Biopharma Advances AI Drug Development - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DMTU3SkRIbUptV0g1ZGM4RFp3VzBUSGRTLU1sX01ZU2lOUG1fRnJZRk5Oc05ncXNQNVc4bWU0ZHRjS0RnN2pRZ2prcWFkbFJGbFR1N19wVVk2ZDl1NE5aZExQZUd1ZHhfUFln?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[BIO USA Interview] SK Biopharma Advances AI Drug Development 히트뉴스",
+      "publishedAt": "2026-07-14T19:56:37.000Z",
       "rank": 6
     },
     {
-      "id": "465705d5146bddde",
-      "title": "[창간 25주년] 빅5 제약사, ESG보고서 속 R&D전략 '각양각색' - 메디칼업저버",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xWF9hdG5pRUV0ZkJQSm9MQTBGMTNyUWFlVDR0SVBSR2R5VXhFMnBwRzN1NWFPb1VRLVJMSUVWTGl4QzJaZUZnaXNaX3pXcUkyV2xMeTF3eG9lak9LSHR3dzFkWlZqc3pZSkdn?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[창간 25주년] 빅5 제약사, ESG보고서 속 R&D전략 '각양각색' 메디칼업저버",
-      "publishedAt": "2026-07-13T20:59:12.000Z",
+      "id": "9c5b0310b2256bff",
+      "title": "AI Contracts Also a 'Trust' Competition… ModuSign Acquires Industry's First International AI Standard Certification - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10Q3VRcFhXRGdMUkMta012NFZRcm5WVk9qQ0RnZWo1T2VqQWVsMWdSV1dVNlJvTDR1RFRhdU9obDZpYVFJRUJQaUlGVVltTmJ2TEh3?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "AI Contracts Also a 'Trust' Competition… ModuSign Acquires Industry's First International AI Standard Certification 벤처스퀘어",
+      "publishedAt": "2026-07-14T05:52:32.000Z",
       "rank": 7
     },
     {
-      "id": "6cc7708cceccf44d",
-      "title": "Institut Pasteur Korea, CDCC, and EMBL-EBI Partner to Advance Global Chemical Data Curation - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQk54czRSTVRmeTcxZ0JJMG41bm5iU2FVT1RRRkJyR2kxQVpzaDM3YnRKUlZxbWFjZk56OG9tbjhacHZBYnIwNVV2SmduUUU3WW1MMW1NWHZ1d1dLTHZrakg3VEVFMEXSAWtBVV95cUxPdE5FVXpsMFE0MTRkSVBILUNMdkdIQzZoNUxDMEdUN29xSXpsWXFDYjlES19lVWpjVThPOFpSTkNqS05OeVRGdEk0NlExbXhudzQtdThyaVc0N2thQzZGUjFIME5xVEZsUlRfRQ?oc=5",
+      "id": "93b922d3b9d5dcf8",
+      "title": "South Korea Eases Biosimilar Approval Requirements, Allowing Waivers of Phase 3 Trial Data Under Certain Conditions - 헬스코리아뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iaEpxOWhyU3BsbUg0NTB4cjVfTUhEcEJvWFplZVRkT2diVmRqNFI5aVcxZ3dMMXNUd3FUeU1PSmh4M1RNenYwX2FtNzV5MlpSR0dtZjNzSEl2LUpBMVhNdzJ0dXcwdW8?oc=5",
       "source": "Google News: data quality standard",
-      "summary": "Institut Pasteur Korea, CDCC, and EMBL-EBI Partner to Advance Global Chemical Data Curation 에이빙",
-      "publishedAt": "2026-07-13T09:05:40.000Z",
+      "summary": "South Korea Eases Biosimilar Approval Requirements, Allowing Waivers of Phase 3 Trial Data Under Certain Conditions 헬스코리아뉴스",
+      "publishedAt": "2026-07-14T10:53:02.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "180e81953a30eb82",
+      "title": "Codex just got better for developers",
+      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/eiQgljOrkWU/hqdefault.jpg",
+      "publishedAt": "2026-07-14T23:30:19.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7c149972667b5ec0",
+      "title": "Background Robustness with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=matzTxfrhJU",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/matzTxfrhJU/hqdefault.jpg",
+      "publishedAt": "2026-07-14T22:35:03.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "2a6f007ba1284614",
+      "title": "Improved Intelligence with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/avpZWh6sm9M/hqdefault.jpg",
+      "publishedAt": "2026-07-14T20:22:11.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f23e3aea5f45dc2f",
+      "title": "SAP on Google Cloud | The big picture",
+      "url": "https://www.youtube.com/watch?v=8VN2QqBqf-E",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/8VN2QqBqf-E/hqdefault.jpg",
+      "publishedAt": "2026-07-14T19:52:07.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "fd8990028c8e1f6f",
+      "title": "Build and publish web apps directly in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/8zH_O74hZBw/hqdefault.jpg",
+      "publishedAt": "2026-07-14T19:19:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b72b2d614a1bd629",
+      "title": "Search smarter with Gemini Enterprise",
+      "url": "https://www.youtube.com/watch?v=qHWoPGBlGak",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/qHWoPGBlGak/hqdefault.jpg",
+      "publishedAt": "2026-07-14T18:28:04.000Z",
+      "viewCount": 0
+    },
     {
       "id": "e8c3c0f64964c9af",
       "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
@@ -148,60 +202,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/wOlGYLlbEnw/hqdefault.jpg",
       "publishedAt": "2026-07-13T18:42:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9e26bce3cfba24a5",
-      "title": "How Apple’s Lawsuit Could Disrupt OpenAI’s Bid to Rival the iPhone",
-      "url": "https://www.youtube.com/watch?v=7md5rMuDtVw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/7md5rMuDtVw/hqdefault.jpg",
-      "publishedAt": "2026-07-13T18:32:24.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "731091ec947eeb75",
-      "title": "AI Selloff, Apple vs. OpenAI & the Future of Defense Tech | Bloomberg Tech 7/13/2026",
-      "url": "https://www.youtube.com/watch?v=RRLxl18bzkU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RRLxl18bzkU/hqdefault.jpg",
-      "publishedAt": "2026-07-13T18:30:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f660040a2cfbf4e3",
-      "title": "Dog Days: MLB + Gemini on Google Cloud see if pups can up a team’s play",
-      "url": "https://www.youtube.com/watch?v=ZskFh6cnLL4",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/ZskFh6cnLL4/hqdefault.jpg",
-      "publishedAt": "2026-07-13T18:00:07.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "af50c8026134269a",
-      "title": "New Way Now: How Google AI put Medable on track to cut drug development time from 12 years to one",
-      "url": "https://www.youtube.com/watch?v=ylDt0DGhpYs",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/ylDt0DGhpYs/hqdefault.jpg",
-      "publishedAt": "2026-07-13T17:51:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e2580d5ad64153c5",
-      "title": "FCC's Carr on Approval Times, Paramount-Warner Deal and Disney",
-      "url": "https://www.youtube.com/watch?v=-T_Qsvr5FnE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/-T_Qsvr5FnE/hqdefault.jpg",
-      "publishedAt": "2026-07-13T16:01:57.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "73e279c1567a9ea9",
-      "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=q571PxpsdoA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/q571PxpsdoA/hqdefault.jpg",
-      "publishedAt": "2026-07-11T00:44:29.000Z",
       "viewCount": 0
     }
   ],
@@ -234,17 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-13T02:51:12.000Z"
-    },
-    {
-      "id": "8fc328e75ace7570",
-      "name": "etri-standards-dashboard",
-      "description": "ETRI 표준화 현황 대시보드 — React + Vite + Tailwind + Zustand + Recharts",
-      "url": "https://github.com/Suwook-HA/etri-standards-dashboard",
-      "stars": 0,
-      "forks": 1,
-      "language": "JavaScript",
-      "updatedAt": "2026-03-24T05:11:31.000Z"
+      "updatedAt": "2026-07-14T02:33:20.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
@@ -275,6 +265,16 @@
       "forks": 0,
       "language": "Python",
       "updatedAt": "2026-04-01T23:37:21.000Z"
+    },
+    {
+      "id": "8fc328e75ace7570",
+      "name": "etri-standards-dashboard",
+      "description": "ETRI 표준화 현황 대시보드 — React + Vite + Tailwind + Zustand + Recharts",
+      "url": "https://github.com/Suwook-HA/etri-standards-dashboard",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-03-24T05:11:31.000Z"
     },
     {
       "id": "8a95dd7d9a8078c5",
