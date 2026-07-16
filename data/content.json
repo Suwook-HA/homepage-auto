@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-15T02:27:06.221Z",
-  "projectsCheckedAt": "2026-07-15T02:27:06.221Z",
-  "projectsUpdatedAt": "2026-07-15T02:27:06.221Z",
+  "updatedAt": "2026-07-16T02:35:13.725Z",
+  "projectsCheckedAt": "2026-07-16T02:35:13.725Z",
+  "projectsUpdatedAt": "2026-07-16T02:35:13.725Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-15T02:27:06.221Z",
+    "checkedAt": "2026-07-16T02:35:13.725Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "31f6f850bbab4fa5",
-      "title": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NU2dQN3pTWWR2TE1Kbmh6a01iN1p0X2lIZlViTElvMklQQllLZThENlBidE1vWkJQRmttbkZFMzJXMGRhckVLQVlhdDdTalhzV2h5WjhkajQ5WWtZSXc?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "슈프리마, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 보안뉴스",
-      "publishedAt": "2026-07-15T02:15:00.000Z",
+      "id": "0a440a4ba3d28d3a",
+      "title": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 - 주간현대",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxZ1pTR3BmMGx0UkE4TmdReHIxYnBUSm1nMjkxMUJDM3F6bkZ5cERtd1h1cUVTR0tGUnl6QnBsQzZCTWc?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 주간현대",
+      "publishedAt": "2026-07-16T01:04:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "1dbf442b19e7f02a",
+      "title": "[#시큐리티 포커스] 유락 '현장형 AI 포렌식' 실증·SGA 'VB100 인증'·슈프리마 'ISO/IEC 42001 인증'·안랩 '2분기 피싱 문자 트렌드' 발표·포티넷 '포티넷드포인트' 신규 기능 - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aUNVZjFFa2F0c2ZLRjgwUl9uRmsxRElSLTY5VWVPRjctQ2pIenVyaXIyUHJRM0tLSkUtUVFqWDNNUUV0d0RJckhySUhNMlNORDAzZXNFeUZkVGtzX2x3b2YzYU9uc01PRjBPR0gyc9IBc0FVX3lxTE01bmdVSjBiM2pqWXBwa3hCTFJCLXQ1OHBLUURHSTl0bUN6VVhXQzRncjdieWpmcGZLWm1RRVFDX1RIenNZMGloa2JVeERNRGN4VEEzRlkwT2twQ1VCX2IxWk5VMHBTM1BxN0tlQXUyblJCU2c?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[#시큐리티 포커스] 유락 '현장형 AI 포렌식' 실증·SGA 'VB100 인증'·슈프리마 'ISO/IEC 42001 인증'·안랩 '2분기 피싱 문자 트렌드' 발표·포티넷 '포티넷드포인트' 신규 기능 뉴스웍스",
+      "publishedAt": "2026-07-15T14:01:05.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d3e078e09f9565b1",
+      "title": "슈프리마, ISO/IEC 42001 인증 획득…AI 운영 안전성 입증 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HbC1mYTZsQzBaN3NoMWVKOGk2ZFNKeDJ5aHl0TnROYWpnU3NsYTNaU21pS1RZbzB5TTVmeWZWZVFVTGt6TlZ5cWstaGVHbl9Sb1RPZk9nOVluRElBSXRtVEZaVXFnVGRa?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "슈프리마, ISO/IEC 42001 인증 획득…AI 운영 안전성 입증 테크월드",
+      "publishedAt": "2026-07-15T07:56:44.000Z",
+      "rank": 3
+    },
+    {
+      "id": "8151bcc188865f44",
+      "title": "모두싸인, AI 경영시스템 국제표준 ISO/IEC 42001 인증으로 AI 신뢰성 강화 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9na0JVNkIwX1M3TGF4SzI0clNNMkYxRHE3WUFlWFlYVklqbTAzTk9YTy0yZkdqV2dieE1OaWZ2VUEtcTk0elV5Nkx1UDQ5dFc2Z3ZPVDZqMmRuLUJTN25GNkpsa3RJZW1TZnVOX0dtSW56UdIBckFVX3lxTE9na0JVNkIwX1M3TGF4SzI0clNNMkYxRHE3WUFlWFlYVklqbTAzTk9YTy0yZkdqV2dieE1OaWZ2VUEtcTk0elV5Nkx1UDQ5dFc2Z3ZPVDZqMmRuLUJTN25GNkpsa3RJZW1TZnVOX0dtSW56UQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "모두싸인, AI 경영시스템 국제표준 ISO/IEC 42001 인증으로 AI 신뢰성 강화 - 머니투데이 머니투데이",
+      "publishedAt": "2026-07-15T07:47:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "7d759abdbe46092b",
+      "title": "딜로이트 안진, 글로벌 감사·인증 플랫폼 '옴니아'에 에이전틱 AI 도입 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4aDV6cDJlMGVUWWxGZFZYdzRYd3QtUnY3elNtVV9Ebk1Wck9DQ1o5VE5sQnNaLWlsczIybVJjR29jN2FidE9FVmotLVJEeHNWWk93?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "딜로이트 안진, 글로벌 감사·인증 플랫폼 '옴니아'에 에이전틱 AI 도입 네이트",
+      "publishedAt": "2026-07-15T08:08:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "77eaddfa89bc120d",
+      "title": "모두싸인, AI 국제표준 인증 획득…전자계약 플랫폼 경쟁력 강화 - 이지경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBVHdETkZQZG4zODctVTd4bFRIQ1F4akdGcEtYeE1BeVNXUGU2THBzWnR6aVBPLThhQ2VnZlZUTzAtVkZLZ0oxNDBMeHptcEtIb1NtRHRtRTNSNVZsaVlpYzJUeldCcFVaYzF4VFl3?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "모두싸인, AI 국제표준 인증 획득…전자계약 플랫폼 경쟁력 강화 이지경제",
+      "publishedAt": "2026-07-15T07:09:37.000Z",
+      "rank": 6
+    },
+    {
+      "id": "9f3420b2413d57e4",
+      "title": "진주시, 그린바이오산업 클러스터 구축 본격화 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DaXk0Z19zWXRUbmU2UDh1WEJpak5pVVVXS1oteElHYjlDakliWC11M3Q2WW5MQ2Z4cmVIQXVPamxuQQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "진주시, 그린바이오산업 클러스터 구축 본격화 브레이크뉴스",
+      "publishedAt": "2026-07-15T06:15:00.000Z",
+      "rank": 7
     },
     {
       "id": "b2d0b0315fef7267",
@@ -74,64 +128,64 @@
       "source": "Google News: International Standardization",
       "summary": "Korea’s Tesla FSD limbo leaves owners frustrated Korea JoongAng Daily",
       "publishedAt": "2026-07-15T01:00:46.000Z",
-      "rank": 2
-    },
-    {
-      "id": "0127ae317e8551cc",
-      "title": "크라우드웍스, 국립농업과학원과 농업 분야 AI 기술 협력 모색 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vQmZFbE9EajVLOERNX0RuTl9JdUZhWUxqV3pvcGx0cHgxbXRpWDRLWnpHbk1XNWQxM0ZBSlZVbm05TjBfUHB4Nk94N0RmaFcyeGJfS1VraDluaXB6YXZ0VVRXeXVRUWhKZFkxSlBB0gFuQVVfeXFMT29CZkVsT0RqNUs4RE1fRG5OX0l1RmFZTGpXem9wbHRweDFtdGlYNEtaekduTVc1ZDEzRkFKVlVubTlOMF9QcHg2T3g3RGZoVzJ4Yl9LVWtoOW5pcHphdnRVVFd5dVFRaEpkWTFKUEE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "크라우드웍스, 국립농업과학원과 농업 분야 AI 기술 협력 모색 - 머니투데이 머니투데이",
-      "publishedAt": "2026-07-15T00:53:57.000Z",
-      "rank": 3
-    },
-    {
-      "id": "dd567af2318166be",
-      "title": "딜로이트 안진, 글로벌 감사·인증 플랫폼 ‘옴니아’에 에이전틱 AI 도입 - CPA뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Rd2ZKNHpfQ3BGanRYSFB1dENoY3FhZFRpNGVNWFE2Q0pyYmhzSGllazlPbmNOODdzSlBvWVZIYkktRFNoX3Q5R2R2ODQ5czIzUFFSMVBCTXBzazA1OGlJUzc4ZF9MNVNU?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "딜로이트 안진, 글로벌 감사·인증 플랫폼 ‘옴니아’에 에이전틱 AI 도입 CPA뉴스",
-      "publishedAt": "2026-07-15T00:12:26.000Z",
-      "rank": 4
-    },
-    {
-      "id": "bd0e766b323614aa",
-      "title": "우주에서 모은 농업 데이터, AI가 키운다…크라우드웍스, 농진청과 AX 협력 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IaWtSVmNCZTBLZHpDWm9aZklXU0xPazV3NlVYbkxBalN2T1dWeHRpajI1MFd2VmJic3pIM0V1WDAySmtBbC1FRjZoenl4S1E?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "우주에서 모은 농업 데이터, AI가 키운다…크라우드웍스, 농진청과 AX 협력 벤처스퀘어",
-      "publishedAt": "2026-07-14T23:23:06.000Z",
-      "rank": 5
-    },
-    {
-      "id": "c34b86a2474b098b",
-      "title": "[BIO USA Interview] SK Biopharma Advances AI Drug Development - 히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DMTU3SkRIbUptV0g1ZGM4RFp3VzBUSGRTLU1sX01ZU2lOUG1fRnJZRk5Oc05ncXNQNVc4bWU0ZHRjS0RnN2pRZ2prcWFkbFJGbFR1N19wVVk2ZDl1NE5aZExQZUd1ZHhfUFln?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[BIO USA Interview] SK Biopharma Advances AI Drug Development 히트뉴스",
-      "publishedAt": "2026-07-14T19:56:37.000Z",
-      "rank": 6
-    },
-    {
-      "id": "9c5b0310b2256bff",
-      "title": "AI Contracts Also a 'Trust' Competition… ModuSign Acquires Industry's First International AI Standard Certification - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10Q3VRcFhXRGdMUkMta012NFZRcm5WVk9qQ0RnZWo1T2VqQWVsMWdSV1dVNlJvTDR1RFRhdU9obDZpYVFJRUJQaUlGVVltTmJ2TEh3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "AI Contracts Also a 'Trust' Competition… ModuSign Acquires Industry's First International AI Standard Certification 벤처스퀘어",
-      "publishedAt": "2026-07-14T05:52:32.000Z",
-      "rank": 7
-    },
-    {
-      "id": "93b922d3b9d5dcf8",
-      "title": "South Korea Eases Biosimilar Approval Requirements, Allowing Waivers of Phase 3 Trial Data Under Certain Conditions - 헬스코리아뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iaEpxOWhyU3BsbUg0NTB4cjVfTUhEcEJvWFplZVRkT2diVmRqNFI5aVcxZ3dMMXNUd3FUeU1PSmh4M1RNenYwX2FtNzV5MlpSR0dtZjNzSEl2LUpBMVhNdzJ0dXcwdW8?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "South Korea Eases Biosimilar Approval Requirements, Allowing Waivers of Phase 3 Trial Data Under Certain Conditions 헬스코리아뉴스",
-      "publishedAt": "2026-07-14T10:53:02.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "4c04d00277f984be",
+      "title": "New Way Now: TELUS builds an Agentic Data Cloud to turn connectivity into customer intelligence",
+      "url": "https://www.youtube.com/watch?v=Xynv0oBjvsw",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/Xynv0oBjvsw/hqdefault.jpg",
+      "publishedAt": "2026-07-15T23:11:28.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ff83cefaee4f9701",
+      "title": "Schedule tasks with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=CToxp125mhc",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/CToxp125mhc/hqdefault.jpg",
+      "publishedAt": "2026-07-15T22:50:17.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "194a1ba9be5edc02",
+      "title": "Introducing the Codex Micro",
+      "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/m8uUUUsMD3Y/hqdefault.jpg",
+      "publishedAt": "2026-07-15T19:42:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "11ca8798985a3977",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise| Equity",
+      "url": "https://www.youtube.com/watch?v=ZMqVpeOZZ6I",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/ZMqVpeOZZ6I/hqdefault.jpg",
+      "publishedAt": "2026-07-15T16:47:47.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d0a37f0c64a7c284",
+      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
+      "publishedAt": "2026-07-15T13:58:27.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4016d0f44e8fb0f6",
+      "title": "TRLLN scales industrial asset tracking with Google Cloud",
+      "url": "https://www.youtube.com/watch?v=ZNtzcK1RyZ8",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/ZNtzcK1RyZ8/hqdefault.jpg",
+      "publishedAt": "2026-07-15T08:30:11.000Z",
+      "viewCount": 0
+    },
     {
       "id": "180e81953a30eb82",
       "title": "Codex just got better for developers",
@@ -148,60 +202,6 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/matzTxfrhJU/hqdefault.jpg",
       "publishedAt": "2026-07-14T22:35:03.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2a6f007ba1284614",
-      "title": "Improved Intelligence with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/avpZWh6sm9M/hqdefault.jpg",
-      "publishedAt": "2026-07-14T20:22:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f23e3aea5f45dc2f",
-      "title": "SAP on Google Cloud | The big picture",
-      "url": "https://www.youtube.com/watch?v=8VN2QqBqf-E",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/8VN2QqBqf-E/hqdefault.jpg",
-      "publishedAt": "2026-07-14T19:52:07.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "fd8990028c8e1f6f",
-      "title": "Build and publish web apps directly in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/8zH_O74hZBw/hqdefault.jpg",
-      "publishedAt": "2026-07-14T19:19:36.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b72b2d614a1bd629",
-      "title": "Search smarter with Gemini Enterprise",
-      "url": "https://www.youtube.com/watch?v=qHWoPGBlGak",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/qHWoPGBlGak/hqdefault.jpg",
-      "publishedAt": "2026-07-14T18:28:04.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e8c3c0f64964c9af",
-      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
-      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/-J5KoSMfPLk/hqdefault.jpg",
-      "publishedAt": "2026-07-13T23:07:18.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "bf91a300708d1c9b",
-      "title": "Palantir Co-Founder Joe Lonsdale on the AI Investment Boom",
-      "url": "https://www.youtube.com/watch?v=wOlGYLlbEnw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/wOlGYLlbEnw/hqdefault.jpg",
-      "publishedAt": "2026-07-13T18:42:51.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-14T02:33:20.000Z"
+      "updatedAt": "2026-07-15T02:29:25.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
