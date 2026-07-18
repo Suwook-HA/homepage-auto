@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-17T02:37:33.606Z",
-  "projectsCheckedAt": "2026-07-17T02:37:33.606Z",
-  "projectsUpdatedAt": "2026-07-17T02:37:33.606Z",
+  "updatedAt": "2026-07-18T02:28:40.895Z",
+  "projectsCheckedAt": "2026-07-18T02:28:40.895Z",
+  "projectsUpdatedAt": "2026-07-18T02:28:40.895Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,36 +54,27 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-17T02:37:33.606Z",
+    "checkedAt": "2026-07-18T02:28:40.895Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "e8e309924c633539",
-      "title": "Game ESG Reports Focus on AI Governance, Shareholder Returns - 게임뷰",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YZmN0VHV5QnhqbXN2RGNCX0pNZ2w5LVg5YTNCcUpIVmYtamVuTDZMRjNoQTN4QU43U2RBM2w4MEFxTXBNcGI3RWNjMjd2dWQ3RHVnTXIzQ05hZHhzNVQ1ckdPNTY2ZjJuS0E?oc=5",
+      "id": "b25c41d09db47bd9",
+      "title": "[Heritage Transformation] ④ Taking K-Heritage to the World - 뉴스컬처",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GV1BTZGQxN2xZQnlmUHU5dXpUWmxjaE9yS0FlbWU1NElzMUFPOTJaaHpuY2pMWlVMd3pFR05nYTdDMmF5VTIzc2Z2UExJN2xYZHNobGhVQzF1bFB0OUJ5ZnI0Wl9fQQ?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Game ESG Reports Focus on AI Governance, Shareholder Returns 게임뷰",
-      "publishedAt": "2026-07-16T01:56:49.000Z",
+      "summary": "[Heritage Transformation] ④ Taking K-Heritage to the World 뉴스컬처",
+      "publishedAt": "2026-07-18T00:34:23.000Z",
       "rank": 1
     },
     {
-      "id": "0a440a4ba3d28d3a",
-      "title": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 - 주간현대",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxZ1pTR3BmMGx0UkE4TmdReHIxYnBUSm1nMjkxMUJDM3F6bkZ5cERtd1h1cUVTR0tGUnl6QnBsQzZCTWc?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 주간현대",
-      "publishedAt": "2026-07-16T01:04:00.000Z",
+      "id": "bfbe4f8d49995098",
+      "title": "Top 20 기업 글로벌 데이터 거버넌스 소프트웨어 시장 - Spherical Insights",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmM3eHpZY1FRNlBXUXc0U0doQjhWZndBdWM2WmlpS2tYRHNTc1dNd04wS1hXTlZPZTZsd3NTSkdSakZOM1pEdFJSWVhmOTNkUExfRFZ1Tm8wQVFzTmloUEd3aE5tVVFJMWZNa1FEU29aVkgtTjdyN20tNm9HN0xuMXBuUC1yMGF5aVBtSE41cmlqVU5SSVVWdk5LWGtkUGpJdmlqbzFvWi1rcmpLWjNKMnpQTEtDdTRuRHE5VGxidmp3TUJmNTRaLVZlVUFGRUtObzV5M1dpRQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Top 20 기업 글로벌 데이터 거버넌스 소프트웨어 시장 Spherical Insights",
+      "publishedAt": "2026-07-17T15:45:38.000Z",
       "rank": 2
-    },
-    {
-      "id": "1dbf442b19e7f02a",
-      "title": "[#시큐리티 포커스] 유락 '현장형 AI 포렌식' 실증·SGA 'VB100 인증'·슈프리마 'ISO/IEC 42001 인증'·안랩 '2분기 피싱 문자 트렌드' 발표·포티넷 '포티넷드포인트' 신규 기능 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aUNVZjFFa2F0c2ZLRjgwUl9uRmsxRElSLTY5VWVPRjctQ2pIenVyaXIyUHJRM0tLSkUtUVFqWDNNUUV0d0RJckhySUhNMlNORDAzZXNFeUZkVGtzX2x3b2YzYU9uc01PRjBPR0gyc9IBc0FVX3lxTE01bmdVSjBiM2pqWXBwa3hCTFJCLXQ1OHBLUURHSTl0bUN6VVhXQzRncjdieWpmcGZLWm1RRVFDX1RIenNZMGloa2JVeERNRGN4VEEzRlkwT2twQ1VCX2IxWk5VMHBTM1BxN0tlQXUyblJCU2c?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "[#시큐리티 포커스] 유락 '현장형 AI 포렌식' 실증·SGA 'VB100 인증'·슈프리마 'ISO/IEC 42001 인증'·안랩 '2분기 피싱 문자 트렌드' 발표·포티넷 '포티넷드포인트' 신규 기능 뉴스웍스",
-      "publishedAt": "2026-07-15T14:01:05.000Z",
-      "rank": 3
     },
     {
       "id": "c9c5623bef954c86",
@@ -92,7 +83,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "K-방산 수출, 세계적 국방품질 경쟁력에서 해법을 찾다 한국방송뉴스",
       "publishedAt": "2026-07-16T07:46:41.000Z",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "0dc3c504e4a269e7",
@@ -101,16 +92,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "“GS칼텍스, 디지털·AI 기술 활용 ‘대정비작업’ 완료했다” 에너지데일리",
       "publishedAt": "2026-07-16T07:30:42.000Z",
-      "rank": 5
-    },
-    {
-      "id": "96322cb0fc84394c",
-      "title": "대구 수성구, AI 행정혁신 해법 찾는다…‘수미창조포럼’ 개최 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sTTRfZmlRZnN4Y1FuZ0hLMHd2OVpZQ2ZjMTd1VkNZd18yOTFzVUZRNlNFTy1yTDEwTVhwQW0wSi0wUQ?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "대구 수성구, AI 행정혁신 해법 찾는다…‘수미창조포럼’ 개최 브레이크뉴스",
-      "publishedAt": "2026-07-16T06:53:55.000Z",
-      "rank": 6
+      "rank": 4
     },
     {
       "id": "2aa79397a28ed2f4",
@@ -119,7 +101,7 @@
       "source": "Google News: Trustworthy AI",
       "summary": "MSD Korea backs AI healthcare startups for global expansion 네이트",
       "publishedAt": "2026-07-16T05:26:00.000Z",
-      "rank": 7
+      "rank": 5
     },
     {
       "id": "3b380998ee4bcba1",
@@ -128,10 +110,73 @@
       "source": "Google News: AI Data Quality",
       "summary": "AI는 팀 스포츠다…CIO 혼자 풀 수 없는 기업 AI 준비도의 현실 cio.com",
       "publishedAt": "2026-07-16T04:56:50.000Z",
+      "rank": 6
+    },
+    {
+      "id": "036a802af33fb106",
+      "title": "농업 AX 해법 찾는다… 스페이스뱅크, 국립농업과학원과 AI·Physical AI 협력 논의 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42ZHBBVVFIcDR0Uzl3YWxHdmVxX3loNnB4MWpQZlZ0SkRsSE9ON1lJVXZ1c0V6MXZCOFc4N29QVDdiekoxRzhFQndKOUdyLTQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "농업 AX 해법 찾는다… 스페이스뱅크, 국립농업과학원과 AI·Physical AI 협력 논의 벤처스퀘어",
+      "publishedAt": "2026-07-16T04:31:59.000Z",
+      "rank": 7
+    },
+    {
+      "id": "78942819e0842e3d",
+      "title": "동부건설, AI 활용 안전·품질관리 확대…외국인 근로자 통번역도 도입 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yWkhMOTNiV2oyUnFDR0cwejJfR284M0wtMDI0dDYxZDVoSHpERVJmWTRZYTQ2TjVXUWgzVmw1MW9paTFWai1lRXRGOE1TUWpPbjlvZEpkZjlHelpIcG5IeUdqckJjTTlBcmNQcm1BOHgzUFZpQnZYLV84Y20?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "동부건설, AI 활용 안전·품질관리 확대…외국인 근로자 통번역도 도입 한국금융신문",
+      "publishedAt": "2026-07-16T03:56:15.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "646a21acef806ad8",
+      "title": "Get started with the Interactions API",
+      "url": "https://www.youtube.com/watch?v=iOK1-b_9Dlg",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/iOK1-b_9Dlg/hqdefault.jpg",
+      "publishedAt": "2026-07-17T23:00:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a15e5d9310439838",
+      "title": "China's Moonshot, Netflix's Slump & Greylock's $1.5B Bet | Bloomberg Tech 7/17/2026",
+      "url": "https://www.youtube.com/watch?v=j_dPrhjHky8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/j_dPrhjHky8/hqdefault.jpg",
+      "publishedAt": "2026-07-17T18:28:02.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "30d5dede3a46e468",
+      "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=TrjDdmn4JGc",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/TrjDdmn4JGc/hqdefault.jpg",
+      "publishedAt": "2026-07-17T17:10:39.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c66568c731287050",
+      "title": "Antigravity Arcade: From prompt to game in minutes",
+      "url": "https://www.youtube.com/watch?v=8I7wr2hYFec",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/8I7wr2hYFec/hqdefault.jpg",
+      "publishedAt": "2026-07-17T16:00:10.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a54b9100e3b7a478",
+      "title": "Eclipse Space's Huerta on SpaceX's Test Mission Delay",
+      "url": "https://www.youtube.com/watch?v=qN5MTwiP3j8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/qN5MTwiP3j8/hqdefault.jpg",
+      "publishedAt": "2026-07-17T14:13:39.000Z",
+      "viewCount": 0
+    },
     {
       "id": "2db2d70a9157f908",
       "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
@@ -157,51 +202,6 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/dB6pOolO7io/hqdefault.jpg",
       "publishedAt": "2026-07-16T18:00:16.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2732659f8c0a42e7",
-      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
-      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/KNPjRpNtQ7s/hqdefault.jpg",
-      "publishedAt": "2026-07-16T17:00:16.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7f2fa039102ae616",
-      "title": "GameStop CEO Cohen Discusses eBay Bid, Video Game Software",
-      "url": "https://www.youtube.com/watch?v=G3fCkeo2kY8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/G3fCkeo2kY8/hqdefault.jpg",
-      "publishedAt": "2026-07-16T16:43:56.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "d4c73cbf5ed07b5a",
-      "title": "Texas Governor Abbott, Saronic CEO on Floods, Shipyard Plans",
-      "url": "https://www.youtube.com/watch?v=JfKoWdd-HE8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/JfKoWdd-HE8/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:52:33.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9b5dd3ff840b74ec",
-      "title": "Claude Just Revealed AI's Biggest Problem",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "03da0a3a4428cbe5",
-      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
-      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Xk-X1TI2pQ4/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:37:36.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-16T02:39:18.000Z"
+      "updatedAt": "2026-07-17T02:41:37.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
