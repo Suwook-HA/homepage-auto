@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-19T02:42:30.132Z",
-  "projectsCheckedAt": "2026-07-19T02:42:30.132Z",
-  "projectsUpdatedAt": "2026-07-19T02:42:30.132Z",
+  "updatedAt": "2026-07-20T03:21:32.245Z",
+  "projectsCheckedAt": "2026-07-20T03:21:32.245Z",
+  "projectsUpdatedAt": "2026-07-20T03:21:32.245Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,93 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-19T02:42:30.132Z",
+    "checkedAt": "2026-07-20T03:21:32.245Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "b25c41d09db47bd9",
-      "title": "[Heritage Transformation] ④ Taking K-Heritage to the World - 뉴스컬처",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GV1BTZGQxN2xZQnlmUHU5dXpUWmxjaE9yS0FlbWU1NElzMUFPOTJaaHpuY2pMWlVMd3pFR05nYTdDMmF5VTIzc2Z2UExJN2xYZHNobGhVQzF1bFB0OUJ5ZnI0Wl9fQQ?oc=5",
+      "id": "1b43e7023c1fec18",
+      "title": "GC녹십자의료재단, 국내 임상검사 전문의료기관 최초 ISO 45001 인증 획득 - 뉴스인",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTGQwVFBnWm1UbjdaRlRfa1R6R3hfWldOWFc2dVl5elFSaFJVbTBYRk14TXRLeG8wSGFwNEJYbzA5YmFxN0JoeFYzcmJPVnRvYm8zallfYWVSZzJENldnREJvbzlPa3EtVk0w?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "[Heritage Transformation] ④ Taking K-Heritage to the World 뉴스컬처",
-      "publishedAt": "2026-07-18T00:34:23.000Z",
+      "summary": "GC녹십자의료재단, 국내 임상검사 전문의료기관 최초 ISO 45001 인증 획득 뉴스인",
+      "publishedAt": "2026-07-20T02:21:27.000Z",
       "rank": 1
     },
     {
-      "id": "bfbe4f8d49995098",
-      "title": "Top 20 기업 글로벌 데이터 거버넌스 소프트웨어 시장 - Spherical Insights",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmM3eHpZY1FRNlBXUXc0U0doQjhWZndBdWM2WmlpS2tYRHNTc1dNd04wS1hXTlZPZTZsd3NTSkdSakZOM1pEdFJSWVhmOTNkUExfRFZ1Tm8wQVFzTmloUEd3aE5tVVFJMWZNa1FEU29aVkgtTjdyN20tNm9HN0xuMXBuUC1yMGF5aVBtSE41cmlqVU5SSVVWdk5LWGtkUGpJdmlqbzFvWi1rcmpLWjNKMnpQTEtDdTRuRHE5VGxidmp3TUJmNTRaLVZlVUFGRUtObzV5M1dpRQ?oc=5",
+      "id": "c070c7a266a85e69",
+      "title": "에이오팜, AFPRO 2026서 'AI 기반 농산물 품질 검사 시스템' 소개해…\"데이터 기반 품질 선별로 미래 농업 혁신!\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IcHNRc19EM2h1VjR3dy1RWk1RWjlNT1AxVjhoT3ZmcHU3S21xMVp5N3NMaVNfckNLQUZwUnhpQWhYMFoxT1Y5M1VwSUNGUXpyTGp3?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "Top 20 기업 글로벌 데이터 거버넌스 소프트웨어 시장 Spherical Insights",
-      "publishedAt": "2026-07-17T15:45:38.000Z",
+      "summary": "에이오팜, AFPRO 2026서 'AI 기반 농산물 품질 검사 시스템' 소개해…\"데이터 기반 품질 선별로 미래 농업 혁신!\" 네이트",
+      "publishedAt": "2026-07-20T02:31:00.000Z",
       "rank": 2
     },
     {
-      "id": "e8e309924c633539",
-      "title": "Game ESG Reports Focus on AI Governance, Shareholder Returns - 게임뷰",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YZmN0VHV5QnhqbXN2RGNCX0pNZ2w5LVg5YTNCcUpIVmYtamVuTDZMRjNoQTN4QU43U2RBM2w4MEFxTXBNcGI3RWNjMjd2dWQ3RHVnTXIzQ05hZHhzNVQ1ckdPNTY2ZjJuS0E?oc=5",
+      "id": "3cc455aace08a42a",
+      "title": "Ant International’s Alipay+ Connects Argentina's National QR Payment Scheme via PVS, Enabling for Cross-Border Digital Payment Nationwide at Millions of Merchants - 세계뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQcnJ0OVh1SkI2Y1lmSTZFR0hkTXd1dWpHZzh0RHVDY1FCd0NvX1lpQ0xRZGxIMHd5bkl3Z3ExdnptOTFkTmR3YVJNaVBKTDV2LXphSHZvRVkzNnV6SkFNQzlmYVFqd1NQMU42VmFrMDA2SkpW?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Game ESG Reports Focus on AI Governance, Shareholder Returns 게임뷰",
-      "publishedAt": "2026-07-16T01:56:49.000Z",
+      "summary": "Ant International’s Alipay+ Connects Argentina's National QR Payment Scheme via PVS, Enabling for Cross-Border Digital Payment Nationwide at Millions of Merchants 세계뉴스통신",
+      "publishedAt": "2026-07-20T00:41:29.000Z",
       "rank": 3
     },
     {
-      "id": "0a440a4ba3d28d3a",
-      "title": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 - 주간현대",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxZ1pTR3BmMGx0UkE4TmdReHIxYnBUSm1nMjkxMUJDM3F6bkZ5cERtd1h1cUVTR0tGUnl6QnBsQzZCTWc?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "LG유플러스, ITU-T와 함께 차세대 보안 통신 품질 관리 국제표준화 추진 주간현대",
-      "publishedAt": "2026-07-16T01:04:00.000Z",
+      "id": "d1b34f679255ea1a",
+      "title": "씨엔알리서치, ‘데이터 중심 글로벌 CRO’ 도약…“경쟁력은 ‘데이터’와 ‘AI’” - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbXdaRmZqTDBiS2xNWlhicWpiNE5pU2FsaXpnckhnUWVDUUoyZzNtc0ZWZnFMWVAwUGw5TmM3RTZsVXNjTVlHNVRBdGhnZlFPNzlwQnBKdnJMWUpSV1R0LVc1WDVhNWw2cWJybdIBcEFVX3lxTE5OcENkZGlvRnBZTkdHWDhNZkxVRi1yOVBndVVXUkhsSlU3QjlRQW1ubDRnY3hxdElRcUFuM2E3VlV1Z0ZxZTZ3TUtsX1MxdGJQUllVTlhleVBHclFxYmMxd0U3WU9zMEtySXZPQVZ3Z2U?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "씨엔알리서치, ‘데이터 중심 글로벌 CRO’ 도약…“경쟁력은 ‘데이터’와 ‘AI’” 더바이오",
+      "publishedAt": "2026-07-19T21:40:00.000Z",
       "rank": 4
     },
     {
-      "id": "c9c5623bef954c86",
-      "title": "K-방산 수출, 세계적 국방품질 경쟁력에서 해법을 찾다 - 한국방송뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UaWdpN3BKNzg4OGsxS1p4Qm5oNkYzQ1lOcDZvR2M0NW0wWl9Yb3paZzkzUW1IUGZVSDctd19XMm5WZmNEZXFOWmdRaUVFUjRZYjhfbE9lTFc2MjVXWnc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "K-방산 수출, 세계적 국방품질 경쟁력에서 해법을 찾다 한국방송뉴스",
-      "publishedAt": "2026-07-16T07:46:41.000Z",
+      "id": "098d2727ec9f1465",
+      "title": "대한민국, 세계유산 해석의 미래를 논하다 - 외교문화뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13V0UxTXJ0REZBQWFtZS16X1YxTXdoM3JBX0ctZ3F0TVhSVWRjazlSWTlZSG5KVk1oSHVOR296SDZ4UVpjcFBNTFRDS1BndlZKY2dhYzJhUUYwSU5YSVdnODhRSUQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "대한민국, 세계유산 해석의 미래를 논하다 외교문화뉴스",
+      "publishedAt": "2026-07-19T08:33:58.000Z",
       "rank": 5
     },
     {
-      "id": "0dc3c504e4a269e7",
-      "title": "“GS칼텍스, 디지털·AI 기술 활용 ‘대정비작업’ 완료했다” - 에너지데일리",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKaWVvdDlIeVdhZ3NxZmEyQWpXZWplemJuVkhIcjNPZV9yeWloUWZWSm1EOFZuUE5CX0RvQVkyOWpISnZTWTMzN1dtOHNXM2JtaXZHTE1SSXB6ZEkwcUNHZDltY1BDMFRtWERCQ0lQd2lzUQ?oc=5",
+      "id": "63b01e7fa4630b62",
+      "title": "Andersen Consulting Adds Collaborating Firm Smartbridge - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWC1KVkpGaTlDcmU1MWU5ZUgzNGF5SXlMb29YMkZvVko4OUx2U203RjhTMkw3X0N6X1hfbDhOekFNdy1YWVFNRFhlbVlaSUttLXFjYmh3YncyblFjZWZ3?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "“GS칼텍스, 디지털·AI 기술 활용 ‘대정비작업’ 완료했다” 에너지데일리",
-      "publishedAt": "2026-07-16T07:30:42.000Z",
+      "summary": "Andersen Consulting Adds Collaborating Firm Smartbridge 뉴스와이어",
+      "publishedAt": "2026-07-19T05:15:00.000Z",
       "rank": 6
     },
     {
-      "id": "96322cb0fc84394c",
-      "title": "대구 수성구, AI 행정혁신 해법 찾는다…‘수미창조포럼’ 개최 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sTTRfZmlRZnN4Y1FuZ0hLMHd2OVpZQ2ZjMTd1VkNZd18yOTFzVUZRNlNFTy1yTDEwTVhwQW0wSi0wUQ?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "대구 수성구, AI 행정혁신 해법 찾는다…‘수미창조포럼’ 개최 브레이크뉴스",
-      "publishedAt": "2026-07-16T06:53:55.000Z",
+      "id": "0d3bc0a500fadef0",
+      "title": "국립공주대 사범대학 경영·금융교육과, 한국상업경영학회 3년 연속 학술상 수상 쾌거 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42RFdtT2hWeFV1Ql8wVl9GNHZfZTVtTnhiYTF1Y1ZOQldBOVFkTGhNN3BzSFFNTExtSVJOaXNjNjVTRGFIQTZPZ2Z5ZTQtWXNHMHdHSjBzbWVyT2x2RGJpcjVqaDB3YldhaE9yQTVBY9IBc0FVX3lxTE0xS2tNMHpockJqbllwWmItM1dmX2k2V0pRWjMtMW1YT3lJZDBfQm5hVEFnTWk0OW55NTQzcUwwY2lJMVdyN2l5RmpjdnMwVjJUSnkwOG5jUllaSzZ0Ui0wNjItcmJjWW1PWllhMXFmR3pmQkE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "국립공주대 사범대학 경영·금융교육과, 한국상업경영학회 3년 연속 학술상 수상 쾌거 대전일보",
+      "publishedAt": "2026-07-19T03:26:00.000Z",
       "rank": 7
     },
     {
-      "id": "925af6260cd0380e",
-      "title": "MSD Korea backs AI healthcare startups for global expansion - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WTDRha21aN1BGdk8yR3pxcWVMSGpBdDRtY0ZKTkVYblBqZnNjUHZ5MV9yQ1VTMWJpZVRKZnFJUG9nOGVzMjB2aXpWdWJvZVZrcUJHR3ZZSThJbmNVOEswMQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "MSD Korea backs AI healthcare startups for global expansion 네이트",
-      "publishedAt": "2026-07-16T05:26:00.000Z",
+      "id": "7877339f220781f8",
+      "title": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSTQ5Z2JwbVd4OEJTV29UZl9kWWJfM3JKd2c0QlFwUFlVcXFYbmx4ZGlrNmZGd1lyQmpUVlQtUjY2b3FwWC1hOUUyYW9yZ0hrU2c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다 매일경제",
+      "publishedAt": "2026-07-18T19:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "155c8082b70a9d94",
+      "title": "Celebrating 2 million with you!",
+      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/AopewjYV1Ho/hqdefault.jpg",
+      "publishedAt": "2026-07-19T18:46:37.000Z",
+      "viewCount": 0
+    },
     {
       "id": "646a21acef806ad8",
       "title": "Get started with the Interactions API",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0lbMSxSJN8c/hqdefault.jpg",
       "publishedAt": "2026-07-16T18:02:54.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "aff85b288714f7a9",
-      "title": "ChatGPT can now complete tasks on your computer",
-      "url": "https://www.youtube.com/watch?v=dB6pOolO7io",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/dB6pOolO7io/hqdefault.jpg",
-      "publishedAt": "2026-07-16T18:00:16.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-18T02:32:44.000Z"
+      "updatedAt": "2026-07-19T02:46:34.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
