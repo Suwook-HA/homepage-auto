@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-20T03:21:32.245Z",
-  "projectsCheckedAt": "2026-07-20T03:21:32.245Z",
-  "projectsUpdatedAt": "2026-07-20T03:21:32.245Z",
+  "updatedAt": "2026-07-21T02:40:16.847Z",
+  "projectsCheckedAt": "2026-07-21T02:40:16.847Z",
+  "projectsUpdatedAt": "2026-07-21T02:40:16.847Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-20T03:21:32.245Z",
+    "checkedAt": "2026-07-21T02:40:16.847Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "1b43e7023c1fec18",
-      "title": "GC녹십자의료재단, 국내 임상검사 전문의료기관 최초 ISO 45001 인증 획득 - 뉴스인",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTGQwVFBnWm1UbjdaRlRfa1R6R3hfWldOWFc2dVl5elFSaFJVbTBYRk14TXRLeG8wSGFwNEJYbzA5YmFxN0JoeFYzcmJPVnRvYm8zallfYWVSZzJENldnREJvbzlPa3EtVk0w?oc=5",
+      "id": "ae6c0383036c6300",
+      "title": "[헬스 HOT 뉴스] GC녹십자의료재단, 'ISO 45001' 인증 획득…\"국내 임상검사 전문의료기관 최초\" - 비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50WUNnUlEzbUZIM0dFMzlEeGdBNVN2MXJIOHd3LXU0aWdBRDQ0R0RRVW1FS1kyQ190OXB6aU95NmxlUWlzTGRJZktlZVhlN1F0NDRidnJKOTdncTRLUnNlR3BvbnJlQlo1WXc?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "GC녹십자의료재단, 국내 임상검사 전문의료기관 최초 ISO 45001 인증 획득 뉴스인",
-      "publishedAt": "2026-07-20T02:21:27.000Z",
+      "summary": "[헬스 HOT 뉴스] GC녹십자의료재단, 'ISO 45001' 인증 획득…\"국내 임상검사 전문의료기관 최초\" 비즈월드",
+      "publishedAt": "2026-07-21T01:58:00.000Z",
       "rank": 1
     },
     {
-      "id": "c070c7a266a85e69",
-      "title": "에이오팜, AFPRO 2026서 'AI 기반 농산물 품질 검사 시스템' 소개해…\"데이터 기반 품질 선별로 미래 농업 혁신!\" - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IcHNRc19EM2h1VjR3dy1RWk1RWjlNT1AxVjhoT3ZmcHU3S21xMVp5N3NMaVNfckNLQUZwUnhpQWhYMFoxT1Y5M1VwSUNGUXpyTGp3?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "에이오팜, AFPRO 2026서 'AI 기반 농산물 품질 검사 시스템' 소개해…\"데이터 기반 품질 선별로 미래 농업 혁신!\" 네이트",
-      "publishedAt": "2026-07-20T02:31:00.000Z",
+      "id": "631b8f4d6590e79c",
+      "title": "롯데건설, 지속가능경영보고서 발간…'4대 핵심 주제' 조명 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84X1MyVkphR1hPc1lHRk1Cc2ZGYUt0Ui03QU1BdWprWUZjY2lrUlRzYVVWbVJxZXBxaGNOcnRnUk5fV0pxbXVhVi0wYUlxdTBWWVhJ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "롯데건설, 지속가능경영보고서 발간…'4대 핵심 주제' 조명 네이트",
+      "publishedAt": "2026-07-20T23:43:00.000Z",
       "rank": 2
     },
     {
-      "id": "3cc455aace08a42a",
-      "title": "Ant International’s Alipay+ Connects Argentina's National QR Payment Scheme via PVS, Enabling for Cross-Border Digital Payment Nationwide at Millions of Merchants - 세계뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQcnJ0OVh1SkI2Y1lmSTZFR0hkTXd1dWpHZzh0RHVDY1FCd0NvX1lpQ0xRZGxIMHd5bkl3Z3ExdnptOTFkTmR3YVJNaVBKTDV2LXphSHZvRVkzNnV6SkFNQzlmYVFqd1NQMU42VmFrMDA2SkpW?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Ant International’s Alipay+ Connects Argentina's National QR Payment Scheme via PVS, Enabling for Cross-Border Digital Payment Nationwide at Millions of Merchants 세계뉴스통신",
-      "publishedAt": "2026-07-20T00:41:29.000Z",
+      "id": "1623ad47c1f96bcf",
+      "title": "AI 데이터 품질부터 환각·에이전트 추론 실패까지 30개 자동 검사로 지속 검증 - 지티티코리아",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tREdvcHFtLVJLVURZcGVYbXJKQ09fTFRFNkRrX0c0dGF3OXd2eWFZbzhWRlk3QUZHLXdFUU1yU1h4QjVpUlg3dFJtRnc4QjRNbXZ4SEtqN1JyT0ZfdXQ4LU12VUQweVZXNmc?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "AI 데이터 품질부터 환각·에이전트 추론 실패까지 30개 자동 검사로 지속 검증 지티티코리아",
+      "publishedAt": "2026-07-20T16:00:00.000Z",
       "rank": 3
     },
     {
-      "id": "d1b34f679255ea1a",
-      "title": "씨엔알리서치, ‘데이터 중심 글로벌 CRO’ 도약…“경쟁력은 ‘데이터’와 ‘AI’” - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbXdaRmZqTDBiS2xNWlhicWpiNE5pU2FsaXpnckhnUWVDUUoyZzNtc0ZWZnFMWVAwUGw5TmM3RTZsVXNjTVlHNVRBdGhnZlFPNzlwQnBKdnJMWUpSV1R0LVc1WDVhNWw2cWJybdIBcEFVX3lxTE5OcENkZGlvRnBZTkdHWDhNZkxVRi1yOVBndVVXUkhsSlU3QjlRQW1ubDRnY3hxdElRcUFuM2E3VlV1Z0ZxZTZ3TUtsX1MxdGJQUllVTlhleVBHclFxYmMxd0U3WU9zMEtySXZPQVZ3Z2U?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "씨엔알리서치, ‘데이터 중심 글로벌 CRO’ 도약…“경쟁력은 ‘데이터’와 ‘AI’” 더바이오",
-      "publishedAt": "2026-07-19T21:40:00.000Z",
+      "id": "e13e6d0b47c2d052",
+      "title": "日, 국제표준화 총괄 사령탑 신설…글로벌 시장 공략 뒷받침 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaUF9RZWVFSE54VmRtbjZFbUk2NWk2UjdRUFBfbFh2VDhwdzduSENZblZvbVRMYVVlVlZTc0pxbkRJdjN1aVE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "日, 국제표준화 총괄 사령탑 신설…글로벌 시장 공략 뒷받침 v.daum.net",
+      "publishedAt": "2026-07-20T09:24:00.000Z",
       "rank": 4
     },
     {
-      "id": "098d2727ec9f1465",
-      "title": "대한민국, 세계유산 해석의 미래를 논하다 - 외교문화뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13V0UxTXJ0REZBQWFtZS16X1YxTXdoM3JBX0ctZ3F0TVhSVWRjazlSWTlZSG5KVk1oSHVOR296SDZ4UVpjcFBNTFRDS1BndlZKY2dhYzJhUUYwSU5YSVdnODhRSUQ?oc=5",
+      "id": "20e5e5d94a7e587a",
+      "title": "GC녹십자의료재단, 'ISO 45001' 획득…안전한 근무환경 입증 - 메디파나뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EME0zdU9DejRfTnBtV1J3Qnk1c2J1VTVqYV84RGp0bWpaNDR1eUR1b2ZtQjR5S0I4WmR1X3FzNVVFQnMyTERUWEFWUHRwcVV3V3E0TWZGc0FwS3hkcUlGRE5LZjJKdjJqYUEw?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "대한민국, 세계유산 해석의 미래를 논하다 외교문화뉴스",
-      "publishedAt": "2026-07-19T08:33:58.000Z",
+      "summary": "GC녹십자의료재단, 'ISO 45001' 획득…안전한 근무환경 입증 메디파나뉴스",
+      "publishedAt": "2026-07-20T01:22:16.000Z",
       "rank": 5
     },
     {
-      "id": "63b01e7fa4630b62",
-      "title": "Andersen Consulting Adds Collaborating Firm Smartbridge - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWC1KVkpGaTlDcmU1MWU5ZUgzNGF5SXlMb29YMkZvVko4OUx2U203RjhTMkw3X0N6X1hfbDhOekFNdy1YWVFNRFhlbVlaSUttLXFjYmh3YncyblFjZWZ3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Andersen Consulting Adds Collaborating Firm Smartbridge 뉴스와이어",
-      "publishedAt": "2026-07-19T05:15:00.000Z",
+      "id": "a72fd9a1d5093c98",
+      "title": "김해 기술혁신 선도기업 8곳 선정… 전략산업 R&D 지원 확대 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaTVpHZHpWT0tWSHBQUGN4M2VOM2VDb0tLZmlSZkNMN21GcmNFZGZFZnJSMWN4M0lMaHhOYmtfTzg1NXhaeHZVX2VWMGlES2VENm92WTNaLTRHVUo0QjZRWkp3M2t6b3FY?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "김해 기술혁신 선도기업 8곳 선정… 전략산업 R&D 지원 확대 팍스경제TV",
+      "publishedAt": "2026-07-20T08:35:30.000Z",
       "rank": 6
     },
     {
-      "id": "0d3bc0a500fadef0",
-      "title": "국립공주대 사범대학 경영·금융교육과, 한국상업경영학회 3년 연속 학술상 수상 쾌거 - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42RFdtT2hWeFV1Ql8wVl9GNHZfZTVtTnhiYTF1Y1ZOQldBOVFkTGhNN3BzSFFNTExtSVJOaXNjNjVTRGFIQTZPZ2Z5ZTQtWXNHMHdHSjBzbWVyT2x2RGJpcjVqaDB3YldhaE9yQTVBY9IBc0FVX3lxTE0xS2tNMHpockJqbllwWmItM1dmX2k2V0pRWjMtMW1YT3lJZDBfQm5hVEFnTWk0OW55NTQzcUwwY2lJMVdyN2l5RmpjdnMwVjJUSnkwOG5jUllaSzZ0Ui0wNjItcmJjWW1PWllhMXFmR3pmQkE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "국립공주대 사범대학 경영·금융교육과, 한국상업경영학회 3년 연속 학술상 수상 쾌거 대전일보",
-      "publishedAt": "2026-07-19T03:26:00.000Z",
+      "id": "eb9d3587c39c6648",
+      "title": "AI안전신뢰표준화포럼, TTA 표준화 과제 3건 채택 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WTkdOQVhaMVdtVHdsb2JoVmZPTFc1V3V2akFleG1SMFAtT0d6bFNkcmJSNlA0eGFmM1RWeUVqRm5uZkFRalVaQTBzaGRCMGZSU2pBNkFLcWlMbXZUbG1FSmw3amd4aDVZ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI안전신뢰표준화포럼, TTA 표준화 과제 3건 채택 테크월드",
+      "publishedAt": "2026-07-20T07:10:00.000Z",
       "rank": 7
     },
     {
-      "id": "7877339f220781f8",
-      "title": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSTQ5Z2JwbVd4OEJTV29UZl9kWWJfM3JKd2c0QlFwUFlVcXFYbmx4ZGlrNmZGd1lyQmpUVlQtUjY2b3FwWC1hOUUyYW9yZ0hrU2c?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "버핏 지표로 ETF 만들었더니 … 미친 변동장서 우뚝 섰다 매일경제",
-      "publishedAt": "2026-07-18T19:00:00.000Z",
+      "id": "f5be4a408a9b6583",
+      "title": "LG·유네스코, 세계 첫 AI 윤리 글로벌 교육 플랫폼 공개…신뢰형 AI 시대 연다 - 이코노미사이언스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZldGRVAxd21fSnBNMnNpQmkyRUcxeDFITGpKR0R6WlBGNFJnNkVDV2RxNnFHMTBWMDU1ZlVwYzFrR1VTbi14djdXSV92OHRvMjJJcURNUVFMSkw1X25wcjFVZDIzT1RCNTh4SmxISQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "LG·유네스코, 세계 첫 AI 윤리 글로벌 교육 플랫폼 공개…신뢰형 AI 시대 연다 이코노미사이언스",
+      "publishedAt": "2026-07-20T06:30:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-19T02:46:34.000Z"
+      "updatedAt": "2026-07-20T03:25:37.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
