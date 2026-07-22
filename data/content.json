@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-21T02:40:16.847Z",
-  "projectsCheckedAt": "2026-07-21T02:40:16.847Z",
-  "projectsUpdatedAt": "2026-07-21T02:40:16.847Z",
+  "updatedAt": "2026-07-22T02:38:08.243Z",
+  "projectsCheckedAt": "2026-07-22T02:38:08.243Z",
+  "projectsUpdatedAt": "2026-07-22T02:38:08.243Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,54 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-21T02:40:16.847Z",
+    "checkedAt": "2026-07-22T02:38:08.243Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "ae6c0383036c6300",
-      "title": "[헬스 HOT 뉴스] GC녹십자의료재단, 'ISO 45001' 인증 획득…\"국내 임상검사 전문의료기관 최초\" - 비즈월드",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50WUNnUlEzbUZIM0dFMzlEeGdBNVN2MXJIOHd3LXU0aWdBRDQ0R0RRVW1FS1kyQ190OXB6aU95NmxlUWlzTGRJZktlZVhlN1F0NDRidnJKOTdncTRLUnNlR3BvbnJlQlo1WXc?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[헬스 HOT 뉴스] GC녹십자의료재단, 'ISO 45001' 인증 획득…\"국내 임상검사 전문의료기관 최초\" 비즈월드",
-      "publishedAt": "2026-07-21T01:58:00.000Z",
+      "id": "707857b5b9720d43",
+      "title": "Benjamin Clinic Director Dr. Junho Shim \"LuskinX Will Set a New Standard for Data-Driven Skin Analysis\" - 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBST2JOaVk3WU9xbmJPUERaczFWWmdEcjNwUDBvS3hXQ0tlejlyN2FSQlV0WGplRjRxWVB0X2ZuSmF4WmVraFRRLVEtY1pvUHBBS2JXWmhPdEdhWTFET0lnLXVB?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Benjamin Clinic Director Dr. Junho Shim \"LuskinX Will Set a New Standard for Data-Driven Skin Analysis\" 미주중앙일보",
+      "publishedAt": "2026-07-22T01:38:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "f2def9a5397b790a",
+      "title": "국제AI교육원, ISO/IEC 42001 심사원 대상 정보보안·개인정보보호 교육 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pcDlxdDJDRlk4bXM2cGJUd29oa2V0VHJzR0pfaFBOZzlOaExoMElDMmhkdm5YUTM4WGRZaTR1cTljYVd4allBdDZUckw3cm10UmxELThQUVZENUF6dnhRM3l5ZE0?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "국제AI교육원, ISO/IEC 42001 심사원 대상 정보보안·개인정보보호 교육 서울경제TV",
+      "publishedAt": "2026-07-21T04:39:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "a5bdc7ffe3a2fdfc",
+      "title": "\"AI 시대 승부처는 전력\"...LS일렉트릭, 800V DC 표준화 도전 - 에너지신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RUXhIaExHWTdkZXROODlYbXB0TXhkOFU2Z1lNOElEdUs0Y2VNT3RIT2M5VHhLZXA1TDlRS1pGclpJeFQyRkxVcGlDX2VjLUh6NmZOM0NWZjBYeDBvOV9UcVJuRlJOeVlNMDQtNktZZkY?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"AI 시대 승부처는 전력\"...LS일렉트릭, 800V DC 표준화 도전 에너지신문",
+      "publishedAt": "2026-07-22T01:01:59.000Z",
+      "rank": 3
+    },
+    {
+      "id": "7dc47f50b2dbbc65",
+      "title": "대흥정보, ‘AI 기반 실내 주차 유도 서비스’로 IP-R&D 전략지원 사업 선정 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKLXdkcVRzZklSVjJlLU9hbmo1emdwRElFWGZ4VkhQNmdtSnVLS0tLdnJ2UVdrVEV6NE4yUGlBblRyeFhuNl9aalpPUnlqMEdhYnZoUS1aeGZidUhXRUU4?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "대흥정보, ‘AI 기반 실내 주차 유도 서비스’로 IP-R&D 전략지원 사업 선정 뉴스와이어",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "f8bdaf445db2d96a",
+      "title": "고령군, ‘가야식혜옥’ 디지털전환 지원사업 참여기업 선정…제조 경쟁력 강화 나선다 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydzBQZE1YaENVOEVQakpmR0lvb0RVQk1rWFdWSGw0WVhpVlhtRjJIWC1tOWJOOTRzSTdWakhnNmVWQQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "고령군, ‘가야식혜옥’ 디지털전환 지원사업 참여기업 선정…제조 경쟁력 강화 나선다 브레이크뉴스",
+      "publishedAt": "2026-07-21T04:45:29.000Z",
+      "rank": 5
     },
     {
       "id": "631b8f4d6590e79c",
@@ -74,7 +110,16 @@
       "source": "Google News: International Standardization",
       "summary": "롯데건설, 지속가능경영보고서 발간…'4대 핵심 주제' 조명 네이트",
       "publishedAt": "2026-07-20T23:43:00.000Z",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "id": "b01de30c3e93fa58",
+      "title": "토요타 \"일본차, 부품 표준화로 본격 대응\"…中 전기차 공세에 정면 돌파 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGE5a2ZDSnA4V3YwTlZpYnRMTDJfM0M5dG1FbGNtblkzSkZKc0dkNTJPaFdGUTd1cmpsWWR4UWdpZXVvZmZLcTVIOHVoM09TRFFWTGg1NUJGd05nQ1BBR0RoSzFDRmV0dEpqQ3MtV19uT1NOaU5feXhjS05DT1FjM1FHYmlDWVdP?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "토요타 \"일본차, 부품 표준화로 본격 대응\"…中 전기차 공세에 정면 돌파 글로벌이코노믹",
+      "publishedAt": "2026-07-20T21:42:18.000Z",
+      "rank": 7
     },
     {
       "id": "1623ad47c1f96bcf",
@@ -83,125 +128,80 @@
       "source": "Google News: data quality standard",
       "summary": "AI 데이터 품질부터 환각·에이전트 추론 실패까지 30개 자동 검사로 지속 검증 지티티코리아",
       "publishedAt": "2026-07-20T16:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "e13e6d0b47c2d052",
-      "title": "日, 국제표준화 총괄 사령탑 신설…글로벌 시장 공략 뒷받침 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaUF9RZWVFSE54VmRtbjZFbUk2NWk2UjdRUFBfbFh2VDhwdzduSENZblZvbVRMYVVlVlZTc0pxbkRJdjN1aVE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "日, 국제표준화 총괄 사령탑 신설…글로벌 시장 공략 뒷받침 v.daum.net",
-      "publishedAt": "2026-07-20T09:24:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "20e5e5d94a7e587a",
-      "title": "GC녹십자의료재단, 'ISO 45001' 획득…안전한 근무환경 입증 - 메디파나뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EME0zdU9DejRfTnBtV1J3Qnk1c2J1VTVqYV84RGp0bWpaNDR1eUR1b2ZtQjR5S0I4WmR1X3FzNVVFQnMyTERUWEFWUHRwcVV3V3E0TWZGc0FwS3hkcUlGRE5LZjJKdjJqYUEw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "GC녹십자의료재단, 'ISO 45001' 획득…안전한 근무환경 입증 메디파나뉴스",
-      "publishedAt": "2026-07-20T01:22:16.000Z",
-      "rank": 5
-    },
-    {
-      "id": "a72fd9a1d5093c98",
-      "title": "김해 기술혁신 선도기업 8곳 선정… 전략산업 R&D 지원 확대 - 팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaTVpHZHpWT0tWSHBQUGN4M2VOM2VDb0tLZmlSZkNMN21GcmNFZGZFZnJSMWN4M0lMaHhOYmtfTzg1NXhaeHZVX2VWMGlES2VENm92WTNaLTRHVUo0QjZRWkp3M2t6b3FY?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "김해 기술혁신 선도기업 8곳 선정… 전략산업 R&D 지원 확대 팍스경제TV",
-      "publishedAt": "2026-07-20T08:35:30.000Z",
-      "rank": 6
-    },
-    {
-      "id": "eb9d3587c39c6648",
-      "title": "AI안전신뢰표준화포럼, TTA 표준화 과제 3건 채택 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WTkdOQVhaMVdtVHdsb2JoVmZPTFc1V3V2akFleG1SMFAtT0d6bFNkcmJSNlA0eGFmM1RWeUVqRm5uZkFRalVaQTBzaGRCMGZSU2pBNkFLcWlMbXZUbG1FSmw3amd4aDVZ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI안전신뢰표준화포럼, TTA 표준화 과제 3건 채택 테크월드",
-      "publishedAt": "2026-07-20T07:10:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "f5be4a408a9b6583",
-      "title": "LG·유네스코, 세계 첫 AI 윤리 글로벌 교육 플랫폼 공개…신뢰형 AI 시대 연다 - 이코노미사이언스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZldGRVAxd21fSnBNMnNpQmkyRUcxeDFITGpKR0R6WlBGNFJnNkVDV2RxNnFHMTBWMDU1ZlVwYzFrR1VTbi14djdXSV92OHRvMjJJcURNUVFMSkw1X25wcjFVZDIzT1RCNTh4SmxISQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "LG·유네스코, 세계 첫 AI 윤리 글로벌 교육 플랫폼 공개…신뢰형 AI 시대 연다 이코노미사이언스",
-      "publishedAt": "2026-07-20T06:30:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "155c8082b70a9d94",
-      "title": "Celebrating 2 million with you!",
-      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho",
+      "id": "7822b58913f8fe7b",
+      "title": "Don't Give Up on AI Chips Yet, Says JoAnne Feeney",
+      "url": "https://www.youtube.com/watch?v=yPvO6hXy48Q",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/yPvO6hXy48Q/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:54:26.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "8badaae5438c0183",
+      "title": "Moonshot's Kimi K3 Reshapes the AI Conversation, Says Bessemer Partner",
+      "url": "https://www.youtube.com/watch?v=NjcXd7YTRko",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/NjcXd7YTRko/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:52:01.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "922e0c918e5e3210",
+      "title": "Nvidia Rolls Out New Chips, WBD Deal In Limbo | Bloomberg Tech 7/21/2026",
+      "url": "https://www.youtube.com/watch?v=pKsEFQgpe-o",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/pKsEFQgpe-o/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:50:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "16818d491a6d1d59",
+      "title": "Nvidia Says Rubin AI Chips Are Shipping",
+      "url": "https://www.youtube.com/watch?v=M3O23nPqLns",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/M3O23nPqLns/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:48:05.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "90a8a080cb1d44bf",
+      "title": "New Way Now: Powering modern entrepreneurship at Shopify with Gemini Enterprise Agent Platform",
+      "url": "https://www.youtube.com/watch?v=xHD0-c9K-V0",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/xHD0-c9K-V0/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:22:52.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "292cfae8fb1bf7c1",
+      "title": "Plugins in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=pKwRNdDtai0",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/AopewjYV1Ho/hqdefault.jpg",
-      "publishedAt": "2026-07-19T18:46:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pKwRNdDtai0/hqdefault.jpg",
+      "publishedAt": "2026-07-21T18:00:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "646a21acef806ad8",
-      "title": "Get started with the Interactions API",
-      "url": "https://www.youtube.com/watch?v=iOK1-b_9Dlg",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/iOK1-b_9Dlg/hqdefault.jpg",
-      "publishedAt": "2026-07-17T23:00:34.000Z",
+      "id": "89051b9a8813f10b",
+      "title": "Google Cloud and NVIDIA: Building an AI Digital Twin Capsule",
+      "url": "https://www.youtube.com/watch?v=FK8lxq3g5Xc",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/FK8lxq3g5Xc/hqdefault.jpg",
+      "publishedAt": "2026-07-21T17:10:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "a15e5d9310439838",
-      "title": "China's Moonshot, Netflix's Slump & Greylock's $1.5B Bet | Bloomberg Tech 7/17/2026",
-      "url": "https://www.youtube.com/watch?v=j_dPrhjHky8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/j_dPrhjHky8/hqdefault.jpg",
-      "publishedAt": "2026-07-17T18:28:02.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "30d5dede3a46e468",
-      "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=TrjDdmn4JGc",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/TrjDdmn4JGc/hqdefault.jpg",
-      "publishedAt": "2026-07-17T17:10:39.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c66568c731287050",
-      "title": "Antigravity Arcade: From prompt to game in minutes",
-      "url": "https://www.youtube.com/watch?v=8I7wr2hYFec",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/8I7wr2hYFec/hqdefault.jpg",
-      "publishedAt": "2026-07-17T16:00:10.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a54b9100e3b7a478",
-      "title": "Eclipse Space's Huerta on SpaceX's Test Mission Delay",
-      "url": "https://www.youtube.com/watch?v=qN5MTwiP3j8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qN5MTwiP3j8/hqdefault.jpg",
-      "publishedAt": "2026-07-17T14:13:39.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2db2d70a9157f908",
-      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
-      "url": "https://www.youtube.com/watch?v=OHVu3Y4B3RI",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/OHVu3Y4B3RI/hqdefault.jpg",
-      "publishedAt": "2026-07-16T22:15:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f90aefcb90e8a3c8",
-      "title": "TSMC's Market Jolt, Saronic's Texas Bet and GameStop's eBay Bid | Bloomberg Tech 7/16/2026",
-      "url": "https://www.youtube.com/watch?v=0lbMSxSJN8c",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/0lbMSxSJN8c/hqdefault.jpg",
-      "publishedAt": "2026-07-16T18:02:54.000Z",
+      "id": "9a0b9f1564162e1c",
+      "title": "How Google Cloud and NVIDIA Power Physical AI: Creating Digital Twins and Training Robots with WPP",
+      "url": "https://www.youtube.com/watch?v=yn6IJDVnCTY",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/yn6IJDVnCTY/hqdefault.jpg",
+      "publishedAt": "2026-07-21T17:08:50.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-20T03:25:37.000Z"
+      "updatedAt": "2026-07-21T02:44:21.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
