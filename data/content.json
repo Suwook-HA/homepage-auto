@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-23T02:43:41.031Z",
-  "projectsCheckedAt": "2026-07-23T02:43:41.031Z",
-  "projectsUpdatedAt": "2026-07-23T02:43:41.031Z",
+  "updatedAt": "2026-07-24T02:39:38.088Z",
+  "projectsCheckedAt": "2026-07-24T02:39:38.088Z",
+  "projectsUpdatedAt": "2026-07-24T02:39:38.088Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-23T02:43:41.031Z",
+    "checkedAt": "2026-07-24T02:39:38.088Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "369212687dd0d482",
-      "title": "SKT, '로봇 데이터 팩토리' ITU-T 국제표준 과제 채택 … 피지컬 AI 표준화 주도 - 워크투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MR3ByVVoxRlUyTkxvUW9hWkd3WEhxVjUyV3RLa1FuMklTU2VwNUVWRm9yZzBZY3dwMFc0Q2NhNFFOajN4bWdGcjFVa2l3bmFhZENzejBLdGUyb19HRzltazdPcF9tZ0E3R3pKVA?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "SKT, '로봇 데이터 팩토리' ITU-T 국제표준 과제 채택 … 피지컬 AI 표준화 주도 워크투데이",
-      "publishedAt": "2026-07-23T02:26:59.000Z",
+      "id": "fa7308f5245a1581",
+      "title": "이노블록, AI 스마트공장 구축… 보도블록 제조 ‘지능형 DX’ 본격화 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVHIzcVMzQjdBTkZqWDhoVjlIOThtb2dGV1dUUldwN2ZaOHlOQ3R3dE9BNE9DS2poMFYwbnJOVEdFYmVUS2NralVoSUtVYV8wbjB2bnVRZnFuMzFRYlBOUmFyY2RTOFhnM0R3YWw2UTRxWlhEZkHSAWZBVV95cUxORE0yTzFsTERqWF9KZTJPS2JFOVB3UV84ejVvYXZnTlpoaVJxTHptLXE3aTQyU1k3bWl6MmMxSlZOS0FTZF80VEZuUFFKNmI2ZWZtODVLVnRpWDJqV1RzTTNZc0lRM3c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "이노블록, AI 스마트공장 구축… 보도블록 제조 ‘지능형 DX’ 본격화 동아일보",
+      "publishedAt": "2026-07-24T00:30:00.000Z",
       "rank": 1
     },
     {
-      "id": "464a50b268c77b9d",
-      "title": "피지컬 AI 기술 표준화 나선 SKT…ITU-T서 과제 채택 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GTmx0ZEVFeDdORGdYbVNGQW9oTTFsWFVJODNvSWNRcWdSRmJhMG1hV1gwVkhXZlhWOXlqNXRiWnd0SnJ6c1U1MUp0bmlOYVZGR2hITHFIclFtTkJaSHBheElB?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "피지컬 AI 기술 표준화 나선 SKT…ITU-T서 과제 채택 디지털데일리",
-      "publishedAt": "2026-07-23T01:55:47.000Z",
+      "id": "c309a8d134081aa1",
+      "title": "구로병원 개방형실험실, 지원기업에 홍보·R&D 실무전략 제시 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16VmRpNkZrX1lXeWM4aVJRandwdG1TWE5kdGdPVjhDM01OdzlDZmZYakFxbkhIMzFlck1qZUg5eVpjQ09hOGtnRktLZXdaNFluUi1NNzgtcTR6WTFKWUhsYnQ5SEhJT19yb1E?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "구로병원 개방형실험실, 지원기업에 홍보·R&D 실무전략 제시 의학신문",
+      "publishedAt": "2026-07-23T21:00:00.000Z",
       "rank": 2
     },
     {
-      "id": "0dadea8c496b6356",
-      "title": "SKT, 제네바 ITU-T서 '로봇 데이터 팩토리' 신규 표준화 과제 채택 - 퍼블릭뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZFNKMkFDUmF4ZkJ2aGw5XzgtWWNJbXZoeG1sVS1ocUpqSjlsREEtQUtWOGxoVERkMFNGbUpBaHNTY3Mxdm10SGU4U3pIanpTYmNRb01SMFNtczhvM2oyNEhFeXlrRnZISVRz?oc=5",
+      "id": "225872f6c9bf6b87",
+      "title": "SKT, ITU-T서 피지컬 AI 글로벌 표준화 과제 채택 - 데일리포스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04M201V0stdFR6WktacFZvRmhwV3BEREhpYkJ3SVQyN1FsNHhkdDBaYXg2eTBSbmxYMGhyLVZ0ZmM2WWRGbzU4VDFkcXZYNnhkQkZVcDhid0czS0YtS0ZIQU5lQTN3M19VSkNXU2tkY9IBc0FVX3lxTFAxUEpDMlRHWEVKdVllMnJlWmtoQ1dYWEtSMjVaZmhyY1l4REd5UDNWdVdOMm1GeFZIU2t3dEVpOTlCMElxZldwZTJnTGpPWGROcVJDeHJkZ1lTTTdmWjVFdEtPY0hWNHdjS1MtdnY3dnhrR2c?oc=5",
       "source": "Google News: ITU-T standardization",
-      "summary": "SKT, 제네바 ITU-T서 '로봇 데이터 팩토리' 신규 표준화 과제 채택 퍼블릭뉴스통신",
-      "publishedAt": "2026-07-23T00:49:03.000Z",
+      "summary": "SKT, ITU-T서 피지컬 AI 글로벌 표준화 과제 채택 데일리포스트",
+      "publishedAt": "2026-07-23T08:47:07.000Z",
       "rank": 3
     },
     {
-      "id": "1e04031048c6cd5d",
-      "title": "SKT, 로봇 AI 학습데이터 국제표준화 착수…ITU-T 과제 채택 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rdkxDSXdWa0VjcnB6RF9mejhicnhha0dHWUZyalhGV0pzMlBVR2MtVlhJaGVsd1ZybmJmWlBRbHE2X01EbVY1akdCWi05bzlFWVB2VlNlSTRUX2w2SEpxRGY4SzM?oc=5",
+      "id": "158da987c92de12c",
+      "title": "SKT Moves Beyond Digital Twins to Lead Global Standards for Physical AI and Robotics - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZjZ6QWt4Z1V4Q3RreUdqaFBJWmZpTEF0c1FrN2o0WTJuVW03MG5zWmU2NmdmRDQwc1lSN2FfT1JaZ0dpNUpzYzVDUHVpMTc3SlJxYWd3RzlRRUdHN0kteEs2X21WVUI0Z2g2Z2VIY3M?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "SKT, 로봇 AI 학습데이터 국제표준화 착수…ITU-T 과제 채택 서울경제TV",
-      "publishedAt": "2026-07-23T00:46:10.000Z",
+      "summary": "SKT Moves Beyond Digital Twins to Lead Global Standards for Physical AI and Robotics Korea IT Times",
+      "publishedAt": "2026-07-23T05:20:23.000Z",
       "rank": 4
     },
     {
-      "id": "d3f3b33cb59ef6c5",
-      "title": "K-Data Strengthens Quality Management for Data Voucher Program to Boost Reliability and Usability - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vRHJ2bmk0T3BDSnN5dktPdlpIS1dBQkl3MjNOaHFvZkpUbGozbHpSV3h5S0tjOU8zR2Q2b0NoOGFzUERLU3R4bmIyMHhablJqY0xfbVBud2RVWjM5Ym1HcGFWUFc2c3M4MGZfenlleVM?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "K-Data Strengthens Quality Management for Data Voucher Program to Boost Reliability and Usability Korea IT Times",
-      "publishedAt": "2026-07-22T23:25:34.000Z",
+      "id": "35bc1354168ef9e3",
+      "title": "GC녹십자의료재단, ISO 45001 인증 획득 - 청년의사",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MbHZvNTY3TWl0V2V3Z2Fqd2lXSWZ2bjFnZXh0QXVJc3NTd0EwbDF5SE5iX3ZGWXNaa3ZFczg2b3h6dGVFZl9la2RjT0Z2T1dpeFA0SzV4cVgzNXh0bVptUzVqTHpPdThCQW1QczZwRdIBc0FVX3lxTE1oZVJ4ODhVVmp4TjVZaDdiUGZKd2ZmbktGQ21MZDNGRzM0VEdjSm4zN2JWNnJpbHhyVGhmVXhMMEhSQXFCaWpXeTliLVppSzRiVXBPT08xTlpjNks5bVpQQ1FpTm12bjdUdmQ5T1RxZFdlUkE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "GC녹십자의료재단, ISO 45001 인증 획득 청년의사",
+      "publishedAt": "2026-07-23T03:03:18.000Z",
       "rank": 5
     },
     {
-      "id": "9928f52dbfc6f219",
-      "title": "삼녹, DX·AX 기반 스마트공장 구축 본격 추진 - 새거제신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSVh0WFc2cjNCS0NCck1MS3dMcmJjZk1GLVJaZUlyVENPLUlLcHpnTjN0UUxtVE1MWjBuQnZOS2psUUdFZldTWFRFMVRXVWlfQXRsNmZER29weHN5MUtJNVMybnFZX21wcXBJ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "삼녹, DX·AX 기반 스마트공장 구축 본격 추진 새거제신문",
-      "publishedAt": "2026-07-23T02:36:24.000Z",
+      "id": "d0679159b9ac6442",
+      "title": "SK텔레콤, 로봇 데이터 활용체계 국제표준화 추진 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMHpRM3VnVUR1d0s4bVluQ2hIUEFRQ1NLeVg0c2M0eS1SaHdKLUhJcmkyX2kxOG1BZC11Y2U5a09iRTNBYnZoUHVoNVRkalpFTkNJQm9uREVnX25rdVJOMTZqWTZfeGF1ZVRaV1NQN1RXUQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "SK텔레콤, 로봇 데이터 활용체계 국제표준화 추진 웹이코노미",
+      "publishedAt": "2026-07-23T10:41:30.000Z",
       "rank": 6
     },
     {
-      "id": "6ed770176225cec5",
-      "title": "SK텔레콤, 로봇 AI 학습 데이터 국제표준화 나선다 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGlKRTBYZmtQVHh5NnQ0cFZOcUxEZTlGbU93RFFEeWN4THBFWHFCcklUZFE1MGVYb3MtQzdyOFc4V0tZZHFIRVhZSkhXUW9nLWtmeThtSDhERXloTDJWcFBxZjBVb1lxcTlvS1BqM1FOLW0xNFV0TlNVdUJEVzJ0REIxbw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SK텔레콤, 로봇 AI 학습 데이터 국제표준화 나선다 조선일보",
-      "publishedAt": "2026-07-23T02:14:00.000Z",
+      "id": "bc751df25b90196f",
+      "title": "[PRNewswire] DEKRA Korea Partners with KTL - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbDI3d0l1VGtMSTRkRnFYX2VZLU0xSEt3VFdrWk1MREx4OGlCZGk4Ul9kQVhyWE85bjhLcm1kMTVaQ25qM3dtcE1HUzYyMHA1LTBz?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[PRNewswire] DEKRA Korea Partners with KTL 네이트",
+      "publishedAt": "2026-07-23T09:52:00.000Z",
       "rank": 7
     },
     {
-      "id": "65e22f69659e3373",
-      "title": "Korean firm launches AI-ready museum archive platform - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tME5qc0lJMVd3YUZpblpPM1BTcThibkxIWTFMc0dLRERVYjJKLUtmNXF6UkRlYkswMXBvazRabEduWUJBbFBldzNSdWhQWXRUSW1yQ1U1eEFGb2psRjZZVA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Korean firm launches AI-ready museum archive platform 네이트",
-      "publishedAt": "2026-07-23T01:12:00.000Z",
+      "id": "f999986a1b3d3ddf",
+      "title": "SKT, 피지컬 AI 글로벌 기술 표준화 추진…로봇 간 데이터 호환 '기대' - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SLUstSW9XNjc3X29QR1BiVWpNZ2wyOG96THpDNml2aHB3Q0ttRFVHVTRLcVdmQ3pJOUpoeWZlMHRlZkc4Ty1xdEV4NThUTnBNQzdtekVFLVE2UEJwS2wxWHczeVliYm5k?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "SKT, 피지컬 AI 글로벌 기술 표준화 추진…로봇 간 데이터 호환 '기대' 테크월드",
+      "publishedAt": "2026-07-23T08:43:44.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "9cbcbddcbf0eab32",
-      "title": "How European Small Businesses Are Using ChatGPT and Codex | OpenAI Academy",
-      "url": "https://www.youtube.com/watch?v=4Nv--b12hxQ",
+      "id": "428476589c657e1d",
+      "title": "Apple Prepping iMac, MacBooks Overhaul to Meet AI Demand",
+      "url": "https://www.youtube.com/watch?v=2ckOjFrGz5c",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/2ckOjFrGz5c/hqdefault.jpg",
+      "publishedAt": "2026-07-23T21:46:21.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "12491c2617afcd0a",
+      "title": "Palm Beach Rejects Data Center Near Mar-a-Lago",
+      "url": "https://www.youtube.com/watch?v=IDLUJK8mLlI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/IDLUJK8mLlI/hqdefault.jpg",
+      "publishedAt": "2026-07-23T21:26:31.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "4a6c5b0acc969887",
+      "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
+      "url": "https://www.youtube.com/watch?v=t8Ej9aeW388",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/4Nv--b12hxQ/hqdefault.jpg",
-      "publishedAt": "2026-07-22T20:43:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/t8Ej9aeW388/hqdefault.jpg",
+      "publishedAt": "2026-07-23T20:50:48.000Z",
       "viewCount": 0
     },
     {
-      "id": "93a7b9e7042e888b",
-      "title": "How California Small Businesses Are Using ChatGPT | OpenAI Academy",
-      "url": "https://www.youtube.com/watch?v=cFyFF3Ad2aM",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/cFyFF3Ad2aM/hqdefault.jpg",
-      "publishedAt": "2026-07-22T20:37:36.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "41400494a8f1dba9",
-      "title": "OpenAI Hack Is Day One of AI Cybersecurity: HackerOne",
-      "url": "https://www.youtube.com/watch?v=FNjmHbgWteE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/FNjmHbgWteE/hqdefault.jpg",
-      "publishedAt": "2026-07-22T18:21:14.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f27de1561d22ed66",
-      "title": "OpenAI AI Models Hack Hugging Face During Test",
-      "url": "https://www.youtube.com/watch?v=CiWmlDkqYbA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/CiWmlDkqYbA/hqdefault.jpg",
-      "publishedAt": "2026-07-22T18:01:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "f4d11255823616d6",
-      "title": "OpenAI's AI Hack, AMD's Anthropic Bet & Apple's Next Macs | Bloomberg Tech 7/22/2026",
-      "url": "https://www.youtube.com/watch?v=Dl45O-aeo7g",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Dl45O-aeo7g/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:58:49.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "433415e8132d181e",
-      "title": "Menlo Ventures’ Matt Murphy on why Anthropic is winning (and it's not the model) | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=W_pBgqR4i8I",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/W_pBgqR4i8I/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:47:50.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "32bc59c9f7383a88",
-      "title": "How Demand for AI Compute Is Just Scratching the Surface",
-      "url": "https://www.youtube.com/watch?v=dwd3gFOFB7M",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/dwd3gFOFB7M/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:39:41.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b595b2c5432a9fde",
-      "title": "New Way Now: LetsData uses Gemini to detect AI-powered misinformation and deepfakes in real-time",
-      "url": "https://www.youtube.com/watch?v=58j_6u7CziM",
+      "id": "585fc2e3a51c0045",
+      "title": "New Way Now: EVERSANA launches the industry's first pharma marketing “AI Agency Platform”",
+      "url": "https://www.youtube.com/watch?v=-gxZdFOWSx0",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/58j_6u7CziM/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:22:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-gxZdFOWSx0/hqdefault.jpg",
+      "publishedAt": "2026-07-23T20:24:18.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "428518b93471c955",
+      "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify & Virgin Atlantic",
+      "url": "https://www.youtube.com/watch?v=zq88iLsSfMA",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/zq88iLsSfMA/hqdefault.jpg",
+      "publishedAt": "2026-07-23T20:23:01.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9d3023c53bc0f989",
+      "title": "Building with ChatGPT Voice | OpenAI",
+      "url": "https://www.youtube.com/watch?v=E0ZMOschrTU",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/E0ZMOschrTU/hqdefault.jpg",
+      "publishedAt": "2026-07-23T19:40:16.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "dbc4c8a94ff0d14b",
+      "title": "IBM CEO: 'Technology Spend Will Keep Growing'",
+      "url": "https://www.youtube.com/watch?v=LfOg0q3AHMU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/LfOg0q3AHMU/hqdefault.jpg",
+      "publishedAt": "2026-07-23T17:44:44.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "eaa15865b32af77c",
+      "title": "AI Spending Takes Center Stage in Big Tech Earnings | Bloomberg Tech 7/23/2026",
+      "url": "https://www.youtube.com/watch?v=ILnUlHxyooA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/ILnUlHxyooA/hqdefault.jpg",
+      "publishedAt": "2026-07-23T17:25:26.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-22T02:42:16.000Z"
+      "updatedAt": "2026-07-23T02:47:45.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
