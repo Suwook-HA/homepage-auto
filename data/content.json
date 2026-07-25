@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-24T02:39:38.088Z",
-  "projectsCheckedAt": "2026-07-24T02:39:38.088Z",
-  "projectsUpdatedAt": "2026-07-24T02:39:38.088Z",
+  "updatedAt": "2026-07-25T02:37:47.885Z",
+  "projectsCheckedAt": "2026-07-25T02:37:47.885Z",
+  "projectsUpdatedAt": "2026-07-25T02:37:47.885Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-24T02:39:38.088Z",
+    "checkedAt": "2026-07-25T02:37:47.885Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "fa7308f5245a1581",
-      "title": "이노블록, AI 스마트공장 구축… 보도블록 제조 ‘지능형 DX’ 본격화 - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVHIzcVMzQjdBTkZqWDhoVjlIOThtb2dGV1dUUldwN2ZaOHlOQ3R3dE9BNE9DS2poMFYwbnJOVEdFYmVUS2NralVoSUtVYV8wbjB2bnVRZnFuMzFRYlBOUmFyY2RTOFhnM0R3YWw2UTRxWlhEZkHSAWZBVV95cUxORE0yTzFsTERqWF9KZTJPS2JFOVB3UV84ejVvYXZnTlpoaVJxTHptLXE3aTQyU1k3bWl6MmMxSlZOS0FTZF80VEZuUFFKNmI2ZWZtODVLVnRpWDJqV1RzTTNZc0lRM3c?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "이노블록, AI 스마트공장 구축… 보도블록 제조 ‘지능형 DX’ 본격화 동아일보",
-      "publishedAt": "2026-07-24T00:30:00.000Z",
+      "id": "5f792fd87f3c4ba9",
+      "title": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tbmxuLUpIRkFZRFNzTXBXTzFhRjI5VE9kbVJYX0JRTm9Hd21HazJ5NHM3OEdFMS1oekxrQlFVOUZTZjZ6QlpwMGk0SnlyQUpqYkp6dEtkNllBSmJNdHVURdIBeEFVX3lxTFBNYWlSeUFqNzMxU3I1Q0dRZ3dEOUlsM3d0ek0wTmJsY0tzUWpXNGx5N0U4LTk0VzJFOURVNkRWQUpsekx0d1IwV3lTcHd4VHN4aG96V2dFZ2RXLXZ1cVlwNlJyYTJ4THlmRWpab2lfVjA5MFNUUlhMZw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 뉴시스",
+      "publishedAt": "2026-07-24T08:55:01.000Z",
       "rank": 1
     },
     {
-      "id": "c309a8d134081aa1",
-      "title": "구로병원 개방형실험실, 지원기업에 홍보·R&D 실무전략 제시 - 의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16VmRpNkZrX1lXeWM4aVJRandwdG1TWE5kdGdPVjhDM01OdzlDZmZYakFxbkhIMzFlck1qZUg5eVpjQ09hOGtnRktLZXdaNFluUi1NNzgtcTR6WTFKWUhsYnQ5SEhJT19yb1E?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "구로병원 개방형실험실, 지원기업에 홍보·R&D 실무전략 제시 의학신문",
-      "publishedAt": "2026-07-23T21:00:00.000Z",
+      "id": "267db9ca7666f2df",
+      "title": "숭실대 벤처중소기업학과 서리빈 교수 공동연구논문, Wiley 'Top-cited'·'Top-viewed Article' 동시 선정 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQnM3VjYxU1BvbHl0NkxQV3RQZm9VV2JpR1U4ZWhyUVptZk1vQnBrSjBVLURneEJSZkFRVzJXY3lpVWYwVzVLaVRLZ2hmVkFzaTBSVDhubE93S0ZWRW93TmtrOXJGY0E?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "숭실대 벤처중소기업학과 서리빈 교수 공동연구논문, Wiley 'Top-cited'·'Top-viewed Article' 동시 선정 교수신문",
+      "publishedAt": "2026-07-24T08:34:48.000Z",
       "rank": 2
     },
     {
-      "id": "225872f6c9bf6b87",
-      "title": "SKT, ITU-T서 피지컬 AI 글로벌 표준화 과제 채택 - 데일리포스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04M201V0stdFR6WktacFZvRmhwV3BEREhpYkJ3SVQyN1FsNHhkdDBaYXg2eTBSbmxYMGhyLVZ0ZmM2WWRGbzU4VDFkcXZYNnhkQkZVcDhid0czS0YtS0ZIQU5lQTN3M19VSkNXU2tkY9IBc0FVX3lxTFAxUEpDMlRHWEVKdVllMnJlWmtoQ1dYWEtSMjVaZmhyY1l4REd5UDNWdVdOMm1GeFZIU2t3dEVpOTlCMElxZldwZTJnTGpPWGROcVJDeHJkZ1lTTTdmWjVFdEtPY0hWNHdjS1MtdnY3dnhrR2c?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "SKT, ITU-T서 피지컬 AI 글로벌 표준화 과제 채택 데일리포스트",
-      "publishedAt": "2026-07-23T08:47:07.000Z",
+      "id": "bfb5bbdc2516a394",
+      "title": "KIST-국방기술품질원, AI·드론 등 국방 신기술 품질 검증 협력 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmNG0xMjNmaGNwTElSR21fSDE1bkVJVWlzd2hKZHhPUXVwZlVNM09TNmRIcWdtMVZfbGlTNGFvNWhjck9CdnN4S2JhTlNaeWM?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "KIST-국방기술품질원, AI·드론 등 국방 신기술 품질 검증 협력 v.daum.net",
+      "publishedAt": "2026-07-24T07:48:38.000Z",
       "rank": 3
     },
     {
-      "id": "158da987c92de12c",
-      "title": "SKT Moves Beyond Digital Twins to Lead Global Standards for Physical AI and Robotics - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZjZ6QWt4Z1V4Q3RreUdqaFBJWmZpTEF0c1FrN2o0WTJuVW03MG5zWmU2NmdmRDQwc1lSN2FfT1JaZ0dpNUpzYzVDUHVpMTc3SlJxYWd3RzlRRUdHN0kteEs2X21WVUI0Z2g2Z2VIY3M?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SKT Moves Beyond Digital Twins to Lead Global Standards for Physical AI and Robotics Korea IT Times",
-      "publishedAt": "2026-07-23T05:20:23.000Z",
+      "id": "06a99d5d569e9a49",
+      "title": "[News Today] Physical AI drives manufacturing - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZFdNbnB2cjAxam8tNEFIa0dXWUVWTWdlVXVkXzFPODZ1cWlpc1czZHZjQjVuT0JMVUFaS2ppbm8xUFhGZ1hRcVh5RTF6Q2lGQndKYTJ1ejgtTzQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[News Today] Physical AI drives manufacturing KBS 뉴스",
+      "publishedAt": "2026-07-24T07:41:00.000Z",
       "rank": 4
     },
     {
-      "id": "35bc1354168ef9e3",
-      "title": "GC녹십자의료재단, ISO 45001 인증 획득 - 청년의사",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MbHZvNTY3TWl0V2V3Z2Fqd2lXSWZ2bjFnZXh0QXVJc3NTd0EwbDF5SE5iX3ZGWXNaa3ZFczg2b3h6dGVFZl9la2RjT0Z2T1dpeFA0SzV4cVgzNXh0bVptUzVqTHpPdThCQW1QczZwRdIBc0FVX3lxTE1oZVJ4ODhVVmp4TjVZaDdiUGZKd2ZmbktGQ21MZDNGRzM0VEdjSm4zN2JWNnJpbHhyVGhmVXhMMEhSQXFCaWpXeTliLVppSzRiVXBPT08xTlpjNks5bVpQQ1FpTm12bjdUdmQ5T1RxZFdlUkE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "GC녹십자의료재단, ISO 45001 인증 획득 청년의사",
-      "publishedAt": "2026-07-23T03:03:18.000Z",
+      "id": "25f3db183ea60643",
+      "title": "Huawei Cloud Launches Agentic Infrastructure and CodeArts Agent OBT in Thailand, Accelerating Enterprise AI Innovation - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRQTFQNUF0QXNUNDBQaDNoTS1NTE1CcEd5MXBMRUFjTlQ4bUZlUWZXRDFIUW1kWlV5b0JmVnczYWk2SUZxd2VzVVhtOVlqRFFILVZEclpRZXFzU3NWT2RyZllXc04xYzBM?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Huawei Cloud Launches Agentic Infrastructure and CodeArts Agent OBT in Thailand, Accelerating Enterprise AI Innovation KIPOST",
+      "publishedAt": "2026-07-24T05:51:00.000Z",
       "rank": 5
     },
     {
-      "id": "d0679159b9ac6442",
-      "title": "SK텔레콤, 로봇 데이터 활용체계 국제표준화 추진 - 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMHpRM3VnVUR1d0s4bVluQ2hIUEFRQ1NLeVg0c2M0eS1SaHdKLUhJcmkyX2kxOG1BZC11Y2U5a09iRTNBYnZoUHVoNVRkalpFTkNJQm9uREVnX25rdVJOMTZqWTZfeGF1ZVRaV1NQN1RXUQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "SK텔레콤, 로봇 데이터 활용체계 국제표준화 추진 웹이코노미",
-      "publishedAt": "2026-07-23T10:41:30.000Z",
+      "id": "05b2bcec0dc330a6",
+      "title": "이노블록, AI 스마트공장으로 제조혁신 본격화 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzb2plU1FTaGltQ1A1clA3SkVMLXNpbDM0NWJPekd0M3d4UXRCZXVLT3pyeDd2ZjdaUkZ2LWdaT1FYc1ZuOFBYbnlmU3dERk0?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "이노블록, AI 스마트공장으로 제조혁신 본격화 v.daum.net",
+      "publishedAt": "2026-07-24T05:44:09.000Z",
       "rank": 6
     },
     {
-      "id": "bc751df25b90196f",
-      "title": "[PRNewswire] DEKRA Korea Partners with KTL - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbDI3d0l1VGtMSTRkRnFYX2VZLU0xSEt3VFdrWk1MREx4OGlCZGk4Ul9kQVhyWE85bjhLcm1kMTVaQ25qM3dtcE1HUzYyMHA1LTBz?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[PRNewswire] DEKRA Korea Partners with KTL 네이트",
-      "publishedAt": "2026-07-23T09:52:00.000Z",
+      "id": "c6887159e2dbe3f9",
+      "title": "Revolutionary SperoQure: How JNPMEDI is Transforming Osteoarthritis Treatment in 2026 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XaWFLNnNYbmh5c1JZS2ltaGlkSm9wVUoyYnJMUGI1VFdhTkFaWGhRMnpZZG9ZSEVSM1ZoZS1MV2Zqa2ZLQl9lMVhFajVhRTI4RVE0QlpaRUVOR2hnQnBvbmxKTHdIZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Revolutionary SperoQure: How JNPMEDI is Transforming Osteoarthritis Treatment in 2026 뉴스1",
+      "publishedAt": "2026-07-24T05:01:24.000Z",
       "rank": 7
     },
     {
-      "id": "f999986a1b3d3ddf",
-      "title": "SKT, 피지컬 AI 글로벌 기술 표준화 추진…로봇 간 데이터 호환 '기대' - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SLUstSW9XNjc3X29QR1BiVWpNZ2wyOG96THpDNml2aHB3Q0ttRFVHVTRLcVdmQ3pJOUpoeWZlMHRlZkc4Ty1xdEV4NThUTnBNQzdtekVFLVE2UEJwS2wxWHczeVliYm5k?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SKT, 피지컬 AI 글로벌 기술 표준화 추진…로봇 간 데이터 호환 '기대' 테크월드",
-      "publishedAt": "2026-07-23T08:43:44.000Z",
+      "id": "7c8ffcf78dcdac86",
+      "title": "숭실대 서리빈 교수 논문 Wiley 우수논문 2관왕.. '디지털 전환 저항 연구' - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6aHdQQS16MVJlci1IbllvZEtSX0RrZFVxb2hERXhITWhSZFozZUNaS3YxRjRGRGYwSXNhNm12dFcxc2NISDk5Um5kcWhNZXdYMmZ2RHF4QnhIUE9qTDJ2ZDZJcXMtNnNvRzhHOQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "숭실대 서리빈 교수 논문 Wiley 우수논문 2관왕.. '디지털 전환 저항 연구' 베리타스알파",
+      "publishedAt": "2026-07-24T03:46:38.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "428476589c657e1d",
-      "title": "Apple Prepping iMac, MacBooks Overhaul to Meet AI Demand",
-      "url": "https://www.youtube.com/watch?v=2ckOjFrGz5c",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/2ckOjFrGz5c/hqdefault.jpg",
-      "publishedAt": "2026-07-23T21:46:21.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "12491c2617afcd0a",
-      "title": "Palm Beach Rejects Data Center Near Mar-a-Lago",
-      "url": "https://www.youtube.com/watch?v=IDLUJK8mLlI",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/IDLUJK8mLlI/hqdefault.jpg",
-      "publishedAt": "2026-07-23T21:26:31.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4a6c5b0acc969887",
-      "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
-      "url": "https://www.youtube.com/watch?v=t8Ej9aeW388",
+      "id": "58befa6f6de6f2eb",
+      "title": "Build Hour: Valuemaxxing with GPT-5.6",
+      "url": "https://www.youtube.com/watch?v=jyuyY86GJnA",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/t8Ej9aeW388/hqdefault.jpg",
-      "publishedAt": "2026-07-23T20:50:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jyuyY86GJnA/hqdefault.jpg",
+      "publishedAt": "2026-07-24T19:47:16.000Z",
       "viewCount": 0
     },
     {
-      "id": "585fc2e3a51c0045",
-      "title": "New Way Now: EVERSANA launches the industry's first pharma marketing “AI Agency Platform”",
-      "url": "https://www.youtube.com/watch?v=-gxZdFOWSx0",
+      "id": "62cd922053691f60",
+      "title": "Viking Admits It Missed the AI Rally",
+      "url": "https://www.youtube.com/watch?v=Mkz9V7XJDUs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Mkz9V7XJDUs/hqdefault.jpg",
+      "publishedAt": "2026-07-24T18:52:42.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a2acacfa4d25c690",
+      "title": "'Inference Speed Makes Markets Bigger,' says Cerebras CEO",
+      "url": "https://www.youtube.com/watch?v=vcYGEC1l2VY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/vcYGEC1l2VY/hqdefault.jpg",
+      "publishedAt": "2026-07-24T18:48:17.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c943f9b2b9305a7d",
+      "title": "SpaceX Is Betting Its Future on Starship",
+      "url": "https://www.youtube.com/watch?v=lRlzDY-IHHA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/lRlzDY-IHHA/hqdefault.jpg",
+      "publishedAt": "2026-07-24T18:42:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "34250c9c69bbb6e5",
+      "title": "'The Real Debate Isn't Open-Weight AI, It's Chinese AI': Krach Institute's Giuda",
+      "url": "https://www.youtube.com/watch?v=8ZXPD1oORh8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/8ZXPD1oORh8/hqdefault.jpg",
+      "publishedAt": "2026-07-24T18:39:48.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7537ec3b011a2c7c",
+      "title": "Jennifer Doudna: \"AI Doesn't Replace Scientists\"",
+      "url": "https://www.youtube.com/watch?v=5ZnLm5f2vy0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/5ZnLm5f2vy0/hqdefault.jpg",
+      "publishedAt": "2026-07-24T18:32:44.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "77a1436e376d9945",
+      "title": "Big Tech Makes the Case for Open-Weight AI | Bloomberg Tech 7/24/2026",
+      "url": "https://www.youtube.com/watch?v=Fi03JCNG2U0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Fi03JCNG2U0/hqdefault.jpg",
+      "publishedAt": "2026-07-24T17:46:12.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "02a364adda54af85",
+      "title": "Building Enterprise AI Agents on Google Cloud with NVIDIA GPUs & Models",
+      "url": "https://www.youtube.com/watch?v=TZTDqtSpzv8",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/-gxZdFOWSx0/hqdefault.jpg",
-      "publishedAt": "2026-07-23T20:24:18.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "428518b93471c955",
-      "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify & Virgin Atlantic",
-      "url": "https://www.youtube.com/watch?v=zq88iLsSfMA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/zq88iLsSfMA/hqdefault.jpg",
-      "publishedAt": "2026-07-23T20:23:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9d3023c53bc0f989",
-      "title": "Building with ChatGPT Voice | OpenAI",
-      "url": "https://www.youtube.com/watch?v=E0ZMOschrTU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/E0ZMOschrTU/hqdefault.jpg",
-      "publishedAt": "2026-07-23T19:40:16.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "dbc4c8a94ff0d14b",
-      "title": "IBM CEO: 'Technology Spend Will Keep Growing'",
-      "url": "https://www.youtube.com/watch?v=LfOg0q3AHMU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/LfOg0q3AHMU/hqdefault.jpg",
-      "publishedAt": "2026-07-23T17:44:44.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "eaa15865b32af77c",
-      "title": "AI Spending Takes Center Stage in Big Tech Earnings | Bloomberg Tech 7/23/2026",
-      "url": "https://www.youtube.com/watch?v=ILnUlHxyooA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/ILnUlHxyooA/hqdefault.jpg",
-      "publishedAt": "2026-07-23T17:25:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TZTDqtSpzv8/hqdefault.jpg",
+      "publishedAt": "2026-07-24T17:29:35.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-23T02:47:45.000Z"
+      "updatedAt": "2026-07-24T02:43:45.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
