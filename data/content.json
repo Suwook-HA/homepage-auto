@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-25T02:37:47.885Z",
-  "projectsCheckedAt": "2026-07-25T02:37:47.885Z",
-  "projectsUpdatedAt": "2026-07-25T02:37:47.885Z",
+  "updatedAt": "2026-07-26T02:46:22.104Z",
+  "projectsCheckedAt": "2026-07-26T02:46:22.104Z",
+  "projectsUpdatedAt": "2026-07-26T02:46:22.104Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-25T02:37:47.885Z",
+    "checkedAt": "2026-07-26T02:46:22.104Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "ec3b738d5f9cdd90",
+      "title": "Hanwha Ocean Secures Global Class Certifications for Standard FPSO Design, Strengthening Offshore Project Competitiveness - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRE1qNVZMb3BVWjA4anI5NnBhcWF0akd1YkJ5amdwSnZsOGdtUmgzRkFFeWdqTktHeW1JZnJUWHRrSjREdkxPRmhSTGFBVTlkSDFsRlpiSG9UenhjQl9JSWVQM1ZRR0I5Wi1acnI4WDk?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Hanwha Ocean Secures Global Class Certifications for Standard FPSO Design, Strengthening Offshore Project Competitiveness Korea IT Times",
+      "publishedAt": "2026-07-26T00:56:47.000Z",
+      "rank": 1
+    },
+    {
+      "id": "05a738f47f0b70a3",
+      "title": "[ESG칼럼]AI가 추천한 그 업체, 당신은 왜 믿었는가 — ESG 사회(S) 관점의 소비자 검증 가이드 - 스포츠 피플 타임즈",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wWWRHNE5Db04tcHk3YldDMm1vTjA2amZWMlJIdFA5Umk0U1AtUG52VEM5Uzd1QmZ2ZnpTUWY1bWVKME53Q3picjRMMVdOVFdwMkJfQ0gwMkxZdWxnU2RjQTJZSm1sa0JudHI0WVR6Y0lzdW9fUktB0gF3QVVfeXFMTnBZZEc0TkNvTi1weTdiV0MybW9OMDZqZlYyUkh0UDlSaTRTUC1QbnZUQzlTN3VCZnZmelNRZjVtZUowTndDemJyNEwxV05UV3AyQl9DSDAyTFl1bGdTZGNBMllKbWxrQm50cjRZVHpjSXN1b19SS0E?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[ESG칼럼]AI가 추천한 그 업체, 당신은 왜 믿었는가 — ESG 사회(S) 관점의 소비자 검증 가이드 스포츠 피플 타임즈",
+      "publishedAt": "2026-07-25T10:02:49.000Z",
+      "rank": 2
+    },
     {
       "id": "5f792fd87f3c4ba9",
       "title": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 - 뉴시스",
@@ -65,7 +83,7 @@
       "source": "Google News: IT standardization",
       "summary": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 뉴시스",
       "publishedAt": "2026-07-24T08:55:01.000Z",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "267db9ca7666f2df",
@@ -74,7 +92,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "숭실대 벤처중소기업학과 서리빈 교수 공동연구논문, Wiley 'Top-cited'·'Top-viewed Article' 동시 선정 교수신문",
       "publishedAt": "2026-07-24T08:34:48.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "bfb5bbdc2516a394",
@@ -83,16 +101,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "KIST-국방기술품질원, AI·드론 등 국방 신기술 품질 검증 협력 v.daum.net",
       "publishedAt": "2026-07-24T07:48:38.000Z",
-      "rank": 3
-    },
-    {
-      "id": "06a99d5d569e9a49",
-      "title": "[News Today] Physical AI drives manufacturing - KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZFdNbnB2cjAxam8tNEFIa0dXWUVWTWdlVXVkXzFPODZ1cWlpc1czZHZjQjVuT0JMVUFaS2ppbm8xUFhGZ1hRcVh5RTF6Q2lGQndKYTJ1ejgtTzQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[News Today] Physical AI drives manufacturing KBS 뉴스",
-      "publishedAt": "2026-07-24T07:41:00.000Z",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "25f3db183ea60643",
@@ -101,7 +110,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "Huawei Cloud Launches Agentic Infrastructure and CodeArts Agent OBT in Thailand, Accelerating Enterprise AI Innovation KIPOST",
       "publishedAt": "2026-07-24T05:51:00.000Z",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "05b2bcec0dc330a6",
@@ -110,7 +119,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "이노블록, AI 스마트공장으로 제조혁신 본격화 v.daum.net",
       "publishedAt": "2026-07-24T05:44:09.000Z",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "c6887159e2dbe3f9",
@@ -119,15 +128,6 @@
       "source": "Google News: AI Data Quality",
       "summary": "Revolutionary SperoQure: How JNPMEDI is Transforming Osteoarthritis Treatment in 2026 뉴스1",
       "publishedAt": "2026-07-24T05:01:24.000Z",
-      "rank": 7
-    },
-    {
-      "id": "7c8ffcf78dcdac86",
-      "title": "숭실대 서리빈 교수 논문 Wiley 우수논문 2관왕.. '디지털 전환 저항 연구' - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6aHdQQS16MVJlci1IbllvZEtSX0RrZFVxb2hERXhITWhSZFozZUNaS3YxRjRGRGYwSXNhNm12dFcxc2NISDk5Um5kcWhNZXdYMmZ2RHF4QnhIUE9qTDJ2ZDZJcXMtNnNvRzhHOQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "숭실대 서리빈 교수 논문 Wiley 우수논문 2관왕.. '디지털 전환 저항 연구' 베리타스알파",
-      "publishedAt": "2026-07-24T03:46:38.000Z",
       "rank": 8
     }
   ],
@@ -178,8 +178,8 @@
       "viewCount": 0
     },
     {
-      "id": "7537ec3b011a2c7c",
-      "title": "Jennifer Doudna: \"AI Doesn't Replace Scientists\"",
+      "id": "db1b64a33f2bea24",
+      "title": "Scribe Bets on a New Era of Gene Editing",
       "url": "https://www.youtube.com/watch?v=5ZnLm5f2vy0",
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/5ZnLm5f2vy0/hqdefault.jpg",
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-24T02:43:45.000Z"
+      "updatedAt": "2026-07-25T02:41:52.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
