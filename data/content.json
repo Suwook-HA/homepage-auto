@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-27T02:54:25.234Z",
-  "projectsCheckedAt": "2026-07-27T02:54:25.234Z",
-  "projectsUpdatedAt": "2026-07-27T02:54:25.234Z",
+  "updatedAt": "2026-07-28T02:31:24.426Z",
+  "projectsCheckedAt": "2026-07-28T02:31:24.426Z",
+  "projectsUpdatedAt": "2026-07-28T02:31:24.426Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,147 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-27T02:54:25.234Z",
+    "checkedAt": "2026-07-28T02:31:24.426Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "89a4da060975daf7",
-      "title": "LG전자 액체냉각 솔루션, 첫 엔비디아 인증…AI 데이터센터 공략 - 코인리더스",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZQmVKelI3OEFLR0xRMzIycFlnOEZlWmV3UVVVclYxaG1nUktpdGhyUnIwRGJKbUNFM29yY0tMYlF2bXE3eUNZN2FB?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "LG전자 액체냉각 솔루션, 첫 엔비디아 인증…AI 데이터센터 공략 코인리더스",
-      "publishedAt": "2026-07-27T02:00:01.000Z",
+      "id": "263dddce76ab41c4",
+      "title": "이테크시스템, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 취득 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZjJCZ19ONHRXZW56QVlTMDA2YVM2dUhXUG1Hd3B0aDhGOWl0UF9XMlJwVFpBT3Roa194dXkyeUp1MmVtSWxaOEVUSFk1M3AyLUpjVmVlWmlZbzZsa1RPMFFCdW82NVpIUE5XNQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "이테크시스템, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 취득 데이터넷",
+      "publishedAt": "2026-07-28T00:38:05.000Z",
       "rank": 1
     },
     {
-      "id": "3c71c793906b688d",
-      "title": "(국영문 동시배포) 미국 게티연구소 전문가 방한해 '미술사 데이터의 미래' 강연 - 서울Pn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rWUJ1dXlPWUxxOTNIM2xiaDFPcEFQV3NQbHhoMjd2ck9rOFV3N1F1bU56ODh1QlJhcjRreFBSb2xNZnRaT2dSNENLUHlUb2loVTh5cjMtMmxlN1J5Q19EcWJ3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "(국영문 동시배포) 미국 게티연구소 전문가 방한해 '미술사 데이터의 미래' 강연 서울Pn",
-      "publishedAt": "2026-07-27T01:08:54.000Z",
+      "id": "78151a93665023db",
+      "title": "\"AI 보안 체계 인정\"…웍스피어, ISO 국제인증 2종 획득 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84YnVKYzFDWXVkcF9mMW1seU5IcjFkWmFHTFZMV25VdEFBRkF5RjljMTJlNVRvT2xQRlE4YU0wRGd0ZmRwWVB6YTRaMUc3NmtjSU1JZlF5ZG8tQ2c3SG9ZUm5EQXk?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "\"AI 보안 체계 인정\"…웍스피어, ISO 국제인증 2종 획득 뉴스1",
+      "publishedAt": "2026-07-28T00:36:55.000Z",
       "rank": 2
     },
     {
-      "id": "074414280c81a642",
-      "title": "차바이오텍, 과기부 'AX 원스톱 바우처' 선정…\"세포치료제 상용화 가속\" - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16dlVNM0NlU0hXeU1PQUNMeXVuYlk4QkVjenhabGlvX25mc2hDYzFZQnFYVnlnWmtRUEVWekNSZXNndjhZWkt1NURnLWxYZXROdzBFTHdmQnFOQm8ybndzZnJMNnlQN1JBTnJwOE9tRdIBb0FVX3lxTE16dlVNM0NlU0hXeU1PQUNMeXVuYlk4QkVjenhabGlvX25mc2hDYzFZQnFYVnlnWmtRUEVWekNSZXNndjhZWkt1NURnLWxYZXROdzBFTHdmQnFOQm8ybndzZnJMNnlQN1JBTnJwOE9tRQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "차바이오텍, 과기부 'AX 원스톱 바우처' 선정…\"세포치료제 상용화 가속\" - 머니투데이 머니투데이",
-      "publishedAt": "2026-07-27T00:31:44.000Z",
+      "id": "80d195b1aff8e952",
+      "title": "Brain Ventures Strengthens Global AI Service Reliability via International Standard Certifications for Quality, Environment, and Safety - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92SjFrVkIycktyYW1LLWNmaExaandxMjNCYXhKY3E0VEk4VkVCOHhNazBGV1JxWmJWMzFRRTZoMk5OSHdWOWVxcE1qYlBZSDF2dVRQOXR4VEo5YU1FWVdRVHJQdkdodVXSAWtBVV95cUxNSjNudTdIcGVxVXZpdmpLblVqU1Ywd001UW1UNzRjZ1pRMDdTRUd3R214Vm5NOURKY3VLNjlsWWVNTjI3Mm4yZW1oLUlNUzZNSThrS0VIZ0Y1T3RfVTIxR2Z1eGk4VEl6T0NSZw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Brain Ventures Strengthens Global AI Service Reliability via International Standard Certifications for Quality, Environment, and Safety 에이빙",
+      "publishedAt": "2026-07-27T02:28:46.000Z",
       "rank": 3
     },
     {
-      "id": "9b413b3790251494",
-      "title": "[이용기 교수의 ESG 경영 이야기] 자동화, 로봇공학 및 5.0 산업의 ESG 과제: 고용에 미치는 영향 - 아웃소싱타임스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZWNuX0NQQTAwTk1GVUI4NERHMUVEeTZxTVYyRjd3TkRkQmM2UzlXYm1oLVlncTZWXzVZRzV1TUwtOG9Xc0VkTVM0SC1XYmNwSExNS1RxRTBBVHFEeTBaS0lIbFhzRWhGTVdVSXU1YnlIQQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[이용기 교수의 ESG 경영 이야기] 자동화, 로봇공학 및 5.0 산업의 ESG 과제: 고용에 미치는 영향 아웃소싱타임스",
-      "publishedAt": "2026-07-26T22:08:11.000Z",
+      "id": "9eba5d22469c1fad",
+      "title": "AI·데이터센터 수요 확대에…전력기기 中企 \"자금·인증 지원 필요\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RUTRmQ25pYVhxVEJncUdzVXJtNHRCcUV3STdScjZXX21KLS1Nai1IQzdMNzEtLUxGZ2s5T2pTU2xxdm5zOVJNZmZfRjhWSmVqQ1RmRVpRUE9zNU5x?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI·데이터센터 수요 확대에…전력기기 中企 \"자금·인증 지원 필요\" 뉴스1",
+      "publishedAt": "2026-07-27T23:37:37.000Z",
       "rank": 4
     },
     {
-      "id": "ec3b738d5f9cdd90",
-      "title": "Hanwha Ocean Secures Global Class Certifications for Standard FPSO Design, Strengthening Offshore Project Competitiveness - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRE1qNVZMb3BVWjA4anI5NnBhcWF0akd1YkJ5amdwSnZsOGdtUmgzRkFFeWdqTktHeW1JZnJUWHRrSjREdkxPRmhSTGFBVTlkSDFsRlpiSG9UenhjQl9JSWVQM1ZRR0I5Wi1acnI4WDk?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Hanwha Ocean Secures Global Class Certifications for Standard FPSO Design, Strengthening Offshore Project Competitiveness Korea IT Times",
-      "publishedAt": "2026-07-26T00:56:47.000Z",
+      "id": "18dc57d0604ad987",
+      "title": "마이크로소프트, 에이전틱 보안 시스템 ‘프로젝트 퍼셉션’ 공개 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjFmcjhIUEp4dC0zdEU5cGF3R0lUQkwyRzVnQXBuTkM1ZFFROGl1c1hTVm5CQXdCZVZQNTF6UnBRWnJNM3JUNUhtOWhWRFJfZXJKR1NWMFNCOS1BLXhfQ196ZEZUM3dmUlR6bl9QNjhqZkRXMjE5RjNWNUM0ZmdWa2pUaXhHYnk3cXNNTnBQT25oNV9YYXYyenA3OFc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트, 에이전틱 보안 시스템 ‘프로젝트 퍼셉션’ 공개 Microsoft Source",
+      "publishedAt": "2026-07-27T23:07:12.000Z",
       "rank": 5
     },
     {
-      "id": "842074f018354689",
-      "title": "\"AI는 도구\" vs \"프로젝트 품질 위협\"...오픈소스 진영, AI 코딩 둘러싼 대립 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FR1RzYUZDZmE2bFRCeF94bWpRYmZvSmZ4TGh5ZTQyRklDaTkya0d5d3EwX09TVXc1amlNZzBiUGdrTlVnQTd2b0gzd3A4Ql9LTzd0NW1B?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "\"AI는 도구\" vs \"프로젝트 품질 위협\"...오픈소스 진영, AI 코딩 둘러싼 대립 지디넷코리아",
-      "publishedAt": "2026-07-26T05:36:12.000Z",
+      "id": "5cfc2e9b0ebbb509",
+      "title": "Ookla Study in Manila: Carrier VoLTE Networks Prove to Outperform OTT Apps in Voice Quality and Reliability - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUWl0cmlzaWkzZUI4dUo1T1dVY01rOXlWWUJhNGhSM3VfUWRrMkprTnNpSmxTMnNhelpTZzlSRUh0bWtrMElqTzc4ZG00YlprWXdIRHB5Tjd1V2VweFEyNy1tY0hLRFUy0gFsQVVfeXFMTVdRY1lTdzBmQlBheGlDU1ZZUUVocTNoV0JMbTRuQ09QeUZDSmNmOFJGS1dqZ00ya0RIMjY1NWF5TEFrYTlWSmV5TDlaQnFzUVZKaldmTjI2aVJicWZqT2g0VDZXOUxPTlZtZ0hG?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Ookla Study in Manila: Carrier VoLTE Networks Prove to Outperform OTT Apps in Voice Quality and Reliability KIPOST",
+      "publishedAt": "2026-07-27T03:03:00.000Z",
       "rank": 6
     },
     {
-      "id": "5f792fd87f3c4ba9",
-      "title": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tbmxuLUpIRkFZRFNzTXBXTzFhRjI5VE9kbVJYX0JRTm9Hd21HazJ5NHM3OEdFMS1oekxrQlFVOUZTZjZ6QlpwMGk0SnlyQUpqYkp6dEtkNllBSmJNdHVURdIBeEFVX3lxTFBNYWlSeUFqNzMxU3I1Q0dRZ3dEOUlsM3d0ek0wTmJsY0tzUWpXNGx5N0U4LTk0VzJFOURVNkRWQUpsekx0d1IwV3lTcHd4VHN4aG96V2dFZ2RXLXZ1cVlwNlJyYTJ4THlmRWpab2lfVjA5MFNUUlhMZw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상 뉴시스",
-      "publishedAt": "2026-07-24T08:55:01.000Z",
+      "id": "6efd677b93ed333d",
+      "title": "LG Electronics “Liquid-cooling equipment, first NVIDIA certification in Korea” - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GazMtQy0tRjlXajh2UC0yc2Y3QndsdHVuMDBCbldwTml4MVJIVHhJZXV1U29hamdzVU9jUGNxXzVJNkJFYmFFakxTRDhqbDByYmZQaEM2UjFvb2ktdHc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "LG Electronics “Liquid-cooling equipment, first NVIDIA certification in Korea” 경향신문",
+      "publishedAt": "2026-07-27T14:15:00.000Z",
       "rank": 7
     },
     {
-      "id": "26a16f15eb5ff6f1",
-      "title": "SKT, 피지컬 AI 기술 표준화…‘로봇 데이터 팩토리’ ITU-T 채택 - SR타임스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZSXdzWmxxWW1ra2ltYnVJSDV5aE1aWmphakZGajFwMDF6ejZjQWRDa0RHMVp1emo3OG5KNHMzS2gzQVhTMWpzdXhtVDdqN08wWkJ1NzlMWWc5Y3F4UGZOd2pUWmVQRnfSAWtBVV95cUxPWlZtZzMxY3lYdGxIT0daNFg2R3lDZHlYZDFYdHFkMEQwTUx2ZmdJMEx2MW5BamxqMkJfQ09yWW5fcFZ1RFkxRlNqQ0VOdGR2Zi1SQl9rTmNneFJobXYzVUlBN1dlOF9za1VZVQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "SKT, 피지컬 AI 기술 표준화…‘로봇 데이터 팩토리’ ITU-T 채택 SR타임스",
-      "publishedAt": "2026-07-23T23:58:35.000Z",
+      "id": "76101789bcd17bad",
+      "title": "AI 모델 성능을 끌어올리는 에이전트 하네스스의 6가지 핵심 기능 - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk1fNmcyWENkRmFjOHQtSjYwUjZocUYwVkt4TDREWHB3NEg1bTc0MnQwam9wTHZGblY5dU1PZjdKQUFlNVBqanRVazZSWHQ0aXZnQ2g2eXozWjVJMm9YM3Nib3Rybzh4RXpMci1TWWtYNDk2elpQZF81enczMmtYT2VGUmJDc0x2LXYyMEpJUG5zYVdjc3YxOVliRkdLcVNLVWc?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "AI 모델 성능을 끌어올리는 에이전트 하네스스의 6가지 핵심 기능 NVIDIA Developer",
+      "publishedAt": "2026-07-27T09:47:56.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "e97fe83677b8935a",
+      "title": "Microsoft: OpenAI/Hugging Face Incident Signals a New Era of AI Security",
+      "url": "https://www.youtube.com/watch?v=5uL0gt1gAmk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/5uL0gt1gAmk/hqdefault.jpg",
+      "publishedAt": "2026-07-27T21:19:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6820601dd6526812",
+      "title": "Single Points of Failure Offer VCs a New Opportunity: Overmatch’s Hitzig",
+      "url": "https://www.youtube.com/watch?v=xPcKweKSrkY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/xPcKweKSrkY/hqdefault.jpg",
+      "publishedAt": "2026-07-27T20:07:39.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "bb8487b0462cf839",
+      "title": "Palantir’s Infamy in Europe Opens Doors for a Challenger",
+      "url": "https://www.youtube.com/watch?v=_jY8gjZPY7A",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/_jY8gjZPY7A/hqdefault.jpg",
+      "publishedAt": "2026-07-27T20:07:36.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "76e5a9e0c2766270",
+      "title": "Apple Plans Release of Smart Glasses, Samsung Goes for ‘Passport’ Look",
+      "url": "https://www.youtube.com/watch?v=oBek9O-USnE",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/oBek9O-USnE/hqdefault.jpg",
+      "publishedAt": "2026-07-27T20:07:25.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "35c60e05dade10b5",
+      "title": "Nvidia Sparks Renewed Circular Financing Concerns with New Deals | Bloomberg Tech 7/27/2026",
+      "url": "https://www.youtube.com/watch?v=XOA9q131W3w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/XOA9q131W3w/hqdefault.jpg",
+      "publishedAt": "2026-07-27T19:46:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "bc558a77e0c130e5",
+      "title": "Matawan & Google Cloud : Libérer la mobilité grâce à l'innovation",
+      "url": "https://www.youtube.com/watch?v=-a1j3Zk9PIk",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/-a1j3Zk9PIk/hqdefault.jpg",
+      "publishedAt": "2026-07-27T17:40:23.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c22d107eddda2936",
+      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
+      "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg",
+      "publishedAt": "2026-07-27T12:37:15.000Z",
+      "viewCount": 0
+    },
     {
       "id": "2648ac4347f4ecd0",
       "title": "AI Fuels Nuclear Renaissance in Asia | Bloomberg Tech: Asia 7/24/2026",
@@ -139,69 +202,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/fniOkNQT2pM/hqdefault.jpg",
       "publishedAt": "2026-07-26T22:25:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "58befa6f6de6f2eb",
-      "title": "Build Hour: Valuemaxxing with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=jyuyY86GJnA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/jyuyY86GJnA/hqdefault.jpg",
-      "publishedAt": "2026-07-24T19:47:16.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "62cd922053691f60",
-      "title": "Viking Admits It Missed the AI Rally",
-      "url": "https://www.youtube.com/watch?v=Mkz9V7XJDUs",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Mkz9V7XJDUs/hqdefault.jpg",
-      "publishedAt": "2026-07-24T18:52:42.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a2acacfa4d25c690",
-      "title": "'Inference Speed Makes Markets Bigger,' says Cerebras CEO",
-      "url": "https://www.youtube.com/watch?v=vcYGEC1l2VY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/vcYGEC1l2VY/hqdefault.jpg",
-      "publishedAt": "2026-07-24T18:48:17.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c943f9b2b9305a7d",
-      "title": "SpaceX Is Betting Its Future on Starship",
-      "url": "https://www.youtube.com/watch?v=lRlzDY-IHHA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/lRlzDY-IHHA/hqdefault.jpg",
-      "publishedAt": "2026-07-24T18:42:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "34250c9c69bbb6e5",
-      "title": "'The Real Debate Isn't Open-Weight AI, It's Chinese AI': Krach Institute's Giuda",
-      "url": "https://www.youtube.com/watch?v=8ZXPD1oORh8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8ZXPD1oORh8/hqdefault.jpg",
-      "publishedAt": "2026-07-24T18:39:48.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "db1b64a33f2bea24",
-      "title": "Scribe Bets on a New Era of Gene Editing",
-      "url": "https://www.youtube.com/watch?v=5ZnLm5f2vy0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/5ZnLm5f2vy0/hqdefault.jpg",
-      "publishedAt": "2026-07-24T18:32:44.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "77a1436e376d9945",
-      "title": "Big Tech Makes the Case for Open-Weight AI | Bloomberg Tech 7/24/2026",
-      "url": "https://www.youtube.com/watch?v=Fi03JCNG2U0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Fi03JCNG2U0/hqdefault.jpg",
-      "publishedAt": "2026-07-24T17:46:12.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-26T02:50:27.000Z"
+      "updatedAt": "2026-07-27T02:58:34.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
