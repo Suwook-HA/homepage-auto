@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-29T02:36:05.737Z",
-  "projectsCheckedAt": "2026-07-29T02:36:05.737Z",
-  "projectsUpdatedAt": "2026-07-29T02:36:05.737Z",
+  "updatedAt": "2026-07-30T02:23:36.423Z",
+  "projectsCheckedAt": "2026-07-30T02:23:36.423Z",
+  "projectsUpdatedAt": "2026-07-30T02:23:36.423Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,64 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-29T02:36:05.737Z",
+    "checkedAt": "2026-07-30T02:23:36.423Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "df38daa465f25479",
+      "title": "ISO·GHG 프로토콜, 기업 탄소회계 표준 하나로 통합 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mM3ViSTdKckc0amxpTVZtaUdYdUpWZlVUWEJjc3BobU9lRWt5eTRHR0ZBMHlQZHVYNDJGeXFHMWV1YkNweTh2Z2JUSF9YcmRUdlpwWnI1SGQ1bWg3V0Fz?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ISO·GHG 프로토콜, 기업 탄소회계 표준 하나로 통합 헬로티",
+      "publishedAt": "2026-07-30T02:11:42.000Z",
+      "rank": 1
+    },
+    {
+      "id": "96302abab738a833",
+      "title": "[사이언스게시판] ETRI, 생체신호 압출기술 ITU-T·MPEG 공동 국제표준 채택 外 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sUWNfTGtwXy1oUWFoZDF1NE04Ni13MGRUV3VzNmxlV3VCbk9RNEdab2hySUttUllOSFVPVFdRbDU3T2kxTDFkbkNjazFVT00?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "[사이언스게시판] ETRI, 생체신호 압출기술 ITU-T·MPEG 공동 국제표준 채택 外 v.daum.net",
+      "publishedAt": "2026-07-29T09:03:37.000Z",
+      "rank": 2
+    },
+    {
+      "id": "e568095ec977cbdf",
+      "title": "Onton Debuts a New AI Model for Trustworthy Product Discovery - koreaittimes.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4walR5U1Q3dzB3WUdJMThKVXVQbUtaX0tpN3lkUHNfQ3dhUmJGZDlCTU9BdC1qQ0lSYWJPWVV5T3ZpcWZ2S0ZHcV8taWxUQVYtYmVzT3puU21tM2N3YVlQcVVTbld3TjNwQVdxdDh5Y0g?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Onton Debuts a New AI Model for Trustworthy Product Discovery koreaittimes.com",
+      "publishedAt": "2026-07-29T12:59:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "24078b35787aac29",
+      "title": "Robo.ai and Abu Dhabi Enterprise Jointly Establish AI Industrial Group Alif Holding to Serve Infrastructure, Government and Industrial Sectors - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEQ3FXU1psU0s2eDJETy0wWjlJMHFGU1VGVTRxN2xpTE9IRFB2RmNQenFpY2JCdFVoTGZ0N3EzWGZwLUVRZFpMS290YlNZYXhGOWhwY3ZLY2s0XzE3aTFkUG56OEVLSjQ5RHBrVQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Robo.ai and Abu Dhabi Enterprise Jointly Establish AI Industrial Group Alif Holding to Serve Infrastructure, Government and Industrial Sectors IT비즈뉴스",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "11dab44db5e93d85",
+      "title": "[CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOHVsQ2dUN2ZPc1A1SFZYTDUxeEQ3bUdCLWZZQXVYYzdiYTc0Tm9hUzVLWWk5al9uWFJ0MDFEekRqNGQyS25iSzhEaXdLeDlEaDNHa0xXUjA5TFJJcUN0aU5GZDlHVUozTWZ1dw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[CityUHK Research for the Future] From wired to wireless: CityUHK's world‑class research transforms wireless charging IT비즈뉴스",
+      "publishedAt": "2026-07-29T09:03:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "a53600fb1f6037ed",
+      "title": "Uptime Institute Partners with the Governorate of Nineveh to Advance Iraq’s Digital Infrastructure at the U.S.-Iraq Business Summit - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTGw0dlM2VjR1TXo1djNobmJ0X3hRaGluSmpKN0ZrSHdVUEVZTk5UYXUxSlVQUGYwVW5wYm9Hdmh4TmJaTk14NzN3Vnc5ZWtQOUdvTGk0el9Tc3JxSmpr?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Uptime Institute Partners with the Governorate of Nineveh to Advance Iraq’s Digital Infrastructure at the U.S.-Iraq Business Summit 뉴스와이어",
+      "publishedAt": "2026-07-29T01:10:00.000Z",
+      "rank": 6
+    },
     {
       "id": "686d87a319ac926b",
       "title": "이테크시스템, AI 경영시스템 국제표준 ISO/IEC 42001:2023 인증 취득 - 디지털경제뉴스",
@@ -65,7 +119,7 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "이테크시스템, AI 경영시스템 국제표준 ISO/IEC 42001:2023 인증 취득 디지털경제뉴스",
       "publishedAt": "2026-07-28T10:17:22.000Z",
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "1979399fdc27b5eb",
@@ -74,134 +128,80 @@
       "source": "Google News: Digital Transformation",
       "summary": "Nova Technology Wins the Excellence in Digital Transformation Award for China at the 2026 InsuranceAsia News Awards IT비즈뉴스",
       "publishedAt": "2026-07-28T09:41:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "841a68ee9ee2451c",
-      "title": "웍스피어, ISO/IEC 27001·27701 국제 표준 인증 획득 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFOS1jVWRTeVNIRUxHalVPMEtTRWhjeV9DdXo4TFBJMERVTVBIVDJTQU9NZmJrMWtmcnpLNEJ4amRsQW54Vlp6czZYQXRKR0xFeWY5UE04WTVNTmdIMjVXNUhRSFRVWUc2LU44eGlDTEREdE0?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "웍스피어, ISO/IEC 27001·27701 국제 표준 인증 획득 디지털투데이",
-      "publishedAt": "2026-07-28T06:00:35.000Z",
-      "rank": 3
-    },
-    {
-      "id": "8234bf281bdb41b4",
-      "title": "Tecnotree Strengthens LATAM Growth with New Digital Transformation Contracts Worth USD 8.8 Million - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGLTVseFFKU3VuVmVRNnlON2JuUFJRaEFzc044RnU1WHVaYjNuSHdzREdTR3g0SmxLSkxQQURxTXF6dE5Kdy1GSHFyM0hUR1lqbGt4REtONEFMcVVoRWhR?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tecnotree Strengthens LATAM Growth with New Digital Transformation Contracts Worth USD 8.8 Million 뉴스와이어",
-      "publishedAt": "2026-07-28T04:40:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "2e1c916182549cea",
-      "title": "Shipping AI Competitiveness Starts with 'Data'… SeaVantage Presents Standardization Strategy - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iUkdfamNvM2hFUzNaX1ZYQ1RxVklIT0pZWkdKM3ZZeEtsZ1l6ZkdPaTdleUhlbmE1X192aVlubFVkLTd2LXB2SHBiaGMxUmRxQk9R?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "Shipping AI Competitiveness Starts with 'Data'… SeaVantage Presents Standardization Strategy 벤처스퀘어",
-      "publishedAt": "2026-07-28T04:22:25.000Z",
-      "rank": 5
-    },
-    {
-      "id": "6337e106bd5f4155",
-      "title": "Running AI Encrypted… Disilo Sets International FHE Benchmark Standard - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQkM4NnJ5cm1ISzcwY0VpeEQxQWVTMWMwejRYVXhocXI0MmV1UzU1Y19oR3NwUHRDY2lCbElLUFhiTEpDbk5MMnBzRU9xV3pIbjVj?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Running AI Encrypted… Disilo Sets International FHE Benchmark Standard 벤처스퀘어",
-      "publishedAt": "2026-07-28T13:31:56.000Z",
-      "rank": 6
-    },
-    {
-      "id": "5ae958620ef0e553",
-      "title": "디지털융합교육원 최재용 원장, ‘ISO 42001 AI경영시스템 선임심사원 자격’ 취득 - 파이낸스투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DTWZGUkxBTGEtU25yd2lFdnE5TGF2U29OMk9Kck5jYkhjNXFBdXNNV1BodHc2X3dRS0pCUy1CR3lVdjRjTFhudjZ1REI3RXVNVXhTZUEzQWZ6aVhWMGt6VkppY2s0dmVmMzlQTg?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "디지털융합교육원 최재용 원장, ‘ISO 42001 AI경영시스템 선임심사원 자격’ 취득 파이낸스투데이",
-      "publishedAt": "2026-07-28T07:15:04.000Z",
-      "rank": 7
-    },
-    {
-      "id": "05e37225e8b86d0b",
-      "title": "AI with only high accuracy was lacking… AI Tricks publishes research on acute renal failure prediction in international journal - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ndjhlVnRRLTlNcDZBaURVLWM2N0VrWjRVeXVSazItQlZrV0J3bzI0THM2dFlGXzlrNmZBWkV2aGZPdzJVeTZQSS13dlgzejVJVlRv?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "AI with only high accuracy was lacking… AI Tricks publishes research on acute renal failure prediction in international journal 벤처스퀘어",
-      "publishedAt": "2026-07-28T12:15:17.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "e433dfe3ad98671a",
-      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
-      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE",
+      "id": "c6ece5011e47bd61",
+      "title": "Using Voice in ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/WeP9VUf1OoE/hqdefault.jpg",
-      "publishedAt": "2026-07-28T21:49:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg",
+      "publishedAt": "2026-07-29T22:37:43.000Z",
       "viewCount": 0
     },
     {
-      "id": "7d0e6654ef208db0",
-      "title": "New Way Now: Conviva uses Vertex AI-powered agents to help customers leap from analytics to action",
-      "url": "https://www.youtube.com/watch?v=HJrN7vynbR0",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/HJrN7vynbR0/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:51:20.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0b49fc30e3a45dfc",
-      "title": "Chip Selloff, SpaceX, and Apple's $5 Trillion Milestone | Bloomberg Tech 7/28/2026",
-      "url": "https://www.youtube.com/watch?v=qvshJISvzGU",
+      "id": "2f603866c6aebdc8",
+      "title": "Why Moonshot's Kimi K3 Matters Beyond China",
+      "url": "https://www.youtube.com/watch?v=YR1fvqGu-T8",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qvshJISvzGU/hqdefault.jpg",
-      "publishedAt": "2026-07-28T19:33:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YR1fvqGu-T8/hqdefault.jpg",
+      "publishedAt": "2026-07-29T18:42:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "78cbb3536fb645df",
-      "title": "Automate your entire Agent Development Lifecycle using Gemini Enterprise",
-      "url": "https://www.youtube.com/watch?v=81qWbN8Xj_s",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/81qWbN8Xj_s/hqdefault.jpg",
-      "publishedAt": "2026-07-28T19:22:04.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e8ffd8a57c2925c9",
-      "title": "Apple's Big Smart Home Push, With Siri AI Front and Center",
-      "url": "https://www.youtube.com/watch?v=Yz34XeLGrCE",
+      "id": "55555efce460c7d4",
+      "title": "SoFi Doubles Down on AI Despite Market Pullback",
+      "url": "https://www.youtube.com/watch?v=mm-9uEp0Oxo",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Yz34XeLGrCE/hqdefault.jpg",
-      "publishedAt": "2026-07-28T18:54:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mm-9uEp0Oxo/hqdefault.jpg",
+      "publishedAt": "2026-07-29T18:41:59.000Z",
       "viewCount": 0
     },
     {
-      "id": "11955d8557e61ce5",
-      "title": "Open-Weight Backers Stand to Profit, Says Sapphire Ventures",
-      "url": "https://www.youtube.com/watch?v=S6qlR__-57Y",
+      "id": "0f34111fa7e443a7",
+      "title": "AI Workers Call for US to Pace Tech's Growth",
+      "url": "https://www.youtube.com/watch?v=iOkdHpTNOVE",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/S6qlR__-57Y/hqdefault.jpg",
-      "publishedAt": "2026-07-28T18:44:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iOkdHpTNOVE/hqdefault.jpg",
+      "publishedAt": "2026-07-29T18:41:21.000Z",
       "viewCount": 0
     },
     {
-      "id": "590d0e2bc5c50a84",
-      "title": "SpaceX Falls 20% Below IPO Price, Loses $1.2T From Peak",
-      "url": "https://www.youtube.com/watch?v=cakNwijgVHo",
+      "id": "8c975e7d0f69c7ae",
+      "title": "SK Hynix Slips Ahead of Big Tech Results | Bloomberg Tech 7/29/2026",
+      "url": "https://www.youtube.com/watch?v=1-zGa-0XRFg",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/cakNwijgVHo/hqdefault.jpg",
-      "publishedAt": "2026-07-28T18:31:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1-zGa-0XRFg/hqdefault.jpg",
+      "publishedAt": "2026-07-29T18:26:33.000Z",
       "viewCount": 0
     },
     {
-      "id": "2b68daba94f2216e",
-      "title": "Chipmaker Rout Drags Nasdaq 100 Near Correction",
-      "url": "https://www.youtube.com/watch?v=3PN5OQJCmLw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3PN5OQJCmLw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T18:25:15.000Z",
+      "id": "2973b7d0ef396c8b",
+      "title": "We're giving 100,000 academic researchers free access to our frontier models",
+      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/MLehRytu9Zo/hqdefault.jpg",
+      "publishedAt": "2026-07-29T17:23:02.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7dec1300549e12db",
+      "title": "Light's co-founders are building for the anti-smartphone generation | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=iTEzRc-u7M8",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/iTEzRc-u7M8/hqdefault.jpg",
+      "publishedAt": "2026-07-29T15:40:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "83150b20a1a823a4",
+      "title": "AI writes your code. Who reviews it?",
+      "url": "https://www.youtube.com/watch?v=zBjdLgvZWag",
+      "channel": "DeepLearningAI",
+      "thumbnail": "https://i.ytimg.com/vi/zBjdLgvZWag/hqdefault.jpg",
+      "publishedAt": "2026-07-29T15:00:33.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-28T02:35:30.000Z"
+      "updatedAt": "2026-07-29T02:40:17.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
