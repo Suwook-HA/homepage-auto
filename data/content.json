@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-31T02:48:31.851Z",
-  "projectsCheckedAt": "2026-07-31T02:48:31.851Z",
-  "projectsUpdatedAt": "2026-07-31T02:48:31.851Z",
+  "updatedAt": "2026-08-01T02:46:50.967Z",
+  "projectsCheckedAt": "2026-08-01T02:46:50.967Z",
+  "projectsUpdatedAt": "2026-08-01T02:46:50.967Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-07-31T02:48:31.851Z",
+    "checkedAt": "2026-08-01T02:46:50.967Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "a535a9ee5a9e68ee",
+      "title": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 - beSUCCESS",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90X1NqX0xzU0ZCdVR2ZzM2VVZtUk9TWEdrRGUzVmlRbDNRZ1N0cUhuSXF1YlFTVEhZUE5WNDZTLVhBWmtFdnc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 beSUCCESS",
+      "publishedAt": "2026-07-31T03:57:05.000Z",
+      "rank": 1
+    },
+    {
+      "id": "9d482edaa468c61b",
+      "title": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVUN1SFgyZElpeUFUWVI2U0dtdmxvQXg4dGQ0SXhiS3hEMngtcXFaSFJjYW80Uk8xeTFzX01RemNVUW4zZ2xnakVVVHlhMXppOWI2ZHNmdlhCbk1DdFN6ag?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining 네이트",
+      "publishedAt": "2026-07-31T23:19:00.000Z",
+      "rank": 2
+    },
     {
       "id": "7a3e979ac2c4e19f",
       "title": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 - 뉴스와이어",
@@ -65,7 +83,7 @@
       "source": "Google News: trustworthy AI governance",
       "summary": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 뉴스와이어",
       "publishedAt": "2026-07-31T00:40:00.000Z",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "c23923d4861eda55",
@@ -74,7 +92,7 @@
       "source": "Google News: trustworthy AI governance",
       "summary": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service CEO경제신문",
       "publishedAt": "2026-07-31T00:14:00.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "3bbbc1abf292fc62",
@@ -83,7 +101,16 @@
       "source": "Google News: International Standardization",
       "summary": "KIND, 부패방지 국제표준 ISO 37001 사후심사 통과 대한경제",
       "publishedAt": "2026-07-31T00:03:45.000Z",
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "id": "047351b40dc585c8",
+      "title": "에이데이타, 데이터 품질인증 최고 등급 획득 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wNXlNUFQ1a05jdnhzRC0xN2U5aEZ0YUoxLThqb0lDU0NGcklsaGVGUW54bm9pc3NGczR4dkE3MkVLWEpmU0VqTzVoV0JhaU43cDBQVHcycW9ka2hVeW9rTy1XZ2VCTEw5WGFJU0ozMzBiZ9IBckFVX3lxTE0wNXlNUFQ1a05jdnhzRC0xN2U5aEZ0YUoxLThqb0lDU0NGcklsaGVGUW54bm9pc3NGczR4dkE3MkVLWEpmU0VqTzVoV0JhaU43cDBQVHcycW9ka2hVeW9rTy1XZ2VCTEw5WGFJU0ozMzBiZw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "에이데이타, 데이터 품질인증 최고 등급 획득 - 머니투데이 머니투데이",
+      "publishedAt": "2026-07-31T06:53:10.000Z",
+      "rank": 6
     },
     {
       "id": "2573173782eaf15c",
@@ -92,116 +119,89 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "도구로보틱스, ISO/IEC 27001-ISO 37301 인증 획득 데일리시큐",
       "publishedAt": "2026-07-30T08:21:49.000Z",
-      "rank": 4
-    },
-    {
-      "id": "73f475cbf86a0e3e",
-      "title": "쿠팡, 장애인 맞춤형 AI 직무 신설…1년 만에 10명으로 확대 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZ2VjUGFqaVNoa1BoczdkZGRSMU1RbVl5NGthdDl1YVFIVHlZeGQwaE0wMTZ4UlI4R0g5bHh2ZzV6RlBzVVFZdng4Ui1xSGx5REtFUFNPVVNTWHNpbWow?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "쿠팡, 장애인 맞춤형 AI 직무 신설…1년 만에 10명으로 확대 뉴스1",
-      "publishedAt": "2026-07-31T00:33:24.000Z",
-      "rank": 5
-    },
-    {
-      "id": "c506a5269ea98267",
-      "title": "[K-제조산업 ➊] 미래 테크 접목 ‘디지털 · AI’ 대전환 속 과제는? - 패션비즈",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xZEpqVG9GcTB1Nk1zOXc1N1dQMkVOYV9HMnlyeGtmSFFtV1U1ejhpOUM2bEtBQWJPcjRsSFpRTEN0UEVoTE5DRWVCT1FJckJV?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[K-제조산업 ➊] 미래 테크 접목 ‘디지털 · AI’ 대전환 속 과제는? 패션비즈",
-      "publishedAt": "2026-07-30T21:59:38.000Z",
-      "rank": 6
-    },
-    {
-      "id": "0f3f7a59816262f8",
-      "title": "Korea Venture Investment Acquires International Standard Ethical Management Certification… Compliance and Integrity System Recognized - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUUtIeTV2cVNfTWFiVG1DTTZhbEhhMUh2YlBiZk1jV3VFMVRMVFhTWC1oQnNZSnA4LVVCT1JFSHViQUVwR21kY1ZQcVZBWExwSTc0?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Korea Venture Investment Acquires International Standard Ethical Management Certification… Compliance and Integrity System Recognized 벤처스퀘어",
-      "publishedAt": "2026-07-30T06:55:15.000Z",
       "rank": 7
     },
     {
-      "id": "0894a500722729cd",
-      "title": "Yokogawa Electric Korea, VNTG Partner to Support AI Adoption Across Manufacturing Operations - 산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzSEhySkxnTE91cGZZQ1R4MXEwVTN0bDM0c2lZRnMzWTVXWnNFNFBqNUlNd0prVmVndXpzWlRyWlpqVGhrVnRNVA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Yokogawa Electric Korea, VNTG Partner to Support AI Adoption Across Manufacturing Operations 산업일보",
-      "publishedAt": "2026-07-30T10:30:35.000Z",
+      "id": "316bb8cc2d2dfe5e",
+      "title": "Protecting 4.5 Million Mental Care Data… Atomus Acquires International Information Security Certification - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WEwwRk81TjFhOVhfU3dUVXZGLUZNVThMR1pwUnA0SWJtSW03RHRrWGN0aXAxZktxTXA5NnVxZTlHdHRCUmNSOVFoV3d0VmJpTDdN?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Protecting 4.5 Million Mental Care Data… Atomus Acquires International Information Security Certification 벤처스퀘어",
+      "publishedAt": "2026-07-31T00:55:49.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "d6fb02dd5254a847",
-      "title": "Rivian Sees R2 Driving Its Path to Profitability",
-      "url": "https://www.youtube.com/watch?v=HECOcXPuqhU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/HECOcXPuqhU/hqdefault.jpg",
-      "publishedAt": "2026-07-30T20:48:35.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "3e51d19d21bd5c85",
-      "title": "Microsoft Wins, Meta Faces Questions, Qualcomm Sees Supply Chain Challenges | Bloomberg Tech",
-      "url": "https://www.youtube.com/watch?v=jCrr_x59Pq8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/jCrr_x59Pq8/hqdefault.jpg",
-      "publishedAt": "2026-07-30T18:52:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "dfa41692b1850932",
-      "title": "Qualcomm Sees AI Driving Its Next Growth Wave",
-      "url": "https://www.youtube.com/watch?v=XNUtWdKI4D8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/XNUtWdKI4D8/hqdefault.jpg",
-      "publishedAt": "2026-07-30T18:09:39.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "404b1acf555fb6be",
-      "title": "K2 Space Lands $500 Million to Scale Satellite Production",
-      "url": "https://www.youtube.com/watch?v=lYWvESoEJes",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/lYWvESoEJes/hqdefault.jpg",
-      "publishedAt": "2026-07-30T18:03:35.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e736fcc4175c358b",
-      "title": "Microsoft's AI Story Is Still Being Discovered, Says Goldman",
-      "url": "https://www.youtube.com/watch?v=78pWSEeqln8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/78pWSEeqln8/hqdefault.jpg",
-      "publishedAt": "2026-07-30T17:57:12.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "82441fa17ed2fdb5",
-      "title": "Why SeatGeek walked away from going public with Jack Groetzinger",
-      "url": "https://www.youtube.com/watch?v=FZaMLWOjKdA",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/FZaMLWOjKdA/hqdefault.jpg",
-      "publishedAt": "2026-07-30T17:45:20.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "33101b4496c20d3a",
-      "title": "SeatGeek Beat the Odds: Raising $400M, Surviving COVID & Competing with Ticketmaster l Build Mode",
-      "url": "https://www.youtube.com/watch?v=AiZWd5cxmik",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/AiZWd5cxmik/hqdefault.jpg",
-      "publishedAt": "2026-07-30T17:43:06.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "43f17711f1463fb9",
-      "title": "Full Moon: MLB + Gemini on Google Cloud look at baseball’s wild side",
-      "url": "https://www.youtube.com/watch?v=367xEb6yqiI",
+      "id": "3c5f62b5d25c55ca",
+      "title": "New Way Now: Mars accelerates marketing campaigns from months to weeks with Gemini Enterprise",
+      "url": "https://www.youtube.com/watch?v=NfHXzDXgUBs",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/367xEb6yqiI/hqdefault.jpg",
-      "publishedAt": "2026-07-30T16:11:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NfHXzDXgUBs/hqdefault.jpg",
+      "publishedAt": "2026-07-31T21:45:27.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "195e57c4b821932e",
+      "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
+      "url": "https://www.youtube.com/watch?v=Wa-lrNaol8k",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Wa-lrNaol8k/hqdefault.jpg",
+      "publishedAt": "2026-07-31T19:06:12.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "583b6404e48a63b9",
+      "title": "Introducing Gemini Robotics 2",
+      "url": "https://www.youtube.com/watch?v=-rYFDefcq3k",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/-rYFDefcq3k/hqdefault.jpg",
+      "publishedAt": "2026-07-31T19:00:37.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "78d0a3ca1f95f530",
+      "title": "Moonshot's Kimi Built With Nvidia Compute",
+      "url": "https://www.youtube.com/watch?v=palXzh1zYy0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/palXzh1zYy0/hqdefault.jpg",
+      "publishedAt": "2026-07-31T18:55:46.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "49823f56024a4ab1",
+      "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
+      "url": "https://www.youtube.com/watch?v=xSu3gFx7efQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/xSu3gFx7efQ/hqdefault.jpg",
+      "publishedAt": "2026-07-31T18:50:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "68435193cf77ec4b",
+      "title": "Amazon's AI Story Is a 'Game Changer,' Says Mizuho",
+      "url": "https://www.youtube.com/watch?v=RbRuH8BDUtk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/RbRuH8BDUtk/hqdefault.jpg",
+      "publishedAt": "2026-07-31T18:46:01.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c6e5ddb6a633c3ae",
+      "title": "Sam Altman isn't the only one who wants to pump the brakes on AI | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=Gmmzj6COGtk",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/Gmmzj6COGtk/hqdefault.jpg",
+      "publishedAt": "2026-07-31T17:18:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "0709a2f8d569e25e",
+      "title": "Voice Agent observability with LangSmith",
+      "url": "https://www.youtube.com/watch?v=z6l5nyE_6-I",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/z6l5nyE_6-I/hqdefault.jpg",
+      "publishedAt": "2026-07-31T16:22:34.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-30T02:27:41.000Z"
+      "updatedAt": "2026-07-31T02:52:38.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
