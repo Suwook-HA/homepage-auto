@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-01T02:46:50.967Z",
-  "projectsCheckedAt": "2026-08-01T02:46:50.967Z",
-  "projectsUpdatedAt": "2026-08-01T02:46:50.967Z",
+  "updatedAt": "2026-08-02T02:45:40.759Z",
+  "projectsCheckedAt": "2026-08-02T02:45:40.759Z",
+  "projectsUpdatedAt": "2026-08-02T02:45:40.759Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-01T02:46:50.967Z",
+    "checkedAt": "2026-08-02T02:45:40.759Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "72a2e5fe1639d241",
+      "title": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) - mfgkr.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01eUdHd2JKajdyRTV2RjNWbkVpWDdJeVNpZTV1elUwRi1zUVI2OU1PZElqblhnX3R2Q2RJSGlnOVBtRS1SdVhCNU8tVVpfQkJUQlNJeFdOWEJtb1BVZjhKdE1EaHl2dw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) mfgkr.com",
+      "publishedAt": "2026-08-01T06:44:36.000Z",
+      "rank": 1
+    },
+    {
+      "id": "8cdfcc987e6dca44",
+      "title": "LG전자, 피지컬 AI 사업 전환 속도 \"엔비디아·중국업체와 로보틱스 협력\" : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTdIa0ZhM1dCVEFfckdjYXZWX0xKdnJHNHFnNDB5aUMyRUI5SVZOdE1ZRFlWU3RTUGxVZWE2cEdsVFBoNW9oeW8tbmZjWkgydFJOWFZyQWEwRmMwb2pRRVhseEhocXc4b1VGSGNlMmxZZVlYWTZteTV0ay1NdTFMQWVZVXpwZUpPa0pkQmcxNA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "LG전자, 피지컬 AI 사업 전환 속도 \"엔비디아·중국업체와 로보틱스 협력\" : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-08-02T00:27:06.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b373220589a1cfe1",
+      "title": "데이터와 스마트 제조가 만드는 코오로이의 생산 경쟁력 - 품질은 생산 현장에서 완성된다 - mfgkr.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Zy1PSUFCVk45ejVnUUR2VDZCZjhwUHhvMkhSeVgzS2tGZG1BV2IwdkFZSllpTnhfWUhUR0xWT1VBVVZiX3RURnZ1VVptWERUai1yRlozcnZEWmtXbDFZQkZJQmJIZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "데이터와 스마트 제조가 만드는 코오로이의 생산 경쟁력 - 품질은 생산 현장에서 완성된다 mfgkr.com",
+      "publishedAt": "2026-08-01T06:49:34.000Z",
+      "rank": 3
+    },
     {
       "id": "a535a9ee5a9e68ee",
       "title": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 - beSUCCESS",
@@ -65,43 +92,25 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 beSUCCESS",
       "publishedAt": "2026-07-31T03:57:05.000Z",
-      "rank": 1
-    },
-    {
-      "id": "9d482edaa468c61b",
-      "title": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVUN1SFgyZElpeUFUWVI2U0dtdmxvQXg4dGQ0SXhiS3hEMngtcXFaSFJjYW80Uk8xeTFzX01RemNVUW4zZ2xnakVVVHlhMXppOWI2ZHNmdlhCbk1DdFN6ag?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining 네이트",
-      "publishedAt": "2026-07-31T23:19:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "7a3e979ac2c4e19f",
-      "title": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4TTExYmtCOWE4THg5Wm5mZlNqZHdhMTdWYjZ3Xzk4U3ZYZWVxU2VmSXhvVWxHSVRnaV9xX2NxcjJrUFZoNDJDUTk5ZWVYd1JkTWxXNWVXRE5TRDZrTEIw?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 뉴스와이어",
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "c23923d4861eda55",
-      "title": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service - CEO경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SUUFCZW1Qc1U3SGhCTEI0Mm9IU2FnRHBwZjdNNzIzMDhldEUtVkRxTmtfRHlQWVZwcUJkSkZzX3pHOE82djZyRVM1VDllNVhHclo5b1NvUGJnVlRYX0k5ZFNNZ0lUeFNRUDY1dA?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service CEO경제신문",
-      "publishedAt": "2026-07-31T00:14:00.000Z",
       "rank": 4
     },
     {
-      "id": "3bbbc1abf292fc62",
-      "title": "KIND, 부패방지 국제표준 ISO 37001 사후심사 통과 - 대한경제",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZkc3YzNRLURrekxFQ21CWWxDZUJOVVRlRjVST2VKWTJoaE5TSGRibXRsa242ZFMyZUttWVZKZjlqNlAtS0pra0NRX2pZYldBV0FUOTR0ZmFxT3dYOTFnYV81bHRWVkpyb2FrWEJaTlNRbUxK?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "KIND, 부패방지 국제표준 ISO 37001 사후심사 통과 대한경제",
-      "publishedAt": "2026-07-31T00:03:45.000Z",
+      "id": "7db5709ccc8193a5",
+      "title": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVUN1SFgyZElpeUFUWVI2U0dtdmxvQXg4dGQ0SXhiS3hEMngtcXFaSFJjYW80Uk8xeTFzX01RemNVUW4zZ2xnakVVVHlhMXppOWI2ZHNmdlhCbk1DdFN6ag?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining news.nate.com",
+      "publishedAt": "2026-07-31T23:19:00.000Z",
       "rank": 5
+    },
+    {
+      "id": "2b5f7b37c23c569f",
+      "title": "ULS|UL Solutions Inc|가격:92.150|Chg%:-0.230 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aNVZrcFZpUGkzVlktUXhQUndBUEtybGp2YkVqU0xCSXJiTk83aGtjbkpia0tQNkxzY2RHV29xU1B3MnVoLXY4NFNOV0ZpY045d0NHVnRSV1BPemZfMkd5VHNZREZfeFlCbVFMS0VPYmw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ULS|UL Solutions Inc|가격:92.150|Chg%:-0.230 TradingKey",
+      "publishedAt": "2026-07-31T09:55:56.000Z",
+      "rank": 6
     },
     {
       "id": "047351b40dc585c8",
@@ -110,24 +119,15 @@
       "source": "Google News: data quality standard",
       "summary": "에이데이타, 데이터 품질인증 최고 등급 획득 - 머니투데이 머니투데이",
       "publishedAt": "2026-07-31T06:53:10.000Z",
-      "rank": 6
-    },
-    {
-      "id": "2573173782eaf15c",
-      "title": "도구로보틱스, ISO/IEC 27001-ISO 37301 인증 획득 - 데일리시큐",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVVTZlMkVnd0U2MHJqbHhzZThBX3ZZbERFeHR3WFFGdURWdTdjRF84X1FWUVJ3azhYMTc5UHp1end2UjJfaXJfSjB4bU1TbXBZWVg0YlRrdHlJMDByWFl3WFVvVVlqWjNYWWlDVw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "도구로보틱스, ISO/IEC 27001-ISO 37301 인증 획득 데일리시큐",
-      "publishedAt": "2026-07-30T08:21:49.000Z",
       "rank": 7
     },
     {
-      "id": "316bb8cc2d2dfe5e",
-      "title": "Protecting 4.5 Million Mental Care Data… Atomus Acquires International Information Security Certification - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WEwwRk81TjFhOVhfU3dUVXZGLUZNVThMR1pwUnA0SWJtSW03RHRrWGN0aXAxZktxTXA5NnVxZTlHdHRCUmNSOVFoV3d0VmJpTDdN?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "Protecting 4.5 Million Mental Care Data… Atomus Acquires International Information Security Certification 벤처스퀘어",
-      "publishedAt": "2026-07-31T00:55:49.000Z",
+      "id": "7a3e979ac2c4e19f",
+      "title": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4TTExYmtCOWE4THg5Wm5mZlNqZHdhMTdWYjZ3Xzk4U3ZYZWVxU2VmSXhvVWxHSVRnaV9xX2NxcjJrUFZoNDJDUTk5ZWVYd1JkTWxXNWVXRE5TRDZrTEIw?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 뉴스와이어",
+      "publishedAt": "2026-07-31T00:40:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-07-31T02:52:38.000Z"
+      "updatedAt": "2026-08-01T02:50:56.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
