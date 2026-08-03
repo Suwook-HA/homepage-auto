@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-02T02:45:40.759Z",
-  "projectsCheckedAt": "2026-08-02T02:45:40.759Z",
-  "projectsUpdatedAt": "2026-08-02T02:45:40.759Z",
+  "updatedAt": "2026-08-03T02:46:48.745Z",
+  "projectsCheckedAt": "2026-08-03T02:46:48.745Z",
+  "projectsUpdatedAt": "2026-08-03T02:46:48.745Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-02T02:45:40.759Z",
+    "checkedAt": "2026-08-03T02:46:48.745Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "01d5108d5b551eff",
+      "title": "그렙, AI 역량평가로 채용·교육·조직 진단까지 표준화…시험 한계 극복 앞장 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmdDNrUGtnNzFCRUl3bFdGUlpKUEJVSW5ISnExSHZVQjZ2ei1aZGJvekRLYlh3WjB0Y1JuSzdIUC1wbU8tejFmUTlWbUxuMWg2NzdGQWlVNG9mMXM3SDFn?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "그렙, AI 역량평가로 채용·교육·조직 진단까지 표준화…시험 한계 극복 앞장 헬로티",
+      "publishedAt": "2026-08-03T00:37:49.000Z",
+      "rank": 1
+    },
+    {
+      "id": "107341bbd49bf297",
+      "title": "AI Can Write Research Papers. But Can Researchers Trust the Citations? Wispaper Says That's the Next Challenge for Academic AI - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb0ZzRElYYW9aOGtWc0ZWcFBXME5MOG91S3NxemI4TWh1a2xwSkpLVFRYNzhSRFR1VlhfR0F6bW9fZEUwYjNwSHdnaHg5WGJ6cmhvekNjeFJtNTBHSWxtX0hMSEJkU0ttT29TeQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "AI Can Write Research Papers. But Can Researchers Trust the Citations? Wispaper Says That's the Next Challenge for Academic AI IT비즈뉴스",
+      "publishedAt": "2026-08-02T13:28:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "44a09c42c5673752",
+      "title": "암 환자 근육 줄이는 '악액질' 막는다···KAIST, RNA 치료 전략 개발 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QNHRTX2k1bVFpamM4TF9XWG40bHM3V2ZLZEVtUG1iS0RxUWNIMGQwcko3YXpCNTdCUWJsbVBMc0FBVl9EbnM1U0xOY01nYzBIRFNDSFVteFFzamNZbzNwWGlFSXB6MnZPUXc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "암 환자 근육 줄이는 '악액질' 막는다···KAIST, RNA 치료 전략 개발 헬로디디",
+      "publishedAt": "2026-08-02T08:10:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "65603d5d03141999",
+      "title": "韓美, AI·양자기술 '국제표준' 주도권 잡는다 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xVk0yS0hjUFZCWHg3R3lJcVJELXdaZTkxaUlJbnY4ZklwdV8yMmNqSWFIcmRXeTlhSWxvcnVCbEtSdkVFaXd4ZTVTaUtTZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "韓美, AI·양자기술 '국제표준' 주도권 잡는다 전자신문",
+      "publishedAt": "2026-08-02T03:36:05.000Z",
+      "rank": 4
+    },
     {
       "id": "72a2e5fe1639d241",
       "title": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) - mfgkr.com",
@@ -65,7 +101,25 @@
       "source": "Google News: Digital Transformation",
       "summary": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) mfgkr.com",
       "publishedAt": "2026-08-01T06:44:36.000Z",
-      "rank": 1
+      "rank": 5
+    },
+    {
+      "id": "37ebbce4c077f453",
+      "title": "한·미, AI·양자기술 국제표준 선점 손잡는다 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocFRKM3VIZEljTTJyaHBGZzBCMkZRTWlkb3FJUlpEN2Vhd3ZiMjVqaWFDTW0ya1RYV3kzNFRsX2QtcFhiYU5VeWRfQmk4M29Tci11ekd3UlRDNV8yRHA3c0RHUjI?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한·미, AI·양자기술 국제표준 선점 손잡는다 서울경제TV",
+      "publishedAt": "2026-08-02T02:00:04.000Z",
+      "rank": 6
+    },
+    {
+      "id": "029362a0e56241e1",
+      "title": "AI·양자 국제표준 공조 강화…한·미 표준 협력 본격화 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUjRlZlMxSVYzbEVrUk03NEhmMHNuOHBrZHR2N0VmQkJLa3BadWJhOFJsM3VLOEVWS0h1TWNGWEZMVXA5b1hOaVo3VUJQd1JPTlp1LVhNZ3dIZjM2Z1pJRTRLSVZ4LTIxSVE0V1dHZE8?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "AI·양자 국제표준 공조 강화…한·미 표준 협력 본격화 신아일보",
+      "publishedAt": "2026-08-02T02:00:00.000Z",
+      "rank": 7
     },
     {
       "id": "8cdfcc987e6dca44",
@@ -74,64 +128,19 @@
       "source": "Google News: AI Data Quality",
       "summary": "LG전자, 피지컬 AI 사업 전환 속도 \"엔비디아·중국업체와 로보틱스 협력\" : 네이버 블로그 Naver Blog",
       "publishedAt": "2026-08-02T00:27:06.000Z",
-      "rank": 2
-    },
-    {
-      "id": "b373220589a1cfe1",
-      "title": "데이터와 스마트 제조가 만드는 코오로이의 생산 경쟁력 - 품질은 생산 현장에서 완성된다 - mfgkr.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Zy1PSUFCVk45ejVnUUR2VDZCZjhwUHhvMkhSeVgzS2tGZG1BV2IwdkFZSllpTnhfWUhUR0xWT1VBVVZiX3RURnZ1VVptWERUai1yRlozcnZEWmtXbDFZQkZJQmJIZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "데이터와 스마트 제조가 만드는 코오로이의 생산 경쟁력 - 품질은 생산 현장에서 완성된다 mfgkr.com",
-      "publishedAt": "2026-08-01T06:49:34.000Z",
-      "rank": 3
-    },
-    {
-      "id": "a535a9ee5a9e68ee",
-      "title": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 - beSUCCESS",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90X1NqX0xzU0ZCdVR2ZzM2VVZtUk9TWEdrRGUzVmlRbDNRZ1N0cUhuSXF1YlFTVEhZUE5WNDZTLVhBWmtFdnc?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "마인드카페 운영사 아토머스, 국제 정보보호 표준 ‘ISO/IEC 27001’ 인증 획득 beSUCCESS",
-      "publishedAt": "2026-07-31T03:57:05.000Z",
-      "rank": 4
-    },
-    {
-      "id": "7db5709ccc8193a5",
-      "title": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining - news.nate.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVUN1SFgyZElpeUFUWVI2U0dtdmxvQXg4dGQ0SXhiS3hEMngtcXFaSFJjYW80Uk8xeTFzX01RemNVUW4zZ2xnakVVVHlhMXppOWI2ZHNmdlhCbk1DdFN6ag?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[PRNewswire] XCMG Outlines Three Pathways for Greener Mining news.nate.com",
-      "publishedAt": "2026-07-31T23:19:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "2b5f7b37c23c569f",
-      "title": "ULS|UL Solutions Inc|가격:92.150|Chg%:-0.230 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aNVZrcFZpUGkzVlktUXhQUndBUEtybGp2YkVqU0xCSXJiTk83aGtjbkpia0tQNkxzY2RHV29xU1B3MnVoLXY4NFNOV0ZpY045d0NHVnRSV1BPemZfMkd5VHNZREZfeFlCbVFMS0VPYmw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "ULS|UL Solutions Inc|가격:92.150|Chg%:-0.230 TradingKey",
-      "publishedAt": "2026-07-31T09:55:56.000Z",
-      "rank": 6
-    },
-    {
-      "id": "047351b40dc585c8",
-      "title": "에이데이타, 데이터 품질인증 최고 등급 획득 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wNXlNUFQ1a05jdnhzRC0xN2U5aEZ0YUoxLThqb0lDU0NGcklsaGVGUW54bm9pc3NGczR4dkE3MkVLWEpmU0VqTzVoV0JhaU43cDBQVHcycW9ka2hVeW9rTy1XZ2VCTEw5WGFJU0ozMzBiZ9IBckFVX3lxTE0wNXlNUFQ1a05jdnhzRC0xN2U5aEZ0YUoxLThqb0lDU0NGcklsaGVGUW54bm9pc3NGczR4dkE3MkVLWEpmU0VqTzVoV0JhaU43cDBQVHcycW9ka2hVeW9rTy1XZ2VCTEw5WGFJU0ozMzBiZw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "에이데이타, 데이터 품질인증 최고 등급 획득 - 머니투데이 머니투데이",
-      "publishedAt": "2026-07-31T06:53:10.000Z",
-      "rank": 7
-    },
-    {
-      "id": "7a3e979ac2c4e19f",
-      "title": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4TTExYmtCOWE4THg5Wm5mZlNqZHdhMTdWYjZ3Xzk4U3ZYZWVxU2VmSXhvVWxHSVRnaV9xX2NxcjJrUFZoNDJDUTk5ZWVYd1JkTWxXNWVXRE5TRDZrTEIw?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Experian Recognized by Chartis Research for Advancing AI Model Governance in Quantitative Analytics50 2026 뉴스와이어",
-      "publishedAt": "2026-07-31T00:40:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "56db8933fddf69e0",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
+      "publishedAt": "2026-08-02T15:01:10.000Z",
+      "viewCount": 0
+    },
     {
       "id": "3c5f62b5d25c55ca",
       "title": "New Way Now: Mars accelerates marketing campaigns from months to weeks with Gemini Enterprise",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Gmmzj6COGtk/hqdefault.jpg",
       "publishedAt": "2026-07-31T17:18:34.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "0709a2f8d569e25e",
-      "title": "Voice Agent observability with LangSmith",
-      "url": "https://www.youtube.com/watch?v=z6l5nyE_6-I",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/z6l5nyE_6-I/hqdefault.jpg",
-      "publishedAt": "2026-07-31T16:22:34.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-01T02:50:56.000Z"
+      "updatedAt": "2026-08-02T02:49:44.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
