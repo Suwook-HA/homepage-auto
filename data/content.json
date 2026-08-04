@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-03T02:46:48.745Z",
-  "projectsCheckedAt": "2026-08-03T02:46:48.745Z",
-  "projectsUpdatedAt": "2026-08-03T02:46:48.745Z",
+  "updatedAt": "2026-08-04T02:30:36.465Z",
+  "projectsCheckedAt": "2026-08-04T02:30:36.465Z",
+  "projectsUpdatedAt": "2026-08-04T02:30:36.465Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,84 +54,138 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-03T02:46:48.745Z",
+    "checkedAt": "2026-08-04T02:30:36.465Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "01d5108d5b551eff",
-      "title": "그렙, AI 역량평가로 채용·교육·조직 진단까지 표준화…시험 한계 극복 앞장 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmdDNrUGtnNzFCRUl3bFdGUlpKUEJVSW5ISnExSHZVQjZ2ei1aZGJvekRLYlh3WjB0Y1JuSzdIUC1wbU8tejFmUTlWbUxuMWg2NzdGQWlVNG9mMXM3SDFn?oc=5",
+      "id": "7a25c80339cb5383",
+      "title": "KT, 연세의료원과 의료 AI 고도화 맞손…의료 데이터 표준화·활용 기반 강화 - 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuRGVUb2xIOExaMHpQRFdUNkQxVEM0MVAtR1FiOGkyTEE5S3NBSi1pajdKSzJLMkxpaXJJak5iZkhtMGZYeHBzNDFXRFRJcG5Qcl9WRDFBT2xjTFpsTU5xR25tTldOQQ?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "그렙, AI 역량평가로 채용·교육·조직 진단까지 표준화…시험 한계 극복 앞장 헬로티",
-      "publishedAt": "2026-08-03T00:37:49.000Z",
+      "summary": "KT, 연세의료원과 의료 AI 고도화 맞손…의료 데이터 표준화·활용 기반 강화 이로운넷",
+      "publishedAt": "2026-08-04T00:39:20.000Z",
       "rank": 1
     },
     {
-      "id": "107341bbd49bf297",
-      "title": "AI Can Write Research Papers. But Can Researchers Trust the Citations? Wispaper Says That's the Next Challenge for Academic AI - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb0ZzRElYYW9aOGtWc0ZWcFBXME5MOG91S3NxemI4TWh1a2xwSkpLVFRYNzhSRFR1VlhfR0F6bW9fZEUwYjNwSHdnaHg5WGJ6cmhvekNjeFJtNTBHSWxtX0hMSEJkU0ttT29TeQ?oc=5",
+      "id": "fd8d0200c97c30f2",
+      "title": "AI로 이미지 생성…유럽 새 규정 등장 - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44UE1NdjVIa2pBY1FuLW5xVElVVHlDN3lUdjdfcURQZWFQOGtPLXZYeHQtYXp0ZFZHeHRKSXZPVGtlYXlsemMwV1J0d2ZHRFczTjlRNVBsd05lckQ5WmZfUkZBdkFnb2VYeGJ2UTJJVnVVWmxvMFE?oc=5",
       "source": "Google News: Trustworthy AI",
-      "summary": "AI Can Write Research Papers. But Can Researchers Trust the Citations? Wispaper Says That's the Next Challenge for Academic AI IT비즈뉴스",
-      "publishedAt": "2026-08-02T13:28:00.000Z",
+      "summary": "AI로 이미지 생성…유럽 새 규정 등장 BeInCrypto",
+      "publishedAt": "2026-08-03T16:37:49.000Z",
       "rank": 2
     },
     {
-      "id": "44a09c42c5673752",
-      "title": "암 환자 근육 줄이는 '악액질' 막는다···KAIST, RNA 치료 전략 개발 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QNHRTX2k1bVFpamM4TF9XWG40bHM3V2ZLZEVtUG1iS0RxUWNIMGQwcko3YXpCNTdCUWJsbVBMc0FBVl9EbnM1U0xOY01nYzBIRFNDSFVteFFzamNZbzNwWGlFSXB6MnZPUXc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "암 환자 근육 줄이는 '악액질' 막는다···KAIST, RNA 치료 전략 개발 헬로디디",
-      "publishedAt": "2026-08-02T08:10:00.000Z",
+      "id": "6d6e8a656417df8b",
+      "title": "GS ITM, IT서비스관리 국제표준 'ISO 20000' 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFS1RyMS1KcHZKczJ3TkxqR0RUaUFfVE95dkMyWmt0NV9JTmJyeklhM2lwWV9ZSER2eXBweVVkbnVVWThCSzl3Z05DZVd1dw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "GS ITM, IT서비스관리 국제표준 'ISO 20000' 획득 전자신문",
+      "publishedAt": "2026-08-03T05:44:07.000Z",
       "rank": 3
     },
     {
-      "id": "65603d5d03141999",
-      "title": "韓美, AI·양자기술 '국제표준' 주도권 잡는다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xVk0yS0hjUFZCWHg3R3lJcVJELXdaZTkxaUlJbnY4ZklwdV8yMmNqSWFIcmRXeTlhSWxvcnVCbEtSdkVFaXd4ZTVTaUtTZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓美, AI·양자기술 '국제표준' 주도권 잡는다 전자신문",
-      "publishedAt": "2026-08-02T03:36:05.000Z",
+      "id": "262447dd5cda3f58",
+      "title": "주방의 디지털 혁신을 이끄는 스마트 배급 시스템 - 호텔앤레스토랑",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VDZwLVc1VENSQ0FlSExJMERpMkhWeF9VVFJ3ajgwRmhXaXQ0UTlRRmxrS2J6aWVYLXNDbkNPUlA4bHBoekdIZzFBNVJMR3hLZlNWd1hFWW1xZnNrQS1zS2FqcWJEemd5c01IRjJSb3lPZURHWHc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "주방의 디지털 혁신을 이끄는 스마트 배급 시스템 호텔앤레스토랑",
+      "publishedAt": "2026-08-03T10:25:04.000Z",
       "rank": 4
     },
     {
-      "id": "72a2e5fe1639d241",
-      "title": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) - mfgkr.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01eUdHd2JKajdyRTV2RjNWbkVpWDdJeVNpZTV1elUwRi1zUVI2OU1PZElqblhnX3R2Q2RJSGlnOVBtRS1SdVhCNU8tVVpfQkJUQlNJeFdOWEJtb1BVZjhKdE1EaHl2dw?oc=5",
+      "id": "601c41634ddcee06",
+      "title": "[클랩의 리더 Insight] AX 컨설팅이란 무엇인가 : AI는 도입했는데 왜 조직은 그대로일까 - mobiinside.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMjQwTmtIRkxSRmlBNDFMTEJreE5aR3FuYUw5Znk5OGtxWjVObWtqbVh3bUVOYU9feW4xSmhnYWZzcWhCTVFNcHZsNHotODFLUW1zVmVhZllsWUtSQkhRcklCaVdqMUFsQ1c1ZHY2SE1FQkYya25XRkdKcE4?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "DMG MORI, CNC 제조의 디지털 혁신을 재정의하다 - Green Transformation(GX) and Digital Transformation (DX) mfgkr.com",
-      "publishedAt": "2026-08-01T06:44:36.000Z",
+      "summary": "[클랩의 리더 Insight] AX 컨설팅이란 무엇인가 : AI는 도입했는데 왜 조직은 그대로일까 mobiinside.co.kr",
+      "publishedAt": "2026-08-03T08:59:01.000Z",
       "rank": 5
     },
     {
-      "id": "37ebbce4c077f453",
-      "title": "한·미, AI·양자기술 국제표준 선점 손잡는다 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocFRKM3VIZEljTTJyaHBGZzBCMkZRTWlkb3FJUlpEN2Vhd3ZiMjVqaWFDTW0ya1RYV3kzNFRsX2QtcFhiYU5VeWRfQmk4M29Tci11ekd3UlRDNV8yRHA3c0RHUjI?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "한·미, AI·양자기술 국제표준 선점 손잡는다 서울경제TV",
-      "publishedAt": "2026-08-02T02:00:04.000Z",
+      "id": "9116cec224d4a0eb",
+      "title": "14년 방치 공동관리아파트 부지, AI시대 국가R&D거점 될까 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tcllvbm9HRFprQlEtUVpqc3E1ME52TW90MlREU0dOcWd4SG9vMTNBelNxX0hpSW15am5aTFp0T2RLdVdRUWRiUVdhQ1hJSDFxRlN5RnVMT0IzMUxwci1mTjQ1X0Fja29xdmc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "14년 방치 공동관리아파트 부지, AI시대 국가R&D거점 될까 헬로디디",
+      "publishedAt": "2026-08-03T08:40:00.000Z",
       "rank": 6
     },
     {
-      "id": "029362a0e56241e1",
-      "title": "AI·양자 국제표준 공조 강화…한·미 표준 협력 본격화 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUjRlZlMxSVYzbEVrUk03NEhmMHNuOHBrZHR2N0VmQkJLa3BadWJhOFJsM3VLOEVWS0h1TWNGWEZMVXA5b1hOaVo3VUJQd1JPTlp1LVhNZ3dIZjM2Z1pJRTRLSVZ4LTIxSVE0V1dHZE8?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "AI·양자 국제표준 공조 강화…한·미 표준 협력 본격화 신아일보",
-      "publishedAt": "2026-08-02T02:00:00.000Z",
+      "id": "b042f863135a76bd",
+      "title": "AI·양자기술 국제표준 공조 강화…한·미 표준협력 확대 - 양자신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GN0h0TnFLM1FSZmNyZGk3ZzRWWDJQUEdqNHZOR0ZpQlFJVVUtV01ObUlWWHpNeFhjTUF0NTZMRFR3LVpacUd6cVhTQWNfOXpha3g3X2tROVhkNkE1eXV5SzZsYWFIT2wxcEZDVnkyWQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "AI·양자기술 국제표준 공조 강화…한·미 표준협력 확대 양자신문",
+      "publishedAt": "2026-08-03T08:24:04.000Z",
       "rank": 7
     },
     {
-      "id": "8cdfcc987e6dca44",
-      "title": "LG전자, 피지컬 AI 사업 전환 속도 \"엔비디아·중국업체와 로보틱스 협력\" : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTdIa0ZhM1dCVEFfckdjYXZWX0xKdnJHNHFnNDB5aUMyRUI5SVZOdE1ZRFlWU3RTUGxVZWE2cEdsVFBoNW9oeW8tbmZjWkgydFJOWFZyQWEwRmMwb2pRRVhseEhocXc4b1VGSGNlMmxZZVlYWTZteTV0ay1NdTFMQWVZVXpwZUpPa0pkQmcxNA?oc=5",
+      "id": "e0ed15bd17568561",
+      "title": "CJ OliveNetworks Accelerates AI Transformation Strategy Across Manufacturing and Logistics - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpQW5rRzFhcDFSNmxUOFFXMzBhUHFXNWVxTzdWdzJjUlQtUzczWVNiVnVyU2JBdjZlM1hMN1RfaGtzcHp4SE9iVnBRM0dUODR6Vm1jYmd6ZXVleXMxRHRnS1U0SWR4UmR4YUVZUUY2UlE?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "LG전자, 피지컬 AI 사업 전환 속도 \"엔비디아·중국업체와 로보틱스 협력\" : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-08-02T00:27:06.000Z",
+      "summary": "CJ OliveNetworks Accelerates AI Transformation Strategy Across Manufacturing and Logistics Korea IT Times",
+      "publishedAt": "2026-08-03T08:04:26.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "58302c7228274968",
+      "title": "Alibaba's New Model, Amazon's AI Win and Apple's Next Chapter | Bloomberg Tech 8/3/2026",
+      "url": "https://www.youtube.com/watch?v=g8s2t1EJj0k",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/g8s2t1EJj0k/hqdefault.jpg",
+      "publishedAt": "2026-08-03T19:00:34.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "563f20d800aa67db",
+      "title": "Why Apple Wants You to Upgrade More Often",
+      "url": "https://www.youtube.com/watch?v=58DsLrzsY1I",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/58DsLrzsY1I/hqdefault.jpg",
+      "publishedAt": "2026-08-03T18:28:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "29995b584169c313",
+      "title": "The Startup Turning Home Batteries Into Grid Infrastructure",
+      "url": "https://www.youtube.com/watch?v=dx1wLM4Dqg0",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/dx1wLM4Dqg0/hqdefault.jpg",
+      "publishedAt": "2026-08-03T18:17:43.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "1af24190fa74db1c",
+      "title": "Valar Atomics Raises $1 Billion to Power the AI Era",
+      "url": "https://www.youtube.com/watch?v=VbOUyhkZi4A",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/VbOUyhkZi4A/hqdefault.jpg",
+      "publishedAt": "2026-08-03T17:58:15.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b321a51fdb466453",
+      "title": "AWS Is Investing to Keep Up With Demand, CEO Says",
+      "url": "https://www.youtube.com/watch?v=uwNp7ydokJ4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/uwNp7ydokJ4/hqdefault.jpg",
+      "publishedAt": "2026-08-03T17:57:41.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "93970036dd24715d",
+      "title": "AWS CEO Says AI Business Is 'Just Massive'",
+      "url": "https://www.youtube.com/watch?v=suNu2us7qjY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/suNu2us7qjY/hqdefault.jpg",
+      "publishedAt": "2026-08-03T16:27:30.000Z",
+      "viewCount": 0
+    },
     {
       "id": "56db8933fddf69e0",
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
@@ -148,60 +202,6 @@
       "channel": "Google Cloud Tech",
       "thumbnail": "https://i.ytimg.com/vi/NfHXzDXgUBs/hqdefault.jpg",
       "publishedAt": "2026-07-31T21:45:27.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "195e57c4b821932e",
-      "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
-      "url": "https://www.youtube.com/watch?v=Wa-lrNaol8k",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Wa-lrNaol8k/hqdefault.jpg",
-      "publishedAt": "2026-07-31T19:06:12.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "583b6404e48a63b9",
-      "title": "Introducing Gemini Robotics 2",
-      "url": "https://www.youtube.com/watch?v=-rYFDefcq3k",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/-rYFDefcq3k/hqdefault.jpg",
-      "publishedAt": "2026-07-31T19:00:37.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "78d0a3ca1f95f530",
-      "title": "Moonshot's Kimi Built With Nvidia Compute",
-      "url": "https://www.youtube.com/watch?v=palXzh1zYy0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/palXzh1zYy0/hqdefault.jpg",
-      "publishedAt": "2026-07-31T18:55:46.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "49823f56024a4ab1",
-      "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
-      "url": "https://www.youtube.com/watch?v=xSu3gFx7efQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/xSu3gFx7efQ/hqdefault.jpg",
-      "publishedAt": "2026-07-31T18:50:54.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "68435193cf77ec4b",
-      "title": "Amazon's AI Story Is a 'Game Changer,' Says Mizuho",
-      "url": "https://www.youtube.com/watch?v=RbRuH8BDUtk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RbRuH8BDUtk/hqdefault.jpg",
-      "publishedAt": "2026-07-31T18:46:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c6e5ddb6a633c3ae",
-      "title": "Sam Altman isn't the only one who wants to pump the brakes on AI | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=Gmmzj6COGtk",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/Gmmzj6COGtk/hqdefault.jpg",
-      "publishedAt": "2026-07-31T17:18:34.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-02T02:49:44.000Z"
+      "updatedAt": "2026-08-03T02:50:57.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
