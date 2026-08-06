@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-05T02:30:24.080Z",
-  "projectsCheckedAt": "2026-08-05T02:30:24.080Z",
-  "projectsUpdatedAt": "2026-08-05T02:30:24.080Z",
+  "updatedAt": "2026-08-06T02:32:14.989Z",
+  "projectsCheckedAt": "2026-08-06T02:32:14.989Z",
+  "projectsUpdatedAt": "2026-08-06T02:32:14.989Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-05T02:30:24.080Z",
+    "checkedAt": "2026-08-06T02:32:14.989Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "d76eb4e3726b750d",
+      "title": "LG CNS to map AI transformation for Korea's airports - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42WWJ4SWFtSk15bVYzSGxfU01iWUxIVWlSSGg4U0o2UmhfSEExbjV0OUFiS0dyVjF1S2tjV3JCeU5hMWpiREJvZ2pSM3VRZ19vckR6VVpOWWh0LTYyTk9mOA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "LG CNS to map AI transformation for Korea's airports 네이트",
+      "publishedAt": "2026-08-06T01:32:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "d0eaf0073cf1b30d",
+      "title": "“AI 컨택센터 보안역량·기술력 입증” 케이엘씨앤에스, 국제표준 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxN0k2elk5eVJXTU85alNJOTZ6R3drRXhnU2RramQ2UHBIeVpyVExIR0xwTmw4QjN0NS1QSTl5MFpJYjVVQWIwdkVBWjEyQQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "“AI 컨택센터 보안역량·기술력 입증” 케이엘씨앤에스, 국제표준 획득 전자신문",
+      "publishedAt": "2026-08-06T00:18:54.000Z",
+      "rank": 2
+    },
+    {
+      "id": "00cbfdc89c92adf5",
+      "title": "INFINIX Digitizes Handwritten Military Logistics Documents with AI… Launches Development of Defense Data Processing System - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZ0Qyc2Fzei1sTUw2Nmx1VkxxZVpvd1Y5U3FQVlNiWUR2al9mV1RZZ1R5MHo5R3lHNDZzeWN6SWtSZUZfZHpGOGNYZ3hmS0k1Rndv?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "INFINIX Digitizes Handwritten Military Logistics Documents with AI… Launches Development of Defense Data Processing System 벤처스퀘어",
+      "publishedAt": "2026-08-05T14:56:33.000Z",
+      "rank": 3
+    },
+    {
+      "id": "90d06eafef3683b6",
+      "title": "충북대 정진섭 교수, 7월 ‘이달의 연구자’ 선정 - 충청매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15cjdiZVdveDhrV0wzbDVwdHYyVnVaNjVjWERMTkQ4Z1lLbDFOVDFwQ2Z0SmQyaEVUM3M5WjFOVmxJazRxeG83dmxxSVFQTzlnN25EZ21FMHIxVXFCcnRDM0x3UEl0RTRSQ0E?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "충북대 정진섭 교수, 7월 ‘이달의 연구자’ 선정 충청매일",
+      "publishedAt": "2026-08-05T09:10:10.000Z",
+      "rank": 4
+    },
     {
       "id": "0ef49b992a23ddbe",
       "title": "[COX] Samsung's 400-Layer Approach vs. SK Hynix's Open Standard: Diverging Paths for Next-Generation Memory - 콕스뉴스",
@@ -65,143 +101,107 @@
       "source": "Google News: International Standardization",
       "summary": "[COX] Samsung's 400-Layer Approach vs. SK Hynix's Open Standard: Diverging Paths for Next-Generation Memory 콕스뉴스",
       "publishedAt": "2026-08-05T01:09:46.000Z",
-      "rank": 1
-    },
-    {
-      "id": "f6d5c390ca4c766c",
-      "title": "Minor Hotels Accelerates Global Digital Transformation with Oracle Cloud - Oracle",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOak45ZmxQdTZyZ3FxNzBMQVdjeHJTWTlOUHJFMXNmaWJwZWxvVXZwNWFDTGtoZjNXbEpDY1ZpSTYyR2lqU2ZZOTc3TGlURGpVR01CSEJScDlMTl9nUUtSVGtZSE83bTQ1c0ljSFhYUVdIa1Z2X19tc2tPOEt4LU03NEJieEM0eWdMNF91Y2t6UGhvLUJmNzZrS1BhbHNqUXN1dXg5VmRuWDd4eUV6WHNETVd0cTRSZ3ZfNjNvcnREajRHWFQtaDVR?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Minor Hotels Accelerates Global Digital Transformation with Oracle Cloud Oracle",
-      "publishedAt": "2026-08-04T03:32:17.000Z",
-      "rank": 2
-    },
-    {
-      "id": "e231ab3645d775a1",
-      "title": "SAP and Visa Join Forces… Collaboration on Everything from Corporate Digital Transformation to B2B Payment Innovation - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWng2WnlwQVFMbjBGdFhTZ1NhZ3dmRTJlRWMxd0FjWjdGZnhTalpVVmo0U0JhaWxmVWlfa3lHcjNyREdOUjY2UXVJZEhvSHZlXzd3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "SAP and Visa Join Forces… Collaboration on Everything from Corporate Digital Transformation to B2B Payment Innovation 벤처스퀘어",
-      "publishedAt": "2026-08-04T02:31:13.000Z",
-      "rank": 3
-    },
-    {
-      "id": "df7edc13b17609eb",
-      "title": "인벤테라 '인비니티' 진단에서 치료제로…IP-R&D사업 선정 - 팜이데일리",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BV3RMQTNBbTlsM0NURFZnbzhYZ3ZfYWVERlpDa2ZpVDVPbTZ5a3hXMmdPNkRXeUlGRVhZQ2pLRV9kRnRqQjhoN3M2MjBQQkV0ek5GWXNNWWxlSFNoVUF1WmhjM1FpY0drck0weTZB?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "인벤테라 '인비니티' 진단에서 치료제로…IP-R&D사업 선정 팜이데일리",
-      "publishedAt": "2026-08-05T02:21:23.000Z",
-      "rank": 4
-    },
-    {
-      "id": "ff26c5f6923bc978",
-      "title": "AI가 굶어 죽기 시작했다 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQaDhScmtHQWJtcDFTUEJzNVY3bFFMNlZkbUY4STNjX014WUFpRmJFNU9lM05DdzRrek5hRlI0NWFoTVlYRFdoeA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-08-04T21:07:39.000Z",
       "rank": 5
     },
     {
-      "id": "116c6deb27a83fb8",
-      "title": "슬롯 머신 가격 에서 성공하는 방법: 전문가들의 조언 - 스텝 바이 스텝 가이드 - les24heures.fr",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13MXRlbFpYa25lWk9yRWdlTmdtMlRFTnVfZVpmemNnQkRjRDAxNHpaN29rUGlMZ1Y5S3ptNk9oZmZYbUp3MTZEUTBRUEV1YlJ5RnZaeHgtd1h6Z3psOEd3NjBqd0lvUQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "슬롯 머신 가격 에서 성공하는 방법: 전문가들의 조언 - 스텝 바이 스텝 가이드 les24heures.fr",
-      "publishedAt": "2026-08-04T12:00:37.000Z",
+      "id": "22ec02348141a4a2",
+      "title": "[ET단상]글로벌 전통의학 시대, K한약 경쟁력은 표준화 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52MXZWTElhczZza0lGeXBPQnFGWlg4VUl1dlN6c0stQjJHNzZkMVIzZWRUTG9mQVZWdjFkYW9kNmFVd0RLZzlUeV9rbWw1UQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "[ET단상]글로벌 전통의학 시대, K한약 경쟁력은 표준화 전자신문",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
       "rank": 6
     },
     {
-      "id": "35edfce990ed24c7",
-      "title": "Simple Energy expands Siemens Xcelerator adoption to scale electric vehicle engineering - Siemens Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qYVBmNzY3V04xSTFqUVFvVkZIUVhxNkxaYjBFMjJPWUJvVUFCdmwzSlhQeDBiajg4SXA5cXJUSGN2X1o3UmlEOTUzaU9NNDF2S1NsYXJNOWNsRlNoZ1oxRzE3cw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Simple Energy expands Siemens Xcelerator adoption to scale electric vehicle engineering Siemens Newsroom",
-      "publishedAt": "2026-08-04T10:07:39.000Z",
+      "id": "b6e4b7b30b1dd321",
+      "title": "인벤테라, 한국특허전략개발원 IP-R&D 사업 선정…치료용 나노의약품 분야 IP-R&D 과제 수행 - 팜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0M2JoUWwxSE1WNGZfYU15VlB1cEtHS0pnV1ItTTVramh0TWNGaGF3M2RfOFFyUTMzdjV4M3VGb3A2TmdLM2Y0eVdlZTFfSU1ZeVp6M3hJV0x0OUtxUTI4aC05V0JVTk9RNjRDRA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "인벤테라, 한국특허전략개발원 IP-R&D 사업 선정…치료용 나노의약품 분야 IP-R&D 과제 수행 팜뉴스",
+      "publishedAt": "2026-08-05T05:04:07.000Z",
       "rank": 7
     },
     {
-      "id": "f9b70cd239b3022a",
-      "title": "휴젤, BD·R&D 투트랙 전략으로 통합 포트폴리오 구축 가속 [POWER COMPANY] - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUEJwWUhtR2gzdUU5TmhJZ2FFNWpOaTFIamxsRVhyeDBuOUhDZG9uWjFzRFpZVWhOdGFrWVZSaXU3b3kydy0tdWZGMVBnQVE?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "휴젤, BD·R&D 투트랙 전략으로 통합 포트폴리오 구축 가속 [POWER COMPANY] v.daum.net",
-      "publishedAt": "2026-08-04T09:16:41.000Z",
+      "id": "5c1d4938a733b882",
+      "title": "TTA, 제조 특화 AX 인증 지원 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yc1JkSWNyb2c1cWFOZndIWUFnVm1XdllERkVraklQU3JRaVprQ0xtNXpESHpMTFhwQl85YlJJT25CcDhQa0szR3B6Vm1oUQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "TTA, 제조 특화 AX 인증 지원 전자신문",
+      "publishedAt": "2026-08-05T04:42:21.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "cab800010ea967bd",
-      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
-      "url": "https://www.youtube.com/watch?v=SJJBPwlPpww",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/SJJBPwlPpww/hqdefault.jpg",
-      "publishedAt": "2026-08-04T20:29:24.000Z",
+      "id": "04854ca76a7a6110",
+      "title": "Lightspeed is building its edge on followers, not just funds | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=ke41l44ESIs",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/ke41l44ESIs/hqdefault.jpg",
+      "publishedAt": "2026-08-05T20:08:18.000Z",
       "viewCount": 0
     },
     {
-      "id": "da4418a743a68f00",
-      "title": "Palantir Surges as AI Demand Accelerates | Bloomberg Tech 8/4/2026",
-      "url": "https://www.youtube.com/watch?v=l_5UUDYETpw",
+      "id": "c46e650fad0492b6",
+      "title": "Google Accelerator Alumni: Trakto",
+      "url": "https://www.youtube.com/watch?v=hjSBuOp4gDQ",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/hjSBuOp4gDQ/hqdefault.jpg",
+      "publishedAt": "2026-08-05T18:39:58.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "389cb2fd6a974803",
+      "title": "SpaceX's AI Push, Uber's Next Move and Zoox's Milestone | Bloomberg Tech 8/5/2026",
+      "url": "https://www.youtube.com/watch?v=DUHDAlHqhEI",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/l_5UUDYETpw/hqdefault.jpg",
-      "publishedAt": "2026-08-04T19:05:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/DUHDAlHqhEI/hqdefault.jpg",
+      "publishedAt": "2026-08-05T18:05:20.000Z",
       "viewCount": 0
     },
     {
-      "id": "13b1875aaaee76b7",
-      "title": "Coatue's Hedge Fund Sees Worst Drop in More Than a Year",
-      "url": "https://www.youtube.com/watch?v=j_KJLfqqWEY",
+      "id": "cb5a21ec6d46f1bb",
+      "title": "Amazon's Zoox Robotaxi Enters the Commercial Race",
+      "url": "https://www.youtube.com/watch?v=Fln3kdqYiZ0",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/j_KJLfqqWEY/hqdefault.jpg",
-      "publishedAt": "2026-08-04T18:19:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fln3kdqYiZ0/hqdefault.jpg",
+      "publishedAt": "2026-08-05T17:36:44.000Z",
       "viewCount": 0
     },
     {
-      "id": "ffd9c3c991a353dc",
-      "title": "How Palo Alto Wants AI to Patch Cyber Threats in Hours",
-      "url": "https://www.youtube.com/watch?v=3ViaCHrIg1A",
+      "id": "bf68508092cdae3a",
+      "title": "How Disney's IP Strategy Is Driving Growth",
+      "url": "https://www.youtube.com/watch?v=NZYvip3E3NY",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3ViaCHrIg1A/hqdefault.jpg",
-      "publishedAt": "2026-08-04T18:13:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NZYvip3E3NY/hqdefault.jpg",
+      "publishedAt": "2026-08-05T17:33:34.000Z",
       "viewCount": 0
     },
     {
-      "id": "c3b6b659a7f47b6b",
-      "title": "AI Spending Is Still Justified, Says Lazard",
-      "url": "https://www.youtube.com/watch?v=lz9LH3QyPo8",
+      "id": "d3b9ee242201ae5e",
+      "title": "SpaceX's AI Cloud Business Is Taking Off, Says Deutsche Bank",
+      "url": "https://www.youtube.com/watch?v=fyMR2qDQ2lw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/lz9LH3QyPo8/hqdefault.jpg",
-      "publishedAt": "2026-08-04T18:07:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fyMR2qDQ2lw/hqdefault.jpg",
+      "publishedAt": "2026-08-05T17:26:50.000Z",
       "viewCount": 0
     },
     {
-      "id": "1f272797fa9fcfd2",
-      "title": "Apple's India Business Hits a Major Milestone",
-      "url": "https://www.youtube.com/watch?v=OPKPiOZyVlY",
+      "id": "8145948f4597d0c2",
+      "title": "Trip Slowdown in Brazil Hurt Uber, CEO Says",
+      "url": "https://www.youtube.com/watch?v=ITCNMgozLds",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/OPKPiOZyVlY/hqdefault.jpg",
-      "publishedAt": "2026-08-04T17:58:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ITCNMgozLds/hqdefault.jpg",
+      "publishedAt": "2026-08-05T16:26:49.000Z",
       "viewCount": 0
     },
     {
-      "id": "4112cf554d905b80",
-      "title": "Why Bank of America Is Bullish on Palantir",
-      "url": "https://www.youtube.com/watch?v=xM1JUoMm7m4",
+      "id": "379b550fbcf3a575",
+      "title": "Uber CEO Sees No Sign of Consumer Slowdown",
+      "url": "https://www.youtube.com/watch?v=yAQYS1l90Gw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/xM1JUoMm7m4/hqdefault.jpg",
-      "publishedAt": "2026-08-04T17:54:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2e5246cf63959c84",
-      "title": "Meet Birding Pal",
-      "url": "https://www.youtube.com/watch?v=r64krUavXJU",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/r64krUavXJU/hqdefault.jpg",
-      "publishedAt": "2026-08-04T17:43:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/yAQYS1l90Gw/hqdefault.jpg",
+      "publishedAt": "2026-08-05T15:52:26.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-04T02:34:41.000Z"
+      "updatedAt": "2026-08-05T02:34:29.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
