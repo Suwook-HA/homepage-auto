@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-07T02:38:56.347Z",
-  "projectsCheckedAt": "2026-08-07T02:38:56.347Z",
-  "projectsUpdatedAt": "2026-08-07T02:38:56.347Z",
+  "updatedAt": "2026-08-08T01:37:53.908Z",
+  "projectsCheckedAt": "2026-08-08T01:37:53.908Z",
+  "projectsUpdatedAt": "2026-08-08T01:37:53.908Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-07T02:38:56.347Z",
+    "checkedAt": "2026-08-08T01:37:53.908Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "04bcd48edf63e9b1",
+      "title": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUzlWcElmbmxkekNldElZUmttNjZwRGFvNHAtYzVONjVCbmdJVDZ0bWw5OW5sb1p0TEpSQ2ZSZ1JHV2tqVVJVejJHN1BPUHplR01taDVxUUpQc19xS1h3?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 헬로티",
+      "publishedAt": "2026-08-07T05:38:33.000Z",
+      "rank": 1
+    },
+    {
+      "id": "341a87040a3fac02",
+      "title": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era - venturesquare.net",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Z2FtNGFLcDNhUXRkb2g3aWdmTXB6bS1VZmR3ZmREVFk5Tmotc3BPMmprMHhqUml2QmttdGhaWm1sWVNWejJ2ZFZQTlJEbnJXOXhB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era ventures...",
+      "publishedAt": "2026-08-07T03:59:26.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b3b1b1fa610a0058",
+      "title": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 - mediapia.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSUtLLVpEN0JyS1lVZG54RUZiLXA5NlFaQUtoXy1QcmFSRlh0U3RHVWVZNGV5eUFMNW9adFdwaU9ONDA1RzlHRWRxVlZnQWw4VkhWeWdlanRncExGM2RKZlJpZkthaVE1UXg2Wg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 mediapia.co.kr",
+      "publishedAt": "2026-08-07T04:23:31.000Z",
+      "rank": 3
+    },
+    {
+      "id": "f268314efdee9f96",
+      "title": "AI 제품, 에이전트화와 모델 이식성 중심 아키텍처 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FSEttQUpINTVaMnJ0QUdUUF9PaTBnenNjMHAyLV82c2hJZERISWFvc09CcG8xNVZ6ajZPamhjVC1EV1BmNlNkbA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "AI 제품, 에이전트화와 모델 이식성 중심 아키텍처 브런치",
+      "publishedAt": "2026-08-07T04:12:09.000Z",
+      "rank": 4
+    },
     {
       "id": "8a3a48ba5ebfa2d2",
       "title": "[PRNewswire] 에이치씨엘테크, ISO/IEC 42001:2023 인증 획득 - 연합뉴스",
@@ -65,16 +101,16 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "[PRNewswire] 에이치씨엘테크, ISO/IEC 42001:2023 인증 획득 연합뉴스",
       "publishedAt": "2026-08-06T04:26:12.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
-      "id": "3ffaefe7787284aa",
-      "title": "‘자율주행차 국제표준화 이끈다’… ETRI, ITU-T 첫 소프트웨어 정의 차량 국제표준 제정 - 쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Na2dpaG9DQU9NOUZrTERKT0U4bVpXU3Jrd1BCYW54ckZpSHY1ZDFnOV9oQjF3TlRVQUVTYXVMZjc4bVBjWjZSMlZvci13OURKdGZmTXBpVEhUaTZ5Tmt5dWViOA?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "‘자율주행차 국제표준화 이끈다’… ETRI, ITU-T 첫 소프트웨어 정의 차량 국제표준 제정 쿠키뉴스",
-      "publishedAt": "2026-08-06T14:03:31.000Z",
-      "rank": 2
+      "id": "8ed6804954c2a074",
+      "title": "'좋은 신약'보다 '좋은 투자'…빅파마 R&D 전략이 바뀐다 - 메디파나뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nMFN2T19zNjE0M19PbnFYVG9feE1YUGdKWlRpRVU0OW5xbDE5dEFHaFZUVGZXQ1phZmJKX0ZQMUNKY0RGc2RmbFZ4NVdxREp1SUo2bnpMUzJ6amV6NTNZeEdHYV9aUzBzRFFB?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "'좋은 신약'보다 '좋은 투자'…빅파마 R&D 전략이 바뀐다 메디파나뉴스",
+      "publishedAt": "2026-08-06T21:03:00.000Z",
+      "rank": 6
     },
     {
       "id": "809a7dad1245e071",
@@ -83,7 +119,7 @@
       "source": "Google News: ITU-T standardization",
       "summary": "한국 주도 ITU-T 첫 SDV 국제표준 제정 지디넷코리아",
       "publishedAt": "2026-08-06T09:49:30.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "0947b83cc176f25f",
@@ -92,116 +128,80 @@
       "source": "Google News: ITU-T standardization",
       "summary": "韓, SDV 국제표준화 주도권 확보… ITU-T 첫 표준 채택 IT조선",
       "publishedAt": "2026-08-06T09:13:37.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d321a26ac4d4ed1e",
-      "title": "POSCO Air Solution Becomes Asia’s First Rare Gas Manufacturer to Earn AS9100D Certification - IT타임스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQzBQbndQTTBKMmFkbFFscVBYNE42THZvck94NjJIeG9meFl5VzRPdDdkbk9mTWJSZTNqVUFqU1NMZm9raVNKT2ZtNWd6NG1ldmdwdERxcXd6S1pxU25FbE9fOWgzVnJB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "POSCO Air Solution Becomes Asia’s First Rare Gas Manufacturer to Earn AS9100D Certification IT타임스",
-      "publishedAt": "2026-08-06T15:36:46.000Z",
-      "rank": 5
-    },
-    {
-      "id": "2bf0654dd59609c5",
-      "title": "과기부, ITU-T 자율주행차 국제표준화 주도 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVUxyNll1Z1pqZ3YtdFlGZjM1emMyUmN2Nm04VFNHTS1YUDFscDBpRlpuZlpCblNWVlV4OUtkMkVIWkUwRnk1XzNxbnJuemM?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "과기부, ITU-T 자율주행차 국제표준화 주도 v.daum.net",
-      "publishedAt": "2026-08-06T07:15:14.000Z",
-      "rank": 6
-    },
-    {
-      "id": "b60a475540ca0ea8",
-      "title": "차홍기 ETRI 실장, ITU-T 자율주행차 표준화 그룹 의장 수임 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxY0pCVG5hYkdaeDlJMXFpQlFGM25rSGJrb1g1U01HNm9kczVxZk90bGNnWWk1d0ZsYmJTd0E4WEhkSHFSTU4td3BucndRSFZNZmlrREF6bDhaeWM1LWx6dmFQcHo4dw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "차홍기 ETRI 실장, ITU-T 자율주행차 표준화 그룹 의장 수임 뉴스1",
-      "publishedAt": "2026-08-06T03:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "502a4bf2afe607a3",
-      "title": "[방미통위] AI 데이터 117만 건 개방 자랑, 열어보니 조건이? - ctnews.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUmFodXdYVXc0NFFzY244MjRhTVJKR29Ed0NCZVlSRzNBMWM5dVRiUzYwZk9QdFNCdnlpNjBSTTN3cnE2VHZfZkhHdDRNUEVsYnZ5UnYtbko3RmI3TEZoYTg4TFg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[방미통위] AI 데이터 117만 건 개방 자랑, 열어보니 조건이? ctnews.kr",
-      "publishedAt": "2026-08-06T12:47:10.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "05ae34b5ff8d9c55",
-      "title": "How to Schedule a Weekly Metrics Report With ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=p_slDAvPjv0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/p_slDAvPjv0/hqdefault.jpg",
-      "publishedAt": "2026-08-06T22:29:28.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "5c037a72f44bb17a",
-      "title": "How to Turn a Forecast Spreadsheet Into an Interactive Planning Tool With ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=TryfaGZwvIE",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/TryfaGZwvIE/hqdefault.jpg",
-      "publishedAt": "2026-08-06T22:29:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a7cd2cecb21d1957",
-      "title": "Warsh's Next Moves & Situational Awareness' New Bet | Bloomberg Businessweek Daily 8/6/2026",
-      "url": "https://www.youtube.com/watch?v=Xu9S6O9wPAc",
+      "id": "ce52d25c68441daf",
+      "title": "Why Twilio Sees More AI Upside Ahead",
+      "url": "https://www.youtube.com/watch?v=jKtpXQbd4HI",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Xu9S6O9wPAc/hqdefault.jpg",
-      "publishedAt": "2026-08-06T21:30:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jKtpXQbd4HI/hqdefault.jpg",
+      "publishedAt": "2026-08-07T17:03:14.000Z",
       "viewCount": 0
     },
     {
-      "id": "f1dda98a0ca6afee",
-      "title": "Situational Awareness Invests in Sequoia-Backed Company",
-      "url": "https://www.youtube.com/watch?v=pCzdA4UD0P4",
+      "id": "cb3620280defc2be",
+      "title": "Jobs, AI, and Tech Earnings | Bloomberg Tech 8/07/2026",
+      "url": "https://www.youtube.com/watch?v=sEl2-DWrN1Y",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pCzdA4UD0P4/hqdefault.jpg",
-      "publishedAt": "2026-08-06T18:02:54.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/sEl2-DWrN1Y/hqdefault.jpg",
+      "publishedAt": "2026-08-07T17:02:15.000Z",
       "viewCount": 0
     },
     {
-      "id": "81f41c9d99ef3af8",
-      "title": "Sequoia, Alphabet, and the AI Capital Cycle | Bloomberg Tech 8/06/2026",
-      "url": "https://www.youtube.com/watch?v=8egLiVNdy6U",
+      "id": "67376155a5eeafc0",
+      "title": "World Cup Gives DraftKings a New Growth Engine",
+      "url": "https://www.youtube.com/watch?v=7W4tW6GjWms",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8egLiVNdy6U/hqdefault.jpg",
-      "publishedAt": "2026-08-06T18:01:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7W4tW6GjWms/hqdefault.jpg",
+      "publishedAt": "2026-08-07T17:01:49.000Z",
       "viewCount": 0
     },
     {
-      "id": "711e10563cdce9ec",
-      "title": "Figma Is Betting on AI's Next Workflow",
-      "url": "https://www.youtube.com/watch?v=3vNcU011Ctc",
+      "id": "7d3f6cf61719f847",
+      "title": "GTA VI Preorders Are ‘Unprecedented,’ Take-Two Says",
+      "url": "https://www.youtube.com/watch?v=ZO0R8TZytUg",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/3vNcU011Ctc/hqdefault.jpg",
-      "publishedAt": "2026-08-06T17:58:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZO0R8TZytUg/hqdefault.jpg",
+      "publishedAt": "2026-08-07T17:00:06.000Z",
       "viewCount": 0
     },
     {
-      "id": "c20bd952f4d9069b",
-      "title": "AI Storage Demand Still Growing, Says WD CEO",
-      "url": "https://www.youtube.com/watch?v=iZJkXoMCyR8",
+      "id": "b4e0e27bd1011516",
+      "title": "Lyft Is Transforming Into a Global Brand, CEO Says",
+      "url": "https://www.youtube.com/watch?v=OkzVkFGKv08",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/iZJkXoMCyR8/hqdefault.jpg",
-      "publishedAt": "2026-08-06T17:56:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/OkzVkFGKv08/hqdefault.jpg",
+      "publishedAt": "2026-08-07T16:05:50.000Z",
       "viewCount": 0
     },
     {
-      "id": "8555579b00c640a5",
-      "title": "Sequoia Capital's $10 Billion Plan for the AI Economy",
-      "url": "https://www.youtube.com/watch?v=OybfqKh4GqQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/OybfqKh4GqQ/hqdefault.jpg",
-      "publishedAt": "2026-08-06T16:27:57.000Z",
+      "id": "4f736fd878c2e24a",
+      "title": "Why historian Jill Lepore thinks Big Tech CEOs read sci-fi all wrong | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=g6y5tQ0-dpc",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/g6y5tQ0-dpc/hqdefault.jpg",
+      "publishedAt": "2026-08-07T15:40:03.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "cb7374c364535e87",
+      "title": "The ROI of AI Report 2026 - From tokenmaxxing to ROI",
+      "url": "https://www.youtube.com/watch?v=mQw7j6mg8sI",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/mQw7j6mg8sI/hqdefault.jpg",
+      "publishedAt": "2026-08-07T14:41:57.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "20c1051e48d779b1",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
+      "publishedAt": "2026-08-07T08:22:00.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-06T02:36:19.000Z"
+      "updatedAt": "2026-08-07T02:43:03.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
