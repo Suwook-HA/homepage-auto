@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T01:37:53.908Z",
-  "projectsCheckedAt": "2026-08-08T01:37:53.908Z",
-  "projectsUpdatedAt": "2026-08-08T01:37:53.908Z",
+  "updatedAt": "2026-08-09T01:43:06.105Z",
+  "projectsCheckedAt": "2026-08-09T01:43:06.105Z",
+  "projectsUpdatedAt": "2026-08-09T01:43:06.105Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-08T01:37:53.908Z",
+    "checkedAt": "2026-08-09T01:43:06.105Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "f65bd6ca9da40d4d",
+      "title": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 - newsvalue.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00MnZWNm4zeDBTSkJTMWs2VTc3NFpYSEpuVExKa1lZQm90TlNYMk5QTWNMMmJWT01WZnlFN3hvT0dQcFlxbjFZVXNkWG5wZTFFa21RbDJ3eVNkVG81WWtwMFlZVEM5UElZelE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 newsvalue.kr",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "0f26441f286eb602",
+      "title": "미·일 독점 깨진 대반전… 전 세계 도로 삼킬 '한국형 자동차 설계도' - 이콘밍글",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYW1hTjJrSlpmSFZsTWpVdFY5eEZmU3RtazRCWTktYnRFRGhBeUtFNG01azktNmoxSkpfNjd4YXJWNDlOSlpUMC1nRHJqUURZLUNtOFRvem93VlgxMjhjUUpQMmFESkZWdWo1OVVycEFOWW10dndyblBUeXpUUXBxTtIBiAFBVV95cUxOUE8xVnZaYmhUdm1nYV9wTy1zX0xiSUJNcTBrUHp0Y1ZPdXlYOFc5RGR5NXczc2RIQmlnMVJMeUk0cnBWRGVjblRjaFd3cndRMHZPTndMWlB0eVh2VEpWMXJNTTRiamVQcVlHSGpyMmFPN1pvWUlWUmxINkc5R2Z3Mk03dHMxVVRw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "미·일 독점 깨진 대반전… 전 세계 도로 삼킬 '한국형 자동차 설계도' 이콘밍글",
+      "publishedAt": "2026-08-08T21:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b9fb0964d3d29fc6",
+      "title": "AI 시대 광고의 새 과제는 '미디어 품질'…APAC, AI 활용 앞섰지만 브랜드 안전성은 숙제 - 매드타임스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fTy1zSzVrakE5ekNfUzFFc3RlUHZkQVlFRHlxWW5TY3dMN3NMYmExdjlVZlFaaGk5M2JyTnVtVjk1VzYtWmJvcWVkLWdsQkl6Y0V6MVF5bGdTTWIzeTFOXzExcEFyMGc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 시대 광고의 새 과제는 '미디어 품질'…APAC, AI 활용 앞섰지만 브랜드 안전성은 숙제 매드타임스",
+      "publishedAt": "2026-08-07T15:00:00.000Z",
+      "rank": 3
+    },
     {
       "id": "04bcd48edf63e9b1",
       "title": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 - 헬로티",
@@ -65,25 +92,25 @@
       "source": "Google News: ITU-T standardization",
       "summary": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 헬로티",
       "publishedAt": "2026-08-07T05:38:33.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
-      "id": "341a87040a3fac02",
-      "title": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era - venturesquare.net",
+      "id": "e99b5158c8ea79fe",
+      "title": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era - 벤처스퀘어",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Z2FtNGFLcDNhUXRkb2g3aWdmTXB6bS1VZmR3ZmREVFk5Tmotc3BPMmprMHhqUml2QmttdGhaWm1sWVNWejJ2ZFZQTlJEbnJXOXhB?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era ventures...",
+      "summary": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era 벤처스퀘어",
       "publishedAt": "2026-08-07T03:59:26.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
-      "id": "b3b1b1fa610a0058",
-      "title": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 - mediapia.co.kr",
+      "id": "680c9f9858ab3163",
+      "title": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 - 미디어피아",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSUtLLVpEN0JyS1lVZG54RUZiLXA5NlFaQUtoXy1QcmFSRlh0U3RHVWVZNGV5eUFMNW9adFdwaU9ONDA1RzlHRWRxVlZnQWw4VkhWeWdlanRncExGM2RKZlJpZkthaVE1UXg2Wg?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 mediapia.co.kr",
+      "summary": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 미디어피아",
       "publishedAt": "2026-08-07T04:23:31.000Z",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "f268314efdee9f96",
@@ -92,7 +119,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "AI 제품, 에이전트화와 모델 이식성 중심 아키텍처 브런치",
       "publishedAt": "2026-08-07T04:12:09.000Z",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "8a3a48ba5ebfa2d2",
@@ -101,33 +128,6 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "[PRNewswire] 에이치씨엘테크, ISO/IEC 42001:2023 인증 획득 연합뉴스",
       "publishedAt": "2026-08-06T04:26:12.000Z",
-      "rank": 5
-    },
-    {
-      "id": "8ed6804954c2a074",
-      "title": "'좋은 신약'보다 '좋은 투자'…빅파마 R&D 전략이 바뀐다 - 메디파나뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nMFN2T19zNjE0M19PbnFYVG9feE1YUGdKWlRpRVU0OW5xbDE5dEFHaFZUVGZXQ1phZmJKX0ZQMUNKY0RGc2RmbFZ4NVdxREp1SUo2bnpMUzJ6amV6NTNZeEdHYV9aUzBzRFFB?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "'좋은 신약'보다 '좋은 투자'…빅파마 R&D 전략이 바뀐다 메디파나뉴스",
-      "publishedAt": "2026-08-06T21:03:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "809a7dad1245e071",
-      "title": "한국 주도 ITU-T 첫 SDV 국제표준 제정 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2S1hWeDY0b3l1bllmNHhVS0RLbkUzZ2IwcjhGd2pIOW1ZT3NreDlCclpyV0NZakJRY3VhbkVmdkk3S2hINWx2dXl1MmhBNmdUVFZpcXFn?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국 주도 ITU-T 첫 SDV 국제표준 제정 지디넷코리아",
-      "publishedAt": "2026-08-06T09:49:30.000Z",
-      "rank": 7
-    },
-    {
-      "id": "0947b83cc176f25f",
-      "title": "韓, SDV 국제표준화 주도권 확보… ITU-T 첫 표준 채택 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UTXotUVhqWHdNYWNISFpudmR3RmNGY3FWeEU3c21OVzRRdlFTLWR0QnlHb0Y5YnhfclEtTGRsQ2VBQ0RvYnlxWDE3NjdUQW9WaUNyVktVdW9OSnFHeTJoN21RbUZzM0xZRjZWRWY2TXhoSUl50gF0QVVfeXFMTlRNei1RWGpYd01hY0hIWm52ZHdGY0ZjcVZ4RTdzbU5XNFF2UVMtZHRCeUdvRjlieF9yUS1MZGxDZUFDRG9ieXFYMTc2N1RBb1ZpQ3JWS1V1b05KcUd5Mmg3bVFtRnMzTFlGNlZFZjZNeGhJSXk?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "韓, SDV 국제표준화 주도권 확보… ITU-T 첫 표준 채택 IT조선",
-      "publishedAt": "2026-08-06T09:13:37.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-07T02:43:03.000Z"
+      "updatedAt": "2026-08-08T01:41:58.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
