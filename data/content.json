@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T01:43:06.105Z",
-  "projectsCheckedAt": "2026-08-09T01:43:06.105Z",
-  "projectsUpdatedAt": "2026-08-09T01:43:06.105Z",
+  "updatedAt": "2026-08-10T01:46:18.618Z",
+  "projectsCheckedAt": "2026-08-10T01:46:18.618Z",
+  "projectsUpdatedAt": "2026-08-10T01:46:18.618Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-09T01:43:06.105Z",
+    "checkedAt": "2026-08-10T01:46:18.618Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "f65bd6ca9da40d4d",
-      "title": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 - newsvalue.kr",
+      "id": "512b1c4727530265",
+      "title": "삼성전자·NTT 도코모, AI 무선망 통신 품질 최적화 기술 검증 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cnR5aDlsdjJ0S0w3T1JpaTRCYkNqMDlLdHliNTA0cmhyd0MxY3FhSGNtWGEzcUJYRmJXTVB0U0dneExCWnhPV2FzS1VFbldrNzY5Y20yTE05UHfSAWBBVV95cUxON0VkUzZaMlNCRDVhVFQ0TWRWM3N1ekhSWWRFRHdfVzVKREpTc0QtWUd2d1JicmhJbUJIOWkxc210eEpLUU9xQmh0YWdJRDR4OFpEUHJCYXlxcDVkYW9OdzM?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "삼성전자·NTT 도코모, AI 무선망 통신 품질 최적화 기술 검증 연합뉴스",
+      "publishedAt": "2026-08-10T01:00:03.000Z",
+      "rank": 1
+    },
+    {
+      "id": "699f0919d163ddfc",
+      "title": "[단독] 약정원 데이터 사업 우선협상대상자로 '피코' 선정 - 데일리팜",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tcTkxaW1ndTJBQVB3Z2NGRDZPYXVjZUc0M010WkJ4d1JHWVhpQ1NUc1lsSmpBdTQ2QjRBWkN1eTZBUVF0anlxTHFKanRrdTNTNG1mdWJYbjVlZzc3YmxyNDIxNA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[단독] 약정원 데이터 사업 우선협상대상자로 '피코' 선정 데일리팜",
+      "publishedAt": "2026-08-09T18:22:40.000Z",
+      "rank": 2
+    },
+    {
+      "id": "901b89bb95c79a59",
+      "title": "MCP — AI 도구 연동의 표준화…하나의 언어로 연결된다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95bTA1cDRQZ2VLWEFtdlppckRWV0Y5NVIxRjhmWEZYMWdmY2ZWejNVdzRPZjFsdk1aYjktUzRnNDEwZTNhUndJMmJ1cHFoSWM?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "MCP — AI 도구 연동의 표준화…하나의 언어로 연결된다 v.daum.net",
+      "publishedAt": "2026-08-09T07:42:52.000Z",
+      "rank": 3
+    },
+    {
+      "id": "acc38434a6045c43",
+      "title": "상반기 R&D 2조 네이버·카카오…AI '인프라 vs 에이전트' 전략 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rSkt4aVprUDVWdm9qaS1mYWlsUzFyUGFqWFQtWHdSdzZzZTJJRU5VQlV6U2pDT0Ewajk0SThkUEVOYjVsRTdTd0F4bGhQcHdSakNRTjdOcXNsYWRDbDAzbFVqRGk?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "상반기 R&D 2조 네이버·카카오…AI '인프라 vs 에이전트' 전략 매일일보",
+      "publishedAt": "2026-08-09T04:07:54.000Z",
+      "rank": 4
+    },
+    {
+      "id": "1805c670e84cb8e7",
+      "title": "LG Uplus, Broadcom Demonstrate AI-Powered Wi-Fi Router for Self-Healing Home Networks - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1icWNiVWd2NUwweTIyLVZVSXpaUWxnUkQ1a1RwVDc4UVpOcHhyUGl3dHNlSjRUaEhIdVNqZXpiLTY0SWNpak80MFV0T0ZMN1VzUHlKVkxZb2Z3Z3ByY0RfSm95YkVWdmRzcldTSGJDdFE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "LG Uplus, Broadcom Demonstrate AI-Powered Wi-Fi Router for Self-Healing Home Networks Korea IT Times",
+      "publishedAt": "2026-08-09T02:07:20.000Z",
+      "rank": 5
+    },
+    {
+      "id": "a1013b10d006e0fa",
+      "title": "AI가 인터넷 품질 이상 감지·해결…LGU, 브로드컴과 기술 실증 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wT0xVRHNaTVZQT1hkbXpJUkxRcXBMeWdhaUFaOFkzcFg2a2tzYlJqN0diVFJvUXktSWlGM25VdHE1cnRHR2NpTzRDTFlMWG15b0NDQ1N2N2tUY2lVTFJ2Sg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 인터넷 품질 이상 감지·해결…LGU, 브로드컴과 기술 실증 뉴스1",
+      "publishedAt": "2026-08-09T01:42:13.000Z",
+      "rank": 6
+    },
+    {
+      "id": "35ee28e2046d4e31",
+      "title": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 - 뉴스밸류",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00MnZWNm4zeDBTSkJTMWs2VTc3NFpYSEpuVExKa1lZQm90TlNYMk5QTWNMMmJWT01WZnlFN3hvT0dQcFlxbjFZVXNkWG5wZTFFa21RbDJ3eVNkVG81WWtwMFlZVEM5UElZelE?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 newsvalue.kr",
+      "summary": "[심층분석]“인터넷이 고장 난 뒤 고치는 시대 끝난다”…LG유플러스, 공유기에 AI 심는다 뉴스밸류",
       "publishedAt": "2026-08-09T00:00:00.000Z",
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "0f26441f286eb602",
@@ -74,60 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "미·일 독점 깨진 대반전… 전 세계 도로 삼킬 '한국형 자동차 설계도' 이콘밍글",
       "publishedAt": "2026-08-08T21:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "b9fb0964d3d29fc6",
-      "title": "AI 시대 광고의 새 과제는 '미디어 품질'…APAC, AI 활용 앞섰지만 브랜드 안전성은 숙제 - 매드타임스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fTy1zSzVrakE5ekNfUzFFc3RlUHZkQVlFRHlxWW5TY3dMN3NMYmExdjlVZlFaaGk5M2JyTnVtVjk1VzYtWmJvcWVkLWdsQkl6Y0V6MVF5bGdTTWIzeTFOXzExcEFyMGc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI 시대 광고의 새 과제는 '미디어 품질'…APAC, AI 활용 앞섰지만 브랜드 안전성은 숙제 매드타임스",
-      "publishedAt": "2026-08-07T15:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "04bcd48edf63e9b1",
-      "title": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUzlWcElmbmxkekNldElZUmttNjZwRGFvNHAtYzVONjVCbmdJVDZ0bWw5OW5sb1p0TEpSQ2ZSZ1JHV2tqVVJVejJHN1BPUHplR01taDVxUUpQc19xS1h3?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ETRI, ITU-T 최초 SDV 국제표준 제정…자율주행 표준화 작업반 의장도 배출 헬로티",
-      "publishedAt": "2026-08-07T05:38:33.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e99b5158c8ea79fe",
-      "title": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Z2FtNGFLcDNhUXRkb2g3aWdmTXB6bS1VZmR3ZmREVFk5Tmotc3BPMmprMHhqUml2QmttdGhaWm1sWVNWejJ2ZFZQTlJEbnJXOXhB?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Korea Venture Investment, First Agency Under the Ministry of SMEs and Startups to Receive ISO 30301 Certification… Strengthening Records Management System in the AI Era 벤처스퀘어",
-      "publishedAt": "2026-08-07T03:59:26.000Z",
-      "rank": 5
-    },
-    {
-      "id": "680c9f9858ab3163",
-      "title": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSUtLLVpEN0JyS1lVZG54RUZiLXA5NlFaQUtoXy1QcmFSRlh0U3RHVWVZNGV5eUFMNW9adFdwaU9ONDA1RzlHRWRxVlZnQWw4VkhWeWdlanRncExGM2RKZlJpZkthaVE1UXg2Wg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[피지컬 AI ⑪] 인공지능은 어떻게 생각하고 진화하는가 - AI 시스템의 아키텍처 미디어피아",
-      "publishedAt": "2026-08-07T04:23:31.000Z",
-      "rank": 6
-    },
-    {
-      "id": "f268314efdee9f96",
-      "title": "AI 제품, 에이전트화와 모델 이식성 중심 아키텍처 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FSEttQUpINTVaMnJ0QUdUUF9PaTBnenNjMHAyLV82c2hJZERISWFvc09CcG8xNVZ6ajZPamhjVC1EV1BmNlNkbA?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "AI 제품, 에이전트화와 모델 이식성 중심 아키텍처 브런치",
-      "publishedAt": "2026-08-07T04:12:09.000Z",
-      "rank": 7
-    },
-    {
-      "id": "8a3a48ba5ebfa2d2",
-      "title": "[PRNewswire] 에이치씨엘테크, ISO/IEC 42001:2023 인증 획득 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1N2dTdXo0WTRQOHBLaDlqRzJMVEJBeXZOVjBJMEhHVXdpVjYwNUlXYXJ3d1hKcmVlZllYdmZfZlJzR2xyS1M4dGNjaktWd1ptdHV5T0ZHOTBaRGM?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "[PRNewswire] 에이치씨엘테크, ISO/IEC 42001:2023 인증 획득 연합뉴스",
-      "publishedAt": "2026-08-06T04:26:12.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-08T01:41:58.000Z"
+      "updatedAt": "2026-08-09T01:47:10.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
