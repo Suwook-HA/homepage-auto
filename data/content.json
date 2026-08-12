@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-11T01:43:08.085Z",
-  "projectsCheckedAt": "2026-08-11T01:43:08.085Z",
-  "projectsUpdatedAt": "2026-08-11T01:43:08.085Z",
+  "updatedAt": "2026-08-12T01:54:59.192Z",
+  "projectsCheckedAt": "2026-08-12T01:54:59.192Z",
+  "projectsUpdatedAt": "2026-08-12T01:54:59.192Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-11T01:43:08.085Z",
+    "checkedAt": "2026-08-12T01:54:59.192Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "9ab13ec47a41edfe",
+      "title": "자료 검토 시간 90% 단축, 연간 50억 비용 절감…현대차, AX 전환 가속 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9acklYU3h6cGFqVWFPbmMwSzJhS0gtRllNZ1AzZ1lHaEhfM2xFdVA4bVQ1OTFzN0trYWdodXVyZzA5VEdCSnhZSVh6QlZpcF9VUERTMWtJSXVEUdIBWEFVX3lxTFBmZnZyRjRNZEtWeEFFc28ybmhfSGFZeklxVGVNR2Z6TE9maFZ4Zl9HdDJhOGxHSEVLd2Y4cUFrUGdNN0Y5TWRMVGtyY25OUU1fcFlaMEQwd1Y?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "자료 검토 시간 90% 단축, 연간 50억 비용 절감…현대차, AX 전환 가속 아주경제",
+      "publishedAt": "2026-08-12T01:41:22.000Z",
+      "rank": 1
+    },
+    {
+      "id": "96c2698e97b7ee48",
+      "title": "금융보안원, ‘금융 AI 안전성·신뢰성 평가 프레임워크’ 개발 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IYk1IVWYwOXlPeFpPc0VsQnJEVWJicExpX21WUG5PNklvSTdKR3FOaXJBTjRiTnFUUXVyV0R1bWxIM0dhM2RpV2Q3VGc2LU9LckRrVU11c1gxYmhBbEpDT1VDdXN0VFR0?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "금융보안원, ‘금융 AI 안전성·신뢰성 평가 프레임워크’ 개발 아이티데일리",
+      "publishedAt": "2026-08-12T01:34:14.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d83d016723030943",
+      "title": "아틀라스 넘어 피지컬 AI로…현대차그룹, DX·AX 성과 공개 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XS3N4QlBveHAyU0s5akNJdXRvbVZ0LXk3enIzVktMdHJXUHBhSk9kcHh1aHhDSVhaSGhvN3JaVU5BVF9yMnBxdlU2OWphczQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "아틀라스 넘어 피지컬 AI로…현대차그룹, DX·AX 성과 공개 v.daum.net",
+      "publishedAt": "2026-08-12T01:09:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "797aa2df06311cb8",
+      "title": "Kinaxis-Sponsored Study Identifies Supply Chain AI Accountability Gap Amidst Rapid Adoption Expectations - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NEZHMERDc2ZFRXB5NFVwdmptcXgzQkdvQkVJRkVjUWZGbkY3M1ROQ1M3SVhfVjl6US1Cd1lPUVQ2TUZvNnNCNzBScTlHaF83bF9BcDZWZWxzYW5OUkQw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Kinaxis-Sponsored Study Identifies Supply Chain AI Accountability Gap Amidst Rapid Adoption Expectations 뉴스와이어",
+      "publishedAt": "2026-08-12T01:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "6d18fc0397d6cc61",
+      "title": "현대차그룹, 전사 DX·AX 여정과 성과 공개... 선제적 DX 완료로 전 사업 영역 AI 혁신 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd180OEFrYldvLW45TzBENHB6SDh4a2xSd2NEUTVoQ3JKamw0dm9pOFljWEJtcXhNc0tTX1ZNSmVKWGItVFF3ZDdyM1BzNzViTG9yeUtQYWJ4SldnZ0VxM3pMS3A3UFZlRXNibm1PcWFUaGJTSW5SbjFGUkhvN1BUR1NNM1k1X2Y5?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "현대차그룹, 전사 DX·AX 여정과 성과 공개... 선제적 DX 완료로 전 사업 영역 AI 혁신 | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "publishedAt": "2026-08-12T00:40:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "93bcf11f8cbd0f1e",
+      "title": "포헬스, 건강검진 플랫폼 ‘쏙 케어' 기반 혁신성장 가속화 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xWk5JT0hlbDBkUlF6MUdLOEVNT2t5MzVwREEwSGNERFU5VmI1VTY2Z3lkYlZha2hQci1hd3ZQOXhycHhQbWdDR1poUkNvcGxRNFhwNDBCOUV1QmM3eDd2cklLRWJweDlxTnc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "포헬스, 건강검진 플랫폼 ‘쏙 케어' 기반 혁신성장 가속화 의학신문",
+      "publishedAt": "2026-08-11T23:37:35.000Z",
+      "rank": 6
+    },
+    {
+      "id": "023882ce6392278d",
+      "title": "포헬스 “B2B 헬스케어 IP 초격차 다진다” - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41a3NnYUJqTmhXSW5ld2ZWZ3JpcG9aOWNJSnVRcDFkVEVmSkt0U21lRHl1Z29sUDhhWkdIZlZmSUZHLXY0R1lqZmFZVTh4d1BJUTl1YzNVUFVrU3BFRXRuR1Zn?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "포헬스 “B2B 헬스케어 IP 초격차 다진다” 에너지경제신문",
+      "publishedAt": "2026-08-11T22:13:03.000Z",
+      "rank": 7
+    },
     {
       "id": "3e45565f8e0b8e87",
       "title": "SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing - KIPOST",
@@ -65,73 +128,64 @@
       "source": "Google News: Digital Transformation",
       "summary": "SOLIZE PARTNERS and Dassault Systèmes Form Partnership to Accelerate Digital Transformation in Manufacturing KIPOST",
       "publishedAt": "2026-08-10T09:30:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "80d051e426c9d1fb",
-      "title": "한국미래기술교육연구원, ‘AI 자율실험실 구축 전략’ 세미나 개최 - klnews.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BZXgzQ2o3Z3RwU2VDMGtLWVRyMjJ6UW03NnJwS1V3ZnF2dmtZWmFvbm5qeG1BNEZCX2t5OERnbHRscEFaTUZKeUUxS3dCbWhsVTEzWVJWUUczNXJWN2wzcDZqalVueUhzdjJN?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "한국미래기술교육연구원, ‘AI 자율실험실 구축 전략’ 세미나 개최 klnews.co.kr",
-      "publishedAt": "2026-08-10T23:41:40.000Z",
-      "rank": 2
-    },
-    {
-      "id": "d5f468e81d74b25e",
-      "title": "정부 피지컬 AI 표준화 사업, 시작부터 '삐걱' - MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHWnFBcVVwdW4xTXA3UjVva2JwcXpCUHJUdEJIZjNJbVN5UEhYUG0yNWhISUo1ZTYxZ2xQUWlKQk82Ni1OakFaNEwzVjY4SDdzRE5GYmpYN2V5clVEUDlicE1wV04?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "정부 피지컬 AI 표준화 사업, 시작부터 '삐걱' MTN 머니투데이방송",
-      "publishedAt": "2026-08-10T21:00:01.000Z",
-      "rank": 3
-    },
-    {
-      "id": "739c5e999a3ff4d5",
-      "title": "Global Workplace Transformation Market 크기, 공유 및 성장 - Spherical Insights",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQlVwSzRIdkdjUUJJV3dMLU15MWNyM1dWOThtdks3U0gxN2w4R2hMZnFGNFIxcG93NWo1Q3BnRzdYSHNoTW1QdDdodGg4LU5wQzlFakRzUkN5YzQzN0RfeXdmNzB6Q2lIaTRiU1lmVU40Y0RjU21jYnlkR0tWY1R6WlhR?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Global Workplace Transformation Market 크기, 공유 및 성장 Spherical Insights",
-      "publishedAt": "2026-08-10T11:25:09.000Z",
-      "rank": 4
-    },
-    {
-      "id": "fd976a7d65ff88ed",
-      "title": "실리콘모션, AI 인프라 위한 ‘MonTitan™ SSD Reference Design Kit’ 공개 - 글로벌 비즈 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92QVo1dmxJVl8zNTZGTHREVXVNRktsUjFPVTk0RkJQVF9kX28wRERsUWR2VFpuVnA5b0JaaWlldEg2MHdfblR3VnRHZmx1OFd4SlFCREFxc2hScHZTSnpMVVJRRG9YNUp50gFoQVVfeXFMT3ZBWjV2bElWXzM1NkZMdERVdU1GS2xSMU9VOTRGQlBUX2RfbzBERGxRZHZUWm5WcDlvQlppaWV0SDYwd19uVHdWdEdmbHU4V3hKUUJEQXFzaFJwdlNKekxVUlFEb1g1Snk?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "실리콘모션, AI 인프라 위한 ‘MonTitan™ SSD Reference Design Kit’ 공개 글로벌 비즈 뉴스",
-      "publishedAt": "2026-08-10T08:55:44.000Z",
-      "rank": 5
-    },
-    {
-      "id": "832baff9558b8096",
-      "title": "TTA, 제조 특화 AX 'TTA Verified' 인증 - 정보통신신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RWFMQmRBVnNSZ0RJaWxHWnV3YWFwWHVVUXEyQ3dmRkNxNkFBckllMGhqNERBaUJ3VEhSMlo4MTJ2M3Y5akdpWGdPT1k4OW1DY1NpakFRX3E2NTI0NnlRZ2xqdEQxZnV5U2pMMdIBbEFVX3lxTFB6RWFMQmRBVnNSZ0RJaWxHWnV3YWFwWHVVUXEyQ3dmRkNxNkFBckllMGhqNERBaUJ3VEhSMlo4MTJ2M3Y5akdpWGdPT1k4OW1DY1NpakFRX3E2NTI0NnlRZ2xqdEQxZnV5U2pMMQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "TTA, 제조 특화 AX 'TTA Verified' 인증 정보통신신문",
-      "publishedAt": "2026-08-10T08:40:45.000Z",
-      "rank": 6
-    },
-    {
-      "id": "770cd4909e21b648",
-      "title": "사이냅소프트 ‘사이냅 어시스턴트’, 한국표준협회 ‘AI+’ 인증 획득 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lNlRtNWdnVnRseWxSVmNLeVlYenFTZmFYQlc3Y2JZLUNvOVdSZ1ROR1M3cXhoMDF4ZXFYY0dOQ2pOREFDZk1KU2lSX2d2WGRGdTJHLUdyc2pkbFJpMFp3?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "사이냅소프트 ‘사이냅 어시스턴트’, 한국표준협회 ‘AI+’ 인증 획득 헬로티",
-      "publishedAt": "2026-08-10T05:13:51.000Z",
-      "rank": 7
-    },
-    {
-      "id": "41531afb2e71979e",
-      "title": "기획 · 이슈 > 클라우드·AI 워크플로가 그리는 미래 인쇄 비전 - printingkorea.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tb0l5ZldLYzZIbjhLYWFfOW5SSm40QW1JYm53aHNIRkN0RGsxdGNzV1FXckZwdG9EM0lQbWk2dkV4QWl5LVNCdUlFZnBObEdkRXdUSlRESjRjZkFpZVp0Z3QxZXc4WXR2eWVzVzdDc3JQY0tzRFNz?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "기획 · 이슈 > 클라우드·AI 워크플로가 그리는 미래 인쇄 비전 printingkorea.or.kr",
-      "publishedAt": "2026-08-10T01:30:48.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "885c8c74824fcd57",
+      "title": "Intel’s Big Raise, Apple’s iPhone Roadmap | Bloomberg Tech 8/11/2026",
+      "url": "https://www.youtube.com/watch?v=5lcS4tHoDv4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/5lcS4tHoDv4/hqdefault.jpg",
+      "publishedAt": "2026-08-11T18:07:12.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "795982e9af6b59d5",
+      "title": "RUM Group’s $3 Billion AI Opportunity",
+      "url": "https://www.youtube.com/watch?v=VOTtDpKtv2c",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/VOTtDpKtv2c/hqdefault.jpg",
+      "publishedAt": "2026-08-11T17:54:23.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e152795c018be393",
+      "title": "Sequoia Bets on Neros for American Drone Future (Correct)",
+      "url": "https://www.youtube.com/watch?v=k7z3mLOYFGw",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/k7z3mLOYFGw/hqdefault.jpg",
+      "publishedAt": "2026-08-11T17:47:57.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "6838eb83c859ac7c",
+      "title": "Apple's Glass-Centric iPhone Should Still Be Ready in 2027",
+      "url": "https://www.youtube.com/watch?v=hA2zDSZTh1c",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/hA2zDSZTh1c/hqdefault.jpg",
+      "publishedAt": "2026-08-11T17:37:52.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "ccdcd00927f7350c",
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+      "publishedAt": "2026-08-11T15:35:35.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "bd21895a4910df0c",
+      "title": "Build AI agents on Google Cloud: No-code to pro-code (2-Minute AI with Google)",
+      "url": "https://www.youtube.com/watch?v=gYXlBYOocHU",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/gYXlBYOocHU/hqdefault.jpg",
+      "publishedAt": "2026-08-11T12:52:18.000Z",
+      "viewCount": 0
+    },
     {
       "id": "0898cb405ada4e65",
       "title": "New Way Now: David's Bridal Relieves Wedding Planning Stress with Google Cloud AI",
@@ -148,60 +202,6 @@
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/tfsEfbWV9dY/hqdefault.jpg",
       "publishedAt": "2026-08-10T19:36:00.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b5bd78402c1be641",
-      "title": "Meta Brings Powerful AI to the Personal Computer",
-      "url": "https://www.youtube.com/watch?v=gyqgy6IAgQE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/gyqgy6IAgQE/hqdefault.jpg",
-      "publishedAt": "2026-08-10T18:12:43.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "43a4c0e2f5e96125",
-      "title": "South Park Commons Raises Ambitions for the AI Era",
-      "url": "https://www.youtube.com/watch?v=QSpeOYL8aUo",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/QSpeOYL8aUo/hqdefault.jpg",
-      "publishedAt": "2026-08-10T18:11:13.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "423fe721563f93aa",
-      "title": "GameStop Rethinks Its eBay Play",
-      "url": "https://www.youtube.com/watch?v=wXlen6NsXVA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/wXlen6NsXVA/hqdefault.jpg",
-      "publishedAt": "2026-08-10T18:00:53.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b0833f102bf9e2b3",
-      "title": "Intel Raises Cash, Apple Gets Downgraded | Bloomberg Tech 8/10/2026",
-      "url": "https://www.youtube.com/watch?v=75De-A9PgZ0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/75De-A9PgZ0/hqdefault.jpg",
-      "publishedAt": "2026-08-10T17:53:29.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "1bddc5515371f7d7",
-      "title": "How Can China Win the AI Race Against the US?",
-      "url": "https://www.youtube.com/watch?v=owLAxrbN78A",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/owLAxrbN78A/hqdefault.jpg",
-      "publishedAt": "2026-08-10T17:47:20.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0ebbe173f49bd7ac",
-      "title": "Apple Downgraded at Jefferies on iPhone Outlook",
-      "url": "https://www.youtube.com/watch?v=UOrOjDqYvrU",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/UOrOjDqYvrU/hqdefault.jpg",
-      "publishedAt": "2026-08-10T16:28:38.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-10T01:50:23.000Z"
+      "updatedAt": "2026-08-11T01:47:30.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
