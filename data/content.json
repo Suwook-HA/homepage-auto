@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T01:14:09.939Z",
-  "projectsCheckedAt": "2026-08-17T01:14:09.939Z",
-  "projectsUpdatedAt": "2026-08-17T01:14:09.939Z",
+  "updatedAt": "2026-08-18T01:11:30.066Z",
+  "projectsCheckedAt": "2026-08-18T01:11:30.066Z",
+  "projectsUpdatedAt": "2026-08-18T01:11:30.066Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-17T01:14:09.939Z",
+    "checkedAt": "2026-08-18T01:11:30.066Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "84a8e6dedb93d0cd",
+      "id": "104ff942a9c8b232",
       "title": "“AI 환각 막는다”…금융보안원, ‘금융 AI 평가’ 첫발 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14TXNOVU9vUFRINGx0N0syNVFXajJhR19HVlBCWTFzR1d0R2ZGaHN3bmI4UUx2MFVCSl9QU0hpVU5aZGhXSUk1UjJ3ZUFsaW1mUWxN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13OWhiYWlCeVRoSU80TFVEeGZ5QkcyYTViXzB4Y0hocFhpNHNMMEx0SjZfRDFvWDg5N2Rkd0wxWk1LTVVwdVB4akg5ai1Kb3FiLW5ZaWNuQmU?oc=5",
       "source": "Google News: ISO/IEC AI standard",
       "summary": "“AI 환각 막는다”…금융보안원, ‘금융 AI 평가’ 첫발 경제타임스",
       "publishedAt": "2026-08-17T00:00:09.000Z",
       "rank": 1
+    },
+    {
+      "id": "15eebb697a8ea03b",
+      "title": "KT-서울대병원, ‘공공 의료 AI 플랫폼’ 표준화 나선다 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdVJCVUJSN3hNVmwxQ1NHOXF4YnhFNEZweWJ3WHpYR2FIQjljaS1VdjY0X3diYTc2elllWDYyeWpid3VKZVZSMzNmSzQ3S0trQlNud0VPc05TSDJmXzlTdi0xWHk0dHZn?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KT-서울대병원, ‘공공 의료 AI 플랫폼’ 표준화 나선다 아이티데일리",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "be31f94039829696",
+      "title": "피망슬롯다운 솔직히 놀랐던 부분 리뷰 - ilmondodegliarchivi.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQk91QzZoanh1T1gwUzhYUWRwQklxVGVla2pENjFWMkZwNS1VMXkyZWZQSlRkMzNNUUhmaTJVTVhucHhoNVhYWGYtemdIeWszeGo1MlB1bFktZ3JiTFE3TmhaaHdnaHY2WU5uTXBWME9VcG96eml4UTFNUzA4SkRLUUVIRmlYa1FCbHRpM3JkX2t3YUR2a1J2WGVOUHJJYW83N2Z6NjFRNmwzREFldm1VZmZHZi15NkxGblpXQzg2Y1JFNlB5U3hjdnVIRk8xYmpIV0c3dWpMM0VKY0ZLN1M2Wmo2aEN6dUhRSDk5MWJyZWtucmNMUHhhUlZHd3dPMy0tbmRObWg1Nmg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "피망슬롯다운 솔직히 놀랐던 부분 리뷰 ilmondodegliarchivi.org",
+      "publishedAt": "2026-08-16T23:34:37.000Z",
+      "rank": 3
     },
     {
       "id": "14430dbfd558af97",
@@ -74,16 +92,34 @@
       "source": "Google News: AI Data Quality",
       "summary": "신뢰도 높은 시장조사 데이터 확보...응답자 신원·행동·AI 작성 답변 통합 검사 지티티코리아",
       "publishedAt": "2026-08-16T23:00:00.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
-      "id": "337a625ae7651882",
-      "title": "R&D 매니지먼트 실무자들이 왜 모였나…‘연구전략정책 워킹그룹’ 첫발 - 산학뉴스",
+      "id": "dd1d94e425ed7c1b",
+      "title": "AI·양자 국제표준 선점 경쟁…한미, NIST·ANSI와 공조 확대 - sanhaknews.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EQmJxVUpLNXhzMF81UUdoUW5zczRBdEJMcVMyWkpkUlB5TzJMQ1BxNWg0TkRGUDdsQ25LN1Q5dlZfZllRTUtFTllFc0hYRFM1OVRNQllsSzRzTl8zY08xVl9CNEdWQnlsVUJZ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "AI·양자 국제표준 선점 경쟁…한미, NIST·ANSI와 공조 확대 sanhaknews.kr",
+      "publishedAt": "2026-08-16T08:49:10.000Z",
+      "rank": 5
+    },
+    {
+      "id": "584b708978282dbe",
+      "title": "R&D 매니지먼트 실무자들이 왜 모였나…‘연구전략정책 워킹그룹’ 첫발 - sanhaknews.kr",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kSUJqN3NPa3R4cFBCdEZLa2pQRl83ZWJVdkVTU1ZYbTU0Z2FER2RaaDhoLURRaTEtSWNWaER0TzZVeW8wNlFRR0swYXJtV0dUVXh5MU5rRzhMLWlBd1VEcmRjZkQtb1pxdTJZ?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "R&D 매니지먼트 실무자들이 왜 모였나…‘연구전략정책 워킹그룹’ 첫발 산학뉴스",
+      "summary": "R&D 매니지먼트 실무자들이 왜 모였나…‘연구전략정책 워킹그룹’ 첫발 sanhaknews.kr",
       "publishedAt": "2026-08-16T07:24:36.000Z",
-      "rank": 3
+      "rank": 6
+    },
+    {
+      "id": "3552318c73a50e15",
+      "title": "정부 AX 드라이브…산업계, AI 데이터 확보전 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43QjdEaW5zeEVRS1NLNmJiS1p0QWNTaTB5b2pVWFhjanZDeHpWY2JWbjZDNHctd2MyU3lHWEQ1b0hrVkc2bDN3N1ZIWE9FZ2c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "정부 AX 드라이브…산업계, AI 데이터 확보전 v.daum.net",
+      "publishedAt": "2026-08-16T06:10:48.000Z",
+      "rank": 7
     },
     {
       "id": "c59fce3c9c8e92b5",
@@ -92,116 +128,80 @@
       "source": "Google News: ISO IEC AI",
       "summary": "뤼이도, ISO 27001 인증 획득…사람·AI 협업 보안 강화 뉴스탭",
       "publishedAt": "2026-08-14T22:54:49.000Z",
-      "rank": 4
-    },
-    {
-      "id": "157f9e853be56274",
-      "title": "China advances global AI governance in a comprehensive manner - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tRTBYMDJzUE9VZGxPSGVHOUt0SFY0WlMtOHJ2WHk4ZzJ3SWZidV90dFJ1TnhJcWRsV0pVTFhnTUZqWmhadlgxa0VqWDFRY0hiZXZ0RDdUVmhSU1VRUlotSkpXR0dwUU0w0gFsQVVfeXFMT1UxRFlWREtKZG4tVzlHQ21YU2RHTVFLQzdjaG9IQm40YVgtYmNmeEdXbG5lN1FUUS0tQlRfWWlhQ2xsZ1FEbG1IWjRLLVg2c2lhVDR1NHJ2NnRmQlBBTUJPX2JXSDdjWVpiaDli?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "China advances global AI governance in a comprehensive manner KIPOST",
-      "publishedAt": "2026-08-14T07:35:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "4854ae3e4297bd18",
-      "title": "TestMu AI Unveils the Fifth Edition of the TestMu Conference in 2026 - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWjlXX2t3V3VUaG5TcGphY25McklPa0R4TW8xUndCalEzSkNqSWNPdGtXM0lNekdEX0pVSUF4VVNmNUtaWV91dTZ1Ql9HYm9JbUE4YjlBUXNZQ1JVLXNJNzlVcmo1YV9P0gFsQVVfeXFMTzl6NnJuS1J3OUJpNnY4N0xPdm9McFlqT1VKd2JkSUtmQmw2amNUbTNRVVVLSGpQc3JURjNRYjNQMVJ3TllVV3BQYnk1dTRkNEtFa2VBQ0pzdlVCeHF1Y0R2RDIxbWZEYzUtNUJp?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "TestMu AI Unveils the Fifth Edition of the TestMu Conference in 2026 KIPOST",
-      "publishedAt": "2026-08-14T17:12:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "915e1f080bbbf493",
-      "title": "8. AI 시대, 수산물 무역은 무엇을 준비해야 하는가 (2) - 현대해양",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HenRvN2RkMno0VWRBaHRaS2podEFpY1MzLVViaEdISWF0X2hvaWhyUGtpQnplb3YySzVER2N5SmgtYWpXR0tqSmowdVlXVjVlZ043Uy13bWlUYTNORUt4eGFzME1lalU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "8. AI 시대, 수산물 무역은 무엇을 준비해야 하는가 (2) 현대해양",
-      "publishedAt": "2026-08-14T15:06:07.000Z",
-      "rank": 7
-    },
-    {
-      "id": "b3e1ad1153b4890c",
-      "title": "‘2026 국제치유학술대회(ITC)’ 8월 부산 개최… 글로벌 해양치유 표준 세운다(‘2026 International Therapy Conference(ITC)’ to Be Held in Busan This August, Setting Global Marine Therapy Standards) - 글로벌휴먼타임즈",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12QmRGQ1FwRDNPMzVQc3BfeTBoM1FuNTRYb0lyVGFqa21TaElnVDQ3bVp4Qm53OGNoZXR0c0xGNDRaNGRQcnZNMmpFcnlWaHVwUEdVMG9ZaGpDZURKb3VRZ0ZmOWhnRUtJSlR6dC1EOEFOQQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "‘2026 국제치유학술대회(ITC)’ 8월 부산 개최… 글로벌 해양치유 표준 세운다(‘2026 International Therapy Conference(ITC)’ to Be Held in Busan This August, Setting Global Marine Therapy Standards) 글로벌휴먼타임즈",
-      "publishedAt": "2026-08-14T03:50:27.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "42ac364a99842057",
-      "title": "Bloomberg Tech 8/14/2026",
-      "url": "https://www.youtube.com/watch?v=DZ5mz2UjLN4",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/DZ5mz2UjLN4/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:56:33.000Z",
+      "id": "9564735692881363",
+      "title": "Build a live translation broadcast app with the Gemini Live API and LiveKit",
+      "url": "https://www.youtube.com/watch?v=kN_iMEAi1dw",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/kN_iMEAi1dw/hqdefault.jpg",
+      "publishedAt": "2026-08-17T23:00:36.000Z",
       "viewCount": 0
     },
     {
-      "id": "ab76b0208243386e",
-      "title": "Beyond Chatbots: The Next Wave of AI",
-      "url": "https://www.youtube.com/watch?v=74YLeXAlhno",
+      "id": "5c9c4a28a08bd990",
+      "title": "Anthropic's Revenue Jump, Wealthy Bet on SpaceX | Bloomberg Tech 8/17/2026",
+      "url": "https://www.youtube.com/watch?v=PvsS45A-M7E",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/74YLeXAlhno/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:50:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/PvsS45A-M7E/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:42:39.000Z",
       "viewCount": 0
     },
     {
-      "id": "82ac72cf783aebd4",
-      "title": "OpenAI on Track to Double Revenue Ahead of IPO",
-      "url": "https://www.youtube.com/watch?v=1oP51W5SzLQ",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/1oP51W5SzLQ/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:47:55.000Z",
+      "id": "351806561acda628",
+      "title": "Hands on with Gemini 3.7 Flash",
+      "url": "https://www.youtube.com/watch?v=kacf2bib-X0",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/kacf2bib-X0/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:40:25.000Z",
       "viewCount": 0
     },
     {
-      "id": "c16a9f292fe0fd95",
-      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-      "url": "https://www.youtube.com/watch?v=EDWbX_-RYws",
+      "id": "1ec38dd68647793b",
+      "title": "Bedrock Brings Autonomous Driving to Construction",
+      "url": "https://www.youtube.com/watch?v=Nzus4Y9ysFA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Nzus4Y9ysFA/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:33:10.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7464900271afc94d",
+      "title": "The World’s Richest Families Bet on SpaceX",
+      "url": "https://www.youtube.com/watch?v=OnLt7r0ajtU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/OnLt7r0ajtU/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:31:24.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "bbce14b69a3d417e",
+      "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
+      "url": "https://www.youtube.com/watch?v=B8sZpTz7RLY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/B8sZpTz7RLY/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:30:07.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "19d70c1737670c44",
+      "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
+      "url": "https://www.youtube.com/watch?v=dwm_Q5ckOdU",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/dwm_Q5ckOdU/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:25:53.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "2baf862ba3105f80",
+      "title": "You can just keep the work moving",
+      "url": "https://www.youtube.com/watch?v=wIf9yMGalPU",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/EDWbX_-RYws/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:19:17.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b7c7fa912f9892d7",
-      "title": "Cloud Network Insights Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
-      "url": "https://www.youtube.com/watch?v=rqh9-32mX0E",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/rqh9-32mX0E/hqdefault.jpg",
-      "publishedAt": "2026-08-14T16:55:02.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2c0dcc03b320b3e6",
-      "title": "Does Mark Zuckerberg really believe AI is 'for everyone'? | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=kO63CRQig10",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/kO63CRQig10/hqdefault.jpg",
-      "publishedAt": "2026-08-14T15:36:13.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "2efd359c24d3ae25",
-      "title": "Europe's Robot Reality | Bloomberg Tech: Europe 8/14/2026",
-      "url": "https://www.youtube.com/watch?v=tfM-yOU2YoE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/tfM-yOU2YoE/hqdefault.jpg",
-      "publishedAt": "2026-08-14T09:16:22.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "984d94ca7610cbc7",
-      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
-      "publishedAt": "2026-08-14T08:42:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg",
+      "publishedAt": "2026-08-17T18:25:48.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-16T01:20:23.000Z"
+      "updatedAt": "2026-08-17T01:18:22.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
