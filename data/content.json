@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T01:12:43.291Z",
-  "projectsCheckedAt": "2026-08-19T01:12:43.291Z",
-  "projectsUpdatedAt": "2026-08-19T01:12:43.291Z",
+  "updatedAt": "2026-08-20T01:11:58.298Z",
+  "projectsCheckedAt": "2026-08-20T01:11:58.298Z",
+  "projectsUpdatedAt": "2026-08-20T01:11:58.298Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-19T01:12:43.291Z",
+    "checkedAt": "2026-08-20T01:11:58.298Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "0a9effb4ab5a5578",
-      "title": "SK쉴더스, 제로트러스트 보안 사업 강화 - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWs4Z0J2WGZaYkNWX1pHUVZQZ0w1M2RrLTNCblYwUG9Za2FCRDFiWmg1dl91dUVMb1ZsVVFoRVBoRzVxVFJfYlZjZ3RXME1uRHVIa3o5Xzd1c2JKVFJQUUlxTlFrYTZTLVVsTkV4SzFXWUIyR2hYMzBtZEdWcjJPTjBn0gGWAUFVX3lxTE9IcEFnUWJLdV9kMnZ2VTRVVnVKTk9PRkVGUXlFNVlXMG5qbS04emlxUUtmOEYtUFFxUHJiUWlhSE00TVVCcHZueGFzVnJsMDNWMEtsS2MzSG10RzNQVmM2R2xBTDVsWkNEamxILU1XdE1Balo3OTVCaTk0WU93QWU0a1ZfQkVSR3l0WHp1aHFGTW9SUlNMdw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "SK쉴더스, 제로트러스트 보안 사업 강화 - 조선비즈 Chosunbiz",
-      "publishedAt": "2026-08-19T01:01:00.000Z",
+      "id": "7a40d508acbe8afe",
+      "title": "유한양행, 기관투자자 만난다…레이저티닙·R&D 성장 전략 공개 - 리드경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLd09BTUtsNzk3MEhpbE5TaDNuWjMzNTNhV0NsbzdKTUJJcWVmd0JQWnFrZVM0a1pxYmtDVGlWeGxBY3NqVjN6Z1ZYU3lyX1ZXM0NpYU02SExlYzE1Y2ZEcmdwaU9scno3RGxWRmhaNA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "유한양행, 기관투자자 만난다…레이저티닙·R&D 성장 전략 공개 리드경제",
+      "publishedAt": "2026-08-19T23:49:20.000Z",
       "rank": 1
     },
     {
-      "id": "0ec924edae0f9c03",
-      "title": "한국탄소산업진흥원, AI 반도체·배터리 핵심 '탄소나노소재' 국제표준 선점 전략 모색 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ma2pZanBQaVNINzU4emozck8xTVZiRjhUbUlHOFhGdDhZNGd4WjVoa1dXa1YwRFZNYTlTeEhmMURzWVBWM05nRU9KTEhKdw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "한국탄소산업진흥원, AI 반도체·배터리 핵심 '탄소나노소재' 국제표준 선점 전략 모색 전자신문",
-      "publishedAt": "2026-08-19T00:37:58.000Z",
+      "id": "7433190d26447fce",
+      "title": "유한양행, 기관투자자와 성장전략 공유…레이저티닙·R&D 사업화 주목 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jRVJycHpIUVU5Z2xETVU1eFM3cXY4ZFBTck1tN0Z2NGRtWHF2cG5ZTXRUMDE3XzM1M0VFeUxDcXZmQU04bTIxQ2hLa0pRR0xHbjVzb3lBQUlqWF9JWHpOSzBJUi0?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "유한양행, 기관투자자와 성장전략 공유…레이저티닙·R&D 사업화 주목 PRESS9",
+      "publishedAt": "2026-08-19T23:36:20.000Z",
       "rank": 2
     },
     {
-      "id": "78fa7cff1c559f08",
-      "title": "사람 넘어 ‘AI’까지 통제한다…SK쉴더스의 새로운 보안 승부수 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NTnN3M0R1Z0w0bGRpdlRxWDhLQmlsUHRrV3FXV0hsUkswYWZiTFZmUzRla0wwaEJidHIzNHZwNmdiS2hlb2VkVXE3WjBxRVA5NEhhQkRrQlQwUQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "사람 넘어 ‘AI’까지 통제한다…SK쉴더스의 새로운 보안 승부수 한국경제",
-      "publishedAt": "2026-08-19T00:31:25.000Z",
+      "id": "f79ec0d1abfa83d0",
+      "title": "페니트리움바이오, 유증 축소에 R&D 전략 차질 빚나 : 네이버 블로그 - blog.naver.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGZmdFVqcG1hdGt4M3VUQ1ppUVNXeFBuTEE2eDlsVmkwUURwb1loTEJqRWdjeUdIZ2FWWm95V3gxMUxOcnAzd29NZmpjUXpNZ0Zac3B1aDFSMENMaGpKTWUwWUtaQVRuT19tc0xJcG1yYWJydXVGa0VkOUFtMGRVUDlUQ3JHZlJTMjR3Z2RuUQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "페니트리움바이오, 유증 축소에 R&D 전략 차질 빚나 : 네이버 블로그 blog.naver.com",
+      "publishedAt": "2026-08-19T20:21:33.000Z",
       "rank": 3
     },
     {
-      "id": "ad90ea220e56c2e2",
-      "title": "SK쉴더스, AI 에이전트 보안 강화…NHI 관리 나선다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBucWZsSmZqUWZfalhvaUVlRTVoN2hDdE1rdVRkYVdfT3F2dGQ3WmwyWXNXcl9ybFViNkwtNGxOUW5oSTdrMU5hTGhuSTlTZw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "SK쉴더스, AI 에이전트 보안 강화…NHI 관리 나선다 전자신문",
-      "publishedAt": "2026-08-19T00:21:53.000Z",
+      "id": "43f84187bd12bf02",
+      "title": "‘뤼이도’ 운영사 스위그, ISO 27001 인증 획득… AI 협업 시대 정보보호 기반 강화 - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VzNRaDhpaF80NkFySFJfRkwtR1dnYWFQa2s4b3RDUmd5X1M1WU5LWUd1WFoya2d5QkVTc0FfejJ6R3k4NTRhV1NjQktSZExCbkNRUmtWTmlnU0d3REtFd0hGOGFUd1nSAWtBVV95cUxPTE1ReWpWbGVUa09OUUFuak9WekJqYmdMcVBtdWVIRC1sellFYlhwOWpYNV9HWXZfR1BnMjNvOGtoVHpIcnpTNDg2TUpvRi1rMjQ5bGF6V3JNckRobmwwS1ViNjJBODJyNGsyaw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "‘뤼이도’ 운영사 스위그, ISO 27001 인증 획득… AI 협업 시대 정보보호 기반 강화 에이빙",
+      "publishedAt": "2026-08-19T05:58:26.000Z",
       "rank": 4
     },
     {
-      "id": "44ad0292ba87ba72",
-      "title": "탄소산업진흥원, 나노전기전자 국제표준화 워크숍 개최 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ma3FnelBSeERtcUtoTF80Tl9zOFExWC1QbGs5UTJuMnVFdTd5NU1tWmplMWktdFBPMU9UZTZlWEo3cy1mQzBjb25nX2N5b28?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "탄소산업진흥원, 나노전기전자 국제표준화 워크숍 개최 v.daum.net",
-      "publishedAt": "2026-08-19T00:17:07.000Z",
+      "id": "01b56c7bb963c2c5",
+      "title": "이수앱지스, 이재일 연구소장 영입···신약개발 전략 재정비 - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95VnFDWVNRTDZaa2lRMHo1YUlYNnpobkpmRHpRYktvUjBkU20zMHh3ZF9LSVRpSDFJX3MxVkl6elZHRGJyUFZsNXpweU15RTRmUFBKOFVXa1haRnQtSzBLTHJrcTlFVy0ybGw5R0tzTmVGcWY5bFHSAXZBVV95cUxPeVZxQ1lTUUw2WmtpUTB6NWFJWDZ6aG5KZkR6UWJLb1IwZFNtMzB4d2RfS0lUaUgxSV9zMVZJenpWR0RiclBWbDV6cHlNeUU0ZlBQSjhVV2tYWkZ0LUswS0xya3E5RVctMmxsOUdLc05lRnFmOWxR?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "이수앱지스, 이재일 연구소장 영입···신약개발 전략 재정비 시사저널e",
+      "publishedAt": "2026-08-19T09:59:08.000Z",
       "rank": 5
     },
     {
-      "id": "cd4207c505a792b6",
-      "title": "\"AI 에이전트 확산에 보안 비상\"…SK쉴더스, AI 보안 컨설팅 개시 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUndybkJQd1QzOWIzcDFYTy1VR3pqLWliOW9iR3BTTVBJREh1X2w1Tl9LVEJJSjRYR3UtN3VuRndnZHlBamRpVGxwcGRZQzY4SmpqMVIwb1lya0d1anJrb9IBeEFVX3lxTE85bUJDNnFhYWl6dmk2WHBRVTRtYTlMck9iNk5vVTFPUFhjTWNRTVhXSzdWX2pRTmFqNjdVOWZNZHQ5SVd4eEl6bkl0bGFoaTN3NXgtekN4bHlyTEFOTjB3Nzd0WDNOXzlXZUxmbTRfMFZ1SmgzWXYzRw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "\"AI 에이전트 확산에 보안 비상\"…SK쉴더스, AI 보안 컨설팅 개시 뉴시스",
-      "publishedAt": "2026-08-18T23:58:20.000Z",
+      "id": "eda2d83a3d52fd91",
+      "title": "14년 만에 ‘혁신형 제약기업’ 문턱 높아진다…제약바이오 업계 대응 전략은? - 바이오타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUm56T051dmZncHZRcnZENXhBY1lzeExIdVJmZnhVNHNZYXJrZlUySk5jVjJuZVA3SWFXOE5iUVozVW1PUzlwTWd4X2d1YjB1eDg5NjhxWmxJNllOdy1hUDY0a290T2lXeXBTSw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "14년 만에 ‘혁신형 제약기업’ 문턱 높아진다…제약바이오 업계 대응 전략은? 바이오타임즈",
+      "publishedAt": "2026-08-19T08:43:51.000Z",
       "rank": 6
     },
     {
-      "id": "36d985960d2be6a6",
-      "title": "Kukkiwon World Taekwondo Academy (WTA) Successfully Concludes 2026 International Taekwondo Master Instructor Course - wtu.kr",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1rOUt6aE9Sd0J6c0ZCY2V0SmNlcU5pcHNlclpHUjhISTFpbWRSWUpUaV9idEMtc0pmUlE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Kukkiwon World Taekwondo Academy (WTA) Successfully Concludes 2026 International Taekwondo Master Instructor Course wtu.kr",
-      "publishedAt": "2026-08-18T17:07:00.000Z",
+      "id": "76255f1d468a5545",
+      "title": "SK쉴더스, 제로트러스트 기반 AI 보안 사업 강화 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OUnNfYmppLXFGbGExdW5Ta21wMW8wYjd1bTdMT3NnQno5dFF4X3hlZFBTM0pHMTE5MThhUXM5NDJIRFB5ZnZwbGVDX1pmb1RqSzgxTmJB?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "SK쉴더스, 제로트러스트 기반 AI 보안 사업 강화 지디넷코리아",
+      "publishedAt": "2026-08-19T07:42:55.000Z",
       "rank": 7
     },
     {
-      "id": "0053cf4a7e4bf094",
-      "title": "금융 AI 테스트 오류, 거래·대출 사고 위험 키운다...손실·규제 제재 막는 5대 통제 - 지티티코리아",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2QTV2ekVzUU5sVmlTbzJ0a1c2WUlmNkpuN2F1T2RSNTVRWENmclc4d0d3d1EwaGdQLVBTLVpId0oyeGpoWjh2OXVuVUZFMDlJSElSY0JxOHJtYUVGNjVkaDZwQjZjVlBjV0E?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "금융 AI 테스트 오류, 거래·대출 사고 위험 키운다...손실·규제 제재 막는 5대 통제 지티티코리아",
-      "publishedAt": "2026-08-18T15:00:00.000Z",
+      "id": "44c8ae5a89dc830b",
+      "title": "“R&D 3000억 투자해야 만점”…혁신형 제약기업, 투자부터 임상·수출까지 따진다 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvV1YtWTBrTVdJQTNETlA0RWpYNHRqSTNDT29PQVZrRC1JNkpCbWNjVWpxR2ZaQkJRVXBSS2JFQ3prTF9EX0phQ3hRM2xUcWlfVTU2T3lDUHFlVGFua01WSEhaMlpOMFpIUmc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“R&D 3000억 투자해야 만점”…혁신형 제약기업, 투자부터 임상·수출까지 따진다 의학신문",
+      "publishedAt": "2026-08-19T06:46:08.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "d1022cd88d4cb85c",
-      "title": "Anthropic’s $65 Billion Surge, OpenAI’s Teen Push | Bloomberg Tech 8/18/2026",
-      "url": "https://www.youtube.com/watch?v=yHBURKjKJL0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/yHBURKjKJL0/hqdefault.jpg",
-      "publishedAt": "2026-08-18T18:59:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "34fa098650405910",
-      "title": "Silicon Valley Is Still the Center of AI, Says GV",
-      "url": "https://www.youtube.com/watch?v=0YjUU9RmN5k",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/0YjUU9RmN5k/hqdefault.jpg",
-      "publishedAt": "2026-08-18T18:54:58.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "7c97bfa8bdecad57",
-      "title": "AI Stress Tester: Models Have Crossed a ‘Threshold of Competency’",
-      "url": "https://www.youtube.com/watch?v=FUmf1hbN8Po",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/FUmf1hbN8Po/hqdefault.jpg",
-      "publishedAt": "2026-08-18T18:51:09.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "b3e4cfd5ee64d91e",
-      "title": "ChatGPT Shouldn’t Be a ‘Friend’ to Teens, Says OpenAI",
-      "url": "https://www.youtube.com/watch?v=JrVQ7DDKILk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/JrVQ7DDKILk/hqdefault.jpg",
-      "publishedAt": "2026-08-18T18:48:52.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "bae3d8c60308e2d3",
-      "title": "Anthropic’s Revenue Boom Builds Ahead of IPO",
-      "url": "https://www.youtube.com/watch?v=rwH0Bt598IY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/rwH0Bt598IY/hqdefault.jpg",
-      "publishedAt": "2026-08-18T18:47:11.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4fc0ef65e9681735",
-      "title": "New Way Now: Ericsson boosts ROI and issue resolution with Gemini Enterprise Agent Platform",
-      "url": "https://www.youtube.com/watch?v=63Y4KHNEXO0",
+      "id": "f101d7ba8c91e3e7",
+      "title": "New Way Now: KDDI pioneers Japan's AI ecosystem with Google Cloud Consulting",
+      "url": "https://www.youtube.com/watch?v=QaiYTKaB8vc",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/63Y4KHNEXO0/hqdefault.jpg",
-      "publishedAt": "2026-08-18T16:00:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QaiYTKaB8vc/hqdefault.jpg",
+      "publishedAt": "2026-08-19T19:10:54.000Z",
       "viewCount": 0
     },
     {
-      "id": "9564735692881363",
-      "title": "Build a live translation broadcast app with the Gemini Live API and LiveKit",
-      "url": "https://www.youtube.com/watch?v=kN_iMEAi1dw",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/kN_iMEAi1dw/hqdefault.jpg",
-      "publishedAt": "2026-08-17T23:00:36.000Z",
+      "id": "25400f23eb58ae1f",
+      "title": "Meet the startup helping Wall Street put a price on AI compute | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=NPi9qLNW2pE",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/NPi9qLNW2pE/hqdefault.jpg",
+      "publishedAt": "2026-08-19T18:14:26.000Z",
       "viewCount": 0
     },
     {
-      "id": "5c9c4a28a08bd990",
-      "title": "Anthropic's Revenue Jump, Wealthy Bet on SpaceX | Bloomberg Tech 8/17/2026",
-      "url": "https://www.youtube.com/watch?v=PvsS45A-M7E",
+      "id": "e60398952eb806e6",
+      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "channel": "Two Minute Papers",
+      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+      "publishedAt": "2026-08-19T18:02:46.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "9725a29ca09143f7",
+      "title": "Marvell, Google Deepen Ties in AI Chip Race | Bloomberg Tech 8/19/2026",
+      "url": "https://www.youtube.com/watch?v=EpGNARav3n0",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/PvsS45A-M7E/hqdefault.jpg",
-      "publishedAt": "2026-08-17T18:42:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EpGNARav3n0/hqdefault.jpg",
+      "publishedAt": "2026-08-19T18:02:41.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "c52aafeba5129854",
+      "title": "Investors Bet on Making Commercial Fusion a Reality",
+      "url": "https://www.youtube.com/watch?v=SaHvYrfZ08U",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/SaHvYrfZ08U/hqdefault.jpg",
+      "publishedAt": "2026-08-19T17:55:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "5e81b21bee1946e3",
+      "title": "Why AI Isn’t the BOE’s Biggest Inflation Worry",
+      "url": "https://www.youtube.com/watch?v=O2ZGKSkCcHQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/O2ZGKSkCcHQ/hqdefault.jpg",
+      "publishedAt": "2026-08-19T17:54:15.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "3b37fb8972a76013",
+      "title": "Unitree Robotics Surges in Shanghai Debut",
+      "url": "https://www.youtube.com/watch?v=3kN2r63VpoE",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/3kN2r63VpoE/hqdefault.jpg",
+      "publishedAt": "2026-08-19T17:51:20.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "8089bf75194772db",
+      "title": "Anthropic Pre-IPO Credit Facility to Rise Over $10 Billion",
+      "url": "https://www.youtube.com/watch?v=uHryeYEtaoA",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/uHryeYEtaoA/hqdefault.jpg",
+      "publishedAt": "2026-08-19T17:49:37.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-18T01:15:45.000Z"
+      "updatedAt": "2026-08-19T01:17:07.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
