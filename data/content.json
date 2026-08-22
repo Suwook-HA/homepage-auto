@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T01:15:49.131Z",
-  "projectsCheckedAt": "2026-08-21T01:15:49.131Z",
-  "projectsUpdatedAt": "2026-08-21T01:15:49.131Z",
+  "updatedAt": "2026-08-22T01:11:54.599Z",
+  "projectsCheckedAt": "2026-08-22T01:11:54.599Z",
+  "projectsUpdatedAt": "2026-08-22T01:11:54.599Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,7 +54,7 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-21T01:15:49.131Z",
+    "checkedAt": "2026-08-22T01:11:54.599Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
@@ -77,21 +77,21 @@
       "rank": 2
     },
     {
-      "id": "acc547708dd3dd94",
-      "title": "니덤, 확신 종목 리스트에 핀테크 최고 유망주 선정 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzbUdxNTExX2JsRlVlckthdTJNMFNhMTJRdm1IalhJS3lxREVWaVdaeXNIYUhIc2VTa0xKc0c5SWJqR3FHZi1lYTlDUGVSeFBKV1VIUzNjRld1aTc5cGU0Z3ZFMk56LVNoaGZaV0p0cmpOOWNZZXY0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "니덤, 확신 종목 리스트에 핀테크 최고 유망주 선정 Investing.com 한국어",
-      "publishedAt": "2026-08-20T19:33:00.000Z",
+      "id": "0e5966f1a862a37e",
+      "title": "산업 AI 확산 속 규제·데이터 대응 어떻게…산업지능화협회, 31일 세미나 개최 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JQlkxeEZsQVdjVTdKMjdkWVZXVE56N2RvY24yekREM1IyNVhjUGljZ0RLUTlVTURwRlRTbkwtcms4OE81STZkUkJ2ck1YaGZBb3E3dVhSSkk4aUo0ZXEw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "산업 AI 확산 속 규제·데이터 대응 어떻게…산업지능화협회, 31일 세미나 개최 헬로티",
+      "publishedAt": "2026-08-21T05:26:39.000Z",
       "rank": 3
     },
     {
-      "id": "89df5d1b569cef53",
+      "id": "794e503abb943d85",
       "title": "지재처, ‘IP 기반 R&D-IP-사업화 혁신 지원 방안’ 발표 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JQkl1LWlnZEI2bndNVzZ1cS1nWXpmS0pYa1h3SndPcXl4VFVGREhDeC1UZ1VPb1RXWS1PYk90aU5wLTFZbjMyUE56SHhDTW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zNTBhN0NxajBudTZfZ2hqZWtNTGxVSEtKR1VLZWYxMkhBcjVJdWtUejd1ZmcyOEM5MDkzMnNZZUxCR1lYbFZZOFBFRUYxNm03bzFGaw?oc=5",
       "source": "Google News: R&D Strategy",
       "summary": "지재처, ‘IP 기반 R&D-IP-사업화 혁신 지원 방안’ 발표 v.daum.net",
-      "publishedAt": "2026-08-20T10:01:00.000Z",
+      "publishedAt": "2026-08-20T10:01:49.000Z",
       "rank": 4
     },
     {
@@ -122,86 +122,86 @@
       "rank": 7
     },
     {
-      "id": "f8fc5763a2ba09cc",
-      "title": "\"공간정보의 미래 한눈에\"…공간정보품질관리원, ‘GeoQ’ 제3호 발간 - 건설이코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05VDVMV3ozZ0loNURNTENBWWFHMXJjUEEtdC04UWZuQTRoaUg1OXFvTkllYXlEd2JYRGZDRXQydGdWUERQMnRUVGhab2hPYjU4RmtsZk9nX2RtRllud0gwOHp5U00?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "\"공간정보의 미래 한눈에\"…공간정보품질관리원, ‘GeoQ’ 제3호 발간 건설이코노미뉴스",
-      "publishedAt": "2026-08-20T03:02:00.000Z",
+      "id": "0c6ffe1178569bb0",
+      "title": "‘제6회 디지털 ESG 조찬회’ 개최...제조 AX·피지컬 AI 실행 전략 집중 조명 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Rk5KeWs5RXUweW12VkVRUzF3VzEzbnJyc09vdUpjNkhsWlQzbk9PRHplTUJEbUpWZTJvSHBZUE9HZnI2NWp2cnNMbjZIN1JzRXdWdXN4M1ZOQnJFeTFz?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "‘제6회 디지털 ESG 조찬회’ 개최...제조 AX·피지컬 AI 실행 전략 집중 조명 헬로티",
+      "publishedAt": "2026-08-20T02:37:36.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "3cafabe25c607434",
-      "title": "Alibaba's AI Spending Spree, Concerns of Circular AI Financing | Bloomberg Tech 8/20/2026",
-      "url": "https://www.youtube.com/watch?v=Ov3X8cR1Vzg",
+      "id": "877b239413fae131",
+      "title": "Khosla Ventures Bets on AI’s Next Frontier: Science",
+      "url": "https://www.youtube.com/watch?v=3LnTUtEeZMc",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Ov3X8cR1Vzg/hqdefault.jpg",
-      "publishedAt": "2026-08-20T18:32:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3LnTUtEeZMc/hqdefault.jpg",
+      "publishedAt": "2026-08-21T19:22:18.000Z",
       "viewCount": 0
     },
     {
-      "id": "e66647c84666b003",
-      "title": "Mayfield Bets on AI’s Earliest Founders",
-      "url": "https://www.youtube.com/watch?v=I4_ZCA6T188",
+      "id": "a7cb9dd820622130",
+      "title": "Meta Safety Trial Could Reveal What Zuckerberg, Others Knew",
+      "url": "https://www.youtube.com/watch?v=gH6U3lE8opU",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/I4_ZCA6T188/hqdefault.jpg",
-      "publishedAt": "2026-08-20T18:17:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gH6U3lE8opU/hqdefault.jpg",
+      "publishedAt": "2026-08-21T19:20:32.000Z",
       "viewCount": 0
     },
     {
-      "id": "8fca3dd3415fb53e",
-      "title": "The Defense Startup Taking a SpaceX Approach to Missiles",
-      "url": "https://www.youtube.com/watch?v=EtwmqKzcBPM",
+      "id": "a5037bd679d982f3",
+      "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
+      "url": "https://www.youtube.com/watch?v=DGA-bK-27nc",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EtwmqKzcBPM/hqdefault.jpg",
-      "publishedAt": "2026-08-20T18:17:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/DGA-bK-27nc/hqdefault.jpg",
+      "publishedAt": "2026-08-21T19:15:57.000Z",
       "viewCount": 0
     },
     {
-      "id": "f9085a522fa63ac3",
-      "title": "Meta Is Now One of Microsoft's Largest AI Customers",
-      "url": "https://www.youtube.com/watch?v=qKJr8H73sEM",
+      "id": "3b0d0167e84111ca",
+      "title": "Wall Street Struggles to Absorb AI’s Debt Boom",
+      "url": "https://www.youtube.com/watch?v=5xrckDkKdVE",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/qKJr8H73sEM/hqdefault.jpg",
-      "publishedAt": "2026-08-20T18:15:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/5xrckDkKdVE/hqdefault.jpg",
+      "publishedAt": "2026-08-21T19:14:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "5e9b85cd3daa6e40",
-      "title": "Google Accelerator Alumni: Tilli",
-      "url": "https://www.youtube.com/watch?v=a4iRxhgNDyI",
+      "id": "128c8add433e5d9d",
+      "title": "Anthropic Aims to Match or Top SpaceX IPO",
+      "url": "https://www.youtube.com/watch?v=bmh4MqQyda4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/bmh4MqQyda4/hqdefault.jpg",
+      "publishedAt": "2026-08-21T19:11:55.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "b715ce47f8e09d73",
+      "title": "Why is the DOJ investigating Andreessen Horowitz over board seats? | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=z8DUzY2wl2I",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/z8DUzY2wl2I/hqdefault.jpg",
+      "publishedAt": "2026-08-21T16:48:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "93b64b9f7dab76e6",
+      "title": "New Way Now: Personal builds the agentic AI Concierge with Google Cloud Consulting",
+      "url": "https://www.youtube.com/watch?v=7dukgEMw9L4",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/a4iRxhgNDyI/hqdefault.jpg",
-      "publishedAt": "2026-08-20T16:36:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7dukgEMw9L4/hqdefault.jpg",
+      "publishedAt": "2026-08-21T16:42:40.000Z",
       "viewCount": 0
     },
     {
-      "id": "c80ead461fd76324",
-      "title": "Learn What VCs Actually Want, From a Founder Who's Raised $1B with Sasha Orloff, Puzzle",
-      "url": "https://www.youtube.com/watch?v=IHhNyTEVNq4",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/IHhNyTEVNq4/hqdefault.jpg",
-      "publishedAt": "2026-08-20T16:34:05.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "d9f970a0123d8203",
-      "title": "Learn What VCs Actually Want, From a Founder Who's Raised $1B l Build Mode",
-      "url": "https://www.youtube.com/watch?v=Y7ADBXU39wE",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/Y7ADBXU39wE/hqdefault.jpg",
-      "publishedAt": "2026-08-20T16:15:43.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "284ee77aaa2726dc",
-      "title": "China Sentences Evergrande Founder Hui to Life in Prison",
-      "url": "https://www.youtube.com/watch?v=MNJmWbVPbUY",
+      "id": "9e084ba5371d82ac",
+      "title": "Broadcom Seeking More Than $60 Billion in Latest AI Debt Deal",
+      "url": "https://www.youtube.com/watch?v=wlGDy-IT0tY",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/MNJmWbVPbUY/hqdefault.jpg",
-      "publishedAt": "2026-08-20T09:10:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wlGDy-IT0tY/hqdefault.jpg",
+      "publishedAt": "2026-08-21T16:26:27.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-20T01:16:18.000Z"
+      "updatedAt": "2026-08-21T01:19:54.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
