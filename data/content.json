@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-22T01:11:54.599Z",
-  "projectsCheckedAt": "2026-08-22T01:11:54.599Z",
-  "projectsUpdatedAt": "2026-08-22T01:11:54.599Z",
+  "updatedAt": "2026-08-23T01:18:02.972Z",
+  "projectsCheckedAt": "2026-08-23T01:18:02.972Z",
+  "projectsUpdatedAt": "2026-08-23T01:18:02.972Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,26 +54,26 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-22T01:11:54.599Z",
+    "checkedAt": "2026-08-23T01:18:02.972Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "290438b6ce2abb7f",
-      "title": "NAVER’s Digital Twin Platform Adopted as Saudi Arabia’s National Standard for Municipalities - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYk0wNVpmOUNrZkxMVEV3TVZyVXdwdG8wOG5UcWJ2UmRpNU8yUXBqUDhrU3dfZ2RZbFh3ekJCbWtjYzg3eXB6OW5Zel90RUYyV0dodUVyYjM5ZVF6MFV6Nnd4NjhGdlk5eE1kNHd3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "NAVER’s Digital Twin Platform Adopted as Saudi Arabia’s National Standard for Municipalities 알파경제",
-      "publishedAt": "2026-08-20T21:00:00.000Z",
+      "id": "43dc84a66c899c4b",
+      "title": "Geely And CATL Support Battery ID Platform For Global EV Data Standardization - VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12SENLRVY5eE9LREN1WHV5SlhTMXdSVkZpRUdSemhXTXRWUFlzTnFISjJYSy1KX1JqeHcyeVJjTnBfdV9iSDdv0gFCQVVfeXFMTm5GUVN5VXlYMEFoS1FLZi0zdm9OcW9iM1FMbzdvMmc4VXNyUmVGTkt1dEhBZWtieHJveVAwcm9OeWlB?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Geely And CATL Support Battery ID Platform For Global EV Data Standardization VOI.ID",
+      "publishedAt": "2026-08-22T14:32:26.000Z",
       "rank": 1
     },
     {
-      "id": "cbaf9ec4a86069f4",
-      "title": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNakUxOXZ6S0gwaUt4NWtRRS04dEJKSjRFR3JuWDVBaU5SdU51MXRMekNXWDRDRGU0b0piMmp1WUJ1T05yMUNSdlFqaEQ4c2tRYmEwM3RWOFd4Q0ZEN1BqMWlJWVBEeE9oMzNEek4zdVViOU5sdnMwWTRqVGJlSTNWVXJwckhYUTNRenRtZGp0RzY3dDU4TkZ0ZHpzZTJaeG9BT1JUOC1jWVNzYlc2OEQxaTF5ZXlRaS1xMDl3ZmNLNEhRR3lzajVrblh2TW9mV2YwbkZCOG9MVTByeXhQaHo1SURRY3FqV0NMdlJTeGlva3VFNWVwX2M1UkV3QUdVN1hfVkhUZTFYWVlFNXpnUTAzczFFVXpQeHEzNW0wNHdSR29aYUxtNU9ZeGlLTUFTR3JOaHFpbDdxSEJWcmEwZkhDR2dxMGhpbXUxWm4yRnBJNnRCSkR0OEZsTFBKeDFIYkxFSGFsY3VITW42YkVLR0cybEdlMlB5YzFXeGVNVXhDQkhna2ppeDE2eWpPakpTb3ppcE10VEFCTmVmd3dham0tdTdQUkxMMHBUdkZ5eXpuT19nS3NfNzBCR3gxelFlQXlwYzFpUlJVaW5XSDFCeVpnSU0xQjREZF8xQlRyMDQ5NHh5d2hZR0ZYbHEtZEZyMXFvaHNjNGdXb1lEZDRyQnc?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 Yellow.com",
-      "publishedAt": "2026-08-20T10:38:02.000Z",
+      "id": "f55abb53d28406f2",
+      "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HX2JyT1lnZnRucGxxTzJVSkp2c1lwQk9QWFNWNXNXZWJNSlNNbkxwTHlWZGIxVFViZ2dCQnByd0lhQ2JkWDR2OEUyTW1wZw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 전자신문",
+      "publishedAt": "2026-08-22T08:00:00.000Z",
       "rank": 2
     },
     {
@@ -86,48 +86,48 @@
       "rank": 3
     },
     {
-      "id": "794e503abb943d85",
-      "title": "지재처, ‘IP 기반 R&D-IP-사업화 혁신 지원 방안’ 발표 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zNTBhN0NxajBudTZfZ2hqZWtNTGxVSEtKR1VLZWYxMkhBcjVJdWtUejd1ZmcyOEM5MDkzMnNZZUxCR1lYbFZZOFBFRUYxNm03bzFGaw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "지재처, ‘IP 기반 R&D-IP-사업화 혁신 지원 방안’ 발표 v.daum.net",
-      "publishedAt": "2026-08-20T10:01:49.000Z",
+      "id": "5ed53a79ca4632f1",
+      "title": "[피지컬 AI ㉛] DX, 스마트 팩토리, 피지컬 AI의 삼위일체 - 자율 의사결정 체계로의 진화 - 미디어피아",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZWxna3BQZkJkWEpaSlZZSVl4UDFJUlZmbkl5ZDRPbmp4dUVLdXRNU0Ixa3VuMC1Pd3NUQUt4VFRzUVVUUjlvak9GSVdWZVVKX212M2FYWHNIbndYUUtjSklxaXNHMkxOMjFZNA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[피지컬 AI ㉛] DX, 스마트 팩토리, 피지컬 AI의 삼위일체 - 자율 의사결정 체계로의 진화 미디어피아",
+      "publishedAt": "2026-08-21T04:24:23.000Z",
       "rank": 4
     },
     {
-      "id": "a3088ec68506d2e5",
-      "title": "지식재산처, 국가전략기술 IP 경쟁력 강화…AI·로봇 등 핵심 특허 확보 총력 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jcWtMcXZnaHhMbGZ6M1ZlWGJmcUdnSnl4M29KQ3ZRUmtYQUtqZjZoOHFnLTlqcTVtX05VRDFFT05qVldDeC0zbkY5VmszUQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "지식재산처, 국가전략기술 IP 경쟁력 강화…AI·로봇 등 핵심 특허 확보 총력 전자신문",
-      "publishedAt": "2026-08-20T10:00:00.000Z",
+      "id": "e77ade1f8ea9ff00",
+      "title": "파주시, AI 시대 맞춤형 공공데이터 발굴… 9월 10일까지 대국민 수요조사 실시 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xM1JVSXcwX21Hc3Y0Q2hHMERNbnZqN2x0VFlDWGdFcTl3X1plRDlKRzJJU0JoY3RBUUoyeTBGYThiMWVlbzdYMg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "파주시, AI 시대 맞춤형 공공데이터 발굴… 9월 10일까지 대국민 수요조사 실시 브레이크뉴스",
+      "publishedAt": "2026-08-21T04:10:00.000Z",
       "rank": 5
     },
     {
-      "id": "df17eb0dde21aed8",
-      "title": "유한양행, 기관투자자 대상 NDR 개최…렉라자·R&D 전략 공유 - 쿠키메디",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qbWFWTG52UEtHNUJCTE13b3kzYTdXSjJ3R0FpSVdqaGNKaU1QT2FrRmlMREVZVGZsM2FFRWtxRExQU1NHNlpCRWZQSlR6djdxUmJaa3BVLUx2S0lpaVlfSHNiQQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "유한양행, 기관투자자 대상 NDR 개최…렉라자·R&D 전략 공유 쿠키메디",
-      "publishedAt": "2026-08-20T09:02:21.000Z",
+      "id": "f5abd45cc1162d2b",
+      "title": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNakUxOXZ6S0gwaUt4NWtRRS04dEJKSjRFR3JuWDVBaU5SdU51MXRMekNXWDRDRGU0b0piMmp1WUJ1T05yMUNSdlFqaEQ4c2tRYmEwM3RWOFd4Q0ZEN1BqMWlJWVBEeE9oMzNEek4zdVViOU5sdnMwWTRqVGJlSTNWVXJwckhYUTNRenRtZGp0RzY3dDU4TkZ0ZHpzZTJaeG9BT1JUOC1jWVNzYlc2OEQxaTF5ZXlRaS1xMDl3ZmNLNEhRR3lzajVrblh2TW9mV2YwbkZCOG9MVTByeXhQaHo1SURRY3FqV0NMdlJTeGlva3VFNWVwX2M1UkV3QUdVN1hfVkhUZTFYWVlFNXpnUTAzczFFVXpQeHEzNW0wNHdSR29aYUxtNU9ZeGlLTUFTR3JOaHFpbDdxSEJWcmEwZkhDR2dxMGhpbXUxWm4yRnBJNnRCSkR0OEZsTFBKeDFIYkxFSGFsY3VITW42YkVLR0cybEdlMlB5YzFXeGVNVXhDQkhna2ppeDE2eWpPakpTb3ppcE10VEFCTmVmd3dham0tdTdQUkxMMHBUdkZ5eXpuT19nS3NfNzBCR3gxelFlQXlwYzFpUlJVaW5XSDFCeVpnSU0xQjREZF8xQlRyMDQ5NHh5d2hZR0ZYbHEtZEZyMXFvaHNjNGdXb1lEZDRyQnc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 Yellow.com",
+      "publishedAt": "2026-08-20T01:27:00.000Z",
       "rank": 6
     },
     {
-      "id": "eef6a99fa7ea0468",
-      "title": "한정규 재신정보 대표, “AI 데이터센터의 보이지 않는 위협…‘미세 전력교란’ 잡는 게 중요” - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1falNwWktoUmxPMFd3WEplVmZIVlA1OV90VTR6MDlLUUVBUzNLZGYwTXAzVmszSWxvSXlPSzFPR3Fmdml6SFRUUXFoVXhnQlVBZ19rY3pNc0J4dV9BSlhDdDNuOGtuZzhHTlJwa9IBcEFVX3lxTE5rbl9KRG1GNkxJWGZQNHRPSWEzYTVPY2ZwMmhBVkJIb3FhcURtX0hHM05Fb1lUQzhINnVmeUd2U3ViekNkUlR4RFdnSnhaWVRBX21KcGF3d19tZmRZcEZfaHkyNVFwbUhKWEl5LU1zWVc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "한정규 재신정보 대표, “AI 데이터센터의 보이지 않는 위협…‘미세 전력교란’ 잡는 게 중요” 전기신문",
-      "publishedAt": "2026-08-20T07:31:03.000Z",
+      "id": "c9f01830c95744c3",
+      "title": "아크릴, KHF 2026서 ‘의료 AI 풀스택’ 공개…병원 AX 공략 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WTJoc0UwY0lwNlVmWVkwcUxCTzR1eGNOdktMbWRPa0xOVFZ2enRZLVBjclZVTEd1UjVibzNWSFROMzk1VUdhUkUxdFRib1pzSm04NU5UeGp0clNlRjFUSldGOVJ3cTV1?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "아크릴, KHF 2026서 ‘의료 AI 풀스택’ 공개…병원 AX 공략 테크월드",
+      "publishedAt": "2026-08-21T00:02:17.000Z",
       "rank": 7
     },
     {
-      "id": "0c6ffe1178569bb0",
-      "title": "‘제6회 디지털 ESG 조찬회’ 개최...제조 AX·피지컬 AI 실행 전략 집중 조명 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Rk5KeWs5RXUweW12VkVRUzF3VzEzbnJyc09vdUpjNkhsWlQzbk9PRHplTUJEbUpWZTJvSHBZUE9HZnI2NWp2cnNMbjZIN1JzRXdWdXN4M1ZOQnJFeTFz?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "‘제6회 디지털 ESG 조찬회’ 개최...제조 AX·피지컬 AI 실행 전략 집중 조명 헬로티",
-      "publishedAt": "2026-08-20T02:37:36.000Z",
+      "id": "530dcb199a5f2390",
+      "title": "모델은 라벨이 가르치는 것만 배운다 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEJEX2QxbERIRGd0Tk9YUm50TVhiN3BJQ2M1RlVtZU9zWFgxUGZlQTk5X2ZQdWlnX2tyQk1wZUxOckFSWjlqa29QQTY5SDRTVXR5Y210cEhPWFp0ay1wSERicTdBQ0JXRkxtT3dUWlB0aVMwcmx3V1hDUkhJa3BhNzNlV253VFNCbjEwb21tMzkxQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "모델은 라벨이 가르치는 것만 배운다 Unite.AI",
+      "publishedAt": "2026-08-20T10:40:53.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-21T01:19:54.000Z"
+      "updatedAt": "2026-08-22T01:16:06.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
