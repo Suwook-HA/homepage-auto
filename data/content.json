@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T01:18:02.972Z",
-  "projectsCheckedAt": "2026-08-23T01:18:02.972Z",
-  "projectsUpdatedAt": "2026-08-23T01:18:02.972Z",
+  "updatedAt": "2026-08-24T01:15:31.858Z",
+  "projectsCheckedAt": "2026-08-24T01:15:31.858Z",
+  "projectsUpdatedAt": "2026-08-24T01:15:31.858Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-23T01:18:02.972Z",
+    "checkedAt": "2026-08-24T01:15:31.858Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "595dd9bda90ea34b",
+      "title": "(사)한국치유표준원, 글로벌 도약 이끌 심사위원단 공식 출범… 4일간의 전문 교육 성료(Korea Healing Standard Institute Appoints Official Auditors Following Comprehensive Multi-Standard Compliance Training) - 글로벌휴먼타임즈",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGQTNOMkZuMGNqdUhxS1BnaGlBTG5ubGVDbVJlYnNfNzJJQnN5bzhQNUstQm5jeUhsa3BzZklwck5aQlpvblY4bUFBT2lsLVZzR0NuVktyNkQtNHVMQ0wwbzBUSVZEdW9IRUhWVUdKcWF5UQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "(사)한국치유표준원, 글로벌 도약 이끌 심사위원단 공식 출범… 4일간의 전문 교육 성료(Korea Healing Standard Institute Appoints Official Auditors Following Comprehensive Multi-Standard Compliance Training) 글로벌휴먼타임즈",
+      "publishedAt": "2026-08-23T11:40:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "5bb3d9f1c31b1eee",
+      "title": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNakUxOXZ6S0gwaUt4NWtRRS04dEJKSjRFR3JuWDVBaU5SdU51MXRMekNXWDRDRGU0b0piMmp1WUJ1T05yMUNSdlFqaEQ4c2tRYmEwM3RWOFd4Q0ZEN1BqMWlJWVBEeE9oMzNEek4zdVViOU5sdnMwWTRqVGJlSTNWVXJwckhYUTNRenRtZGp0RzY3dDU4TkZ0ZHpzZTJaeG9BT1JUOC1jWVNzYlc2OEQxaTF5ZXlRaS1xMDl3ZmNLNEhRR3lzajVrblh2TW9mV2YwbkZCOG9MVTByeXhQaHo1SURRY3FqV0NMdlJTeGlva3VFNWVwX2M1UkV3QUdVN1hfVkhUZTFYWVlFNXpnUTAzczFFVXpQeHEzNW0wNHdSR29aYUxtNU9ZeGlLTUFTR3JOaHFpbDdxSEJWcmEwZkhDR2dxMGhpbXUxWm4yRnBJNnRCSkR0OEZsTFBKeDFIYkxFSGFsY3VITW42YkVLR0cybEdlMlB5YzFXeGVNVXhDQkhna2ppeDE2eWpPakpTb3ppcE10VEFCTmVmd3dham0tdTdQUkxMMHBUdkZ5eXpuT19nS3NfNzBCR3gxelFlQXlwYzFpUlJVaW5XSDFCeVpnSU0xQjREZF8xQlRyMDQ5NHh5d2hZR0ZYbHEtZEZyMXFvaHNjNGdXb1lEZDRyQnc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 Yellow.com",
+      "publishedAt": "2026-08-23T04:09:29.000Z",
+      "rank": 2
+    },
+    {
+      "id": "ebf8071297dcfa04",
+      "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HX2JyT1lnZnRucGxxTzJVSkp2c1lwQk9QWFNWNXNXZWJNSlNNbkxwTHlWZGIxVFViZ2dCQnByd0lhQ2JkWDR2OEUyTW1wZw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 전자신문",
+      "publishedAt": "2026-08-24T00:31:02.000Z",
+      "rank": 3
+    },
+    {
+      "id": "15f8977d78872a4e",
+      "title": "아이에이, 'OCP 코리아 테크 데이' 참가…AI용 MDC 표준화 논의 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rcTZjcHVKVjd2a1VLLVFtTE5wa0xwOEtQMlF4WFo3b1c0X3FKcDB1b0t6V18zMnZaNFkydTM2NkM2emljRm5RZVgyWXZRZ0FXQlNPQVNwaVQ4dDliSHJRdtIBeEFVX3lxTE9uaTY5b0VJa0VOWURUbDdKZ09KSHdHOVlJY0djRkctN0gxdFd5bWhzRkZFbWZVSGk3RDQ2ajJXUzZtd0tWc2ZkTDZtUDdBUTNGNEdZS014emFfa014OTdMc0Y3cXFReVNiWDlBQzl3TE1SWHIwQmhnaQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "아이에이, 'OCP 코리아 테크 데이' 참가…AI용 MDC 표준화 논의 뉴시스",
+      "publishedAt": "2026-08-23T23:14:23.000Z",
+      "rank": 4
+    },
     {
       "id": "43dc84a66c899c4b",
       "title": "Geely And CATL Support Battery ID Platform For Global EV Data Standardization - VOI.ID",
@@ -65,76 +101,40 @@
       "source": "Google News: International Standardization",
       "summary": "Geely And CATL Support Battery ID Platform For Global EV Data Standardization VOI.ID",
       "publishedAt": "2026-08-22T14:32:26.000Z",
-      "rank": 1
-    },
-    {
-      "id": "f55abb53d28406f2",
-      "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HX2JyT1lnZnRucGxxTzJVSkp2c1lwQk9QWFNWNXNXZWJNSlNNbkxwTHlWZGIxVFViZ2dCQnByd0lhQ2JkWDR2OEUyTW1wZw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담 전자신문",
-      "publishedAt": "2026-08-22T08:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "0e5966f1a862a37e",
-      "title": "산업 AI 확산 속 규제·데이터 대응 어떻게…산업지능화협회, 31일 세미나 개최 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JQlkxeEZsQVdjVTdKMjdkWVZXVE56N2RvY24yekREM1IyNVhjUGljZ0RLUTlVTURwRlRTbkwtcms4OE81STZkUkJ2ck1YaGZBb3E3dVhSSkk4aUo0ZXEw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "산업 AI 확산 속 규제·데이터 대응 어떻게…산업지능화협회, 31일 세미나 개최 헬로티",
-      "publishedAt": "2026-08-21T05:26:39.000Z",
-      "rank": 3
-    },
-    {
-      "id": "5ed53a79ca4632f1",
-      "title": "[피지컬 AI ㉛] DX, 스마트 팩토리, 피지컬 AI의 삼위일체 - 자율 의사결정 체계로의 진화 - 미디어피아",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZWxna3BQZkJkWEpaSlZZSVl4UDFJUlZmbkl5ZDRPbmp4dUVLdXRNU0Ixa3VuMC1Pd3NUQUt4VFRzUVVUUjlvak9GSVdWZVVKX212M2FYWHNIbndYUUtjSklxaXNHMkxOMjFZNA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[피지컬 AI ㉛] DX, 스마트 팩토리, 피지컬 AI의 삼위일체 - 자율 의사결정 체계로의 진화 미디어피아",
-      "publishedAt": "2026-08-21T04:24:23.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e77ade1f8ea9ff00",
-      "title": "파주시, AI 시대 맞춤형 공공데이터 발굴… 9월 10일까지 대국민 수요조사 실시 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xM1JVSXcwX21Hc3Y0Q2hHMERNbnZqN2x0VFlDWGdFcTl3X1plRDlKRzJJU0JoY3RBUUoyeTBGYThiMWVlbzdYMg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "파주시, AI 시대 맞춤형 공공데이터 발굴… 9월 10일까지 대국민 수요조사 실시 브레이크뉴스",
-      "publishedAt": "2026-08-21T04:10:00.000Z",
       "rank": 5
     },
     {
-      "id": "f5abd45cc1162d2b",
-      "title": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNakUxOXZ6S0gwaUt4NWtRRS04dEJKSjRFR3JuWDVBaU5SdU51MXRMekNXWDRDRGU0b0piMmp1WUJ1T05yMUNSdlFqaEQ4c2tRYmEwM3RWOFd4Q0ZEN1BqMWlJWVBEeE9oMzNEek4zdVViOU5sdnMwWTRqVGJlSTNWVXJwckhYUTNRenRtZGp0RzY3dDU4TkZ0ZHpzZTJaeG9BT1JUOC1jWVNzYlc2OEQxaTF5ZXlRaS1xMDl3ZmNLNEhRR3lzajVrblh2TW9mV2YwbkZCOG9MVTByeXhQaHo1SURRY3FqV0NMdlJTeGlva3VFNWVwX2M1UkV3QUdVN1hfVkhUZTFYWVlFNXpnUTAzczFFVXpQeHEzNW0wNHdSR29aYUxtNU9ZeGlLTUFTR3JOaHFpbDdxSEJWcmEwZkhDR2dxMGhpbXUxWm4yRnBJNnRCSkR0OEZsTFBKeDFIYkxFSGFsY3VITW42YkVLR0cybEdlMlB5YzFXeGVNVXhDQkhna2ppeDE2eWpPakpTb3ppcE10VEFCTmVmd3dham0tdTdQUkxMMHBUdkZ5eXpuT19nS3NfNzBCR3gxelFlQXlwYzFpUlJVaW5XSDFCeVpnSU0xQjREZF8xQlRyMDQ5NHh5d2hZR0ZYbHEtZEZyMXFvaHNjNGdXb1lEZDRyQnc?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "쿠코인, 글로벌 디지털 자산 플랫폼 전반에 ‘신뢰할 수 있는 AI’ 강화하며 ISO/IEC 42001 인증 획득 Yellow.com",
-      "publishedAt": "2026-08-20T01:27:00.000Z",
+      "id": "ebd24fe069d1dc63",
+      "title": "AI 패권전쟁...“韓 ‘메모리·데이터센터’가 딜 카드” - 중소기업투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91S1hvNUxlS3pRdzFPTFIxZnRxTWdlaWxiYlBnRldiQll1MDF1Y2J6eDg1OU1xSVIwNTNmdEVHSzhHMlV2NTJVZm5la3ZRUWt3RWRSdzB2YU9CdVloVWNkemdPTkFnS014UlRXWdIBbEFVX3lxTE91S1hvNUxlS3pRdzFPTFIxZnRxTWdlaWxiYlBnRldiQll1MDF1Y2J6eDg1OU1xSVIwNTNmdEVHSzhHMlV2NTJVZm5la3ZRUWt3RWRSdzB2YU9CdVloVWNkemdPTkFnS014UlRXWQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 패권전쟁...“韓 ‘메모리·데이터센터’가 딜 카드” 중소기업투데이",
+      "publishedAt": "2026-08-23T08:35:09.000Z",
       "rank": 6
     },
     {
-      "id": "c9f01830c95744c3",
-      "title": "아크릴, KHF 2026서 ‘의료 AI 풀스택’ 공개…병원 AX 공략 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WTJoc0UwY0lwNlVmWVkwcUxCTzR1eGNOdktMbWRPa0xOVFZ2enRZLVBjclZVTEd1UjVibzNWSFROMzk1VUdhUkUxdFRib1pzSm04NU5UeGp0clNlRjFUSldGOVJ3cTV1?oc=5",
+      "id": "e61a9e2d9f5a6391",
+      "title": "[기획] 정부가 설계에 나선 ‘AI 네이티브 HIS’ - 메디포뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DcnZFUU9Nc2s1UWlPWFBJUGYwZ2NWemFrZGVLYjQ2V1prX0RKdE80S2hETWdJV1FGZ054Qm9vdEhya2lZbGxLcmNrREVUQWNPVXRFUnhLbjJnWXl3b1lvOVYxeTBsNWs?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "아크릴, KHF 2026서 ‘의료 AI 풀스택’ 공개…병원 AX 공략 테크월드",
-      "publishedAt": "2026-08-21T00:02:17.000Z",
+      "summary": "[기획] 정부가 설계에 나선 ‘AI 네이티브 HIS’ 메디포뉴스",
+      "publishedAt": "2026-08-23T04:57:10.000Z",
       "rank": 7
     },
     {
-      "id": "530dcb199a5f2390",
-      "title": "모델은 라벨이 가르치는 것만 배운다 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEJEX2QxbERIRGd0Tk9YUm50TVhiN3BJQ2M1RlVtZU9zWFgxUGZlQTk5X2ZQdWlnX2tyQk1wZUxOckFSWjlqa29QQTY5SDRTVXR5Y210cEhPWFp0ay1wSERicTdBQ0JXRkxtT3dUWlB0aVMwcmx3V1hDUkhJa3BhNzNlV253VFNCbjEwb21tMzkxQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "모델은 라벨이 가르치는 것만 배운다 Unite.AI",
-      "publishedAt": "2026-08-20T10:40:53.000Z",
+      "id": "5169d3a6c5f9cfdc",
+      "title": "AI/로봇 기반 R&D 자동화와 자율실험실(SDL) 구축 전략 세미나 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84VGVxRDg2VkNhWEQ5MnR2V190RmFTdWVLekdPS0ZxX2hsUEdkb1Bmemw3WmhZWnBoM2RwUUw0QXgtbWF4R0dsa01TeHdWcUVpMXBUVEpSeUlSTHJ2OWJiVTBpUnlNT1pUM296bzBwUjdFZXPSAXdBVV95cUxQMUJmWEs0VzVhVWNSOFg1aFExZlRhNHl2TTFCWmlpQnR2VDBPU0FZZnJqZGp5VHRUeGJWa0k0TzdtbW9xMm1DWjUyTHVjLVNEdVdrUGV6VnlJeHVvbVBtUVFHVTRkS2JWWE02UGt5SURxZkdrWks0WQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "AI/로봇 기반 R&D 자동화와 자율실험실(SDL) 구축 전략 세미나 핀포인트뉴스",
+      "publishedAt": "2026-08-21T23:30:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "877b239413fae131",
-      "title": "Khosla Ventures Bets on AI’s Next Frontier: Science",
+      "id": "2630a32a697116d5",
+      "title": "From OpenAI to Discovery Loop: Khosla’s Next AI Bet",
       "url": "https://www.youtube.com/watch?v=3LnTUtEeZMc",
       "channel": "Bloomberg Technology",
       "thumbnail": "https://i.ytimg.com/vi/3LnTUtEeZMc/hqdefault.jpg",
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-22T01:16:06.000Z"
+      "updatedAt": "2026-08-23T01:22:07.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
