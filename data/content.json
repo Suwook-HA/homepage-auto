@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T01:13:52.490Z",
-  "projectsCheckedAt": "2026-08-25T01:13:52.490Z",
-  "projectsUpdatedAt": "2026-08-25T01:13:52.490Z",
+  "updatedAt": "2026-08-26T01:16:19.008Z",
+  "projectsCheckedAt": "2026-08-26T01:16:19.008Z",
+  "projectsUpdatedAt": "2026-08-26T01:16:19.008Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,154 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-25T01:13:52.490Z",
+    "checkedAt": "2026-08-26T01:16:19.008Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "791a0ac7f760a36e",
-      "title": "From Automotive AI Safety to CBAM… TÜV SÜD Expands International Standard Training to 5 Types - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DWnVpY2dDZDRDU3pHSXFWYW5MMENWeUZFUGEyQkN4SXF5Ry1acVVaM3A2aXNqektFUkNBczZiX3RzUXJGSVpZREdmQkdUT0FJOVlB?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "From Automotive AI Safety to CBAM… TÜV SÜD Expands International Standard Training to 5 Types 벤처스퀘어",
-      "publishedAt": "2026-08-24T08:57:33.000Z",
+      "id": "70502cc3fc4884f4",
+      "title": "[IT라운지] 포지 '투자유치'·마키나락스 '삼성D AI 설비제어'·AICX 'ISO 27001 인증·'네이버 현대카드 에디션3''·'카카오 AI 돛' 캠프·카카오페이지 '초신작'·피처링 '포브스 유망기업'·'무선청소기 무게차이' - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zeDVRWVM1R0Zna0xKa1hPMWFZekdteUdXSWVOMl85S1phYXRBbnFXVFBaNXdOQ3Jhc0FkMlFobHVfZHZsdzdMREpKd1F2d0pFak4xeHpYcGc2WGN3RUdjNExSMGVGQVVNZzhYTlhQNNIBc0FVX3lxTFA0dlJQcWtpTk9sMzJlVU5relZDOVhQSjNOaGkwM1hzekxFTmFHTk00VjVGUVN1S0hpcnhiMkZHV3UxSFBOekhJNHFxc285TlVKaUNnejBuRXlLd2dyQXRsYUx0TnhkeElRb0YxQmxQRVZNb00?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[IT라운지] 포지 '투자유치'·마키나락스 '삼성D AI 설비제어'·AICX 'ISO 27001 인증·'네이버 현대카드 에디션3''·'카카오 AI 돛' 캠프·카카오페이지 '초신작'·피처링 '포브스 유망기업'·'무선청소기 무게차이' 뉴스웍스",
+      "publishedAt": "2026-08-26T00:36:51.000Z",
       "rank": 1
     },
     {
-      "id": "3d44e4d1751e1792",
-      "title": "韓·中 지식재산 전문가 한자리에…AI로 특허행정 미래 연다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84Z2VsTnVNRURIVmpGLTlycTRpVWRMRmNfMGNWR1JlNjh1ZU9OWjNuS0FQQXRpX2tMNjlIcmdmd21XRjRubWZTNGVkZkZhZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓·中 지식재산 전문가 한자리에…AI로 특허행정 미래 연다 전자신문",
-      "publishedAt": "2026-08-25T01:00:00.000Z",
+      "id": "2f4bffbb83e7e365",
+      "title": "마이리얼트립 자회사 AICX, 정보보안 국제표준 ISO 27001 인증 취득… B2B 사업 확대 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPZlhIWDlrLVNRU3NqUFRhTGxWMW9fVUpqRm5sYzRFV0xsQmxIcmlkdHg3aHRzQVlqd1BtSXN3d0FLSjhRaVQ2NzJCVGtOSkJQRFprTzJNNHBHcHdUSzh1eHYxcTFQcmJ1eENzc05BSkVqdw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "마이리얼트립 자회사 AICX, 정보보안 국제표준 ISO 27001 인증 취득… B2B 사업 확대 디스커버리뉴스(DISCOVERYNEWS)",
+      "publishedAt": "2026-08-26T00:14:24.000Z",
       "rank": 2
     },
     {
-      "id": "efd2cec4476aeb3b",
-      "title": "바디프랜드 \"AI가 알아서, 마사지 척척\"...표준협회 AI+ 기술 인증 - 세정일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbDBveVZibFJTWjlIUEg1NnpqbEJGcUNES0xCSGxqVGZrbjZRY2k4YVZYUjludHU3LWRWLUN6NlhrczZKUEFUa1lDSzlxaFF5OV9fYU4tdHdyLWdNaGJyaEl1dmdzSXpWRVNXZQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "바디프랜드 \"AI가 알아서, 마사지 척척\"...표준협회 AI+ 기술 인증 세정일보",
-      "publishedAt": "2026-08-25T00:59:44.000Z",
+      "id": "d644be25bf191082",
+      "title": "K-건기식 세계화 해법은…R&D·규제혁신·소비자 보호 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12QS1YdVFFTFdJNmVlTkFkWDBLbDZqQXp1Rk5nOHRweXQ0R1QwdTlKNThlWEpJc3hWSWdBTUdCVllveklyRVJhUFBNbW9YRGg4eDJETUxuYnRUQTFfckZXTEpOSEU?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "K-건기식 세계화 해법은…R&D·규제혁신·소비자 보호 서울경제TV",
+      "publishedAt": "2026-08-26T00:52:04.000Z",
       "rank": 3
     },
     {
-      "id": "5229711342bcdc55",
+      "id": "2a069725ddaed776",
+      "title": "AI가 상품 고르고 구매하는 시대 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Nb3VMZW5CV2wwR1pzOWl6NldYVmU2VkZRZDJjd2hKNGtvTGJHOVRHcGljTkdVQms0Z2lPekFHSjU1QnNrZDk4b2F4bDdvU1pNd3VFeExSTTBGZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 상품 고르고 구매하는 시대 한국경제",
+      "publishedAt": "2026-08-26T00:00:52.000Z",
+      "rank": 4
+    },
+    {
+      "id": "994d60f52ecbe2b4",
+      "title": "ISO/IEC 42001:2023 설명: 요구사항, 통제 및 인증 - Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOWhqOXBINjRkbjVpVG9VZTJMaFFLU0RnaHk4N0lhSjBfcHBzLVFLWl9GTjltdUUwY0NxZnNqams5WFVHUnkwY0JDeUtZMW0tQkI3clUzYlFzLUdiQm1BUnlUc282dXlUeXdhYXotUFA3LWlZV2duZ1luUWJFdjNzR1FsajFDcGZ4djJQS0FNRFZVdFFPakM1aFp0aXlNWEluT0E3UFFYRG9SU2I2X0xLYUY1R2NPY05JMl9nV09XSVpjcGlCYVBYTE9KZVRPcktrSFdTODdMYWc2WVo1Vjg5bFFFQVkwVXNQc3JVOFBEcDZac0FQSTd1OGJadDk2eEQteFE?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "ISO/IEC 42001:2023 설명: 요구사항, 통제 및 인증 Snowflake",
+      "publishedAt": "2026-08-24T22:12:24.000Z",
+      "rank": 5
+    },
+    {
+      "id": "6725acf24eda10ff",
+      "title": "국제표준화기구(ISO) - 에코타임스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGak0ybk9TVWEwNV9Jdkl2ZUY2WTRiU3ZqSHRvd1dJZDRTRFg2cVVDOEJfZUNTRGx0Nm1mMUlFeUwxTFVseS1fYjBlNEk5ZWNfMVotWl9RQ3Q4QWZPN0N4bS1kLXBBdEpndGJN0gFvQVVfeXFMTV93bk1UTmZqNDBDZlZlQ3BMbzREcVdWYS1oQ0xNVmhab1JqSlhEcklQMnp0dGhyZVJCWWxvbjFiZm1MUlBCNkN5MXlnVFhKSmJsdV9pMHFRdGphVUQ5N2JUcnBqVVBXS0NINVpMWnFn?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "국제표준화기구(ISO) 에코타임스",
+      "publishedAt": "2026-08-25T06:50:01.000Z",
+      "rank": 6
+    },
+    {
+      "id": "e01906d77c0e960f",
+      "title": "한국이 제안한 '지하수 국제표준'…ISO 기술위원회 설립 표결 돌입 - 에너지프로슈머",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcW9JQ1AwRG9NaGw4S1ZZVDNBWlh3dXAzdFp2OWpRWjlVQW1KdlJ4YjFtdFhUT2hJQzJoZWt5SnJMalBNem5CMnVwNy0?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "한국이 제안한 '지하수 국제표준'…ISO 기술위원회 설립 표결 돌입 에너지프로슈머",
+      "publishedAt": "2026-08-25T04:18:00.000Z",
+      "rank": 7
+    },
+    {
+      "id": "043151ccbfde5fb2",
       "title": "금융 AX 성과 격차의 출발점, AI 거버넌스 - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFc1OHFVdTRqSG43dXRHdTkwQjlXM1lzSURZMjBpYVVOeXhhcHJCelRNaGttSEJtVzB1Sy1tbnhmS1F4VE00RlV3ZVo1NkVyVzNFTTJVX292RVNiNllXODhyNXFELTJGY1E5ZEJpWmJ6RVFkX0FINFlobnFBNTJKLTV3Nm1yT1dlSXhkN0ZkSUE2dWJ3UzBLOHlfMA?oc=5",
       "source": "Google News: Trustworthy AI",
       "summary": "금융 AX 성과 격차의 출발점, AI 거버넌스 Deloitte",
-      "publishedAt": "2026-08-25T00:29:35.000Z",
-      "rank": 4
-    },
-    {
-      "id": "1c0fcf385b3107b5",
-      "title": "바디프랜드 생성형 AI 마사지, 업계 최초 ‘AI+ 인증’ - 지이코노미",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UHBvMXBReThCaTVNa0ZOYzEzUTVGOGhOMzljVVdVbGh0OWJ6aVdIbWEtNTJDSGI3ZVhoR0N6MXVXN0Q3dV8zbmxZNldOeThXSlA2NjJvZDBhMHBhcUwxUmtycWJRY3c?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "바디프랜드 생성형 AI 마사지, 업계 최초 ‘AI+ 인증’ 지이코노미",
-      "publishedAt": "2026-08-24T23:46:35.000Z",
-      "rank": 5
-    },
-    {
-      "id": "b0a170db9bc9de4f",
-      "title": "바디프랜드, 말 알아듣는 ‘AI 마사지’ 구축…업계 첫 AI+ 인증 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ac3VvZm9XanFIZFBFc2ttYzZEeTh5TkM4ak94bUNuZlVBMW1LNERLS0h0WkxGR3ZyeTROLW9Xb3hzcHpnMkl1Wm1hLTY0dklSenZJT0ZJYTlKVHRJT1hjMGxTdmw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "바디프랜드, 말 알아듣는 ‘AI 마사지’ 구축…업계 첫 AI+ 인증 매일일보",
-      "publishedAt": "2026-08-24T23:44:22.000Z",
-      "rank": 6
-    },
-    {
-      "id": "88b2f435310696a6",
-      "title": "샤오펑(XPEV) 2026년 2분기 실적 발표 콘퍼런스 콜: 20.7% 마진율 및 IRON 로보틱스 양산 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfR05kdUJnN21xb0Q2UGEzZFVDbDhsQnhhS1VMclRSSFQxZ0RrMEJOV0hQMFg1TkJTUmdBUExUdFZ4VjlUdnI1eVA5V3RkNEZvcVlhbG5kVjROeTFHQU9oX0ljRDI0VVo4TEZMUHl4VmRZV2xlYUE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "샤오펑(XPEV) 2026년 2분기 실적 발표 콘퍼런스 콜: 20.7% 마진율 및 IRON 로보틱스 양산 TradingKey",
-      "publishedAt": "2026-08-24T20:02:05.000Z",
-      "rank": 7
-    },
-    {
-      "id": "3ce359c8d4abe24b",
-      "title": "JW중외제약, 자체신약 상업화 눈앞…각자대표 시너지 주목 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXFKMkhhTThBc1FOYW5mem5BOGVWMjJsSjE3SWJlZkZ0ak96cG1zRFF2ZEdMV1NxRE50VGZOTnRHZV9mQVBKbUtBMW1EMDY5aERjbjZRcmdwZUktNTZNOVdEVExhazA2dW9DZEo3N3ZYNGVmellfbnhxUGt6Z2JTaklXUDRXZHdvczJRRF95MA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "JW중외제약, 자체신약 상업화 눈앞…각자대표 시너지 주목 : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-08-24T15:02:41.000Z",
+      "publishedAt": "2026-08-25T12:29:36.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "8933740b56905c81",
-      "title": "Make information visual with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8",
+      "id": "f67afd866d205b73",
+      "title": "How to Manage Your Workspace With ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=29SyCndnMZs",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/jzmNh8lbSp8/hqdefault.jpg",
-      "publishedAt": "2026-08-24T23:09:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/29SyCndnMZs/hqdefault.jpg",
+      "publishedAt": "2026-08-25T20:17:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "0d071565d5c94ec2",
-      "title": "Crypto’s 24/7 Markets Take Aim at Wall Street",
-      "url": "https://www.youtube.com/watch?v=-Ml_qq7rf1M",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/-Ml_qq7rf1M/hqdefault.jpg",
-      "publishedAt": "2026-08-24T18:38:56.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4335263f74bbea14",
-      "title": "Apple Cuts Jobs as It Reprioritizes Around AI",
-      "url": "https://www.youtube.com/watch?v=pydPRL-o4wA",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pydPRL-o4wA/hqdefault.jpg",
-      "publishedAt": "2026-08-24T18:32:42.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "0fdb002422f03f55",
-      "title": "Nvidia Customers Brace for Higher AI Costs",
-      "url": "https://www.youtube.com/watch?v=eXGY_dYmVLY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/eXGY_dYmVLY/hqdefault.jpg",
-      "publishedAt": "2026-08-24T18:31:22.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "c42d238384091c25",
-      "title": "The Rising Price of the AI Race | Bloomberg Tech 8/24/2026",
-      "url": "https://www.youtube.com/watch?v=4BiWNS-lBkY",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/4BiWNS-lBkY/hqdefault.jpg",
-      "publishedAt": "2026-08-24T18:29:51.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "fbf360baeafcef90",
-      "title": "This Small AI Will Change Everything",
-      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
-      "publishedAt": "2026-08-24T16:48:40.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9383a97ed180ef69",
-      "title": "You can just use your voice | ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk",
+      "id": "32604b31be4c5d8d",
+      "title": "Build agent-ready sites with WebMCP",
+      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/ceBruD6v5Bk/hqdefault.jpg",
-      "publishedAt": "2026-08-24T13:55:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Is2NHa7awWY/hqdefault.jpg",
+      "publishedAt": "2026-08-25T20:15:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "76467262733a50e4",
-      "title": "New Way Now: How Siemens scales AI-driven industrial engineering with Google Cloud Consulting",
-      "url": "https://www.youtube.com/watch?v=9ncyPnvNcRY",
+      "id": "877d1dd3dcbe2d12",
+      "title": "Fourth Age: Turning Unstructured Data into Production-Ready AI | Build with Gemini Podcast",
+      "url": "https://www.youtube.com/watch?v=CU8tr66ObPA",
       "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/9ncyPnvNcRY/hqdefault.jpg",
-      "publishedAt": "2026-08-24T13:29:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CU8tr66ObPA/hqdefault.jpg",
+      "publishedAt": "2026-08-25T19:26:29.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "550b129ec20baa77",
+      "title": "Securing AI as OpenAI, Anthropic Models Advance",
+      "url": "https://www.youtube.com/watch?v=zKr63omJg_c",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/zKr63omJg_c/hqdefault.jpg",
+      "publishedAt": "2026-08-25T18:45:02.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "25f12e655770690a",
+      "title": "Nvidia Earnings, Apple’s AI Macs and OpenAI’s Chip Push | Bloomberg Tech 8/25/2026",
+      "url": "https://www.youtube.com/watch?v=Itg75o9drtI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/Itg75o9drtI/hqdefault.jpg",
+      "publishedAt": "2026-08-25T18:44:49.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d4a99e160cdc7bca",
+      "title": "Gatik Raises $200 Million to Scale Driverless Trucks",
+      "url": "https://www.youtube.com/watch?v=QR8j0Dwj0kQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/QR8j0Dwj0kQ/hqdefault.jpg",
+      "publishedAt": "2026-08-25T18:43:33.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "af49539d3d3bbfd9",
+      "title": "Apple Upgrades Macs for the AI Era",
+      "url": "https://www.youtube.com/watch?v=0CJqDYnRVrg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/0CJqDYnRVrg/hqdefault.jpg",
+      "publishedAt": "2026-08-25T18:41:38.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "a95b1963da528450",
+      "title": "What Nvidia Needs to Prove to Investors",
+      "url": "https://www.youtube.com/watch?v=PNSFo8ormUc",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/PNSFo8ormUc/hqdefault.jpg",
+      "publishedAt": "2026-08-25T18:40:04.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-24T01:19:37.000Z"
+      "updatedAt": "2026-08-25T01:18:34.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
