@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-28T09:52:39.464Z",
-  "projectsCheckedAt": "2026-08-28T09:52:39.464Z",
-  "projectsUpdatedAt": "2026-08-28T09:52:39.464Z",
+  "updatedAt": "2026-08-29T05:52:33.191Z",
+  "projectsCheckedAt": "2026-08-29T05:52:33.191Z",
+  "projectsUpdatedAt": "2026-08-29T05:52:33.191Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-28T09:52:39.464Z",
+    "checkedAt": "2026-08-29T05:52:33.191Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "c23c6581d17d2f27",
+      "title": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Odk5OQnE2dEJNVmlmamE5U1JhcnFyQV9VaW1YYXRzbF85S1VCU2V6MWI2QnNqMXpSRDVub011SDdnbWdlWVZDYklZckpZeU93UEc1SmhfaEhTdjQtSUVZSWNuX0c5bW1YSnc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 hidomin.com",
+      "publishedAt": "2026-08-29T01:39:07.000Z",
+      "rank": 1
+    },
+    {
+      "id": "80eb8fd82ac30bb8",
+      "title": "Syria marks first international card transaction in more than 15 years with Mastercard and QNB Group - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdUlqUVN5ZzZrWU5hUlk2NmNmTDllSXdhV0dlOG01amNNYWNBQktKZlZ5aDA5cWNTcUhtUl9Oa0xJa3M5c0R6X2dZZmF1aVJpM3JQbjh4RXVCSkJKU19LRjAyckNFa09t?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Syria marks first international card transaction in more than 15 years with Mastercard and QNB Group KIPOST",
+      "publishedAt": "2026-08-28T13:48:00.000Z",
+      "rank": 2
+    },
     {
       "id": "295f2819405e0b3f",
       "title": "이랜드월드 패션사업부, 안전보건경영시스템 ISO 45001 취득 - 핀포인트뉴스",
@@ -65,7 +83,25 @@
       "source": "Google News: International Standardization",
       "summary": "이랜드월드 패션사업부, 안전보건경영시스템 ISO 45001 취득 핀포인트뉴스",
       "publishedAt": "2026-08-28T01:12:11.000Z",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "id": "d0a65a0c4b9fa5e0",
+      "title": "이랜드월드, ＇ISO 45001＇ 공식 인증 취득 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MM2NkTklVVmczN3dCT05BUVdOc0tRZzd4N3FCc04xMkhydFJVSDZPdk9yeldPMW1HOEo0QnBhOTU1ZnJpRmM2akJWbng1WWFNeUp4blV0MUxhMkpWTkozMGd2N1Rnb3B4SkpwLVFqVy1kYUE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "이랜드월드, ＇ISO 45001＇ 공식 인증 취득 한국경제TV",
+      "publishedAt": "2026-08-28T00:44:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "c4d2c1e60fd44377",
+      "title": "R&D·구매 연계로 전략기술 키운다…정부, ‘국가계약 혁신 트랙’ 도입 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UTFHZUx5TlV4Z1RkNkZfaUY2cFphaFNpaUM5VGVrUkl2eUEwTUdnSjEzbmFBZm1nZ0tCRFNoNUpHNklJckJuWkRHSUZmWmFFWTE2cS1kMHhzYUx3NGdRSTR4dV9mbEZvUVU0Sg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "R&D·구매 연계로 전략기술 키운다…정부, ‘국가계약 혁신 트랙’ 도입 IT비즈뉴스",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "rank": 5
     },
     {
       "id": "066ea309079510ec",
@@ -74,7 +110,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "정부 중부권 성장엔진 4개 분야 선정…대전시, R&D 연계 전략 추진 신아일보",
       "publishedAt": "2026-08-28T06:57:55.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "de0481f53e2ca4b5",
@@ -83,7 +119,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "포스텍 \"정부 R&D 정책·경북 전략산업 연계 육성\" 뉴시스",
       "publishedAt": "2026-08-28T06:13:21.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "5a9d74905cc809ca",
@@ -92,42 +128,6 @@
       "source": "Google News: Digital Transformation",
       "summary": "Profitability Over Scale: How JB Financial Group Is Rewriting Its Growth Formula Korea IT Times",
       "publishedAt": "2026-08-28T04:48:43.000Z",
-      "rank": 4
-    },
-    {
-      "id": "8deb313374997fbc",
-      "title": "AI Becomes a New Gateway to Onchain Markets as Perplexity Taps OpenSea Data - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00OTFVMF9TbXJMbThvNjFDWnFOYUJMZVFWSE9DekxMbkpyZmgyV0pBV2RiRzFPUEF5UTB5X3BvR3dRa18yZndmUWNpRENZXzQzaXpNd19zQ2xfWWdxdmJqX0FEaEE4dzBqRnd1UWZ5RFU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI Becomes a New Gateway to Onchain Markets as Perplexity Taps OpenSea Data Korea IT Times",
-      "publishedAt": "2026-08-28T03:54:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "b99483eaa80d57cf",
-      "title": "국가전략기술 R&D 성공하면 재입찰 없이 구매…정부, '3대 계약트랙' 신설 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WZHpBYWZCRkxVdVVxejJhcHAyTzNEZUZ1V040TGw5M0lpemxldFc2MEI2WElPQWlERDI2Z3NLWXN2S0U1LW5uNkl0cS1aTEF6eDcwbl93VW9SLTVf?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "국가전략기술 R&D 성공하면 재입찰 없이 구매…정부, '3대 계약트랙' 신설 뉴스핌",
-      "publishedAt": "2026-08-27T23:30:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "cc312fc829e183f0",
-      "title": "AI’s biggest profits may not go to model builders - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBkUWxSYkFqc09oaml0MXl2b0hMWlEtTml5aGxXOG53X29ya29ENVc3T2dabUF6amhQZ2RwUWhvSVhvWkpyQ0ViMFVGd1ZVUk1HX2pLWGMzNnVQWHgwYms5U2ptMERvLXQ2YURxZDhHMkg1NVd6TW9fanYxTzhRcDI5eU9CSU5VMF9vYXNPZ3hiQWc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI’s biggest profits may not go to model builders Korea JoongAng Daily",
-      "publishedAt": "2026-08-27T15:01:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "7ee16677b7381b23",
-      "title": "전남광주특별시, ‘피지컬AI 휴머노이드 제조혁신센터’ 본격 착수… 164억 투입해 로봇 산업 거점 조성 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnb3B2NERxaWdBWHVwMEFmdFprMl9tOWg2elM3bllITGxfX2VfTEN5Sko1YXB2UGVETDR6N182andYUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "전남광주특별시, ‘피지컬AI 휴머노이드 제조혁신센터’ 본격 착수… 164억 투입해 로봇 산업 거점 조성 브레이크뉴스",
-      "publishedAt": "2026-08-27T14:10:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-27T07:54:13.000Z"
+      "updatedAt": "2026-08-28T09:56:44.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
