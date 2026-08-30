@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-29T05:52:33.191Z",
-  "projectsCheckedAt": "2026-08-29T05:52:33.191Z",
-  "projectsUpdatedAt": "2026-08-29T05:52:33.191Z",
+  "updatedAt": "2026-08-30T03:56:26.506Z",
+  "projectsCheckedAt": "2026-08-30T03:56:26.506Z",
+  "projectsUpdatedAt": "2026-08-30T03:56:26.506Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-29T05:52:33.191Z",
+    "checkedAt": "2026-08-30T03:56:26.506Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "4714b66e06571be5",
+      "title": "일일이 대조하던 계좌·통신내역, AI가 분석…경찰 수사 빨라진다 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZaWFrWkVGT3Z0SE1NNHJUb3pqMzd5aXdQLVVRaU9RM1ZJNl9ZSHpOQTRmWnJzS2FULWo3TWd3Z01TQTAwTHNzTTEySHdadGE3b0pKQXBBelFDcE9NdnhXWm01azFGczJkaHFBczFucnA2MHVoV3B0SnljdWxxUdIBfkFVX3lxTE1ZaWFrWkVGT3Z0SE1NNHJUb3pqMzd5aXdQLVVRaU9RM1ZJNl9ZSHpOQTRmWnJzS2FULWo3TWd3Z01TQTAwTHNzTTEySHdadGE3b0pKQXBBelFDcE9NdnhXWm01azFGczJkaHFBczFucnA2MHVoV3B0SnljdWxxUQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "일일이 대조하던 계좌·통신내역, AI가 분석…경찰 수사 빨라진다 - 머니투데이 머니투데이",
+      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "44fdb54a4c058a30",
+      "title": "엑셀로 일일이 보던 수사자료…AI가 공범·자금흐름 찾는다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uaTB5VmQzc0FRQzRFcjZ0aWVfZnJBSDZYS1REM1BuSzNpLWlFUWVWcWpieEo2YW9qWGl4OUZYUl9sal9fWkcyZEVoTHFzNFBlczVDWlB5RkItM0t4OEJyOTNDWkdDbkEtMVluV2NsQ0M2VmhXN1plNdIBeEFVX3lxTE9uaTB5VmQzc0FRQzRFcjZ0aWVfZnJBSDZYS1REM1BuSzNpLWlFUWVWcWpieEo2YW9qWGl4OUZYUl9sal9fWkcyZEVoTHFzNFBlczVDWlB5RkItM0t4OEJyOTNDWkdDbkEtMVluV2NsQ0M2VmhXN1plNQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "엑셀로 일일이 보던 수사자료…AI가 공범·자금흐름 찾는다 뉴시스",
+      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "4a4b3352657c26b5",
+      "title": "마이리얼트립 AICX, ISO 27001 인증 획득…AI CX B2B 공략 가속 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWGVIandxOFRqUnFlSDZ0NjVuX0lLT29rVnNmSDV2d3JyOGpGdUhROFRhYk1vaGZsTkZ1aWl6cXFmWkE5SWhYUGJqYmxpTlAxZXlVN2dEZjZnV1FQT2QtMmJOZmJaQ05XMEctNA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "마이리얼트립 AICX, ISO 27001 인증 획득…AI CX B2B 공략 가속 뉴스탭",
+      "publishedAt": "2026-08-29T07:34:58.000Z",
+      "rank": 3
+    },
+    {
+      "id": "53562f273e7a89c8",
+      "title": "앤트로픽, MCP 이어 피지컬 AI 표준화 시동…주목받는 국내 기업 알고보니 - 이코노미트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IOTQ2dTdJN3FWV3Q5clVBeTdMSHVXdVNGSVhoX1JHdEMxQjlzc1lXRXRrV1VXbFZpcS0wSTloSDdNVldJT3U0SnhheG1EODVGSnp5UFZMUHQ4ck5pZkl4R0ZNR2ZXdkl2S056YXBRVUYxalNkdXVr?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "앤트로픽, MCP 이어 피지컬 AI 표준화 시동…주목받는 국내 기업 알고보니 이코노미트리뷴",
+      "publishedAt": "2026-08-29T14:25:42.000Z",
+      "rank": 4
+    },
     {
       "id": "c23c6581d17d2f27",
       "title": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 - hidomin.com",
@@ -65,7 +101,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 hidomin.com",
       "publishedAt": "2026-08-29T01:39:07.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "80eb8fd82ac30bb8",
@@ -74,25 +110,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "Syria marks first international card transaction in more than 15 years with Mastercard and QNB Group KIPOST",
       "publishedAt": "2026-08-28T13:48:00.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
-      "id": "295f2819405e0b3f",
-      "title": "이랜드월드 패션사업부, 안전보건경영시스템 ISO 45001 취득 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03NHFVTkktSHhVQUE4VkFiemxqdy1PeEtKU0RNZ24yNF9MZEkxbm5hQ0NmRlRTUjYyUXl6amR1b3FaNEppcnhZb3JtZUFYekZEYVNQcjlYdnBhclczQ1hhMThORU1wYmpZNmRtTmN1ZGhXaEXSAXdBVV95cUxQNXFGUml6MTloQnZCeVNsZnVOU3JKeklVQXp2cTRheEtSN0F2U2MwWTZzc3ZUUnNzLUlBZDlLWHlGVFRqbkl6SnNWbGswajlOMDJGVF83UEpuVjdEZmhxd3NfOVJOeGp4QnFGZldIZVIwYTVFYkYwOA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "이랜드월드 패션사업부, 안전보건경영시스템 ISO 45001 취득 핀포인트뉴스",
-      "publishedAt": "2026-08-28T01:12:11.000Z",
-      "rank": 3
-    },
-    {
-      "id": "d0a65a0c4b9fa5e0",
-      "title": "이랜드월드, ＇ISO 45001＇ 공식 인증 취득 - 한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MM2NkTklVVmczN3dCT05BUVdOc0tRZzd4N3FCc04xMkhydFJVSDZPdk9yeldPMW1HOEo0QnBhOTU1ZnJpRmM2akJWbng1WWFNeUp4blV0MUxhMkpWTkozMGd2N1Rnb3B4SkpwLVFqVy1kYUE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "이랜드월드, ＇ISO 45001＇ 공식 인증 취득 한국경제TV",
-      "publishedAt": "2026-08-28T00:44:00.000Z",
-      "rank": 4
+      "id": "18575730c03d56f5",
+      "title": "DGIST, 개인정보 삭제했더니 다른 이용자 추천 영향…AI 자동 보정 기술 개발 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vZHJQZzEzQ2NvMGtfbGFEQWNIWDVxM19mS3BiQWZrb2k2U0o1RHYyVlZNZF96QjNyVUVNSExRWWZoN3BGWFVJ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "DGIST, 개인정보 삭제했더니 다른 이용자 추천 영향…AI 자동 보정 기술 개발 브레이크뉴스",
+      "publishedAt": "2026-08-28T08:02:00.000Z",
+      "rank": 7
     },
     {
       "id": "c4d2c1e60fd44377",
@@ -101,107 +128,80 @@
       "source": "Google News: R&D Strategy",
       "summary": "R&D·구매 연계로 전략기술 키운다…정부, ‘국가계약 혁신 트랙’ 도입 IT비즈뉴스",
       "publishedAt": "2026-08-28T07:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "066ea309079510ec",
-      "title": "정부 중부권 성장엔진 4개 분야 선정…대전시, R&D 연계 전략 추진 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tb3h0VWFGTlVRMVhidThhOUs4X05teTVoVXdFWDkyOUJSckRKM1VfTXpFZVVtSlk1eGxfblducnZITDZ6VGFWMU1EY2VpdWJWQk55SFVlSjdWOEhOMmxOaWd5S1c5bUJ5VFhXZ2NmREE?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "정부 중부권 성장엔진 4개 분야 선정…대전시, R&D 연계 전략 추진 신아일보",
-      "publishedAt": "2026-08-28T06:57:55.000Z",
-      "rank": 6
-    },
-    {
-      "id": "de0481f53e2ca4b5",
-      "title": "포스텍 \"정부 R&D 정책·경북 전략산업 연계 육성\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBabmItWURuNWdrN0hkWWlYbnBVbGZmYmxKbUxRQ1NzZEtSTVJUSGxVeUFoTm9kUkRweE1NM0lVd2ZVS0RuUG4tbmE3MVFxdUs4SEMyOVl2X2lRdHFrMlhJWdIBeEFVX3lxTE03c3pUTEVnVzRMaWFzaElYSTNDOGNfb2dqbUFpTm9aN3RIdHZ6ZFFpdXFtOFNoMDRkaTdRaG5sOGpZUjFUaEh3ZE9OdDlyaE00X0NsVEdBNXJmV01Ldjc5b3JSVDNHVnVKUS1CczEtdlVDNVY0MFJ5WQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "포스텍 \"정부 R&D 정책·경북 전략산업 연계 육성\" 뉴시스",
-      "publishedAt": "2026-08-28T06:13:21.000Z",
-      "rank": 7
-    },
-    {
-      "id": "5a9d74905cc809ca",
-      "title": "Profitability Over Scale: How JB Financial Group Is Rewriting Its Growth Formula - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xUkN5RmFobzhtcE4tQjk0X2ljV2xfTi1xUEJXSWZDZkFYeXB6ejFha3dqakY0Q0RDN2xfYVVuYXotakNEdURQeXFwVE9oN3VMQ190V2dJeC1ZMFNsSnlORW5tVFBQelJtRnl2R3NVNXI?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Profitability Over Scale: How JB Financial Group Is Rewriting Its Growth Formula Korea IT Times",
-      "publishedAt": "2026-08-28T04:48:43.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "081944d0db378192",
-      "title": "Inside India's AI Ambitions | Bloomberg Tech: Asia 8/28/2026",
-      "url": "https://www.youtube.com/watch?v=mtBMtpNVZj0",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/mtBMtpNVZj0/hqdefault.jpg",
-      "publishedAt": "2026-08-28T04:18:15.000Z",
+      "id": "7352692f04b6a6df",
+      "title": "Magic Manga Girl (:30)",
+      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/S6TIVzqTmu8/hqdefault.jpg",
+      "publishedAt": "2026-08-29T05:22:53.000Z",
       "viewCount": 0
     },
     {
-      "id": "eae1d90dfe3e4a1c",
-      "title": "How a Crisis Turned Julia Hartz Into the CEO Eventbrite Needed",
-      "url": "https://www.youtube.com/watch?v=kVOnmw1IP_o",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/kVOnmw1IP_o/hqdefault.jpg",
-      "publishedAt": "2026-08-27T20:01:40.000Z",
+      "id": "4a69cd528ad48fc9",
+      "title": "Tennis (:30)",
+      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/IEpTT48oW5Y/hqdefault.jpg",
+      "publishedAt": "2026-08-29T05:22:32.000Z",
       "viewCount": 0
     },
     {
-      "id": "b95ec5ed1c45f564",
-      "title": "Hugging Face Pushes Deeper Into Robotics With MicroDuck",
-      "url": "https://www.youtube.com/watch?v=LF7GmLKgvcc",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/LF7GmLKgvcc/hqdefault.jpg",
-      "publishedAt": "2026-08-27T18:46:49.000Z",
+      "id": "18a9ddd625853681",
+      "title": "Talk to ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/DLcQSp_CIIc/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "60a861f8808092e2",
-      "title": "Meta Settlement a ‘Pittance,’ Law Professor Says",
-      "url": "https://www.youtube.com/watch?v=8RgrU5-jhn8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/8RgrU5-jhn8/hqdefault.jpg",
-      "publishedAt": "2026-08-27T18:43:39.000Z",
+      "id": "c70882bf5872f644",
+      "title": "Use ChatGPT Work on Your Phone",
+      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/yfnh8SuMbNw/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "fb47ba8033662eef",
-      "title": "Nvidia’s AI Boom, Salesforce’s Anthropic Bet | Bloomberg Tech 8/27/2026",
-      "url": "https://www.youtube.com/watch?v=H7Pjv8O4f4E",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/H7Pjv8O4f4E/hqdefault.jpg",
-      "publishedAt": "2026-08-27T18:43:21.000Z",
+      "id": "71ccc72fc4163bc9",
+      "title": "Use Your Computer and Browser",
+      "url": "https://www.youtube.com/watch?v=981SivztzOc",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/981SivztzOc/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "d40702646a76f8a6",
-      "title": "Nvidia Sees 70% Growth as AI Boom Accelerates",
-      "url": "https://www.youtube.com/watch?v=r5L8Zr1Rsbk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/r5L8Zr1Rsbk/hqdefault.jpg",
-      "publishedAt": "2026-08-27T18:36:13.000Z",
+      "id": "5a7ab15a7a9c047e",
+      "title": "Create Slides, Docs, and Templates",
+      "url": "https://www.youtube.com/watch?v=syML5KT-HzI",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/syML5KT-HzI/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "489f5b980156aad9",
-      "title": "How Zscaler secures the digital experience using agentic AI with Google Cloud Consulting",
-      "url": "https://www.youtube.com/watch?v=YKMXDhEcZCY",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/YKMXDhEcZCY/hqdefault.jpg",
-      "publishedAt": "2026-08-27T17:02:57.000Z",
+      "id": "be27fe58ea488521",
+      "title": "Build a Shareable Site",
+      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/0qK3KqvtRrg/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "38463a7027e927da",
-      "title": "Hugging Face Always Attracts Buyers, Co-Founder Says",
-      "url": "https://www.youtube.com/watch?v=23woqEStrbs",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/23woqEStrbs/hqdefault.jpg",
-      "publishedAt": "2026-08-27T16:36:38.000Z",
+      "id": "25e94d3927d1f975",
+      "title": "Plugins & Skills",
+      "url": "https://www.youtube.com/watch?v=5QPBVrAAdBk",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/5QPBVrAAdBk/hqdefault.jpg",
+      "publishedAt": "2026-08-28T20:51:45.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-28T09:56:44.000Z"
+      "updatedAt": "2026-08-29T05:57:07.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
