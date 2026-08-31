@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-30T03:56:26.506Z",
-  "projectsCheckedAt": "2026-08-30T03:56:26.506Z",
-  "projectsUpdatedAt": "2026-08-30T03:56:26.506Z",
+  "updatedAt": "2026-08-31T03:59:32.634Z",
+  "projectsCheckedAt": "2026-08-31T03:59:32.634Z",
+  "projectsUpdatedAt": "2026-08-31T03:59:32.634Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-30T03:56:26.506Z",
+    "checkedAt": "2026-08-31T03:59:32.634Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "4714b66e06571be5",
-      "title": "일일이 대조하던 계좌·통신내역, AI가 분석…경찰 수사 빨라진다 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZaWFrWkVGT3Z0SE1NNHJUb3pqMzd5aXdQLVVRaU9RM1ZJNl9ZSHpOQTRmWnJzS2FULWo3TWd3Z01TQTAwTHNzTTEySHdadGE3b0pKQXBBelFDcE9NdnhXWm01azFGczJkaHFBczFucnA2MHVoV3B0SnljdWxxUdIBfkFVX3lxTE1ZaWFrWkVGT3Z0SE1NNHJUb3pqMzd5aXdQLVVRaU9RM1ZJNl9ZSHpOQTRmWnJzS2FULWo3TWd3Z01TQTAwTHNzTTEySHdadGE3b0pKQXBBelFDcE9NdnhXWm01azFGczJkaHFBczFucnA2MHVoV3B0SnljdWxxUQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "일일이 대조하던 계좌·통신내역, AI가 분석…경찰 수사 빨라진다 - 머니투데이 머니투데이",
-      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "id": "90d142cd0292d4f7",
+      "title": "인천서 ‘책임 있는 AI’ 국제심사 전문가 네트워크 출범 - 매일뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SM3RidnR6cXBPdUI2dU14cE4tNHFwVmtFNnYzSUtSR2dNUkJLemZOM2xsaWdnZUI2d2RmdmN4VEVIdXd4WGIxVWsxZWZLWXgzT0xmSm1ySTd5QWNDSkFBUw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "인천서 ‘책임 있는 AI’ 국제심사 전문가 네트워크 출범 매일뉴스",
+      "publishedAt": "2026-08-31T01:01:14.000Z",
       "rank": 1
     },
     {
-      "id": "44fdb54a4c058a30",
-      "title": "엑셀로 일일이 보던 수사자료…AI가 공범·자금흐름 찾는다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uaTB5VmQzc0FRQzRFcjZ0aWVfZnJBSDZYS1REM1BuSzNpLWlFUWVWcWpieEo2YW9qWGl4OUZYUl9sal9fWkcyZEVoTHFzNFBlczVDWlB5RkItM0t4OEJyOTNDWkdDbkEtMVluV2NsQ0M2VmhXN1plNdIBeEFVX3lxTE9uaTB5VmQzc0FRQzRFcjZ0aWVfZnJBSDZYS1REM1BuSzNpLWlFUWVWcWpieEo2YW9qWGl4OUZYUl9sal9fWkcyZEVoTHFzNFBlczVDWlB5RkItM0t4OEJyOTNDWkdDbkEtMVluV2NsQ0M2VmhXN1plNQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "엑셀로 일일이 보던 수사자료…AI가 공범·자금흐름 찾는다 뉴시스",
-      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "id": "72cd0fabc1e322c2",
+      "title": "덕산하이메탈, 반도체 패키징 소재 ‘국가전략기술’ 인정…R&D·설비 투자 확대 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01c2ZFV0l2NDV4M1lxb3Y1LUtfMG55UWZHd0VTVXNXaktZZVo2aVBfSVhwMmFpc0F4QzQ0N2tJX2NVWm1DRkRXVTFjdGhaNVluUWpodWFPc3JHTUZVRGNRcGt2aG0?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "덕산하이메탈, 반도체 패키징 소재 ‘국가전략기술’ 인정…R&D·설비 투자 확대 디지털데일리",
+      "publishedAt": "2026-08-31T00:59:52.000Z",
       "rank": 2
     },
     {
-      "id": "4a4b3352657c26b5",
-      "title": "마이리얼트립 AICX, ISO 27001 인증 획득…AI CX B2B 공략 가속 - 뉴스탭",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWGVIandxOFRqUnFlSDZ0NjVuX0lLT29rVnNmSDV2d3JyOGpGdUhROFRhYk1vaGZsTkZ1aWl6cXFmWkE5SWhYUGJqYmxpTlAxZXlVN2dEZjZnV1FQT2QtMmJOZmJaQ05XMEctNA?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "마이리얼트립 AICX, ISO 27001 인증 획득…AI CX B2B 공략 가속 뉴스탭",
-      "publishedAt": "2026-08-29T07:34:58.000Z",
+      "id": "55652dd02d6dd4b5",
+      "title": "[헬스인·싸] AI와 함께 만드는 ‘의료기기 국제표준화’ 시대 - 라포르시안",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pNWt2LV95Rk9Wd00xUFlRSzlCc2lTQUR0TjJ0YzNfSUhsT2Z0VmxYTnExYXBfTGdoTDFMOEFxVjU4X3N2RF9YTUhmOF9ZV0N4NDZUenBJQ3FPcF9oZDE1VEVpRnQ4eXBsamhGTTJn?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[헬스인·싸] AI와 함께 만드는 ‘의료기기 국제표준화’ 시대 라포르시안",
+      "publishedAt": "2026-08-30T22:30:00.000Z",
       "rank": 3
     },
     {
-      "id": "53562f273e7a89c8",
-      "title": "앤트로픽, MCP 이어 피지컬 AI 표준화 시동…주목받는 국내 기업 알고보니 - 이코노미트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IOTQ2dTdJN3FWV3Q5clVBeTdMSHVXdVNGSVhoX1JHdEMxQjlzc1lXRXRrV1VXbFZpcS0wSTloSDdNVldJT3U0SnhheG1EODVGSnp5UFZMUHQ4ck5pZkl4R0ZNR2ZXdkl2S056YXBRVUYxalNkdXVr?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "앤트로픽, MCP 이어 피지컬 AI 표준화 시동…주목받는 국내 기업 알고보니 이코노미트리뷴",
-      "publishedAt": "2026-08-29T14:25:42.000Z",
+      "id": "ba2ec7ca4562a739",
+      "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가? - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhODJUdnNLR1lXXzNVREhxWlJCOVgwSmEwSGlTaGliM0JjUjQ0TXk5c0lRWDNDS0tjOXgwbFJxaW5nMkUzem1KNFZ5V2dqdDVrcUFaZ1pwSVR3UQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가? 경북매일",
+      "publishedAt": "2026-08-30T08:01:00.000Z",
       "rank": 4
     },
     {
-      "id": "c23c6581d17d2f27",
-      "title": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 - hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Odk5OQnE2dEJNVmlmamE5U1JhcnFyQV9VaW1YYXRzbF85S1VCU2V6MWI2QnNqMXpSRDVub011SDdnbWdlWVZDYklZckpZeU93UEc1SmhfaEhTdjQtSUVZSWNuX0c5bW1YSnc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "포스텍, 정부 R&D 정책·경북 전략산업 연결해 대형 국가사업 발굴 hidomin.com",
-      "publishedAt": "2026-08-29T01:39:07.000Z",
+      "id": "fb7522f94a6ca6fa",
+      "title": "From manually checking Excel one by one…police adopt an AI analysis system to boost investigative capability - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdklHejVybmN5TWJTRzJ2TlhabUlLbHF4elZDbGdQNlRvQTNKZE9xdVpBR0Jubm1QRExpNzN4VVN0MG53enRQWU12UGZpdmFuSnJkb1ZhNnR3VGpqTTVaSUMtbllXc3pSUHNtZFRUeXFwNUhEV0VCeEl0Rk91MnFrc1drVW9qZGtDc1hsT2xmSHQzZFdVbUJjOFB6cnh0MEE1d2FuT2VJWlJsWXNPU1Z6cQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "From manually checking Excel one by one…police adopt an AI analysis system to boost investigative capability 경향신문",
+      "publishedAt": "2026-08-30T05:36:00.000Z",
       "rank": 5
     },
     {
-      "id": "80eb8fd82ac30bb8",
-      "title": "Syria marks first international card transaction in more than 15 years with Mastercard and QNB Group - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdUlqUVN5ZzZrWU5hUlk2NmNmTDllSXdhV0dlOG01amNNYWNBQktKZlZ5aDA5cWNTcUhtUl9Oa0xJa3M5c0R6X2dZZmF1aVJpM3JQbjh4RXVCSkJKU19LRjAyckNFa09t?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Syria marks first international card transaction in more than 15 years with Mastercard and QNB Group KIPOST",
-      "publishedAt": "2026-08-28T13:48:00.000Z",
+      "id": "c830e1f0967798c7",
+      "title": "여수시, 해양배터리 데이터 허브 플랫폼 구축 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5yeWNaNEtDWERDQ0RCa2N3UEVPOGpPVGREMDJzOG82dm1iNlFOdW5pa3c1VjVxeVpVR0JhY0RiWXl4ZHM?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "여수시, 해양배터리 데이터 허브 플랫폼 구축 브레이크뉴스",
+      "publishedAt": "2026-08-30T04:52:00.000Z",
       "rank": 6
     },
     {
-      "id": "18575730c03d56f5",
-      "title": "DGIST, 개인정보 삭제했더니 다른 이용자 추천 영향…AI 자동 보정 기술 개발 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vZHJQZzEzQ2NvMGtfbGFEQWNIWDVxM19mS3BiQWZrb2k2U0o1RHYyVlZNZF96QjNyVUVNSExRWWZoN3BGWFVJ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "DGIST, 개인정보 삭제했더니 다른 이용자 추천 영향…AI 자동 보정 기술 개발 브레이크뉴스",
-      "publishedAt": "2026-08-28T08:02:00.000Z",
+      "id": "9619ee05679fc66d",
+      "title": "2대 AI미래기획수석에 이해민…AI전략위 부위원장에 하정우 - DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jbHIxRTZzQVIxN1JqcXRVcHNkSWVESHJaZWYyRDN5blNnakF6Mkp5V1lPeWZfWE1jbmE4MjEzb044STZsRm40Q2NNWENGREFLUWVIdA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "2대 AI미래기획수석에 이해민…AI전략위 부위원장에 하정우 DongA Science",
+      "publishedAt": "2026-08-30T03:49:00.000Z",
       "rank": 7
     },
     {
-      "id": "c4d2c1e60fd44377",
-      "title": "R&D·구매 연계로 전략기술 키운다…정부, ‘국가계약 혁신 트랙’ 도입 - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UTFHZUx5TlV4Z1RkNkZfaUY2cFphaFNpaUM5VGVrUkl2eUEwTUdnSjEzbmFBZm1nZ0tCRFNoNUpHNklJckJuWkRHSUZmWmFFWTE2cS1kMHhzYUx3NGdRSTR4dV9mbEZvUVU0Sg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "R&D·구매 연계로 전략기술 키운다…정부, ‘국가계약 혁신 트랙’ 도입 IT비즈뉴스",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "id": "1379743f5c7828fa",
+      "title": "경찰, 금융·통신 수사자료 AI로 분석…전국 현장 보급 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94Z0JYM1czVWUzYzhyOVlzTzI4TUVkbnk5X1RHVGpEZFhRdVVlM1pYbzhuTUp1WWk3MXpYTWgyOHpKcE45dWZxM3V1ekd4UlBRNUxzeHZFTG5GcEczUnNSbdIBYEFVX3lxTE94Z0JYM1czVWUzYzhyOVlzTzI4TUVkbnk5X1RHVGpEZFhRdVVlM1pYbzhuTUp1WWk3MXpYTWgyOHpKcE45dWZxM3V1ekd4UlBRNUxzeHZFTG5GcEczUnNSbQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "경찰, 금융·통신 수사자료 AI로 분석…전국 현장 보급 연합뉴스",
+      "publishedAt": "2026-08-30T00:00:02.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-29T05:57:07.000Z"
+      "updatedAt": "2026-08-30T04:00:56.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
