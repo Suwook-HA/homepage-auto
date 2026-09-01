@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-31T03:59:32.634Z",
-  "projectsCheckedAt": "2026-08-31T03:59:32.634Z",
-  "projectsUpdatedAt": "2026-08-31T03:59:32.634Z",
+  "updatedAt": "2026-09-01T03:50:11.215Z",
+  "projectsCheckedAt": "2026-09-01T03:50:11.215Z",
+  "projectsUpdatedAt": "2026-09-01T03:50:11.215Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-08-31T03:59:32.634Z",
+    "checkedAt": "2026-09-01T03:50:11.215Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "90d142cd0292d4f7",
-      "title": "인천서 ‘책임 있는 AI’ 국제심사 전문가 네트워크 출범 - 매일뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SM3RidnR6cXBPdUI2dU14cE4tNHFwVmtFNnYzSUtSR2dNUkJLemZOM2xsaWdnZUI2d2RmdmN4VEVIdXd4WGIxVWsxZWZLWXgzT0xmSm1ySTd5QWNDSkFBUw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "인천서 ‘책임 있는 AI’ 국제심사 전문가 네트워크 출범 매일뉴스",
-      "publishedAt": "2026-08-31T01:01:14.000Z",
+      "id": "dba3033b2880e14b",
+      "title": "Global Digital Transformation 20 기업 선정 - Spherical Insights",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZGVfajRpSDhGRUVYWHpnSEtJLUZjZ3ZfV3BPQlNyb2pySHBSby1uZWVwcUUwVTktQ0hXb05sU0JfYTlEMWpldUVEQ1YtMnlaTkpFeDJzX05tR3I1VTZwYWd5VzNuV2JRZXowUnlFQm1iWEdySXR1bG9wcjhEYnplWVZLdURpS0llRmU0MGZEVmltMmw4WDBnT1VITUwzZVlIRmZhOFgtc1B3U1luakZxZVZHTzhwWUJoeHVqS0lwTU1uZFJOZUNMQjBKN01EU21xRjVrWWNrMEFoRmtVR3padXlIaXQ4aHNkN2VGQlFEeDRTQQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Global Digital Transformation 20 기업 선정 Spherical Insights",
+      "publishedAt": "2026-08-31T14:07:17.000Z",
       "rank": 1
     },
     {
-      "id": "72cd0fabc1e322c2",
-      "title": "덕산하이메탈, 반도체 패키징 소재 ‘국가전략기술’ 인정…R&D·설비 투자 확대 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01c2ZFV0l2NDV4M1lxb3Y1LUtfMG55UWZHd0VTVXNXaktZZVo2aVBfSVhwMmFpc0F4QzQ0N2tJX2NVWm1DRkRXVTFjdGhaNVluUWpodWFPc3JHTUZVRGNRcGt2aG0?oc=5",
+      "id": "9048b1f467ac0f03",
+      "title": "[2027 예산안] 내년 정부 R&D 예산 39.5조원… AI·반도체 등 전략기술 투자 확대 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0VIdWZXdF9pcTREYkpnYVZQMGVEVDFVbVVVMm5tNTM5dGZmUF92MEdGbllGdGVFUWtFQ092OE5aZl9VNmJzUjZxdm54Sk5CZzRpVm5nTVkwclJ4eVJXNHhfbDZpanU0Q3VZQUN6MFBwQS1KcWZxRFRXaVdsbmRZanlyQ0ZIOHluZ01yN9IBoAFBVV95cUxOSzZtWjFLZEJoUDRhX2lXZTdMVGQ2OXMxQUJ5OG83M2JmRUp1ZW9nanpldm80TGRGUDFtVjF6YVlFYjRseGhpOVJZTTgyVFdPaWswQWgxbHpjOE52OGpqSFdZWHhKdTBQaDZ0VFVCZTllMk80cG5ubVMyQ3dTaF9TTkJLOWJzVjFRR0hXcGQyQkRubTFtby10UUdYOWdySi16?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "덕산하이메탈, 반도체 패키징 소재 ‘국가전략기술’ 인정…R&D·설비 투자 확대 디지털데일리",
-      "publishedAt": "2026-08-31T00:59:52.000Z",
+      "summary": "[2027 예산안] 내년 정부 R&D 예산 39.5조원… AI·반도체 등 전략기술 투자 확대 - 조선비즈 Chosunbiz",
+      "publishedAt": "2026-09-01T03:09:00.000Z",
       "rank": 2
     },
     {
-      "id": "55652dd02d6dd4b5",
-      "title": "[헬스인·싸] AI와 함께 만드는 ‘의료기기 국제표준화’ 시대 - 라포르시안",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pNWt2LV95Rk9Wd00xUFlRSzlCc2lTQUR0TjJ0YzNfSUhsT2Z0VmxYTnExYXBfTGdoTDFMOEFxVjU4X3N2RF9YTUhmOF9ZV0N4NDZUenBJQ3FPcF9oZDE1VEVpRnQ4eXBsamhGTTJn?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[헬스인·싸] AI와 함께 만드는 ‘의료기기 국제표준화’ 시대 라포르시안",
-      "publishedAt": "2026-08-30T22:30:00.000Z",
+      "id": "b7f1e7d7c6c4bc45",
+      "title": "“추격자에서 선도자로”…국가 R&D 5년간 200조 투자 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MUI0dlI4XzRTVW5UUnRMWlVIaGI0bVZ0aWJQYmM2TjdNVUdsaEl3cURXWkpZMGRmVXQ5QVVYdG9PXzZFczhoaVJkUXF2bU1ycmRsMWtaNUkyVnU1Z3lpQTJKUm9sN05Z0gFsQVVfeXFMT2xVcUg0c2s3a3JENkd6Y21JSXA4cUVpM3JmNVFjOVlzdGdiM0RveTVESnJ1RDlocnV2YUh3ZzYybXhDckxNalNsN3E1Y1AzNHIydWViMzBJZFJrbU94c2dmeWRSNVVrZ1VJdDA2?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "“추격자에서 선도자로”…국가 R&D 5년간 200조 투자 정보통신신문",
+      "publishedAt": "2026-09-01T02:55:00.000Z",
       "rank": 3
     },
     {
-      "id": "ba2ec7ca4562a739",
-      "title": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가? - 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhODJUdnNLR1lXXzNVREhxWlJCOVgwSmEwSGlTaGliM0JjUjQ0TXk5c0lRWDNDS0tjOXgwbFJxaW5nMkUzem1KNFZ5V2dqdDVrcUFaZ1pwSVR3UQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI 프로젝트 실패 사례 분석…왜 80%가 실패하는가? 경북매일",
-      "publishedAt": "2026-08-30T08:01:00.000Z",
+      "id": "594580d7fda6f1e7",
+      "title": "[2027년 예산안] R&D 역대 최대 39.5조원…AI예산 69%↑, 풀뿌리 기본연구 2배 - DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vc0o5Nl9TaURoUXVpeXBNOURycVpsTzctU2w4aHIybE9ld3Y3SUxabENCY0hGcUlkQ1dFS0E3bFdhR3ktZWNqWWRaa2FqVHNTR0NjMg?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "[2027년 예산안] R&D 역대 최대 39.5조원…AI예산 69%↑, 풀뿌리 기본연구 2배 DongA Science",
+      "publishedAt": "2026-09-01T02:54:00.000Z",
       "rank": 4
     },
     {
-      "id": "fb7522f94a6ca6fa",
-      "title": "From manually checking Excel one by one…police adopt an AI analysis system to boost investigative capability - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdklHejVybmN5TWJTRzJ2TlhabUlLbHF4elZDbGdQNlRvQTNKZE9xdVpBR0Jubm1QRExpNzN4VVN0MG53enRQWU12UGZpdmFuSnJkb1ZhNnR3VGpqTTVaSUMtbllXc3pSUHNtZFRUeXFwNUhEV0VCeEl0Rk91MnFrc1drVW9qZGtDc1hsT2xmSHQzZFdVbUJjOFB6cnh0MEE1d2FuT2VJWlJsWXNPU1Z6cQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "From manually checking Excel one by one…police adopt an AI analysis system to boost investigative capability 경향신문",
-      "publishedAt": "2026-08-30T05:36:00.000Z",
+      "id": "eaf4f671598ee21f",
+      "title": "[2027 예산안] 정부, '포스트 반도체' 키운다…첨단산업·R&D 41조 투입 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTEF2MVp5am05ZWlEbklFU3V3ZktPNUNyNlIyVnUySWNDcmo3UlI4YUlsUFpFcjdpN0UwLVpXa2VkTjFfS1FJOE1wbEF1cU4wX05KczAxdUlkeWho?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "[2027 예산안] 정부, '포스트 반도체' 키운다…첨단산업·R&D 41조 투입 뉴스핌",
+      "publishedAt": "2026-09-01T02:44:00.000Z",
       "rank": 5
     },
     {
-      "id": "c830e1f0967798c7",
-      "title": "여수시, 해양배터리 데이터 허브 플랫폼 구축 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5yeWNaNEtDWERDQ0RCa2N3UEVPOGpPVGREMDJzOG82dm1iNlFOdW5pa3c1VjVxeVpVR0JhY0RiWXl4ZHM?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "여수시, 해양배터리 데이터 허브 플랫폼 구축 브레이크뉴스",
-      "publishedAt": "2026-08-30T04:52:00.000Z",
+      "id": "03bc623be46bd07d",
+      "title": "한국후지쯔, MasterControl Ax 국내 출시로 품질·제조 넘어 설비·자산관리까지 플랫폼 확장 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wM01SNjlrWEk4V0hnWFZLNGtkR1QtYWVMLU9fbmpOb0RRTTJJYk5hZm92aXVSZkYxMnhaa3F6cF8wZWE2bjNSODExbk1GOUE5aTd1NUtwMXpaSTE5c0VhLS1INnBHb2JvSU13?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "한국후지쯔, MasterControl Ax 국내 출시로 품질·제조 넘어 설비·자산관리까지 플랫폼 확장 보안뉴스",
+      "publishedAt": "2026-09-01T02:22:45.000Z",
       "rank": 6
     },
     {
-      "id": "9619ee05679fc66d",
-      "title": "2대 AI미래기획수석에 이해민…AI전략위 부위원장에 하정우 - DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jbHIxRTZzQVIxN1JqcXRVcHNkSWVESHJaZWYyRDN5blNnakF6Mkp5V1lPeWZfWE1jbmE4MjEzb044STZsRm40Q2NNWENGREFLUWVIdA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "2대 AI미래기획수석에 이해민…AI전략위 부위원장에 하정우 DongA Science",
-      "publishedAt": "2026-08-30T03:49:00.000Z",
+      "id": "27da6a4c56a23763",
+      "title": "KTL, 국내 제조기업에 M.AX·데이터 표준화 지원 나서 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TN0F0RmF5Y0hydnN3cDRvLWF1RDlUTHM1X2o4NFA3enRKS3hxMG5lTnFvZmtrZW1peWY0WDA5Y1JwcUs4MldXRlJ1TWZvZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KTL, 국내 제조기업에 M.AX·데이터 표준화 지원 나서 전자신문",
+      "publishedAt": "2026-09-01T02:06:02.000Z",
       "rank": 7
     },
     {
-      "id": "1379743f5c7828fa",
-      "title": "경찰, 금융·통신 수사자료 AI로 분석…전국 현장 보급 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94Z0JYM1czVWUzYzhyOVlzTzI4TUVkbnk5X1RHVGpEZFhRdVVlM1pYbzhuTUp1WWk3MXpYTWgyOHpKcE45dWZxM3V1ekd4UlBRNUxzeHZFTG5GcEczUnNSbdIBYEFVX3lxTE94Z0JYM1czVWUzYzhyOVlzTzI4TUVkbnk5X1RHVGpEZFhRdVVlM1pYbzhuTUp1WWk3MXpYTWgyOHpKcE45dWZxM3V1ekd4UlBRNUxzeHZFTG5GcEczUnNSbQ?oc=5",
+      "id": "4a967ad03933ae42",
+      "title": "KTL, 제조기업 AI 전환 지원…데이터 표준화·글로벌 규제 대응 모색 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ZWFsWmFPWVFhN1poZV9DSkJQMjViTy05ZmNKY1FNWWY4ZzVvbjhqN3hfMzJNUG54dlFhUjdnNXdjd2xRcUhacmIySFQtemIxMTdtWWlTY1U4OGI3SUlmaENLdEpsaUtxUkpXSkRFU3A?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "경찰, 금융·통신 수사자료 AI로 분석…전국 현장 보급 연합뉴스",
-      "publishedAt": "2026-08-30T00:00:02.000Z",
+      "summary": "KTL, 제조기업 AI 전환 지원…데이터 표준화·글로벌 규제 대응 모색 신아일보",
+      "publishedAt": "2026-09-01T01:00:53.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-30T04:00:56.000Z"
+      "updatedAt": "2026-08-31T04:04:30.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
