@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T03:50:11.215Z",
-  "projectsCheckedAt": "2026-09-01T03:50:11.215Z",
-  "projectsUpdatedAt": "2026-09-01T03:50:11.215Z",
+  "updatedAt": "2026-09-02T03:09:45.315Z",
+  "projectsCheckedAt": "2026-09-02T03:09:45.315Z",
+  "projectsUpdatedAt": "2026-09-02T03:09:45.315Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-01T03:50:11.215Z",
+    "checkedAt": "2026-09-02T03:09:45.315Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "61c9510ced4a50f1",
+      "title": "로크웰 오토메이션, AI 기반 품질 관리 개선을 위해 플렉스 QMS와 팩토리톡 애널리틱스 비전AI 통합... AI 확장 지속 - 이슈투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jOVoySk90UFkzWFpZQ1VMelR2VHo1cmZLQWRiR09FR2dvWXJqWjZERHpZbmxtS0JjbWhjXzRjSmFEUm9QbmZQYkhZZ0FBMm5TcWN5WjFjeXZPRXMwM2NCWU9aZ0VvZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "로크웰 오토메이션, AI 기반 품질 관리 개선을 위해 플렉스 QMS와 팩토리톡 애널리틱스 비전AI 통합... AI 확장 지속 이슈투데이",
+      "publishedAt": "2026-09-02T01:48:21.000Z",
+      "rank": 1
+    },
+    {
+      "id": "ad7b5eb9a98ad4a6",
+      "title": "리트빅, 온디바이스 AI기반 안전 솔루션 'LIVEVIEW Shield' AI+ 인증 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lOS1oMVlZdlRyNnFNLUY0RWNtWVJwWVM2aWtUY0tqQlNGcTU3UEpWci1WSHNCLTNVNkZCbFFOUzdMa3dtT0RUc2Z3VmFkZw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "리트빅, 온디바이스 AI기반 안전 솔루션 'LIVEVIEW Shield' AI+ 인증 획득 전자신문",
+      "publishedAt": "2026-09-02T00:56:51.000Z",
+      "rank": 2
+    },
+    {
+      "id": "595f798e008156c6",
+      "title": "윤홍근 \"AI로 글로벌 BBQ 연결\"…창립 31주년 'AX 대전환' 선포 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxRmVTeXlKYVl2MEJKRjNxeHNKYlM1SXhWZjgyV1hfOEhVNFJ2X1JST0RtZjRMWld0M0xhb1VDUFhuSHJ4cmtDMVc4ZlZFUWc5Y2J2aDdUMGZsY1V2R1ZZ0gFkQVVfeXFMTjJ3NTlfd3FCZ3FyMWJnVHE2ekt3aktib2lFQWhJN0UxM1ROcWdsUWZYVjg1Y0pHSGFhNjYzeEJlSUNXSGNaQjdXNzNOWEMzY2NlbkdJeXhYalpOMGszOHRqRFlRQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "윤홍근 \"AI로 글로벌 BBQ 연결\"…창립 31주년 'AX 대전환' 선포 뉴스1",
+      "publishedAt": "2026-09-01T23:40:10.000Z",
+      "rank": 3
+    },
+    {
+      "id": "d70faaf95749833b",
+      "title": "KTL, 제조 AI 전환 경쟁력 강화 - gnnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bHlOSDBpbFFHd0Z1bzlmajA1aEFNaGhfLThkdFVJRGZRQWI1YjV6cFlzM2tkcVljUGlYYlA3dmx0WDlOTk1LVFNNWDZUX3VkczZnX1I5Rkp0QzFUZ2hfMmRvX081aHd6U1Qw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KTL, 제조 AI 전환 경쟁력 강화 gnnews.co.kr",
+      "publishedAt": "2026-09-01T09:21:40.000Z",
+      "rank": 4
+    },
+    {
+      "id": "4fdbc64f60e9cdba",
+      "title": "AI와 손잡은 한의약`표준화·고도화`전력 - 경상투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSlVuc1gtQkRyTjNXRi1TaTUzTTkwZnFxVGZCcDd1SVoxZEF6NTQ4SkM2OWE4djBiay0yeXd5NnJ2MVJDLWNiWWU5WWlyVm9CUmRLVlZKdkprTHBOdTJCeFExZF8xaXM?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI와 손잡은 한의약`표준화·고도화`전력 경상투데이",
+      "publishedAt": "2026-09-01T09:16:05.000Z",
+      "rank": 5
+    },
     {
       "id": "dba3033b2880e14b",
       "title": "Global Digital Transformation 20 기업 선정 - Spherical Insights",
@@ -65,69 +110,24 @@
       "source": "Google News: Digital Transformation",
       "summary": "Global Digital Transformation 20 기업 선정 Spherical Insights",
       "publishedAt": "2026-08-31T14:07:17.000Z",
-      "rank": 1
-    },
-    {
-      "id": "9048b1f467ac0f03",
-      "title": "[2027 예산안] 내년 정부 R&D 예산 39.5조원… AI·반도체 등 전략기술 투자 확대 - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0VIdWZXdF9pcTREYkpnYVZQMGVEVDFVbVVVMm5tNTM5dGZmUF92MEdGbllGdGVFUWtFQ092OE5aZl9VNmJzUjZxdm54Sk5CZzRpVm5nTVkwclJ4eVJXNHhfbDZpanU0Q3VZQUN6MFBwQS1KcWZxRFRXaVdsbmRZanlyQ0ZIOHluZ01yN9IBoAFBVV95cUxOSzZtWjFLZEJoUDRhX2lXZTdMVGQ2OXMxQUJ5OG83M2JmRUp1ZW9nanpldm80TGRGUDFtVjF6YVlFYjRseGhpOVJZTTgyVFdPaWswQWgxbHpjOE52OGpqSFdZWHhKdTBQaDZ0VFVCZTllMk80cG5ubVMyQ3dTaF9TTkJLOWJzVjFRR0hXcGQyQkRubTFtby10UUdYOWdySi16?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[2027 예산안] 내년 정부 R&D 예산 39.5조원… AI·반도체 등 전략기술 투자 확대 - 조선비즈 Chosunbiz",
-      "publishedAt": "2026-09-01T03:09:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "b7f1e7d7c6c4bc45",
-      "title": "“추격자에서 선도자로”…국가 R&D 5년간 200조 투자 - 정보통신신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MUI0dlI4XzRTVW5UUnRMWlVIaGI0bVZ0aWJQYmM2TjdNVUdsaEl3cURXWkpZMGRmVXQ5QVVYdG9PXzZFczhoaVJkUXF2bU1ycmRsMWtaNUkyVnU1Z3lpQTJKUm9sN05Z0gFsQVVfeXFMT2xVcUg0c2s3a3JENkd6Y21JSXA4cUVpM3JmNVFjOVlzdGdiM0RveTVESnJ1RDlocnV2YUh3ZzYybXhDckxNalNsN3E1Y1AzNHIydWViMzBJZFJrbU94c2dmeWRSNVVrZ1VJdDA2?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“추격자에서 선도자로”…국가 R&D 5년간 200조 투자 정보통신신문",
-      "publishedAt": "2026-09-01T02:55:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "594580d7fda6f1e7",
-      "title": "[2027년 예산안] R&D 역대 최대 39.5조원…AI예산 69%↑, 풀뿌리 기본연구 2배 - DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vc0o5Nl9TaURoUXVpeXBNOURycVpsTzctU2w4aHIybE9ld3Y3SUxabENCY0hGcUlkQ1dFS0E3bFdhR3ktZWNqWWRaa2FqVHNTR0NjMg?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[2027년 예산안] R&D 역대 최대 39.5조원…AI예산 69%↑, 풀뿌리 기본연구 2배 DongA Science",
-      "publishedAt": "2026-09-01T02:54:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "eaf4f671598ee21f",
-      "title": "[2027 예산안] 정부, '포스트 반도체' 키운다…첨단산업·R&D 41조 투입 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTEF2MVp5am05ZWlEbklFU3V3ZktPNUNyNlIyVnUySWNDcmo3UlI4YUlsUFpFcjdpN0UwLVpXa2VkTjFfS1FJOE1wbEF1cU4wX05KczAxdUlkeWho?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[2027 예산안] 정부, '포스트 반도체' 키운다…첨단산업·R&D 41조 투입 뉴스핌",
-      "publishedAt": "2026-09-01T02:44:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "03bc623be46bd07d",
-      "title": "한국후지쯔, MasterControl Ax 국내 출시로 품질·제조 넘어 설비·자산관리까지 플랫폼 확장 - 보안뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wM01SNjlrWEk4V0hnWFZLNGtkR1QtYWVMLU9fbmpOb0RRTTJJYk5hZm92aXVSZkYxMnhaa3F6cF8wZWE2bjNSODExbk1GOUE5aTd1NUtwMXpaSTE5c0VhLS1INnBHb2JvSU13?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "한국후지쯔, MasterControl Ax 국내 출시로 품질·제조 넘어 설비·자산관리까지 플랫폼 확장 보안뉴스",
-      "publishedAt": "2026-09-01T02:22:45.000Z",
       "rank": 6
     },
     {
-      "id": "27da6a4c56a23763",
-      "title": "KTL, 국내 제조기업에 M.AX·데이터 표준화 지원 나서 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TN0F0RmF5Y0hydnN3cDRvLWF1RDlUTHM1X2o4NFA3enRKS3hxMG5lTnFvZmtrZW1peWY0WDA5Y1JwcUs4MldXRlJ1TWZvZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KTL, 국내 제조기업에 M.AX·데이터 표준화 지원 나서 전자신문",
-      "publishedAt": "2026-09-01T02:06:02.000Z",
+      "id": "fac6077927665710",
+      "title": "PPMI and Alipay+ Expand QR Ph for Cross-Border Commerce, Connecting Filipino Businesses with Global Consumers - 매일타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZS2NsU25GbU1zdlVWU2NzZXowMFZ1Wi1LaE5teWdLN0JmN0V0VnN3QnVsY2ZCWnhIeEloRFppSzJUMVZINmpWaUZlZTM4eFZYMF9rczRmOTRpTmZ5emc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "PPMI and Alipay+ Expand QR Ph for Cross-Border Commerce, Connecting Filipino Businesses with Global Consumers 매일타임즈",
+      "publishedAt": "2026-09-01T07:54:00.000Z",
       "rank": 7
     },
     {
-      "id": "4a967ad03933ae42",
-      "title": "KTL, 제조기업 AI 전환 지원…데이터 표준화·글로벌 규제 대응 모색 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ZWFsWmFPWVFhN1poZV9DSkJQMjViTy05ZmNKY1FNWWY4ZzVvbjhqN3hfMzJNUG54dlFhUjdnNXdjd2xRcUhacmIySFQtemIxMTdtWWlTY1U4OGI3SUlmaENLdEpsaUtxUkpXSkRFU3A?oc=5",
+      "id": "538df1930a115c68",
+      "title": "한국산업기술시험원, 산업 AI 전환·규제 대응 세미나 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yNnVzY2VzSEVQTjJZRXRWZkE5V3l1YzdOdGJVaEpuREZVdjY0ZnRyUDZPNFdsNXpkaks1VFFYaUdrUzFSTWZiOWFjN2JKYlE?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "KTL, 제조기업 AI 전환 지원…데이터 표준화·글로벌 규제 대응 모색 신아일보",
-      "publishedAt": "2026-09-01T01:00:53.000Z",
+      "summary": "한국산업기술시험원, 산업 AI 전환·규제 대응 세미나 v.daum.net",
+      "publishedAt": "2026-09-01T07:05:50.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-08-31T04:04:30.000Z"
+      "updatedAt": "2026-09-01T03:54:46.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
