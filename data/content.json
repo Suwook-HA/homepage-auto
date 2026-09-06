@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T03:13:07.363Z",
-  "projectsCheckedAt": "2026-09-05T03:13:07.363Z",
-  "projectsUpdatedAt": "2026-09-05T03:13:07.363Z",
+  "updatedAt": "2026-09-06T03:12:45.214Z",
+  "projectsCheckedAt": "2026-09-06T03:12:45.214Z",
+  "projectsUpdatedAt": "2026-09-06T03:12:45.214Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-05T03:13:07.363Z",
+    "checkedAt": "2026-09-06T03:12:45.214Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "185e16065fc5c1ac",
+      "title": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PUVh2MVQ3b2RIVWVxa0d0ZHJnUjlKVjd0Q1B2RG9zRzRYQ0djaHBsVzEyRDFWcmJGcE5EVEx0WnNRYkJCSGtzSFhKNm5rOEk4WU10cVlpdUhBTUR4Qzd2YUtRalg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" 매일일보",
+      "publishedAt": "2026-09-06T03:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "acfedd954ea7b0ac",
+      "title": "LGU+, 모듈러 데이터센터 표준모델 개발…AIDC 구축 속도 높인다 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa1JYRElfbXc5MW9mLWFTTzRUSXg1dXJhRVdfZVp1aGFrQ3hiWUY3T1FCNV9xSGUwLXVSQnNQb1pyS01yLWFWamZiZjBOS0VwSEdrX0xfMnE1aUxVendtVdIBZkFVX3lxTFBsbEgtdFJwOV9sUGpGd0ZEeDQ5V0lVVkwtSkE4VGZrWVBrN1NBS3dtVWF4bVU3M25XWDE0TmpyN0tRYU5sMEZzd01TMXM2NTNFYUZ3WWdMYkNQaEllMWt6alNLa21SQQ?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "LGU+, 모듈러 데이터센터 표준모델 개발…AIDC 구축 속도 높인다 뉴스1",
+      "publishedAt": "2026-09-06T01:02:07.000Z",
+      "rank": 2
+    },
+    {
+      "id": "bb46c0645d89be61",
+      "title": "ABH Unveils Safety Management AI 'SafeVision-X' at WAVE 2026... \"Enhancing On-site Safety\" - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dG9CTThqT3MycGdPcFR4aFJBVTNjQlBncFNfNGgzT2pjYUZjSV9fLWNTNTQ3SWFHdkJLaEpCWXIwcFNlY3RLUzZ6OEJZMjZUNVlGZEFneUhVdXBUM0paNjRZeld3aDQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "ABH Unveils Safety Management AI 'SafeVision-X' at WAVE 2026... \"Enhancing On-site Safety\" 에이빙",
+      "publishedAt": "2026-09-05T12:46:05.000Z",
+      "rank": 3
+    },
+    {
+      "id": "9a30c76a27e14f90",
+      "title": "[헬로즈업] 로봇이 스스로 움직이는 공장…그 뒤엔 ‘5G 특화망’이 있다 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zdXB6ZTFEbXVDa2dZeV85ZGdzSDNEbkxVWlJIY0wzUkh1ZEFSbVYzNUZ3LWE0YWlRS1VtQ2ZHLU03OFIwRE1QXzBQUWZ4ZFNINjFNSk0wOVd1R05aN1Fn?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[헬로즈업] 로봇이 스스로 움직이는 공장…그 뒤엔 ‘5G 특화망’이 있다 헬로티",
+      "publishedAt": "2026-09-05T10:57:02.000Z",
+      "rank": 4
+    },
+    {
+      "id": "d993122bab67da82",
+      "title": "kbo 수도권 불법 도박 디자인 분야 자산 배분의 고급 기술와 혁신 - Histoire pour tous",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmo4SVFScEpmZ1piM3BvejhNMlpLUDczOUs1aVpOSG5iOXdSTGl4THJ1cmstY1RzUEpIMXVNa1JrMk1XSFduQUNjYWt2YkhCZ1lyWk42NUNOQUlYUVFIa1R5b2xXZGhldm84YnBrUXNhWlBteHFaeW5XS0VlUjNFbHVtcFMyZ25NY0RxUGpOMDA2MlFjVm1paEJaM3VmRm0wSWVfdWJibjl4SWQtSFVvaEw4cW8wZHpRRzVmeFhqUjhaZXVuY1dUckxaSV8yV1psQzlDc1Nmb2x6UXJ2cllCdjFZZTU3MXA5cThYVEd0SWd3LWFHazV5ZG1oVQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "kbo 수도권 불법 도박 디자인 분야 자산 배분의 고급 기술와 혁신 Histoire pour tous",
+      "publishedAt": "2026-09-05T02:52:08.000Z",
+      "rank": 5
+    },
     {
       "id": "1f3bcd7d806b0d23",
       "title": "부산항 안전혁신, AI부터 작업 표준화까지 세계로 - 인더스트리뉴스",
@@ -65,7 +110,7 @@
       "source": "Google News: AI standardization",
       "summary": "부산항 안전혁신, AI부터 작업 표준화까지 세계로 인더스트리뉴스",
       "publishedAt": "2026-09-05T01:18:54.000Z",
-      "rank": 1
+      "rank": 6
     },
     {
       "id": "6a61fd0ec1f3df15",
@@ -74,16 +119,7 @@
       "source": "Google News: IT standardization",
       "summary": "평화이즈, 26년 보건의료표준화 선도 의료기관 확산사업 참여 메드월드뉴스",
       "publishedAt": "2026-09-04T13:04:51.000Z",
-      "rank": 2
-    },
-    {
-      "id": "dfd5f27fd26e16dd",
-      "title": "가스공사, 美 API와 수소·저탄소 기술협력 강화…글로벌 표준 공동 개발 - breaknews.com",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CTWxmM0U3RzlBLWFEY3kySzIwVjR0c1pqNTFUdC1VWGZFX0ZHb1JfUGtQVGJqT1ZKQTBDemZjelNDUQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "가스공사, 美 API와 수소·저탄소 기술협력 강화…글로벌 표준 공동 개발 breaknews.com",
-      "publishedAt": "2026-09-04T08:19:27.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "9a0f52a40fb981c9",
@@ -92,42 +128,6 @@
       "source": "Google News: Digital Transformation",
       "summary": "마이크로소프트, 미키 츠사카·양 허우 아시아 공동 대표 선임 Microsoft Source",
       "publishedAt": "2026-09-04T08:07:51.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d5d1c74ea2403388",
-      "title": "원광대병원 '선도병원' 지정 - j.breaknews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXZSNi1NMFlyVGNscWZLdHBfVmYxZFJiZTVQYTROTDZaQnJNeXo1ajA3VVlReTY0N2tVVEhEazg5Zk9Sc0pFS0tUS2hfODB2ek9sNkJkellGS1ZJLXZmSVZBX2pnb2NROUdNMl9CdnFfUEE3b21iWG51alpOWEpBeXJ4RExKaEFuTGVNaUNWVnFvaUJsekxMaGhud2ZXMGFONldYSmE2Rk0?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "원광대병원 '선도병원' 지정 j.breaknews.com",
-      "publishedAt": "2026-09-04T07:05:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "019ef2ba8a4bd3df",
-      "title": "인터넷 매체 오너(社主)인 필자가 왜 자랑질?...“AI시대 힘(力)있는 매체” - breaknews.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNYzMzelctelBJYVp2bzBJTFJSZktOQ0E4eE9UeHFRbXhRc2FsbHg2QlQtaGhfb0lLbDhEY1Rxd0JFVmtOdnZPSg?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "인터넷 매체 오너(社主)인 필자가 왜 자랑질?...“AI시대 힘(力)있는 매체” breaknews.com",
-      "publishedAt": "2026-09-04T05:21:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "5b7e4ddc144bbdc9",
-      "title": "충북테크노파크, 이차전지 공인 시험 인프라 연계 현장 밀착형 실무 실습교육 진행 - breaknews.com",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbE5fRTBlZ0ZNd1g2cXZyVlh4SldvRFV2S3FQVll1QVdVanhvSjR4cmZUWDJOREoxTFJYc0VZd0FGZw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "충북테크노파크, 이차전지 공인 시험 인프라 연계 현장 밀착형 실무 실습교육 진행 breaknews.com",
-      "publishedAt": "2026-09-04T05:04:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "2f4467c105b1cae6",
-      "title": "Tajikistan Accelerates Push for Artificial Intelligence Development - 서울시티",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WUdjVUlCbHlMX0gyVjNkdHJPTHc4bzh4S3F3OGpQX2czVDdKZHdjQWVzZFloc2dKR1BBejJsN1Z6ZXE2MTVGWjZKZ2NaOUIwa1BqSTVhc29lellTcDJ0UVh5VG9oUXl6QmhQNXpEUQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Tajikistan Accelerates Push for Artificial Intelligence Development 서울시티",
-      "publishedAt": "2026-09-04T01:07:35.000Z",
       "rank": 8
     }
   ],
@@ -151,57 +151,57 @@
       "viewCount": 0
     },
     {
-      "id": "b2fb842ca93820aa",
-      "title": "Use ChatGPT Work to analyze ad performance and refine creative",
-      "url": "https://www.youtube.com/watch?v=5iu0nY9lIy8",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/5iu0nY9lIy8/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:29:12.000Z",
+      "id": "bc638dece57583fc",
+      "title": "Celebrating one billion Gemma downloads",
+      "url": "https://www.youtube.com/watch?v=CBzLIKfWpdg",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/CBzLIKfWpdg/hqdefault.jpg",
+      "publishedAt": "2026-09-04T19:00:35.000Z",
       "viewCount": 0
     },
     {
-      "id": "f7561962ae35c84d",
-      "title": "Use ChatGPT Work to build custom creative tools",
-      "url": "https://www.youtube.com/watch?v=D-QteDHdHes",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/D-QteDHdHes/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:27:16.000Z",
+      "id": "1f540c1691544605",
+      "title": "Apple Kicks Off Ternus Era With Record Product Pipeline",
+      "url": "https://www.youtube.com/watch?v=p58vK2bbops",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/p58vK2bbops/hqdefault.jpg",
+      "publishedAt": "2026-09-04T18:12:06.000Z",
       "viewCount": 0
     },
     {
-      "id": "c3e25050df1124fb",
-      "title": "Use ChatGPT Images to explore campaign concepts",
-      "url": "https://www.youtube.com/watch?v=Ez-anO32D_s",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Ez-anO32D_s/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:25:30.000Z",
+      "id": "f226eebef0216add",
+      "title": "Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026",
+      "url": "https://www.youtube.com/watch?v=exHSbLPdlL4",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/exHSbLPdlL4/hqdefault.jpg",
+      "publishedAt": "2026-09-04T18:09:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "05ade9af6e2536c0",
-      "title": "Use ChatGPT Work to create campaign emails",
-      "url": "https://www.youtube.com/watch?v=N-MJ1W8Vj9E",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/N-MJ1W8Vj9E/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:23:37.000Z",
+      "id": "cadd8c514b0a5c06",
+      "title": "OpenAI Rolls Out Its Most Advanced Model Yet",
+      "url": "https://www.youtube.com/watch?v=IeFyOb5m3lw",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/IeFyOb5m3lw/hqdefault.jpg",
+      "publishedAt": "2026-09-04T18:08:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "4ac1d58d88389186",
-      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
-      "url": "https://www.youtube.com/watch?v=HHt8CPJRviA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/HHt8CPJRviA/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:21:56.000Z",
+      "id": "5b66ef9a54832f84",
+      "title": "How AI Is Eroding the First Rung of the Tech Job Ladder",
+      "url": "https://www.youtube.com/watch?v=0yWr-L1CecE",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/0yWr-L1CecE/hqdefault.jpg",
+      "publishedAt": "2026-09-04T18:07:28.000Z",
       "viewCount": 0
     },
     {
-      "id": "45afb627c241e7b0",
-      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
-      "url": "https://www.youtube.com/watch?v=NSqlZ1L81nQ",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/NSqlZ1L81nQ/hqdefault.jpg",
-      "publishedAt": "2026-09-04T12:20:19.000Z",
+      "id": "71b58e357c540c59",
+      "title": "Anthropic’s $15 Billion Credit Line Sets Stage for IPO",
+      "url": "https://www.youtube.com/watch?v=RjzEMBei1lk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/RjzEMBei1lk/hqdefault.jpg",
+      "publishedAt": "2026-09-04T18:05:09.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-04T03:14:51.000Z"
+      "updatedAt": "2026-09-05T03:17:11.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
