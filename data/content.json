@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-06T03:12:45.214Z",
-  "projectsCheckedAt": "2026-09-06T03:12:45.214Z",
-  "projectsUpdatedAt": "2026-09-06T03:12:45.214Z",
+  "updatedAt": "2026-09-07T03:10:49.035Z",
+  "projectsCheckedAt": "2026-09-07T03:10:49.035Z",
+  "projectsUpdatedAt": "2026-09-07T03:10:49.035Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-06T03:12:45.214Z",
+    "checkedAt": "2026-09-07T03:10:49.035Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "1bd7e3d095d7d01a",
+      "title": "씽크포비엘, 스위스 CERTX와 AI 평가·인증 공동사업 추진 - 더에이아이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SmJ0eEdLUU54VWpjU3VDMFlLTXE1aUtabG16VU9zbzRoYUJSMDJZUDBReVJvYnY5Q1FUV1hTX0NGWmlrY2pzbktwVTNleFllempnWUpleHAxR1ZOWmtEV2hHNEktdmxvTDNJ?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "씽크포비엘, 스위스 CERTX와 AI 평가·인증 공동사업 추진 더에이아이",
+      "publishedAt": "2026-09-07T00:57:34.000Z",
+      "rank": 1
+    },
+    {
+      "id": "5cde044ac379800a",
+      "title": "골든어스, 엔지니어 전문지식을 AI 공정으로 표준화…데이터 통합 개발 체계 혁신 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SVg1akh5WEw1Z3BIYTVFa1p3SGdMemRNZWRaZ0dDbGZFOUd1Yy1Rb3FNaW5HazI4cldoTlR3ZzYzZUtyMXFOeWUzMlVGZGdBVHg1c2JudnJpNWtZcmE3U2ZMWjNPN2cx?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "골든어스, 엔지니어 전문지식을 AI 공정으로 표준화…데이터 통합 개발 체계 혁신 테크월드",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "eb2ccc0f88a71659",
+      "title": "사람이 만들던 약, AI·로봇이 만든다… 대형사 전유물 ‘자동화 공장’ 제약業 확산 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NGVPb2loc19UQXEtSGtKX2FiNmU4RkdmNmpTdnVfb0taM0hqbFlDY0sxWGMtY1c2bHFCeDZyNDV1aXNERUdPaTdaYndTMktfNEJ0UnJ4MVpUR08yNXRzZjdJWXhZVzg0RVNtczNxV01WMmhm0gF0QVVfeXFMT3Y0ZU9vaWhzX1RBcS1Ia0pfYWI2ZThGR2Y2alN2dV9vS1ozSGpsWUNjSzFYYy1jVzZscUJ4NnI0NXVpc0RFR09pN1pid1MyS180QnRScngxWlRHTzI1dHNmN0lZeFlXODRFU21zM3FXTVYyaGY?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "사람이 만들던 약, AI·로봇이 만든다… 대형사 전유물 ‘자동화 공장’ 제약業 확산 IT조선",
+      "publishedAt": "2026-09-06T21:39:54.000Z",
+      "rank": 3
+    },
+    {
+      "id": "b4b86d9c1099a696",
+      "title": "[RAPTOR AI] ③ From AACR to ASCO… Precision of RAPTOR AI Proven by Pancreatic Cancer Drug 'OC212e' - 아이알팜",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WEt4MWdMRExXT1Q0bHJ1ZnNRbm1PaDQ3YXBFSldZY0wwWG5jVl9LR0cza0h6UjNaTTAyOUdwaUtoeDk2OHpFalVvSmFoM3p5MW9mc3JMQlNiVndhckNHQ3c5YWtiS3c?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "[RAPTOR AI] ③ From AACR to ASCO… Precision of RAPTOR AI Proven by Pancreatic Cancer Drug 'OC212e' 아이알팜",
+      "publishedAt": "2026-09-06T21:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "0a1fe4c84e1af1ba",
+      "title": "규제 바뀌면 AI가 품질문서 대조…메가존클라우드, 한미약품 ‘Q-Agent’ 구축 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcUNQVHhWMER3X1h6OTBNUDRILVFlTkt1NXVrd3U3ZG16WTVpY3R4S0pUcXdhcFp1YXItVFBhVUFNQ21TZHU3bHNtWmp2OWc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "규제 바뀌면 AI가 품질문서 대조…메가존클라우드, 한미약품 ‘Q-Agent’ 구축 벤처스퀘어",
+      "publishedAt": "2026-09-06T16:16:30.000Z",
+      "rank": 5
+    },
     {
       "id": "185e16065fc5c1ac",
       "title": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" - 매일일보",
@@ -65,7 +110,7 @@
       "source": "Google News: AI standardization",
       "summary": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" 매일일보",
       "publishedAt": "2026-09-06T03:00:00.000Z",
-      "rank": 1
+      "rank": 6
     },
     {
       "id": "acfedd954ea7b0ac",
@@ -74,64 +119,28 @@
       "source": "Google News: data quality standard",
       "summary": "LGU+, 모듈러 데이터센터 표준모델 개발…AIDC 구축 속도 높인다 뉴스1",
       "publishedAt": "2026-09-06T01:02:07.000Z",
-      "rank": 2
-    },
-    {
-      "id": "bb46c0645d89be61",
-      "title": "ABH Unveils Safety Management AI 'SafeVision-X' at WAVE 2026... \"Enhancing On-site Safety\" - 에이빙",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dG9CTThqT3MycGdPcFR4aFJBVTNjQlBncFNfNGgzT2pjYUZjSV9fLWNTNTQ3SWFHdkJLaEpCWXIwcFNlY3RLUzZ6OEJZMjZUNVlGZEFneUhVdXBUM0paNjRZeld3aDQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "ABH Unveils Safety Management AI 'SafeVision-X' at WAVE 2026... \"Enhancing On-site Safety\" 에이빙",
-      "publishedAt": "2026-09-05T12:46:05.000Z",
-      "rank": 3
-    },
-    {
-      "id": "9a30c76a27e14f90",
-      "title": "[헬로즈업] 로봇이 스스로 움직이는 공장…그 뒤엔 ‘5G 특화망’이 있다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zdXB6ZTFEbXVDa2dZeV85ZGdzSDNEbkxVWlJIY0wzUkh1ZEFSbVYzNUZ3LWE0YWlRS1VtQ2ZHLU03OFIwRE1QXzBQUWZ4ZFNINjFNSk0wOVd1R05aN1Fn?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[헬로즈업] 로봇이 스스로 움직이는 공장…그 뒤엔 ‘5G 특화망’이 있다 헬로티",
-      "publishedAt": "2026-09-05T10:57:02.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d993122bab67da82",
-      "title": "kbo 수도권 불법 도박 디자인 분야 자산 배분의 고급 기술와 혁신 - Histoire pour tous",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmo4SVFScEpmZ1piM3BvejhNMlpLUDczOUs1aVpOSG5iOXdSTGl4THJ1cmstY1RzUEpIMXVNa1JrMk1XSFduQUNjYWt2YkhCZ1lyWk42NUNOQUlYUVFIa1R5b2xXZGhldm84YnBrUXNhWlBteHFaeW5XS0VlUjNFbHVtcFMyZ25NY0RxUGpOMDA2MlFjVm1paEJaM3VmRm0wSWVfdWJibjl4SWQtSFVvaEw4cW8wZHpRRzVmeFhqUjhaZXVuY1dUckxaSV8yV1psQzlDc1Nmb2x6UXJ2cllCdjFZZTU3MXA5cThYVEd0SWd3LWFHazV5ZG1oVQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "kbo 수도권 불법 도박 디자인 분야 자산 배분의 고급 기술와 혁신 Histoire pour tous",
-      "publishedAt": "2026-09-05T02:52:08.000Z",
-      "rank": 5
-    },
-    {
-      "id": "1f3bcd7d806b0d23",
-      "title": "부산항 안전혁신, AI부터 작업 표준화까지 세계로 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jd1RRMmdlZ3ZSNkpOUnZEdHY4SzJ2MW43bjN0N0RLZnV1N3Q3SUg5SVZhNVoycmlpQzYzUXlUX3ItbmlQVHp0Mk0zRFhlamcyZVlLUTdmeVRSY1pQOTZNajE5WWhDakxabmxqdGxEU1k2UQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "부산항 안전혁신, AI부터 작업 표준화까지 세계로 인더스트리뉴스",
-      "publishedAt": "2026-09-05T01:18:54.000Z",
-      "rank": 6
-    },
-    {
-      "id": "6a61fd0ec1f3df15",
-      "title": "평화이즈, 26년 보건의료표준화 선도 의료기관 확산사업 참여 - 메드월드뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUzJOandjNkd3LXItVkNIZTBjQ0tpQTlSZzIyVTlxVlU3dWhJMVpncVV6dXBrNEdINVFWM1lHY3NFSWt3NlMwMFdvXzBCbVl5c3h6TU9xUG51b0dKWFpfWjAwRWRtRWc?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "평화이즈, 26년 보건의료표준화 선도 의료기관 확산사업 참여 메드월드뉴스",
-      "publishedAt": "2026-09-04T13:04:51.000Z",
       "rank": 7
     },
     {
-      "id": "9a0f52a40fb981c9",
-      "title": "마이크로소프트, 미키 츠사카·양 허우 아시아 공동 대표 선임 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTmdLcXdmZ1RYbnFsUkVIM1FaT3luZ2oyVlpkWktFb0FrS0tCUjhSMWJtTjJxbWFfb08tVGRxT1VOZEtQNzdZYXFIbnBGNzBNN1NKX1NFMUg1aUtkSDRSTEh1Z2l0QmRzeTRwVklybUlTOHBWMFlydU12NEtzaVNfcVh6RnJUdmRPdkRocFNCLS1BazZxYk9EelRFcmFXU1dmall4Uk01bUtjcGhCb2NBdzRuYjA0TnpXR04zdHFHTWNUOHRVUm92QmxLVVBONDJQR3dVYWZkNXZhQWE4UTYxcTBDQlVqQ0ZOeTFpQzlWNUFSVkdHdXpIRklaXy1BdTRyLXBjT1poZm1BTktSNVBFR0hMZnZIcXZmbG5nR3J1NVpBQ2Z5N1RtRnU1TFhfdjc5UnZ3eXNSVVk4T2ZldzBTd0dRRWV6ZXFlUEd3aFE4R2Q?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트, 미키 츠사카·양 허우 아시아 공동 대표 선임 Microsoft Source",
-      "publishedAt": "2026-09-04T08:07:51.000Z",
+      "id": "b2337e8fe437ca6f",
+      "title": "[심층진단] AI 데이터센터, 이제는 ‘속도’가 경쟁력…LG유플러스, 100MW 모듈러 표준화 승부수 - 뉴스밸류",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SVEl1NW4yRVU5V2w2S1hGOExhalE3eXBjUVNBRFZ2TW1wd2p6ZVZRT3F6dEJwTE1rdUtVMnplaHMtalNrQ1U1VmVMdldPdnlRdExsTFM2NkloNnRrengzQlp5QWxRQlBUY1E?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[심층진단] AI 데이터센터, 이제는 ‘속도’가 경쟁력…LG유플러스, 100MW 모듈러 표준화 승부수 뉴스밸류",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
+    {
+      "id": "1438df386a8945fa",
+      "title": "GPT-6 Astra with Peter Gostev",
+      "url": "https://www.youtube.com/watch?v=A4BUbpKdenc",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/A4BUbpKdenc/hqdefault.jpg",
+      "publishedAt": "2026-09-06T17:53:59.000Z",
+      "viewCount": 0
+    },
     {
       "id": "250d316ae672e3c5",
       "title": "GPT-6 Astra with Ben Davis",
@@ -194,15 +203,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0yWr-L1CecE/hqdefault.jpg",
       "publishedAt": "2026-09-04T18:07:28.000Z",
       "viewCount": 0
-    },
-    {
-      "id": "71b58e357c540c59",
-      "title": "Anthropic’s $15 Billion Credit Line Sets Stage for IPO",
-      "url": "https://www.youtube.com/watch?v=RjzEMBei1lk",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/RjzEMBei1lk/hqdefault.jpg",
-      "publishedAt": "2026-09-04T18:05:09.000Z",
-      "viewCount": 0
     }
   ],
   "photos": [
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-05T03:17:11.000Z"
+      "updatedAt": "2026-09-06T03:16:49.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
