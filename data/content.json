@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-07T03:10:49.035Z",
-  "projectsCheckedAt": "2026-09-07T03:10:49.035Z",
-  "projectsUpdatedAt": "2026-09-07T03:10:49.035Z",
+  "updatedAt": "2026-09-08T03:19:07.576Z",
+  "projectsCheckedAt": "2026-09-08T03:19:07.576Z",
+  "projectsUpdatedAt": "2026-09-08T03:19:07.576Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-07T03:10:49.035Z",
+    "checkedAt": "2026-09-08T03:19:07.576Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "1bd7e3d095d7d01a",
-      "title": "씽크포비엘, 스위스 CERTX와 AI 평가·인증 공동사업 추진 - 더에이아이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1SmJ0eEdLUU54VWpjU3VDMFlLTXE1aUtabG16VU9zbzRoYUJSMDJZUDBReVJvYnY5Q1FUV1hTX0NGWmlrY2pzbktwVTNleFllempnWUpleHAxR1ZOWmtEV2hHNEktdmxvTDNJ?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "씽크포비엘, 스위스 CERTX와 AI 평가·인증 공동사업 추진 더에이아이",
-      "publishedAt": "2026-09-07T00:57:34.000Z",
+      "id": "619b012ccfc14453",
+      "title": "[뉴스 속 경제용어] 기업들이 외치는 'AX'…DX와는 무엇이 다를까 - polinews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qdjFpMVZTQkRrd2FEcW8tLXlhWG5EZWFYR29sUFZESl9LTGlOdmdkYk50dWZnWVVObzhmUi1QZ1ZXYW5EM1JnSFRuVlc0Q05tWXlaSy1PdHJDWlA1Sk12a0lQWFVHdjRQX0xkVTF30gFyQVVfeXFMTjZRVjlndnhNWVZjaGtyeTZGZlVrRHhxVVFzS3hxS2s3QU1qX1R3S1l3Q3NMZld0MzlobzhsZFJkRFBCUDhGcllvd1hRZzZLc0lBNENNS3hHa05HMWV4cGVDQXZ2ejg4OXVYNWE2VEJnTkV3?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[뉴스 속 경제용어] 기업들이 외치는 'AX'…DX와는 무엇이 다를까 polinews.co.kr",
+      "publishedAt": "2026-09-08T00:15:00.000Z",
       "rank": 1
     },
     {
-      "id": "5cde044ac379800a",
-      "title": "골든어스, 엔지니어 전문지식을 AI 공정으로 표준화…데이터 통합 개발 체계 혁신 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SVg1akh5WEw1Z3BIYTVFa1p3SGdMemRNZWRaZ0dDbGZFOUd1Yy1Rb3FNaW5HazI4cldoTlR3ZzYzZUtyMXFOeWUzMlVGZGdBVHg1c2JudnJpNWtZcmE3U2ZMWjNPN2cx?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "골든어스, 엔지니어 전문지식을 AI 공정으로 표준화…데이터 통합 개발 체계 혁신 테크월드",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "id": "b11aea6a20477c8d",
+      "title": "“AI 데이터센터 보안, 설계 단계부터 내재화해야” - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLW5CMmVleExlV0VJUnBQSTRUazFrdzIyN3BPVmpYTlQ4RW1CSExPV05xbC1FYlhERVp0Z2xwYldaMkZDM05qLVJoem9xcDE5NE1KUE96eWJWWHFBQlowLTNZMjQ5TzVxTmduTE8tQ1ZWeW940gF0QVVfeXFMTk4tbkIyZWV4TGVXRUlScFBJNFRrMWt3MjI3cE9WalhOVDhFbUJITE9XTnFsLUViWERFWnRnbHBiV1oyRkMzTmotUmh6b3FwMTk0TUpQT3p5YlZYcUFCWjAtM1kyNDlPNXFOZ25MTy1DVlZ5b3g?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "“AI 데이터센터 보안, 설계 단계부터 내재화해야” IT조선",
+      "publishedAt": "2026-09-07T22:00:29.000Z",
       "rank": 2
     },
     {
-      "id": "eb2ccc0f88a71659",
-      "title": "사람이 만들던 약, AI·로봇이 만든다… 대형사 전유물 ‘자동화 공장’ 제약業 확산 - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NGVPb2loc19UQXEtSGtKX2FiNmU4RkdmNmpTdnVfb0taM0hqbFlDY0sxWGMtY1c2bHFCeDZyNDV1aXNERUdPaTdaYndTMktfNEJ0UnJ4MVpUR08yNXRzZjdJWXhZVzg0RVNtczNxV01WMmhm0gF0QVVfeXFMT3Y0ZU9vaWhzX1RBcS1Ia0pfYWI2ZThGR2Y2alN2dV9vS1ozSGpsWUNjSzFYYy1jVzZscUJ4NnI0NXVpc0RFR09pN1pid1MyS180QnRScngxWlRHTzI1dHNmN0lZeFlXODRFU21zM3FXTVYyaGY?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "사람이 만들던 약, AI·로봇이 만든다… 대형사 전유물 ‘자동화 공장’ 제약業 확산 IT조선",
-      "publishedAt": "2026-09-06T21:39:54.000Z",
+      "id": "730c6746739655d0",
+      "title": "삼진제약, 무난한 실적 속 '판매·R&D 전략 재편' - 메디칼업저버",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxaUlLWUNTT0RqWjlnWGtxUlFxb3piU3JGX3hYdUQ2dFRVcEVYSDd4TFkyZURLbUdVcmZJazFXeGFYX2xsZTBMY2c4Yzl1WDctY2xmdGg4akZLOXN6clBQanpKRkdYVjlOUWRF?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "삼진제약, 무난한 실적 속 '판매·R&D 전략 재편' 메디칼업저버",
+      "publishedAt": "2026-09-07T20:55:44.000Z",
       "rank": 3
     },
     {
-      "id": "b4b86d9c1099a696",
-      "title": "[RAPTOR AI] ③ From AACR to ASCO… Precision of RAPTOR AI Proven by Pancreatic Cancer Drug 'OC212e' - 아이알팜",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WEt4MWdMRExXT1Q0bHJ1ZnNRbm1PaDQ3YXBFSldZY0wwWG5jVl9LR0cza0h6UjNaTTAyOUdwaUtoeDk2OHpFalVvSmFoM3p5MW9mc3JMQlNiVndhckNHQ3c5YWtiS3c?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "[RAPTOR AI] ③ From AACR to ASCO… Precision of RAPTOR AI Proven by Pancreatic Cancer Drug 'OC212e' 아이알팜",
-      "publishedAt": "2026-09-06T21:00:00.000Z",
+      "id": "84c5d417893ad379",
+      "title": "중국 슬램덩크 모바일 전문가들이 알려주는 핵심 노하우 - 전문가의 관점에서 - Histoire pour tous",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHhaVkhfbkFTVUlPZnFZZFNLLTREWHZyN2VUMVY5QnB3VE9taWUta2dib18yVmdKY1Rsc1RvSWZBMU9BR1JlRkl3NjdqOF9oNC1zV1prdk9VS2VKM0dXUE5xUzcxbGw0NUFaTFVEdktNZzllS2VNMFBHVUx1OFRsYmozdlphMlgtOHVjUUpUZjBldw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "중국 슬램덩크 모바일 전문가들이 알려주는 핵심 노하우 - 전문가의 관점에서 Histoire pour tous",
+      "publishedAt": "2026-09-07T16:14:28.000Z",
       "rank": 4
     },
     {
-      "id": "0a1fe4c84e1af1ba",
-      "title": "규제 바뀌면 AI가 품질문서 대조…메가존클라우드, 한미약품 ‘Q-Agent’ 구축 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcUNQVHhWMER3X1h6OTBNUDRILVFlTkt1NXVrd3U3ZG16WTVpY3R4S0pUcXdhcFp1YXItVFBhVUFNQ21TZHU3bHNtWmp2OWc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "규제 바뀌면 AI가 품질문서 대조…메가존클라우드, 한미약품 ‘Q-Agent’ 구축 벤처스퀘어",
-      "publishedAt": "2026-09-06T16:16:30.000Z",
+      "id": "02a3918542298b1c",
+      "title": "'역대 최대' R&D 예산, 과학계 반응은?\"연구자 스스로 '어떤 기술·사람' 남길지 고민할 때\" - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DWElIaDNfdnlyV1hRRHFLcXo0aFNMdzlmcXktWTlmLTNkM1NUbkFzSFNueVdaS2xYdThoZ0ZvZGI1NkQtZEhLdUlsV1E0ZkVDTUE3Nl9fSXpkX25DYncxTV92WXV2N2pWZWc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "'역대 최대' R&D 예산, 과학계 반응은?\"연구자 스스로 '어떤 기술·사람' 남길지 고민할 때\" 헬로디디",
+      "publishedAt": "2026-09-07T09:00:00.000Z",
       "rank": 5
     },
     {
-      "id": "185e16065fc5c1ac",
-      "title": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PUVh2MVQ3b2RIVWVxa0d0ZHJnUjlKVjd0Q1B2RG9zRzRYQ0djaHBsVzEyRDFWcmJGcE5EVEx0WnNRYkJCSGtzSFhKNm5rOEk4WU10cVlpdUhBTUR4Qzd2YUtRalg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "中企 제조AI, 데이터 없이는 헛바퀴…\"업종 단위 표준화 시급\" 매일일보",
-      "publishedAt": "2026-09-06T03:00:00.000Z",
+      "id": "d1838e4771e2b08a",
+      "title": "[산업AI EXPO 프리뷰] 제조 AI ⑦ | 모비스 ‘로컬 AI 혁신 제조식’ 공개한다...보고서 작성부터 결과 보고까지 ‘한큐에’ - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ubU5maGcxSkRINXJZWHhhOVl4d0xXRmlKX001WTJsbWFlZG42WTU3NVZMTklwb1plWDROcUtwV3JtWW5mZHR4dUNDcHJMY0R5Zjh1ZFlEVGVscjdTUjln?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[산업AI EXPO 프리뷰] 제조 AI ⑦ | 모비스 ‘로컬 AI 혁신 제조식’ 공개한다...보고서 작성부터 결과 보고까지 ‘한큐에’ 헬로티",
+      "publishedAt": "2026-09-07T07:32:04.000Z",
       "rank": 6
     },
     {
-      "id": "acfedd954ea7b0ac",
-      "title": "LGU+, 모듈러 데이터센터 표준모델 개발…AIDC 구축 속도 높인다 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa1JYRElfbXc5MW9mLWFTTzRUSXg1dXJhRVdfZVp1aGFrQ3hiWUY3T1FCNV9xSGUwLXVSQnNQb1pyS01yLWFWamZiZjBOS0VwSEdrX0xfMnE1aUxVendtVdIBZkFVX3lxTFBsbEgtdFJwOV9sUGpGd0ZEeDQ5V0lVVkwtSkE4VGZrWVBrN1NBS3dtVWF4bVU3M25XWDE0TmpyN0tRYU5sMEZzd01TMXM2NTNFYUZ3WWdMYkNQaEllMWt6alNLa21SQQ?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "LGU+, 모듈러 데이터센터 표준모델 개발…AIDC 구축 속도 높인다 뉴스1",
-      "publishedAt": "2026-09-06T01:02:07.000Z",
+      "id": "2779c1bca3850455",
+      "title": "미국 AI 기반 치매 조기진단 기술 개발 동향 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tS3Q1SnVoenZLMzRta0NEUS0xR1NJaEtqS0Y1RnppY3UxdFN4MVB0VFpHZ0cxbWpmNEFZeFQyVThpMlVZOG5WNg?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "미국 AI 기반 치매 조기진단 기술 개발 동향 브런치",
+      "publishedAt": "2026-09-07T06:00:06.000Z",
       "rank": 7
     },
     {
-      "id": "b2337e8fe437ca6f",
-      "title": "[심층진단] AI 데이터센터, 이제는 ‘속도’가 경쟁력…LG유플러스, 100MW 모듈러 표준화 승부수 - 뉴스밸류",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SVEl1NW4yRVU5V2w2S1hGOExhalE3eXBjUVNBRFZ2TW1wd2p6ZVZRT3F6dEJwTE1rdUtVMnplaHMtalNrQ1U1VmVMdldPdnlRdExsTFM2NkloNnRrengzQlp5QWxRQlBUY1E?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[심층진단] AI 데이터센터, 이제는 ‘속도’가 경쟁력…LG유플러스, 100MW 모듈러 표준화 승부수 뉴스밸류",
-      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "id": "f6ea95a1102d080b",
+      "title": "\"AI가 공부할 데이터, 고갈되나\"…불붙는 데이터 확보전 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xVmJ2YTBVRFFvWGJpa1g2SGszeExNVE9xSmotbGJ6Y2ZrRU9VRUdPN08zc0R0UTRUTDFtOFBBR0FRVnVMdWpaY3hNakNmN1NxZVYtRWJOeTdsa2pqQmxkTNIBZkFVX3lxTE9nNXhkV2hCX0JCWDFNQjlEbTVGc2xvZGpyeGE2T3pVT0daY0U5SnhmZi10a3c0TmY0MFh0VXdpalZGd24zUmhVX29JVWQtdWVnX1AyX0szeUlfQjV2dko4Q3BtQW9uZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"AI가 공부할 데이터, 고갈되나\"…불붙는 데이터 확보전 뉴스1",
+      "publishedAt": "2026-09-07T05:48:03.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-06T03:16:49.000Z"
+      "updatedAt": "2026-09-07T03:14:53.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
