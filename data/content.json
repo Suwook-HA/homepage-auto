@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-10T03:21:10.728Z",
-  "projectsCheckedAt": "2026-09-10T03:21:10.728Z",
-  "projectsUpdatedAt": "2026-09-10T03:21:10.728Z",
+  "updatedAt": "2026-09-11T03:17:10.208Z",
+  "projectsCheckedAt": "2026-09-11T03:17:10.208Z",
+  "projectsUpdatedAt": "2026-09-11T03:17:10.208Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-10T03:21:10.728Z",
+    "checkedAt": "2026-09-11T03:17:10.208Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "22d269aa2a0be24d",
+      "title": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8teVpUQ3F5RXhFYkhNUVpzZlUwRUhGTkhHUGFfTWZkMDFuN2lMZFB6WWROeXVIVGVqbjl2TnZ6Nms3ekhGSDZlUGFodkx2a1dsXzVsdHFGNG0zS2c0SUw1QjZFcnl4VGJL0gFsQVVfeXFMUDRGM3VnT244dDlhZWU5OG1uRWlsVTNKVFFxZXF3Vm9FVnVraTkteERIYk1ZLVl0SGtOUzlmem81dTBwWU9LdmJUZ2NyTFB6a2tHMjN3dEs4Zkp5OEJ4VzJZd1VjRm1pU1RXM3M3?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] 정보통신신문",
+      "publishedAt": "2026-09-10T05:03:53.000Z",
+      "rank": 1
+    },
+    {
+      "id": "041e83c0d8fcbc44",
+      "title": "AI 지원형(AI-assisted) 경영진 사칭 및 송장 사기로부터 조직 보호 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObktFc3B1UGpiLW1UYjRlSGdTQzlhSUJsQ2lFSlNiQlB1OHV2dUtOV2FQeElVUEdjaklHN25menkyREpZbF94V0pwODlnQ2VKakFJSHRPeU9mMEJ3Vlk3b3ZmOHdHTWNqeTJrRWV4Nm1id2JzTDYtektjb21lMEx2bWc4YVVNeHRrWDVZeWlBbjFhNjNBRUVQdEJxdThoR2RuX3JxWHJKX2FsZXV0REd5NmQxNWRfa0pSczd6OUhsY3g4TW9xcXlIbGxMNkVPekJidmFHa0lnWUtBSlRJeHVNWmVaVG5IRVZieXpodlhNa252RG5zUWdyWWQ4VVcxMENaT2tlRy1YZDBVZ2xJUXN3V0pzUjFWTWsxT1FpZzV4aWJjVHNkVHdoOEdvNmtiQUdoZzB2WlV1YmRURUJjZVk0VzhSUFk?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "AI 지원형(AI-assisted) 경영진 사칭 및 송장 사기로부터 조직 보호 Microsoft Source",
+      "publishedAt": "2026-09-11T02:52:11.000Z",
+      "rank": 2
+    },
+    {
+      "id": "f02cb620d4902d41",
+      "title": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안 - 해사신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53M0U3M09sTkMxUkpZdXBfNV9VeDVKXzVId0N0M0lhcS1WQXhWM3hibUJjYnBzWU5saEgyb2pobDZKd2RzVWphRkROLUxXeVNGeFRpb25nNGlPS1ZrX1Z6SGxoMTRfMUNkWUFr?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안 해사신문",
+      "publishedAt": "2026-09-11T00:05:39.000Z",
+      "rank": 3
+    },
+    {
+      "id": "1d4c306b0ae386c5",
+      "title": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZvQ0JycmRicUVObjFLZTZPWlJMMnVnUnlXWlkySWtZRXlHMDEtUHZxbVVPVGRpWm5CN0h6WGhlYzRiMUdkQV81ZW51SGM3cmp3SW5ET3d0dFhaSGtwRFdVUTZydVoyV2dmMm5zRmZWRElHallqc3VZWUZ2SG0tMm9TTXhPVHN4bXkwWFdEVkRLak9tclBMd1FhbjJEalQ0Tkl1ZA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents TIKR.com",
+      "publishedAt": "2026-09-10T14:08:23.000Z",
+      "rank": 4
+    },
+    {
+      "id": "e71b5f87b2211d11",
+      "title": "'없는 전장'까지 만들어 훈련한다…軍, AI로 야간·악천후·적 장비 학습 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tOS05V2EzbEN0YWFZZU9mcVFzWmRNamxPd0hsME1zajdvNmtESFVrRlMwNERqVnhsZkhMak10MkJmalAxWF8zY1d3V1Q0cFN6NFp3SVdVT0JIeS12NFZUSGlGSFQxd3PSAWxBVV95cUxPZnhXWFJJQjBhQVhYUlV1ZkFEUkVfX2xKTDV3bGJJSHlUTVU1N3dSUDAzR2dXcVo4Y19oTmhPbXVWMF9XY3RCTmh6dl9kM3JhbkhNbXIySHFBMXVCV2NmbEdyYldtZnNsY3RfVkU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "'없는 전장'까지 만들어 훈련한다…軍, AI로 야간·악천후·적 장비 학습 뉴스1",
+      "publishedAt": "2026-09-10T21:00:00.000Z",
+      "rank": 5
+    },
     {
       "id": "4c691c01c22694b5",
       "title": "최대호 안양시장, UN-ITU 초청 AI 포럼 특별 기조연설 “첨단기술로 도시 경쟁력 높일 것” - 산경일보",
@@ -65,69 +110,24 @@
       "source": "Google News: ITU-T standardization",
       "summary": "최대호 안양시장, UN-ITU 초청 AI 포럼 특별 기조연설 “첨단기술로 도시 경쟁력 높일 것” 산경일보",
       "publishedAt": "2026-09-10T01:37:13.000Z",
-      "rank": 1
-    },
-    {
-      "id": "2c280dd90a4ead8a",
-      "title": "머큐리, 美 공공 인프라 넘어 AI 데이터센터 정조준 \"광통신 공급 확대\" - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84eENLUnE4V2lUUmlIZWlSUHJkQTZNWHBXaWtFOURVRXpXMzhDSmN3VEladGNYZHpWZm00N1ZGWFdKMkdvUkV3TkhLRVZSZlEzYWpOQmFfSi1JeG5uOXFqWTQyN3QzZ1otWmt4UFBB0gFuQVVfeXFMTzh4Q0tScThXaVRSaUhlaVJQcmRBNk1YcFdpa0U5RFVFelczOENKY3dUSVp0Y1hkelZmbTQ3VkZYV0oyR29SRXdOSEtFVlJmUTNhak5CYV9KLUl4bm45cWpZNDI3dDNnWi1aa3hQUEE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "머큐리, 美 공공 인프라 넘어 AI 데이터센터 정조준 \"광통신 공급 확대\" - 머니투데이 머니투데이",
-      "publishedAt": "2026-09-09T23:48:38.000Z",
-      "rank": 2
-    },
-    {
-      "id": "1efd9d93ed64a003",
-      "title": "Building Trust in Used Goods Transactions Through Security Systems… Bungaejang터 Obtains ISO 27001 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fc1NBX01CWWJzbnVBbVlraWVCNUgydjJ1WHl0T3c5QmtsZmJOQXFqNFpqb2FzYXNzNlRROHNEU0RvdjhEajdSTVM0aGY1RFlMMmZj?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Building Trust in Used Goods Transactions Through Security Systems… Bungaejang터 Obtains ISO 27001 벤처스퀘어",
-      "publishedAt": "2026-09-09T05:36:38.000Z",
-      "rank": 3
-    },
-    {
-      "id": "84b8541f41342a47",
-      "title": "슈퍼컴 6호기, 12월 공식 가동…국가전략·R&D·산업 등 지원 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NbVpNQWZzZGFINnp3MU5MSTFDUFdsaFFpamR0b2NpeHJGSUVUMGdLck9yLVdFclJiRGlrWS1Pb3A4WDdDMmc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "슈퍼컴 6호기, 12월 공식 가동…국가전략·R&D·산업 등 지원 v.daum.net",
-      "publishedAt": "2026-09-09T13:05:29.000Z",
-      "rank": 4
-    },
-    {
-      "id": "00c3441c59a8af24",
-      "title": "메가존클라우드, AWS 보안 컴피턴시 획득 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrM083WjVUd05WYTRtMF9HZ1RBVldESXo5cTNFelRldnF6U0dLQmZiMzExX0Q5c3Q3MGgyR0EycWhTQ3NiQTE1dC02aUpQS0xzTGVxdENaMFNkVHFaSnBhd29uRjJEYnROa09PUtIBbEFVX3lxTFBrM083WjVUd05WYTRtMF9HZ1RBVldESXo5cTNFelRldnF6U0dLQmZiMzExX0Q5c3Q3MGgyR0EycWhTQ3NiQTE1dC02aUpQS0xzTGVxdENaMFNkVHFaSnBhd29uRjJEYnROa09PUg?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "메가존클라우드, AWS 보안 컴피턴시 획득 - 머니투데이 머니투데이",
-      "publishedAt": "2026-09-09T07:37:14.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d73fb536f99f9b53",
-      "title": "[헬로AX] 4년간 닦은 DX 위에 AI 에이전트…車 부품 기업의 제조 AX 접근법 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRHBBSkZ1WHczajhkd0huYzN0TlJpOGxiTEw3NXdFZ1B5eDZ6RXMyM25LblZZUHR6YTRfTjI1TFI2ak1lLUZzazg2SDY2S2E4QmlmRUR2YnFIYUNocmhJ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[헬로AX] 4년간 닦은 DX 위에 AI 에이전트…車 부품 기업의 제조 AX 접근법 헬로티",
-      "publishedAt": "2026-09-09T07:00:11.000Z",
       "rank": 6
     },
     {
-      "id": "177fbced3f9db7e9",
-      "title": "[금융 HOT 뉴스] 우리은행, 반도체·바이오·AX 중견기업 45개 사 키운다 - bizwnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4LVNwU1hmeWRabURqVjZ3d00zTXBxSFFvTGhMOTI4Q0FHNFBPNmFXNldHSTRZc1BRRWJWbXp0WklwLXFEejNGWFVEY05kbEJURmRpbTNQUE1KWVhyZHJiRVJId3N4S2k2MlE?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[금융 HOT 뉴스] 우리은행, 반도체·바이오·AX 중견기업 45개 사 키운다 bizwnews.com",
-      "publishedAt": "2026-09-09T03:54:00.000Z",
+      "id": "18719e956efaa249",
+      "title": "\"피지컬 AI 항만, 데이터 연계·표준화 중요\" - 한국해운신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yUUNyZHpTckxHMXg1LTFUMUpTSjBHVmE2bExsZWJZTUhXdFZFS0R1Ul9WSXRGWE1pSW9oVTV0MjFHSF9iUjFYSVM5dzlpOHVUeDFfYWNHZXdEWlk3Z2h3dHFEU1g1TVV4OG84bHZtWUtqeVE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"피지컬 AI 항만, 데이터 연계·표준화 중요\" 한국해운신문",
+      "publishedAt": "2026-09-10T08:37:52.000Z",
       "rank": 7
     },
     {
-      "id": "f395446b5734365c",
-      "title": "비투엔, 리벨리온에 투자 넘어 AI 사업 시너지 본격화 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VFV5aXhtUjdXM1dFQnhXNG5uaS1acVVrOEliV0tKNmIyVDYwOC15SXRRbHctMUVjUGRwVE93Q2pLZWloX3B5OGVGRHBrZnlNV0J1bkoxWldKVzFsQWtfcERDcDhZYWtsM0p0aTFR0gFuQVVfeXFMUHVUVXlpeG1SN1czV0VCeFc0bm5pLVpxVWs4SWJXS0o2YjJUNjA4LXlJdFFsdy0xRWNQZHBUT3dDaktlaWhfcHk4ZUZEcGtmeU1XQnVuSjFaV0pXMWxBa19wRENwOFlha2wzSnRpMVE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "비투엔, 리벨리온에 투자 넘어 AI 사업 시너지 본격화 - 머니투데이 머니투데이",
-      "publishedAt": "2026-09-09T03:20:32.000Z",
+      "id": "88127c06b5dfed25",
+      "title": "Samsung Medical Center re-certified at highest HIMSS level in U.S. for medical records and other areas - 더바이오",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jejlvdzNJMEZCZFNFei1nRV95SS13cmZNRm81YmVMWU8zZXNqZ1JOcDllRlVuZWpnRUlXQ3dYOTFaS2RodTlQM2NjS1RKSTJBQ0ZZUDBmdnBTdE9hemk1eVE5djF5NnNqWDNaVdIBcEFVX3lxTE10czRMdTF0OWNPSjhBUjQ5a2YwYkgzTXZTM0ZabGJEeUlFSGRpOU5Dc29FTTMyNFVqYlBkZzczRkZQRmswNjZQQWNJdTdCcTBkN09BNnVjUlNEQVJtUW85RzNNM0dwRGk5VVF6T0lhek0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Samsung Medical Center re-certified at highest HIMSS level in U.S. for medical records and other areas 더바이오",
+      "publishedAt": "2026-09-10T08:18:35.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-09T03:26:57.000Z"
+      "updatedAt": "2026-09-10T03:25:16.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
