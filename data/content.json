@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-11T03:17:10.208Z",
-  "projectsCheckedAt": "2026-09-11T03:17:10.208Z",
-  "projectsUpdatedAt": "2026-09-11T03:17:10.208Z",
+  "updatedAt": "2026-09-12T03:22:51.415Z",
+  "projectsCheckedAt": "2026-09-12T03:22:51.415Z",
+  "projectsUpdatedAt": "2026-09-12T03:22:51.415Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-11T03:17:10.208Z",
+    "checkedAt": "2026-09-12T03:22:51.415Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "dc5fdf75fbfaaec0",
+      "title": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0hTZTdMS3ZqLWQ3TEJwbDRDVWVoSU8zNzc2VWlsVlB3aVBzQTFtM21mR0RFWVFXSDdTVmtIeERCS0lnRnNSRFpYT2VodF8ycWptZ1ZlcVRSMy05bFRVMUtTdHp0dENJYk1Pa3hMQmR2U2tURFVnWFZ1UGhBQmpCQTV5RTNvRkdocGRQUHNCc3RsM0xIRWlvTzZ5Mm5rM0p3Z2NzcnhNYkRXTXU0UWtkTjNGb2ZUbl8zaDRv?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. Vietnam.vn",
+      "publishedAt": "2026-09-12T00:36:34.000Z",
+      "rank": 1
+    },
+    {
+      "id": "04824379c90511d7",
+      "title": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaENGX2NTelF2cFVONWtqT05BY1ZGbDBwNHhoTnJNV0djX1Zqd2VnOEg0ZjJSZUJUNzgwekowbDRvbi16eHVHY3dFTldwWHgtLWxsbkcwdHNlSVNQZVNQUFFBTEc2LVQtZHN4S1NneExoOUR1T194Nk5EblZnU2l3LVVfWjQxU2hBYW9VZnR4NWdIS3c?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents TIKR.com",
+      "publishedAt": "2026-09-11T04:08:02.000Z",
+      "rank": 2
+    },
+    {
+      "id": "23eb00491f5e152d",
+      "title": "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzZWtLYTBDOGlOa01RNXJnaFlKUmh1ZFZHUDgzUXlCXzNfemxvTWN2dnpPZ21nUjYxTUMtS0toOFUzRjczTllBMmVtQzdLQnpXbXZmWW9n?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\" 지디넷코리아",
+      "publishedAt": "2026-09-11T06:43:08.000Z",
+      "rank": 3
+    },
+    {
+      "id": "9a10b5d68500f079",
+      "title": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 - imaeil.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNlNjQWxtSkl5SlVzcm9DcU9ZbTVqMWJUd04yNl9BZFFBMThPNG45Y0kzX0Q5akx0VVhZNXBrRG1xdmpEYmEzZnlWQm40RUJ5TGstUUdGREFESGRGU2JybGxn?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 imaeil.com",
+      "publishedAt": "2026-09-11T03:26:05.000Z",
+      "rank": 4
+    },
     {
       "id": "22d269aa2a0be24d",
       "title": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] - 정보통신신문",
@@ -65,7 +101,7 @@
       "source": "Google News: ISO IEC AI",
       "summary": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] 정보통신신문",
       "publishedAt": "2026-09-10T05:03:53.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "041e83c0d8fcbc44",
@@ -74,7 +110,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "AI 지원형(AI-assisted) 경영진 사칭 및 송장 사기로부터 조직 보호 Microsoft Source",
       "publishedAt": "2026-09-11T02:52:11.000Z",
-      "rank": 2
+      "rank": 6
+    },
+    {
+      "id": "5bf00ba069461c9f",
+      "title": "LH, 독자 개발 BIM 기술 GH에 이전⋯공공부문 표준화 속도 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSTk3RXo4MlN0RFVWanVVcThkWUJGMWdNRjJFdDRYbFd0Q0tPNzFfZlFhRFh4LTEtblBOem9uUllGbXhoakRWY2FaUjlOYmYxckt4Qw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "LH, 독자 개발 BIM 기술 GH에 이전⋯공공부문 표준화 속도 이투데이",
+      "publishedAt": "2026-09-11T01:40:00.000Z",
+      "rank": 7
     },
     {
       "id": "f02cb620d4902d41",
@@ -83,51 +128,6 @@
       "source": "Google News: AI standardization",
       "summary": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안 해사신문",
       "publishedAt": "2026-09-11T00:05:39.000Z",
-      "rank": 3
-    },
-    {
-      "id": "1d4c306b0ae386c5",
-      "title": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZvQ0JycmRicUVObjFLZTZPWlJMMnVnUnlXWlkySWtZRXlHMDEtUHZxbVVPVGRpWm5CN0h6WGhlYzRiMUdkQV81ZW51SGM3cmp3SW5ET3d0dFhaSGtwRFdVUTZydVoyV2dmMm5zRmZWRElHallqc3VZWUZ2SG0tMm9TTXhPVHN4bXkwWFdEVkRLak9tclBMd1FhbjJEalQ0Tkl1ZA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents TIKR.com",
-      "publishedAt": "2026-09-10T14:08:23.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e71b5f87b2211d11",
-      "title": "'없는 전장'까지 만들어 훈련한다…軍, AI로 야간·악천후·적 장비 학습 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tOS05V2EzbEN0YWFZZU9mcVFzWmRNamxPd0hsME1zajdvNmtESFVrRlMwNERqVnhsZkhMak10MkJmalAxWF8zY1d3V1Q0cFN6NFp3SVdVT0JIeS12NFZUSGlGSFQxd3PSAWxBVV95cUxPZnhXWFJJQjBhQVhYUlV1ZkFEUkVfX2xKTDV3bGJJSHlUTVU1N3dSUDAzR2dXcVo4Y19oTmhPbXVWMF9XY3RCTmh6dl9kM3JhbkhNbXIySHFBMXVCV2NmbEdyYldtZnNsY3RfVkU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "'없는 전장'까지 만들어 훈련한다…軍, AI로 야간·악천후·적 장비 학습 뉴스1",
-      "publishedAt": "2026-09-10T21:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "4c691c01c22694b5",
-      "title": "최대호 안양시장, UN-ITU 초청 AI 포럼 특별 기조연설 “첨단기술로 도시 경쟁력 높일 것” - 산경일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fb1poR2dCdS1DMTJTQVZsM01RWEN1UVJfVkNaRTB3amVkeENuWGVJNnlWbnVuZ0tfSkdoSHZxSUs0dHkyTmRZeG1fMXFUdWM5YlNKVlBwZjVBamlJaGV2QldwTjJsd19iaVRCV0JGa0Q?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "최대호 안양시장, UN-ITU 초청 AI 포럼 특별 기조연설 “첨단기술로 도시 경쟁력 높일 것” 산경일보",
-      "publishedAt": "2026-09-10T01:37:13.000Z",
-      "rank": 6
-    },
-    {
-      "id": "18719e956efaa249",
-      "title": "\"피지컬 AI 항만, 데이터 연계·표준화 중요\" - 한국해운신문",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yUUNyZHpTckxHMXg1LTFUMUpTSjBHVmE2bExsZWJZTUhXdFZFS0R1Ul9WSXRGWE1pSW9oVTV0MjFHSF9iUjFYSVM5dzlpOHVUeDFfYWNHZXdEWlk3Z2h3dHFEU1g1TVV4OG84bHZtWUtqeVE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"피지컬 AI 항만, 데이터 연계·표준화 중요\" 한국해운신문",
-      "publishedAt": "2026-09-10T08:37:52.000Z",
-      "rank": 7
-    },
-    {
-      "id": "88127c06b5dfed25",
-      "title": "Samsung Medical Center re-certified at highest HIMSS level in U.S. for medical records and other areas - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jejlvdzNJMEZCZFNFei1nRV95SS13cmZNRm81YmVMWU8zZXNqZ1JOcDllRlVuZWpnRUlXQ3dYOTFaS2RodTlQM2NjS1RKSTJBQ0ZZUDBmdnBTdE9hemk1eVE5djF5NnNqWDNaVdIBcEFVX3lxTE10czRMdTF0OWNPSjhBUjQ5a2YwYkgzTXZTM0ZabGJEeUlFSGRpOU5Dc29FTTMyNFVqYlBkZzczRkZQRmswNjZQQWNJdTdCcTBkN09BNnVjUlNEQVJtUW85RzNNM0dwRGk5VVF6T0lhek0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Samsung Medical Center re-certified at highest HIMSS level in U.S. for medical records and other areas 더바이오",
-      "publishedAt": "2026-09-10T08:18:35.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-10T03:25:16.000Z"
+      "updatedAt": "2026-09-11T03:21:14.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
