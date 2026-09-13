@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-12T03:22:51.415Z",
-  "projectsCheckedAt": "2026-09-12T03:22:51.415Z",
-  "projectsUpdatedAt": "2026-09-12T03:22:51.415Z",
+  "updatedAt": "2026-09-13T03:28:22.305Z",
+  "projectsCheckedAt": "2026-09-13T03:28:22.305Z",
+  "projectsUpdatedAt": "2026-09-13T03:28:22.305Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,27 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-12T03:22:51.415Z",
+    "checkedAt": "2026-09-13T03:28:22.305Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "dc5fdf75fbfaaec0",
-      "title": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0hTZTdMS3ZqLWQ3TEJwbDRDVWVoSU8zNzc2VWlsVlB3aVBzQTFtM21mR0RFWVFXSDdTVmtIeERCS0lnRnNSRFpYT2VodF8ycWptZ1ZlcVRSMy05bFRVMUtTdHp0dENJYk1Pa3hMQmR2U2tURFVnWFZ1UGhBQmpCQTV5RTNvRkdocGRQUHNCc3RsM0xIRWlvTzZ5Mm5rM0p3Z2NzcnhNYkRXTXU0UWtkTjNGb2ZUbl8zaDRv?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. Vietnam.vn",
-      "publishedAt": "2026-09-12T00:36:34.000Z",
+      "id": "88a8b9c03c9756d7",
+      "title": "[특집/CIPAC 2026⑤] “특허명세서 AI, 이제 수출한다”... 아이팩토리, 베이징서 ‘IPEDIT’ 글로벌 승부수 - 특허뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JTFVNNV9rYnlKMXJuREhPNUZxWDZZNENqVlJqbURCbDdBd1dERHlFcERFemQ1NndFQ3c3U1hMR2tqNFVFRHF1bUxrWVNsblpuMzJIeg?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "[특집/CIPAC 2026⑤] “특허명세서 AI, 이제 수출한다”... 아이팩토리, 베이징서 ‘IPEDIT’ 글로벌 승부수 특허뉴스",
+      "publishedAt": "2026-09-12T17:50:00.000Z",
       "rank": 1
     },
     {
-      "id": "04824379c90511d7",
-      "title": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents - TIKR.com",
+      "id": "2f87269f24929f8f",
+      "title": "Place furniture and design spaces with voice commands… Archisketch becomes the first 3D interior software to receive GS Grade 1 rating - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MXA1dzcxUFZma01ocnB3ZVdUcGpITXBtTHVPb29MRy1laTFlTGtwTnBER05GRE1IZDEyQ3R0Q1ZnT2dPNi1zcUxRemdXajR4UWxj?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Place furniture and design spaces with voice commands… Archisketch becomes the first 3D interior software to receive GS Grade 1 rating 벤처스퀘어",
+      "publishedAt": "2026-09-12T08:24:37.000Z",
+      "rank": 2
+    },
+    {
+      "id": "07850be9cd650067",
+      "title": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. - vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0hTZTdMS3ZqLWQ3TEJwbDRDVWVoSU8zNzc2VWlsVlB3aVBzQTFtM21mR0RFWVFXSDdTVmtIeERCS0lnRnNSRFpYT2VodF8ycWptZ1ZlcVRSMy05bFRVMUtTdHp0dENJYk1Pa3hMQmR2U2tURFVnWFZ1UGhBQmpCQTV5RTNvRkdocGRQUHNCc3RsM0xIRWlvTzZ5Mm5rM0p3Z2NzcnhNYkRXTXU0UWtkTjNGb2ZUbl8zaDRv?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "껀터시는 과학, 기술, 혁신 및 디지털 전환을 위한 인재를 육성합니다. vietnam.vn",
+      "publishedAt": "2026-09-12T00:36:34.000Z",
+      "rank": 3
+    },
+    {
+      "id": "09f9dc3a6a22015d",
+      "title": "[기고] AI 시대 공공행정, 기술 도입에서 ‘현장 문제 해결’로…송석언 JDC 이사장 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BVHZfb1JxeWtQTXNDa1lLRjB3YkxWVl9abXk0VWxvRkhRZkhOcVRpNENOQ1Z4RGlUMmV1OF9yelVIR2o1ZDdRWkR6dVNjbDg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[기고] AI 시대 공공행정, 기술 도입에서 ‘현장 문제 해결’로…송석언 JDC 이사장 벤처스퀘어",
+      "publishedAt": "2026-09-12T00:00:25.000Z",
+      "rank": 4
+    },
+    {
+      "id": "84442341a8fdad9e",
+      "title": "Ethon Industrial AI Platform - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10OHNHbFpzT2dyUHh5VWpHLV9CbnlPR1pFWTJiYW1iQnJIMldFamFvQ1ZxLVI5WTZfSzdKXy1GcElIMnoyTzZCX2dKbEtOMG0zQ185X0VVNnN5UE9IbmQtRHItWllMZFpPUGpHUXBUbHNySWROZ3BZ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Ethon Industrial AI Platform Siemens",
+      "publishedAt": "2026-09-11T17:54:51.000Z",
+      "rank": 5
+    },
+    {
+      "id": "c5cb1ba98af914fb",
+      "title": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents - tikr.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaENGX2NTelF2cFVONWtqT05BY1ZGbDBwNHhoTnJNV0djX1Zqd2VnOEg0ZjJSZUJUNzgwekowbDRvbi16eHVHY3dFTldwWHgtLWxsbkcwdHNlSVNQZVNQUFFBTEc2LVQtZHN4S1NneExoOUR1T194Nk5EblZnU2l3LVVfWjQxU2hBYW9VZnR4NWdIS3c?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents TIKR.com",
+      "summary": "Visa And Mastercard Partner With Ant International On Payments Standard For AI Agents tikr.com",
       "publishedAt": "2026-09-11T04:08:02.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "23eb00491f5e152d",
@@ -83,51 +119,15 @@
       "source": "Google News: AI standardization",
       "summary": "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\" 지디넷코리아",
       "publishedAt": "2026-09-11T06:43:08.000Z",
-      "rank": 3
-    },
-    {
-      "id": "9a10b5d68500f079",
-      "title": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 - imaeil.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNlNjQWxtSkl5SlVzcm9DcU9ZbTVqMWJUd04yNl9BZFFBMThPNG45Y0kzX0Q5akx0VVhZNXBrRG1xdmpEYmEzZnlWQm40RUJ5TGstUUdGREFESGRGU2JybGxn?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 imaeil.com",
-      "publishedAt": "2026-09-11T03:26:05.000Z",
-      "rank": 4
-    },
-    {
-      "id": "22d269aa2a0be24d",
-      "title": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] - 정보통신신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8teVpUQ3F5RXhFYkhNUVpzZlUwRUhGTkhHUGFfTWZkMDFuN2lMZFB6WWROeXVIVGVqbjl2TnZ6Nms3ekhGSDZlUGFodkx2a1dsXzVsdHFGNG0zS2c0SUw1QjZFcnl4VGJL0gFsQVVfeXFMUDRGM3VnT244dDlhZWU5OG1uRWlsVTNKVFFxZXF3Vm9FVnVraTkteERIYk1ZLVl0SGtOUzlmem81dTBwWU9LdmJUZ2NyTFB6a2tHMjN3dEs4Zkp5OEJ4VzJZd1VjRm1pU1RXM3M3?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "[ICT광장]ISO/IEC 42001을 준비해야 하는 이유[하] 정보통신신문",
-      "publishedAt": "2026-09-10T05:03:53.000Z",
-      "rank": 5
-    },
-    {
-      "id": "041e83c0d8fcbc44",
-      "title": "AI 지원형(AI-assisted) 경영진 사칭 및 송장 사기로부터 조직 보호 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObktFc3B1UGpiLW1UYjRlSGdTQzlhSUJsQ2lFSlNiQlB1OHV2dUtOV2FQeElVUEdjaklHN25menkyREpZbF94V0pwODlnQ2VKakFJSHRPeU9mMEJ3Vlk3b3ZmOHdHTWNqeTJrRWV4Nm1id2JzTDYtektjb21lMEx2bWc4YVVNeHRrWDVZeWlBbjFhNjNBRUVQdEJxdThoR2RuX3JxWHJKX2FsZXV0REd5NmQxNWRfa0pSczd6OUhsY3g4TW9xcXlIbGxMNkVPekJidmFHa0lnWUtBSlRJeHVNWmVaVG5IRVZieXpodlhNa252RG5zUWdyWWQ4VVcxMENaT2tlRy1YZDBVZ2xJUXN3V0pzUjFWTWsxT1FpZzV4aWJjVHNkVHdoOEdvNmtiQUdoZzB2WlV1YmRURUJjZVk0VzhSUFk?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "AI 지원형(AI-assisted) 경영진 사칭 및 송장 사기로부터 조직 보호 Microsoft Source",
-      "publishedAt": "2026-09-11T02:52:11.000Z",
-      "rank": 6
-    },
-    {
-      "id": "5bf00ba069461c9f",
-      "title": "LH, 독자 개발 BIM 기술 GH에 이전⋯공공부문 표준화 속도 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSTk3RXo4MlN0RFVWanVVcThkWUJGMWdNRjJFdDRYbFd0Q0tPNzFfZlFhRFh4LTEtblBOem9uUllGbXhoakRWY2FaUjlOYmYxckt4Qw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "LH, 독자 개발 BIM 기술 GH에 이전⋯공공부문 표준화 속도 이투데이",
-      "publishedAt": "2026-09-11T01:40:00.000Z",
       "rank": 7
     },
     {
-      "id": "f02cb620d4902d41",
-      "title": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안 - 해사신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53M0U3M09sTkMxUkpZdXBfNV9VeDVKXzVId0N0M0lhcS1WQXhWM3hibUJjYnBzWU5saEgyb2pobDZKd2RzVWphRkROLUxXeVNGeFRpb25nNGlPS1ZrX1Z6SGxoMTRfMUNkWUFr?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KMI, ‘피지컬 AI 항만’ 전환 본격 논의…진해신항 중심 기술·제도 구축 제안 해사신문",
-      "publishedAt": "2026-09-11T00:05:39.000Z",
+      "id": "a901b1b63823cb97",
+      "title": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNlNjQWxtSkl5SlVzcm9DcU9ZbTVqMWJUd04yNl9BZFFBMThPNG45Y0kzX0Q5akx0VVhZNXBrRG1xdmpEYmEzZnlWQm40RUJ5TGstUUdGREFESGRGU2JybGxn?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "대구가톨릭대, AI로 mRNA 백신 품질 예측한다… 10억원 규모 연구 매일신문",
+      "publishedAt": "2026-09-11T03:26:05.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-11T03:21:14.000Z"
+      "updatedAt": "2026-09-12T03:26:56.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
