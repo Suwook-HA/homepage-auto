@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-14T03:38:52.194Z",
-  "projectsCheckedAt": "2026-09-14T03:38:52.194Z",
-  "projectsUpdatedAt": "2026-09-14T03:38:52.194Z",
+  "updatedAt": "2026-09-15T03:39:54.027Z",
+  "projectsCheckedAt": "2026-09-15T03:39:54.027Z",
+  "projectsUpdatedAt": "2026-09-15T03:39:54.027Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-14T03:38:52.194Z",
+    "checkedAt": "2026-09-15T03:39:54.027Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "c79398ae93284817",
-      "title": "“AI·자율 의료로봇 안전성 검증 방법은?”…IEC 국제표준회의, 제주서 개막 - 로봇신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zUzhPYWFQaWQ5QUR0UG5PQzlOdWxvYUZrYXZlc0FEVDhTUXdMNnhrbXBObE9EWXhiUklBcG80azlpUWthNkdfSHNlbEtHVUc4a0ZiM0JiSU45YkJxYU9nZ3pMcXNvY3dfazVkTQ?oc=5",
+      "id": "d12913a2092b4f9b",
+      "title": "AI가 결제 전 문자로 승인받는다…SKT, RCS 표준화 추진 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zbnMyVldQa2JYTHYzS0NiQjJ3STQ3YVA0em9ybFpzV3NZQmE5RDNJc2lyRFAyRk5IMDFOZGhLbUVHZEhyczhyYURwd1Yya1VsZldFLTg2UVF1MGs4cHFkeW5JVlY?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "“AI·자율 의료로봇 안전성 검증 방법은?”…IEC 국제표준회의, 제주서 개막 로봇신문",
-      "publishedAt": "2026-09-14T00:44:37.000Z",
+      "summary": "AI가 결제 전 문자로 승인받는다…SKT, RCS 표준화 추진 디지털데일리",
+      "publishedAt": "2026-09-15T02:32:28.000Z",
       "rank": 1
     },
     {
-      "id": "faa109a0c8e91ec0",
-      "title": "슈어소프트테크, 데이터 품질 분야로 KOLAS 인정 범위 확대…'AI 시스템 전주기' 검증 체계 완성 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QV1pPZkdjbUVmdVlGNFNVbkJiR0ZYSFpYTGZzZlFsLW9NYXJ6bmdpeFJyQ0FKZUtUUU1VMWVTMGo1ZXRQLTQ5Rm9UcHVTZw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "슈어소프트테크, 데이터 품질 분야로 KOLAS 인정 범위 확대…'AI 시스템 전주기' 검증 체계 완성 전자신문",
-      "publishedAt": "2026-09-14T01:00:00.000Z",
+      "id": "a35bbdccba6427eb",
+      "title": "대우건설, 스마트 안전 교육·AI 번역기 표준화 나서 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJSTFRM3dBbTY3VEJQVTNhN3JRYjZHR0lOd1MzRDdVTWoyNGhQSE54LWV6dVZERnd4UjFWLUFLLXA5WFc3WkxSUjNlR3NLWU9sYm5IRnZXeXc4OWZoeTZ5X1IxaVdSOVFHbjBJbTVVaEFxRUHSAXdBVV95cUxNSW10SmJXVHMycUcyNTE1bk5mR1ZNQ085SHhzOFpIS2hVOHNTX0FaSC0yanQ1XzI0dnpVZXhlVnFZOGJOSlBsc2NmWmFOTmFQS0tEVTB0QlZWdnp0V0hsSF9QV0pZTmpIcVpRZG80Wk5PbVU3TFVBSQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "대우건설, 스마트 안전 교육·AI 번역기 표준화 나서 스트레이트뉴스",
+      "publishedAt": "2026-09-15T01:57:02.000Z",
       "rank": 2
     },
     {
-      "id": "72dda6dd701c3c58",
-      "title": "일반경제신문 국민매일 - busynews.net",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kZktUaHpnVmxuTlJMNVc1OXB0WFJxVEtidWZYWWgtQl9KTGN2RHgxbkdYVlFwOVdSZzJLWDdQNFJQNDVMdnQ4RGNpcUY3ZWZLeENVMXVXM3czWjBGbUNoclNHM24?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "일반경제신문 국민매일 busynews.net",
-      "publishedAt": "2026-09-14T00:06:00.000Z",
+      "id": "01a851ecb876a39a",
+      "title": "AI 업무 승인을 문자메시지로…SKT, RCS 표준화 주도 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMjV3YmpmeExvbXBJeWpiUmlVTUgwSVczblNqMWNOTEVGdzRudmdVZHNWcDFzZkFkaHc0d2VTZ2FsbTJDY2JBOFJ0MDJ5MUpfNzhzb1VyY0xEUDF4UDBRaklXV2k?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI 업무 승인을 문자메시지로…SKT, RCS 표준화 주도 서울경제TV",
+      "publishedAt": "2026-09-15T01:55:00.000Z",
       "rank": 3
     },
     {
-      "id": "dc68aa5b2f7a48ca",
-      "title": "디지털 전환의 성패, '기술'이 아닌 '전환 역량'이 결정한다 - 오픈애즈",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VRVBPRlZqUzdrNEdnLU1ZNjNTaW1xSkVUVWxIUXloeEw4T0RpSUJCXzN2RTNSS2pjWnRwVmt4YkFjR1J3U1BYSzJIT2hIYzMzTGl2bkZMN2JtM1BxR0FhNGE4endoVTU0cDRpb2lB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "디지털 전환의 성패, '기술'이 아닌 '전환 역량'이 결정한다 오픈애즈",
-      "publishedAt": "2026-09-13T22:45:00.000Z",
+      "id": "e76d6e83d54aee78",
+      "title": "SKT \"AI 결제, 문자로 승인받자\"… GSMA에 표준 안건 제안 - chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2l1YXdSbUZJcko0RDFqUjJiXzQtVEhlTzdPbWVzVVB3T0tycHUyZlpTZUxGc2RjZkNvVTR4WjJRQ2JIOENKQ1BhcElpVDl4YVdqNmRxMi1wXzZ4ZHNmeC0xOFI2Vl9hWm9UTThRemIzcXB1eEExTHpEaHI5aU96UTk1TQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "SKT \"AI 결제, 문자로 승인받자\"… GSMA에 표준 안건 제안 chosun.com",
+      "publishedAt": "2026-09-15T01:46:00.000Z",
       "rank": 4
     },
     {
-      "id": "98fe96f7535cf2f9",
-      "title": "셀트리온제약의 AI-DLC 방법론과 Kiro를 활용한 OMS 서비스 구축하기 - aws.amazon.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMTd2OVN4bXdMQkw1QjBoR2pKNUJ5RWVYa0RhWkhSaDhOaHF1dXZEdm9YbTd0SUUtVWloN0pjc1pLUmpFV29jSnJHRzJzWFBlMENFVmZheEFwRTY0YWFBNnBxTC1ZM0oxeUxxcnQ0bEg3akczR2MzYUp0eHdoWG02eHdlUQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "셀트리온제약의 AI-DLC 방법론과 Kiro를 활용한 OMS 서비스 구축하기 aws.amazon.com",
-      "publishedAt": "2026-09-13T12:41:05.000Z",
+      "id": "65d5e6395e77498f",
+      "title": "글로벌 빅테크의 AI 속도조절론, 한국엔 기회일까 장벽일까 - 법률방송뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43SmZsWG8wMmhva3U5eUxyNTBsT0ZrM3I4UDlTQjkyWVRMc2MzZDR3SzhJdjBEUmNYeEFmODFkM2RHYWVsMHdTOU1LcG5pTzJwb2NxY0hCYUx5VXJnWnl3bThvVjI?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "글로벌 빅테크의 AI 속도조절론, 한국엔 기회일까 장벽일까 법률방송뉴스",
+      "publishedAt": "2026-09-15T01:42:11.000Z",
       "rank": 5
     },
     {
-      "id": "9ffced15fc3daf4e",
-      "title": "“항만·물류 AX, 데이터 연계·표준화와 현장실증 확대해야” - 물류신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ydWdWQ0x1dDJTemVjM2kyUzl1T1hBbGNlcmRnZzBOMGVEZHhYMHZsM051dUJPSFc4d3ZTVjNUd29WYkFkWTV3S1FtNlhsQWs4Q0c0SzZlQXhnXzhnckZYTXBycDhOYkNPNVBz?oc=5",
+      "id": "f95489dcbf740c35",
+      "title": "[AI픽] SKT, AI가 결제하기 전 '문자 승인'…글로벌 표준화 제안 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OXRRUVVYQjdGQ2w0dXpmMkkzeWQwY2JqZkpfUmpKUXIyNExzV0ZZT2RwSENVcjZOQTltNG9xblhxV1BLMWQ1NTF1b090WXRucWVMSHB4MVRPcUxQZGp0NtIBYEFVX3lxTE45OXRRUVVYQjdGQ2w0dXpmMkkzeWQwY2JqZkpfUmpKUXIyNExzV0ZZT2RwSENVcjZOQTltNG9xblhxV1BLMWQ1NTF1b090WXRucWVMSHB4MVRPcUxQZGp0Ng?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "“항만·물류 AX, 데이터 연계·표준화와 현장실증 확대해야” 물류신문",
-      "publishedAt": "2026-09-13T09:31:57.000Z",
+      "summary": "[AI픽] SKT, AI가 결제하기 전 '문자 승인'…글로벌 표준화 제안 연합뉴스",
+      "publishedAt": "2026-09-15T01:26:38.000Z",
       "rank": 6
     },
     {
-      "id": "c171f2d835b6ce38",
-      "title": "Tajikistan bets on hydropower and AI 35 years after independence - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNS29UMEtMVFdrSmJyMnB4MWFxRkg2SkR5NG5Gay1TLTZ2dExHaXhGdUthNXJJcmhKeENIWmtpdnhWcl9ZZGhSUXd5VzVaaWdoYmNlcmpaWTc0cUcxUUo4Sw?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Tajikistan bets on hydropower and AI 35 years after independence 네이트",
-      "publishedAt": "2026-09-13T05:39:00.000Z",
+      "id": "c3026a583cc61674",
+      "title": "대우건설, 스마트 안전교육·AI 실시간 번역기 현장 표준화 시행 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkN0FfZUtNcm40NV9EeWJiTmtHdEdWN2lrOEUxU1NWVGdwckRrYWdaNnRJeVBBcVViODNiamNLSTYybi15eUd3NEhUSDFsQWx0SmxRZXkxVjZpZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "대우건설, 스마트 안전교육·AI 실시간 번역기 현장 표준화 시행 한국경제",
+      "publishedAt": "2026-09-15T01:05:27.000Z",
       "rank": 7
     },
     {
-      "id": "866cd2ce2eeab8ea",
-      "title": "지금 볼 만한 사이버보안 AI 주식 3선 - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2NZTkhjSm9NSHc2dlRCcjI3WUlsTGczTEFEdTZLTmx0VktUUHB3c2RQWmNxSldyd2JpT2tKZHpRUXg1RHU0dkl2OXZ0ZVFiWDd6Ynl2emtObGVlWkZOVHBPdlZqakZKY1BKUS1OS0xZdlBEa1hRb05FcFZHbnAtRHRGXzJobXNGcGE5emVyWElSdk5abWkyR0hWTdIBmwFBVV95cUxQc2NZTkhjSm9NSHc2dlRCcjI3WUlsTGczTEFEdTZLTmx0VktUUHB3c2RQWmNxSldyd2JpT2tKZHpRUXg1RHU0dkl2OXZ0ZVFiWDd6Ynl2emtObGVlWkZOVHBPdlZqakZKY1BKUS1OS0xZdlBEa1hRb05FcFZHbnAtRHRGXzJobXNGcGE5emVyWElSdk5abWkyR0hWTQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "지금 볼 만한 사이버보안 AI 주식 3선 simplywall.st",
-      "publishedAt": "2026-09-13T02:32:28.000Z",
+      "id": "7806ccd37c7012a0",
+      "title": "SKT, GSMA RCS 표준화 회의…\"AI 시대 '문자' 역할 재정의\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMnF2RXprb1M1WF9UQjhrdklwckNBeFF4NnBSUElPdHJOM0pwclhyZkl0bkhZZTNweEdVTUJQa1JuLXRuYk1XUmtIazZWZ2M?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "SKT, GSMA RCS 표준화 회의…\"AI 시대 '문자' 역할 재정의\" v.daum.net",
+      "publishedAt": "2026-09-15T00:39:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-13T03:32:27.000Z"
+      "updatedAt": "2026-09-14T03:42:56.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
