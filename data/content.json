@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-15T03:39:54.027Z",
-  "projectsCheckedAt": "2026-09-15T03:39:54.027Z",
-  "projectsUpdatedAt": "2026-09-15T03:39:54.027Z",
+  "updatedAt": "2026-09-16T03:36:53.366Z",
+  "projectsCheckedAt": "2026-09-16T03:36:53.366Z",
+  "projectsUpdatedAt": "2026-09-16T03:36:53.366Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,100 +54,109 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-15T03:39:54.027Z",
+    "checkedAt": "2026-09-16T03:36:53.366Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d12913a2092b4f9b",
-      "title": "AI가 결제 전 문자로 승인받는다…SKT, RCS 표준화 추진 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zbnMyVldQa2JYTHYzS0NiQjJ3STQ3YVA0em9ybFpzV3NZQmE5RDNJc2lyRFAyRk5IMDFOZGhLbUVHZEhyczhyYURwd1Yya1VsZldFLTg2UVF1MGs4cHFkeW5JVlY?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI가 결제 전 문자로 승인받는다…SKT, RCS 표준화 추진 디지털데일리",
-      "publishedAt": "2026-09-15T02:32:28.000Z",
+      "id": "8d086cb7667fc4ba",
+      "title": "대구한의대, 2년 연속 재직자 AI·디지털 집중과정 선도대학 선정 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pMjU1QnY4VXZsR3h3TXN3WFhHM1p2bFYtdUZGRFBNVm5sTjFhaVNneTQwemxWS3FiTDkxN3lMS2RwUQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "대구한의대, 2년 연속 재직자 AI·디지털 집중과정 선도대학 선정 브레이크뉴스",
+      "publishedAt": "2026-09-16T02:18:59.000Z",
       "rank": 1
     },
     {
-      "id": "a35bbdccba6427eb",
-      "title": "대우건설, 스마트 안전 교육·AI 번역기 표준화 나서 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJSTFRM3dBbTY3VEJQVTNhN3JRYjZHR0lOd1MzRDdVTWoyNGhQSE54LWV6dVZERnd4UjFWLUFLLXA5WFc3WkxSUjNlR3NLWU9sYm5IRnZXeXc4OWZoeTZ5X1IxaVdSOVFHbjBJbTVVaEFxRUHSAXdBVV95cUxNSW10SmJXVHMycUcyNTE1bk5mR1ZNQ085SHhzOFpIS2hVOHNTX0FaSC0yanQ1XzI0dnpVZXhlVnFZOGJOSlBsc2NmWmFOTmFQS0tEVTB0QlZWdnp0V0hsSF9QV0pZTmpIcVpRZG80Wk5PbVU3TFVBSQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "대우건설, 스마트 안전 교육·AI 번역기 표준화 나서 스트레이트뉴스",
-      "publishedAt": "2026-09-15T01:57:02.000Z",
+      "id": "1a7660447c8104ef",
+      "title": "KT알파 쇼핑, 콜센터품질지수 11년 연속 최고점 기록 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qdmtrUVZuWFhpS2M1TEx4Umx6SmFuUGJEazlvV2Y1WlJlMVRjSnNMRTlWekFHZ2dhMVdxb3FPV0cyanFHOTRmeGZfTHI4bXBUMHhhWmgzS2FPalY0dk92ay0taE9HUDVoSXZnTWJOd1F3UDZHWm1MYdIBeEFVX3lxTE5qdmtrUVZuWFhpS2M1TEx4Umx6SmFuUGJEazlvV2Y1WlJlMVRjSnNMRTlWekFHZ2dhMVdxb3FPV0cyanFHOTRmeGZfTHI4bXBUMHhhWmgzS2FPalY0dk92ay0taE9HUDVoSXZnTWJOd1F3UDZHWm1MYQ?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "KT알파 쇼핑, 콜센터품질지수 11년 연속 최고점 기록 뉴시스",
+      "publishedAt": "2026-09-15T23:18:42.000Z",
       "rank": 2
     },
     {
-      "id": "01a851ecb876a39a",
-      "title": "AI 업무 승인을 문자메시지로…SKT, RCS 표준화 주도 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMjV3YmpmeExvbXBJeWpiUmlVTUgwSVczblNqMWNOTEVGdzRudmdVZHNWcDFzZkFkaHc0d2VTZ2FsbTJDY2JBOFJ0MDJ5MUpfNzhzb1VyY0xEUDF4UDBRaklXV2k?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI 업무 승인을 문자메시지로…SKT, RCS 표준화 주도 서울경제TV",
-      "publishedAt": "2026-09-15T01:55:00.000Z",
+      "id": "ff4eff5001b4f32c",
+      "title": "FDA Steps Up Scrutiny of Foreign Clinical Trials - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUVDNjhWM3JRZUEtdVIzTlN2b2dEZVNJd2hDUjhjSFJTRTZtWkNkTVRzWldLa01CVDNEZ1JQUmhub1oyNXBZTHZzcnppQnJGX1FHVFI3ZnBsWlo3T096RWhYSjd3VEhpcFQ4?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "FDA Steps Up Scrutiny of Foreign Clinical Trials 히트뉴스",
+      "publishedAt": "2026-09-15T19:59:17.000Z",
       "rank": 3
     },
     {
-      "id": "e76d6e83d54aee78",
-      "title": "SKT \"AI 결제, 문자로 승인받자\"… GSMA에 표준 안건 제안 - chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2l1YXdSbUZJcko0RDFqUjJiXzQtVEhlTzdPbWVzVVB3T0tycHUyZlpTZUxGc2RjZkNvVTR4WjJRQ2JIOENKQ1BhcElpVDl4YVdqNmRxMi1wXzZ4ZHNmeC0xOFI2Vl9hWm9UTThRemIzcXB1eEExTHpEaHI5aU96UTk1TQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SKT \"AI 결제, 문자로 승인받자\"… GSMA에 표준 안건 제안 chosun.com",
-      "publishedAt": "2026-09-15T01:46:00.000Z",
+      "id": "c1f65c273f5b115a",
+      "title": "통신3사, 콜센터품질지수 나란히 '최우수'…AI 상담 혁신 성과 입증 - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gc0RLaFo1U05OcDJBdS1Rd3B4Q0FrWGxMQ3ExU0d5WHJSQVB0bkdmc0p4eG9hbVppM0x6S1RsUER6RDV2ZHc0OVAxdVNFVUNhcXdvVjdoLWh2ZnpsUHF2NTJ3MzU3LVljaEVzNVp2MNIBc0FVX3lxTE1KVEswUHFVTHc2SW5nTEVaNngtR0NldjBtUHZ4NlR2US10TU1DQ3FZdEw2WnJGSi1hRmhla1VBN1NabDlWMkFnUUZSTGx0VVlYUXY1YVlteWh4NjJ5RFJUc3B2MEpIcElRVng3cXpnLWVWUnc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "통신3사, 콜센터품질지수 나란히 '최우수'…AI 상담 혁신 성과 입증 뉴스웍스",
+      "publishedAt": "2026-09-15T10:07:08.000Z",
       "rank": 4
     },
     {
-      "id": "65d5e6395e77498f",
-      "title": "글로벌 빅테크의 AI 속도조절론, 한국엔 기회일까 장벽일까 - 법률방송뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43SmZsWG8wMmhva3U5eUxyNTBsT0ZrM3I4UDlTQjkyWVRMc2MzZDR3SzhJdjBEUmNYeEFmODFkM2RHYWVsMHdTOU1LcG5pTzJwb2NxY0hCYUx5VXJnWnl3bThvVjI?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "글로벌 빅테크의 AI 속도조절론, 한국엔 기회일까 장벽일까 법률방송뉴스",
-      "publishedAt": "2026-09-15T01:42:11.000Z",
+      "id": "a0802e0a9732ad52",
+      "title": "과학기술디지털변혁부의 기능 및 책임 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDFmRVBubnFFcUJjMWRmSm1qNGRuSENzNGtVY3RNdTZGbEVwTjdqZGh4bndBVDRRVGFPaEdHRW9ROG1VdExyM3h1SkdnT2tvbVJIY0YyU2ZFdkdJTlQ0dWdoN0NNbGNadzBuNmlxTGVzWFdocTcxbTZzdnpMYzVjeHZlbFpxMWJCVzFnQjJjc2xOQQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "과학기술디지털변혁부의 기능 및 책임 Vietnam.vn",
+      "publishedAt": "2026-09-15T09:10:41.000Z",
       "rank": 5
     },
     {
-      "id": "f95489dcbf740c35",
-      "title": "[AI픽] SKT, AI가 결제하기 전 '문자 승인'…글로벌 표준화 제안 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OXRRUVVYQjdGQ2w0dXpmMkkzeWQwY2JqZkpfUmpKUXIyNExzV0ZZT2RwSENVcjZOQTltNG9xblhxV1BLMWQ1NTF1b090WXRucWVMSHB4MVRPcUxQZGp0NtIBYEFVX3lxTE45OXRRUVVYQjdGQ2w0dXpmMkkzeWQwY2JqZkpfUmpKUXIyNExzV0ZZT2RwSENVcjZOQTltNG9xblhxV1BLMWQ1NTF1b090WXRucWVMSHB4MVRPcUxQZGp0Ng?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[AI픽] SKT, AI가 결제하기 전 '문자 승인'…글로벌 표준화 제안 연합뉴스",
-      "publishedAt": "2026-09-15T01:26:38.000Z",
+      "id": "c279ac81945c9507",
+      "title": "씨게이트 조사 \"기업 99% 'AI로 스토리지 수요 증가' 전망… 철저히 대비한 곳은 38%\" - techsuda.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVhhOVVueFVlVDg2SzJOUF9TWnBnTThTOS11bEd5UHY2Mjl0ZE9iUGlrTklac2pHYVhYU0FlN1A4RXBudkNESXVNV2RJTFdYODBXMnFnd1hUWDdCZGtUWVNwTFdjV24yVjEyZFFZMVRkVnMtQ2hHbGh1dlBzMG1WOEtRa0gxV3NpNzB2aV9jUlJGZ3hsaHhyVzFIWWhwTlVWWnpSRTdRR2bSAa4BQVVfeXFMUDZVSmFIX19TbHV5ZmxlVEpha0pKUEx3bHdQX0JDWjhOd1ZTUW82eDduTHJCMFQya1BFam1kbXNNLWtTTW5lUGFtQlRQLWxyQ2lpQUpRN3VBSU1ubkxPSzFsVnRZX0ZPakJqUk1hYnFyMEIyRDc5MjhCRHdmZHBRaDBxZ1ZDNHVnUkFiRFJCT3FUMzdfYU1EM1NfT3dTcHFrSU9EWmd3WEE2T3RSYzNB?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "씨게이트 조사 \"기업 99% 'AI로 스토리지 수요 증가' 전망… 철저히 대비한 곳은 38%\" techsuda.com",
+      "publishedAt": "2026-09-15T08:09:15.000Z",
       "rank": 6
     },
     {
-      "id": "c3026a583cc61674",
-      "title": "대우건설, 스마트 안전교육·AI 실시간 번역기 현장 표준화 시행 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkN0FfZUtNcm40NV9EeWJiTmtHdEdWN2lrOEUxU1NWVGdwckRrYWdaNnRJeVBBcVViODNiamNLSTYybi15eUd3NEhUSDFsQWx0SmxRZXkxVjZpZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "대우건설, 스마트 안전교육·AI 실시간 번역기 현장 표준화 시행 한국경제",
-      "publishedAt": "2026-09-15T01:05:27.000Z",
+      "id": "f0d73f5a559011d3",
+      "title": "KT, 콜센터품질지수 3관왕…통신·AI 동시 성과 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBZkxoTEgzbzlDd2tnZ3p1bXg1amNEVXE3OGk4b1dqdkhTamUxbHE2TXA1N3dVeTc3c3hiRzFmUkZ3QW96VGNFWU5LWE1oQVRCcG5kVlItRUlzRUk2MHZfMGNuQXk1a2JYUTZ3SU1UTFU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "KT, 콜센터품질지수 3관왕…통신·AI 동시 성과 신아일보",
+      "publishedAt": "2026-09-15T08:08:42.000Z",
       "rank": 7
     },
     {
-      "id": "7806ccd37c7012a0",
-      "title": "SKT, GSMA RCS 표준화 회의…\"AI 시대 '문자' 역할 재정의\" - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMnF2RXprb1M1WF9UQjhrdklwckNBeFF4NnBSUElPdHJOM0pwclhyZkl0bkhZZTNweEdVTUJQa1JuLXRuYk1XUmtIazZWZ2M?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "SKT, GSMA RCS 표준화 회의…\"AI 시대 '문자' 역할 재정의\" v.daum.net",
-      "publishedAt": "2026-09-15T00:39:00.000Z",
+      "id": "ad6eb7a80317645e",
+      "title": "신한은행, 표준協 콜센터 품질조사 '전화 상담·AI보이스봇 석권'...은행 AI 관심도도 급등 - 빅데이터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSlMtYzhXVmRUM1lrM0FmTWQ5T01fNjBCSzlWYlJiV0pxWGdNRkM3SFI4RGNhMXRTRkN2MGMxNktYNVc0U2o0M2hzQUdIbVJMZmFkZU5hb3VnOVR6UGNDaDJlbUpHN3g5MEM1S2xLOFZaSFlXRTVCdF9kdlk?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "신한은행, 표준協 콜센터 품질조사 '전화 상담·AI보이스봇 석권'...은행 AI 관심도도 급등 빅데이터뉴스",
+      "publishedAt": "2026-09-15T06:46:19.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "b8905676ac14d4c0",
-      "title": "Get Started with NetApp Harvest on Google Cloud NetApp Volumes",
-      "url": "https://www.youtube.com/watch?v=y9VExVZKkfk",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/y9VExVZKkfk/hqdefault.jpg",
-      "publishedAt": "2026-09-11T19:22:00.000Z",
+      "id": "9beb5d76ff241c36",
+      "title": "What's new in the Gemini Live API",
+      "url": "https://www.youtube.com/watch?v=3CyW24Pkz4o",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/3CyW24Pkz4o/hqdefault.jpg",
+      "publishedAt": "2026-09-15T17:04:04.000Z",
       "viewCount": 0
     },
     {
-      "id": "a96625c17589cb53",
-      "title": "What is Google Cloud NetApp Volumes(GCNV)?",
-      "url": "https://www.youtube.com/watch?v=MIQGjmPUI9c",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/MIQGjmPUI9c/hqdefault.jpg",
-      "publishedAt": "2026-09-11T18:18:35.000Z",
+      "id": "ede8ef912d474dee",
+      "title": "Detecting wildfires with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=PSnJBfa183Y",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/PSnJBfa183Y/hqdefault.jpg",
+      "publishedAt": "2026-09-14T15:57:33.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "96e4d81df5b69904",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
+      "publishedAt": "2026-09-14T09:00:55.000Z",
       "viewCount": 0
     },
     {
@@ -157,24 +166,6 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg",
       "publishedAt": "2026-09-11T17:06:25.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "de06a5f6f5959949",
-      "title": "New Way Now: How Grupo Bafar accelerates B2B insights and scales with Google Cloud Consulting",
-      "url": "https://www.youtube.com/watch?v=fpYavLgw7G0",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/fpYavLgw7G0/hqdefault.jpg",
-      "publishedAt": "2026-09-11T15:05:58.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "549e526046654f74",
-      "title": "New Way Now: Carrier orchestrates AI-driven smart energy with Google Cloud Consulting",
-      "url": "https://www.youtube.com/watch?v=CAdJvpZXlIw",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/CAdJvpZXlIw/hqdefault.jpg",
-      "publishedAt": "2026-09-11T15:03:42.000Z",
       "viewCount": 0
     },
     {
@@ -202,6 +193,15 @@
       "channel": "OpenAI",
       "thumbnail": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg",
       "publishedAt": "2026-09-10T16:00:27.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "5a6c09298af0ce6d",
+      "title": "Helping a small business go big with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=mPAmXQnhv2E",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg",
+      "publishedAt": "2026-09-10T16:00:09.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-14T03:42:56.000Z"
+      "updatedAt": "2026-09-15T03:43:58.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
