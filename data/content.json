@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-16T03:36:53.366Z",
-  "projectsCheckedAt": "2026-09-16T03:36:53.366Z",
-  "projectsUpdatedAt": "2026-09-16T03:36:53.366Z",
+  "updatedAt": "2026-09-17T03:41:43.320Z",
+  "projectsCheckedAt": "2026-09-17T03:41:43.320Z",
+  "projectsUpdatedAt": "2026-09-17T03:41:43.320Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-16T03:36:53.366Z",
+    "checkedAt": "2026-09-17T03:41:43.320Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "8d086cb7667fc4ba",
-      "title": "대구한의대, 2년 연속 재직자 AI·디지털 집중과정 선도대학 선정 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pMjU1QnY4VXZsR3h3TXN3WFhHM1p2bFYtdUZGRFBNVm5sTjFhaVNneTQwemxWS3FiTDkxN3lMS2RwUQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "대구한의대, 2년 연속 재직자 AI·디지털 집중과정 선도대학 선정 브레이크뉴스",
-      "publishedAt": "2026-09-16T02:18:59.000Z",
+      "id": "6b273aa634077ed4",
+      "title": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설 - itworld.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOV2dCNGNVTEFMak4tek5FbW9aR1doY2xrSW5sZFItUlZ0X2N5dFdlUHNBYVl6OXBvekFTdjVacWdFd3F0YWd6SkFuY2l5clI0VjlzMFRSaHZrZTMySWg0ckVwd2UybkIycXpLQXd5Qzl6NHR1SGJfempuSFV2THNnOHRQSVRXbXZfdWxtN2VGYWJzX1pJX2RHNXFxZUp1TUFuNU9MRGNFNTJnUm9rWDRZWkNqdk9fZENkNGFfQ0FRT0tNMkUybU5jNThLMHdMY004Tzd4cDZ4Z213Q0xBQ3lic2NGZFZWSDFzbVFLa1hCdUJBclQzSTloN0FmR2ZtbTRNa3p0MHpwekpBQ19XbWZXaGJSWjRYUEJlSzVKNjhwLXdpaWhCZEQ5eXhES1BkVkVMdGt1M2J4MWdBMVpyajNhb3NBVk1zUEZhUHNQRWYzbVQ5dGp4TS16Ng?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설 itworld.co.kr",
+      "publishedAt": "2026-09-17T01:57:05.000Z",
       "rank": 1
     },
     {
-      "id": "1a7660447c8104ef",
-      "title": "KT알파 쇼핑, 콜센터품질지수 11년 연속 최고점 기록 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qdmtrUVZuWFhpS2M1TEx4Umx6SmFuUGJEazlvV2Y1WlJlMVRjSnNMRTlWekFHZ2dhMVdxb3FPV0cyanFHOTRmeGZfTHI4bXBUMHhhWmgzS2FPalY0dk92ay0taE9HUDVoSXZnTWJOd1F3UDZHWm1MYdIBeEFVX3lxTE5qdmtrUVZuWFhpS2M1TEx4Umx6SmFuUGJEazlvV2Y1WlJlMVRjSnNMRTlWekFHZ2dhMVdxb3FPV0cyanFHOTRmeGZfTHI4bXBUMHhhWmgzS2FPalY0dk92ay0taE9HUDVoSXZnTWJOd1F3UDZHWm1MYQ?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "KT알파 쇼핑, 콜센터품질지수 11년 연속 최고점 기록 뉴시스",
-      "publishedAt": "2026-09-15T23:18:42.000Z",
+      "id": "e99d948a2ced5b3b",
+      "title": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 운영 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LOU5tSkFORUJFa1JZaUZmbm1ZRVYxNy1UTW9YMGxhcF9VVVRmZm9QS2ZzT3ROWHFxby1odTBwOVhYbnA3YXVFMVk4WXE1dw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 운영 전자신문",
+      "publishedAt": "2026-09-17T00:02:49.000Z",
       "rank": 2
     },
     {
-      "id": "ff4eff5001b4f32c",
-      "title": "FDA Steps Up Scrutiny of Foreign Clinical Trials - 히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUVDNjhWM3JRZUEtdVIzTlN2b2dEZVNJd2hDUjhjSFJTRTZtWkNkTVRzWldLa01CVDNEZ1JQUmhub1oyNXBZTHZzcnppQnJGX1FHVFI3ZnBsWlo3T096RWhYSjd3VEhpcFQ4?oc=5",
+      "id": "57f0f6fd94fb0418",
+      "title": "“AI를 위한 데이터 관리 지원” 데이터스트림즈-에스에이티 정보 전략적 협력 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaRmhwVkxkdGdyMVFfQWYwbVJxUWhYOGdwci1jMmlRdFA2Q0NmeFpUdkJrYTJhR3FONU9UbFdNdTFjZmRPNk1mMW9Vam4?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "FDA Steps Up Scrutiny of Foreign Clinical Trials 히트뉴스",
-      "publishedAt": "2026-09-15T19:59:17.000Z",
+      "summary": "“AI를 위한 데이터 관리 지원” 데이터스트림즈-에스에이티 정보 전략적 협력 전자신문",
+      "publishedAt": "2026-09-16T23:32:20.000Z",
       "rank": 3
     },
     {
-      "id": "c1f65c273f5b115a",
-      "title": "통신3사, 콜센터품질지수 나란히 '최우수'…AI 상담 혁신 성과 입증 - 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gc0RLaFo1U05OcDJBdS1Rd3B4Q0FrWGxMQ3ExU0d5WHJSQVB0bkdmc0p4eG9hbVppM0x6S1RsUER6RDV2ZHc0OVAxdVNFVUNhcXdvVjdoLWh2ZnpsUHF2NTJ3MzU3LVljaEVzNVp2MNIBc0FVX3lxTE1KVEswUHFVTHc2SW5nTEVaNngtR0NldjBtUHZ4NlR2US10TU1DQ3FZdEw2WnJGSi1hRmhla1VBN1NabDlWMkFnUUZSTGx0VVlYUXY1YVlteWh4NjJ5RFJUc3B2MEpIcElRVng3cXpnLWVWUnc?oc=5",
+      "id": "427cdabb4507774b",
+      "title": "기업 99% “AI로 스토리지 수요 증가” - 위클리포스트",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xR2xhT0loNHMyUXA3MVZ0Wk40c2R2XzZPSXJkMllvQWhfNEtrUTdRemowUmREeGl4V3hnQzFGdFJuQjExM01KeXdjRFRFZXBZM1RzTU5sbXBUVkpyNGFucjJUMWJ2dE9DQk5V?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "통신3사, 콜센터품질지수 나란히 '최우수'…AI 상담 혁신 성과 입증 뉴스웍스",
-      "publishedAt": "2026-09-15T10:07:08.000Z",
+      "summary": "기업 99% “AI로 스토리지 수요 증가” 위클리포스트",
+      "publishedAt": "2026-09-16T13:23:43.000Z",
       "rank": 4
     },
     {
-      "id": "a0802e0a9732ad52",
-      "title": "과학기술디지털변혁부의 기능 및 책임 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDFmRVBubnFFcUJjMWRmSm1qNGRuSENzNGtVY3RNdTZGbEVwTjdqZGh4bndBVDRRVGFPaEdHRW9ROG1VdExyM3h1SkdnT2tvbVJIY0YyU2ZFdkdJTlQ0dWdoN0NNbGNadzBuNmlxTGVzWFdocTcxbTZzdnpMYzVjeHZlbFpxMWJCVzFnQjJjc2xOQQ?oc=5",
+      "id": "c4a5da67a66e38f9",
+      "title": "\"클릭 세 번으로\"... EU 여성 국회의원 138명, 딥페이크 표적 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hYzlEQ0RQN1ZFZUdKQXlPQ0MxWHEzLVNvMkd3SUk1ZkNtY042dzNPc0xHZWI0ei1KYXJnRW4zNTdSWUxHaGxRYjU0ODl6WHc?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "과학기술디지털변혁부의 기능 및 책임 Vietnam.vn",
-      "publishedAt": "2026-09-15T09:10:41.000Z",
+      "summary": "\"클릭 세 번으로\"... EU 여성 국회의원 138명, 딥페이크 표적 v.daum.net",
+      "publishedAt": "2026-09-16T08:18:04.000Z",
       "rank": 5
     },
     {
-      "id": "c279ac81945c9507",
-      "title": "씨게이트 조사 \"기업 99% 'AI로 스토리지 수요 증가' 전망… 철저히 대비한 곳은 38%\" - techsuda.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVhhOVVueFVlVDg2SzJOUF9TWnBnTThTOS11bEd5UHY2Mjl0ZE9iUGlrTklac2pHYVhYU0FlN1A4RXBudkNESXVNV2RJTFdYODBXMnFnd1hUWDdCZGtUWVNwTFdjV24yVjEyZFFZMVRkVnMtQ2hHbGh1dlBzMG1WOEtRa0gxV3NpNzB2aV9jUlJGZ3hsaHhyVzFIWWhwTlVWWnpSRTdRR2bSAa4BQVVfeXFMUDZVSmFIX19TbHV5ZmxlVEpha0pKUEx3bHdQX0JDWjhOd1ZTUW82eDduTHJCMFQya1BFam1kbXNNLWtTTW5lUGFtQlRQLWxyQ2lpQUpRN3VBSU1ubkxPSzFsVnRZX0ZPakJqUk1hYnFyMEIyRDc5MjhCRHdmZHBRaDBxZ1ZDNHVnUkFiRFJCT3FUMzdfYU1EM1NfT3dTcHFrSU9EWmd3WEE2T3RSYzNB?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "씨게이트 조사 \"기업 99% 'AI로 스토리지 수요 증가' 전망… 철저히 대비한 곳은 38%\" techsuda.com",
-      "publishedAt": "2026-09-15T08:09:15.000Z",
+      "id": "baef9da06e240509",
+      "title": "흩어진 데이터 연결해 AI 정확도 높인다…국가데이터 표준화 논의 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qV3pyQmNUMGFVeVZpVGJOcG8xcU1PYTdxeFRKRWt3Tjk2VkttRFBtZXlUYS00QU5VNmg2ZFpqNGNkOUdSV2tGR2I5N0lLWkFhaVRIVXZNbFdFTFJn?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "흩어진 데이터 연결해 AI 정확도 높인다…국가데이터 표준화 논의 뉴스핌",
+      "publishedAt": "2026-09-16T06:37:00.000Z",
       "rank": 6
     },
     {
-      "id": "f0d73f5a559011d3",
-      "title": "KT, 콜센터품질지수 3관왕…통신·AI 동시 성과 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBZkxoTEgzbzlDd2tnZ3p1bXg1amNEVXE3OGk4b1dqdkhTamUxbHE2TXA1N3dVeTc3c3hiRzFmUkZ3QW96VGNFWU5LWE1oQVRCcG5kVlItRUlzRUk2MHZfMGNuQXk1a2JYUTZ3SU1UTFU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "KT, 콜센터품질지수 3관왕…통신·AI 동시 성과 신아일보",
-      "publishedAt": "2026-09-15T08:08:42.000Z",
+      "id": "a51c37680b8e8870",
+      "title": "국가데이터 민관협의체 3차 회의…데이터 표준화 검토 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOE51QkpiY2ttQWl5LUtxUXBJbUxiSzdiaERaWkI4enFLb0VZY1hiN19hQ2pEMGhnVVotdU9sUzNncFRGdXN6WE1NbG5HMDNiY3ZjZ1FONW1qSF9lV2JfSdIBeEFVX3lxTE1ia29SNDNuaVMwWTBfUm13eTR0NVA1Qkd1WTZyZUpCRjM5eW9obnVGWG0ybUNDLU81MDBsbEJ4V1ZoZ2NfeHN2V1BqWlVYekVrOEhreTczOTNWak5JUkUxZm9WOGZ4TVA2VlNVQmhoQ1dRZ1N2TzN3VQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "국가데이터 민관협의체 3차 회의…데이터 표준화 검토 뉴시스",
+      "publishedAt": "2026-09-16T06:30:00.000Z",
       "rank": 7
     },
     {
-      "id": "ad6eb7a80317645e",
-      "title": "신한은행, 표준協 콜센터 품질조사 '전화 상담·AI보이스봇 석권'...은행 AI 관심도도 급등 - 빅데이터뉴스",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSlMtYzhXVmRUM1lrM0FmTWQ5T01fNjBCSzlWYlJiV0pxWGdNRkM3SFI4RGNhMXRTRkN2MGMxNktYNVc0U2o0M2hzQUdIbVJMZmFkZU5hb3VnOVR6UGNDaDJlbUpHN3g5MEM1S2xLOFZaSFlXRTVCdF9kdlk?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "신한은행, 표준協 콜센터 품질조사 '전화 상담·AI보이스봇 석권'...은행 AI 관심도도 급등 빅데이터뉴스",
-      "publishedAt": "2026-09-15T06:46:19.000Z",
+      "id": "2b0da63b7ea234e8",
+      "title": "[현장에서] “AI 돌봄로봇 안전성 검증, 평가 기술·표준 규격 개발” - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3QTVWbWVBZVZ6VGJEME4xN0FmcmptaDFRSnJaVF9KbFdDYnlXMW82MFlnUjNzZE5SeHFZTk81Z2Vsa19TaV9FZy1hSjdoTjcycDExWUcyTGVLdw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[현장에서] “AI 돌봄로봇 안전성 검증, 평가 기술·표준 규격 개발” 이투데이",
+      "publishedAt": "2026-09-16T06:10:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-15T03:43:58.000Z"
+      "updatedAt": "2026-09-16T03:40:57.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
