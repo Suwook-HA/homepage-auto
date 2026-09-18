@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-17T03:41:43.320Z",
-  "projectsCheckedAt": "2026-09-17T03:41:43.320Z",
-  "projectsUpdatedAt": "2026-09-17T03:41:43.320Z",
+  "updatedAt": "2026-09-18T03:27:54.074Z",
+  "projectsCheckedAt": "2026-09-18T03:27:54.074Z",
+  "projectsUpdatedAt": "2026-09-18T03:27:54.074Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-17T03:41:43.320Z",
+    "checkedAt": "2026-09-18T03:27:54.074Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "6b273aa634077ed4",
-      "title": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설 - itworld.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOV2dCNGNVTEFMak4tek5FbW9aR1doY2xrSW5sZFItUlZ0X2N5dFdlUHNBYVl6OXBvekFTdjVacWdFd3F0YWd6SkFuY2l5clI0VjlzMFRSaHZrZTMySWg0ckVwd2UybkIycXpLQXd5Qzl6NHR1SGJfempuSFV2THNnOHRQSVRXbXZfdWxtN2VGYWJzX1pJX2RHNXFxZUp1TUFuNU9MRGNFNTJnUm9rWDRZWkNqdk9fZENkNGFfQ0FRT0tNMkUybU5jNThLMHdMY004Tzd4cDZ4Z213Q0xBQ3lic2NGZFZWSDFzbVFLa1hCdUJBclQzSTloN0FmR2ZtbTRNa3p0MHpwekpBQ19XbWZXaGJSWjRYUEJlSzVKNjhwLXdpaWhCZEQ5eXhES1BkVkVMdGt1M2J4MWdBMVpyajNhb3NBVk1zUEZhUHNQRWYzbVQ5dGp4TS16Ng?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설 itworld.co.kr",
-      "publishedAt": "2026-09-17T01:57:05.000Z",
+      "id": "5ae30aeb71d66ab5",
+      "title": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZXVVOHB4a1F0TGFPMW9uaGhPM2Y0WUR0eVlWNnFjMllONHFjSl9VNXNMdnlRLTlaWFFSWXBfZGpxX0JwYUZOS21kV1VRaC1IOGVQRFFOVGktWVXSAWBBVV95cUxOaExFbXItUlpNZDViVXFndkE5ZEtZV3QxNldEX1Y0VHNmdmNacFE1dm9fbjNIN0JIMnJiNXYxdW5QVG9wS1VSaHNuSFBUTWZaSV90LTMtWU45NXlQSW9MN28?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 연합뉴스",
+      "publishedAt": "2026-09-18T01:40:01.000Z",
       "rank": 1
     },
     {
-      "id": "e99d948a2ced5b3b",
-      "title": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 운영 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LOU5tSkFORUJFa1JZaUZmbm1ZRVYxNy1UTW9YMGxhcF9VVVRmZm9QS2ZzT3ROWHFxby1odTBwOVhYbnA3YXVFMVk4WXE1dw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 운영 전자신문",
-      "publishedAt": "2026-09-17T00:02:49.000Z",
+      "id": "69f87f13028dad58",
+      "title": "“Safety standard talks” “A cartel that blocks competition” ‘Monopoly’ controversy grows over limits on AI development - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01S21QN3NSLUtiSzF0SEwtVXFsbWdtTEdNbGIyNjNYb1U1THpDTURGZHdJeF9yQmRqd0JLQVJyYnVJa2tERkc0QWVpVGoteGJmRjRWQjJNR3JIemFyc0E?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "“Safety standard talks” “A cartel that blocks competition” ‘Monopoly’ controversy grows over limits on AI development 경향신문",
+      "publishedAt": "2026-09-17T14:17:00.000Z",
       "rank": 2
     },
     {
-      "id": "57f0f6fd94fb0418",
-      "title": "“AI를 위한 데이터 관리 지원” 데이터스트림즈-에스에이티 정보 전략적 협력 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaRmhwVkxkdGdyMVFfQWYwbVJxUWhYOGdwci1jMmlRdFA2Q0NmeFpUdkJrYTJhR3FONU9UbFdNdTFjZmRPNk1mMW9Vam4?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“AI를 위한 데이터 관리 지원” 데이터스트림즈-에스에이티 정보 전략적 협력 전자신문",
-      "publishedAt": "2026-09-16T23:32:20.000Z",
+      "id": "b0e149070572d30b",
+      "title": "6G부터 피지컬AI까지…韓, 차세대 ICT 국제표준 주도권 잡는다 - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40VnptajBncWlIMzdsdHphNS1TMWJZYWcxaTBCNGRwVDN4UHoxTzFRYXhWaUNWQ1QwMG5OSW10LXZiVXFGRHZOb3hReUVSQllPS3lPLVNfQXFqTzFfRkV2WVM4NzJOQdIBa0FVX3lxTFBqd1dtbmRCdDJPZVAyXzZRXzgxRkJTYTdLWmk4czN2TV9lU3Ntcmw4aWtOZDc4ZWhhWXNyTlhuMmpnaV9SdmJ0emhzT0p4UjNlaEctdEJvQVpaOEdKUDgxN3ctMFlNTk1oQlVJ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "6G부터 피지컬AI까지…韓, 차세대 ICT 국제표준 주도권 잡는다 news1.kr",
+      "publishedAt": "2026-09-18T01:40:00.000Z",
       "rank": 3
     },
     {
-      "id": "427cdabb4507774b",
-      "title": "기업 99% “AI로 스토리지 수요 증가” - 위클리포스트",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xR2xhT0loNHMyUXA3MVZ0Wk40c2R2XzZPSXJkMllvQWhfNEtrUTdRemowUmREeGl4V3hnQzFGdFJuQjExM01KeXdjRFRFZXBZM1RzTU5sbXBUVkpyNGFucjJUMWJ2dE9DQk5V?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "기업 99% “AI로 스토리지 수요 증가” 위클리포스트",
-      "publishedAt": "2026-09-16T13:23:43.000Z",
+      "id": "7b5994f8313d0c38",
+      "title": "국립전파연구원, 6G·피지컬 AI 국제표준화 성과 공유 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02V0s0QWt4NFd1QXppUEIyR05JV192T1FRa3BENm5xYXBWd0loSEhkTmdPaFlqcHFlLWZBX2dfV2RlSEpBUUtIY2NvTUxxSlB6NEdrVUNB?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "국립전파연구원, 6G·피지컬 AI 국제표준화 성과 공유 데일리안",
+      "publishedAt": "2026-09-18T01:40:00.000Z",
       "rank": 4
     },
     {
-      "id": "c4a5da67a66e38f9",
-      "title": "\"클릭 세 번으로\"... EU 여성 국회의원 138명, 딥페이크 표적 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hYzlEQ0RQN1ZFZUdKQXlPQ0MxWHEzLVNvMkd3SUk1ZkNtY042dzNPc0xHZWI0ei1KYXJnRW4zNTdSWUxHaGxRYjU0ODl6WHc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "\"클릭 세 번으로\"... EU 여성 국회의원 138명, 딥페이크 표적 v.daum.net",
-      "publishedAt": "2026-09-16T08:18:04.000Z",
+      "id": "c3257f8066993fcb",
+      "title": "“통합 거버넌스로 AI 대응” 지티원, 고객의 날 AI 전략 제시 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpcXJ4Q19jV3pzUnNfZFJrc2Nzbk8zbnRnSXZWRkxMQWx1bExzaTRJazEtb1hyTTRrOW96MVRMbWYtMFN2ZkVLRFhvVW40QQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“통합 거버넌스로 AI 대응” 지티원, 고객의 날 AI 전략 제시 전자신문",
+      "publishedAt": "2026-09-18T00:34:36.000Z",
       "rank": 5
     },
     {
-      "id": "baef9da06e240509",
-      "title": "흩어진 데이터 연결해 AI 정확도 높인다…국가데이터 표준화 논의 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qV3pyQmNUMGFVeVZpVGJOcG8xcU1PYTdxeFRKRWt3Tjk2VkttRFBtZXlUYS00QU5VNmg2ZFpqNGNkOUdSV2tGR2I5N0lLWkFhaVRIVXZNbFdFTFJn?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "흩어진 데이터 연결해 AI 정확도 높인다…국가데이터 표준화 논의 뉴스핌",
-      "publishedAt": "2026-09-16T06:37:00.000Z",
+      "id": "5960f3f7a6f4c88d",
+      "title": "AI 자율실험실(SDL) 구축과 R&D 가속화 전략 세미나[10.21] - BRIC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVtS012UE5lc2dUWFZGVGViTWtKME10UERXUVVLbGtwbVJLUGVkaEtSTGtrTE01UGpPbldkZ0NCNkdkNXpYdDNUZElPWDgyZDA1c0hUUXZwUkNkdFc3cnpzUkZFYkRCMDU5S2xiZU53Q0NKY1BBdVBQVEk0SU1NeTlqaGpIUTFnVXpVUXB3ZmdrTWc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "AI 자율실험실(SDL) 구축과 R&D 가속화 전략 세미나[10.21] BRIC",
+      "publishedAt": "2026-09-17T14:56:15.000Z",
       "rank": 6
     },
     {
-      "id": "a51c37680b8e8870",
-      "title": "국가데이터 민관협의체 3차 회의…데이터 표준화 검토 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOE51QkpiY2ttQWl5LUtxUXBJbUxiSzdiaERaWkI4enFLb0VZY1hiN19hQ2pEMGhnVVotdU9sUzNncFRGdXN6WE1NbG5HMDNiY3ZjZ1FONW1qSF9lV2JfSdIBeEFVX3lxTE1ia29SNDNuaVMwWTBfUm13eTR0NVA1Qkd1WTZyZUpCRjM5eW9obnVGWG0ybUNDLU81MDBsbEJ4V1ZoZ2NfeHN2V1BqWlVYekVrOEhreTczOTNWak5JUkUxZm9WOGZ4TVA2VlNVQmhoQ1dRZ1N2TzN3VQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "국가데이터 민관협의체 3차 회의…데이터 표준화 검토 뉴시스",
-      "publishedAt": "2026-09-16T06:30:00.000Z",
+      "id": "c5d5b7bfc1744f80",
+      "title": "세일즈를 위한 AI: 활용 사례와 에이전트, 그리고 필수 데이터 파운데이션 - Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0U4TExxWms4bWxVUURQZDloTVBaNG11MndFVXIzcFRzNHJFT3VERzVlcnBjVzVHVmIxSjNyUU1RSGpkeHRYMHA5T1A1UTJBRzYwbzNYVTVpLVVIZDFsUEtibmlPN1FUaWp6YXVHRGVNRUdUdlRBNUE4VFBDMTgxY21UMnNwUWRMaXhscThCTzJtQVdVaXpSaGF4Zzl6QQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "세일즈를 위한 AI: 활용 사례와 에이전트, 그리고 필수 데이터 파운데이션 Snowflake",
+      "publishedAt": "2026-09-17T10:24:48.000Z",
       "rank": 7
     },
     {
-      "id": "2b0da63b7ea234e8",
-      "title": "[현장에서] “AI 돌봄로봇 안전성 검증, 평가 기술·표준 규격 개발” - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3QTVWbWVBZVZ6VGJEME4xN0FmcmptaDFRSnJaVF9KbFdDYnlXMW82MFlnUjNzZE5SeHFZTk81Z2Vsa19TaV9FZy1hSjdoTjcycDExWUcyTGVLdw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[현장에서] “AI 돌봄로봇 안전성 검증, 평가 기술·표준 규격 개발” 이투데이",
-      "publishedAt": "2026-09-16T06:10:00.000Z",
+      "id": "69cdb5b9c084a43a",
+      "title": "Schneider Electric Concludes Innovation Summit Middle East & Africa, Highlights Energy Intelligence as the Next Phase of the Energy Transition - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWk9NbTM1TFlZZDJfbENsMDlmcl9YamM0M3pFazAxYVJpRjctcmdjVGJoT21Sa2FuTGZNNFpPVW16aUZvRkxnOFY0dHM5eFpFTWlPYjRWZHNBd0xwY013?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Schneider Electric Concludes Innovation Summit Middle East & Africa, Highlights Energy Intelligence as the Next Phase of the Energy Transition 뉴스와이어",
+      "publishedAt": "2026-09-17T07:20:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-16T03:40:57.000Z"
+      "updatedAt": "2026-09-17T03:45:48.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
