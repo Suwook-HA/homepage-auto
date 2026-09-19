@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-18T03:27:54.074Z",
-  "projectsCheckedAt": "2026-09-18T03:27:54.074Z",
-  "projectsUpdatedAt": "2026-09-18T03:27:54.074Z",
+  "updatedAt": "2026-09-19T03:24:20.782Z",
+  "projectsCheckedAt": "2026-09-19T03:24:20.782Z",
+  "projectsUpdatedAt": "2026-09-19T03:24:20.782Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-18T03:27:54.074Z",
+    "checkedAt": "2026-09-19T03:24:20.782Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "5ae30aeb71d66ab5",
-      "title": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZXVVOHB4a1F0TGFPMW9uaGhPM2Y0WUR0eVlWNnFjMllONHFjSl9VNXNMdnlRLTlaWFFSWXBfZGpxX0JwYUZOS21kV1VRaC1IOGVQRFFOVGktWVXSAWBBVV95cUxOaExFbXItUlpNZDViVXFndkE5ZEtZV3QxNldEX1Y0VHNmdmNacFE1dm9fbjNIN0JIMnJiNXYxdW5QVG9wS1VSaHNuSFBUTWZaSV90LTMtWU45NXlQSW9MN28?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 연합뉴스",
-      "publishedAt": "2026-09-18T01:40:01.000Z",
+      "id": "4d5144c0f2790652",
+      "title": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tV1dzRzY3S3BNQnFkbHhkemxib01qT1IyeFROX3NZVjRsU3ZjR0pvMWpBWktqeHMtUnNPVjVVcDZZNW9kTWQ4Rkp2WnhxZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 전자신문",
+      "publishedAt": "2026-09-19T03:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "69f87f13028dad58",
-      "title": "“Safety standard talks” “A cartel that blocks competition” ‘Monopoly’ controversy grows over limits on AI development - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01S21QN3NSLUtiSzF0SEwtVXFsbWdtTEdNbGIyNjNYb1U1THpDTURGZHdJeF9yQmRqd0JLQVJyYnVJa2tERkc0QWVpVGoteGJmRjRWQjJNR3JIemFyc0E?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "“Safety standard talks” “A cartel that blocks competition” ‘Monopoly’ controversy grows over limits on AI development 경향신문",
-      "publishedAt": "2026-09-17T14:17:00.000Z",
+      "id": "b0e46d942a523b8e",
+      "title": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 - kmpnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YenJFSXhvR1VZYThyTTloX2VlRUwzY0ZqRm9vekxqaWtjUnVoRnhoMW5rOU1JTUR4Zk1UZXBKMG9CV2M2WU81TUZZMV9ZdXJiNmxlbnYxbDI3ZzdnSzZlWHA0Y0VrQTNua0pR?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 kmpnews.co.kr",
+      "publishedAt": "2026-09-18T20:55:38.000Z",
       "rank": 2
     },
     {
-      "id": "b0e149070572d30b",
-      "title": "6G부터 피지컬AI까지…韓, 차세대 ICT 국제표준 주도권 잡는다 - news1.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40VnptajBncWlIMzdsdHphNS1TMWJZYWcxaTBCNGRwVDN4UHoxTzFRYXhWaUNWQ1QwMG5OSW10LXZiVXFGRHZOb3hReUVSQllPS3lPLVNfQXFqTzFfRkV2WVM4NzJOQdIBa0FVX3lxTFBqd1dtbmRCdDJPZVAyXzZRXzgxRkJTYTdLWmk4czN2TV9lU3Ntcmw4aWtOZDc4ZWhhWXNyTlhuMmpnaV9SdmJ0emhzT0p4UjNlaEctdEJvQVpaOEdKUDgxN3ctMFlNTk1oQlVJ?oc=5",
+      "id": "25eb5020a095bd66",
+      "title": "한국ITU연구위, ‘6G·AI 국제표준 최신 흐름’ 공유...\"미래 ICT 선도\" - cwn.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVzZCLU1EazZodTIybnlhbV8wS25LaEZVVlRpVkY3a0ZEaXhVSVdNQ1RQT09mdVk3bm5hY08yZzE0RDlWelhuQWk4VDFOUDY2UU5wdGRrVVdaZXgwUlFOU0lR?oc=5",
       "source": "Google News: ITU-T standardization",
-      "summary": "6G부터 피지컬AI까지…韓, 차세대 ICT 국제표준 주도권 잡는다 news1.kr",
-      "publishedAt": "2026-09-18T01:40:00.000Z",
+      "summary": "한국ITU연구위, ‘6G·AI 국제표준 최신 흐름’ 공유...\"미래 ICT 선도\" cwn.kr",
+      "publishedAt": "2026-09-18T05:00:00.000Z",
       "rank": 3
     },
     {
-      "id": "7b5994f8313d0c38",
-      "title": "국립전파연구원, 6G·피지컬 AI 국제표준화 성과 공유 - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02V0s0QWt4NFd1QXppUEIyR05JV192T1FRa3BENm5xYXBWd0loSEhkTmdPaFlqcHFlLWZBX2dfV2RlSEpBUUtIY2NvTUxxSlB6NEdrVUNB?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "국립전파연구원, 6G·피지컬 AI 국제표준화 성과 공유 데일리안",
-      "publishedAt": "2026-09-18T01:40:00.000Z",
+      "id": "a83f3551501e80ad",
+      "title": "힐셔, ISO/IEC 27001 인증 획득으로 정보 보안 강화 - 올포칩",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWkZWc1VBdFRCTUlQaUVWNVpoLThDZ3doWUcxeUN2bElnUHNMbzJNWFNYRGMwTTJtOTE1VVBkNl83RUpCeUljWGk3aTRhbDUtaE9RbEZoWGxvWEhEYUdXaQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "힐셔, ISO/IEC 27001 인증 획득으로 정보 보안 강화 올포칩",
+      "publishedAt": "2026-09-17T18:26:44.000Z",
       "rank": 4
     },
     {
-      "id": "c3257f8066993fcb",
-      "title": "“통합 거버넌스로 AI 대응” 지티원, 고객의 날 AI 전략 제시 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpcXJ4Q19jV3pzUnNfZFJrc2Nzbk8zbnRnSXZWRkxMQWx1bExzaTRJazEtb1hyTTRrOW96MVRMbWYtMFN2ZkVLRFhvVW40QQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“통합 거버넌스로 AI 대응” 지티원, 고객의 날 AI 전략 제시 전자신문",
-      "publishedAt": "2026-09-18T00:34:36.000Z",
+      "id": "672829682799bc6d",
+      "title": "AI 사기, 코인 급증…쿠코인 새 보안 표준 추진 - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYlVwaklYSzRVWWZSVUZQc0d2SXBBaDlYM0IxQlFzby1aRkVFb0hLZE1TN2ZUaWZJN0VvOTBMZ2NHRlNwYThJZDlDdmE1ZnJhaHU0enRrNy0yUEdTbTNkcWFDTG52N2JSLWhRdDAzb3hMa3lBSW5DdDkwR2g?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "AI 사기, 코인 급증…쿠코인 새 보안 표준 추진 BeInCrypto",
+      "publishedAt": "2026-09-18T10:25:09.000Z",
       "rank": 5
     },
     {
-      "id": "5960f3f7a6f4c88d",
-      "title": "AI 자율실험실(SDL) 구축과 R&D 가속화 전략 세미나[10.21] - BRIC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVtS012UE5lc2dUWFZGVGViTWtKME10UERXUVVLbGtwbVJLUGVkaEtSTGtrTE01UGpPbldkZ0NCNkdkNXpYdDNUZElPWDgyZDA1c0hUUXZwUkNkdFc3cnpzUkZFYkRCMDU5S2xiZU53Q0NKY1BBdVBQVEk0SU1NeTlqaGpIUTFnVXpVUXB3ZmdrTWc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "AI 자율실험실(SDL) 구축과 R&D 가속화 전략 세미나[10.21] BRIC",
-      "publishedAt": "2026-09-17T14:56:15.000Z",
+      "id": "d33a1684a8483a7e",
+      "title": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Q2ZPU3Z2eEJCRUQ2bmwxYk9TX0JHb01NekQ2S20wXzJsLWZncDBpeG9CcEdDT19LSHVVUV9md0pLbTNuYkxkMlFmN0Y4VGdDd2c?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 매일경제 마켓",
+      "publishedAt": "2026-09-18T01:40:01.000Z",
       "rank": 6
     },
     {
-      "id": "c5d5b7bfc1744f80",
-      "title": "세일즈를 위한 AI: 활용 사례와 에이전트, 그리고 필수 데이터 파운데이션 - Snowflake",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0U4TExxWms4bWxVUURQZDloTVBaNG11MndFVXIzcFRzNHJFT3VERzVlcnBjVzVHVmIxSjNyUU1RSGpkeHRYMHA5T1A1UTJBRzYwbzNYVTVpLVVIZDFsUEtibmlPN1FUaWp6YXVHRGVNRUdUdlRBNUE4VFBDMTgxY21UMnNwUWRMaXhscThCTzJtQVdVaXpSaGF4Zzl6QQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "세일즈를 위한 AI: 활용 사례와 에이전트, 그리고 필수 데이터 파운데이션 Snowflake",
-      "publishedAt": "2026-09-17T10:24:48.000Z",
+      "id": "63c4743af6b9d348",
+      "title": "지역 국립대병원 연구지원 5곳→9곳 확대...5극3특 전략산업 연계 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JRThyQzlfdzVmdFFqZl9fdHFqZE5EdDhsWjFaMzM3UlJEQ0JMMktVUkEwNVR0azBfZzdYcUVKUUdqenVhZ0dxdUc0STdZTWJxY0ZKUnlieWw2VjVHSDhYY0NGT3I3Ui1xdnc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "지역 국립대병원 연구지원 5곳→9곳 확대...5극3특 전략산업 연계 의학신문",
+      "publishedAt": "2026-09-18T07:57:29.000Z",
       "rank": 7
     },
     {
-      "id": "69cdb5b9c084a43a",
-      "title": "Schneider Electric Concludes Innovation Summit Middle East & Africa, Highlights Energy Intelligence as the Next Phase of the Energy Transition - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWk9NbTM1TFlZZDJfbENsMDlmcl9YamM0M3pFazAxYVJpRjctcmdjVGJoT21Sa2FuTGZNNFpPVW16aUZvRkxnOFY0dHM5eFpFTWlPYjRWZHNBd0xwY013?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Schneider Electric Concludes Innovation Summit Middle East & Africa, Highlights Energy Intelligence as the Next Phase of the Energy Transition 뉴스와이어",
-      "publishedAt": "2026-09-17T07:20:00.000Z",
+      "id": "fcd64abb047a3bdb",
+      "title": "미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bExLSkxBOEsxbFcyVlI3LS1QLXlsNG9sN1VTZ2IySmRubFJxOHpPSnVpQUJueHFUaWJUaW4tRER3TTU1aEpueXJsZFNYWTA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정 벤처스퀘어",
+      "publishedAt": "2026-09-18T06:30:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-17T03:45:48.000Z"
+      "updatedAt": "2026-09-18T03:31:58.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
