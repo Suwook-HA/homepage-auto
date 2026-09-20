@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-19T03:24:20.782Z",
-  "projectsCheckedAt": "2026-09-19T03:24:20.782Z",
-  "projectsUpdatedAt": "2026-09-19T03:24:20.782Z",
+  "updatedAt": "2026-09-20T03:41:26.944Z",
+  "projectsCheckedAt": "2026-09-20T03:41:26.944Z",
+  "projectsUpdatedAt": "2026-09-20T03:41:26.944Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-19T03:24:20.782Z",
+    "checkedAt": "2026-09-20T03:41:26.944Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "153e320eea24653c",
+      "title": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5paVFDVFdLY2ZjUnRjOWl1M05ZakdhRy1DN252RzU1RmdBa1dNdHI1Qzc5Rkp1bU9tRXVrN3MycXZ2ZXI2d2xuR2dTb1pMNXdxY1lTNGhzWjk5ZUhDVk1sRmtYTTd3UkNj?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 테크월드",
+      "publishedAt": "2026-09-20T03:14:37.000Z",
+      "rank": 1
+    },
+    {
+      "id": "51dd9ece5dca105a",
+      "title": "ETRI, 피지컬 AI 국제표준화 주도한 … 제조·모빌리티 등 산업 확산 기반 마련 - 워크투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YX01YLTBsa05qQzJBclNhRVhDZ2dDNVltcGVKWU5ubDc4OVdTUVlUeDY2ck1ScGprcThQTlE4UGZyR0VrX0pVN2JWZWNBbHRuMUJtNEVoMktaX193dC0tdXNPUHBERTBjVUQxLQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "ETRI, 피지컬 AI 국제표준화 주도한 … 제조·모빌리티 등 산업 확산 기반 마련 워크투데이",
+      "publishedAt": "2026-09-20T03:12:39.000Z",
+      "rank": 2
+    },
     {
       "id": "4d5144c0f2790652",
       "title": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 - 전자신문",
@@ -65,34 +83,25 @@
       "source": "Google News: AI Data Quality",
       "summary": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 전자신문",
       "publishedAt": "2026-09-19T03:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "b0e46d942a523b8e",
-      "title": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 - kmpnews.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YenJFSXhvR1VZYThyTTloX2VlRUwzY0ZqRm9vekxqaWtjUnVoRnhoMW5rOU1JTUR4Zk1UZXBKMG9CV2M2WU81TUZZMV9ZdXJiNmxlbnYxbDI3ZzdnSzZlWHA0Y0VrQTNua0pR?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 kmpnews.co.kr",
-      "publishedAt": "2026-09-18T20:55:38.000Z",
-      "rank": 2
-    },
-    {
-      "id": "25eb5020a095bd66",
-      "title": "한국ITU연구위, ‘6G·AI 국제표준 최신 흐름’ 공유...\"미래 ICT 선도\" - cwn.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVzZCLU1EazZodTIybnlhbV8wS25LaEZVVlRpVkY3a0ZEaXhVSVdNQ1RQT09mdVk3bm5hY08yZzE0RDlWelhuQWk4VDFOUDY2UU5wdGRrVVdaZXgwUlFOU0lR?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국ITU연구위, ‘6G·AI 국제표준 최신 흐름’ 공유...\"미래 ICT 선도\" cwn.kr",
-      "publishedAt": "2026-09-18T05:00:00.000Z",
       "rank": 3
     },
     {
-      "id": "a83f3551501e80ad",
-      "title": "힐셔, ISO/IEC 27001 인증 획득으로 정보 보안 강화 - 올포칩",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWkZWc1VBdFRCTUlQaUVWNVpoLThDZ3doWUcxeUN2bElnUHNMbzJNWFNYRGMwTTJtOTE1VVBkNl83RUpCeUljWGk3aTRhbDUtaE9RbEZoWGxvWEhEYUdXaQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "힐셔, ISO/IEC 27001 인증 획득으로 정보 보안 강화 올포칩",
-      "publishedAt": "2026-09-17T18:26:44.000Z",
+      "id": "4395bae55557601f",
+      "title": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 - 한국의약통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YenJFSXhvR1VZYThyTTloX2VlRUwzY0ZqRm9vekxqaWtjUnVoRnhoMW5rOU1JTUR4Zk1UZXBKMG9CV2M2WU81TUZZMV9ZdXJiNmxlbnYxbDI3ZzdnSzZlWHA0Y0VrQTNua0pR?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 한국의약통신",
+      "publishedAt": "2026-09-18T20:55:38.000Z",
       "rank": 4
+    },
+    {
+      "id": "755d9b1e90c9e95e",
+      "title": "한국ITU연구위, 표준화 성과 워크숍 열어 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWTVpTEdhRi1IRDFkblN0bmtFd0JnQmN1QXpfbHhybm45X183YjFaTVFBQ2dXSlVVSmRPVHpTY1poOVBzLVIzeGZHdDFnWmZFS2JFZDV6eU1tN3FSRXVKZ2NRTjRqZFJOeW5mOUoyU2FjV2M?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "한국ITU연구위, 표준화 성과 워크숍 열어 디지털투데이",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "rank": 5
     },
     {
       "id": "672829682799bc6d",
@@ -101,15 +110,6 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "AI 사기, 코인 급증…쿠코인 새 보안 표준 추진 BeInCrypto",
       "publishedAt": "2026-09-18T10:25:09.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d33a1684a8483a7e",
-      "title": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Q2ZPU3Z2eEJCRUQ2bmwxYk9TX0JHb01NekQ2S20wXzJsLWZncDBpeG9CcEdDT19LSHVVUV9md0pLbTNuYkxkMlFmN0Y4VGdDd2c?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국ITU연구위, 6G·위성통신·AI 국제표준 성과 공유 매일경제 마켓",
-      "publishedAt": "2026-09-18T01:40:01.000Z",
       "rank": 6
     },
     {
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-18T03:31:58.000Z"
+      "updatedAt": "2026-09-19T03:28:24.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
