@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-20T03:41:26.944Z",
-  "projectsCheckedAt": "2026-09-20T03:41:26.944Z",
-  "projectsUpdatedAt": "2026-09-20T03:41:26.944Z",
+  "updatedAt": "2026-09-21T03:36:17.373Z",
+  "projectsCheckedAt": "2026-09-21T03:36:17.373Z",
+  "projectsUpdatedAt": "2026-09-21T03:36:17.373Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-20T03:41:26.944Z",
+    "checkedAt": "2026-09-21T03:36:17.373Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "153e320eea24653c",
-      "title": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5paVFDVFdLY2ZjUnRjOWl1M05ZakdhRy1DN252RzU1RmdBa1dNdHI1Qzc5Rkp1bU9tRXVrN3MycXZ2ZXI2d2xuR2dTb1pMNXdxY1lTNGhzWjk5ZUhDVk1sRmtYTTd3UkNj?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 테크월드",
-      "publishedAt": "2026-09-20T03:14:37.000Z",
+      "id": "0780249307ee4e75",
+      "title": "KT, UN 산하 기구 ITU 주관 국제표준회의 참가 - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ndVZjQTBpejljQXhEa1dPdXYxbXhmN3QzemtXWVZOQVE2TDFCTk5WMnlnamlKLWtUOHlPSF9vSzA4UjRjNUVBaE9FRU9tczBua28zMzFZejV3ZU9NU01WMk1pbkxLcHllMVpEYzVXdErSAXRBVV95cUxOUUhGZDFST2wzc0hDcnc0OXJRemVzelBCV2RCUEVtOThsb2YzemFRYlhXTUR0aFJlY2wwanhjOUtRZG1ZbDB2R2ZtaWtTdWtRWFlUNnp2LVdBLUU0RnVKQ0xESjJzdUdtMGZaZVpJSy1YYVJtYw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "KT, UN 산하 기구 ITU 주관 국제표준회의 참가 주간한국",
+      "publishedAt": "2026-09-21T02:53:13.000Z",
       "rank": 1
     },
     {
-      "id": "51dd9ece5dca105a",
-      "title": "ETRI, 피지컬 AI 국제표준화 주도한 … 제조·모빌리티 등 산업 확산 기반 마련 - 워크투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YX01YLTBsa05qQzJBclNhRVhDZ2dDNVltcGVKWU5ubDc4OVdTUVlUeDY2ck1ScGprcThQTlE4UGZyR0VrX0pVN2JWZWNBbHRuMUJtNEVoMktaX193dC0tdXNPUHBERTBjVUQxLQ?oc=5",
+      "id": "1e05023c2da2aa8a",
+      "title": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZDRFYXZwWVRIc0Q1UnNfUktfc0JjX3g1YXRCSEh5MFBFdWhrRFBiUTFjOXFjb3I4b0JETkI3Wmp3Rk8wRlNhRWxrTmhyX2ZSV3JjcjVB?oc=5",
       "source": "Google News: ITU-T standardization",
-      "summary": "ETRI, 피지컬 AI 국제표준화 주도한 … 제조·모빌리티 등 산업 확산 기반 마련 워크투데이",
-      "publishedAt": "2026-09-20T03:12:39.000Z",
+      "summary": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 e4ds news",
+      "publishedAt": "2026-09-21T02:31:00.000Z",
       "rank": 2
     },
     {
-      "id": "4d5144c0f2790652",
-      "title": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tV1dzRzY3S3BNQnFkbHhkemxib01qT1IyeFROX3NZVjRsU3ZjR0pvMWpBWktqeHMtUnNPVjVVcDZZNW9kTWQ4Rkp2WnhxZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“교육 AI 품질, 데이터가 결정”…AI 플랫폼이 바꾸는 교실 전자신문",
-      "publishedAt": "2026-09-19T03:00:00.000Z",
+      "id": "034e15876e9f8d65",
+      "title": "KT, AI 보안 국제표준화 리더십 강화…ITU서 개발 지침 제안 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sTENkWGFnZTkzRExDY09fTlZRbmE5X3pvNTFYakpjWDBUZDVLZ1RxZ21GSG9KM1k3d3NVX1Vob2tTazJyUVdkTEhGaEhmTVQtMHhPdGhYR2hJZzVqblNjb09pbjZjRWpvRG1vT2FrY3VVZFU?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, AI 보안 국제표준화 리더십 강화…ITU서 개발 지침 제안 디지털투데이",
+      "publishedAt": "2026-09-21T02:02:00.000Z",
       "rank": 3
     },
     {
-      "id": "4395bae55557601f",
-      "title": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 - 한국의약통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YenJFSXhvR1VZYThyTTloX2VlRUwzY0ZqRm9vekxqaWtjUnVoRnhoMW5rOU1JTUR4Zk1UZXBKMG9CV2M2WU81TUZZMV9ZdXJiNmxlbnYxbDI3ZzdnSzZlWHA0Y0VrQTNua0pR?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "복지부, 5극3특 전략산업과 연계한 2단계 사업 준비 한국의약통신",
-      "publishedAt": "2026-09-18T20:55:38.000Z",
+      "id": "4fa05220e6d641d9",
+      "title": "KT, AI 사이버보안 국제표준화 주도…ITU에 개발 지침 제안 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QNWstcktJNzJjUkQ5UHhaTXA4QS1LT2M0YjZzaDRnYUtURGdTWkhUYnRUUHlkM1pMQUJ3TUxFb1JFb2dHQlgxd2FxOA?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "KT, AI 사이버보안 국제표준화 주도…ITU에 개발 지침 제안 아이뉴스24",
+      "publishedAt": "2026-09-21T02:01:14.000Z",
       "rank": 4
     },
     {
-      "id": "755d9b1e90c9e95e",
-      "title": "한국ITU연구위, 표준화 성과 워크숍 열어 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWTVpTEdhRi1IRDFkblN0bmtFd0JnQmN1QXpfbHhybm45X183YjFaTVFBQ2dXSlVVSmRPVHpTY1poOVBzLVIzeGZHdDFnWmZFS2JFZDV6eU1tN3FSRXVKZ2NRTjRqZFJOeW5mOUoyU2FjV2M?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "한국ITU연구위, 표준화 성과 워크숍 열어 디지털투데이",
-      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "id": "16f2f70b2e33661f",
+      "title": "[테크스냅] KT, ITU 국제표준회의서 AI 사이버보안 표준화 주도 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10dE1EUFVGNHFwTFJjTVNfY2Q0dWpwSnNvbDlEenBwUnFaSm50aDNCWHRGdm5ycnpCOTBYVDFiLTA0dkZDTHZCeWtDME4wajN1UkE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[테크스냅] KT, ITU 국제표준회의서 AI 사이버보안 표준화 주도 매일경제 마켓",
+      "publishedAt": "2026-09-21T01:57:53.000Z",
       "rank": 5
     },
     {
-      "id": "672829682799bc6d",
-      "title": "AI 사기, 코인 급증…쿠코인 새 보안 표준 추진 - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYlVwaklYSzRVWWZSVUZQc0d2SXBBaDlYM0IxQlFzby1aRkVFb0hLZE1TN2ZUaWZJN0VvOTBMZ2NHRlNwYThJZDlDdmE1ZnJhaHU0enRrNy0yUEdTbTNkcWFDTG52N2JSLWhRdDAzb3hMa3lBSW5DdDkwR2g?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "AI 사기, 코인 급증…쿠코인 새 보안 표준 추진 BeInCrypto",
-      "publishedAt": "2026-09-18T10:25:09.000Z",
+      "id": "aac21dab14749e37",
+      "title": "KT, ITU 회의서 AI 보안 모델 개발 기준 제안…디지털 신뢰 표준화 참여 - 라이센스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LeWFmalFJbDYxbGN2SEZidFhMMEtUeDNDTVQxWXlVRXMwckZkOUlISkpBZ1ZsbG5SdXhSaURycTRqSHNnRThFT3hvUWdjaTBXQldKOWV2cmYwdkpzN1lSMU9WMXg5VXNjRjc4?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, ITU 회의서 AI 보안 모델 개발 기준 제안…디지털 신뢰 표준화 참여 라이센스뉴스",
+      "publishedAt": "2026-09-21T01:34:16.000Z",
       "rank": 6
     },
     {
-      "id": "63c4743af6b9d348",
-      "title": "지역 국립대병원 연구지원 5곳→9곳 확대...5극3특 전략산업 연계 - 의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JRThyQzlfdzVmdFFqZl9fdHFqZE5EdDhsWjFaMzM3UlJEQ0JMMktVUkEwNVR0azBfZzdYcUVKUUdqenVhZ0dxdUc0STdZTWJxY0ZKUnlieWw2VjVHSDhYY0NGT3I3Ui1xdnc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "지역 국립대병원 연구지원 5곳→9곳 확대...5극3특 전략산업 연계 의학신문",
-      "publishedAt": "2026-09-18T07:57:29.000Z",
+      "id": "46e2305ec3b6a5c3",
+      "title": "KT, AI 사이버보안 국제표준화 나선다…ITU-T에 개발 가이드라인 제안 - 이코노뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bVpsVkJqeE1qVEVOMi1hVjlNMi1xODA0cFVUNldjYk5QV1loNGJ1d3FGN0FiblZ1N3BoU0hmX1A3eEdiS3lWNUtWTHV4eXk3Ui1XX1Z4U1VTdkdYdklWSWVpQXMwV0lpc0pQTEtPRQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, AI 사이버보안 국제표준화 나선다…ITU-T에 개발 가이드라인 제안 이코노뉴스",
+      "publishedAt": "2026-09-21T00:40:00.000Z",
       "rank": 7
     },
     {
-      "id": "fcd64abb047a3bdb",
-      "title": "미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bExLSkxBOEsxbFcyVlI3LS1QLXlsNG9sN1VTZ2IySmRubFJxOHpPSnVpQUJueHFUaWJUaW4tRER3TTU1aEpueXJsZFNYWTA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정 벤처스퀘어",
-      "publishedAt": "2026-09-18T06:30:00.000Z",
+      "id": "897917236ba43a36",
+      "title": "IPARK현대산업개발, 추석 연휴 전 안전사고 예방을 위한 CEO 현장 안전 점검 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcXBPbXpBTjBULVdPX2NWdHZqMW9NV19mT0hTMmVOcTB2eE9mQ0FPOXhRMXJ2UWg4VnRKQkV3Y01JTFFqQUxFd1J2eXduYnBYV3UyRGVXYUdzZw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "IPARK현대산업개발, 추석 연휴 전 안전사고 예방을 위한 CEO 현장 안전 점검 한국경제",
+      "publishedAt": "2026-09-21T00:40:45.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-19T03:28:24.000Z"
+      "updatedAt": "2026-09-20T03:45:30.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
