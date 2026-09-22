@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21T03:36:17.373Z",
-  "projectsCheckedAt": "2026-09-21T03:36:17.373Z",
-  "projectsUpdatedAt": "2026-09-21T03:36:17.373Z",
+  "updatedAt": "2026-09-22T03:34:59.283Z",
+  "projectsCheckedAt": "2026-09-22T03:34:59.283Z",
+  "projectsUpdatedAt": "2026-09-22T03:34:59.283Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-21T03:36:17.373Z",
+    "checkedAt": "2026-09-22T03:34:59.283Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "0780249307ee4e75",
-      "title": "KT, UN 산하 기구 ITU 주관 국제표준회의 참가 - 주간한국",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ndVZjQTBpejljQXhEa1dPdXYxbXhmN3QzemtXWVZOQVE2TDFCTk5WMnlnamlKLWtUOHlPSF9vSzA4UjRjNUVBaE9FRU9tczBua28zMzFZejV3ZU9NU01WMk1pbkxLcHllMVpEYzVXdErSAXRBVV95cUxOUUhGZDFST2wzc0hDcnc0OXJRemVzelBCV2RCUEVtOThsb2YzemFRYlhXTUR0aFJlY2wwanhjOUtRZG1ZbDB2R2ZtaWtTdWtRWFlUNnp2LVdBLUU0RnVKQ0xESjJzdUdtMGZaZVpJSy1YYVJtYw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "KT, UN 산하 기구 ITU 주관 국제표준회의 참가 주간한국",
-      "publishedAt": "2026-09-21T02:53:13.000Z",
+      "id": "d5ce846d2efa1974",
+      "title": "중부발전, 국제표준 인공지능 경영시스템 'ISO/IEC 42001' 인증 획득 - dtoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aazB5SGJ6VVU2eWJ1TXZ1TjRjdTExWnRpVmdZYjZVeldwcWc1Q3ZDQ2FFeDgxdWFPREpReHN6SVdiTmNqN1FYc014MXZQT3ZQV190UU9kZWI5N2JnZDRVRk1jczQtQjRrUS00?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "중부발전, 국제표준 인공지능 경영시스템 'ISO/IEC 42001' 인증 획득 dtoday.co.kr",
+      "publishedAt": "2026-09-22T00:08:51.000Z",
       "rank": 1
     },
     {
-      "id": "1e05023c2da2aa8a",
-      "title": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 - e4ds news",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZDRFYXZwWVRIc0Q1UnNfUktfc0JjX3g1YXRCSEh5MFBFdWhrRFBiUTFjOXFjb3I4b0JETkI3Wmp3Rk8wRlNhRWxrTmhyX2ZSV3JjcjVB?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "ETRI, ITU-T 피지컬 AI 국제표준화 논의체 신설 주도 e4ds news",
-      "publishedAt": "2026-09-21T02:31:00.000Z",
+      "id": "90463b706cfc2254",
+      "title": "KT, UN 산하 ITU-T SG17 정보보호 연구반서 AI·신뢰 보안 국제표준화 리더십 강화 - 올포칩",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVTlxOTV0QjJ5Z3hVcEx3UkRaM1NZRF9rVFNGNUc0R1BhWkttRjR2XzZyZmxtQ19fb2xHeXotQ1lHSDFYTXlqUk1kVGtVeG1OREZrM3d1ZTlMbXhwQjlIMw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "KT, UN 산하 ITU-T SG17 정보보호 연구반서 AI·신뢰 보안 국제표준화 리더십 강화 올포칩",
+      "publishedAt": "2026-09-21T16:43:19.000Z",
       "rank": 2
     },
     {
-      "id": "034e15876e9f8d65",
-      "title": "KT, AI 보안 국제표준화 리더십 강화…ITU서 개발 지침 제안 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sTENkWGFnZTkzRExDY09fTlZRbmE5X3pvNTFYakpjWDBUZDVLZ1RxZ21GSG9KM1k3d3NVX1Vob2tTazJyUVdkTEhGaEhmTVQtMHhPdGhYR2hJZzVqblNjb09pbjZjRWpvRG1vT2FrY3VVZFU?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "KT, AI 보안 국제표준화 리더십 강화…ITU서 개발 지침 제안 디지털투데이",
-      "publishedAt": "2026-09-21T02:02:00.000Z",
+      "id": "caa234f7ea5ea868",
+      "title": "한국중부발전, 에너지 공기업 최초 생성형 AI 기반 ‘ISO/IEC 42001’ 인증 획득 - 에너지코리아뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hNWlPTVRUS3hKWkJnSlVvY2hfblh6XzFKd2ZxOXR4Nm8tNE82Qm5tRFZSZXFPdXNnRThfbm9GZWNTb1g3R0xjZWF5d21ubS04dzM4QkEtSl83MEVuQnpWVGt6aWFqNHBKY1FHN0RRUUQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한국중부발전, 에너지 공기업 최초 생성형 AI 기반 ‘ISO/IEC 42001’ 인증 획득 에너지코리아뉴스",
+      "publishedAt": "2026-09-21T08:04:23.000Z",
       "rank": 3
     },
     {
-      "id": "4fa05220e6d641d9",
-      "title": "KT, AI 사이버보안 국제표준화 주도…ITU에 개발 지침 제안 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QNWstcktJNzJjUkQ5UHhaTXA4QS1LT2M0YjZzaDRnYUtURGdTWkhUYnRUUHlkM1pMQUJ3TUxFb1JFb2dHQlgxd2FxOA?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "KT, AI 사이버보안 국제표준화 주도…ITU에 개발 지침 제안 아이뉴스24",
-      "publishedAt": "2026-09-21T02:01:14.000Z",
+      "id": "da6852d04a330314",
+      "title": "단 하루 만에 +17%: AI가 선택한 이 종목, 데이터센터 급등세 포착 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBveTVkV1VnLU1KbHhva0Nfb1lwZGRMZWRKLWhaZkR2ZEREeGdtTlFkcWF5Tjc1VGVkZHgwNTNCclNxZFJzNW5tRlFRTXB0WUNkbHN0VjlwbWFqVGNjWFloYnF2TWtPMGxSSkpDaGdzZ2I?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "단 하루 만에 +17%: AI가 선택한 이 종목, 데이터센터 급등세 포착 Investing.com 한국어",
+      "publishedAt": "2026-09-22T02:44:00.000Z",
       "rank": 4
     },
     {
-      "id": "16f2f70b2e33661f",
-      "title": "[테크스냅] KT, ITU 국제표준회의서 AI 사이버보안 표준화 주도 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10dE1EUFVGNHFwTFJjTVNfY2Q0dWpwSnNvbDlEenBwUnFaSm50aDNCWHRGdm5ycnpCOTBYVDFiLTA0dkZDTHZCeWtDME4wajN1UkE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[테크스냅] KT, ITU 국제표준회의서 AI 사이버보안 표준화 주도 매일경제 마켓",
-      "publishedAt": "2026-09-21T01:57:53.000Z",
+      "id": "adfe1a257d555bb5",
+      "title": "\"맞춤형 뷰티테크 신뢰 높인다\"…에이피알, AI 인증 2종 획득 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZ3liWDhFdUVZYXA2NWtfZktwWjA4c0xNdERiek9TaWFXNzMxNy1UWnhfNlFIMTUxamFpWk9lT1FKdVFkSWZud0UyejA1S0xQNmJVOWozZzc2OWxR0gFiQVVfeXFMUF91ZWxxYVFZYndPUV9KemJ6NHdUZG9rZ1BoMmZwTUJMWW9JOURyT1AtU3JVUTRJajBIVGp2NGl5bmpsZ2NSN280akIxbXdoM21PRllUSlBpZWJPTEV5ZGdpWHc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "\"맞춤형 뷰티테크 신뢰 높인다\"…에이피알, AI 인증 2종 획득 뉴스1",
+      "publishedAt": "2026-09-22T02:18:48.000Z",
       "rank": 5
     },
     {
-      "id": "aac21dab14749e37",
-      "title": "KT, ITU 회의서 AI 보안 모델 개발 기준 제안…디지털 신뢰 표준화 참여 - 라이센스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LeWFmalFJbDYxbGN2SEZidFhMMEtUeDNDTVQxWXlVRXMwckZkOUlISkpBZ1ZsbG5SdXhSaURycTRqSHNnRThFT3hvUWdjaTBXQldKOWV2cmYwdkpzN1lSMU9WMXg5VXNjRjc4?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "KT, ITU 회의서 AI 보안 모델 개발 기준 제안…디지털 신뢰 표준화 참여 라이센스뉴스",
-      "publishedAt": "2026-09-21T01:34:16.000Z",
+      "id": "2812cd570e6b9db3",
+      "title": "에이피알, AI 경영시스템·제품 신뢰성 국제인증 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00dnpXTGlHUk43TEFRVHRaYkJ3MWhTVnlYQVotZnJBaW13SV9Ib3NFWFNfajZLZy1veXY3RnlBWFVXMjRER3BJaUxMc2hwQQ?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "에이피알, AI 경영시스템·제품 신뢰성 국제인증 획득 전자신문",
+      "publishedAt": "2026-09-22T02:10:26.000Z",
       "rank": 6
     },
     {
-      "id": "46e2305ec3b6a5c3",
-      "title": "KT, AI 사이버보안 국제표준화 나선다…ITU-T에 개발 가이드라인 제안 - 이코노뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bVpsVkJqeE1qVEVOMi1hVjlNMi1xODA0cFVUNldjYk5QV1loNGJ1d3FGN0FiblZ1N3BoU0hmX1A3eEdiS3lWNUtWTHV4eXk3Ui1XX1Z4U1VTdkdYdklWSWVpQXMwV0lpc0pQTEtPRQ?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "KT, AI 사이버보안 국제표준화 나선다…ITU-T에 개발 가이드라인 제안 이코노뉴스",
-      "publishedAt": "2026-09-21T00:40:00.000Z",
+      "id": "9a713a28c3ce0de8",
+      "title": "에이피알, AI 국제 인증 기반 신뢰성 강화 - 코스모닝",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jRlNncDZTVGJLUG1iSEpwTXc4UDZTNndBTXlOR29XalBXM0hoX1RmYnRSTE9FSmRNOVpVTmV6MHRIeGJZb3BSRXhRVnlJdnRTNy1kdnl6cEV3dWlHYmwtN0JBcw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "에이피알, AI 국제 인증 기반 신뢰성 강화 코스모닝",
+      "publishedAt": "2026-09-22T01:56:15.000Z",
       "rank": 7
     },
     {
-      "id": "897917236ba43a36",
-      "title": "IPARK현대산업개발, 추석 연휴 전 안전사고 예방을 위한 CEO 현장 안전 점검 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcXBPbXpBTjBULVdPX2NWdHZqMW9NV19mT0hTMmVOcTB2eE9mQ0FPOXhRMXJ2UWg4VnRKQkV3Y01JTFFqQUxFd1J2eXduYnBYV3UyRGVXYUdzZw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "IPARK현대산업개발, 추석 연휴 전 안전사고 예방을 위한 CEO 현장 안전 점검 한국경제",
-      "publishedAt": "2026-09-21T00:40:45.000Z",
+      "id": "1a3a5ac9e1fd096e",
+      "title": "에이피알, AI 국제 인증 획득…\"뷰티 업계 세계 최초\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VRHJWcUFiTGkyM0hyTHptb3V1b2ZaWWQ2am1WMktOQWwtN2FmRFFoQjUzWS1NYWVkR2J1Q0lWOU9qYmkyYm5hREt0ZGUtSmh4NXNvREl6ZnVQdkNrUlBocUVabGk5bHd4SGRUX1g0ejZBU0VaNnE0WNIBeEFVX3lxTE1VRHJWcUFiTGkyM0hyTHptb3V1b2ZaWWQ2am1WMktOQWwtN2FmRFFoQjUzWS1NYWVkR2J1Q0lWOU9qYmkyYm5hREt0ZGUtSmh4NXNvREl6ZnVQdkNrUlBocUVabGk5bHd4SGRUX1g0ejZBU0VaNnE0WA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "에이피알, AI 국제 인증 획득…\"뷰티 업계 세계 최초\" 뉴시스",
+      "publishedAt": "2026-09-22T01:42:15.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-20T03:45:30.000Z"
+      "updatedAt": "2026-09-21T03:40:20.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
