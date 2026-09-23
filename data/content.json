@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-22T03:34:59.283Z",
-  "projectsCheckedAt": "2026-09-22T03:34:59.283Z",
-  "projectsUpdatedAt": "2026-09-22T03:34:59.283Z",
+  "updatedAt": "2026-09-23T03:34:46.968Z",
+  "projectsCheckedAt": "2026-09-23T03:34:46.968Z",
+  "projectsUpdatedAt": "2026-09-23T03:34:46.968Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-22T03:34:59.283Z",
+    "checkedAt": "2026-09-23T03:34:46.968Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d5ce846d2efa1974",
-      "title": "중부발전, 국제표준 인공지능 경영시스템 'ISO/IEC 42001' 인증 획득 - dtoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aazB5SGJ6VVU2eWJ1TXZ1TjRjdTExWnRpVmdZYjZVeldwcWc1Q3ZDQ2FFeDgxdWFPREpReHN6SVdiTmNqN1FYc014MXZQT3ZQV190UU9kZWI5N2JnZDRVRk1jczQtQjRrUS00?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "중부발전, 국제표준 인공지능 경영시스템 'ISO/IEC 42001' 인증 획득 dtoday.co.kr",
-      "publishedAt": "2026-09-22T00:08:51.000Z",
+      "id": "eb7aa4393c3d2d1e",
+      "title": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 - 경상일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMFBBRm41UGV6YWlxdHdGTmZPYWVMNFl4UFBTVmRGV0MtTFJYeE1mTWxjNlZGa0xPVllHa2o1X21USWdReG91bHQ1Z3J6UzNXdWYxMFgwLXhPNVpMSko0cmduXy1uaWM2MGlJTA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 경상일보",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "90463b706cfc2254",
-      "title": "KT, UN 산하 ITU-T SG17 정보보호 연구반서 AI·신뢰 보안 국제표준화 리더십 강화 - 올포칩",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVTlxOTV0QjJ5Z3hVcEx3UkRaM1NZRF9rVFNGNUc0R1BhWkttRjR2XzZyZmxtQ19fb2xHeXotQ1lHSDFYTXlqUk1kVGtVeG1OREZrM3d1ZTlMbXhwQjlIMw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "KT, UN 산하 ITU-T SG17 정보보호 연구반서 AI·신뢰 보안 국제표준화 리더십 강화 올포칩",
-      "publishedAt": "2026-09-21T16:43:19.000Z",
+      "id": "202ac1c05d31dd2e",
+      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xYmJzcDZrUFlKYUtiOFRGQmtzcjRxei1vWk1zbGVlZ2E3QjlkRTAtbjRtaDBrLTFmZXdqcmZxdHpRelZ2SVk5T3BiVEFKLVZKYmVRQXVidFV4NDFMOGYxRm9IeGlHU1lPNVU1MG96aXdDTHNHbU9LNNIBeEFVX3lxTE1xYmJzcDZrUFlKYUtiOFRGQmtzcjRxei1vWk1zbGVlZ2E3QjlkRTAtbjRtaDBrLTFmZXdqcmZxdHpRelZ2SVk5T3BiVEFKLVZKYmVRQXVidFV4NDFMOGYxRm9IeGlHU1lPNVU1MG96aXdDTHNHbU9LNA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
+      "publishedAt": "2026-09-23T00:03:13.000Z",
       "rank": 2
     },
     {
-      "id": "caa234f7ea5ea868",
-      "title": "한국중부발전, 에너지 공기업 최초 생성형 AI 기반 ‘ISO/IEC 42001’ 인증 획득 - 에너지코리아뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hNWlPTVRUS3hKWkJnSlVvY2hfblh6XzFKd2ZxOXR4Nm8tNE82Qm5tRFZSZXFPdXNnRThfbm9GZWNTb1g3R0xjZWF5d21ubS04dzM4QkEtSl83MEVuQnpWVGt6aWFqNHBKY1FHN0RRUUQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "한국중부발전, 에너지 공기업 최초 생성형 AI 기반 ‘ISO/IEC 42001’ 인증 획득 에너지코리아뉴스",
-      "publishedAt": "2026-09-21T08:04:23.000Z",
+      "id": "f2e8ae985eac2100",
+      "title": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 - sisacast.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udjVQZ21lNHFrdHZ5MndSS1lNQjBWTVVvcHhEN3VySmtra3BnVlVhNWh0Sy12NHBGalVsQkhnTkVGRVJwREJKeUpXTUJ5N1d0aVA5NlBVV0dweUpDa1pBNmFDOU5jeDQw?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 sisacast.kr",
+      "publishedAt": "2026-09-22T06:04:36.000Z",
       "rank": 3
     },
     {
-      "id": "da6852d04a330314",
-      "title": "단 하루 만에 +17%: AI가 선택한 이 종목, 데이터센터 급등세 포착 - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBveTVkV1VnLU1KbHhva0Nfb1lwZGRMZWRKLWhaZkR2ZEREeGdtTlFkcWF5Tjc1VGVkZHgwNTNCclNxZFJzNW5tRlFRTXB0WUNkbHN0VjlwbWFqVGNjWFloYnF2TWtPMGxSSkpDaGdzZ2I?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "단 하루 만에 +17%: AI가 선택한 이 종목, 데이터센터 급등세 포착 Investing.com 한국어",
-      "publishedAt": "2026-09-22T02:44:00.000Z",
+      "id": "d1cbb9f825e9c183",
+      "title": "Tencent Cloud and Boost Collaborate to Accelerate Digital Transformation Across Southeast Asia - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54QzBrSkR3eFdGZ1pJY0R5X1o2Q1Y3bFZxRHI4QXpzY0o4R1JZbGU0WUJnUlE3YnZ5d3QxUGV5b2V2UHp4ZUZQUEt5ejA4YVBzdkpOakxfdkRtWW0tVHlEM3FNZk5Ba0Fi0gFsQVVfeXFMTjBMaHlsZ3ZCRjVTcVVGSmtFXzUxeGFxWlNpajFCeUpxUDdFUEhkU0xIY1JmUVc2Y3hwU0pqN3NFb1BYbHQzN0NJM0x2MHBvTkVpMHdIODBGZWl2ZzBoVEQ2WjM3UE9BZmt0bWhO?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Tencent Cloud and Boost Collaborate to Accelerate Digital Transformation Across Southeast Asia KIPOST",
+      "publishedAt": "2026-09-22T06:00:00.000Z",
       "rank": 4
     },
     {
-      "id": "adfe1a257d555bb5",
-      "title": "\"맞춤형 뷰티테크 신뢰 높인다\"…에이피알, AI 인증 2종 획득 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZ3liWDhFdUVZYXA2NWtfZktwWjA4c0xNdERiek9TaWFXNzMxNy1UWnhfNlFIMTUxamFpWk9lT1FKdVFkSWZud0UyejA1S0xQNmJVOWozZzc2OWxR0gFiQVVfeXFMUF91ZWxxYVFZYndPUV9KemJ6NHdUZG9rZ1BoMmZwTUJMWW9JOURyT1AtU3JVUTRJajBIVGp2NGl5bmpsZ2NSN280akIxbXdoM21PRllUSlBpZWJPTEV5ZGdpWHc?oc=5",
+      "id": "3bd6d11e2f0ac627",
+      "title": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 - pmnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VRS1ucTYzTXhnSkFqYXhseWhQYmRwdmJLa2p4MWhlX29uYkNQSEhtdFVIdWhoX3ZyRm40Z1k2UjA1bW53?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "\"맞춤형 뷰티테크 신뢰 높인다\"…에이피알, AI 인증 2종 획득 뉴스1",
-      "publishedAt": "2026-09-22T02:18:48.000Z",
+      "summary": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 pmnews.co.kr",
+      "publishedAt": "2026-09-22T04:04:00.000Z",
       "rank": 5
     },
     {
-      "id": "2812cd570e6b9db3",
-      "title": "에이피알, AI 경영시스템·제품 신뢰성 국제인증 획득 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00dnpXTGlHUk43TEFRVHRaYkJ3MWhTVnlYQVotZnJBaW13SV9Ib3NFWFNfajZLZy1veXY3RnlBWFVXMjRER3BJaUxMc2hwQQ?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "에이피알, AI 경영시스템·제품 신뢰성 국제인증 획득 전자신문",
-      "publishedAt": "2026-09-22T02:10:26.000Z",
+      "id": "306234057c50f555",
+      "title": "규제샌드박스 넘어 국제표준으로…TTA, 기업 표준화 지원 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWEVveUtZLVhHRXdzeVE1Snd5ZVVJVk1CRzBqdlNDXzJPRTV6czZ6MmpKSGYxQXI1eVNyOXN6dDh0aVpzdDROZ3FVS1h2OHNxRi1NQzl5UU1IQ0MwUzV6RU0tdVJTQktNeElidUI4VGY1X1U?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "규제샌드박스 넘어 국제표준으로…TTA, 기업 표준화 지원 디지털투데이",
+      "publishedAt": "2026-09-23T00:36:07.000Z",
       "rank": 6
     },
     {
-      "id": "9a713a28c3ce0de8",
-      "title": "에이피알, AI 국제 인증 기반 신뢰성 강화 - 코스모닝",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jRlNncDZTVGJLUG1iSEpwTXc4UDZTNndBTXlOR29XalBXM0hoX1RmYnRSTE9FSmRNOVpVTmV6MHRIeGJZb3BSRXhRVnlJdnRTNy1kdnl6cEV3dWlHYmwtN0JBcw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "에이피알, AI 국제 인증 기반 신뢰성 강화 코스모닝",
-      "publishedAt": "2026-09-22T01:56:15.000Z",
+      "id": "9594461d7aafc179",
+      "title": "From Next-Gen AI to Surgical Robots: IEEE Celebrates the Technical Innovators Shaping the Future - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UNWY0aDhQZnZLSzNGN0Y5blZhUUpkLUQ2WW1VVXcxUWU3MDh1TWZjYnFTLVZjVkd6Z1BUQkQ5NDdZNDMyQzMtOXZQQnFXTFNGQzlsV25SeGY2Z2tFYlVmckxQQlRvRXpp0gFsQVVfeXFMT2hrbDdzLWVYOGZnN0RnZ2YwNlpVWjJjVTlsVkxXWkFPeUdtNGlzTDEtMTdIVkd1Y3JEWUlUakJIS2dtQ1luaG9BQXc3WG1EU1N3aHdXRnk5UDN5bnd4dGxDQXBjbUx3VG4wc1ZU?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "From Next-Gen AI to Surgical Robots: IEEE Celebrates the Technical Innovators Shaping the Future KIPOST",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
       "rank": 7
     },
     {
-      "id": "1a3a5ac9e1fd096e",
-      "title": "에이피알, AI 국제 인증 획득…\"뷰티 업계 세계 최초\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VRHJWcUFiTGkyM0hyTHptb3V1b2ZaWWQ2am1WMktOQWwtN2FmRFFoQjUzWS1NYWVkR2J1Q0lWOU9qYmkyYm5hREt0ZGUtSmh4NXNvREl6ZnVQdkNrUlBocUVabGk5bHd4SGRUX1g0ejZBU0VaNnE0WNIBeEFVX3lxTE1VRHJWcUFiTGkyM0hyTHptb3V1b2ZaWWQ2am1WMktOQWwtN2FmRFFoQjUzWS1NYWVkR2J1Q0lWOU9qYmkyYm5hREt0ZGUtSmh4NXNvREl6ZnVQdkNrUlBocUVabGk5bHd4SGRUX1g0ejZBU0VaNnE0WA?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "에이피알, AI 국제 인증 획득…\"뷰티 업계 세계 최초\" 뉴시스",
-      "publishedAt": "2026-09-22T01:42:15.000Z",
+      "id": "6dde50d3b9d29d36",
+      "title": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UcmhmQmJMRFVpUy1GS2FTVWo3TWNJQkpUV2t2Mmh1Sm1EbXY3X3dNN2VNS2Y0cXc2cVRndEpjMU9lemJXc01HeU9fRUZKR3lCbUpwZXBnLThGb1JEeTI3bE4zUFdKazRq?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds KIPOST",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-21T03:40:20.000Z"
+      "updatedAt": "2026-09-22T03:39:03.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
