@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-23T03:34:46.968Z",
-  "projectsCheckedAt": "2026-09-23T03:34:46.968Z",
-  "projectsUpdatedAt": "2026-09-23T03:34:46.968Z",
+  "updatedAt": "2026-09-24T03:25:22.817Z",
+  "projectsCheckedAt": "2026-09-24T03:25:22.817Z",
+  "projectsUpdatedAt": "2026-09-24T03:25:22.817Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,36 +54,54 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-23T03:34:46.968Z",
+    "checkedAt": "2026-09-24T03:25:22.817Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "eb7aa4393c3d2d1e",
-      "title": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 - 경상일보",
+      "id": "bd80b57555a47ff7",
+      "title": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 - ksilbo.co.kr",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMFBBRm41UGV6YWlxdHdGTmZPYWVMNFl4UFBTVmRGV0MtTFJYeE1mTWxjNlZGa0xPVllHa2o1X21USWdReG91bHQ1Z3J6UzNXdWYxMFgwLXhPNVpMSko0cmduXy1uaWM2MGlJTA?oc=5",
       "source": "Google News: ISO IEC AI",
-      "summary": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 경상일보",
+      "summary": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 ksilbo.co.kr",
       "publishedAt": "2026-09-23T00:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "202ac1c05d31dd2e",
-      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xYmJzcDZrUFlKYUtiOFRGQmtzcjRxei1vWk1zbGVlZ2E3QjlkRTAtbjRtaDBrLTFmZXdqcmZxdHpRelZ2SVk5T3BiVEFKLVZKYmVRQXVidFV4NDFMOGYxRm9IeGlHU1lPNVU1MG96aXdDTHNHbU9LNNIBeEFVX3lxTE1xYmJzcDZrUFlKYUtiOFRGQmtzcjRxei1vWk1zbGVlZ2E3QjlkRTAtbjRtaDBrLTFmZXdqcmZxdHpRelZ2SVk5T3BiVEFKLVZKYmVRQXVidFV4NDFMOGYxRm9IeGlHU1lPNVU1MG96aXdDTHNHbU9LNA?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
-      "publishedAt": "2026-09-23T00:03:13.000Z",
+      "id": "0a9318e1400c2224",
+      "title": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMXNIdUlZNF81OWRfWFd2Uy1MZUhQYTlBdzFPdkZtRl84X092dU1pYndzRjZ0ZllKR3lZdF9QXzJpNmcwd0NyTTVLYUxUd0tnRllzVGo4TG1aRGdfd0dvUVZjQVRtbGtR0gFsQVVfeXFMUFpGSXRLZTFDamRaTHkwbk4tWGtVeGFJc2xKb2FiMklmaFYyZ09WM2c3MlZWcThvNERhNk1UMGZEc3VKR0U5ZDZrOUZMb2JyX1dVUWZvNXVick5sMHJrTmpNdy1PS1dHc1hXenBx?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development KIPOST",
+      "publishedAt": "2026-09-23T06:52:00.000Z",
       "rank": 2
     },
     {
-      "id": "f2e8ae985eac2100",
-      "title": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 - sisacast.kr",
+      "id": "3b2652e6122b5cfc",
+      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9namthdDJlWnFxS3pPcTZOdExhSnlOQXQ3X3JlcFFoZ0JNRDJfcDBSbWo3bVU2QVgzV0JCQkJtT0FiTmpIUmFzdDI0SzNqSnZpaWZBXzQ1NjhBLUxHWHpaZg?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
+      "publishedAt": "2026-09-23T00:03:13.000Z",
+      "rank": 3
+    },
+    {
+      "id": "d9379ea280966cb4",
+      "title": "[인터뷰] “AI 시대 테스팅 활로는 ‘고위험군’…원전·방산 SW 검증으로 체질 바꾼다” - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Z1V2S3RLMTViSmV2aXJub0VmeEd4TlZuUGExMnJ1MzB4azl4aTlDWnBySUtEVFVWdUFNSlRzUldqU0pVaHc4dndTQTRrN0pqTXNXZ2h3Z2NDZUZiajk0VGQyT2xmcnc5?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[인터뷰] “AI 시대 테스팅 활로는 ‘고위험군’…원전·방산 SW 검증으로 체질 바꾼다” 아이티데일리",
+      "publishedAt": "2026-09-23T05:15:52.000Z",
+      "rank": 4
+    },
+    {
+      "id": "c87d41a92cf8af4e",
+      "title": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 - 시사캐스트",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udjVQZ21lNHFrdHZ5MndSS1lNQjBWTVVvcHhEN3VySmtra3BnVlVhNWh0Sy12NHBGalVsQkhnTkVGRVJwREJKeUpXTUJ5N1d0aVA5NlBVV0dweUpDa1pBNmFDOU5jeDQw?oc=5",
       "source": "Google News: ISO IEC AI",
-      "summary": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 sisacast.kr",
+      "summary": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 시사캐스트",
       "publishedAt": "2026-09-22T06:04:36.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "d1cbb9f825e9c183",
@@ -92,16 +110,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "Tencent Cloud and Boost Collaborate to Accelerate Digital Transformation Across Southeast Asia KIPOST",
       "publishedAt": "2026-09-22T06:00:00.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
-      "id": "3bd6d11e2f0ac627",
-      "title": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 - pmnews.co.kr",
+      "id": "0c7df2338a702fb7",
+      "title": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 - 국토매일",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VRS1ucTYzTXhnSkFqYXhseWhQYmRwdmJLa2p4MWhlX29uYkNQSEhtdFVIdWhoX3ZyRm40Z1k2UjA1bW53?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 pmnews.co.kr",
+      "summary": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 국토매일",
       "publishedAt": "2026-09-22T04:04:00.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "306234057c50f555",
@@ -110,98 +128,80 @@
       "source": "Google News: ITU-T standardization",
       "summary": "규제샌드박스 넘어 국제표준으로…TTA, 기업 표준화 지원 디지털투데이",
       "publishedAt": "2026-09-23T00:36:07.000Z",
-      "rank": 6
-    },
-    {
-      "id": "9594461d7aafc179",
-      "title": "From Next-Gen AI to Surgical Robots: IEEE Celebrates the Technical Innovators Shaping the Future - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UNWY0aDhQZnZLSzNGN0Y5blZhUUpkLUQ2WW1VVXcxUWU3MDh1TWZjYnFTLVZjVkd6Z1BUQkQ5NDdZNDMyQzMtOXZQQnFXTFNGQzlsV25SeGY2Z2tFYlVmckxQQlRvRXpp0gFsQVVfeXFMT2hrbDdzLWVYOGZnN0RnZ2YwNlpVWjJjVTlsVkxXWkFPeUdtNGlzTDEtMTdIVkd1Y3JEWUlUakJIS2dtQ1luaG9BQXc3WG1EU1N3aHdXRnk5UDN5bnd4dGxDQXBjbUx3VG4wc1ZU?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "From Next-Gen AI to Surgical Robots: IEEE Celebrates the Technical Innovators Shaping the Future KIPOST",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "6dde50d3b9d29d36",
-      "title": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UcmhmQmJMRFVpUy1GS2FTVWo3TWNJQkpUV2t2Mmh1Sm1EbXY3X3dNN2VNS2Y0cXc2cVRndEpjMU9lemJXc01HeU9fRUZKR3lCbUpwZXBnLThGb1JEeTI3bE4zUFdKazRq?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, New Global Study Finds KIPOST",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "9beb5d76ff241c36",
-      "title": "What's new in the Gemini Live API",
-      "url": "https://www.youtube.com/watch?v=3CyW24Pkz4o",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/3CyW24Pkz4o/hqdefault.jpg",
-      "publishedAt": "2026-09-15T17:04:04.000Z",
+      "id": "b8db0d19d789c6a6",
+      "title": "Why Index Ventures’ Shardul Shah thinks the old cybersecurity model is breaking | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=0tZNibvEbOw",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/0tZNibvEbOw/hqdefault.jpg",
+      "publishedAt": "2026-09-23T17:37:10.000Z",
       "viewCount": 0
     },
     {
-      "id": "ede8ef912d474dee",
-      "title": "Detecting wildfires with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=PSnJBfa183Y",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/PSnJBfa183Y/hqdefault.jpg",
-      "publishedAt": "2026-09-14T15:57:33.000Z",
+      "id": "49dd574eac8f96b6",
+      "title": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=a5Y-UGoJf1A",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/a5Y-UGoJf1A/hqdefault.jpg",
+      "publishedAt": "2026-09-18T16:52:46.000Z",
       "viewCount": 0
     },
     {
-      "id": "96e4d81df5b69904",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
-      "publishedAt": "2026-09-14T09:00:55.000Z",
+      "id": "65b8e4c856cedc1c",
+      "title": "The Startup Bringing Air Taxis to the LA Olympics with Adam Goldstein l Build Mode",
+      "url": "https://www.youtube.com/watch?v=zetFmHxPBW8",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/zetFmHxPBW8/hqdefault.jpg",
+      "publishedAt": "2026-09-17T22:02:15.000Z",
       "viewCount": 0
     },
     {
-      "id": "6d96670c15c3c7a1",
-      "title": "GPT-Live-1 is now in the API",
-      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg",
-      "publishedAt": "2026-09-11T17:06:25.000Z",
+      "id": "d36d6c6e29f49ef1",
+      "title": "Archer Went Public Just 3 Years After Launching and It Paid Off with Adam Goldstein l Build Mode",
+      "url": "https://www.youtube.com/watch?v=GHai5kMzIyw",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/GHai5kMzIyw/hqdefault.jpg",
+      "publishedAt": "2026-09-17T16:18:12.000Z",
       "viewCount": 0
     },
     {
-      "id": "af775db374461d2c",
-      "title": "Introducing the Agents API",
-      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/2YHa1vhnmK0/hqdefault.jpg",
-      "publishedAt": "2026-09-10T19:26:05.000Z",
+      "id": "0f519d4e8dff4754",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=sPrJwRAOo1M",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/sPrJwRAOo1M/hqdefault.jpg",
+      "publishedAt": "2026-09-16T15:29:13.000Z",
       "viewCount": 0
     },
     {
-      "id": "4f2585b592268c37",
-      "title": "In Harmony",
-      "url": "https://www.youtube.com/watch?v=PbfXbDbCthA",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/PbfXbDbCthA/hqdefault.jpg",
-      "publishedAt": "2026-09-10T17:29:32.000Z",
+      "id": "0de64a5228cfe46e",
+      "title": "AI researchers go full doomer while Apple puts AI front-and-center | Equity Podcast",
+      "url": "https://www.youtube.com/watch?v=FPNzWspQLP4",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/FPNzWspQLP4/hqdefault.jpg",
+      "publishedAt": "2026-09-11T17:12:05.000Z",
       "viewCount": 0
     },
     {
-      "id": "2997bbb8d53a19d6",
-      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
-      "url": "https://www.youtube.com/watch?v=qg_54P-oPgI",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg",
-      "publishedAt": "2026-09-10T16:00:27.000Z",
+      "id": "29145234556ada01",
+      "title": "How Mbodi Is Solving Robotics’ Scaling Problem with Xavier Chi",
+      "url": "https://www.youtube.com/watch?v=_kUuJp-Dpfg",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/_kUuJp-Dpfg/hqdefault.jpg",
+      "publishedAt": "2026-09-10T15:29:31.000Z",
       "viewCount": 0
     },
     {
-      "id": "5a6c09298af0ce6d",
-      "title": "Helping a small business go big with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=mPAmXQnhv2E",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg",
-      "publishedAt": "2026-09-10T16:00:09.000Z",
+      "id": "26bef23ea190e918",
+      "title": "The Robotics Revolution Won’t Be Humanoid l Build Mode",
+      "url": "https://www.youtube.com/watch?v=6JamNu_J0vg",
+      "channel": "TechCrunch",
+      "thumbnail": "https://i.ytimg.com/vi/6JamNu_J0vg/hqdefault.jpg",
+      "publishedAt": "2026-09-10T15:16:31.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-22T03:39:03.000Z"
+      "updatedAt": "2026-09-23T03:38:51.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
