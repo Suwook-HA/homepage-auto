@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-24T03:25:22.817Z",
-  "projectsCheckedAt": "2026-09-24T03:25:22.817Z",
-  "projectsUpdatedAt": "2026-09-24T03:25:22.817Z",
+  "updatedAt": "2026-09-25T03:42:43.612Z",
+  "projectsCheckedAt": "2026-09-25T03:42:43.612Z",
+  "projectsUpdatedAt": "2026-09-25T03:42:43.612Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-24T03:25:22.817Z",
+    "checkedAt": "2026-09-25T03:42:43.612Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "bd80b57555a47ff7",
-      "title": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 - ksilbo.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMFBBRm41UGV6YWlxdHdGTmZPYWVMNFl4UFBTVmRGV0MtTFJYeE1mTWxjNlZGa0xPVllHa2o1X21USWdReG91bHQ1Z3J6UzNXdWYxMFgwLXhPNVpMSko0cmduXy1uaWM2MGlJTA?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 ksilbo.co.kr",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "id": "4101e69e982b5a7f",
+      "title": "국가 성장전략과 ‘IP 정책’ 연계 확대… 일본 지적재산 추진계획 2026 - IPDaily",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNMlg0VmJsY25uRDduWHJpbjNDZ1dzREZsaFlhaE43dVJObFJCdjRCWGJIUUNMM29SYU5nWDlVVldPQ2JqNmpqdlNUa3pMemRtMWF0amR6XzdJeGJaZ1d2UVF3aGhyZVUtcmtKTGdIM2huZ0x0TFJKaU1YMjF0bUxtT3l1elpTck04Rl9oSzRmZkp2cHFHUmJmWk1GdWJrU3BCRll1V0dDQXZ0OEkxSVk2S2l2TVJyUEZvSF9hb1U4SXhLOXhvRG9kSXdqc0dNZUFORjM2N25XcWtycU9UNVdXbk1pMzJLcVgyNWVoUElXM3QzTUMxQ2VNVHpEdGF6N1NNOVJVWGJ3cVZHdTR6djI0MUZFajd2elpvWHFXa2pWdDNfSGNjRlFWOG1OUHdqYVYyV1Rkcm15Tk1KR205WEZxLWx1NV9zdmRVY053THZZaldFN1hpOTFBczJmeE9rdF9F?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "국가 성장전략과 ‘IP 정책’ 연계 확대… 일본 지적재산 추진계획 2026 IPDaily",
+      "publishedAt": "2026-09-24T23:16:05.000Z",
       "rank": 1
+    },
+    {
+      "id": "a265dd1d1ef5a537",
+      "title": "에이피알, AI 국제 인증 2종 획득…뷰티 디바이스 AI 관리체계 강화 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UMmdSVVhjTmpEVU5scGhmamQ4Y1dzNzQ3dXBvSlFtVEVSLWxrN0VDN2gtdDRKb2J1ZlBHbC1YRldtMzlvdjNkQ2lld3FJbUdZc0RlWU85aVBhUQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "에이피알, AI 국제 인증 2종 획득…뷰티 디바이스 AI 관리체계 강화 Naver Blog",
+      "publishedAt": "2026-09-24T06:19:30.000Z",
+      "rank": 2
+    },
+    {
+      "id": "37342a6b550c844a",
+      "title": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZ19JM1diNWk3ci1VZnlFZHJuSnBhbXpyZ1dQT3BGUnVUeHloSEFWYXR0R1VFbzJvaUZOOWx4cmRZcFZOWkc1XzBGeldkM2NCZHN6YnFLQmx2MDlxYXozcy0zMXlQT19V?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India KIPOST",
+      "publishedAt": "2026-09-24T02:30:00.000Z",
+      "rank": 3
     },
     {
       "id": "0a9318e1400c2224",
@@ -74,16 +92,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development KIPOST",
       "publishedAt": "2026-09-23T06:52:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "3b2652e6122b5cfc",
-      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9namthdDJlWnFxS3pPcTZOdExhSnlOQXQ3X3JlcFFoZ0JNRDJfcDBSbWo3bVU2QVgzV0JCQkJtT0FiTmpIUmFzdDI0SzNqSnZpaWZBXzQ1NjhBLUxHWHpaZg?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
-      "publishedAt": "2026-09-23T00:03:13.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "d9379ea280966cb4",
@@ -92,7 +101,25 @@
       "source": "Google News: AI Data Quality",
       "summary": "[인터뷰] “AI 시대 테스팅 활로는 ‘고위험군’…원전·방산 SW 검증으로 체질 바꾼다” 아이티데일리",
       "publishedAt": "2026-09-23T05:15:52.000Z",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "eb7aa4393c3d2d1e",
+      "title": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 - 경상일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMFBBRm41UGV6YWlxdHdGTmZPYWVMNFl4UFBTVmRGV0MtTFJYeE1mTWxjNlZGa0xPVllHa2o1X21USWdReG91bHQ1Z3J6UzNXdWYxMFgwLXhPNVpMSko0cmduXy1uaWM2MGlJTA?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "한국경영인증원, 울산지역 ISO/IEC 42001 인공지능(AI)경영시스템 인증심사원 양성과정 모집 경상일보",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "3b2652e6122b5cfc",
+      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9namthdDJlWnFxS3pPcTZOdExhSnlOQXQ3X3JlcFFoZ0JNRDJfcDBSbWo3bVU2QVgzV0JCQkJtT0FiTmpIUmFzdDI0SzNqSnZpaWZBXzQ1NjhBLUxHWHpaZg?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
+      "publishedAt": "2026-09-23T00:03:13.000Z",
+      "rank": 7
     },
     {
       "id": "c87d41a92cf8af4e",
@@ -101,107 +128,80 @@
       "source": "Google News: ISO IEC AI",
       "summary": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 시사캐스트",
       "publishedAt": "2026-09-22T06:04:36.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d1cbb9f825e9c183",
-      "title": "Tencent Cloud and Boost Collaborate to Accelerate Digital Transformation Across Southeast Asia - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54QzBrSkR3eFdGZ1pJY0R5X1o2Q1Y3bFZxRHI4QXpzY0o4R1JZbGU0WUJnUlE3YnZ5d3QxUGV5b2V2UHp4ZUZQUEt5ejA4YVBzdkpOakxfdkRtWW0tVHlEM3FNZk5Ba0Fi0gFsQVVfeXFMTjBMaHlsZ3ZCRjVTcVVGSmtFXzUxeGFxWlNpajFCeUpxUDdFUEhkU0xIY1JmUVc2Y3hwU0pqN3NFb1BYbHQzN0NJM0x2MHBvTkVpMHdIODBGZWl2ZzBoVEQ2WjM3UE9BZmt0bWhO?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tencent Cloud and Boost Collaborate to Accelerate Digital Transformation Across Southeast Asia KIPOST",
-      "publishedAt": "2026-09-22T06:00:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "0c7df2338a702fb7",
-      "title": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 - 국토매일",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VRS1ucTYzTXhnSkFqYXhseWhQYmRwdmJLa2p4MWhlX29uYkNQSEhtdFVIdWhoX3ZyRm40Z1k2UjA1bW53?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "중부발전, 인공지능 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 국토매일",
-      "publishedAt": "2026-09-22T04:04:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "306234057c50f555",
-      "title": "규제샌드박스 넘어 국제표준으로…TTA, 기업 표준화 지원 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWEVveUtZLVhHRXdzeVE1Snd5ZVVJVk1CRzBqdlNDXzJPRTV6czZ6MmpKSGYxQXI1eVNyOXN6dDh0aVpzdDROZ3FVS1h2OHNxRi1NQzl5UU1IQ0MwUzV6RU0tdVJTQktNeElidUI4VGY1X1U?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "규제샌드박스 넘어 국제표준으로…TTA, 기업 표준화 지원 디지털투데이",
-      "publishedAt": "2026-09-23T00:36:07.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "b8db0d19d789c6a6",
-      "title": "Why Index Ventures’ Shardul Shah thinks the old cybersecurity model is breaking | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=0tZNibvEbOw",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/0tZNibvEbOw/hqdefault.jpg",
-      "publishedAt": "2026-09-23T17:37:10.000Z",
+      "id": "ff3d946db4ea26ad",
+      "title": "AI Takes Center Stage From Oracle to the White House",
+      "url": "https://www.youtube.com/watch?v=SrruC0LSEt8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/SrruC0LSEt8/hqdefault.jpg",
+      "publishedAt": "2026-09-24T18:34:09.000Z",
       "viewCount": 0
     },
     {
-      "id": "49dd574eac8f96b6",
-      "title": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=a5Y-UGoJf1A",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/a5Y-UGoJf1A/hqdefault.jpg",
-      "publishedAt": "2026-09-18T16:52:46.000Z",
+      "id": "df53b002e050a69f",
+      "title": "Darktrace CEO: AI Agents Are the New ‘Insider Threat’",
+      "url": "https://www.youtube.com/watch?v=C5XQG5Vqr-g",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/C5XQG5Vqr-g/hqdefault.jpg",
+      "publishedAt": "2026-09-24T18:32:06.000Z",
       "viewCount": 0
     },
     {
-      "id": "65b8e4c856cedc1c",
-      "title": "The Startup Bringing Air Taxis to the LA Olympics with Adam Goldstein l Build Mode",
-      "url": "https://www.youtube.com/watch?v=zetFmHxPBW8",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/zetFmHxPBW8/hqdefault.jpg",
-      "publishedAt": "2026-09-17T22:02:15.000Z",
+      "id": "1ae1a9d9d9aff5b0",
+      "title": "AI Emerges as a Flashpoint in Trump-Xi Talks",
+      "url": "https://www.youtube.com/watch?v=sfzLLYctBiQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/sfzLLYctBiQ/hqdefault.jpg",
+      "publishedAt": "2026-09-24T18:29:47.000Z",
       "viewCount": 0
     },
     {
-      "id": "d36d6c6e29f49ef1",
-      "title": "Archer Went Public Just 3 Years After Launching and It Paid Off with Adam Goldstein l Build Mode",
-      "url": "https://www.youtube.com/watch?v=GHai5kMzIyw",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/GHai5kMzIyw/hqdefault.jpg",
-      "publishedAt": "2026-09-17T16:18:12.000Z",
+      "id": "11e2c455b52e259c",
+      "title": "Meta Bets on AI, Devices for Its Next Chapter",
+      "url": "https://www.youtube.com/watch?v=sfPjZqEWN5E",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/sfPjZqEWN5E/hqdefault.jpg",
+      "publishedAt": "2026-09-24T18:28:57.000Z",
       "viewCount": 0
     },
     {
-      "id": "0f519d4e8dff4754",
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=sPrJwRAOo1M",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/sPrJwRAOo1M/hqdefault.jpg",
-      "publishedAt": "2026-09-16T15:29:13.000Z",
+      "id": "5265227b32b28a54",
+      "title": "Apple Explores Screenless Fitness Tracker to Rival Whoop",
+      "url": "https://www.youtube.com/watch?v=bTZtqoolPsY",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/bTZtqoolPsY/hqdefault.jpg",
+      "publishedAt": "2026-09-23T19:24:58.000Z",
       "viewCount": 0
     },
     {
-      "id": "0de64a5228cfe46e",
-      "title": "AI researchers go full doomer while Apple puts AI front-and-center | Equity Podcast",
-      "url": "https://www.youtube.com/watch?v=FPNzWspQLP4",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/FPNzWspQLP4/hqdefault.jpg",
-      "publishedAt": "2026-09-11T17:12:05.000Z",
+      "id": "0e0d5ad65e405591",
+      "title": "Bessemer: Anthropic Has Been Consistent on AI Safety",
+      "url": "https://www.youtube.com/watch?v=MnhSpzKlzvs",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/MnhSpzKlzvs/hqdefault.jpg",
+      "publishedAt": "2026-09-23T19:23:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "29145234556ada01",
-      "title": "How Mbodi Is Solving Robotics’ Scaling Problem with Xavier Chi",
-      "url": "https://www.youtube.com/watch?v=_kUuJp-Dpfg",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/_kUuJp-Dpfg/hqdefault.jpg",
-      "publishedAt": "2026-09-10T15:29:31.000Z",
+      "id": "87334a5d5d75b615",
+      "title": "AI Agents Fuel a New Cybersecurity Boom",
+      "url": "https://www.youtube.com/watch?v=oJVqfEaWwmQ",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/oJVqfEaWwmQ/hqdefault.jpg",
+      "publishedAt": "2026-09-23T19:21:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "26bef23ea190e918",
-      "title": "The Robotics Revolution Won’t Be Humanoid l Build Mode",
-      "url": "https://www.youtube.com/watch?v=6JamNu_J0vg",
-      "channel": "TechCrunch",
-      "thumbnail": "https://i.ytimg.com/vi/6JamNu_J0vg/hqdefault.jpg",
-      "publishedAt": "2026-09-10T15:16:31.000Z",
+      "id": "f2f8bb85790e5c71",
+      "title": "Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP",
+      "url": "https://www.youtube.com/watch?v=g4lirxr_Qzc",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/g4lirxr_Qzc/hqdefault.jpg",
+      "publishedAt": "2026-09-23T19:18:21.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-23T03:38:51.000Z"
+      "updatedAt": "2026-09-24T03:29:26.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
