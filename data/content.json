@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-25T03:42:43.612Z",
-  "projectsCheckedAt": "2026-09-25T03:42:43.612Z",
-  "projectsUpdatedAt": "2026-09-25T03:42:43.612Z",
+  "updatedAt": "2026-09-26T03:48:37.124Z",
+  "projectsCheckedAt": "2026-09-26T03:48:37.124Z",
+  "projectsUpdatedAt": "2026-09-26T03:48:37.124Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-25T03:42:43.612Z",
+    "checkedAt": "2026-09-26T03:48:37.124Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "3887af412819ad62",
+      "title": "Veeva Systems의 AI 학습 도구 출시가 주주들에게 어떤 의미를 갖는가 - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2t1dnRqa1RyS2FIb3AyS2hkMDBaV2Uta3dUeGJHRURoRGk3SjJOLVBXeS00eXNQNjlsRW1XRVJHS1g3ckVmWXNXQmFtN0lnQjdEMGNRWjdrMllKdVdGVWNuemgtQ3ZscGxySXRUdW52VnpxbXlvQm1pa3RDRHVyZUxIMTktTDg0XzBHazhVWEQzbVh6TzVvcE5hQdIBmwFBVV95cUxQd2t1dnRqa1RyS2FIb3AyS2hkMDBaV2Uta3dUeGJHRURoRGk3SjJOLVBXeS00eXNQNjlsRW1XRVJHS1g3ckVmWXNXQmFtN0lnQjdEMGNRWjdrMllKdVdGVWNuemgtQ3ZscGxySXRUdW52VnpxbXlvQm1pa3RDRHVyZUxIMTktTDg0XzBHazhVWEQzbVh6TzVvcE5hQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Veeva Systems의 AI 학습 도구 출시가 주주들에게 어떤 의미를 갖는가 simplywall.st",
+      "publishedAt": "2026-09-25T13:59:17.000Z",
+      "rank": 1
+    },
+    {
+      "id": "31120d101d16c5b6",
+      "title": "빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LajBRZ2RkM244N1lqVkREOEVTTzNxbVkyaWMzcjBtZ1hYYlByYmRILUZaTWVkR205eWZSdmdMbGdTWWhPNk03OGsxaTN5MlE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의 벤처스퀘어",
+      "publishedAt": "2026-09-25T11:43:24.000Z",
+      "rank": 2
+    },
     {
       "id": "4101e69e982b5a7f",
       "title": "국가 성장전략과 ‘IP 정책’ 연계 확대… 일본 지적재산 추진계획 2026 - IPDaily",
@@ -65,7 +83,16 @@
       "source": "Google News: R&D Strategy",
       "summary": "국가 성장전략과 ‘IP 정책’ 연계 확대… 일본 지적재산 추진계획 2026 IPDaily",
       "publishedAt": "2026-09-24T23:16:05.000Z",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "id": "f4275dfedfcc0c09",
+      "title": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions - Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMWY4VGs1MDM5c0RWN3VIbDRNanEycDdLMERUZ01LQnJTcWRualBPVDJGZlhYQmJzTGpLbHNLVy1kMDdFeWZWb3VUWFl1eEVSaHVJeGk1OGZtN2pMYUVJLWc1MnhRVE1ub3BaUzVPNjRUcHl3eWJTRTd1LWZicEo0d2tZVVZjbmVMNDcwRWtNekJucW9xakVfX2tOdkM1T3ZLLWpkXzU3X0plbC1KS0RkNzZoY3lLX3lvYVljNFRFM0FCZmp3SnNDWEY0WjN0TFVjSkZmUGhpVWFZS2tBNnZ2dVlvRjB1ZjBqYzdFaHlCN0pHS0p0d3c?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Global: ILO adopts historic binding international employment standards for platform workers, protecting millions Business and Human Rights Centre",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "rank": 4
     },
     {
       "id": "a265dd1d1ef5a537",
@@ -74,33 +101,6 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "에이피알, AI 국제 인증 2종 획득…뷰티 디바이스 AI 관리체계 강화 Naver Blog",
       "publishedAt": "2026-09-24T06:19:30.000Z",
-      "rank": 2
-    },
-    {
-      "id": "37342a6b550c844a",
-      "title": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZ19JM1diNWk3ci1VZnlFZHJuSnBhbXpyZ1dQT3BGUnVUeHloSEFWYXR0R1VFbzJvaUZOOWx4cmRZcFZOWkc1XzBGeldkM2NCZHN6YnFLQmx2MDlxYXozcy0zMXlQT19V?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India KIPOST",
-      "publishedAt": "2026-09-24T02:30:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "0a9318e1400c2224",
-      "title": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMXNIdUlZNF81OWRfWFd2Uy1MZUhQYTlBdzFPdkZtRl84X092dU1pYndzRjZ0ZllKR3lZdF9QXzJpNmcwd0NyTTVLYUxUd0tnRllzVGo4TG1aRGdfd0dvUVZjQVRtbGtR0gFsQVVfeXFMUFpGSXRLZTFDamRaTHkwbk4tWGtVeGFJc2xKb2FiMklmaFYyZ09WM2c3MlZWcThvNERhNk1UMGZEc3VKR0U5ZDZrOUZMb2JyX1dVUWZvNXVick5sMHJrTmpNdy1PS1dHc1hXenBx?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development KIPOST",
-      "publishedAt": "2026-09-23T06:52:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d9379ea280966cb4",
-      "title": "[인터뷰] “AI 시대 테스팅 활로는 ‘고위험군’…원전·방산 SW 검증으로 체질 바꾼다” - 아이티데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Z1V2S3RLMTViSmV2aXJub0VmeEd4TlZuUGExMnJ1MzB4azl4aTlDWnBySUtEVFVWdUFNSlRzUldqU0pVaHc4dndTQTRrN0pqTXNXZ2h3Z2NDZUZiajk0VGQyT2xmcnc5?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[인터뷰] “AI 시대 테스팅 활로는 ‘고위험군’…원전·방산 SW 검증으로 체질 바꾼다” 아이티데일리",
-      "publishedAt": "2026-09-23T05:15:52.000Z",
       "rank": 5
     },
     {
@@ -113,21 +113,21 @@
       "rank": 6
     },
     {
-      "id": "3b2652e6122b5cfc",
-      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9namthdDJlWnFxS3pPcTZOdExhSnlOQXQ3X3JlcFFoZ0JNRDJfcDBSbWo3bVU2QVgzV0JCQkJtT0FiTmpIUmFzdDI0SzNqSnZpaWZBXzQ1NjhBLUxHWHpaZg?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
-      "publishedAt": "2026-09-23T00:03:13.000Z",
+      "id": "0a9318e1400c2224",
+      "title": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMXNIdUlZNF81OWRfWFd2Uy1MZUhQYTlBdzFPdkZtRl84X092dU1pYndzRjZ0ZllKR3lZdF9QXzJpNmcwd0NyTTVLYUxUd0tnRllzVGo4TG1aRGdfd0dvUVZjQVRtbGtR0gFsQVVfeXFMUFpGSXRLZTFDamRaTHkwbk4tWGtVeGFJc2xKb2FiMklmaFYyZ09WM2c3MlZWcThvNERhNk1UMGZEc3VKR0U5ZDZrOUZMb2JyX1dVUWZvNXVick5sMHJrTmpNdy1PS1dHc1hXenBx?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "From the World Manufacturing Convention: Anhui's High-Quality Industrial Development KIPOST",
+      "publishedAt": "2026-09-23T06:52:00.000Z",
       "rank": 7
     },
     {
-      "id": "c87d41a92cf8af4e",
-      "title": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 - 시사캐스트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udjVQZ21lNHFrdHZ5MndSS1lNQjBWTVVvcHhEN3VySmtra3BnVlVhNWh0Sy12NHBGalVsQkhnTkVGRVJwREJKeUpXTUJ5N1d0aVA5NlBVV0dweUpDa1pBNmFDOU5jeDQw?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "에이피알, AI 신뢰성 확보 성공…‘ISO/IEC 42001·AI Trust Mark’ 모두 취득 시사캐스트",
-      "publishedAt": "2026-09-22T06:04:36.000Z",
+      "id": "bce040fd5e698632",
+      "title": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9namthdDJlWnFxS3pPcTZOdExhSnlOQXQ3X3JlcFFoZ0JNRDJfcDBSbWo3bVU2QVgzV0JCQkJtT0FiTmpIUmFzdDI0SzNqSnZpaWZBXzQ1NjhBLUxHWHpaZtIBeEFVX3lxTE1xYmJzcDZrUFlKYUtiOFRGQmtzcjRxei1vWk1zbGVlZ2E3QjlkRTAtbjRtaDBrLTFmZXdqcmZxdHpRelZ2SVk5T3BiVEFKLVZKYmVRQXVidFV4NDFMOGYxRm9IeGlHU1lPNVU1MG96aXdDTHNHbU9LNA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "TTA, 규제샌드박스 기업 ITU 국제표준화 지원한다 뉴시스",
+      "publishedAt": "2026-09-23T00:03:13.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-24T03:29:26.000Z"
+      "updatedAt": "2026-09-25T03:46:47.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
