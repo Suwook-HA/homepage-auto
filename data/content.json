@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-27T03:58:06.170Z",
-  "projectsCheckedAt": "2026-09-27T03:58:06.170Z",
-  "projectsUpdatedAt": "2026-09-27T03:58:06.170Z",
+  "updatedAt": "2026-09-28T03:58:13.339Z",
+  "projectsCheckedAt": "2026-09-28T03:58:13.339Z",
+  "projectsUpdatedAt": "2026-09-28T03:58:13.339Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-27T03:58:06.170Z",
+    "checkedAt": "2026-09-28T03:58:13.339Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "2c684a0f57e8c7f8",
+      "title": "KT, NATO 국방통신 표준화 논의 참여 - NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94dDFac2tXM0w5d0tGNTFfRlVvdkpxQV9zSm9MRU1yU21VdjY3VWVTVndtcUU5SmFPcHhHS1JmaXpTeUUwNzlfUlJCYVozOWpzWkVua1V4WnJBekFtSWcxaQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "KT, NATO 국방통신 표준화 논의 참여 NSP통신",
+      "publishedAt": "2026-09-28T01:48:46.000Z",
+      "rank": 1
+    },
+    {
+      "id": "a0bdbca424e584a6",
+      "title": "KT, 국방 5G·6G 표준화 참여…AI 모델 라우팅도 글로벌 2위 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sald0UFh0Z3dPczdsNkp0Wlo0RXdIZTd6dHZEWDBWdDd6S25MS092S25qOWlpS1UxT2ZPd3ZzT3BfckJpTWU4THY0UzNubl9nQUNtV3NpQUtmVHI1cVY0OFk4SlF1MWZ2?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KT, 국방 5G·6G 표준화 참여…AI 모델 라우팅도 글로벌 2위 테크월드",
+      "publishedAt": "2026-09-28T00:59:44.000Z",
+      "rank": 2
+    },
+    {
+      "id": "611011b087dbca76",
+      "title": "3D프린팅에 AI 심는다…링크솔루션, 50억 R&D '실탄' 확보 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aaGdfWmNuX3pIc2ZWNGRySXd6WEdBdTYySFl0ZTF2WFZLcnl4RVNabjBuX2lnQnVsU1hCTUJ2aEZXaXNBUWJLZWF0dTlLOXBuR1hiZzJtdXFKOTFCaWw0cS1aR2ZlUm5VZG1iblZn0gFuQVVfeXFMTlpoZ19aY25fekhzZlY0ZHJJd3pYR0F1NjJIWXRlMXZYVktyeXhFU1puMG5faWdCdWxTWEJNQnZoRldpc0FRYktlYXR1OUs5cG5HWGJnMm11cUo5MUJpbDRxLVpHZmVSblVkbWJuVmc?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "3D프린팅에 AI 심는다…링크솔루션, 50억 R&D '실탄' 확보 - 머니투데이 머니투데이",
+      "publishedAt": "2026-09-28T00:58:02.000Z",
+      "rank": 3
+    },
+    {
+      "id": "cd03ccb7d139740d",
+      "title": "마이크로소프트, 2026년 2분기 글로벌 AI 확산 보고서 발표 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOSHR4MHRQRE9WRTlqb2d4Yk50QVFoeTNybjVhQTBaTXZjMDhfMWlNd09hME9mcXFhZ1hyQm1MV0tuSTF0Wm9ieWFRZkNWdVMwVGN5UllMRGlORm42NGN4ZzAzcXZzcDQwdTRoc1FmeXJwbC14WFFQVHJVNFhzWENPTjBmREk2RlZuMUZMeDg4YUMxOFFpQmRMbU5JWTIwc0ZOX0dvSE01eFlWaFhnWVZ0QVFRUDlDWDdFN0E2MmF2eVptelZPWUF3ay1lYjhPNGh6NTZjdE5fMnpRbnJIRkw2WEU5dWYwWHBqc3JsMXU2eHRkeXdkYUhkU19MYmptQXp2cVB0U1FEQm1BeUJPa2R6WDdfeW5zRnpDbldoWXFydmNWcVl1OUQxNHBhOVZ3OXU4d1NMTzFXQUJ0bktIYklrc3lxT19nZy1xYU96RUFPZDRkNEM0c3Z2aTZsNjBRMVR1Z0I3Tkhqbi1lNDVvcGc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트, 2026년 2분기 글로벌 AI 확산 보고서 발표 Microsoft Source",
+      "publishedAt": "2026-09-28T00:47:06.000Z",
+      "rank": 4
+    },
+    {
+      "id": "62779749e4e1d534",
+      "title": "코젠바이오텍, ‘MIHAS 2026’ 참가… 할랄 검사법 글로벌 표준화 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UTVN3LVRKMkoyZkxTVnZjcWhYYVBQRWZBdmdyZWY2MXQ4UFc0SzMzSUZmRnRuSUl5YXdwRDA3dm96RGJ2QjdJa0swRTFuZTZrc0ZXWEl0bUtVUlh5UzgtbXFTQlRzbl9pT1h6c1I1c05FUS1f?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "코젠바이오텍, ‘MIHAS 2026’ 참가… 할랄 검사법 글로벌 표준화 글로벌뉴스통신GNA",
+      "publishedAt": "2026-09-28T00:36:57.000Z",
+      "rank": 5
+    },
+    {
+      "id": "cf94675235f341ea",
+      "title": "KT, 국내 이통사 첫 NATO 5G·6G 표준화 합류…차세대 국방망 선도 - 뉴스드림",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sbFpBeVBMWG1fZENwY2FDTEhQZXhNMnkxYUVnekt0cWJvU0pBTFVmeHQ1T29sdFBwc1lyQlJlQlZfY0dqZVlyV084VVFHYmhRTVFaTTdfcDVaWnpWSDRBWWpmamhmRDhORGNz?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "KT, 국내 이통사 첫 NATO 5G·6G 표준화 합류…차세대 국방망 선도 뉴스드림",
+      "publishedAt": "2026-09-28T00:06:46.000Z",
+      "rank": 6
+    },
+    {
+      "id": "73fe43ab5faface5",
+      "title": "피지컬AI 표준화와 '대체불가 대한민국' [기고] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11UzF5YjlNWXpSN2s5eEk5bkpRYzRxc3ZTbWlzVDZzMUw2SUNzWHB6ZUZuOTlWU2tVd3o4MFVybGtWSXlZNnNTcHd5VTdOV0ZNRW94X1NUa2JleDlPUjd4eEpEbURna09jYmpUOWp30gFzQVVfeXFMUDFSaDRiQnpRV3RoZi1OaFR5Q0VvWmJVVWh2M3ZVUWV3Y1hmTFhxakhVTXUyTmYtMnlmX2h1T1QtMk81a0s2UnJ1NnBsU3owRG1lNVlPYlVjenNRcW9KR2ZkMFhCd0V2RzNzMllVa1JIX2FqWQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "피지컬AI 표준화와 '대체불가 대한민국' [기고] 한국일보",
+      "publishedAt": "2026-09-27T19:30:00.000Z",
+      "rank": 7
+    },
     {
       "id": "31702aac51f224d3",
       "title": "규제샌드박스가 국제표준으로…레디포스트·아이싸이랩 ITU-T 표준화 추진 - 지디넷코리아",
@@ -65,69 +128,6 @@
       "source": "Google News: ITU-T standardization",
       "summary": "규제샌드박스가 국제표준으로…레디포스트·아이싸이랩 ITU-T 표준화 추진 지디넷코리아",
       "publishedAt": "2026-09-27T00:00:05.000Z",
-      "rank": 1
-    },
-    {
-      "id": "06c2007098ad72a4",
-      "title": "Musical Theater Creators Move to Form New Association, Focus on Contracts, Copyright and Global Licensing - nc.press",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03cWZ5eFJqSkJ5YmFnMGlsWVVIS2FzOTUwTnVsUERmdXRRcmJTTmNGT0U2VVBGLVFpUUhXdXR2SWpOUV9uNTV0RHY2UDVESWxZc1BEMUUwOGt2MkQ5LU5hUzA5SWVnQQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Musical Theater Creators Move to Form New Association, Focus on Contracts, Copyright and Global Licensing nc.press",
-      "publishedAt": "2026-09-27T03:15:55.000Z",
-      "rank": 2
-    },
-    {
-      "id": "ba7f3a6d640d3d16",
-      "title": "Shaperon unveils ‘NDC’ technology to simplify ADC manufacturing, presents preclinical data on ‘PdRaxane’ - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUcXd4aHRHXzFQVVFjTmpKODIwd1FUOFcxZ1FzSllCQ2xUYmRVUkE0ZFlVenVCdExwbW9fY0xVOS1ZblctaF9DanVzMVcycnk4c2JzblphR1M1aU1xRmNEck9tQVp3MWlaQkNzUNIBcEFVX3lxTE9jTlY3TG1TcFhUSHJ6cFZJNVJFSDFhTGtZVUFhX3lva2drVjNYVFQ1VUZfWGtTNXN1RFl0SHhfSGtkZVJ3VzNLZGNmLXgtWEh3dkhVSWF1WEYwVnRCME5PZjhUelRHMHlHTHhKMlhCS0c?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "Shaperon unveils ‘NDC’ technology to simplify ADC manufacturing, presents preclinical data on ‘PdRaxane’ 더바이오",
-      "publishedAt": "2026-09-26T23:30:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "00b1a1416002f2c1",
-      "title": "Samsung Medical Center re-certified at highest U.S. HIMSS level in medical records and other areas - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nV3JlVVdNdFBBU3RDSjNOd2tmYy1OYzgxMXRkZkpIbWlNYV83RWMtcmM1aGluTnEwMEQyUlZiZ3hjN2V5QUNCaGV2VmZZNXhOMGE2YmJkSTQybVhUbjRSVFRCZ3lUVFU1ZndYcNIBcEFVX3lxTFBRRTdPWFhMXzY1UkhfUnlITXNmcURRVHhSMmtoaFhvdVZGYnBycUZRc0gwY3pfZU44NnRoQTVQSTdudi10dmRRcWVReHEwTlNIc1gyaE1JQ2VUR2FfcC0tQklQbVZ1eG1Lam5SckkteWk?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Samsung Medical Center re-certified at highest U.S. HIMSS level in medical records and other areas 더바이오",
-      "publishedAt": "2026-09-26T12:25:45.000Z",
-      "rank": 4
-    },
-    {
-      "id": "1fc38a3b3e6893a2",
-      "title": "스타트업 - startupdaily.kr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ta2JlYUs1ZmRPb1NKYzNZbzV6bS0yMnNMc1o1azNKVnZFS2N3Q0s0ODRiazdTS05FU0RRRTRYTDduRUpmWU5GcWtTN1lrZkRjRDl6dEx2SDFBd3dOMHQ4?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "스타트업 startupdaily.kr",
-      "publishedAt": "2026-09-26T07:05:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "3887af412819ad62",
-      "title": "Veeva Systems의 AI 학습 도구 출시가 주주들에게 어떤 의미를 갖는가 - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2t1dnRqa1RyS2FIb3AyS2hkMDBaV2Uta3dUeGJHRURoRGk3SjJOLVBXeS00eXNQNjlsRW1XRVJHS1g3ckVmWXNXQmFtN0lnQjdEMGNRWjdrMllKdVdGVWNuemgtQ3ZscGxySXRUdW52VnpxbXlvQm1pa3RDRHVyZUxIMTktTDg0XzBHazhVWEQzbVh6TzVvcE5hQdIBmwFBVV95cUxQd2t1dnRqa1RyS2FIb3AyS2hkMDBaV2Uta3dUeGJHRURoRGk3SjJOLVBXeS00eXNQNjlsRW1XRVJHS1g3ckVmWXNXQmFtN0lnQjdEMGNRWjdrMllKdVdGVWNuemgtQ3ZscGxySXRUdW52VnpxbXlvQm1pa3RDRHVyZUxIMTktTDg0XzBHazhVWEQzbVh6TzVvcE5hQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Veeva Systems의 AI 학습 도구 출시가 주주들에게 어떤 의미를 갖는가 simplywall.st",
-      "publishedAt": "2026-09-25T13:59:17.000Z",
-      "rank": 6
-    },
-    {
-      "id": "31120d101d16c5b6",
-      "title": "빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의 - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LajBRZ2RkM244N1lqVkREOEVTTzNxbVkyaWMzcjBtZ1hYYlByYmRILUZaTWVkR205eWZSdmdMbGdTWWhPNk03OGsxaTN5MlE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의 벤처스퀘어",
-      "publishedAt": "2026-09-25T11:43:24.000Z",
-      "rank": 7
-    },
-    {
-      "id": "2b25c56d4b2d3e58",
-      "title": "에이피알, AI 국제 인증 2종 획득…뷰티 디바이스 AI 관리체계 강화 - blog.naver.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UMmdSVVhjTmpEVU5scGhmamQ4Y1dzNzQ3dXBvSlFtVEVSLWxrN0VDN2gtdDRKb2J1ZlBHbC1YRldtMzlvdjNkQ2lld3FJbUdZc0RlWU85aVBhUQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "에이피알, AI 국제 인증 2종 획득…뷰티 디바이스 AI 관리체계 강화 blog.naver.com",
-      "publishedAt": "2026-09-24T06:19:30.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-26T03:52:41.000Z"
+      "updatedAt": "2026-09-27T04:02:10.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
