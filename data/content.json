@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-28T03:58:13.339Z",
-  "projectsCheckedAt": "2026-09-28T03:58:13.339Z",
-  "projectsUpdatedAt": "2026-09-28T03:58:13.339Z",
+  "updatedAt": "2026-09-29T04:32:06.569Z",
+  "projectsCheckedAt": "2026-09-29T04:32:06.569Z",
+  "projectsUpdatedAt": "2026-09-29T04:32:06.569Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-28T03:58:13.339Z",
+    "checkedAt": "2026-09-29T04:32:06.569Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "2c684a0f57e8c7f8",
-      "title": "KT, NATO 국방통신 표준화 논의 참여 - NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94dDFac2tXM0w5d0tGNTFfRlVvdkpxQV9zSm9MRU1yU21VdjY3VWVTVndtcUU5SmFPcHhHS1JmaXpTeUUwNzlfUlJCYVozOWpzWkVua1V4WnJBekFtSWcxaQ?oc=5",
+      "id": "7bd574293a79d6b9",
+      "title": "EU가 만든 DPP, 글로벌 공통규격 된다…ISO/IEC 표준화 작업 돌입 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWWDFJeW9JSjV6MEJlc3NSaEJWR1NIRExiTFVPdEQ4eWcxQWNudlphZFlWcDFqTzVwZHViYmh3TFljNFRWdDdJVzIyODAtdw?oc=5",
       "source": "Google News: IT standardization",
-      "summary": "KT, NATO 국방통신 표준화 논의 참여 NSP통신",
-      "publishedAt": "2026-09-28T01:48:46.000Z",
+      "summary": "EU가 만든 DPP, 글로벌 공통규격 된다…ISO/IEC 표준화 작업 돌입 전자신문",
+      "publishedAt": "2026-09-28T21:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "a0bdbca424e584a6",
-      "title": "KT, 국방 5G·6G 표준화 참여…AI 모델 라우팅도 글로벌 2위 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sald0UFh0Z3dPczdsNkp0Wlo0RXdIZTd6dHZEWDBWdDd6S25MS092S25qOWlpS1UxT2ZPd3ZzT3BfckJpTWU4THY0UzNubl9nQUNtV3NpQUtmVHI1cVY0OFk4SlF1MWZ2?oc=5",
+      "id": "883f84857788fed1",
+      "title": "송옥주 “피지컬 AI 항만 표준화, 데이터·경쟁력 중심 재검토해야” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BX01fOWdIMUVSc3REZG45MkdYU0ZLVGxBSmc4OThFck1nNUtILUtxbHVvdU51S082eXMtTkpFUFk3eE12bjRqRUpiTnZ5aU0?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "KT, 국방 5G·6G 표준화 참여…AI 모델 라우팅도 글로벌 2위 테크월드",
-      "publishedAt": "2026-09-28T00:59:44.000Z",
+      "summary": "송옥주 “피지컬 AI 항만 표준화, 데이터·경쟁력 중심 재검토해야” v.daum.net",
+      "publishedAt": "2026-09-29T04:15:54.000Z",
       "rank": 2
     },
     {
-      "id": "611011b087dbca76",
-      "title": "3D프린팅에 AI 심는다…링크솔루션, 50억 R&D '실탄' 확보 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aaGdfWmNuX3pIc2ZWNGRySXd6WEdBdTYySFl0ZTF2WFZLcnl4RVNabjBuX2lnQnVsU1hCTUJ2aEZXaXNBUWJLZWF0dTlLOXBuR1hiZzJtdXFKOTFCaWw0cS1aR2ZlUm5VZG1iblZn0gFuQVVfeXFMTlpoZ19aY25fekhzZlY0ZHJJd3pYR0F1NjJIWXRlMXZYVktyeXhFU1puMG5faWdCdWxTWEJNQnZoRldpc0FRYktlYXR1OUs5cG5HWGJnMm11cUo5MUJpbDRxLVpHZmVSblVkbWJuVmc?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "3D프린팅에 AI 심는다…링크솔루션, 50억 R&D '실탄' 확보 - 머니투데이 머니투데이",
-      "publishedAt": "2026-09-28T00:58:02.000Z",
+      "id": "48597380dc1d88e7",
+      "title": "해경, 차세대 종합상황실 단계적 구축···AI·위성 관제 도입 - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dGFTZlA3Tks4bThQRnVPalRBODduQlNxQXhZUkI2U3VYNmU0WElrcU5nLWdfMmlMRkdhNkEwV0NfamNobm05SWlsVGl1eG85NF9vSkpFNkFyTXNwZjZYNHVrRWVLeldyUXVHb05VeDE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "해경, 차세대 종합상황실 단계적 구축···AI·위성 관제 도입 인천투데이",
+      "publishedAt": "2026-09-29T01:14:34.000Z",
       "rank": 3
     },
     {
-      "id": "cd03ccb7d139740d",
-      "title": "마이크로소프트, 2026년 2분기 글로벌 AI 확산 보고서 발표 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOSHR4MHRQRE9WRTlqb2d4Yk50QVFoeTNybjVhQTBaTXZjMDhfMWlNd09hME9mcXFhZ1hyQm1MV0tuSTF0Wm9ieWFRZkNWdVMwVGN5UllMRGlORm42NGN4ZzAzcXZzcDQwdTRoc1FmeXJwbC14WFFQVHJVNFhzWENPTjBmREk2RlZuMUZMeDg4YUMxOFFpQmRMbU5JWTIwc0ZOX0dvSE01eFlWaFhnWVZ0QVFRUDlDWDdFN0E2MmF2eVptelZPWUF3ay1lYjhPNGh6NTZjdE5fMnpRbnJIRkw2WEU5dWYwWHBqc3JsMXU2eHRkeXdkYUhkU19MYmptQXp2cVB0U1FEQm1BeUJPa2R6WDdfeW5zRnpDbldoWXFydmNWcVl1OUQxNHBhOVZ3OXU4d1NMTzFXQUJ0bktIYklrc3lxT19nZy1xYU96RUFPZDRkNEM0c3Z2aTZsNjBRMVR1Z0I3Tkhqbi1lNDVvcGc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트, 2026년 2분기 글로벌 AI 확산 보고서 발표 Microsoft Source",
-      "publishedAt": "2026-09-28T00:47:06.000Z",
+      "id": "647fc9395c238aa1",
+      "title": "AI항만 표준화 어디서 해야 하나…‘광양 테스트베드’ 놓고 데이터 경쟁력 논란 - 해사신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uRkJfYzNVbTdTWE5waE02Q18yVEV5dFVsVWEzYkdURUJPb1lDaGp3YkgyMnByT0dRMUhueTc4NnJCWmxzUnRLbzg4WEtQNjluSlBEdEV3dEllOFJKNUNIRWtLN2xfbF9BMXF3?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI항만 표준화 어디서 해야 하나…‘광양 테스트베드’ 놓고 데이터 경쟁력 논란 해사신문",
+      "publishedAt": "2026-09-28T23:57:01.000Z",
       "rank": 4
     },
     {
-      "id": "62779749e4e1d534",
-      "title": "코젠바이오텍, ‘MIHAS 2026’ 참가… 할랄 검사법 글로벌 표준화 - 글로벌뉴스통신GNA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UTVN3LVRKMkoyZkxTVnZjcWhYYVBQRWZBdmdyZWY2MXQ4UFc0SzMzSUZmRnRuSUl5YXdwRDA3dm96RGJ2QjdJa0swRTFuZTZrc0ZXWEl0bUtVUlh5UzgtbXFTQlRzbl9pT1h6c1I1c05FUS1f?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "코젠바이오텍, ‘MIHAS 2026’ 참가… 할랄 검사법 글로벌 표준화 글로벌뉴스통신GNA",
-      "publishedAt": "2026-09-28T00:36:57.000Z",
+      "id": "c5103c0fc6cac3db",
+      "title": "Protina Gains on AI Data...Ingenia Advances Phase 3[K-Bio Pulse] - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDZKN3ExdlZaZmxCanhQYXJ1c0J6aVpleDJhM0NCcTRxSzBOcG5aZmtwSGNwTER5R2t3bkVQYno0elFWdVhObE1mdFdnZVMzWFRPbzluQ3J1U1A1ay1aa2Nnbi05aUZWcC0xU1JKME9mSHZFWWtiX3VvQktrTnNCcQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Protina Gains on AI Data...Ingenia Advances Phase 3[K-Bio Pulse] edaily.co.kr",
+      "publishedAt": "2026-09-28T22:32:02.000Z",
       "rank": 5
     },
     {
-      "id": "cf94675235f341ea",
-      "title": "KT, 국내 이통사 첫 NATO 5G·6G 표준화 합류…차세대 국방망 선도 - 뉴스드림",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sbFpBeVBMWG1fZENwY2FDTEhQZXhNMnkxYUVnekt0cWJvU0pBTFVmeHQ1T29sdFBwc1lyQlJlQlZfY0dqZVlyV084VVFHYmhRTVFaTTdfcDVaWnpWSDRBWWpmamhmRDhORGNz?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "KT, 국내 이통사 첫 NATO 5G·6G 표준화 합류…차세대 국방망 선도 뉴스드림",
-      "publishedAt": "2026-09-28T00:06:46.000Z",
+      "id": "a6393df48af87bd2",
+      "title": "Siemens' Simcenter Testlab accelerates physical test - Siemens Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CcmJydUtaOU1pbVU0c0w1dlFYYm5LUVVTR2ZfYzRCSVVxUjJqeFk3MWx6ZmNqNzYtSGxqYW5nZ3FBTFZQNDJSa0xHQkVsQmxSM2Z5YzBmcTJ3UzdwRFNKWEJTU0JONkdXTEkyMUVYZHowWlNpaHRsTg?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Siemens' Simcenter Testlab accelerates physical test Siemens Newsroom",
+      "publishedAt": "2026-09-28T20:23:15.000Z",
       "rank": 6
     },
     {
-      "id": "73fe43ab5faface5",
-      "title": "피지컬AI 표준화와 '대체불가 대한민국' [기고] - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11UzF5YjlNWXpSN2s5eEk5bkpRYzRxc3ZTbWlzVDZzMUw2SUNzWHB6ZUZuOTlWU2tVd3o4MFVybGtWSXlZNnNTcHd5VTdOV0ZNRW94X1NUa2JleDlPUjd4eEpEbURna09jYmpUOWp30gFzQVVfeXFMUDFSaDRiQnpRV3RoZi1OaFR5Q0VvWmJVVWh2M3ZVUWV3Y1hmTFhxakhVTXUyTmYtMnlmX2h1T1QtMk81a0s2UnJ1NnBsU3owRG1lNVlPYlVjenNRcW9KR2ZkMFhCd0V2RzNzMllVa1JIX2FqWQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "피지컬AI 표준화와 '대체불가 대한민국' [기고] 한국일보",
-      "publishedAt": "2026-09-27T19:30:00.000Z",
+      "id": "eb3f9f1f439ed29d",
+      "title": "기업과 함께 인재 키우고, 금융·의료도 진출… ‘AI 네이티브 대학’으로 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmxhV25vS2VhN0FvZU5wREJ4LS1Sby1JN1d4eER5SUI4OUhsS1dPNm40SDV1dXFlN2NKcGpyVFhEX0M0aUxfQVhwbk5Oc0gyc1hXSXFBZ3VfcXFKTGpVdWM4MkNFb3FyZ01qbnRtX2pucl9rY3A5TlhUU2VwaUh0THA3WWN1TDNfZndVQVdn?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "기업과 함께 인재 키우고, 금융·의료도 진출… ‘AI 네이티브 대학’으로 조선일보",
+      "publishedAt": "2026-09-28T15:35:00.000Z",
       "rank": 7
     },
     {
-      "id": "31702aac51f224d3",
-      "title": "규제샌드박스가 국제표준으로…레디포스트·아이싸이랩 ITU-T 표준화 추진 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNWN6Q0RMVEVPVE0tVndNRHk2LTNfM1JGSVRaSXdSendFcXhlRVlRQzdva2lySjY2UjduaU9pc3JwWXJVUWlwblc4YWxTZjB2R1RWQXRn?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "규제샌드박스가 국제표준으로…레디포스트·아이싸이랩 ITU-T 표준화 추진 지디넷코리아",
-      "publishedAt": "2026-09-27T00:00:05.000Z",
+      "id": "687a47aa5d800358",
+      "title": "중부발전 생성형 AI ‘하이코미’, 국제표준 경영시스템 인증 획득 - 인사이트N파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NNExGdVFoelpvZTNaVEI4cE1raVQtckN5U21KX1NaOHNxcDFuXzN6WnhBZElXVnpzdV9lM2gzLWs3MXB4aTBSRE00MllYM3puLUZqeHJTVG1PT2EyZUpsZUN4bVU5QQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "중부발전 생성형 AI ‘하이코미’, 국제표준 경영시스템 인증 획득 인사이트N파워",
+      "publishedAt": "2026-09-28T13:42:27.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-27T04:02:10.000Z"
+      "updatedAt": "2026-09-28T04:02:18.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
