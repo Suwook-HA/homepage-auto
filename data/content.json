@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-29T04:32:06.569Z",
-  "projectsCheckedAt": "2026-09-29T04:32:06.569Z",
-  "projectsUpdatedAt": "2026-09-29T04:32:06.569Z",
+  "updatedAt": "2026-09-30T04:15:32.228Z",
+  "projectsCheckedAt": "2026-09-30T04:15:32.228Z",
+  "projectsUpdatedAt": "2026-09-30T04:15:32.228Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-09-29T04:32:06.569Z",
+    "checkedAt": "2026-09-30T04:15:32.228Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "ecc98af142c7efc0",
+      "title": "SAS “韓기업 AI ‘신뢰 격차’, 1년 만에 대폭↓…지난해 28.9점→올해 1.5점 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlSllfM1VtVEpoeExZRm13cjdzV1gtV3oybzhEaFZnNGZkSndRTGRDZzRpSmNBU0E1MjFzVXZKamloazZlYzZBNi1pVGJfaUJpOGZIVTZ5NG1Kcld1My1hMUthdTRObkZC?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "SAS “韓기업 AI ‘신뢰 격차’, 1년 만에 대폭↓…지난해 28.9점→올해 1.5점 테크월드",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "5324b0fde7b92cdf",
+      "title": "韓기업 ‘AI 신뢰격차’ 줄었다…향후 과제는 ‘데이터 품질’·‘설명가능성’ - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RT2t0R2FBZk1ILUlQNkN0V0hwdkd1ZWRibzhKWkJhSEk4azhETjM4OWhhczBESE1JanNLNkIzd0ZsNHFOYm1TcVMwUmtRRUhEdEUzVWVSYWxVMzdVSk81bHRjQVBucDQ3VXdZMg?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "韓기업 ‘AI 신뢰격차’ 줄었다…향후 과제는 ‘데이터 품질’·‘설명가능성’ IT비즈뉴스",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "874ce98e10249f56",
+      "title": "SMR·핵융합 등 7대 기술에 내년 4조원…연내 전략 마련 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTmZYMF9PYkhrS1BiVXhvOTJzVHRnV25JZjBETFhPdXRzUC1zRy16MTAxbTdrOXpBaWRsM0cwZ2ZVZTBzRzNxRkdJaDlzR25BSHc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "SMR·핵융합 등 7대 기술에 내년 4조원…연내 전략 마련 매일경제 마켓",
+      "publishedAt": "2026-09-30T03:00:19.000Z",
+      "rank": 3
+    },
+    {
+      "id": "322881029c974aa5",
+      "title": "한국 기업 AI ‘신뢰 격차’ 1년 만에 대폭 줄었다...“다음 과제는 데이터 품질과 설명 가능성” - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMU1qWl9QMkNpbUNQNjBNWjF1V25OcUFhQXdEN19fcUxKNUFvR3V1SzdWZGVPeXc0bEVCUTZHRnZreEZHeTlUSDJDYzBwUVpMOGtxX09FVUZubHl4SkY1eDFEd2M5NkU?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "한국 기업 AI ‘신뢰 격차’ 1년 만에 대폭 줄었다...“다음 과제는 데이터 품질과 설명 가능성” 인공지능신문",
+      "publishedAt": "2026-09-30T02:54:49.000Z",
+      "rank": 4
+    },
+    {
+      "id": "c328aad4ba754aca",
+      "title": "\"국가전략기술 R&D 29개 중 복수부처 공동사업 5개 뿐..AI·반도체는 없어\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zMUJNS1FHUnpaODhxcHFGRWx0MThNWUZ2WFgtUTBWN09mdlVJeGd4Ymh0dDFsWXp4SDU4WFduQnpYalp2emxnVC1vcURMZmM?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "\"국가전략기술 R&D 29개 중 복수부처 공동사업 5개 뿐..AI·반도체는 없어\" v.daum.net",
+      "publishedAt": "2026-09-30T01:55:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "9675965ed3ad035a",
+      "title": "인터넷뉴스홈페이지 - 모바일웹 - 지식재산 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VRVIzRF9FSTNTWWlxQmxHVzZTMTlTX2JLbDNCeEdoOXl0bHpjMFpRZTBCa29nbW1TUjlUaTVOVHJzQW9aODJtdDJ1dU50RGl5eTVwTklCZkVZTEQwbHV6eU1IeklwcjVuNkF6QmtjREJLWDJPUURVLUJWUzk?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "인터넷뉴스홈페이지 - 모바일웹 지식재산 뉴스",
+      "publishedAt": "2026-09-30T01:04:33.000Z",
+      "rank": 6
+    },
+    {
+      "id": "c10f870d7a992f90",
+      "title": "룰루랩, 500만 건 AI 피부 데이터 보호 체계 강화… - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80b1M0ckJLQmdKNllDaVlwcUtYTDQweFBXRHdUX1pEUkZPMEV5TDJtd3czOEZxY21oNldKUndnOTUwTlloMjBXcmJGTkpwMHI5M3FhZE5GNUxldw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "룰루랩, 500만 건 AI 피부 데이터 보호 체계 강화… 한국경제",
+      "publishedAt": "2026-09-29T22:57:55.000Z",
+      "rank": 7
+    },
     {
       "id": "7bd574293a79d6b9",
       "title": "EU가 만든 DPP, 글로벌 공통규격 된다…ISO/IEC 표준화 작업 돌입 - 전자신문",
@@ -65,69 +128,6 @@
       "source": "Google News: IT standardization",
       "summary": "EU가 만든 DPP, 글로벌 공통규격 된다…ISO/IEC 표준화 작업 돌입 전자신문",
       "publishedAt": "2026-09-28T21:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "883f84857788fed1",
-      "title": "송옥주 “피지컬 AI 항만 표준화, 데이터·경쟁력 중심 재검토해야” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BX01fOWdIMUVSc3REZG45MkdYU0ZLVGxBSmc4OThFck1nNUtILUtxbHVvdU51S082eXMtTkpFUFk3eE12bjRqRUpiTnZ5aU0?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "송옥주 “피지컬 AI 항만 표준화, 데이터·경쟁력 중심 재검토해야” v.daum.net",
-      "publishedAt": "2026-09-29T04:15:54.000Z",
-      "rank": 2
-    },
-    {
-      "id": "48597380dc1d88e7",
-      "title": "해경, 차세대 종합상황실 단계적 구축···AI·위성 관제 도입 - 인천투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dGFTZlA3Tks4bThQRnVPalRBODduQlNxQXhZUkI2U3VYNmU0WElrcU5nLWdfMmlMRkdhNkEwV0NfamNobm05SWlsVGl1eG85NF9vSkpFNkFyTXNwZjZYNHVrRWVLeldyUXVHb05VeDE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "해경, 차세대 종합상황실 단계적 구축···AI·위성 관제 도입 인천투데이",
-      "publishedAt": "2026-09-29T01:14:34.000Z",
-      "rank": 3
-    },
-    {
-      "id": "647fc9395c238aa1",
-      "title": "AI항만 표준화 어디서 해야 하나…‘광양 테스트베드’ 놓고 데이터 경쟁력 논란 - 해사신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uRkJfYzNVbTdTWE5waE02Q18yVEV5dFVsVWEzYkdURUJPb1lDaGp3YkgyMnByT0dRMUhueTc4NnJCWmxzUnRLbzg4WEtQNjluSlBEdEV3dEllOFJKNUNIRWtLN2xfbF9BMXF3?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI항만 표준화 어디서 해야 하나…‘광양 테스트베드’ 놓고 데이터 경쟁력 논란 해사신문",
-      "publishedAt": "2026-09-28T23:57:01.000Z",
-      "rank": 4
-    },
-    {
-      "id": "c5103c0fc6cac3db",
-      "title": "Protina Gains on AI Data...Ingenia Advances Phase 3[K-Bio Pulse] - edaily.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDZKN3ExdlZaZmxCanhQYXJ1c0J6aVpleDJhM0NCcTRxSzBOcG5aZmtwSGNwTER5R2t3bkVQYno0elFWdVhObE1mdFdnZVMzWFRPbzluQ3J1U1A1ay1aa2Nnbi05aUZWcC0xU1JKME9mSHZFWWtiX3VvQktrTnNCcQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Protina Gains on AI Data...Ingenia Advances Phase 3[K-Bio Pulse] edaily.co.kr",
-      "publishedAt": "2026-09-28T22:32:02.000Z",
-      "rank": 5
-    },
-    {
-      "id": "a6393df48af87bd2",
-      "title": "Siemens' Simcenter Testlab accelerates physical test - Siemens Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CcmJydUtaOU1pbVU0c0w1dlFYYm5LUVVTR2ZfYzRCSVVxUjJqeFk3MWx6ZmNqNzYtSGxqYW5nZ3FBTFZQNDJSa0xHQkVsQmxSM2Z5YzBmcTJ3UzdwRFNKWEJTU0JONkdXTEkyMUVYZHowWlNpaHRsTg?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Siemens' Simcenter Testlab accelerates physical test Siemens Newsroom",
-      "publishedAt": "2026-09-28T20:23:15.000Z",
-      "rank": 6
-    },
-    {
-      "id": "eb3f9f1f439ed29d",
-      "title": "기업과 함께 인재 키우고, 금융·의료도 진출… ‘AI 네이티브 대학’으로 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmxhV25vS2VhN0FvZU5wREJ4LS1Sby1JN1d4eER5SUI4OUhsS1dPNm40SDV1dXFlN2NKcGpyVFhEX0M0aUxfQVhwbk5Oc0gyc1hXSXFBZ3VfcXFKTGpVdWM4MkNFb3FyZ01qbnRtX2pucl9rY3A5TlhUU2VwaUh0THA3WWN1TDNfZndVQVdn?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "기업과 함께 인재 키우고, 금융·의료도 진출… ‘AI 네이티브 대학’으로 조선일보",
-      "publishedAt": "2026-09-28T15:35:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "687a47aa5d800358",
-      "title": "중부발전 생성형 AI ‘하이코미’, 국제표준 경영시스템 인증 획득 - 인사이트N파워",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NNExGdVFoelpvZTNaVEI4cE1raVQtckN5U21KX1NaOHNxcDFuXzN6WnhBZElXVnpzdV9lM2gzLWs3MXB4aTBSRE00MllYM3puLUZqeHJTVG1PT2EyZUpsZUN4bVU5QQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "중부발전 생성형 AI ‘하이코미’, 국제표준 경영시스템 인증 획득 인사이트N파워",
-      "publishedAt": "2026-09-28T13:42:27.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-09-28T04:02:18.000Z"
+      "updatedAt": "2026-09-29T04:36:09.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
