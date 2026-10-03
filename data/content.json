@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T04:20:16.832Z",
-  "projectsCheckedAt": "2026-10-02T04:20:16.832Z",
-  "projectsUpdatedAt": "2026-10-02T04:20:16.832Z",
+  "updatedAt": "2026-10-03T04:02:12.399Z",
+  "projectsCheckedAt": "2026-10-03T04:02:12.399Z",
+  "projectsUpdatedAt": "2026-10-03T04:02:12.399Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-02T04:20:16.832Z",
+    "checkedAt": "2026-10-03T04:02:12.399Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "827fb996080822ef",
-      "title": "90% of Life Sciences Manufacturers Say Digital Transformation Is Now Business-Critical, According to New Rockwell Automation Report - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DTTU4WXFFMnFDNHJrSXNoZkY3M1huRDVIcERWQVdicXhsczlRVHFOSXlnYWUzNFRNSEpkY1k0Q1loTk9yVkl5U1d0MmIxVXVKOExaelN2M1Zxa2dKMUU1bUlqdm1CT1Bj?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "90% of Life Sciences Manufacturers Say Digital Transformation Is Now Business-Critical, According to New Rockwell Automation Report KIPOST",
-      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "id": "38aa65ec26929bd8",
+      "title": "한수원 AI 경영 국제인증 획득…교육훈련기관 최초 - 에너지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE04Ukgwc3BZazlMdXAySmpRYWFhVUR3RUxhQmtMck9CTkd5OTA5algwS1BtNFhIanF0YU1zX1d3UGd3SWtPOERLU204VDJsbk5aUUg5WTFoVHN5eXRPaWFHczhMbWFMUTNOOA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한수원 AI 경영 국제인증 획득…교육훈련기관 최초 에너지타임즈",
+      "publishedAt": "2026-10-02T14:37:00.000Z",
       "rank": 1
     },
     {
-      "id": "4ece6731716f3536",
-      "title": "일하는 AI 늘어나는데…\"누구인지 모르면 권한도 못 준다\" : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFlqMWRabXFEQW9UdjhETUd0SDhhZU5RVzQtbnN4aGRlRzEwODRieS1QQkNMYWs2UTJtTXhpclNhbDRpSVhOSHFwNVhJZ1MtcjgxcWRrVmpUdkI5T1Z0akF3MWtXRGZwYUprcHV2QXJjMlVwcUEzUko4LWRqSW5MQ0c2Slo3TVREel9hYjRkbw?oc=5",
+      "id": "700e6881db27f963",
+      "title": "한국, 국제표준화기구 이사국 연임 성공...2029년까지 - 도농라이프타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PX0dIbWd3WnBZX0Jpb2VSS0NwTlNZTl96VEFXek5yY1hVNDNqcVZVV3NHODUyMngwS0h3UlVjQk5SekpzV1IyMlhjazlzVmUwQnlkXzZQc2pRdW5vNjlDR1hEbU50eUQzclJSQQ?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "일하는 AI 늘어나는데…\"누구인지 모르면 권한도 못 준다\" : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-10-02T02:01:14.000Z",
+      "summary": "한국, 국제표준화기구 이사국 연임 성공...2029년까지 도농라이프타임즈",
+      "publishedAt": "2026-10-02T12:07:15.000Z",
       "rank": 2
     },
     {
-      "id": "c9e42172b411647a",
-      "title": "로소타, TIPS 선정…수술 술기 데이터 표준화 기술 개발 - medipana.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NY0g5NDdsY00tV21HOHItNXVNdjB3QThNbk5IODVPeC0zd0F4eldtX1lzdnd3NVRyTHk2ZDBtM1RzYTIzZmxSSEpncklrZGY5NVU3TEFlUl9vbjVUU1N4VTVSa3A3OHMwaF9F?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "로소타, TIPS 선정…수술 술기 데이터 표준화 기술 개발 medipana.com",
-      "publishedAt": "2026-10-01T23:39:26.000Z",
+      "id": "8dc007f399292ced",
+      "title": "90% of Life Sciences Manufacturers Say Digital Transformation Is Now Business-Critical, According to New Rockwell Automation Report - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DTTU4WXFFMnFDNHJrSXNoZkY3M1huRDVIcERWQVdicXhsczlRVHFOSXlnYWUzNFRNSEpkY1k0Q1loTk9yVkl5U1d0MmIxVXVKOExaelN2M1Zxa2dKMUU1bUlqdm1CT1Bj?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "90% of Life Sciences Manufacturers Say Digital Transformation Is Now Business-Critical, According to New Rockwell Automation Report KIPOST",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
       "rank": 3
     },
     {
-      "id": "4ee043aaf3fc3a18",
-      "title": "대웅제약, AI·오픈이노베이션 R&D 전략 '다변화' - 메디칼업저버",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iaEFYWDZkanZXZTdqdkhYTnB6a1FoZXZUUV9zNnVGaWhpa3NyeTg3aTJrWl9iTEhrZ2xoYzA1Ty1RWFBrQlZGcmdmaG1Oa21LNTRMUHhRRVI1T3hKcVdDVXE0dGJYTDZEX1kw?oc=5",
+      "id": "bf33153169b97d31",
+      "title": "기후에너지 R&D, 감축기술 확산·장기 혁신 함께 설계…2028년 투자방향 논의 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51NV81b3N0OVF6cEk3UFJBaEFMejkzTGpYT0lCdkI1anV5eldGT21NZ01CYkM4M2o5VGgwR1dpcUlFSUJ5eHhFRzg1WkZnUGtfcE4wTXc0dUdfMnRQbUhZVERIQ0hMa2hrZk95dHFMNTlOdw?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "대웅제약, AI·오픈이노베이션 R&D 전략 '다변화' 메디칼업저버",
-      "publishedAt": "2026-10-01T21:01:01.000Z",
+      "summary": "기후에너지 R&D, 감축기술 확산·장기 혁신 함께 설계…2028년 투자방향 논의 에너지데일리",
+      "publishedAt": "2026-10-02T07:44:03.000Z",
       "rank": 4
     },
     {
-      "id": "f79e99705af83a62",
-      "title": "North Korea “Digitization of Legal Information Is Crucial for the Digital Transformation of Public Administration” - NK경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bG1sakxZTkVOUUI4MmpBeDNtQzhMWkpkRXNfX0NFeVpBLUx2d0ZId2RxQUdZRzhoM0RBc2FSWVVFZGZLQUtlWnE0MDJUVGhjQ05wMVBEMzByTWpMM01aSVZxclBJWDVyVFJr0gFuQVVfeXFMTlZwbFAxcjlKajFMbUhpeU4xVTRrUU5lSVBPRnVMbE1MaUJ2eGYtR0JpWm9od1lGSXo0U1ZoMmI3UVdVNjVab2kwcmRxbDYyTmVuYm1kVmdRamg5X0FweTBacUlmTm1ZRkZDSmFCa2c?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "North Korea “Digitization of Legal Information Is Crucial for the Digital Transformation of Public Administration” NK경제",
-      "publishedAt": "2026-09-30T21:05:00.000Z",
+      "id": "6b52de0d7d95e736",
+      "title": "한수원 인재개발원, 국내 교육훈련기관 최초 ‘AI 국제인증’ - 인사이트N파워",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xbURlUEx6UklobEk3UllLVjVKZUNJbXVZS202eEpZTGdLWW5FYWNyMVpEMVFYX3V3akM4d3liVGMxdnp6N3ljQkpVeXpMaERYaHd2bjcxTWFUVENSdVNQeHNyaDV4QQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한수원 인재개발원, 국내 교육훈련기관 최초 ‘AI 국제인증’ 인사이트N파워",
+      "publishedAt": "2026-10-02T05:51:20.000Z",
       "rank": 5
     },
     {
-      "id": "349705231f2214d2",
-      "title": "로크웰 오토메이션 신규 보고서: 생명과학 제조기업의 90%, 디지털 트랜스포메이션을 비즈니스의 핵심 요소로 인식 - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZjJLWm92U1VNUDU0cS1rZHh5SlRUbm5MejVGaEdzbUtBenh4N29IMVlIZGtyY0VqMWNJQ1BzV3RzbHRub29YVU0tMG5ISVlNeC1JMlk2ZmdTOWYyeWhYYw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "로크웰 오토메이션 신규 보고서: 생명과학 제조기업의 90%, 디지털 트랜스포메이션을 비즈니스의 핵심 요소로 인식 newsis.com",
-      "publishedAt": "2026-10-01T14:21:08.000Z",
+      "id": "eebf7b0b68b63999",
+      "title": "기후에너지 R&D 투자방향 짠다…민관 ‘전략기획투자협의회’ 개최 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdGlmZW5BUW5HLUwwNURVRFNRQmlORzJfeHhEb2poVl9GbVo4NzE4VDB0S2ZpdjNOQlpVMy1vYWpVYmRkUDhLVUUteXRISmpuNmdNV2VxSlJ3S3dIc1JpcEx0VlY3RlBhd2RGbExJVW3SAXBBVV95cUxPX3RpZmVuQVFuRy1MMDVEVURTUUJpTkcyX3h4RG9qaFZfRm1aODcxOFQwdEtmaXYzTkJaVTMtb2FqVWJkZFA4S1VFLXl0SEpqbjZnTVdlcUpSd0t3SHNSaXBMdFZWN0ZQYXdkRmxMSVVt?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "기후에너지 R&D 투자방향 짠다…민관 ‘전략기획투자협의회’ 개최 전기신문",
+      "publishedAt": "2026-10-02T05:02:39.000Z",
       "rank": 6
     },
     {
-      "id": "e3561117ca4440cb",
-      "title": "서울시, AI 학습 데이터 표준화·공유...'레벨4 자율주행 시내버스' 2030년까지 500대 도입 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mcVZUQk9XWnBkMGFTV1dUa0g1WEltb2JOMUEyejdYQTR0YndqZGV0bWxWSTJ2RzlfWUU5c2FsNmxSek01Wm1neVZ0RmdtVk5yaktac3NUR09VY1JlbG9HaWNDMGNUXzg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "서울시, AI 학습 데이터 표준화·공유...'레벨4 자율주행 시내버스' 2030년까지 500대 도입 인공지능신문",
-      "publishedAt": "2026-10-01T09:50:55.000Z",
+      "id": "591586f171c05c86",
+      "title": "Tech Week Singapore 2026 Spotlights the Infrastructure Powering Asia's Next Digital Frontier - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuRFRQOHQ4aHBMTEIwVEVrV3R0ak1ENnFxcEw5Y2k0dC0wSllzdThTcXc1QWQ5Tmc1eDFWYVlKVmliT256VlhMX2k1WGZqSHM0QWFudU9MRG4xLVJnTnBrb2JPNFcwTVMz0gFsQVVfeXFMTS1rRWdUM0xfNDROZFExYXNrNGZ2ZkFNNGNXbDZ2WFlGNkhFOUZVajhQQlRWQXBJT1ktZXhYckxmZ1ljVUZEdVNEZUVndGNIeDRXWWRBRE5ucElmTjRpa3BGckVCTU5abnFkSDNm?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Tech Week Singapore 2026 Spotlights the Infrastructure Powering Asia's Next Digital Frontier KIPOST",
+      "publishedAt": "2026-10-02T04:31:00.000Z",
       "rank": 7
     },
     {
-      "id": "c6cbc0b65c58d7a5",
-      "title": "한수원 인재개발원, 국내 교육훈련기관 최초 AI 국제인증 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LdS1GOEtoeVg3bHV0WXRGREl0MG5nQlNsN01lQkluTWM3YVhaOVc2aGVFVEprcWRfZUtldl91bjFodGFVNXJHY1BSQTZpb2c?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "한수원 인재개발원, 국내 교육훈련기관 최초 AI 국제인증 v.daum.net",
-      "publishedAt": "2026-10-01T08:35:26.000Z",
+      "id": "3a0afbfab647c9cc",
+      "title": "Boomi Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for API Management - 세계뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TczZRV2ppdWs2WGpaRkVBOHVfVkk0V2dIMnBuMUFrbndMUmUzT3VrbWZ5eWxMb21MZjdQZ2M4SW54MDF1MGRwSEpRdkxUQktpRC1wUFpkLWZrcUNlLVJTWFE5UXQ4eVdwOHQ5b2o1RmFOaWR5?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Boomi Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for API Management 세계뉴스통신",
+      "publishedAt": "2026-10-02T03:33:33.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-01T04:31:35.000Z"
+      "updatedAt": "2026-10-02T04:24:21.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
