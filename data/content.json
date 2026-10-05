@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T04:35:48.869Z",
-  "projectsCheckedAt": "2026-10-04T04:35:48.869Z",
-  "projectsUpdatedAt": "2026-10-04T04:35:48.869Z",
+  "updatedAt": "2026-10-05T04:21:30.968Z",
+  "projectsCheckedAt": "2026-10-05T04:21:30.968Z",
+  "projectsUpdatedAt": "2026-10-05T04:21:30.968Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-04T04:35:48.869Z",
+    "checkedAt": "2026-10-05T04:21:30.968Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "5561a53dec2f2bf4",
+      "title": "각국 대표단이 만드는 `AI 국제표준`…ISO/IEC 42001 둘러싼 속내는? [IT백과] - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GckpTWmYtVHlJR3RtZ3p0SVpWM0M2X0xWZjdLWndMTi1PMUtCVThrZndqTHBkWnY2dEU2bnNnQnJTLWdkOEpWOUpyRFZmOVFxaFJSdkdBRnhlZ3pPdFZEcGNfQXI?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "각국 대표단이 만드는 `AI 국제표준`…ISO/IEC 42001 둘러싼 속내는? [IT백과] 디지털데일리",
+      "publishedAt": "2026-10-05T01:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "e51ef3b927a5391a",
+      "title": "韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도” - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSDI0R1ZPcjNzX2t1eXZiQ2FxWk1jQ1NTVnlBa1RIbUtUTW5vZXlHaGFlTkVZR2lJbFk1bTlJcTI0b1JTV3d2cFo2MjE2QQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도” 전자신문",
+      "publishedAt": "2026-10-04T21:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "50f31df1e254d158",
+      "title": "전남인재평생교육진흥원, 부패방지경영시스템 ‘ISO 37001’ 갱신 인증 획득 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBraWxqMjhBbmpHamV3bXV0alBGX3B2UGJETllJMEVSd3RCbi1kR3czQlgzSnBubHFpOVFyUVJVTUd0XzhESjUw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "전남인재평생교육진흥원, 부패방지경영시스템 ‘ISO 37001’ 갱신 인증 획득 브레이크뉴스",
+      "publishedAt": "2026-10-04T15:35:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "b032fa2ca5a5cb18",
+      "title": "Greenfield, Safe 재단 거버넌스 문제로 스위스 당국에 제소 - 토큰포스트",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QQVhzNU5KVHQ1YThJRTEyUmE2TmNtTkF1NDBYVG1QTFRuR2dTLURpelpBYy1DbmhTcFlVZkEtOWU1TXJlNWV2SUZleG9sSjBMY0tNOHFiT0k?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Greenfield, Safe 재단 거버넌스 문제로 스위스 당국에 제소 토큰포스트",
+      "publishedAt": "2026-10-04T17:57:28.000Z",
+      "rank": 4
+    },
+    {
+      "id": "33c0730a24a8711b",
+      "title": "AI가 굶어 죽기 시작했다 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OVkppUnBxQVVydHBYRmRxaGJRbDZycEIzV1J6R1hrYzR4cUEtanVYM1FNTGY2MklhRi14SkppdUxCZmZWTTh1bA?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 굶어 죽기 시작했다 브런치",
+      "publishedAt": "2026-10-04T13:21:10.000Z",
+      "rank": 5
+    },
+    {
+      "id": "0ed8d2897b15b759",
+      "title": "중기부 ‘중소 제조기업 AI 대전환’ 지원기업 AI 도입률 17% 그쳐 - 에너지신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcmQ0S0cxbnNSVk1ScklVUWJzWE9FOXAxVkMtalo5bExiUmFLbmNSb0pmM05YVWJoRjdENUJKd2pYa0xrczloTnVzTk5kNHZqYndrVWxvX2txZlY3WXBnS3dUU1MzajR2YTM5RWxhY2gtZw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "중기부 ‘중소 제조기업 AI 대전환’ 지원기업 AI 도입률 17% 그쳐 에너지신문",
+      "publishedAt": "2026-10-04T11:54:37.000Z",
+      "rank": 6
+    },
+    {
+      "id": "c55eebc9cbabdb64",
+      "title": "북한 전자자동화설계연구소, 지방공업 공장 현대화 위한 전자자동화 장치들 개발 - NK경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GeTd5aHNYVEV3bHptdmtiV3JPUW9yRkxEM0ktaDdTV0RkYl9rUnMtZnVoWmpYZjc1QnRTM2ExY0N1aW5RdEkwSDA2aWhYQk9XaGdJbUpmcEhBU3pzMUhCcFRMSlY1NTNCZXNn0gFuQVVfeXFMUHV5UHFqXzJYMkhyLUlFRjdGcG40a1NyT1FNM2JsSW54TlhHTTV1V2ZKaWpBSTdHUEdjQTVrOWRsdGZvblBaOS16ZnoxRTNtWlRtLWV0aXYzRVJFMW9ES2ZxNHNqNVp5NUoxTjAwd1E?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "북한 전자자동화설계연구소, 지방공업 공장 현대화 위한 전자자동화 장치들 개발 NK경제",
+      "publishedAt": "2026-10-04T09:13:14.000Z",
+      "rank": 7
+    },
     {
       "id": "eeb3c332a96a3710",
       "title": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑ - 연합뉴스",
@@ -65,69 +128,6 @@
       "source": "Google News: AI standardization",
       "summary": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑ 연합뉴스",
       "publishedAt": "2026-10-03T23:00:04.000Z",
-      "rank": 1
-    },
-    {
-      "id": "e3dffd9897dd66b3",
-      "title": "(사)금융연구포럼 · 서울대학교 금융법센터 · 서울대학교 아시아태평양법연구소, 제3회 국제학술대회 - 법률신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wcW9abXFzUVdqY0Y1NFAyU1E3S0JPZ053RS05UlROdTcyMGpzR0tseHpyQld5Z3dueHNMWlpxaVlFR3ZfRlVRNnlUTWdJa1JKVk5aeFE5Nk42N3dKUVhBWE41b0tpWmRFQU1nMDJsR0VQd9IBckFVX3lxTE4wcW9abXFzUVdqY0Y1NFAyU1E3S0JPZ053RS05UlROdTcyMGpzR0tseHpyQld5Z3dueHNMWlpxaVlFR3ZfRlVRNnlUTWdJa1JKVk5aeFE5Nk42N3dKUVhBWE41b0tpWmRFQU1nMDJsR0VQdw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "(사)금융연구포럼 · 서울대학교 금융법센터 · 서울대학교 아시아태평양법연구소, 제3회 국제학술대회 법률신문",
-      "publishedAt": "2026-10-03T19:42:48.000Z",
-      "rank": 2
-    },
-    {
-      "id": "0df09da739d344ef",
-      "title": "Boomi Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for API Management - 기업경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WTG1RMTB6cm84aXNRaWxQRmUtQ002OFpKRG9ER3ZkMHUzRGpOS2tWWFFEZUhGdElQWUNCX2NReFBrcVk4cjdlMURuTjlMU3gyZTVmNVlrQ09zaE1vbGhFMDdxa09HaVppcG8wMzgxWmE1LVZVUmc?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Boomi Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for API Management 기업경제뉴스",
-      "publishedAt": "2026-10-03T04:47:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "cebc03bf83e65fba",
-      "title": "해외·표준 특허 확보 지원 & TLO 사업화 역량 강화… ‘R&D-IP-사업화’ 혁신 지원 방안 - IPDaily",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdVpWbGlpSmRnTjQxQVhBNU9iMXdWRHE0eWVQWHY4VDEyRnlyUUhCM2w3NFA1Nk0tZFV6SjUydTZrckUtVjNRUGFzUVQ1TU9uTmVJaDVsQnJKdUVxekJ1NzBKemViU0Q5Y2oxbnVkUGNBcXhUN2FrWm1fODN1Q0hWM05WWWpISFhWQ3lReWVURUctSHpDajJvZ09KZzhmTXJCY3NPdXVnaVo1MTZFN2dQdFhOQjVsSDl6WlFEZXV4QmRZOEF4cjlWT2hKZzFpU2lzT1ZpYUw2dlEtaGtqQ2t3RVUxRy1ZemJnRjEyX1ZWVWdHQmw0YWdBNDdkLUhyQi1UWlhoMmt5cUg1clhIZUZOdGhLTjM0ZVd6cXAzX2VvdEpsM2pwVHV6cEZ5UFN5R2kyRWZqRzFMY0hrOHVIVHZFX2U1UkExSnkwWVZNQkZRSXYtVG5xVkVHSTJn?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "해외·표준 특허 확보 지원 & TLO 사업화 역량 강화… ‘R&D-IP-사업화’ 혁신 지원 방안 IPDaily",
-      "publishedAt": "2026-10-02T23:28:54.000Z",
-      "rank": 4
-    },
-    {
-      "id": "38aa65ec26929bd8",
-      "title": "한수원 AI 경영 국제인증 획득…교육훈련기관 최초 - 에너지타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE04Ukgwc3BZazlMdXAySmpRYWFhVUR3RUxhQmtMck9CTkd5OTA5algwS1BtNFhIanF0YU1zX1d3UGd3SWtPOERLU204VDJsbk5aUUg5WTFoVHN5eXRPaWFHczhMbWFMUTNOOA?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "한수원 AI 경영 국제인증 획득…교육훈련기관 최초 에너지타임즈",
-      "publishedAt": "2026-10-02T14:37:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "700e6881db27f963",
-      "title": "한국, 국제표준화기구 이사국 연임 성공...2029년까지 - 도농라이프타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PX0dIbWd3WnBZX0Jpb2VSS0NwTlNZTl96VEFXek5yY1hVNDNqcVZVV3NHODUyMngwS0h3UlVjQk5SekpzV1IyMlhjazlzVmUwQnlkXzZQc2pRdW5vNjlDR1hEbU50eUQzclJSQQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "한국, 국제표준화기구 이사국 연임 성공...2029년까지 도농라이프타임즈",
-      "publishedAt": "2026-10-02T12:07:15.000Z",
-      "rank": 6
-    },
-    {
-      "id": "6a449efbe9222eec",
-      "title": "기후에너지 R&D 투자 우선순위 정비… 미래기술 발굴 착수 - 에너지플랫폼뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40T1p5ZU5GbjhEd0pEb295TXQ5VGhVbmVWcTFsSzczSU05bVYtQm5nTHhQdGlXYTZENi1uMjV5YWpRSUpvZzRTbGI5dTlXdlVRbU1YdTdIaWhmcFp1MGxLZWFWVlhmODV1cDZjWtIBcEFVX3lxTE5ncHhiUTM3cFF0dUphOUl0dHBUVG91enRSQ1FmOHNaY0t5UjYyaFFVYUVkT1JJc1NCcWZYcWtCZXJISWJEaUQtTTFVelUyZ0JQcTAwaEp0S3hTUXdMNGtBMlFlR25JMkc0QWN2VXp5UmI?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "기후에너지 R&D 투자 우선순위 정비… 미래기술 발굴 착수 에너지플랫폼뉴스",
-      "publishedAt": "2026-10-02T07:46:48.000Z",
-      "rank": 7
-    },
-    {
-      "id": "85ff64b6d2d6b659",
-      "title": "기후에너지 R&D 투자방향 짠다…민관 ‘전략기획투자협의회’ 개최 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RHQ3OHd4cS1Rb1ItYXlMUXVoOG9sdERVQWVmREFDekVCYUdkNV9YYkF6Y2ExVHg2Y1U2cG85RUhaSGN4ZldKcUtXRUMxSjhuZzVwNzhRblFHTFotZmE4Z1FUbXdSS05EWHdKNtIBcEFVX3lxTE9fdGlmZW5BUW5HLUwwNURVRFNRQmlORzJfeHhEb2poVl9GbVo4NzE4VDB0S2ZpdjNOQlpVMy1vYWpVYmRkUDhLVUUteXRISmpuNmdNV2VxSlJ3S3dIc1JpcEx0VlY3RlBhd2RGbExJVW0?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "기후에너지 R&D 투자방향 짠다…민관 ‘전략기획투자협의회’ 개최 전기신문",
-      "publishedAt": "2026-10-02T05:00:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-03T04:06:16.000Z"
+      "updatedAt": "2026-10-04T04:39:53.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
