@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T04:21:30.968Z",
-  "projectsCheckedAt": "2026-10-05T04:21:30.968Z",
-  "projectsUpdatedAt": "2026-10-05T04:21:30.968Z",
+  "updatedAt": "2026-10-06T05:09:16.843Z",
+  "projectsCheckedAt": "2026-10-06T05:09:16.843Z",
+  "projectsUpdatedAt": "2026-10-06T05:09:16.843Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-05T04:21:30.968Z",
+    "checkedAt": "2026-10-06T05:09:16.843Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "655542a435974ed3",
+      "title": "[D-BIZ 글로벌 뉴스] 아벤트라 그룹, ISO/IEC 42001 AI 인증 획득…기업 조달 병목 해소 - 데일리비즈온",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JM252Y0RDZHlPeF9mbGNzaWpRRmptLVhVb0pQaWNnMEZrZTdTaUZPQlZpWGlyamJORENwZ0lwQnB3OGRwdjFLVHc2ZmZCUHVpVHNQS2dRV2tmaEktYXJpYkJUX09tN0xYNFY3eQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "[D-BIZ 글로벌 뉴스] 아벤트라 그룹, ISO/IEC 42001 AI 인증 획득…기업 조달 병목 해소 데일리비즈온",
+      "publishedAt": "2026-10-06T02:09:11.000Z",
+      "rank": 1
+    },
+    {
+      "id": "9f4a6424cb85b541",
+      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심 - itworld.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNM2JTTFdNODdsZFNiS1BKcDdfaEI0aU5oX1lTUlZfUW80V0VMX2ZHb01pVzFOVXVVREx1dnNJbHExamxsaC1iZzk3T18yUG5Lem5DaTV3V0J4OEVSSU5qSUdlaU5KUFFLRy1LYW5LT0NjRmhycnh5NmJ6OXVFeUpVRHBZb0R1N0RvRVN5dnJJSmtkYXRjZ2NTTzI2Sm42ZGVuSWZha2dsa0tJZUhidEpXUTNhajY1MXZVbUJhaWliLUw0WmY5WXh3aDFQa1k4WXlkUXc5VE1zUEctSjE0UWs3X0xjUDlpNWxOTmMxSWRuY2dwZVpWV0F3UlQ2Y1Fidll5T1YyRGx1c2dxRExlSmtMN3dBbGt0b2dKcVNhSGdENVRTd3dLNlE3a0E3dFRkZVdxbkFocy1RU0tma0RyNzhwb3lhenpUNmdjTHVibW1jN0xCUQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심 itworld.co.kr",
+      "publishedAt": "2026-10-06T04:40:41.000Z",
+      "rank": 2
+    },
+    {
+      "id": "1b6d79c7707a0de0",
+      "title": "원프레딕트, ‘협업지능 피지컬 AI SW 표준화’ 구축 국가과제 참여 - 로봇신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JTXpTcEtSMDFyUWFJamhwd09kdExmQWU1QmVha05DOW9CbE9kV3praEJKR2FXbkhLSVV1N0w2U05MVndIRFVfTjFjMElYNy01VnBXTVRkcllpVVgydUVFZWFaVTFMcFZDdi1BaA?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "원프레딕트, ‘협업지능 피지컬 AI SW 표준화’ 구축 국가과제 참여 로봇신문",
+      "publishedAt": "2026-10-06T01:10:42.000Z",
+      "rank": 3
+    },
+    {
+      "id": "59d21181149eea1f",
+      "title": "한국, 국제표준화기구 이사국 연임…인공지능·양자 표준화 추진 - 양자신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wZEVub0JBNHRlYmdFaDlLZ2hOSlZfMm10R3hFRjAzT19pT0dvQUdROTNyS0VaYXhVYWtqQWkxOWEwT185aWtRQVdRTVZWS1BJaFRYMUZwc01sMXJuMWlLTzNXWUhDdGZKMXhoMjBpWQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "한국, 국제표준화기구 이사국 연임…인공지능·양자 표준화 추진 양자신문",
+      "publishedAt": "2026-10-05T23:10:00.000Z",
+      "rank": 4
+    },
     {
       "id": "5561a53dec2f2bf4",
       "title": "각국 대표단이 만드는 `AI 국제표준`…ISO/IEC 42001 둘러싼 속내는? [IT백과] - 디지털데일리",
@@ -65,69 +101,33 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "각국 대표단이 만드는 `AI 국제표준`…ISO/IEC 42001 둘러싼 속내는? [IT백과] 디지털데일리",
       "publishedAt": "2026-10-05T01:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "e51ef3b927a5391a",
-      "title": "韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSDI0R1ZPcjNzX2t1eXZiQ2FxWk1jQ1NTVnlBa1RIbUtUTW5vZXlHaGFlTkVZR2lJbFk1bTlJcTI0b1JTV3d2cFo2MjE2QQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도” 전자신문",
-      "publishedAt": "2026-10-04T21:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "50f31df1e254d158",
-      "title": "전남인재평생교육진흥원, 부패방지경영시스템 ‘ISO 37001’ 갱신 인증 획득 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBraWxqMjhBbmpHamV3bXV0alBGX3B2UGJETllJMEVSd3RCbi1kR3czQlgzSnBubHFpOVFyUVJVTUd0XzhESjUw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "전남인재평생교육진흥원, 부패방지경영시스템 ‘ISO 37001’ 갱신 인증 획득 브레이크뉴스",
-      "publishedAt": "2026-10-04T15:35:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "b032fa2ca5a5cb18",
-      "title": "Greenfield, Safe 재단 거버넌스 문제로 스위스 당국에 제소 - 토큰포스트",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QQVhzNU5KVHQ1YThJRTEyUmE2TmNtTkF1NDBYVG1QTFRuR2dTLURpelpBYy1DbmhTcFlVZkEtOWU1TXJlNWV2SUZleG9sSjBMY0tNOHFiT0k?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "Greenfield, Safe 재단 거버넌스 문제로 스위스 당국에 제소 토큰포스트",
-      "publishedAt": "2026-10-04T17:57:28.000Z",
-      "rank": 4
-    },
-    {
-      "id": "33c0730a24a8711b",
-      "title": "AI가 굶어 죽기 시작했다 - 브런치",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OVkppUnBxQVVydHBYRmRxaGJRbDZycEIzV1J6R1hrYzR4cUEtanVYM1FNTGY2MklhRi14SkppdUxCZmZWTTh1bA?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 굶어 죽기 시작했다 브런치",
-      "publishedAt": "2026-10-04T13:21:10.000Z",
       "rank": 5
     },
     {
-      "id": "0ed8d2897b15b759",
-      "title": "중기부 ‘중소 제조기업 AI 대전환’ 지원기업 AI 도입률 17% 그쳐 - 에너지신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcmQ0S0cxbnNSVk1ScklVUWJzWE9FOXAxVkMtalo5bExiUmFLbmNSb0pmM05YVWJoRjdENUJKd2pYa0xrczloTnVzTk5kNHZqYndrVWxvX2txZlY3WXBnS3dUU1MzajR2YTM5RWxhY2gtZw?oc=5",
+      "id": "4b1474d7aa967c17",
+      "title": "권향엽·민주당, 지원단계별 AX 진척도 파악해야 중기부 중소 제조기업 AI 대전환 지원기업, AI 도입률 17% - 오토투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hS3FLNURuLWtZUk5wOS1DVExzNmpJejR3SXVFNjZvcHptTEVQSkp6WTJZQVcwblh0SnFzWHhYVTNtS0Mzbi1CNXlEQ0xjT3BCSGk3ZWx0MExzbFlySGJJZE9aUmJ6cVV5dkJpeGdLOA?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "중기부 ‘중소 제조기업 AI 대전환’ 지원기업 AI 도입률 17% 그쳐 에너지신문",
-      "publishedAt": "2026-10-04T11:54:37.000Z",
+      "summary": "권향엽·민주당, 지원단계별 AX 진척도 파악해야 중기부 중소 제조기업 AI 대전환 지원기업, AI 도입률 17% 오토투데이",
+      "publishedAt": "2026-10-05T09:06:39.000Z",
       "rank": 6
     },
     {
-      "id": "c55eebc9cbabdb64",
-      "title": "북한 전자자동화설계연구소, 지방공업 공장 현대화 위한 전자자동화 장치들 개발 - NK경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GeTd5aHNYVEV3bHptdmtiV3JPUW9yRkxEM0ktaDdTV0RkYl9rUnMtZnVoWmpYZjc1QnRTM2ExY0N1aW5RdEkwSDA2aWhYQk9XaGdJbUpmcEhBU3pzMUhCcFRMSlY1NTNCZXNn0gFuQVVfeXFMUHV5UHFqXzJYMkhyLUlFRjdGcG40a1NyT1FNM2JsSW54TlhHTTV1V2ZKaWpBSTdHUEdjQTVrOWRsdGZvblBaOS16ZnoxRTNtWlRtLWV0aXYzRVJFMW9ES2ZxNHNqNVp5NUoxTjAwd1E?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "북한 전자자동화설계연구소, 지방공업 공장 현대화 위한 전자자동화 장치들 개발 NK경제",
-      "publishedAt": "2026-10-04T09:13:14.000Z",
+      "id": "a8ff135205bd9bab",
+      "title": "AI가 바꾸는 의료 패러다임 “표준화에서 맞춤으로”…‘한의학’의 새로운 부상 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOejJ2YTJNckotazlCQmpBUlNCV0RPSlhfaTQ1SXNhNzdkV3VxaURFMGVsX3ZQOUNnb2p5NjlJdXNWcUlvb1VKSU4zcWpqT1MtcEpIdHZUTHNic0tiQThJNVJDSzJZckRjQTRJZThJS3JQcnMxdGZSSWlTMHpGbEJ3NElxRQ?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI가 바꾸는 의료 패러다임 “표준화에서 맞춤으로”…‘한의학’의 새로운 부상 서울신문",
+      "publishedAt": "2026-10-05T08:41:08.000Z",
       "rank": 7
     },
     {
-      "id": "eeb3c332a96a3710",
-      "title": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑ - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjX2NkUXRBaXRUanZpTV9DZFc5emRmakFFNF9zWFRxTzBzQnFyUlRmcEdDTEF0TVNmNUtULVRyaVdMVDJmRGhPTUJtTnQzODVyR2lxbDA1ejVXQVlGMGpGadIBYEFVX3lxTFBjX2NkUXRBaXRUanZpTV9DZFc5emRmakFFNF9zWFRxTzBzQnFyUlRmcEdDTEF0TVNmNUtULVRyaVdMVDJmRGhPTUJtTnQzODVyR2lxbDA1ejVXQVlGMGpGaQ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑ 연합뉴스",
-      "publishedAt": "2026-10-03T23:00:04.000Z",
+      "id": "4d9e8ab81f3d341a",
+      "title": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 - etnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoVHFkZXl2WHEycHNXWXl2T1BCRklyWTFhQnBxa3ZpZG45aVpnQ3VPaUtUQVNpalRxQmlNclo2TEItcERQWDhBZlNaSGRrUQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "스마트홈 클라우드 연동 규격 HCA 국제표준화 추진 etnews.com",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-04T04:39:53.000Z"
+      "updatedAt": "2026-10-05T04:25:36.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
