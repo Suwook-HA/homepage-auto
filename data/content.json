@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-09T04:49:54.088Z",
-  "projectsCheckedAt": "2026-10-09T04:49:54.088Z",
-  "projectsUpdatedAt": "2026-10-09T04:49:54.088Z",
+  "updatedAt": "2026-10-10T04:35:28.615Z",
+  "projectsCheckedAt": "2026-10-10T04:35:28.615Z",
+  "projectsUpdatedAt": "2026-10-10T04:35:28.615Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,28 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-09T04:49:54.088Z",
+    "checkedAt": "2026-10-10T04:35:28.615Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "8e3dc6f7ec15d962",
+      "title": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 - 레저신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PZGtxMXdtdVZDcUZFYmNtaGRZMl93cXZCckswdFJCa0ZqUEtlTHloOEd4WEtNcDlBME1oZFYzNVV5bTl4TTNKSmxzS0J2QW5kVjFOZUgtRnRpWmg4Vlg2NzV3TnFGWFBCUkE1MjRvaw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 레저신문",
+      "publishedAt": "2026-10-09T13:38:57.000Z",
+      "rank": 1
+    },
+    {
+      "id": "f1986b98a224180d",
+      "title": "[2026 The CEO of Catholic Kwandong University Early-Stage Startup Package] TripDoctor, Developing an AI-Powered Integrated Medical and Tourism Platform for International Patients - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSk43V0psZ1ZoQnhHRHZXeER5eHpwdU9fMHpkMVZDTzljY1dnalNWdW42X2ZVZjA5a2p6eVJDLXdQdVlOVk9XTmVHZzA4eFVDQzlXTUJhakt4aUNOTGpJaXF2QWxEQjZmWjhz?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[2026 The CEO of Catholic Kwandong University Early-Stage Startup Package] TripDoctor, Developing an AI-Powered Integrated Medical and Tourism Platform for International Patient...",
+      "publishedAt": "2026-10-09T12:31:00.000Z",
+      "rank": 2
+    },
     {
       "id": "36092a413d35ed50",
       "title": "Rockwell Automation and Industry Leaders Launch the Digital CMC Consortium to Accelerate Digital Transformation in Pharmaceutical Development - KIPOST",
@@ -65,16 +83,16 @@
       "source": "Google News: Digital Transformation",
       "summary": "Rockwell Automation and Industry Leaders Launch the Digital CMC Consortium to Accelerate Digital Transformation in Pharmaceutical Development KIPOST",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "rank": 1
+      "rank": 3
     },
     {
-      "id": "6f09204e4ad1f960",
-      "title": "Hancom Aims to Turn Solo Founders into AI-Powered Bosses - 이코노미트리뷴",
+      "id": "62f297ef071ff785",
+      "title": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses - 이코노미트리뷴",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RWHhOanZYVWx0bWxkeFBXblVNRXN6T21sN1lwT3ZTdVAtMHhQMFBRS2ZFRmJxWFh0bGlCbF93aVRZamlSR3phYThpeV8tS3IyYkZOdmw3dXhMeDV5eHFKb3VfWkl5VmxpYmNkM0ViQzR5RUZqdTU0?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Hancom Aims to Turn Solo Founders into AI-Powered Bosses 이코노미트리뷴",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses 이코노미트리뷴",
       "publishedAt": "2026-10-09T01:04:06.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "cbf47ffa2574f5c4",
@@ -83,7 +101,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "로크웰 오토메이션과 업계 선도 기업, 제약 개발의 디지털 트랜스포메이션을 가속화하기 위한 디지털 CMC 컨소시엄 출범 지디넷코리아",
       "publishedAt": "2026-10-08T14:10:02.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "022ae0674b3b88f6",
@@ -92,7 +110,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "대구 R&D·경북 제조기반 묶어 로봇산업 키운다 경북일보",
       "publishedAt": "2026-10-08T10:05:52.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "bd28e587133fc1f9",
@@ -101,7 +119,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "[AI 레디 데이터③] AI가 직접 판단·실행…데이터 관리도 ‘상시 체계’로 아이티데일리",
       "publishedAt": "2026-10-08T07:24:14.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "54b2fbd6ebe5545e",
@@ -110,24 +128,6 @@
       "source": "Google News: R&D Strategy",
       "summary": "K-GX 속 수소, 철강이 끌고 R&D가 받친다...‘수요·가격·일정’은 숙제 월간수소경제",
       "publishedAt": "2026-10-08T05:15:12.000Z",
-      "rank": 6
-    },
-    {
-      "id": "da153c318751ad70",
-      "title": "하이브리드 인텔리전스(Hybrid Intelligence)를 위한 윈도우 구축 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdDFsT0dsM3MtLUx5Z2pmUmpkSl9CQTk3U0JkRU9ndThhZlRJS3B0OTBqaFFrS3dITFJaakpWRnktT0lFR0pfYklacHhWdS05cXRQVE9YVGlZRWp5enlMYThqYThTaEh3b25KSlk2allFWkRXai1zNWIzc01YR2s1ZGN0YTltUVg0VlQxaGphQjE1Wk1QczA4SGp0cFhlYjJyLW01bFJMb3kxZ2xLOEp6WV9zUTFvTG93aldkZF9EY2dVQVNUTnFlN0pDNDJwZjJyeUp6NlQ4aW9pWEt4cktiTDhzaWd0dU5rMmNmWVpONmQ3c29feF82YlltTGVDU1l1S0c2RkZycF9wTzh2elFXS3pBeUNTb1RGX21sckQwOWNMbEVIdDhVXzl1dGtpY2d4MUtnMlpkUEVxWXhFSWZjbkFvZDB6Vk5Z?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "하이브리드 인텔리전스(Hybrid Intelligence)를 위한 윈도우 구축 Microsoft Source",
-      "publishedAt": "2026-10-08T03:33:28.000Z",
-      "rank": 7
-    },
-    {
-      "id": "6c433757908d9366",
-      "title": "북한 정보산업성, 러시아 IT 행사 참석 - NK경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xMU1xbU5QbkFmdGR0eXNyM054TjB2V1FYRGRYM3lQMmJ5VnBxdV93VkFOYkZIaFJDek43QXFoSzlLMVZ3UUFIRm50OWx0cXowXzFsT3hBd3I3dWV4Y0lKY1Q2Z1RMY3hOYlU00gFuQVVfeXFMUHF3cUZ0a0JUT1V4eTF2azVWTVNXdXZRVGlvdXRmOGNvb3U3UlBqRHZCS0U0VzBpNG5WOTBMM1lacDhQSmlWQjhxNEZkMnNiVm1SU2hlWF9obTRmUVpQQkFJd2RlMWRsTG5qczVpbHc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "북한 정보산업성, 러시아 IT 행사 참석 NK경제",
-      "publishedAt": "2026-10-08T02:01:48.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-08T04:50:57.000Z"
+      "updatedAt": "2026-10-09T04:53:58.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
