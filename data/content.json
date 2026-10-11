@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-10T04:35:28.615Z",
-  "projectsCheckedAt": "2026-10-10T04:35:28.615Z",
-  "projectsUpdatedAt": "2026-10-10T04:35:28.615Z",
+  "updatedAt": "2026-10-11T04:20:08.665Z",
+  "projectsCheckedAt": "2026-10-11T04:20:08.665Z",
+  "projectsUpdatedAt": "2026-10-11T04:20:08.665Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-10T04:35:28.615Z",
+    "checkedAt": "2026-10-11T04:20:08.665Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "2a0d14bbb01281f4",
+      "title": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5R09BaGhOMGxGUGo3aVVFQVRvTlpkXzJIT2g2QjE2S1hqaUROa3FZRE1UdUJHVXdfY2U3bm1URlNlS3VlQng1S090M0tGVGh6aXhVcXZUUFZaVHFhWW9raGJfVUNHcnN2U1HSAW9BVV95cUxPbVpkTGVobExfcmJjdXJkcTlnei1FbHp5cWlYMXp4cGQxb29NZzB5enpaMjZINDdHdWc3bWx4clF6OWhBNlRwWkg4bE5UbVBxa1lQSVctX0dLR2NzNVhERzRLU2xLS1duMjZCRE82NVU?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 머니투데이",
+      "publishedAt": "2026-10-11T02:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "2ae0067b1e6016f8",
+      "title": "디지털융합교육원 원장, 문경대학교서 '지역특화산업 AI·DX 역량강화 교육' 진행 - 파이낸스투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUWl2TEVGQ1dnV1BaM2NDWVRqci1XMnhycGtnZ3hpVDNDNTFWZnJhdVhROG5kZHZNMGxvanR3dE9PN3ZFVTU5Z1dCbW40N3czNXJheXNpcTkxNkM3aWw1RXBNbG1iZVR3TlZr?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "디지털융합교육원 원장, 문경대학교서 '지역특화산업 AI·DX 역량강화 교육' 진행 파이낸스투데이",
+      "publishedAt": "2026-10-11T00:57:12.000Z",
+      "rank": 2
+    },
+    {
+      "id": "4c89a409d96c7dab",
+      "title": "DNV, LRM에 일본 최초의 ISO/IEC 42001 AI 경영 인증 수여 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTC0yMmhHaFNHNklWdXJvTjRuR05wT3N5dlViNUZmQUxTOUhzXzZPM19tNHlYb043RGNxU1J4a21IQXYxSGhWSXJkUlp0Q0ZTWWNBZ2g4QmpXTXFVYVF2VmtiRnpaVEJvaEo3Z05lUklhWi0zZXdpZW9NRUtMRnNoLXk2cmRTMUN0WGd4QTg2N3lheG0zbjUxSnJTcU5KS3Z6QmJrUmdkODVfQQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "DNV, LRM에 일본 최초의 ISO/IEC 42001 AI 경영 인증 수여 IndexBox",
+      "publishedAt": "2026-10-09T11:51:08.000Z",
+      "rank": 3
+    },
     {
       "id": "8e3dc6f7ec15d962",
       "title": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 - 레저신문",
@@ -65,7 +92,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 레저신문",
       "publishedAt": "2026-10-09T13:38:57.000Z",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "f1986b98a224180d",
@@ -74,25 +101,16 @@
       "source": "Google News: International Standardization",
       "summary": "[2026 The CEO of Catholic Kwandong University Early-Stage Startup Package] TripDoctor, Developing an AI-Powered Integrated Medical and Tourism Platform for International Patient...",
       "publishedAt": "2026-10-09T12:31:00.000Z",
-      "rank": 2
+      "rank": 5
     },
     {
-      "id": "36092a413d35ed50",
-      "title": "Rockwell Automation and Industry Leaders Launch the Digital CMC Consortium to Accelerate Digital Transformation in Pharmaceutical Development - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbEtkZmhoblZ0a1RKUnU0M0FCLXN3UXNkVGt5cEV6TmQ5VVRZTXdqLXRaeGxFN2p6a1dWLU9NWWhZS2sxcDRYdTBuYm9LTFFWWDRPclUtN3BjcGRIT21yWVdPYTJNbmhU0gFsQVVfeXFMT2w1R082ME1uRHc4RVNvZ19KTEJDdjFtRTh1a1lfZFFqbjE2RHJ4MDNrSGpTbGphNnpBSXQzUDJKaVd1NE9lZk5BVHcyRUpQZS1LWDFxRGR6aUJ0aDZCRzhDTDNlZmZEOGxRZ0J6?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Rockwell Automation and Industry Leaders Launch the Digital CMC Consortium to Accelerate Digital Transformation in Pharmaceutical Development KIPOST",
-      "publishedAt": "2026-10-08T13:00:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "62f297ef071ff785",
+      "id": "591566ea79f9d2cc",
       "title": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses - 이코노미트리뷴",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RWHhOanZYVWx0bWxkeFBXblVNRXN6T21sN1lwT3ZTdVAtMHhQMFBRS2ZFRmJxWFh0bGlCbF93aVRZamlSR3phYThpeV8tS3IyYkZOdmw3dXhMeDV5eHFKb3VfWkl5VmxpYmNkM0ViQzR5RUZqdTU0?oc=5",
-      "source": "Google News: trustworthy AI governance",
+      "source": "Google News: Trustworthy AI",
       "summary": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses 이코노미트리뷴",
       "publishedAt": "2026-10-09T01:04:06.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "cbf47ffa2574f5c4",
@@ -101,7 +119,7 @@
       "source": "Google News: Digital Transformation",
       "summary": "로크웰 오토메이션과 업계 선도 기업, 제약 개발의 디지털 트랜스포메이션을 가속화하기 위한 디지털 CMC 컨소시엄 출범 지디넷코리아",
       "publishedAt": "2026-10-08T14:10:02.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "022ae0674b3b88f6",
@@ -110,24 +128,6 @@
       "source": "Google News: R&D Strategy",
       "summary": "대구 R&D·경북 제조기반 묶어 로봇산업 키운다 경북일보",
       "publishedAt": "2026-10-08T10:05:52.000Z",
-      "rank": 6
-    },
-    {
-      "id": "bd28e587133fc1f9",
-      "title": "[AI 레디 데이터③] AI가 직접 판단·실행…데이터 관리도 ‘상시 체계’로 - 아이티데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sVk83YmtXVFZrT015Umo3U0JIWGNaZkVYTV9xeWo4NHJfNXRZRVZzQml5OGhTcDNKV3hGQzBmcFB3STN1Q056aDU3dHlpTTBfSWZNQkpjazBCQlA5MHUyendKUUxYVE8z?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[AI 레디 데이터③] AI가 직접 판단·실행…데이터 관리도 ‘상시 체계’로 아이티데일리",
-      "publishedAt": "2026-10-08T07:24:14.000Z",
-      "rank": 7
-    },
-    {
-      "id": "54b2fbd6ebe5545e",
-      "title": "K-GX 속 수소, 철강이 끌고 R&D가 받친다...‘수요·가격·일정’은 숙제 - 월간수소경제",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yNEh6d0YxRjZ5UWdPQmN4SUNzdjRTMzd1SG9tbTM1RmJlckxWcGFPS1p0cmZYTHdxQV9ZV2Rsd09SMkVkRzk2QlVzMnozcGpDTk9HeEJPdkVyclZxQTQ5VlMyY2swUQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "K-GX 속 수소, 철강이 끌고 R&D가 받친다...‘수요·가격·일정’은 숙제 월간수소경제",
-      "publishedAt": "2026-10-08T05:15:12.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-09T04:53:58.000Z"
+      "updatedAt": "2026-10-10T04:39:32.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
