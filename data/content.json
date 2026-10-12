@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-11T04:20:08.665Z",
-  "projectsCheckedAt": "2026-10-11T04:20:08.665Z",
-  "projectsUpdatedAt": "2026-10-11T04:20:08.665Z",
+  "updatedAt": "2026-10-12T04:36:33.709Z",
+  "projectsCheckedAt": "2026-10-12T04:36:33.709Z",
+  "projectsUpdatedAt": "2026-10-12T04:36:33.709Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-11T04:20:08.665Z",
+    "checkedAt": "2026-10-12T04:36:33.709Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "2a0d14bbb01281f4",
+      "id": "f79cba393dc8d166",
+      "title": "하림, 창립 40주년 '미래 100년 기업' 도약 선포 - 익산신문",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzBJZVFBTEFPZDNCbFUtOHljMUFnTEl3UzlQRGJxNEZBSFM0dVYwZ1R1OW9QWndJQXBVN3MtbW5ZUkRZZFRhejJsbTVmS3lrWEkxNDB2ak96Q1RCOW9tN3Rjal9kMmJqQ0hXaS1xVTZta0xPUWJ5eFVBWXY4Wkludg?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "하림, 창립 40주년 '미래 100년 기업' 도약 선포 익산신문",
+      "publishedAt": "2026-10-12T03:40:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "3203d64c18f4051b",
+      "title": "MS CEO \"통제 벗어난 AI, 비상 정지 장치 표준화해야\" - 진일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQkR3YjgwNnNMRXY0WGtSOXNWZVhod0M3S2NNT1Byd3dFOUxiNUZjTVRUUjRJb3VUOVFtWS04c3JzSTZyU0ZlVXhUTUJRc3VIQ1FrODVKR3dJS2dVTnJic0plZmlmVXRXSGhDbzQzbw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "MS CEO \"통제 벗어난 AI, 비상 정지 장치 표준화해야\" 진일보",
+      "publishedAt": "2026-10-11T22:29:03.000Z",
+      "rank": 2
+    },
+    {
+      "id": "61703328fa4b7b2a",
+      "title": "합성의약품도 국가전략기술로?…R&D 세액공제 최대 50% 추진 - 뉴스더보이스헬스케어",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GdHNQakdMcWp1ajZXam44OTJZcDVOUjBEOFhVUjhoNnhEOHJGVXVBM0RIcTYxVGpqamoyaHUwMTFIOXVDQTBIVGE2RklTMzh0aDBmaHJhUWlOVFBVd1FiX01qaUVwWlNoOUJDSENFcw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "합성의약품도 국가전략기술로?…R&D 세액공제 최대 50% 추진 뉴스더보이스헬스케어",
+      "publishedAt": "2026-10-11T21:08:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "680723b77f4fc2cc",
+      "title": "Global IoT Data Management Market의 상위 15개 기업 - Spherical Insights",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTFrTVgtc1oybm1wbHBnZi1zUEQzQUY3VVpKamREdFNEMTBFSVVKTEpCVkx4bGJubEVMUWlnMU1XTzJEQ0c3WXk4Ukx5NnhZTVRiS0tubHh5S1pZd0k4RlpFQ05GQm9fV21DaFRkY0VLOTllV3d5RDMxZzFHeGlJbzVCcTg0TW93N3lMazh1NlNHTzZ0RWFNWXJkdVo2SkcxNHJRbElMNnJ4Tm93eEpQdVEyOFFkbFNSZ3pDUGl6VFVPQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Global IoT Data Management Market의 상위 15개 기업 Spherical Insights",
+      "publishedAt": "2026-10-11T17:23:24.000Z",
+      "rank": 4
+    },
+    {
+      "id": "6ba6842efa045554",
+      "title": "Kyndryl and WPP Expand Strategic Partnership to Drive Enterprise Transformation, Marketing Growth and Joint Go-to-Market Innovation - 매드타임스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdFpXZzFJdWZUQ2ZydjQ2N0FNdmJTMEJQQ2VSSWtEZjQzVjhtd2ZTSlhrRHh4MUxrSTJoZFpLekFqZ3BBcGNPWVkxTzJaRTB3c01GbHV0bDZBbVhsQXpHbnNQVk5aVEczSl8tWQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Kyndryl and WPP Expand Strategic Partnership to Drive Enterprise Transformation, Marketing Growth and Joint Go-to-Market Innovation 매드타임스",
+      "publishedAt": "2026-10-11T07:57:05.000Z",
+      "rank": 5
+    },
+    {
+      "id": "f704daf242fdc80f",
+      "title": "게임 설명을 읽다 생기는 질문과 레데리2 포커 블러핑 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFl4aWthV1NyWXZNaDFVcTlkVDFUMmU5TjhFY0ZWSG1QaWJ0amlGaVgxZHNOem5oQUZsR0RWLVlMU3VMWHMwMjZxX0FKS2hNd2kxNXRHUjdra0gwMU5jRFRhb09BLU5LMjAzaDdjSmxPbVVUaHV2d1h6ckJLMFVpUXV3Y0dNU1k?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "게임 설명을 읽다 생기는 질문과 레데리2 포커 블러핑 Calgary Roughnecks",
+      "publishedAt": "2026-10-11T07:16:12.000Z",
+      "rank": 6
+    },
+    {
+      "id": "c591f5b0dd72c92e",
       "title": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5R09BaGhOMGxGUGo3aVVFQVRvTlpkXzJIT2g2QjE2S1hqaUROa3FZRE1UdUJHVXdfY2U3bm1URlNlS3VlQng1S090M0tGVGh6aXhVcXZUUFZaVHFhWW9raGJfVUNHcnN2U1HSAW9BVV95cUxPbVpkTGVobExfcmJjdXJkcTlnei1FbHp5cWlYMXp4cGQxb29NZzB5enpaMjZINDdHdWc3bWx4clF6OWhBNlRwWkg4bE5UbVBxa1lQSVctX0dLR2NzNVhERzRLU2xLS1duMjZCRE82NVU?oc=5",
       "source": "Google News: AI Data Quality",
       "summary": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 머니투데이",
-      "publishedAt": "2026-10-11T02:00:00.000Z",
-      "rank": 1
+      "publishedAt": "2026-10-11T04:18:10.000Z",
+      "rank": 7
     },
     {
       "id": "2ae0067b1e6016f8",
@@ -74,60 +128,6 @@
       "source": "Google News: Digital Transformation",
       "summary": "디지털융합교육원 원장, 문경대학교서 '지역특화산업 AI·DX 역량강화 교육' 진행 파이낸스투데이",
       "publishedAt": "2026-10-11T00:57:12.000Z",
-      "rank": 2
-    },
-    {
-      "id": "4c89a409d96c7dab",
-      "title": "DNV, LRM에 일본 최초의 ISO/IEC 42001 AI 경영 인증 수여 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTC0yMmhHaFNHNklWdXJvTjRuR05wT3N5dlViNUZmQUxTOUhzXzZPM19tNHlYb043RGNxU1J4a21IQXYxSGhWSXJkUlp0Q0ZTWWNBZ2g4QmpXTXFVYVF2VmtiRnpaVEJvaEo3Z05lUklhWi0zZXdpZW9NRUtMRnNoLXk2cmRTMUN0WGd4QTg2N3lheG0zbjUxSnJTcU5KS3Z6QmJrUmdkODVfQQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "DNV, LRM에 일본 최초의 ISO/IEC 42001 AI 경영 인증 수여 IndexBox",
-      "publishedAt": "2026-10-09T11:51:08.000Z",
-      "rank": 3
-    },
-    {
-      "id": "8e3dc6f7ec15d962",
-      "title": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 - 레저신문",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PZGtxMXdtdVZDcUZFYmNtaGRZMl93cXZCckswdFJCa0ZqUEtlTHloOEd4WEtNcDlBME1oZFYzNVV5bTl4TTNKSmxzS0J2QW5kVjFOZUgtRnRpWmg4Vlg2NzV3TnFGWFBCUkE1MjRvaw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "지티에스앤, 디오아이와 함께 ‘극사실주의’ 스크린 파크골프 시대 연다 레저신문",
-      "publishedAt": "2026-10-09T13:38:57.000Z",
-      "rank": 4
-    },
-    {
-      "id": "f1986b98a224180d",
-      "title": "[2026 The CEO of Catholic Kwandong University Early-Stage Startup Package] TripDoctor, Developing an AI-Powered Integrated Medical and Tourism Platform for International Patients - 한경매거진&북",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSk43V0psZ1ZoQnhHRHZXeER5eHpwdU9fMHpkMVZDTzljY1dnalNWdW42X2ZVZjA5a2p6eVJDLXdQdVlOVk9XTmVHZzA4eFVDQzlXTUJhakt4aUNOTGpJaXF2QWxEQjZmWjhz?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[2026 The CEO of Catholic Kwandong University Early-Stage Startup Package] TripDoctor, Developing an AI-Powered Integrated Medical and Tourism Platform for International Patient...",
-      "publishedAt": "2026-10-09T12:31:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "591566ea79f9d2cc",
-      "title": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses - 이코노미트리뷴",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RWHhOanZYVWx0bWxkeFBXblVNRXN6T21sN1lwT3ZTdVAtMHhQMFBRS2ZFRmJxWFh0bGlCbF93aVRZamlSR3phYThpeV8tS3IyYkZOdmw3dXhMeDV5eHFKb3VfWkl5VmxpYmNkM0ViQzR5RUZqdTU0?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Hancom Leverages AWS to Empower Solo Founders as AI-Powered Bosses 이코노미트리뷴",
-      "publishedAt": "2026-10-09T01:04:06.000Z",
-      "rank": 6
-    },
-    {
-      "id": "cbf47ffa2574f5c4",
-      "title": "로크웰 오토메이션과 업계 선도 기업, 제약 개발의 디지털 트랜스포메이션을 가속화하기 위한 디지털 CMC 컨소시엄 출범 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZVVo5OVdsYXdfdUE1MGZib29pbVJMSUFvQXNaMlJieHR1MVgwNmJzVmlLZWc1RXBXOXBDN0s3bi1yaV84OHo2SHg2alNXR3VzTk9KZ2ZB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "로크웰 오토메이션과 업계 선도 기업, 제약 개발의 디지털 트랜스포메이션을 가속화하기 위한 디지털 CMC 컨소시엄 출범 지디넷코리아",
-      "publishedAt": "2026-10-08T14:10:02.000Z",
-      "rank": 7
-    },
-    {
-      "id": "022ae0674b3b88f6",
-      "title": "대구 R&D·경북 제조기반 묶어 로봇산업 키운다 - 경북일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vXzdQWGkwbkRzR003WHduUllBenFhUElzVUNhY3Y3WW5tcnNPenFuaW0tYjJYMlBBa1E2XzFscW1kUVpFUzY0cVZacHlGQzNpNnhQQnBqMFhITTNTWVJ4OG5RSXRjQ21pSHkydmo5aw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "대구 R&D·경북 제조기반 묶어 로봇산업 키운다 경북일보",
-      "publishedAt": "2026-10-08T10:05:52.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-10T04:39:32.000Z"
+      "updatedAt": "2026-10-11T04:24:12.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
