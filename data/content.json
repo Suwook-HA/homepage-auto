@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-12T04:36:33.709Z",
-  "projectsCheckedAt": "2026-10-12T04:36:33.709Z",
-  "projectsUpdatedAt": "2026-10-12T04:36:33.709Z",
+  "updatedAt": "2026-10-13T05:42:39.645Z",
+  "projectsCheckedAt": "2026-10-13T05:42:39.645Z",
+  "projectsUpdatedAt": "2026-10-13T05:42:39.645Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-12T04:36:33.709Z",
+    "checkedAt": "2026-10-13T05:42:39.645Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "f79cba393dc8d166",
-      "title": "하림, 창립 40주년 '미래 100년 기업' 도약 선포 - 익산신문",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzBJZVFBTEFPZDNCbFUtOHljMUFnTEl3UzlQRGJxNEZBSFM0dVYwZ1R1OW9QWndJQXBVN3MtbW5ZUkRZZFRhejJsbTVmS3lrWEkxNDB2ak96Q1RCOW9tN3Rjal9kMmJqQ0hXaS1xVTZta0xPUWJ5eFVBWXY4Wkludg?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "하림, 창립 40주년 '미래 100년 기업' 도약 선포 익산신문",
-      "publishedAt": "2026-10-12T03:40:00.000Z",
+      "id": "a1a8a9e2b18ca4c4",
+      "title": "표준협회, KT DS에인공지능경영시스템 국제표준 ISO/IEC 42001 인증 수여 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWTY2RV9UVXBBUVNqOWdmYUNRMXZKVml6U2dDNmNvNHpWX2lrcGdnNUxOSWlZeHYwNGEyclctcE5wUlZpNEdScy02UVBsWHkwRmpTU01kU1hVMUJHZUtqSXF5OHdNYkJvekQ0SVRRRmJzZjlya1V2NGxJOXNhNGZVY3FCZEtrUThLSjZUZDVGN1BfeUsxdHUtdHZIaHpSRFhlNzN2TWkwQ2ItU1hkMnE5MFBJcVd4OWdVZThSSlJtVGlMRktBWFduUGF5a0dOMXNOaHpmY0RQV3BWeU1fYTNBZEpHTVg5OFdvU0l6TXpkREhIREtUcDRwd0FvcTlWeWgxYkJDN0lNY1NyVmFPTGc?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "표준협회, KT DS에인공지능경영시스템 국제표준 ISO/IEC 42001 인증 수여 데일리안",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "3203d64c18f4051b",
-      "title": "MS CEO \"통제 벗어난 AI, 비상 정지 장치 표준화해야\" - 진일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQkR3YjgwNnNMRXY0WGtSOXNWZVhod0M3S2NNT1Byd3dFOUxiNUZjTVRUUjRJb3VUOVFtWS04c3JzSTZyU0ZlVXhUTUJRc3VIQ1FrODVKR3dJS2dVTnJic0plZmlmVXRXSGhDbzQzbw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "MS CEO \"통제 벗어난 AI, 비상 정지 장치 표준화해야\" 진일보",
-      "publishedAt": "2026-10-11T22:29:03.000Z",
+      "id": "f37bab1d5f250b25",
+      "title": "“K-AI 물관리 기술, 세계 표준이 된다”… 한국수자원공사 AI 정수장, ISO 국제표준안(DIS) 공식 통과 - 스마트경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSTVYyNWdVUUwzemU5UTFzekFrZEY2RWNNVFpvUDBybmlhVnlBS0p1blNESFFQWWUtS2w5N1hld3NxZEx5LWZmOHBieUdaZ2NmMG9lT2QyeU90QXhVN2FENjJKT3FwRE1mTjJ1Z1J6N1I?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "“K-AI 물관리 기술, 세계 표준이 된다”… 한국수자원공사 AI 정수장, ISO 국제표준안(DIS) 공식 통과 스마트경제",
+      "publishedAt": "2026-10-13T01:47:10.000Z",
       "rank": 2
     },
     {
-      "id": "61703328fa4b7b2a",
-      "title": "합성의약품도 국가전략기술로?…R&D 세액공제 최대 50% 추진 - 뉴스더보이스헬스케어",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GdHNQakdMcWp1ajZXam44OTJZcDVOUjBEOFhVUjhoNnhEOHJGVXVBM0RIcTYxVGpqamoyaHUwMTFIOXVDQTBIVGE2RklTMzh0aDBmaHJhUWlOVFBVd1FiX01qaUVwWlNoOUJDSENFcw?oc=5",
+      "id": "0b2365b08928d7ce",
+      "title": "“AI발 기술패권 경쟁 시대, 국가 연구개발 새 판 짜야”…제2차 과학기술 미래포럼 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IXzlSdVg4LVRHektpb3FyWkItVTZHRzN5WmJuTmtmRVphRFZ2UkRQeWYzZ284R2d3R0g4cURqT252M0VDWjRHNlE3NWJGQQ?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "합성의약품도 국가전략기술로?…R&D 세액공제 최대 50% 추진 뉴스더보이스헬스케어",
-      "publishedAt": "2026-10-11T21:08:00.000Z",
+      "summary": "“AI발 기술패권 경쟁 시대, 국가 연구개발 새 판 짜야”…제2차 과학기술 미래포럼 전자신문",
+      "publishedAt": "2026-10-13T05:27:43.000Z",
       "rank": 3
     },
     {
-      "id": "680723b77f4fc2cc",
-      "title": "Global IoT Data Management Market의 상위 15개 기업 - Spherical Insights",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTFrTVgtc1oybm1wbHBnZi1zUEQzQUY3VVpKamREdFNEMTBFSVVKTEpCVkx4bGJubEVMUWlnMU1XTzJEQ0c3WXk4Ukx5NnhZTVRiS0tubHh5S1pZd0k4RlpFQ05GQm9fV21DaFRkY0VLOTllV3d5RDMxZzFHeGlJbzVCcTg0TW93N3lMazh1NlNHTzZ0RWFNWXJkdVo2SkcxNHJRbElMNnJ4Tm93eEpQdVEyOFFkbFNSZ3pDUGl6VFVPQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Global IoT Data Management Market의 상위 15개 기업 Spherical Insights",
-      "publishedAt": "2026-10-11T17:23:24.000Z",
+      "id": "0c7fa3ad9d09ecc4",
+      "title": "한의학회, 강서구 한의약 R&D 클러스터 조성 전략 모색 > 뉴스 - 한의신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScEMxSHBiZ2htSWx5SHNBRi1Iajl4MEdYRHAxaXNDRTBIUXY3dlM4VlJ6WTdVMzRlb2kxZ0s3dDdHbVh1MGxSTXhjaldGbVdYYXV5OV91dEV4NGZxclc2U1JpTk5KbWUydEhWcFpqMGlpUQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "한의학회, 강서구 한의약 R&D 클러스터 조성 전략 모색 > 뉴스 한의신문",
+      "publishedAt": "2026-10-13T03:52:00.000Z",
       "rank": 4
     },
     {
-      "id": "6ba6842efa045554",
-      "title": "Kyndryl and WPP Expand Strategic Partnership to Drive Enterprise Transformation, Marketing Growth and Joint Go-to-Market Innovation - 매드타임스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdFpXZzFJdWZUQ2ZydjQ2N0FNdmJTMEJQQ2VSSWtEZjQzVjhtd2ZTSlhrRHh4MUxrSTJoZFpLekFqZ3BBcGNPWVkxTzJaRTB3c01GbHV0bDZBbVhsQXpHbnNQVk5aVEczSl8tWQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Kyndryl and WPP Expand Strategic Partnership to Drive Enterprise Transformation, Marketing Growth and Joint Go-to-Market Innovation 매드타임스",
-      "publishedAt": "2026-10-11T07:57:05.000Z",
+      "id": "61db47bb977663cb",
+      "title": "도면·매뉴얼도 AI 데이터로…한국딥러닝, 정부 AX 전문기업 선정 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DZ1lHTmZNYWNSMTNMZjB2SEZqOVVXeUNVT2Q0TE95ZDNVSUxxRFFKeTd0ZGdxOEM0dTJzR3ZNNzhmaXAwbWY0Mzk2S2ZuVHNNeGVOWEZ3?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "도면·매뉴얼도 AI 데이터로…한국딥러닝, 정부 AX 전문기업 선정 지디넷코리아",
+      "publishedAt": "2026-10-13T02:20:42.000Z",
       "rank": 5
     },
     {
-      "id": "f704daf242fdc80f",
-      "title": "게임 설명을 읽다 생기는 질문과 레데리2 포커 블러핑 - Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFl4aWthV1NyWXZNaDFVcTlkVDFUMmU5TjhFY0ZWSG1QaWJ0amlGaVgxZHNOem5oQUZsR0RWLVlMU3VMWHMwMjZxX0FKS2hNd2kxNXRHUjdra0gwMU5jRFRhb09BLU5LMjAzaDdjSmxPbVVUaHV2d1h6ckJLMFVpUXV3Y0dNU1k?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "게임 설명을 읽다 생기는 질문과 레데리2 포커 블러핑 Calgary Roughnecks",
-      "publishedAt": "2026-10-11T07:16:12.000Z",
+      "id": "9fd1c2bd7fd2f653",
+      "title": "KT DS, AI 경영시스템 국제표준 인증 획득 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jRGdsX2x2R3ZmR3EzcmlSYlROd3BoWVFZRTN0VVJoS05VdlJNSW5WbnA1enhObjgxSXRaSHlkZC1MekplM2RISnJJaw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KT DS, AI 경영시스템 국제표준 인증 획득 아이뉴스24",
+      "publishedAt": "2026-10-13T02:01:57.000Z",
       "rank": 6
     },
     {
-      "id": "c591f5b0dd72c92e",
-      "title": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5R09BaGhOMGxGUGo3aVVFQVRvTlpkXzJIT2g2QjE2S1hqaUROa3FZRE1UdUJHVXdfY2U3bm1URlNlS3VlQng1S090M0tGVGh6aXhVcXZUUFZaVHFhWW9raGJfVUNHcnN2U1HSAW9BVV95cUxPbVpkTGVobExfcmJjdXJkcTlnei1FbHp5cWlYMXp4cGQxb29NZzB5enpaMjZINDdHdWc3bWx4clF6OWhBNlRwWkg4bE5UbVBxa1lQSVctX0dLR2NzNVhERzRLU2xLS1duMjZCRE82NVU?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "제조현장 사출 불량 원인 AI로 잡는다…'서로', 중기부 팁스 선정 - 머니투데이 머니투데이",
-      "publishedAt": "2026-10-11T04:18:10.000Z",
+      "id": "d5142cb117dd0346",
+      "title": "수자원공사 'AI 정수장' 국제표준화기구 국제표준안 공식 투표 통과 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GMDUxVF9leXEwLWQ0ZWtQX3l1X0hOa2FYTTl6azJlTUdlOFBwLUJCY0V1VEpBeDFKcmMxLVN0Q1dOQTZEaEpZU0p6aTdoT0RqRUNmZmJHNlFTaFM3UnBONg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "수자원공사 'AI 정수장' 국제표준화기구 국제표준안 공식 투표 통과 뉴스1",
+      "publishedAt": "2026-10-13T01:48:25.000Z",
       "rank": 7
     },
     {
-      "id": "2ae0067b1e6016f8",
-      "title": "디지털융합교육원 원장, 문경대학교서 '지역특화산업 AI·DX 역량강화 교육' 진행 - 파이낸스투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUWl2TEVGQ1dnV1BaM2NDWVRqci1XMnhycGtnZ3hpVDNDNTFWZnJhdVhROG5kZHZNMGxvanR3dE9PN3ZFVTU5Z1dCbW40N3czNXJheXNpcTkxNkM3aWw1RXBNbG1iZVR3TlZr?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "디지털융합교육원 원장, 문경대학교서 '지역특화산업 AI·DX 역량강화 교육' 진행 파이낸스투데이",
-      "publishedAt": "2026-10-11T00:57:12.000Z",
+      "id": "17db7567f76888e0",
+      "title": "한국표준협회, KT DS에 AI 경영시스템 국제표준 인증 수여 - 스마트경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zUndDS3RNZFZ0Nks2ZzVvVTNyX3VfdF8zMDV1UkctQ2hZa3lPNXd4c1lDSm9fUUhDYVlsLUdpSzlVRTFsS3NiTkJJZnZmVVhhVDBVaUdCc0dSTlhqMGZ3c1dBR1E5VGo4eTV6cmpXNGw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한국표준협회, KT DS에 AI 경영시스템 국제표준 인증 수여 스마트경제",
+      "publishedAt": "2026-10-13T01:20:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-11T04:24:12.000Z"
+      "updatedAt": "2026-10-12T04:40:38.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
