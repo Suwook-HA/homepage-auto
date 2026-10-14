@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T05:42:39.645Z",
-  "projectsCheckedAt": "2026-10-13T05:42:39.645Z",
-  "projectsUpdatedAt": "2026-10-13T05:42:39.645Z",
+  "updatedAt": "2026-10-14T03:45:49.615Z",
+  "projectsCheckedAt": "2026-10-14T03:45:49.615Z",
+  "projectsUpdatedAt": "2026-10-14T03:45:49.615Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,72 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-13T05:42:39.645Z",
+    "checkedAt": "2026-10-14T03:45:49.615Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "a1a8a9e2b18ca4c4",
-      "title": "표준협회, KT DS에인공지능경영시스템 국제표준 ISO/IEC 42001 인증 수여 - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWTY2RV9UVXBBUVNqOWdmYUNRMXZKVml6U2dDNmNvNHpWX2lrcGdnNUxOSWlZeHYwNGEyclctcE5wUlZpNEdScy02UVBsWHkwRmpTU01kU1hVMUJHZUtqSXF5OHdNYkJvekQ0SVRRRmJzZjlya1V2NGxJOXNhNGZVY3FCZEtrUThLSjZUZDVGN1BfeUsxdHUtdHZIaHpSRFhlNzN2TWkwQ2ItU1hkMnE5MFBJcVd4OWdVZThSSlJtVGlMRktBWFduUGF5a0dOMXNOaHpmY0RQV3BWeU1fYTNBZEpHTVg5OFdvU0l6TXpkREhIREtUcDRwd0FvcTlWeWgxYkJDN0lNY1NyVmFPTGc?oc=5",
+      "id": "8af88975b53bfdc6",
+      "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FS3I4NVVMbEM0VVpUdEdNREktWWI3bGE5YUxPN1lvY2RlZ1UxU25yeVV0b1Nadk1wODRGUlNZQzlBNHNwaW1acmcxTkZWRkVrSWZXQThR?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "표준협회, KT DS에인공지능경영시스템 국제표준 ISO/IEC 42001 인증 수여 데일리안",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "summary": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 지디넷코리아",
+      "publishedAt": "2026-10-13T14:37:10.000Z",
       "rank": 1
+    },
+    {
+      "id": "4b0dbab5cedb91c0",
+      "title": "제조 AI 대전환 뒷받침할 K-표준…세계 표준의 날 유공자 50점 포상 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKd1hReWJ0Wk1ZWGZkVkVoYnFvakdsenJTRjk2UlBwWTYwWnZmVVEtMnd0SVhWazVXVnpxbUJ4b09qSXo5dUp0dVFJU1dvN3RqaWlMaFZqTUliM2t4STNzWndoVlRrZzBSZm5wNtIBcEFVX3lxTE1FNDcwZzQwVk1DSmNud21EamtXTVcxdUNPOGo5RmhXbEJTYVdZeTdJa2NYMUh1RmhYMk9OZEFCOHpSQjdvVGRBQW9kNFVFdW1iTnljVTVZTUpSMHZsWFVGbHB4UUt0SFR3Y1dPWlhSeGE?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "제조 AI 대전환 뒷받침할 K-표준…세계 표준의 날 유공자 50점 포상 전기신문",
+      "publishedAt": "2026-10-14T02:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "bf490f4864c09f5f",
+      "title": "AI 첨단바이오 R&D 특화 전략이란?…국회미래연구원 \"플랫폼·위탁생산 강점에 AI 접목해야\" - 창업일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12dHJLWG5SUlk3dHduLXN4aldkQVFwbER0MXBxN1JOU0NjLWhKWm8tYjlRZ0ZCb1ZCUGlYWUFYNVoxVTNrZ2M0R3dCZ3NYVHUwY0FSSk9QdElEZlE1aXE3QTljcnNUbURk?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "AI 첨단바이오 R&D 특화 전략이란?…국회미래연구원 \"플랫폼·위탁생산 강점에 AI 접목해야\" 창업일보",
+      "publishedAt": "2026-10-14T01:53:58.000Z",
+      "rank": 3
+    },
+    {
+      "id": "a3e17447b5b7bd85",
+      "title": "디앤디파마텍 \"R&D Day 개최…성장 전략 공개\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2MTB4OUpGMVpiM0l1Z0szMnZMU2l2cUthWjlxQkY0bFZjWlYtSlZXWXFUNTA4SWVrNktjWi1DMkRsQUFRZ0stRjM1bmZDM3RfSDhwcXdsZ3l1Wk1QTTlta1h5aV9sRThuSDBSNnVCWkVvRU43ZUFyTdIBeEFVX3lxTFB2MTB4OUpGMVpiM0l1Z0szMnZMU2l2cUthWjlxQkY0bFZjWlYtSlZXWXFUNTA4SWVrNktjWi1DMkRsQUFRZ0stRjM1bmZDM3RfSDhwcXdsZ3l1Wk1QTTlta1h5aV9sRThuSDBSNnVCWkVvRU43ZUFyTQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "디앤디파마텍 \"R&D Day 개최…성장 전략 공개\" 뉴시스",
+      "publishedAt": "2026-10-14T00:17:26.000Z",
+      "rank": 4
+    },
+    {
+      "id": "a3b18fa558345c42",
+      "title": "김정기 세계스마트시티기구(WeGO) 사무총장, 글로벌 디지털 포럼 2026 '기조강연' - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52WWl1S0J6MEU0bjRyc242WG02Z3VfRXJMenpkT3FDNkFGcTlWS09VTDVObTFEVmhPMjUzN2JiY3lOTDY2aUtBOA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "김정기 세계스마트시티기구(WeGO) 사무총장, 글로벌 디지털 포럼 2026 '기조강연' 브레이크뉴스",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "b5a1bc6d34dcd95a",
+      "title": "KT DS, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FWFAwUHhCRDAyZGpSMmZNWFRBeWkxVEVsRGtVSDdSa1JKUGpkM1MwaGt1dkpyVmFMVVpzb24zVW9obzJVMlBtTmxNM1BpUQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "KT DS, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 전자신문",
+      "publishedAt": "2026-10-13T00:52:17.000Z",
+      "rank": 6
+    },
+    {
+      "id": "a43723af1ca025b6",
+      "title": "마이크로소프트, 애저 마이아 AI 시스템 멀티 기가와트 규모로 확대 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNTlNGWHotRHB6T01FbHcyeGZ4SzF2dDkxQzZsbUdoLVh4eE12SUVsckhlODUtNVFTV25MMWE5eS1PSEVWenVPQTFUNkJDM0Vhc3FwaW9VVUc2T1h1Y2xxNXA2dnludEJLRXp2ZmkzTXFEYmluZ1B5UXJ2ZU5XQW5PY09DN1c2b3ByM0tmNlM2MWxxUUNpSTlNUEFJdFRZUDI4clFmRGpMMUtoUEkyRF9TSnJpeGFTVmR4Qmx4bUNqNmlzbEJZcVVKX0lmN1hSX29RUmJUNFJBOVJXbkJCX3VaQmplUldVMDBnUEZNYVJjRm1pM2tpNHNyNF9SRS03NDB3Mm1LRDREY0hla3ZjRnJUMl9PWjg3MS05Ync0N0NHOGFQZXAxamNJNmowWUVfQUxzNERIelFqVkdBZmhiTVVpcWtqMWQwTzF2cVFwbi1iV2ZPWVpSUFZmaUxFWEpDaUw0OWJhRFdLSjAzNnhsR01CTzR3?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트, 애저 마이아 AI 시스템 멀티 기가와트 규모로 확대 Microsoft Source",
+      "publishedAt": "2026-10-13T12:14:45.000Z",
+      "rank": 7
     },
     {
       "id": "f37bab1d5f250b25",
@@ -74,60 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "“K-AI 물관리 기술, 세계 표준이 된다”… 한국수자원공사 AI 정수장, ISO 국제표준안(DIS) 공식 통과 스마트경제",
       "publishedAt": "2026-10-13T01:47:10.000Z",
-      "rank": 2
-    },
-    {
-      "id": "0b2365b08928d7ce",
-      "title": "“AI발 기술패권 경쟁 시대, 국가 연구개발 새 판 짜야”…제2차 과학기술 미래포럼 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IXzlSdVg4LVRHektpb3FyWkItVTZHRzN5WmJuTmtmRVphRFZ2UkRQeWYzZ284R2d3R0g4cURqT252M0VDWjRHNlE3NWJGQQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "“AI발 기술패권 경쟁 시대, 국가 연구개발 새 판 짜야”…제2차 과학기술 미래포럼 전자신문",
-      "publishedAt": "2026-10-13T05:27:43.000Z",
-      "rank": 3
-    },
-    {
-      "id": "0c7fa3ad9d09ecc4",
-      "title": "한의학회, 강서구 한의약 R&D 클러스터 조성 전략 모색 > 뉴스 - 한의신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScEMxSHBiZ2htSWx5SHNBRi1Iajl4MEdYRHAxaXNDRTBIUXY3dlM4VlJ6WTdVMzRlb2kxZ0s3dDdHbVh1MGxSTXhjaldGbVdYYXV5OV91dEV4NGZxclc2U1JpTk5KbWUydEhWcFpqMGlpUQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "한의학회, 강서구 한의약 R&D 클러스터 조성 전략 모색 > 뉴스 한의신문",
-      "publishedAt": "2026-10-13T03:52:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "61db47bb977663cb",
-      "title": "도면·매뉴얼도 AI 데이터로…한국딥러닝, 정부 AX 전문기업 선정 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DZ1lHTmZNYWNSMTNMZjB2SEZqOVVXeUNVT2Q0TE95ZDNVSUxxRFFKeTd0ZGdxOEM0dTJzR3ZNNzhmaXAwbWY0Mzk2S2ZuVHNNeGVOWEZ3?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "도면·매뉴얼도 AI 데이터로…한국딥러닝, 정부 AX 전문기업 선정 지디넷코리아",
-      "publishedAt": "2026-10-13T02:20:42.000Z",
-      "rank": 5
-    },
-    {
-      "id": "9fd1c2bd7fd2f653",
-      "title": "KT DS, AI 경영시스템 국제표준 인증 획득 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jRGdsX2x2R3ZmR3EzcmlSYlROd3BoWVFZRTN0VVJoS05VdlJNSW5WbnA1enhObjgxSXRaSHlkZC1MekplM2RISnJJaw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KT DS, AI 경영시스템 국제표준 인증 획득 아이뉴스24",
-      "publishedAt": "2026-10-13T02:01:57.000Z",
-      "rank": 6
-    },
-    {
-      "id": "d5142cb117dd0346",
-      "title": "수자원공사 'AI 정수장' 국제표준화기구 국제표준안 공식 투표 통과 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GMDUxVF9leXEwLWQ0ZWtQX3l1X0hOa2FYTTl6azJlTUdlOFBwLUJCY0V1VEpBeDFKcmMxLVN0Q1dOQTZEaEpZU0p6aTdoT0RqRUNmZmJHNlFTaFM3UnBONg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "수자원공사 'AI 정수장' 국제표준화기구 국제표준안 공식 투표 통과 뉴스1",
-      "publishedAt": "2026-10-13T01:48:25.000Z",
-      "rank": 7
-    },
-    {
-      "id": "17db7567f76888e0",
-      "title": "한국표준협회, KT DS에 AI 경영시스템 국제표준 인증 수여 - 스마트경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zUndDS3RNZFZ0Nks2ZzVvVTNyX3VfdF8zMDV1UkctQ2hZa3lPNXd4c1lDSm9fUUhDYVlsLUdpSzlVRTFsS3NiTkJJZnZmVVhhVDBVaUdCc0dSTlhqMGZ3c1dBR1E5VGo4eTV6cmpXNGw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "한국표준협회, KT DS에 AI 경영시스템 국제표준 인증 수여 스마트경제",
-      "publishedAt": "2026-10-13T01:20:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-12T04:40:38.000Z"
+      "updatedAt": "2026-10-13T05:46:44.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
