@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-14T03:45:49.615Z",
-  "projectsCheckedAt": "2026-10-14T03:45:49.615Z",
-  "projectsUpdatedAt": "2026-10-14T03:45:49.615Z",
+  "updatedAt": "2026-10-15T03:27:20.041Z",
+  "projectsCheckedAt": "2026-10-15T03:27:20.041Z",
+  "projectsUpdatedAt": "2026-10-15T03:27:20.041Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,55 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-14T03:45:49.615Z",
+    "checkedAt": "2026-10-15T03:27:20.041Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "a6b55580efdfe453",
+      "title": "Ant International Obtains Key Licenses from the Central Bank of the UAE to Support Digital Payments in the AI Era - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yVUx6ZmZ4UFVfYTh4SGY5RmNZdG1FVUlPVzlVY1VneHRiNVRXUWhkcTBVV2EzQzktaTdaVWtLTEYxVkFYcVIyX18wUFd4TVQ0VUJ4WWVlWWRoeGwtZDJn?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Ant International Obtains Key Licenses from the Central Bank of the UAE to Support Digital Payments in the AI Era 뉴스와이어",
+      "publishedAt": "2026-10-15T00:09:30.000Z",
+      "rank": 1
+    },
+    {
+      "id": "d032adc9ee97c6ca",
+      "title": "[심층분석] 한솔제지, 122억원 투입해 AI 팩토리 구축…제지산업의 승부처는 ‘공정 데이터’와 에너지 효율 - 뉴스밸류",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWURvaW5hQUdwNFRGSW9YWk9JU0pNX1hUYzFYdEh1N1daM2xTU0VRa3k0Y1V1RWlZcG5lVUJ2dWZxZmxMYUZDbjFDa0ZILVdKOUMxWTl1dEZjdjQtcDl1WHkxM0ZkRFdFUkE?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[심층분석] 한솔제지, 122억원 투입해 AI 팩토리 구축…제지산업의 승부처는 ‘공정 데이터’와 에너지 효율 뉴스밸류",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "41b9294e7c3ee79c",
+      "title": "After 300,000 International Students, the Task Is Management — Sejong University’s ISF Puts University Standards Before AI - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HOEtzZ3J2YXFtaUJFTVkwWjJSRXk1MDFTZ2lwVFN3RW9yczJtM29VRU1QaGxXazY2S3BXREpGMy1QTlpYNFZnWHhrV3RJbng5RDBsQk5McEo3aXBQS3dSckIzbkpVbjlFM0s4?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "After 300,000 International Students, the Task Is Management — Sejong University’s ISF Puts University Standards Before AI 퍼블릭뉴스통신",
+      "publishedAt": "2026-10-14T04:19:06.000Z",
+      "rank": 3
+    },
+    {
+      "id": "6dfcb6f8c690fe9a",
+      "title": "AI가 자동차 품질 관리를 바꾸는 방식 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GQU82SUg3UzYwMVVWaEprTlN2ZHZ5TFpOUVpuRGNCX0VOMWFSNFJOdG40eXBVZE1nbGdQRDFzc0ZobHRzUGdHWlRlemlid2ZwZ2lZRmVkRVFMa0wydzlZZWtGY2I?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI가 자동차 품질 관리를 바꾸는 방식 Unite.AI",
+      "publishedAt": "2026-10-14T13:30:50.000Z",
+      "rank": 4
+    },
+    {
+      "id": "3070c3c5fe50db13",
+      "title": "‘2026 세계 표준의 날’ 기념식 개최… 제조 AI 대전환 이끄는 K-표준 도약 선언 - 아이씨엔매거진",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSkxnaHRSVVFOTjJHa3h4V0syRi1JbDRJUWFsYzdtdDdHa3Z0V25qRFdtNnZoYmRxZzhKZG94eTlGN0JxNS02dlptWVNpYTJ1OXRFa0ZQU3VRZjgwRkt5SkJHczFROENINF9mWjA4QXMxWU5zejhnc2pUQU9qOUJNTnZSVmRiWUJYMlJfX3BsVERvU3R4b2lHTDdDWF9HUW00cFg5d3laWnpRVXVpZXo0blEyVGF2SnZXd25MTUwzNXlqSzQ4cGpDdS1wb3FNSV9mczdFVU1GWEM1WHJWSkl6aUVMc1VFSXRJU3k1NHZ2UW14SFZrd0ZEd3RCQzh2ZkVDWGMwLXNReGt6eHdpdHUzUkxsemlKVjAwaXRxQUFtNzBPNUVa?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "‘2026 세계 표준의 날’ 기념식 개최… 제조 AI 대전환 이끄는 K-표준 도약 선언 아이씨엔매거진",
+      "publishedAt": "2026-10-14T09:56:53.000Z",
+      "rank": 5
+    },
     {
       "id": "8af88975b53bfdc6",
       "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 - 지디넷코리아",
@@ -65,69 +110,24 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 지디넷코리아",
       "publishedAt": "2026-10-13T14:37:10.000Z",
-      "rank": 1
-    },
-    {
-      "id": "4b0dbab5cedb91c0",
-      "title": "제조 AI 대전환 뒷받침할 K-표준…세계 표준의 날 유공자 50점 포상 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKd1hReWJ0Wk1ZWGZkVkVoYnFvakdsenJTRjk2UlBwWTYwWnZmVVEtMnd0SVhWazVXVnpxbUJ4b09qSXo5dUp0dVFJU1dvN3RqaWlMaFZqTUliM2t4STNzWndoVlRrZzBSZm5wNtIBcEFVX3lxTE1FNDcwZzQwVk1DSmNud21EamtXTVcxdUNPOGo5RmhXbEJTYVdZeTdJa2NYMUh1RmhYMk9OZEFCOHpSQjdvVGRBQW9kNFVFdW1iTnljVTVZTUpSMHZsWFVGbHB4UUt0SFR3Y1dPWlhSeGE?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "제조 AI 대전환 뒷받침할 K-표준…세계 표준의 날 유공자 50점 포상 전기신문",
-      "publishedAt": "2026-10-14T02:00:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "bf490f4864c09f5f",
-      "title": "AI 첨단바이오 R&D 특화 전략이란?…국회미래연구원 \"플랫폼·위탁생산 강점에 AI 접목해야\" - 창업일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12dHJLWG5SUlk3dHduLXN4aldkQVFwbER0MXBxN1JOU0NjLWhKWm8tYjlRZ0ZCb1ZCUGlYWUFYNVoxVTNrZ2M0R3dCZ3NYVHUwY0FSSk9QdElEZlE1aXE3QTljcnNUbURk?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "AI 첨단바이오 R&D 특화 전략이란?…국회미래연구원 \"플랫폼·위탁생산 강점에 AI 접목해야\" 창업일보",
-      "publishedAt": "2026-10-14T01:53:58.000Z",
-      "rank": 3
-    },
-    {
-      "id": "a3e17447b5b7bd85",
-      "title": "디앤디파마텍 \"R&D Day 개최…성장 전략 공개\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2MTB4OUpGMVpiM0l1Z0szMnZMU2l2cUthWjlxQkY0bFZjWlYtSlZXWXFUNTA4SWVrNktjWi1DMkRsQUFRZ0stRjM1bmZDM3RfSDhwcXdsZ3l1Wk1QTTlta1h5aV9sRThuSDBSNnVCWkVvRU43ZUFyTdIBeEFVX3lxTFB2MTB4OUpGMVpiM0l1Z0szMnZMU2l2cUthWjlxQkY0bFZjWlYtSlZXWXFUNTA4SWVrNktjWi1DMkRsQUFRZ0stRjM1bmZDM3RfSDhwcXdsZ3l1Wk1QTTlta1h5aV9sRThuSDBSNnVCWkVvRU43ZUFyTQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "디앤디파마텍 \"R&D Day 개최…성장 전략 공개\" 뉴시스",
-      "publishedAt": "2026-10-14T00:17:26.000Z",
-      "rank": 4
-    },
-    {
-      "id": "a3b18fa558345c42",
-      "title": "김정기 세계스마트시티기구(WeGO) 사무총장, 글로벌 디지털 포럼 2026 '기조강연' - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52WWl1S0J6MEU0bjRyc242WG02Z3VfRXJMenpkT3FDNkFGcTlWS09VTDVObTFEVmhPMjUzN2JiY3lOTDY2aUtBOA?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "김정기 세계스마트시티기구(WeGO) 사무총장, 글로벌 디지털 포럼 2026 '기조강연' 브레이크뉴스",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "b5a1bc6d34dcd95a",
-      "title": "KT DS, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FWFAwUHhCRDAyZGpSMmZNWFRBeWkxVEVsRGtVSDdSa1JKUGpkM1MwaGt1dkpyVmFMVVpzb24zVW9obzJVMlBtTmxNM1BpUQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "KT DS, AI 경영시스템 국제표준 ISO/IEC 42001 인증 획득 전자신문",
-      "publishedAt": "2026-10-13T00:52:17.000Z",
       "rank": 6
     },
     {
-      "id": "a43723af1ca025b6",
-      "title": "마이크로소프트, 애저 마이아 AI 시스템 멀티 기가와트 규모로 확대 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNTlNGWHotRHB6T01FbHcyeGZ4SzF2dDkxQzZsbUdoLVh4eE12SUVsckhlODUtNVFTV25MMWE5eS1PSEVWenVPQTFUNkJDM0Vhc3FwaW9VVUc2T1h1Y2xxNXA2dnludEJLRXp2ZmkzTXFEYmluZ1B5UXJ2ZU5XQW5PY09DN1c2b3ByM0tmNlM2MWxxUUNpSTlNUEFJdFRZUDI4clFmRGpMMUtoUEkyRF9TSnJpeGFTVmR4Qmx4bUNqNmlzbEJZcVVKX0lmN1hSX29RUmJUNFJBOVJXbkJCX3VaQmplUldVMDBnUEZNYVJjRm1pM2tpNHNyNF9SRS03NDB3Mm1LRDREY0hla3ZjRnJUMl9PWjg3MS05Ync0N0NHOGFQZXAxamNJNmowWUVfQUxzNERIelFqVkdBZmhiTVVpcWtqMWQwTzF2cVFwbi1iV2ZPWVpSUFZmaUxFWEpDaUw0OWJhRFdLSjAzNnhsR01CTzR3?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트, 애저 마이아 AI 시스템 멀티 기가와트 규모로 확대 Microsoft Source",
-      "publishedAt": "2026-10-13T12:14:45.000Z",
+      "id": "4bf390f3635d5635",
+      "title": "[AI픽] AI가 공장 움직이는 시대 온다…피지컬 AI 상용화 속도 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FWS1UOFZBZWpNNHpFZ1pLNHFDdmZHN2JPaDdXNm1XS3lqQlZQZVVnMFFNdUlVb3dmalJKZHVOTFlLMURNX0l5Y0xJOHNFdHRLcXc?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "[AI픽] AI가 공장 움직이는 시대 온다…피지컬 AI 상용화 속도 매일경제 마켓",
+      "publishedAt": "2026-10-14T08:01:27.000Z",
       "rank": 7
     },
     {
-      "id": "f37bab1d5f250b25",
-      "title": "“K-AI 물관리 기술, 세계 표준이 된다”… 한국수자원공사 AI 정수장, ISO 국제표준안(DIS) 공식 통과 - 스마트경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSTVYyNWdVUUwzemU5UTFzekFrZEY2RWNNVFpvUDBybmlhVnlBS0p1blNESFFQWWUtS2w5N1hld3NxZEx5LWZmOHBieUdaZ2NmMG9lT2QyeU90QXhVN2FENjJKT3FwRE1mTjJ1Z1J6N1I?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "“K-AI 물관리 기술, 세계 표준이 된다”… 한국수자원공사 AI 정수장, ISO 국제표준안(DIS) 공식 통과 스마트경제",
-      "publishedAt": "2026-10-13T01:47:10.000Z",
+      "id": "8935489ad727c7e4",
+      "title": "LG CNS·日 KDDI 맞손…아태 'AX 시장' 공략 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtOVV3SFhfTzhkbllyZ043MFZLcDlIWnV5RjZ4VFVEMld6ZXlCV2hlMlBHQ1B0bThpQkczZVNWU2ZXX01GUkF4TldZc3daTDhicXlUZ3owc3NkZ1dBTFdaZEtUN3lsUlBDcS1vYnFST1c2TUZ2?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "LG CNS·日 KDDI 맞손…아태 'AX 시장' 공략 파이낸셜포스트",
+      "publishedAt": "2026-10-14T07:25:28.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-13T05:46:44.000Z"
+      "updatedAt": "2026-10-14T03:49:54.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
