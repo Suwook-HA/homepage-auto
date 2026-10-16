@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-15T03:27:20.041Z",
-  "projectsCheckedAt": "2026-10-15T03:27:20.041Z",
-  "projectsUpdatedAt": "2026-10-15T03:27:20.041Z",
+  "updatedAt": "2026-10-16T03:22:57.746Z",
+  "projectsCheckedAt": "2026-10-16T03:22:57.746Z",
+  "projectsUpdatedAt": "2026-10-16T03:22:57.746Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-15T03:27:20.041Z",
+    "checkedAt": "2026-10-16T03:22:57.746Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "a6b55580efdfe453",
-      "title": "Ant International Obtains Key Licenses from the Central Bank of the UAE to Support Digital Payments in the AI Era - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yVUx6ZmZ4UFVfYTh4SGY5RmNZdG1FVUlPVzlVY1VneHRiNVRXUWhkcTBVV2EzQzktaTdaVWtLTEYxVkFYcVIyX18wUFd4TVQ0VUJ4WWVlWWRoeGwtZDJn?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Ant International Obtains Key Licenses from the Central Bank of the UAE to Support Digital Payments in the AI Era 뉴스와이어",
-      "publishedAt": "2026-10-15T00:09:30.000Z",
+      "id": "6055684b713a7f76",
+      "title": "부동산원, 국토부 산하기관 첫 'AI 국제표준' 인증 획득 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRmEzRVdPZjY3c2M0c2ZlVzl4b1FGajN4MEdXa2g2WV9vSVFXeDJwdl9kNGxGTGxsZ2tJYk54UGRJLXctYW11TC1wMC1hVkNyWUdGZklFTk5Tazg?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "부동산원, 국토부 산하기관 첫 'AI 국제표준' 인증 획득 뉴스1",
+      "publishedAt": "2026-10-16T02:10:02.000Z",
       "rank": 1
     },
     {
-      "id": "d032adc9ee97c6ca",
-      "title": "[심층분석] 한솔제지, 122억원 투입해 AI 팩토리 구축…제지산업의 승부처는 ‘공정 데이터’와 에너지 효율 - 뉴스밸류",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWURvaW5hQUdwNFRGSW9YWk9JU0pNX1hUYzFYdEh1N1daM2xTU0VRa3k0Y1V1RWlZcG5lVUJ2dWZxZmxMYUZDbjFDa0ZILVdKOUMxWTl1dEZjdjQtcDl1WHkxM0ZkRFdFUkE?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[심층분석] 한솔제지, 122억원 투입해 AI 팩토리 구축…제지산업의 승부처는 ‘공정 데이터’와 에너지 효율 뉴스밸류",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "id": "e8bad09a6d525e78",
+      "title": "페블러스, ‘피지컬 AI 데이터 관리 로드맵’ 무료 웨비나 개최 - 뉴스와이어",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mcjVPNGFGdW9aWHJXWkdPTnE4aTktSURsMW1vSjlYMnRGOGQ0cE14ZDFucDdWdHExME94WGFMOGtoX2dOZUtHd1Z6RXQwMkpVczJYRHNXc0VfaHdNTTN3?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "페블러스, ‘피지컬 AI 데이터 관리 로드맵’ 무료 웨비나 개최 뉴스와이어",
+      "publishedAt": "2026-10-16T02:10:00.000Z",
       "rank": 2
     },
     {
-      "id": "41b9294e7c3ee79c",
-      "title": "After 300,000 International Students, the Task Is Management — Sejong University’s ISF Puts University Standards Before AI - 퍼블릭뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HOEtzZ3J2YXFtaUJFTVkwWjJSRXk1MDFTZ2lwVFN3RW9yczJtM29VRU1QaGxXazY2S3BXREpGMy1QTlpYNFZnWHhrV3RJbng5RDBsQk5McEo3aXBQS3dSckIzbkpVbjlFM0s4?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "After 300,000 International Students, the Task Is Management — Sejong University’s ISF Puts University Standards Before AI 퍼블릭뉴스통신",
-      "publishedAt": "2026-10-14T04:19:06.000Z",
+      "id": "9fd903ae79685292",
+      "title": "한국부동산원, 인공지능 경영시스템 국제표준 인증 획득 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZzZfTnhUUUN1Zk9tT2xjaUl2Z3dmVGJkSUxHS0lPbk9TcmFYZ3M5V2s4VDhqWVU5R1pJZ19oMV9pTV9aR1BUa0tjampuQy1WTFJHMDJldFUzVEV2RVU1TNIBYEFVX3lxTE1fZzZfTnhUUUN1Zk9tT2xjaUl2Z3dmVGJkSUxHS0lPbk9TcmFYZ3M5V2s4VDhqWVU5R1pJZ19oMV9pTV9aR1BUa0tjampuQy1WTFJHMDJldFUzVEV2RVU1TA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한국부동산원, 인공지능 경영시스템 국제표준 인증 획득 연합뉴스",
+      "publishedAt": "2026-10-16T01:43:15.000Z",
       "rank": 3
     },
     {
-      "id": "6dfcb6f8c690fe9a",
-      "title": "AI가 자동차 품질 관리를 바꾸는 방식 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GQU82SUg3UzYwMVVWaEprTlN2ZHZ5TFpOUVpuRGNCX0VOMWFSNFJOdG40eXBVZE1nbGdQRDFzc0ZobHRzUGdHWlRlemlid2ZwZ2lZRmVkRVFMa0wydzlZZWtGY2I?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AI가 자동차 품질 관리를 바꾸는 방식 Unite.AI",
-      "publishedAt": "2026-10-14T13:30:50.000Z",
+      "id": "7c2df6b6df5c72c9",
+      "title": "헌혈하러 가는 길을 여행처럼… 공항 연상시키는 디자인 적용 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEdvV3hGOUh1RjgxLTB6OHJkdi1GOHo2X211YXhmRjd3dmpmSkJTam5Gd2hOTGdXSXZzZklGMHNkbGQtM1ZUbThDMTR6bzBpLVJLOGhjWnA1YVBaY3ZLRFBsbVhIeVFQQ1hqdG5pbVV1M2ZJM2lDZWJUelNRNV80NE1BTUp4X0pTanhNY1RB?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "헌혈하러 가는 길을 여행처럼… 공항 연상시키는 디자인 적용 조선일보",
+      "publishedAt": "2026-10-15T15:55:26.000Z",
       "rank": 4
     },
     {
-      "id": "3070c3c5fe50db13",
-      "title": "‘2026 세계 표준의 날’ 기념식 개최… 제조 AI 대전환 이끄는 K-표준 도약 선언 - 아이씨엔매거진",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSkxnaHRSVVFOTjJHa3h4V0syRi1JbDRJUWFsYzdtdDdHa3Z0V25qRFdtNnZoYmRxZzhKZG94eTlGN0JxNS02dlptWVNpYTJ1OXRFa0ZQU3VRZjgwRkt5SkJHczFROENINF9mWjA4QXMxWU5zejhnc2pUQU9qOUJNTnZSVmRiWUJYMlJfX3BsVERvU3R4b2lHTDdDWF9HUW00cFg5d3laWnpRVXVpZXo0blEyVGF2SnZXd25MTUwzNXlqSzQ4cGpDdS1wb3FNSV9mczdFVU1GWEM1WHJWSkl6aUVMc1VFSXRJU3k1NHZ2UW14SFZrd0ZEd3RCQzh2ZkVDWGMwLXNReGt6eHdpdHUzUkxsemlKVjAwaXRxQUFtNzBPNUVa?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "‘2026 세계 표준의 날’ 기념식 개최… 제조 AI 대전환 이끄는 K-표준 도약 선언 아이씨엔매거진",
-      "publishedAt": "2026-10-14T09:56:53.000Z",
+      "id": "1a15b6f4267d4713",
+      "title": "“피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sd3VfaFFaWUI1WVc2elVmMlpJSkVweXhubGlsTHQ3S2ZHRmZTQ0FwQWJmVlNIaVlsRmFvdHV5cE9BWG11dWZNa2dfZ3lrQQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "“피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진 전자신문",
+      "publishedAt": "2026-10-15T10:50:59.000Z",
       "rank": 5
     },
     {
-      "id": "8af88975b53bfdc6",
-      "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FS3I4NVVMbEM0VVpUdEdNREktWWI3bGE5YUxPN1lvY2RlZ1UxU25yeVV0b1Nadk1wODRGUlNZQzlBNHNwaW1acmcxTkZWRkVrSWZXQThR?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여 지디넷코리아",
-      "publishedAt": "2026-10-13T14:37:10.000Z",
+      "id": "1c723287e11b9397",
+      "title": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paHREU0tMR1FPRldvRlhUYXJjRklXTzV5Q1Y3M1NaUVBtMWNDVll1bEtyR090MVM1dHJ5bHgtQWJzV2tVclNxYkNJYjcwMGRrdHdnSnlYbXV4Vkp3VkozQmJqb3lFVEdtMmc?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시 헬로디디",
+      "publishedAt": "2026-10-15T07:50:00.000Z",
       "rank": 6
     },
     {
-      "id": "4bf390f3635d5635",
-      "title": "[AI픽] AI가 공장 움직이는 시대 온다…피지컬 AI 상용화 속도 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FWS1UOFZBZWpNNHpFZ1pLNHFDdmZHN2JPaDdXNm1XS3lqQlZQZVVnMFFNdUlVb3dmalJKZHVOTFlLMURNX0l5Y0xJOHNFdHRLcXc?oc=5",
+      "id": "0e32d3093ee0b4d2",
+      "title": "“피지컬 AI 표준화 속도 낸다”…KOSA·TTA, 전략 세미나 개최 - 이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50anlNd3NtdDJSbElSUWtQbWVDcjF4cUY1TUhydjltMDZJVU1kZ1RodFhpZXRaZU1NS3MtbHlyMnMtSC0zbWRrbHE1Ri1IX091M05ULV9FRmpJMXFGTGhGS29B?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "[AI픽] AI가 공장 움직이는 시대 온다…피지컬 AI 상용화 속도 매일경제 마켓",
-      "publishedAt": "2026-10-14T08:01:27.000Z",
+      "summary": "“피지컬 AI 표준화 속도 낸다”…KOSA·TTA, 전략 세미나 개최 이코노미스트",
+      "publishedAt": "2026-10-15T07:32:00.000Z",
       "rank": 7
     },
     {
-      "id": "8935489ad727c7e4",
-      "title": "LG CNS·日 KDDI 맞손…아태 'AX 시장' 공략 - 파이낸셜포스트",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtOVV3SFhfTzhkbllyZ043MFZLcDlIWnV5RjZ4VFVEMld6ZXlCV2hlMlBHQ1B0bThpQkczZVNWU2ZXX01GUkF4TldZc3daTDhicXlUZ3owc3NkZ1dBTFdaZEtUN3lsUlBDcS1vYnFST1c2TUZ2?oc=5",
+      "id": "51d61f48234caff5",
+      "title": "Tourism Malaysia and Alipay+ Partner to Accelerate Malaysia’s Digital Tourism Transformation - 경기시사투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XYXFiLTF3NUdwRnZTYmhnWEdpZmJmejlYWDRrNVYzWUlwa0RIV1UxZVp3Z0tBbmFuZlRRMjRTYUYxMU5CbEh6T2ZaWnVlMDVWYThTUXRCc1hjZklnaEE?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "LG CNS·日 KDDI 맞손…아태 'AX 시장' 공략 파이낸셜포스트",
-      "publishedAt": "2026-10-14T07:25:28.000Z",
+      "summary": "Tourism Malaysia and Alipay+ Partner to Accelerate Malaysia’s Digital Tourism Transformation 경기시사투데이",
+      "publishedAt": "2026-10-15T06:19:00.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-14T03:49:54.000Z"
+      "updatedAt": "2026-10-15T03:31:24.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
