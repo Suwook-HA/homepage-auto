@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-16T03:22:57.746Z",
-  "projectsCheckedAt": "2026-10-16T03:22:57.746Z",
-  "projectsUpdatedAt": "2026-10-16T03:22:57.746Z",
+  "updatedAt": "2026-10-17T03:13:36.998Z",
+  "projectsCheckedAt": "2026-10-17T03:13:36.998Z",
+  "projectsUpdatedAt": "2026-10-17T03:13:36.998Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-16T03:22:57.746Z",
+    "checkedAt": "2026-10-17T03:13:36.998Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "6055684b713a7f76",
-      "title": "부동산원, 국토부 산하기관 첫 'AI 국제표준' 인증 획득 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRmEzRVdPZjY3c2M0c2ZlVzl4b1FGajN4MEdXa2g2WV9vSVFXeDJwdl9kNGxGTGxsZ2tJYk54UGRJLXctYW11TC1wMC1hVkNyWUdGZklFTk5Tazg?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "부동산원, 국토부 산하기관 첫 'AI 국제표준' 인증 획득 뉴스1",
-      "publishedAt": "2026-10-16T02:10:02.000Z",
+      "id": "e277eee7c77089de",
+      "title": "[SynthIDBio] ③ Transforming the AI Biotechnology Ecosystem: From Defending Watermark Bypasses to Global Key Protocols - 아이알팜",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SGtLTnJHZE93V2xKV3hKX2VhaTV0WDMtRGRLeU9XT1JkQjdIaVVBcWI0bVZvR05rNERMaWF0NHBYcF9oYjlPNTVYZm1PYUxsdElzVXd2czJEbHBMS2hpeHEtb3pjMjA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "[SynthIDBio] ③ Transforming the AI Biotechnology Ecosystem: From Defending Watermark Bypasses to Global Key Protocols 아이알팜",
+      "publishedAt": "2026-10-16T21:00:00.000Z",
       "rank": 1
     },
     {
-      "id": "e8bad09a6d525e78",
-      "title": "페블러스, ‘피지컬 AI 데이터 관리 로드맵’ 무료 웨비나 개최 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mcjVPNGFGdW9aWHJXWkdPTnE4aTktSURsMW1vSjlYMnRGOGQ0cE14ZDFucDdWdHExME94WGFMOGtoX2dOZUtHd1Z6RXQwMkpVczJYRHNXc0VfaHdNTTN3?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "페블러스, ‘피지컬 AI 데이터 관리 로드맵’ 무료 웨비나 개최 뉴스와이어",
-      "publishedAt": "2026-10-16T02:10:00.000Z",
+      "id": "b1b87b41caa88249",
+      "title": "Google AI: Research, Progress, and the Future of Ads - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmM3RjVXay1JMkcyeHQ2Zk9hZzFDV09GNVZMM3F0VjZVaU1IeC12U2pqVjV5MlFWTDByNGprSE5FaUc4ckZmbHZ5WldQSnk2M2dQcGJuNmluck1zOXNYdWxBWnB0c08zdFREYl9ObDB0S0kxTFhsQk1nMmJpZkY4NE9LUE5vWTNVX0JTOW5kMElmRGFKX2F6djVPUHJsWTdENW1nNTlYOFBCRlNQdG00UTNYblhURFk?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Google AI: Research, Progress, and the Future of Ads NVIDIA",
+      "publishedAt": "2026-10-16T18:08:02.000Z",
       "rank": 2
     },
     {
-      "id": "9fd903ae79685292",
-      "title": "한국부동산원, 인공지능 경영시스템 국제표준 인증 획득 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZzZfTnhUUUN1Zk9tT2xjaUl2Z3dmVGJkSUxHS0lPbk9TcmFYZ3M5V2s4VDhqWVU5R1pJZ19oMV9pTV9aR1BUa0tjampuQy1WTFJHMDJldFUzVEV2RVU1TNIBYEFVX3lxTE1fZzZfTnhUUUN1Zk9tT2xjaUl2Z3dmVGJkSUxHS0lPbk9TcmFYZ3M5V2s4VDhqWVU5R1pJZ19oMV9pTV9aR1BUa0tjampuQy1WTFJHMDJldFUzVEV2RVU1TA?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "한국부동산원, 인공지능 경영시스템 국제표준 인증 획득 연합뉴스",
-      "publishedAt": "2026-10-16T01:43:15.000Z",
+      "id": "f2863a16573dd085",
+      "title": "병원별 표준화 사망비 공개되나...심평원, 21일 공개 범위 심의 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92SlFBcnVFUTBBNzYwMDVWLVUyb3NMTzVJS2xXLVM5Mk1MZzZuVU1sZHlSNDZVR0NleGlkTmVqamZ4cFNtcDQ4Y0lrMVhBZDZGQmVVUTZTWUs0REZrdXNGSXVrb3V5OFNkS3c?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "병원별 표준화 사망비 공개되나...심평원, 21일 공개 범위 심의 의학신문",
+      "publishedAt": "2026-10-16T09:37:44.000Z",
       "rank": 3
     },
     {
-      "id": "7c2df6b6df5c72c9",
-      "title": "헌혈하러 가는 길을 여행처럼… 공항 연상시키는 디자인 적용 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEdvV3hGOUh1RjgxLTB6OHJkdi1GOHo2X211YXhmRjd3dmpmSkJTam5Gd2hOTGdXSXZzZklGMHNkbGQtM1ZUbThDMTR6bzBpLVJLOGhjWnA1YVBaY3ZLRFBsbVhIeVFQQ1hqdG5pbVV1M2ZJM2lDZWJUelNRNV80NE1BTUp4X0pTanhNY1RB?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "헌혈하러 가는 길을 여행처럼… 공항 연상시키는 디자인 적용 조선일보",
-      "publishedAt": "2026-10-15T15:55:26.000Z",
+      "id": "3d28c6d8db1ad03e",
+      "title": "오가노이드·AI 독성평가, 규제 현장 진입의 관건은 '국제 표준화' - 히트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYll3VkhwSUFDRHhCVUdPQ291c3BMVl90UlllMU5meVRKT2tOZ2ZSQVpwbnh3TWozSzg1MHFWaE5rYmZaenBqYkQtdld1bk9ETUxaRDFKSmpIWldSZnB2eHBOb2xiMm5Sbno0?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "오가노이드·AI 독성평가, 규제 현장 진입의 관건은 '국제 표준화' 히트뉴스",
+      "publishedAt": "2026-10-16T09:28:43.000Z",
       "rank": 4
     },
     {
-      "id": "1a15b6f4267d4713",
-      "title": "“피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sd3VfaFFaWUI1WVc2elVmMlpJSkVweXhubGlsTHQ3S2ZHRmZTQ0FwQWJmVlNIaVlsRmFvdHV5cE9BWG11dWZNa2dfZ3lrQQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "“피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진 전자신문",
-      "publishedAt": "2026-10-15T10:50:59.000Z",
+      "id": "0965ae52fe90ee89",
+      "title": "금호타이어, 임원 인사 단행…'유럽 전략통·R&D' 전면 배치 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ia2U3RFIxX2dLVWhjeEc2WUdSc0ItWGVrdVdXNDBXWFhGbmIxWjhpMUVlSEgxXzBtbGRyYnhfRl9QdG9faUJ2Q09ZR0paQjFiUFVrSldIS1VwZ2JpM256UWVLYlhVUDVN?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "금호타이어, 임원 인사 단행…'유럽 전략통·R&D' 전면 배치 녹색경제신문",
+      "publishedAt": "2026-10-16T08:05:50.000Z",
       "rank": 5
     },
     {
-      "id": "1c723287e11b9397",
-      "title": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paHREU0tMR1FPRldvRlhUYXJjRklXTzV5Q1Y3M1NaUVBtMWNDVll1bEtyR090MVM1dHJ5bHgtQWJzV2tVclNxYkNJYjcwMGRrdHdnSnlYbXV4Vkp3VkozQmJqb3lFVEdtMmc?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시 헬로디디",
-      "publishedAt": "2026-10-15T07:50:00.000Z",
+      "id": "77818bb2ec2fb6c6",
+      "title": "한국부동산원, 국토부 산하기관 최초 AI 국제표준 인증 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84MkVha1RjTlA0TW0tZF94X0R3T1hKOVBmekI5YXo3ZERYZFNEWGQ3RkE2anRfdnBVaUpHTGdNREFfOVNtbHVEVzY3cGdtbmRiRzZjN2xQZDBaaXNw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "한국부동산원, 국토부 산하기관 최초 AI 국제표준 인증 뉴스핌",
+      "publishedAt": "2026-10-16T07:35:00.000Z",
       "rank": 6
     },
     {
-      "id": "0e32d3093ee0b4d2",
-      "title": "“피지컬 AI 표준화 속도 낸다”…KOSA·TTA, 전략 세미나 개최 - 이코노미스트",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50anlNd3NtdDJSbElSUWtQbWVDcjF4cUY1TUhydjltMDZJVU1kZ1RodFhpZXRaZU1NS3MtbHlyMnMtSC0zbWRrbHE1Ri1IX091M05ULV9FRmpJMXFGTGhGS29B?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "“피지컬 AI 표준화 속도 낸다”…KOSA·TTA, 전략 세미나 개최 이코노미스트",
-      "publishedAt": "2026-10-15T07:32:00.000Z",
+      "id": "9c6404b955ff21d6",
+      "title": "네이버페이, 제주은행 등 4개 기관과 협약 ... 제주 소상공인에 특별보증 - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01UjRzNWt0R1d0SzkxSmJFdXR2M1lTMFNlWjhJUDZlN202ZkJZdW5vOF93X29OMGdRbzdJenVxMnhURXR4RnZ3T2J5a3VJdXFwc1h1ZTBWR1BxOHo4ckZSTXFmNnZweUJ5YXo0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "네이버페이, 제주은행 등 4개 기관과 협약 ... 제주 소상공인에 특별보증 파이낸셜신문",
+      "publishedAt": "2026-10-16T05:20:00.000Z",
       "rank": 7
     },
     {
-      "id": "51d61f48234caff5",
-      "title": "Tourism Malaysia and Alipay+ Partner to Accelerate Malaysia’s Digital Tourism Transformation - 경기시사투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XYXFiLTF3NUdwRnZTYmhnWEdpZmJmejlYWDRrNVYzWUlwa0RIV1UxZVp3Z0tBbmFuZlRRMjRTYUYxMU5CbEh6T2ZaWnVlMDVWYThTUXRCc1hjZklnaEE?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tourism Malaysia and Alipay+ Partner to Accelerate Malaysia’s Digital Tourism Transformation 경기시사투데이",
-      "publishedAt": "2026-10-15T06:19:00.000Z",
+      "id": "cce4614cca6e5a45",
+      "title": "셀트리온제약, Veeva PromoMats 도입으로 프로세스 표준화 및 효율성 극대화 - Veeva",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUjdONGl0MVpCRThLTEFhUXdGWTJDdFphdFN5Z1RwOFdFOXM4eS1TVk0zVTVyeU96NFZVUjRJVXR0TzZmVDcwVlRMWEllb05BSWlhY2tWTm5iUWhZcXFTUlMtNEJRS1puSnFXWmJBM3RkdFdvVm9RUnpTVmtxVW92Y1R1YWtUY05fd21Sa3R6MlBlcGpPUDNUUzJRbEd2U3FUTFJyNThfVHFyS0lJbjVhNFU2YzdvektLOWQza3F4eGpVX3lJam9JUg?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "셀트리온제약, Veeva PromoMats 도입으로 프로세스 표준화 및 효율성 극대화 Veeva",
+      "publishedAt": "2026-10-16T04:45:34.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-15T03:31:24.000Z"
+      "updatedAt": "2026-10-16T03:27:01.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
