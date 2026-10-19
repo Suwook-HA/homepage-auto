@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-18T03:17:12.257Z",
-  "projectsCheckedAt": "2026-10-18T03:17:12.257Z",
-  "projectsUpdatedAt": "2026-10-18T03:17:12.257Z",
+  "updatedAt": "2026-10-19T03:29:53.489Z",
+  "projectsCheckedAt": "2026-10-19T03:29:53.489Z",
+  "projectsUpdatedAt": "2026-10-19T03:29:53.489Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-18T03:17:12.257Z",
+    "checkedAt": "2026-10-19T03:29:53.489Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "1cbaf890f0a35fff",
-      "title": "VIS 2026: \"표준화된\"에서 \"표준화된\"으로 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40dVg0MUt4VzY2dUxGSUlibjkyNDFuSGxIb19VTzN3SExyb2FnR0tMR0ZkRWJLeHd5TkRnbUxLVG1aUU1EajNDMFdFdEJtUG9TZkx1SFcxREhNazRDdmxnWU9IdlJaRThtTXBKVGRtNlY?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "VIS 2026: \"표준화된\"에서 \"표준화된\"으로 Vietnam.vn",
-      "publishedAt": "2026-10-17T03:04:11.000Z",
+      "id": "4c2860e51ad70272",
+      "title": "케이뱅크, AI 금융 확산 기반 갖췄다..국제표준 ‘ISO/IEC 42001’ 인증 획득 - 한국정경신문",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCNXExZjBtMFU3R0t6WlRreHFTMmRnQVpCbklNMFZqSkUwYlltNEVqcFlQTHBmWE5VaGxLQ1JodXc2bWJwZ0prXzF3eXR0dlVkaVE?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "케이뱅크, AI 금융 확산 기반 갖췄다..국제표준 ‘ISO/IEC 42001’ 인증 획득 한국정경신문",
+      "publishedAt": "2026-10-19T02:00:12.000Z",
       "rank": 1
     },
     {
-      "id": "d9b8ee7a01340ccc",
-      "title": "KOSA and TTA Move to Secure International Standards for Physical AI… Establishing Integrated Standards for Robots, Sensors, and Data - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rQ2hjLTNDc1dqT3FpSEFobHBYVUZxWTJQODRHaDJOYU1sYnNJdXB3dGt5ZW92TTlBT0Z3ZDlSZm1JV1pnQTJXOU5BZDh2blNzNkJN?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KOSA and TTA Move to Secure International Standards for Physical AI… Establishing Integrated Standards for Robots, Sensors, and Data 벤처스퀘어",
-      "publishedAt": "2026-10-16T13:00:56.000Z",
+      "id": "cd438426daebfbb1",
+      "title": "하림, 창립 40주년 ‘도전·상생·열정’ 핵심가치 선포 - 시사전북닷컴",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdkdxYUR1Qko5T1otdnc4bUtSbkx3NHFTaHRYd0xlNEQxM1JIdTd0dE9Pem5YLXAtVmxEb05mdW80VFBtcnROVXBjalVQWGJ4Z21Qc0k1b19yc2hIWU0ybjRNbmtodEdLOGdr?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "하림, 창립 40주년 ‘도전·상생·열정’ 핵심가치 선포 시사전북닷컴",
+      "publishedAt": "2026-10-19T02:28:00.000Z",
       "rank": 2
     },
     {
-      "id": "e277eee7c77089de",
-      "title": "[SynthIDBio] ③ Transforming the AI Biotechnology Ecosystem: From Defending Watermark Bypasses to Global Key Protocols - 아이알팜",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SGtLTnJHZE93V2xKV3hKX2VhaTV0WDMtRGRLeU9XT1JkQjdIaVVBcWI0bVZvR05rNERMaWF0NHBYcF9oYjlPNTVYZm1PYUxsdElzVXd2czJEbHBMS2hpeHEtb3pjMjA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "[SynthIDBio] ③ Transforming the AI Biotechnology Ecosystem: From Defending Watermark Bypasses to Global Key Protocols 아이알팜",
-      "publishedAt": "2026-10-16T21:00:00.000Z",
+      "id": "af63912026b6cce4",
+      "title": "[게시판] 케이뱅크, AI 경영시스템 국제표준 인증 획득 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85bWZnelNISWRacTRpNHdfV0tvc2V1V3FvX2xDNEo0emVVWXdSZ1FDVHdPQ1FzTlZoQTRFN1RMV0YzbGVIXzBRV01kNU5INDlmT2ptWHI3MDlqbDdGRjZ1QdIBYEFVX3lxTE85bWZnelNISWRacTRpNHdfV0tvc2V1V3FvX2xDNEo0emVVWXdSZ1FDVHdPQ1FzTlZoQTRFN1RMV0YzbGVIXzBRV01kNU5INDlmT2ptWHI3MDlqbDdGRjZ1QQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "[게시판] 케이뱅크, AI 경영시스템 국제표준 인증 획득 연합뉴스",
+      "publishedAt": "2026-10-19T01:06:23.000Z",
       "rank": 3
     },
     {
-      "id": "b1b87b41caa88249",
-      "title": "Google AI: Research, Progress, and the Future of Ads - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmM3RjVXay1JMkcyeHQ2Zk9hZzFDV09GNVZMM3F0VjZVaU1IeC12U2pqVjV5MlFWTDByNGprSE5FaUc4ckZmbHZ5WldQSnk2M2dQcGJuNmluck1zOXNYdWxBWnB0c08zdFREYl9ObDB0S0kxTFhsQk1nMmJpZkY4NE9LUE5vWTNVX0JTOW5kMElmRGFKX2F6djVPUHJsWTdENW1nNTlYOFBCRlNQdG00UTNYblhURFk?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "Google AI: Research, Progress, and the Future of Ads NVIDIA",
-      "publishedAt": "2026-10-16T18:08:02.000Z",
+      "id": "d134cde4b67863db",
+      "title": "한국석유공사, 민간 전문가 7명 채용…에너지 안보·AI 혁신 역량 강화 - 뉴뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYYnFUdTVqUjd0aFlvSzRybW5yLWJGSDNGdHRnbFpuV3FmcmxwVk1BZTVBdXlWVHFiMTYxYnl4UDduNnJtcF9rUXdacGlfNjFINzBBUms1WHhDWUh1VmJxWnNZS2Qzdw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한국석유공사, 민간 전문가 7명 채용…에너지 안보·AI 혁신 역량 강화 뉴뉴스",
+      "publishedAt": "2026-10-18T17:12:09.000Z",
       "rank": 4
     },
     {
-      "id": "f2863a16573dd085",
-      "title": "병원별 표준화 사망비 공개되나...심평원, 21일 공개 범위 심의 - 의학신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92SlFBcnVFUTBBNzYwMDVWLVUyb3NMTzVJS2xXLVM5Mk1MZzZuVU1sZHlSNDZVR0NleGlkTmVqamZ4cFNtcDQ4Y0lrMVhBZDZGQmVVUTZTWUs0REZrdXNGSXVrb3V5OFNkS3c?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "병원별 표준화 사망비 공개되나...심평원, 21일 공개 범위 심의 의학신문",
-      "publishedAt": "2026-10-16T09:37:44.000Z",
+      "id": "1f4c199971512756",
+      "title": "2026 Seoul Fintech Lab 2 Startup CEO JeongWooMaru A Trust Engineering Company Engineering trust in data and AI - 한경매거진",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUVXdfSkg5aldOb19hcFJDTDVPVjZGWGVZUnhULTJ3QVh0XzlYcEN0aGpPMTFNZmFkVW56cXhQVFNyMm1JNVRzN25TeUtiZlY2MGlYUkhnUnRqRkRWYVh3QlNpMjZnZw?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "2026 Seoul Fintech Lab 2 Startup CEO JeongWooMaru A Trust Engineering Company Engineering trust in data and AI 한경매거진",
+      "publishedAt": "2026-10-18T14:23:04.000Z",
       "rank": 5
     },
     {
-      "id": "3d28c6d8db1ad03e",
-      "title": "오가노이드·AI 독성평가, 규제 현장 진입의 관건은 '국제 표준화' - 히트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYll3VkhwSUFDRHhCVUdPQ291c3BMVl90UlllMU5meVRKT2tOZ2ZSQVpwbnh3TWozSzg1MHFWaE5rYmZaenBqYkQtdld1bk9ETUxaRDFKSmpIWldSZnB2eHBOb2xiMm5Sbno0?oc=5",
+      "id": "00f97178a26ef04e",
+      "title": "삼성은 '확장' SK하이닉스는 '1.0 먼저'…AI메모리 표준화 시각차 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnhEcUNTODZKWE14eTRNNzlUT2luTlJ6bHprTW9qYXVXRGl3WldMamtCMGY3RzA3VVQ2U2J6TE1nMXkwZW8zemxGTV83Z1h0YTJjZm1GSlN2VVJOS051YmFJNUJCNjE1WVAzN200cVBKWVZuS2F6Q0RpOFFKU3d2T3AyUzVjUQ?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "오가노이드·AI 독성평가, 규제 현장 진입의 관건은 '국제 표준화' 히트뉴스",
-      "publishedAt": "2026-10-16T09:28:43.000Z",
+      "summary": "삼성은 '확장' SK하이닉스는 '1.0 먼저'…AI메모리 표준화 시각차 글로벌이코노믹",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
       "rank": 6
     },
     {
-      "id": "0965ae52fe90ee89",
-      "title": "금호타이어, 임원 인사 단행…'유럽 전략통·R&D' 전면 배치 - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ia2U3RFIxX2dLVWhjeEc2WUdSc0ItWGVrdVdXNDBXWFhGbmIxWjhpMUVlSEgxXzBtbGRyYnhfRl9QdG9faUJ2Q09ZR0paQjFiUFVrSldIS1VwZ2JpM256UWVLYlhVUDVN?oc=5",
+      "id": "11b462ba7421b00e",
+      "title": "‘수원대전환, 경제자유구역’ 특별 세션 개최…수원형 첨단 R&D 거점 조성 방안 논의 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jSzJxdlBWWW9PWkpsSTJkVlgxRnRlbEZOMGprQlZGWnYtT19ic0hubTZKOFhUYWo3ZlJPVlpPcFR0X3cxQXdCUFJKN2lUR1NYNEVxVmZVckFQZ1JYSkJVaGtsSG4?oc=5",
       "source": "Google News: R&D Strategy",
-      "summary": "금호타이어, 임원 인사 단행…'유럽 전략통·R&D' 전면 배치 녹색경제신문",
-      "publishedAt": "2026-10-16T08:05:50.000Z",
+      "summary": "‘수원대전환, 경제자유구역’ 특별 세션 개최…수원형 첨단 R&D 거점 조성 방안 논의 경기신문",
+      "publishedAt": "2026-10-18T06:17:54.000Z",
       "rank": 7
     },
     {
-      "id": "9c6404b955ff21d6",
-      "title": "네이버페이, 제주은행 등 4개 기관과 협약 ... 제주 소상공인에 특별보증 - 파이낸셜신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01UjRzNWt0R1d0SzkxSmJFdXR2M1lTMFNlWjhJUDZlN202ZkJZdW5vOF93X29OMGdRbzdJenVxMnhURXR4RnZ3T2J5a3VJdXFwc1h1ZTBWR1BxOHo4ckZSTXFmNnZweUJ5YXo0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "네이버페이, 제주은행 등 4개 기관과 협약 ... 제주 소상공인에 특별보증 파이낸셜신문",
-      "publishedAt": "2026-10-16T05:20:00.000Z",
+      "id": "f62f59f31f92c85b",
+      "title": "\"수원, 반도체 R&D·실증 거점으로 차별화해야\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IT0wtZXJIR0JXa2dKblRXdExkQnVqNUdiXzFHT18wT3l4M1ppZy0wSm94N3ljTUpBRTAxWXFyUjA5X09pTUYwb3VySkt3VEpNQndCa1BTYjZ5SjlwLWRRUTh0LVBzOUtYMkdoWVhPRXNQVnk0N1VTcdIBeEFVX3lxTE1IT0wtZXJIR0JXa2dKblRXdExkQnVqNUdiXzFHT18wT3l4M1ppZy0wSm94N3ljTUpBRTAxWXFyUjA5X09pTUYwb3VySkt3VEpNQndCa1BTYjZ5SjlwLWRRUTh0LVBzOUtYMkdoWVhPRXNQVnk0N1VTcQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "\"수원, 반도체 R&D·실증 거점으로 차별화해야\" 뉴시스",
+      "publishedAt": "2026-10-18T02:26:23.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-17T03:17:41.000Z"
+      "updatedAt": "2026-10-18T03:21:16.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
