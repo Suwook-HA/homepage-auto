@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T03:39:26.242Z",
-  "projectsCheckedAt": "2026-10-20T03:39:26.242Z",
-  "projectsUpdatedAt": "2026-10-20T03:39:26.242Z",
+  "updatedAt": "2026-10-21T03:32:11.461Z",
+  "projectsCheckedAt": "2026-10-21T03:32:11.461Z",
+  "projectsUpdatedAt": "2026-10-21T03:32:11.461Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,63 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-20T03:39:26.242Z",
+    "checkedAt": "2026-10-21T03:32:11.461Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "ec8c604ed6fcf30c",
-      "title": "솔로몬텍, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증심사 통과 - 뉴스와이어",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNR2RiX0kwaEhMM25iQkctWTJhdDNYbURadFg3MmRWc2k2d3drZnB4N3ZSU0YxdzUzUE1uZnQ2c0lpVjdrMzU5enJKODlNS3dNOFYxU1NEcUZIQlEyRlpj?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "솔로몬텍, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증심사 통과 뉴스와이어",
-      "publishedAt": "2026-10-20T00:30:00.000Z",
+      "id": "a368fbf59e1ae3fa",
+      "title": "대한민국-브루나이 다루살람, 스마트병원 협력 세미나 개최 - 메드월드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQjg3MUpxVVpBbVdMaVdBLXB3Tjh1WDA0a0YzbDk3amYyWmh0RHc4S2REVklzNXBFNlVNUHV2WkNXWUt5QzBnaXJ0Q08wSXIzZGhmOWhXUV9iUDEtZDYzMFpjWlBfdzd1UDFpdA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "대한민국-브루나이 다루살람, 스마트병원 협력 세미나 개최 메드월드뉴스",
+      "publishedAt": "2026-10-21T02:06:16.000Z",
       "rank": 1
+    },
+    {
+      "id": "50dad1e702e35127",
+      "title": "AI 비용 통제 못하는 기업 55%...에이전트 품질·지출 동시 관리 과제 - 지티티코리아",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZDdnejl3MlRkSEhER1h4WGxXa0R5SG5vRkVDTTBBOVdfY0VhSjMtZFcxTDE1R3lZdXByU1BTd2FraFJEUV96WDFEQWdlUWZXRi10aDRsOGp3aEpOQjVYODRObTVzaFpMY3c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 비용 통제 못하는 기업 55%...에이전트 품질·지출 동시 관리 과제 지티티코리아",
+      "publishedAt": "2026-10-21T01:49:52.000Z",
+      "rank": 2
+    },
+    {
+      "id": "679dee7bf29e6565",
+      "title": "KT, ‘AI 의료 표준화 모델` 세미나…전국 병원 60여 곳 참여 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUkpFb1BOZ2Y4ellxakc0Tk82SlV5WlpkS2wyMzE1aGhzU2ZvRXVMaXdMVlRjbWZTdk9ENUdma0ExeWx2MG5WX3JFbDJHUEE4SGRyOGxWay1zZUN4NW9OOUU1ZGc?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KT, ‘AI 의료 표준화 모델` 세미나…전국 병원 60여 곳 참여 디지털데일리",
+      "publishedAt": "2026-10-21T01:05:37.000Z",
+      "rank": 3
+    },
+    {
+      "id": "f0fc4e43b911f463",
+      "title": "[AI 표준 전쟁 ①] 표준 만든 쪽이 시장 규칙 쥔다…AI 국제표준 둘러싼 각국 셈법은 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbXBJcUxWWV9aOERmejRoeW9fZlVONVRNakFMZTRhd2loai1ZbFlrNXRsMnl2WVoyRWU0bHc3NzdtQlZhVlpEbE0zWHlYSVlFYmYwbXBpQmdsd2RvWUpJcWhEam0?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "[AI 표준 전쟁 ①] 표준 만든 쪽이 시장 규칙 쥔다…AI 국제표준 둘러싼 각국 셈법은 디지털데일리",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "4d70fc10b6008b75",
+      "title": "Yanolja Group to Exhibit at ITB Asia 2026, Accelerating Its Push into the APAC Travel Market - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QMjVCMG5KdThSWjgyZnprSXhWZzZCVXpYbUE1eXV5SEpWNGstaTBqcnliTE5zRHNlMnQyQ2RDcGNhWkVWeVdGMEVDYWxRZWl0VW94UXAtOVcwQ21hUkozdExoR250eE5a?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Yanolja Group to Exhibit at ITB Asia 2026, Accelerating Its Push into the APAC Travel Market KIPOST",
+      "publishedAt": "2026-10-20T13:00:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "3f16a92d3263877c",
+      "title": "Mediwave Adopts 'MediChat,' KakaoTalk-Based Hospital Document Issuance and Patient Management Solution, at 100 Hospitals and Clinics - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CWXZtSzJzdEU4bnM2dmwtZzlhUnpQNmdINWJTbVZjNG43enpMOTlBZEVMQmREbFZwc3NSUlUxWVFnSVQtQm9wN0hjSzJmdGRiVk53?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Mediwave Adopts 'MediChat,' KakaoTalk-Based Hospital Document Issuance and Patient Management Solution, at 100 Hospitals and Clinics 벤처스퀘어",
+      "publishedAt": "2026-10-20T12:55:40.000Z",
+      "rank": 6
     },
     {
       "id": "ab7728cf26279363",
@@ -74,60 +119,15 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "케이뱅크, AI 경영시스템 국제표준 ‘ISO/IEC 42001’ 인증 획득 外 리얼캐스트",
       "publishedAt": "2026-10-19T10:03:57.000Z",
-      "rank": 2
-    },
-    {
-      "id": "f42af8c9187da152",
-      "title": "[Brand Insight] HD Hyundai: Boldly Challenging the Future - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uS2tFY1k4MXhiZTU3UUFqTmZCYWdXR1dORTRXbnRsTk5ubi1wWi1IX19ZdVBSMTQ4STNzbUhtczJuM1NLN1Z4dFVjd0FlYVpfNVBZUUpJQ1RzaTI5dDNodVZybTV0TkFaVUE?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[Brand Insight] HD Hyundai: Boldly Challenging the Future 천지일보",
-      "publishedAt": "2026-10-19T20:40:32.000Z",
-      "rank": 3
-    },
-    {
-      "id": "40e464cf6ccda46c",
-      "title": "진로 탐색·현장 경험 강화하는 ‘경계 없는 교육생태계’ - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCOGczUzZKbV9UbThvamwwdDJ0dHNNdnJydWxicjhtZVpZWjh1RUdfcmxfczctRmdtc1FCS2NvWnhpbXRCazV1YWVENWR4THJiZDJzbkVnUUdVN21TRTkxUmZJQzF2RGlQbHc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "진로 탐색·현장 경험 강화하는 ‘경계 없는 교육생태계’ 한겨레",
-      "publishedAt": "2026-10-19T09:46:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "bc374936c0ef496a",
-      "title": "﻿Qureator CEO Kyu Baek: “Clinical evidence for anticancer combination therapy secured without animal efficacy data” - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZ1llUlg3Yk9jLWx5WFJINC1PMUJrUV9wZEFlMlZQdE9wLUZMQUNGc0dkUkY0X3hzT1c2WmVIQ2ZFV0lwRFZfUWF1N24yaDZGSGJZYl9KR3RqeXJneXZfald6czdYd1hSSUxxSNIBcEFVX3lxTFBWcjNwcjlsNE9ZN1ZDajZ2S1dKV0Yyb1NOYXczZ2k0ZjJTZHlMOHFVdmd3ZWo2OGtLMThHd0pBQ3FIR3M0OVdkVG5NWTUyTDY0c19nS2hmb091aXBoMmVqMlpQaVZXUm9yVTVBNF85TWQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Qureator CEO Kyu Baek: “Clinical evidence for anticancer combination therapy secured without animal efficacy data” 더바이오",
-      "publishedAt": "2026-10-19T06:41:14.000Z",
-      "rank": 5
-    },
-    {
-      "id": "a07aefaee45e883a",
-      "title": "[기획] 산단공 전북지역본부, 인공지능(AI) 기반 스마트그린산단 만든다 - 전북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzRQb2tLSkR2X0c2Mno2bmZ2WjFoYV8wbEd2OW5hZ08zOU5YS09RdXlHMEhRNU1SZE9YZXR4UndvQS1sYWNMeTVGS25wNmVHTVpWUnZXN1JRZTlSUG9ZaVZxVjdfSXVNRC1wM1h1c0IwbGpZVHFxUWxVcmw1eS1wWVdwdXdmdw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[기획] 산단공 전북지역본부, 인공지능(AI) 기반 스마트그린산단 만든다 전북도민일보",
-      "publishedAt": "2026-10-19T04:30:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "160fad4267f23a09",
-      "title": "[산업AI EXPO 프리뷰] 제조 AI ㉔ | 설비를 바꾸지 않는 제조 AI, 데이터 표준화에서 시작한다 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRnM4aUJpRU1ORVZEQXdhcGhBVUc4VGhKWEhVTmh6Z21hVXZtV3Robzg4d0dzQXBRc2ZkT0xuc2JvRFZ2U0ZpUURtd01NcWNycjFSdnI5d1AzSnRjc2JZ?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "[산업AI EXPO 프리뷰] 제조 AI ㉔ | 설비를 바꾸지 않는 제조 AI, 데이터 표준화에서 시작한다 헬로티",
-      "publishedAt": "2026-10-19T04:17:30.000Z",
       "rank": 7
     },
     {
-      "id": "74e35f7c85bdfc23",
-      "title": "MI Cube Solution Achieves Highest S Grade in Manufacturing AI Capability Assessment… Recognized for Autonomous Manufacturing Technology - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aalZDTzUtelB6Y0lXX2EwWHlHU0M4OXVIQ2hsOTMzbGFNaDdJMXItZ0xqa1gxVE4yb25VU3lIX1pFN0JXeXk4M2FLVG45alp5X1I0?oc=5",
+      "id": "de76eda5f8259aa3",
+      "title": "[고용&일자리]2026 장애인 AI 직업훈련 확대, 재택근무와 보조공학 지원은?:장애인인식개선신문 - 장애인인식개선신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yVm5ndll6cXpzVEdjeWY4YnAybkVsQlhlQUJYckhRR1Q1ZXpyVDQ3UkR2QzhNcm9MckRTX3RrMWdJelBCSlBSZkFFclVrSGZMSFFfTUNieUlySlZLV0hB0gFfQVVfeXFMTjJWbmd2WXpxenNUR2N5ZjhicDJuRWxCWGVBQlhySFFHVDVlenJUNDdSRHZDOE1yb0xyRFNfdGsxZ0l6UEJKUFJmQUVyVWtIZkxIUV9NQ2J5SXJKVktXSEE?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "MI Cube Solution Achieves Highest S Grade in Manufacturing AI Capability Assessment… Recognized for Autonomous Manufacturing Technology 벤처스퀘어",
-      "publishedAt": "2026-10-19T04:07:14.000Z",
+      "summary": "[고용&일자리]2026 장애인 AI 직업훈련 확대, 재택근무와 보조공학 지원은?:장애인인식개선신문 장애인인식개선신문",
+      "publishedAt": "2026-10-20T06:38:23.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-19T03:33:57.000Z"
+      "updatedAt": "2026-10-20T03:43:30.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
