@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T03:31:38.236Z",
-  "projectsCheckedAt": "2026-10-22T03:31:38.236Z",
-  "projectsUpdatedAt": "2026-10-22T03:31:38.236Z",
+  "updatedAt": "2026-10-23T03:36:41.917Z",
+  "projectsCheckedAt": "2026-10-23T03:36:41.917Z",
+  "projectsUpdatedAt": "2026-10-23T03:36:41.917Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-22T03:31:38.236Z",
+    "checkedAt": "2026-10-23T03:36:41.917Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "edbf4c2f3443d480",
+      "title": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 - 약사공론",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUkUxRm5rdG1GMEdIdFpvY0o1bVFpSU95dVV5cEZ6TDlkR083eTdSb3FMMERjM3B3bHViSXpKekdEQ0RLLVJ2SG5JeXg4OUtDeXhMRGVFc1Yza3lLTkY2MTdWb0U4dkc4cVFwdw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 약사공론",
+      "publishedAt": "2026-10-23T03:04:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "10eff7fbb5f3ede5",
+      "title": "김대중 TTA 본부장, 3GPP 조정위 의장 선출…6G 표준화 선도 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40bFZ2alQzTGRYVXowcDN1R3VGRk9aNktrVnhsUUhZY1hZdXN5S1F2aVQxLTFudTEyNGQtX29mZkprWGg1dkdtdWplOFpaUQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "김대중 TTA 본부장, 3GPP 조정위 의장 선출…6G 표준화 선도 전자신문",
+      "publishedAt": "2026-10-23T01:10:39.000Z",
+      "rank": 2
+    },
+    {
+      "id": "80e9f7bc0f8b0960",
+      "title": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySnM1SXRUemVkTjlBZ0gyZzZmcnI4VVVuSXQzdXlYWVlHbTE3M2hPRnJHWlZDUWVpTmFMTEZ3RWFvQzFDZ3A4SFM1LUlzWFZhazhBcjM2Y1hEZUNWSUptLQ?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit 뉴스1",
+      "publishedAt": "2026-10-23T00:38:49.000Z",
+      "rank": 3
+    },
+    {
+      "id": "e727e17e0f89d318",
+      "title": "The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” - 서울시티",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbk52M2FCZF9ySGhVVDRIUWRoSmhhSzJtUzlSMV8ydmlZOTlvcFA0aUtYcl9UaFBEQ3RRalNZTXpMMGlHbUllTTRnOTRob2xGYTJScnd0ZnlSbnVqdDgtMXRrTktsR2F6NUg4WEtwRQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” 서울시티",
+      "publishedAt": "2026-10-23T00:22:26.000Z",
+      "rank": 4
+    },
+    {
+      "id": "d745f6ab2f584a28",
+      "title": "농어촌공사, 농식품부 산하기관 최초 AI경영 국제인증 취득 - 축산신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsU0EwNlhFWVpxcm55ekR4anlFWGwtajhSN29SWmFpeEpUNWlhU0plWDJ6bXdFajZXaTZPUkQ4djZ3LTI0SVMyNVZuVUhlUGhMRktPM1huLWRUaTI3TTBKaVhiZmh1TVhL?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "농어촌공사, 농식품부 산하기관 최초 AI경영 국제인증 취득 축산신문",
+      "publishedAt": "2026-10-23T00:09:22.000Z",
+      "rank": 5
+    },
+    {
+      "id": "e06462ed81d828fb",
+      "title": "“Beyond the Big Idea: Creativity Must Drive Business Transformation” Ronnie Wu, Chief Creative Officer at TBWAChina - 매드타임스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qUEsxU0RsNkNmVjRGdmNxYUtxdnlqa1dkemQ4aW1oVWNOdjQ1LXNvSVhoNjFQT2ZIUWRVZ3BJNm1TTWxUdzlkNEFqQUpZZFZmNy01YUVSaXZfVkZ2YklWaTJKRGt4b0dlMl8wNw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "“Beyond the Big Idea: Creativity Must Drive Business Transformation” Ronnie Wu, Chief Creative Officer at TBWAChina 매드타임스",
+      "publishedAt": "2026-10-22T15:00:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "e5c22cb5a9da0e9c",
+      "title": "세종시, 세계은행과 AI·디지털 전환 협력 확대 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90WWpZRGs1bnlzaGluSGN2T1BETGE1WEZtZVUteDlCdlB4REFMMUc1b3h3R00zQ0NvcEJUMDcxSEQ2QQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "세종시, 세계은행과 AI·디지털 전환 협력 확대 브레이크뉴스",
+      "publishedAt": "2026-10-22T10:24:00.000Z",
+      "rank": 7
+    },
     {
       "id": "2ca126c231948a3c",
       "title": "South Korea's Antitrust Watchdog Denies Discriminating Against U.S. Companies in Fines - 알파경제",
@@ -65,69 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "South Korea's Antitrust Watchdog Denies Discriminating Against U.S. Companies in Fines 알파경제",
       "publishedAt": "2026-10-21T21:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "1267f52cae427f0a",
-      "title": "AI 신뢰성도 국제 기준으로 검증받는다…솔로몬텍, ISO/IEC 42001 심사 통과 - 한국데이터경제신문",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIY0xqVC1OVmtmcHcwQWk4cFkxaV9DZ2VRazRnYUFJWnFVNGN0SVpLVHpla3Z5WXd4UG45OHFic01sLXBENkVZa1hxYkdXb19XOHZ4d0hnVFB0ZWJjdDQ0eExxbnBWVE1aYndDRFF3RlJPZllJ0gF0QVVfeXFMUEhjTGpULU5Wa2ZwdzBBaThwWTFpX0NnZVFrNGdhQUlacVU0Y3RJWktUemVrdnlZd3hQbjk4cWJzTWwtcEQ2RVlrWHFiR1dvX1c4dnh3SGdUUHRlYmN0NDR4THFucFZUTVpid0NEUXdGUk9mWUk?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "AI 신뢰성도 국제 기준으로 검증받는다…솔로몬텍, ISO/IEC 42001 심사 통과 한국데이터경제신문",
-      "publishedAt": "2026-10-20T20:06:00.000Z",
-      "rank": 2
-    },
-    {
-      "id": "17ab1ac43d2c4d9e",
-      "title": "KT, 전국 병원 관계자 초청 '의료 AX' 세미나… 표준화 모델 제시 - 내외경제TV",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLSUU1bmY0Uk1BVzlsSXkySHZ1ZzUyUVNlVDZwTU1GT05WNjVQMWl4SzRWbEN1VjdTUmhZRTlwSHVjOHBGX3ZzTU90eGlFZERJUnladkZwSzRpcWMyQTFTajd3cUlualRiSG8w?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "KT, 전국 병원 관계자 초청 '의료 AX' 세미나… 표준화 모델 제시 내외경제TV",
-      "publishedAt": "2026-10-21T09:56:08.000Z",
-      "rank": 3
-    },
-    {
-      "id": "313addd8084aa0e7",
-      "title": "KT, 'KT AXis: 의료 2026' 세미나 열어 ‘의료 표준화 모델’ 알려 - 디지털경제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3QzktdUZ2eC1LcFdPNmI5ZGhwY05RcjZSSjhDUFNfeUUyLWNybVFNdTJYTGZjZG1YeWpVb1pEYUZ0N1U5dzd6SUlkUXNzazJaQ09tOFJSQTk3LW5xY0NKY183b1pSY1RURUE?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "KT, 'KT AXis: 의료 2026' 세미나 열어 ‘의료 표준화 모델’ 알려 디지털경제뉴스",
-      "publishedAt": "2026-10-21T08:10:15.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d9ed82a6631b8338",
-      "title": "대전 9대 전략산업 R&D 40조 투입…지역기업 사업화는 과제 - 충청투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaHpiVmRiazRVaXQ4aXFOTnlzU01IRExBZG91Ry1UTUVvSGFvMEFObkltWUl6eVlfdGZuUmotU2RFa0VlMVhSUUdfRUY2cmZDUnpsY3FLWGRaZFZQMU8xU1cyeDhZUGNnVFlzWmhR?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "대전 9대 전략산업 R&D 40조 투입…지역기업 사업화는 과제 충청투데이",
-      "publishedAt": "2026-10-21T08:01:35.000Z",
-      "rank": 5
-    },
-    {
-      "id": "0faf83a80b503141",
-      "title": "경북도, AI팩토리 5개 과제 모두 선정…국비 333억 원 확보 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VWnlHU3ZOUjFyaE5Mand4WG9Nelh3eTlKSEJwanlBSm5WY3lJNllUcUMxdUVxdEJOeUpUc09ZZW1UUQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "경북도, AI팩토리 5개 과제 모두 선정…국비 333억 원 확보 브레이크뉴스",
-      "publishedAt": "2026-10-21T06:43:39.000Z",
-      "rank": 6
-    },
-    {
-      "id": "b95f8511b3056376",
-      "title": "KT, '의료 표준화 모델'로 병원 AX 공략…모듈형 AI 골라 쓴다 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HVmJyS0o4SVBBa3hKZlNvRU1NOUpRMGwtM2pnTHlGOHF1SGxhb0g3WXRQbkl5REV1U3pVel9SSkU0N3NWd25hRmpXNF82dw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KT, '의료 표준화 모델'로 병원 AX 공략…모듈형 AI 골라 쓴다 전자신문",
-      "publishedAt": "2026-10-21T06:13:46.000Z",
-      "rank": 7
-    },
-    {
-      "id": "ed1d06e2ba2120bc",
-      "title": "TTA-대만TAICS, 6G 표준화 전략 마련 맞손 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tclU0UmZqdnJQNm9lekZHeUJyRmtRV2RoOW9pUFdMQlpZb1hQUTZ6dVJMX0dIZ0JFMWNkeUQ2Q3ZGU0xnRFVhbnp6QmN0QQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "TTA-대만TAICS, 6G 표준화 전략 마련 맞손 전자신문",
-      "publishedAt": "2026-10-21T04:24:10.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-21T03:36:15.000Z"
+      "updatedAt": "2026-10-22T03:35:41.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
