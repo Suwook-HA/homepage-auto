@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T03:36:41.917Z",
-  "projectsCheckedAt": "2026-10-23T03:36:41.917Z",
-  "projectsUpdatedAt": "2026-10-23T03:36:41.917Z",
+  "updatedAt": "2026-10-24T03:30:35.205Z",
+  "projectsCheckedAt": "2026-10-24T03:30:35.205Z",
+  "projectsUpdatedAt": "2026-10-24T03:30:35.205Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,46 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-23T03:36:41.917Z",
+    "checkedAt": "2026-10-24T03:30:35.205Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "51607bfa045c55be",
+      "title": "오세희 민주당 의원 \"국제표준 중국 8만 건 선점...우리나라 겨우 3만 건\" - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0WmxPYXBwdEd3QW5BYTNKNW1ZZEwyVlRhZWpsWUNIcGJrNGlKTWN0LVVHLUtURmdDSDlGc3BMZDFVdw?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "오세희 민주당 의원 \"국제표준 중국 8만 건 선점...우리나라 겨우 3만 건\" 브레이크뉴스",
+      "publishedAt": "2026-10-23T09:28:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "627f01d03be5c532",
+      "title": "부광약품, 올해 누적 매출 18% 증가···R&D 비용 30%↑ - 메디칼업저버",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbHJLOEJSc1ExWVNBLTJDSFE3eFhJY0d1SDhpelU1R2Ftb0NNNVNyQ3FDcVh1TkRIa1NEbExoTlhsTnFCZjBfWngwNEp6dUl6bm43aUhWYUtpU0xUTUV5VE5LUGhTbnpVMGV3?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "부광약품, 올해 누적 매출 18% 증가···R&D 비용 30%↑ 메디칼업저버",
+      "publishedAt": "2026-10-23T07:47:58.000Z",
+      "rank": 2
+    },
+    {
+      "id": "f36ee1f891bfccb3",
+      "title": "밀양시, 공공 AI 도입 앞두고 개인정보·보안 위험 점검 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GR2Q5R0dHUlo5T0JYbHdwcGFONm83WUpPMjBfUF9MdWxpZUdHeE9fVDh3bEZBV3lJX0pGWUR1N05YZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "밀양시, 공공 AI 도입 앞두고 개인정보·보안 위험 점검 브레이크뉴스",
+      "publishedAt": "2026-10-23T03:34:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "bf9c777afa98f402",
+      "title": "TTA, 전북서 공간정보 AI 활용·표준화 방안 논의 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pU0lOeXdQcHphQ0VLbnFrYXloX1FabXR1b1UtWVVqakEyXzNWODBNNU5wRFowb2FLanprczlCVzBRajNHS05UemtpcHZ6NFRqejJFQWdR?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "TTA, 전북서 공간정보 AI 활용·표준화 방안 논의 지디넷코리아",
+      "publishedAt": "2026-10-23T03:28:40.000Z",
+      "rank": 4
+    },
     {
       "id": "edbf4c2f3443d480",
       "title": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 - 약사공론",
@@ -65,16 +101,16 @@
       "source": "Google News: R&D Strategy",
       "summary": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 약사공론",
       "publishedAt": "2026-10-23T03:04:00.000Z",
-      "rank": 1
+      "rank": 5
     },
     {
-      "id": "10eff7fbb5f3ede5",
-      "title": "김대중 TTA 본부장, 3GPP 조정위 의장 선출…6G 표준화 선도 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40bFZ2alQzTGRYVXowcDN1R3VGRk9aNktrVnhsUUhZY1hZdXN5S1F2aVQxLTFudTEyNGQtX29mZkprWGg1dkdtdWplOFpaUQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "김대중 TTA 본부장, 3GPP 조정위 의장 선출…6G 표준화 선도 전자신문",
-      "publishedAt": "2026-10-23T01:10:39.000Z",
-      "rank": 2
+      "id": "ae67b2efd2ccc37e",
+      "title": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit - 매일타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRTFBTTI1WVBlZ1NLR2o0QnRwU3FmT196TU9XMzdVaXA4eUZaaDFDMHlQZFgyU1dBakozZGFkZlFLQ0Ewd3prcFVvc0JMYmdXeFYtZVZFM25heG5Qc0E?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit 매일타임즈",
+      "publishedAt": "2026-10-23T00:54:00.000Z",
+      "rank": 6
     },
     {
       "id": "80e9f7bc0f8b0960",
@@ -83,7 +119,7 @@
       "source": "Google News: International Standardization",
       "summary": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit 뉴스1",
       "publishedAt": "2026-10-23T00:38:49.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "e727e17e0f89d318",
@@ -92,116 +128,71 @@
       "source": "Google News: Digital Transformation",
       "summary": "The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” 서울시티",
       "publishedAt": "2026-10-23T00:22:26.000Z",
-      "rank": 4
-    },
-    {
-      "id": "d745f6ab2f584a28",
-      "title": "농어촌공사, 농식품부 산하기관 최초 AI경영 국제인증 취득 - 축산신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsU0EwNlhFWVpxcm55ekR4anlFWGwtajhSN29SWmFpeEpUNWlhU0plWDJ6bXdFajZXaTZPUkQ4djZ3LTI0SVMyNVZuVUhlUGhMRktPM1huLWRUaTI3TTBKaVhiZmh1TVhL?oc=5",
-      "source": "Google News: ISO IEC AI",
-      "summary": "농어촌공사, 농식품부 산하기관 최초 AI경영 국제인증 취득 축산신문",
-      "publishedAt": "2026-10-23T00:09:22.000Z",
-      "rank": 5
-    },
-    {
-      "id": "e06462ed81d828fb",
-      "title": "“Beyond the Big Idea: Creativity Must Drive Business Transformation” Ronnie Wu, Chief Creative Officer at TBWAChina - 매드타임스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qUEsxU0RsNkNmVjRGdmNxYUtxdnlqa1dkemQ4aW1oVWNOdjQ1LXNvSVhoNjFQT2ZIUWRVZ3BJNm1TTWxUdzlkNEFqQUpZZFZmNy01YUVSaXZfVkZ2YklWaTJKRGt4b0dlMl8wNw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "“Beyond the Big Idea: Creativity Must Drive Business Transformation” Ronnie Wu, Chief Creative Officer at TBWAChina 매드타임스",
-      "publishedAt": "2026-10-22T15:00:00.000Z",
-      "rank": 6
-    },
-    {
-      "id": "e5c22cb5a9da0e9c",
-      "title": "세종시, 세계은행과 AI·디지털 전환 협력 확대 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90WWpZRGs1bnlzaGluSGN2T1BETGE1WEZtZVUteDlCdlB4REFMMUc1b3h3R00zQ0NvcEJUMDcxSEQ2QQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "세종시, 세계은행과 AI·디지털 전환 협력 확대 브레이크뉴스",
-      "publishedAt": "2026-10-22T10:24:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "2ca126c231948a3c",
-      "title": "South Korea's Antitrust Watchdog Denies Discriminating Against U.S. Companies in Fines - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WVG1IRWp0ZGRmNzkxa3U4V3hmb2owTDA5WnQ0QTFoYU0zMHFlZldUOG5WLXRfNHJXU2Q3Yk5GYzNEV05lMnd3aXF6RjA5NHVJaWs3MUFjRXQxNVd0cGNCeElCTENoX0twX3pQTzF3?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "South Korea's Antitrust Watchdog Denies Discriminating Against U.S. Companies in Fines 알파경제",
-      "publishedAt": "2026-10-21T21:00:00.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "e00a7382ec605a1f",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z",
+      "id": "fa22433e2d6abd01",
+      "title": "Design and replicate voices with Gemini 3.8 Flash TTS",
+      "url": "https://www.youtube.com/watch?v=SOF3_evPje8",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
+      "publishedAt": "2026-10-21T19:00:23.000Z",
       "viewCount": 0
     },
     {
-      "id": "aa6ddcf5892fb780",
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z",
+      "id": "8d4ae182ed0a051b",
+      "title": "Turning raw hardware sensor data into music with Gemini",
+      "url": "https://www.youtube.com/watch?v=i3X7Fv0Z3Uc",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
+      "publishedAt": "2026-10-15T19:00:22.000Z",
       "viewCount": 0
     },
     {
-      "id": "cab0e3ccba9ed887",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z",
+      "id": "766de0a96b482411",
+      "title": "Gemini 4 Argon in Antigravity",
+      "url": "https://www.youtube.com/watch?v=nSwmcs37Jd4",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
+      "publishedAt": "2026-10-15T16:00:02.000Z",
       "viewCount": 0
     },
     {
-      "id": "d5221bcd44b7b72e",
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z",
+      "id": "c64c673783a8b42f",
+      "title": "Gemini 4 Argon: What’s new and what’s next",
+      "url": "https://www.youtube.com/watch?v=Jh6mgf9M06M",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
+      "publishedAt": "2026-10-14T17:01:36.000Z",
       "viewCount": 0
     },
     {
-      "id": "56db67f81460004b",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z",
+      "id": "7004c4e8ce9f8fa7",
+      "title": "Gemini 4 Argon and Google Antigravity: From 2D concept to 3D cathedral",
+      "url": "https://www.youtube.com/watch?v=OYp5j2RihPE",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
+      "publishedAt": "2026-10-13T19:00:11.000Z",
       "viewCount": 0
     },
     {
-      "id": "61b756852c8942c0",
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
-      "publishedAt": "2026-09-03T08:23:37.000Z",
+      "id": "7387ec26048b5e19",
+      "title": "Building low-latency remote robotics with Gemini",
+      "url": "https://www.youtube.com/watch?v=7sKHiuE7J-Y",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/7sKHiuE7J-Y/hqdefault.jpg",
+      "publishedAt": "2026-10-09T16:00:10.000Z",
       "viewCount": 0
     },
     {
-      "id": "818c3764f9258298",
-      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
-      "publishedAt": "2026-09-01T09:04:56.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "1633709e0a289a0d",
-      "title": "The Billion Dollar AI Gap Is Collapsing",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "channel": "Two Minute Papers",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
-      "publishedAt": "2026-08-28T09:44:44.000Z",
+      "id": "50687fb1399cf7cb",
+      "title": "Building with Gemma 4",
+      "url": "https://www.youtube.com/watch?v=fL9OBJO3Gu8",
+      "channel": "Google for Developers",
+      "thumbnail": "https://i.ytimg.com/vi/fL9OBJO3Gu8/hqdefault.jpg",
+      "publishedAt": "2026-10-08T23:00:09.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-22T03:35:41.000Z"
+      "updatedAt": "2026-10-23T03:40:46.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
