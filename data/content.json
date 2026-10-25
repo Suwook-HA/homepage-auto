@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-24T03:30:35.205Z",
-  "projectsCheckedAt": "2026-10-24T03:30:35.205Z",
-  "projectsUpdatedAt": "2026-10-24T03:30:35.205Z",
+  "updatedAt": "2026-10-25T03:26:52.294Z",
+  "projectsCheckedAt": "2026-10-25T03:26:52.294Z",
+  "projectsUpdatedAt": "2026-10-25T03:26:52.294Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,17 +54,17 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-24T03:30:35.205Z",
+    "checkedAt": "2026-10-25T03:26:52.294Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "51607bfa045c55be",
-      "title": "오세희 민주당 의원 \"국제표준 중국 8만 건 선점...우리나라 겨우 3만 건\" - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0WmxPYXBwdEd3QW5BYTNKNW1ZZEwyVlRhZWpsWUNIcGJrNGlKTWN0LVVHLUtURmdDSDlGc3BMZDFVdw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "오세희 민주당 의원 \"국제표준 중국 8만 건 선점...우리나라 겨우 3만 건\" 브레이크뉴스",
-      "publishedAt": "2026-10-23T09:28:00.000Z",
+      "id": "7613666d4404a364",
+      "title": "[헬로즈업] 사후 검사 시대 끝났다… ‘디지털 메트롤로지’, 공정 제어·디지털 트윈 핵심 두뇌로 진화 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZmZLTmlDLVZvN1ZhU2NoOG5ROVJ6V1BTRWRRMV96Vm80WkJocl9ESGFZbUwwVjhtbVFGa29TNGF2TFFkZFFvOHRwUjh2alVpRVpzMkQzMm5YMDYzN1I4?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[헬로즈업] 사후 검사 시대 끝났다… ‘디지털 메트롤로지’, 공정 제어·디지털 트윈 핵심 두뇌로 진화 헬로티",
+      "publishedAt": "2026-10-24T11:20:49.000Z",
       "rank": 1
     },
     {
@@ -77,12 +77,12 @@
       "rank": 2
     },
     {
-      "id": "f36ee1f891bfccb3",
-      "title": "밀양시, 공공 AI 도입 앞두고 개인정보·보안 위험 점검 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GR2Q5R0dHUlo5T0JYbHdwcGFONm83WUpPMjBfUF9MdWxpZUdHeE9fVDh3bEZBV3lJX0pGWUR1N05YZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "밀양시, 공공 AI 도입 앞두고 개인정보·보안 위험 점검 브레이크뉴스",
-      "publishedAt": "2026-10-23T03:34:00.000Z",
+      "id": "e3bcc96ad796cbac",
+      "title": "TTA 김대중 본부장, 3GPP 최상위 기구 의장 선출…6G 표준화 영향력 확대 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydnNHSmtHR3RndjhhSkRnejE4X3R3MHpkWjZodTJTMzA0YkZraTUyZVNEYm9pWlJ0cy1LYjFZdXJUQkhyWVhXZjJyM3U3YmFTSS1KSEhhYk9PdGxyQl9TZWJ3?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "TTA 김대중 본부장, 3GPP 최상위 기구 의장 선출…6G 표준화 영향력 확대 디지털데일리",
+      "publishedAt": "2026-10-23T05:31:21.000Z",
       "rank": 3
     },
     {
@@ -104,13 +104,22 @@
       "rank": 5
     },
     {
-      "id": "ae67b2efd2ccc37e",
-      "title": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit - 매일타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRTFBTTI1WVBlZ1NLR2o0QnRwU3FmT196TU9XMzdVaXA4eUZaaDFDMHlQZFgyU1dBakozZGFkZlFLQ0Ewd3prcFVvc0JMYmdXeFYtZVZFM25heG5Qc0E?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit 매일타임즈",
-      "publishedAt": "2026-10-23T00:54:00.000Z",
+      "id": "b233b181eb1ce51e",
+      "title": "6G 표준화 본격화 앞두고 한국인 3GPP 최상위 위원장 선출 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSEpiOWZsV1ZSRTFXUGs3aDRpbDN2dDFlUW52VXBodHBZdzgwTGpOa3hUWFA0S3ZXZTZMV2w1aTY0NHVlNUNueXhBTkIwLWZ1WTlITGRR?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "6G 표준화 본격화 앞두고 한국인 3GPP 최상위 위원장 선출 지디넷코리아",
+      "publishedAt": "2026-10-23T02:40:34.000Z",
       "rank": 6
+    },
+    {
+      "id": "06e29b188b56d9df",
+      "title": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit - 경기시사투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KOHUtVVpjMFV3NEtVblAydk9Ma0JPMnRMQ3BfaUQ2eHl5REJ6dWk3clpla0pZQ3BValppWDhmcENPNVBGVl9SSmxjV1BiYXRXcWZQZ1pqcWNIV0JPa3c?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit 경기시사투데이",
+      "publishedAt": "2026-10-23T01:03:32.000Z",
+      "rank": 7
     },
     {
       "id": "80e9f7bc0f8b0960",
@@ -119,15 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit 뉴스1",
       "publishedAt": "2026-10-23T00:38:49.000Z",
-      "rank": 7
-    },
-    {
-      "id": "e727e17e0f89d318",
-      "title": "The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” - 서울시티",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbk52M2FCZF9ySGhVVDRIUWRoSmhhSzJtUzlSMV8ydmlZOTlvcFA0aUtYcl9UaFBEQ3RRalNZTXpMMGlHbUllTTRnOTRob2xGYTJScnd0ZnlSbnVqdDgtMXRrTktsR2F6NUg4WEtwRQ?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” 서울시티",
-      "publishedAt": "2026-10-23T00:22:26.000Z",
       "rank": 8
     }
   ],
@@ -225,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-23T03:40:46.000Z"
+      "updatedAt": "2026-10-24T03:34:39.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
