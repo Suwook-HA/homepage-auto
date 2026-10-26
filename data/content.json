@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T03:26:52.294Z",
-  "projectsCheckedAt": "2026-10-25T03:26:52.294Z",
-  "projectsUpdatedAt": "2026-10-25T03:26:52.294Z",
+  "updatedAt": "2026-10-26T03:29:09.901Z",
+  "projectsCheckedAt": "2026-10-26T03:29:09.901Z",
+  "projectsUpdatedAt": "2026-10-26T03:29:09.901Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-25T03:26:52.294Z",
+    "checkedAt": "2026-10-26T03:29:09.901Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "7613666d4404a364",
-      "title": "[헬로즈업] 사후 검사 시대 끝났다… ‘디지털 메트롤로지’, 공정 제어·디지털 트윈 핵심 두뇌로 진화 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZmZLTmlDLVZvN1ZhU2NoOG5ROVJ6V1BTRWRRMV96Vm80WkJocl9ESGFZbUwwVjhtbVFGa29TNGF2TFFkZFFvOHRwUjh2alVpRVpzMkQzMm5YMDYzN1I4?oc=5",
+      "id": "8c455db62e345d19",
+      "title": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 - 데일리시큐",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTDg0OGJOVEZLdm1qSmREZkR0dlZLQXR6RnhjNENBUjc5eVZqMXRTT090SklvaDFrcC0yeV9uUW9HV1FkZjl4elI2alNDS1FrbkRaa1JLaEJ0SFpRUDVYN2JOUGZua3ZDNEhqYQ?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "[헬로즈업] 사후 검사 시대 끝났다… ‘디지털 메트롤로지’, 공정 제어·디지털 트윈 핵심 두뇌로 진화 헬로티",
-      "publishedAt": "2026-10-24T11:20:49.000Z",
+      "summary": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 데일리시큐",
+      "publishedAt": "2026-10-25T23:00:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "fefdddc15f04af0f",
+      "title": "철도연, 미래 철도기술 혁신 위한 R&D 전략 논의 - 국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc0c0MGVwX1N0dXhlMWt2bi1OSEk4WXF3TEF5dXhXX1F0OWtGOTFlQW1yRl9feEhySWlfd0pJZkZtUi0tX3dDWVY0TXJ3aXE1X2s1Y1dianEwNDMyaG50aF9FLVQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "철도연, 미래 철도기술 혁신 위한 R&D 전략 논의 국토일보",
+      "publishedAt": "2026-10-26T01:04:45.000Z",
+      "rank": 2
+    },
+    {
+      "id": "db4c56d1e10d9c5a",
+      "title": "DX도 어려웠는데 AX라니요? - 용인신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FandzT1A3a0I3VmtQUk5jWU1XMGotelpGRXlxSkZPTDkwNGp6SEc1bnNaY3FWajU2OE9jTFM5dFVmRWhzWjhNMEFnel9KSTlFUEpjbnl6Q0VaaFg4SjEzQ0JaSk0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "DX도 어려웠는데 AX라니요? 용인신문",
+      "publishedAt": "2026-10-25T03:52:40.000Z",
+      "rank": 3
     },
     {
       "id": "627f01d03be5c532",
@@ -74,7 +92,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "부광약품, 올해 누적 매출 18% 증가···R&D 비용 30%↑ 메디칼업저버",
       "publishedAt": "2026-10-23T07:47:58.000Z",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "e3bcc96ad796cbac",
@@ -83,7 +101,7 @@
       "source": "Google News: IT standardization",
       "summary": "TTA 김대중 본부장, 3GPP 최상위 기구 의장 선출…6G 표준화 영향력 확대 디지털데일리",
       "publishedAt": "2026-10-23T05:31:21.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "bf9c777afa98f402",
@@ -92,7 +110,7 @@
       "source": "Google News: AI standardization",
       "summary": "TTA, 전북서 공간정보 AI 활용·표준화 방안 논의 지디넷코리아",
       "publishedAt": "2026-10-23T03:28:40.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "edbf4c2f3443d480",
@@ -101,16 +119,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 약사공론",
       "publishedAt": "2026-10-23T03:04:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "b233b181eb1ce51e",
-      "title": "6G 표준화 본격화 앞두고 한국인 3GPP 최상위 위원장 선출 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSEpiOWZsV1ZSRTFXUGs3aDRpbDN2dDFlUW52VXBodHBZdzgwTGpOa3hUWFA0S3ZXZTZMV2w1aTY0NHVlNUNueXhBTkIwLWZ1WTlITGRR?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "6G 표준화 본격화 앞두고 한국인 3GPP 최상위 위원장 선출 지디넷코리아",
-      "publishedAt": "2026-10-23T02:40:34.000Z",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "06e29b188b56d9df",
@@ -119,15 +128,6 @@
       "source": "Google News: International Standardization",
       "summary": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit 경기시사투데이",
       "publishedAt": "2026-10-23T01:03:32.000Z",
-      "rank": 7
-    },
-    {
-      "id": "80e9f7bc0f8b0960",
-      "title": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySnM1SXRUemVkTjlBZ0gyZzZmcnI4VVVuSXQzdXlYWVlHbTE3M2hPRnJHWlZDUWVpTmFMTEZ3RWFvQzFDZ3A4SFM1LUlzWFZhazhBcjM2Y1hEZUNWSUptLQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "Curiosis Unveils AI-Powered Self-Driving Lab Technology at World Bio Summit 뉴스1",
-      "publishedAt": "2026-10-23T00:38:49.000Z",
       "rank": 8
     }
   ],
@@ -225,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-24T03:34:39.000Z"
+      "updatedAt": "2026-10-25T03:30:56.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
