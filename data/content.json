@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T03:29:09.901Z",
-  "projectsCheckedAt": "2026-10-26T03:29:09.901Z",
-  "projectsUpdatedAt": "2026-10-26T03:29:09.901Z",
+  "updatedAt": "2026-10-27T03:55:23.558Z",
+  "projectsCheckedAt": "2026-10-27T03:55:23.558Z",
+  "projectsUpdatedAt": "2026-10-27T03:55:23.558Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,64 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-26T03:29:09.901Z",
+    "checkedAt": "2026-10-27T03:55:23.558Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "a9c9f40e44b0c250",
+      "title": "DB HiTek Renews Automotive Quality Certification - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1NmdVOFJxb0RCTl9VTHowMDNMRTYtZVhjaVhUYlE2UU9iMElTUDRFTFFIQ2tBNTl1NkREVDFnNVd3WURtVjhsVzd3WExUOFN5N3ZfckVVT1VCcHZ3a19WYjRpQnR0djA?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "DB HiTek Renews Automotive Quality Certification THE ELEC, Korea Electronics Industry Media",
+      "publishedAt": "2026-10-27T00:29:34.000Z",
+      "rank": 1
+    },
+    {
+      "id": "c4f46a4209723994",
+      "title": "철도연, 철도학회 추계학술대회서 미래 혁신 이끌 R&D 전략 공유 - 철도경제신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54OW5ndXN4NVdWMExzaDZYa29uN0JHRkViLTRweERRdzd4TklHTldrUHVxTHFSQjhSWFl6a1BYdTNLRE5fTWZYcXdtQ3dQRnZWQjIzbmdJNFJvVWZjT3NQeUxwWGc1VFdpemow?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "철도연, 철도학회 추계학술대회서 미래 혁신 이끌 R&D 전략 공유 철도경제신문",
+      "publishedAt": "2026-10-27T01:49:53.000Z",
+      "rank": 2
+    },
+    {
+      "id": "d89f8acb4a8c9efe",
+      "title": "LG CNS, 준법경영 시스템 국제표준 인증 획득 - 파이낸셜투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QS2t1Q3dRTEgxV2tnaEkxVEgyNFlZM2ZWQUczdGVocmEyQ0NMNGFBdVVzUURtZFNjZWx2UTBLYzNaYjhDaGtsZzZGWnpzb3JnTHFOYjd5U3gtVGgwQ2FpMllheVVMTWMyM3lUOThR0gFuQVVfeXFMTVBLa3VDd1FMSDFXa2doSTFUSDI0WVkzZlZBRzN0ZWhyYTJDQ0w0YUF1VXNRRG1kU2NlbHZRMEtjM1piOENoa2xnNkZaenNvcmdMcU5iN3lTeC1UaDBDYWkyWWF5VUxNYzIzeVQ5OFE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "LG CNS, 준법경영 시스템 국제표준 인증 획득 파이낸셜투데이",
+      "publishedAt": "2026-10-27T01:40:12.000Z",
+      "rank": 3
+    },
+    {
+      "id": "927ec3bc26cda87c",
+      "title": "LG CNS, 준법경영 국제표준 인증... 컴플라이언스 체계 확립 - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mT1UxUWk0ZlBMbUN5aGxFdExwN2hBYXJLZ0NlVkw5WmpqTVNHYVBKR2xSemlZWHZreHhZQk1iOWpZYkJISVpIY2N5cDd6OWpXR0VLbXRYNmhWRVhteEJVVE9KOHZFbjVHNkhjbnRra3Q?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "LG CNS, 준법경영 국제표준 인증... 컴플라이언스 체계 확립 시장경제신문",
+      "publishedAt": "2026-10-27T01:21:45.000Z",
+      "rank": 4
+    },
+    {
+      "id": "e5e6f0dcf1407cb2",
+      "title": "How SK Bioscience is Revolutionizing Vaccine Production with AI in 2026 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MNzYyTXFodE9VVm5fVnZWTXVLMV91T0hoMGFQNkVsU3czRWYzT04xdUJkNExLeW1sVElJaUhzc3dsbnhDUzdHNzBjYXkxT2FsclJtdzVDNGpWSXhrVkpfZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "How SK Bioscience is Revolutionizing Vaccine Production with AI in 2026 뉴스1",
+      "publishedAt": "2026-10-27T00:55:33.000Z",
+      "rank": 5
+    },
+    {
+      "id": "40c8f2095ee9b42f",
+      "title": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시 리 즈-신뢰할 수 있는 인공지능 만들기 (10 /27(화)) - 서울대학교",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTeXdEb0RKZE11TGt0dUFleFNWV21uRzlMcXRxREpucnJiOHd0R3NWVnRROXlHSWR0YU0tU0dQTnZzb2ZRUFlWSFJ1NDJ5V2g0TnVsS2FaRWlqdlFMTGlpLTJTMks?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시 리 즈-신뢰할 수 있는 인공지능 만들기 (10 /27(화)) 서울대학교",
+      "publishedAt": "2026-10-26T15:36:56.000Z",
+      "rank": 6
+    },
     {
       "id": "8c455db62e345d19",
       "title": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 - 데일리시큐",
@@ -65,69 +119,15 @@
       "source": "Google News: AI Data Quality",
       "summary": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 데일리시큐",
       "publishedAt": "2026-10-25T23:00:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "fefdddc15f04af0f",
-      "title": "철도연, 미래 철도기술 혁신 위한 R&D 전략 논의 - 국토일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc0c0MGVwX1N0dXhlMWt2bi1OSEk4WXF3TEF5dXhXX1F0OWtGOTFlQW1yRl9feEhySWlfd0pJZkZtUi0tX3dDWVY0TXJ3aXE1X2s1Y1dianEwNDMyaG50aF9FLVQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "철도연, 미래 철도기술 혁신 위한 R&D 전략 논의 국토일보",
-      "publishedAt": "2026-10-26T01:04:45.000Z",
-      "rank": 2
-    },
-    {
-      "id": "db4c56d1e10d9c5a",
-      "title": "DX도 어려웠는데 AX라니요? - 용인신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FandzT1A3a0I3VmtQUk5jWU1XMGotelpGRXlxSkZPTDkwNGp6SEc1bnNaY3FWajU2OE9jTFM5dFVmRWhzWjhNMEFnel9KSTlFUEpjbnl6Q0VaaFg4SjEzQ0JaSk0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "DX도 어려웠는데 AX라니요? 용인신문",
-      "publishedAt": "2026-10-25T03:52:40.000Z",
-      "rank": 3
-    },
-    {
-      "id": "627f01d03be5c532",
-      "title": "부광약품, 올해 누적 매출 18% 증가···R&D 비용 30%↑ - 메디칼업저버",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbHJLOEJSc1ExWVNBLTJDSFE3eFhJY0d1SDhpelU1R2Ftb0NNNVNyQ3FDcVh1TkRIa1NEbExoTlhsTnFCZjBfWngwNEp6dUl6bm43aUhWYUtpU0xUTUV5VE5LUGhTbnpVMGV3?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "부광약품, 올해 누적 매출 18% 증가···R&D 비용 30%↑ 메디칼업저버",
-      "publishedAt": "2026-10-23T07:47:58.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e3bcc96ad796cbac",
-      "title": "TTA 김대중 본부장, 3GPP 최상위 기구 의장 선출…6G 표준화 영향력 확대 - 디지털데일리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydnNHSmtHR3RndjhhSkRnejE4X3R3MHpkWjZodTJTMzA0YkZraTUyZVNEYm9pWlJ0cy1LYjFZdXJUQkhyWVhXZjJyM3U3YmFTSS1KSEhhYk9PdGxyQl9TZWJ3?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "TTA 김대중 본부장, 3GPP 최상위 기구 의장 선출…6G 표준화 영향력 확대 디지털데일리",
-      "publishedAt": "2026-10-23T05:31:21.000Z",
-      "rank": 5
-    },
-    {
-      "id": "bf9c777afa98f402",
-      "title": "TTA, 전북서 공간정보 AI 활용·표준화 방안 논의 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pU0lOeXdQcHphQ0VLbnFrYXloX1FabXR1b1UtWVVqakEyXzNWODBNNU5wRFowb2FLanprczlCVzBRajNHS05UemtpcHZ6NFRqejJFQWdR?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "TTA, 전북서 공간정보 AI 활용·표준화 방안 논의 지디넷코리아",
-      "publishedAt": "2026-10-23T03:28:40.000Z",
-      "rank": 6
-    },
-    {
-      "id": "edbf4c2f3443d480",
-      "title": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 - 약사공론",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUkUxRm5rdG1GMEdIdFpvY0o1bVFpSU95dVV5cEZ6TDlkR083eTdSb3FMMERjM3B3bHViSXpKekdEQ0RLLVJ2SG5JeXg4OUtDeXhMRGVFc1Yza3lLTkY2MTdWb0U4dkc4cVFwdw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "부광약품, 11월 RNA 신약법인 공식 출범…개발 전략 공개 약사공론",
-      "publishedAt": "2026-10-23T03:04:00.000Z",
       "rank": 7
     },
     {
-      "id": "06e29b188b56d9df",
-      "title": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit - 경기시사투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KOHUtVVpjMFV3NEtVblAydk9Ma0JPMnRMQ3BfaUQ2eHl5REJ6dWk3clpla0pZQ3BValppWDhmcENPNVBGVl9SSmxjV1BiYXRXcWZQZ1pqcWNIV0JPa3c?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "A New Approach to Urban Traffic Congestion: BT Proposes Nonstop, High-Speed, High-Capacity Transit 경기시사투데이",
-      "publishedAt": "2026-10-23T01:03:32.000Z",
+      "id": "49c728d4325e3d3d",
+      "title": "[과학에세이] 지역이 기획, 국가가 지원하는 R&D 시대 열자 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOExPQ2NFQXRyUGRBTGhFX3NSX2dUeGZhdkxRdnN3TVR6ZDFnbWJBa2x4SnV1Y1l0MFB5Q3F0X0VUTm5xZ3Z0VDFnVVhEY2pseVRrVnhsMWtZejZ3bTRzM1JEd0hHR1RKS2RxVFpsaHlUZFVGN0RXZHFaQWR6SEM4WFhocXltMEZBelNjT0xn?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "[과학에세이] 지역이 기획, 국가가 지원하는 R&D 시대 열자 국제신문",
+      "publishedAt": "2026-10-26T09:44:00.000Z",
       "rank": 8
     }
   ],
@@ -225,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-25T03:30:56.000Z"
+      "updatedAt": "2026-10-26T03:33:14.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
