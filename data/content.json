@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T03:55:23.558Z",
-  "projectsCheckedAt": "2026-10-27T03:55:23.558Z",
-  "projectsUpdatedAt": "2026-10-27T03:55:23.558Z",
+  "updatedAt": "2026-10-28T04:17:28.294Z",
+  "projectsCheckedAt": "2026-10-28T04:17:28.294Z",
+  "projectsUpdatedAt": "2026-10-28T04:17:28.294Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-27T03:55:23.558Z",
+    "checkedAt": "2026-10-28T04:17:28.294Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "a9c9f40e44b0c250",
-      "title": "DB HiTek Renews Automotive Quality Certification - THE ELEC, Korea Electronics Industry Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1NmdVOFJxb0RCTl9VTHowMDNMRTYtZVhjaVhUYlE2UU9iMElTUDRFTFFIQ2tBNTl1NkREVDFnNVd3WURtVjhsVzd3WExUOFN5N3ZfckVVT1VCcHZ3a19WYjRpQnR0djA?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "DB HiTek Renews Automotive Quality Certification THE ELEC, Korea Electronics Industry Media",
-      "publishedAt": "2026-10-27T00:29:34.000Z",
+      "id": "b99b2479908dde9c",
+      "title": "KT, 6G 네트워크 보안 자문위원회 출범…AI·위성통신 위협 대응 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pX1NWUkVFMUZOdlVuOTJHbGNwcF9iSzhwMFU1am91OFRYRnpkOUJmM3lTSm5heHJoTjRUV3AyY1QzMHdCSndqZVItdEwwUQ?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, 6G 네트워크 보안 자문위원회 출범…AI·위성통신 위협 대응 전자신문",
+      "publishedAt": "2026-10-28T02:10:49.000Z",
       "rank": 1
     },
     {
-      "id": "c4f46a4209723994",
-      "title": "철도연, 철도학회 추계학술대회서 미래 혁신 이끌 R&D 전략 공유 - 철도경제신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54OW5ndXN4NVdWMExzaDZYa29uN0JHRkViLTRweERRdzd4TklHTldrUHVxTHFSQjhSWFl6a1BYdTNLRE5fTWZYcXdtQ3dQRnZWQjIzbmdJNFJvVWZjT3NQeUxwWGc1VFdpemow?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "철도연, 철도학회 추계학술대회서 미래 혁신 이끌 R&D 전략 공유 철도경제신문",
-      "publishedAt": "2026-10-27T01:49:53.000Z",
+      "id": "4ec407a64dd358dc",
+      "title": "KT, 6G보안 전문가협의체 출범...AI·위성통신 위협 대응 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52RkY4LUxLY1UzNzBHdHFHd2Zsc0QyWkJ2cVNTMDNZNk5IZURKUm96bE9TRDVaYXpIMlh6RXpMRjI3d2FvbTZIbllBYXYwWnpnVWEtUzB3?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, 6G보안 전문가협의체 출범...AI·위성통신 위협 대응 지디넷코리아",
+      "publishedAt": "2026-10-28T02:07:01.000Z",
       "rank": 2
     },
     {
-      "id": "d89f8acb4a8c9efe",
-      "title": "LG CNS, 준법경영 시스템 국제표준 인증 획득 - 파이낸셜투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QS2t1Q3dRTEgxV2tnaEkxVEgyNFlZM2ZWQUczdGVocmEyQ0NMNGFBdVVzUURtZFNjZWx2UTBLYzNaYjhDaGtsZzZGWnpzb3JnTHFOYjd5U3gtVGgwQ2FpMllheVVMTWMyM3lUOThR0gFuQVVfeXFMTVBLa3VDd1FMSDFXa2doSTFUSDI0WVkzZlZBRzN0ZWhyYTJDQ0w0YUF1VXNRRG1kU2NlbHZRMEtjM1piOENoa2xnNkZaenNvcmdMcU5iN3lTeC1UaDBDYWkyWWF5VUxNYzIzeVQ5OFE?oc=5",
+      "id": "3081dd66f2dbb912",
+      "title": "LG CNS, 준법경영 시스템 국제표준 인증 획득 - 뉴뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41VXVldS1felFUT1FuRFVmSnloWUUwa2N1ZEJlYnczTktSbGNBZWRWb1IzdzVKV1JyQWZ0NHA4S2luc1B0RVprQ25ldlQzeDFlMlhoNE9USHlvMEpsb1IyZ3phWHJkZw?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "LG CNS, 준법경영 시스템 국제표준 인증 획득 파이낸셜투데이",
-      "publishedAt": "2026-10-27T01:40:12.000Z",
+      "summary": "LG CNS, 준법경영 시스템 국제표준 인증 획득 뉴뉴스",
+      "publishedAt": "2026-10-28T01:57:06.000Z",
       "rank": 3
     },
     {
-      "id": "927ec3bc26cda87c",
-      "title": "LG CNS, 준법경영 국제표준 인증... 컴플라이언스 체계 확립 - 시장경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mT1UxUWk0ZlBMbUN5aGxFdExwN2hBYXJLZ0NlVkw5WmpqTVNHYVBKR2xSemlZWHZreHhZQk1iOWpZYkJISVpIY2N5cDd6OWpXR0VLbXRYNmhWRVhteEJVVE9KOHZFbjVHNkhjbnRra3Q?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "LG CNS, 준법경영 국제표준 인증... 컴플라이언스 체계 확립 시장경제신문",
-      "publishedAt": "2026-10-27T01:21:45.000Z",
+      "id": "fb9dcd797e2893a7",
+      "title": "AI·양자·위성통신까지…KT, 6G 보안 대응 나선다 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KYTNoYTgxR1hrOHF5akdpU3hHZWp6VE0yNzNjazQwNDVOdjBraDZHQ19SeG9FVUZsZVNKdWxpeXFWeEsxYzB3QTJUdXlxczJialJ6Um8zTmZzQm_SAWBBVV95cUxPNzFnNDhrcWpGNlZJX3JVcldsRW9oSmxjTTE4V3hzZXpKQ0x4VFREaTgxSXJlVFZZZFRpVlpUa0h0bnFHVWEwMWtIZmhtMWMwV1EwTEZEMDVUMjZEZU5ZVlA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "AI·양자·위성통신까지…KT, 6G 보안 대응 나선다 연합뉴스",
+      "publishedAt": "2026-10-28T00:56:45.000Z",
       "rank": 4
     },
     {
-      "id": "e5e6f0dcf1407cb2",
-      "title": "How SK Bioscience is Revolutionizing Vaccine Production with AI in 2026 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MNzYyTXFodE9VVm5fVnZWTXVLMV91T0hoMGFQNkVsU3czRWYzT04xdUJkNExLeW1sVElJaUhzc3dsbnhDUzdHNzBjYXkxT2FsclJtdzVDNGpWSXhrVkpfZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "How SK Bioscience is Revolutionizing Vaccine Production with AI in 2026 뉴스1",
-      "publishedAt": "2026-10-27T00:55:33.000Z",
+      "id": "538d5ecd0d134679",
+      "title": "어펄마, 부산 미래산업 전환펀드 2호 GP 선정 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW9nRDRkamEzbVkyZXFYSkZYa0UwTEFRbmRPdUVBQlpKaXhTNy1pTXNKcjFWTmdpa2xFcnBuNW5GaU9oRnhRbm9VQnViMmZYOWJIR3E2b25weDdxaDdHbld3YXVFbU5TYlNsQVRZUW1ERkM4TlJMcDRoZlBQX0p0SE13T3BnaTV6VzdaOVNDNA?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "어펄마, 부산 미래산업 전환펀드 2호 GP 선정 : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-10-27T21:05:11.000Z",
       "rank": 5
     },
     {
-      "id": "40c8f2095ee9b42f",
-      "title": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시 리 즈-신뢰할 수 있는 인공지능 만들기 (10 /27(화)) - 서울대학교",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTeXdEb0RKZE11TGt0dUFleFNWV21uRzlMcXRxREpucnJiOHd0R3NWVnRROXlHSWR0YU0tU0dQTnZzb2ZRUFlWSFJ1NDJ5V2g0TnVsS2FaRWlqdlFMTGlpLTJTMks?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "서울대 인공지능신뢰성 연구센터 2026 월례세미나 시 리 즈-신뢰할 수 있는 인공지능 만들기 (10 /27(화)) 서울대학교",
-      "publishedAt": "2026-10-26T15:36:56.000Z",
+      "id": "49518d2e18359e70",
+      "title": "[2026 한국품질만족지수] AI, 기업 생존 좌우하는 핵심 품질변수로 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVlBSWVkzM0JMb2FNem1oTzE0djYxLThZX1kwS1JOZVBRVUpYTEJQZlFiX0NIT1NYLWpoVTNqNjdvUGhGWHFQVFVVM0lLbGJaVEtMQ05n?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[2026 한국품질만족지수] AI, 기업 생존 좌우하는 핵심 품질변수로 중앙일보",
+      "publishedAt": "2026-10-27T20:32:00.000Z",
       "rank": 6
     },
     {
-      "id": "8c455db62e345d19",
-      "title": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 - 데일리시큐",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTDg0OGJOVEZLdm1qSmREZkR0dlZLQXR6RnhjNENBUjc5eVZqMXRTT090SklvaDFrcC0yeV9uUW9HV1FkZjl4elI2alNDS1FrbkRaa1JLaEJ0SFpRUDVYN2JOUGZua3ZDNEhqYQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "[이혁중 CISO 칼럼] AI 에이전트 시대의 확장형 제로 트러스트 전략 데일리시큐",
-      "publishedAt": "2026-10-25T23:00:00.000Z",
+      "id": "054e288cc36163aa",
+      "title": "법, 인문학, 인공지능 스터디 그룹 에레혼 - 전체 행사 - SNU 캘린더 - 서울대 소식 - 서울대학교",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16TFh6dVBNdGlabDBuSWsxRm8zOFFYT0ZQNVd1Yk9BcllxSnpmWHRIamVlNjNodG9ROFNrR19oRzdNckliX1ktM3I1eV9OdkNORHFPNm40TmQ0NWY5SUxFNkV1NWw?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "법, 인문학, 인공지능 스터디 그룹 에레혼 - 전체 행사 - SNU 캘린더 - 서울대 소식 서울대학교",
+      "publishedAt": "2026-10-27T15:57:39.000Z",
       "rank": 7
     },
     {
-      "id": "49c728d4325e3d3d",
-      "title": "[과학에세이] 지역이 기획, 국가가 지원하는 R&D 시대 열자 - 국제신문",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOExPQ2NFQXRyUGRBTGhFX3NSX2dUeGZhdkxRdnN3TVR6ZDFnbWJBa2x4SnV1Y1l0MFB5Q3F0X0VUTm5xZ3Z0VDFnVVhEY2pseVRrVnhsMWtZejZ3bTRzM1JEd0hHR1RKS2RxVFpsaHlUZFVGN0RXZHFaQWR6SEM4WFhocXltMEZBelNjT0xn?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[과학에세이] 지역이 기획, 국가가 지원하는 R&D 시대 열자 국제신문",
-      "publishedAt": "2026-10-26T09:44:00.000Z",
+      "id": "200459269f620acd",
+      "title": "Jiransoft Achieves Grade 1 GS Certification for Generative AI Data Leakage Prevention 'AX Filter 2.0' - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVUV5Q1lEblNpZFZlZF9rdDh5Z2ZTOUlMejVWWjJ1MlBQU01VQktBY1o3endxaE5jd2NHSmVkNzFSb29yQUwwVlBoUk9rZ1NTckVN?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Jiransoft Achieves Grade 1 GS Certification for Generative AI Data Leakage Prevention 'AX Filter 2.0' 벤처스퀘어",
+      "publishedAt": "2026-10-27T12:32:16.000Z",
       "rank": 8
     }
   ],
@@ -225,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-26T03:33:14.000Z"
+      "updatedAt": "2026-10-27T03:59:28.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
