@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T04:38:02.741Z",
-  "projectsCheckedAt": "2026-10-29T04:38:02.741Z",
-  "projectsUpdatedAt": "2026-10-29T04:38:02.741Z",
+  "updatedAt": "2026-10-30T04:37:54.536Z",
+  "projectsCheckedAt": "2026-10-30T04:37:54.536Z",
+  "projectsUpdatedAt": "2026-10-30T04:37:54.536Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-29T04:38:02.741Z",
+    "checkedAt": "2026-10-30T04:37:54.536Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "cef4cec7d3743f46",
-      "title": "코레일, AI 경영시스템 국제표준 'ISO 42001' 인증 획득 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVnZxc1JpdGpJam5Ta0x6TklCUm1iZzFoc2J3dU9NQTNUNFROV2NqY2NEREVwZENvaTQ2b1B3MzdyNDV1M3cxcVBLekcxajdHWHlKNnlOSVd5QQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "코레일, AI 경영시스템 국제표준 'ISO 42001' 인증 획득 파이낸셜뉴스",
-      "publishedAt": "2026-10-29T02:36:22.000Z",
+      "id": "a9700af6d124a24a",
+      "title": "KT, 산학연과 6G 보안 자문위 출범…국제 표준화 협력 : 테크/과학 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKeURGd0hoYmJRUHpleG53d2xqVEp3R0g0NFRKNlRsUk1pbDVvbzdlMUswd3dkWkgxZDRndVZKVnlzcG9RUGZHNkhaNA?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "KT, 산학연과 6G 보안 자문위 출범…국제 표준화 협력 : 테크/과학 재경일보",
+      "publishedAt": "2026-10-30T03:00:29.000Z",
       "rank": 1
     },
     {
-      "id": "81434ced043e4a47",
-      "title": "마이크로소프트, 프론티어로 향하는 플랫폼 접근법과 글로벌 혁신 사례 공개 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQSHU5SDVRZzN5YWk5MzRtOVBsYWhuaUM5MXpPVmJWdXJLWFFaZVotRE1nb2wwVjlNX2l2RzkxMDdDM3pFZ094eFBjNjRFSl9LS1ZzRUFfcXVaUzJtMGJtendiaGRRZG9kQlBvQ3hrc016V3YtTGFlX09tYVFia3pkQi1XVmJnMVVYUXdFZ2xLSnZmV1FDSDlEcDBrVGYzbDJKV2VCenFHckk4SkxTLS1sS1QzNC1pbDEtMHRYc29fTUxTU2d3SkZ1dHhpTXFTRmFHWV8zaTZwajVrWEdLWTdZN1Y5RWVxRHBjSkwwdWR5TXE1TUstMHlBZmtzTDdKYW84clk1RVg0U2dqUHZxT0RTcFdCc3lOVFoyVW9Bd00zLXRVTURnSkttZk5DcGRjTWVodmtyZGlwYW55czhIY1pBci0tRk5QRmNwbkpnZ1RRRlczTzRoOFBnUXFpZ0RaRTBSRncxZHdPdkQ5THVD?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "마이크로소프트, 프론티어로 향하는 플랫폼 접근법과 글로벌 혁신 사례 공개 Microsoft Source",
-      "publishedAt": "2026-10-29T00:37:38.000Z",
+      "id": "508264f6c144ad8e",
+      "title": "씨크코리아, “제조 경쟁력 다음 승부처는 ‘적응력’”… ‘지능형 공장’ 구현 전략 제시 - FA저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWLXI0b1ZUSmVWYjZyNkJjSHQyOGN4UU02SGN2cjNIajhmcWZMMU1Ga01LVTZyUGFwdkNZWWozVnJCZ2F6YWNlLTNKM0VxSU5JZlR2Mmt1YnlNNUtUcGtpUk1ubTlSenlnRWJ3?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "씨크코리아, “제조 경쟁력 다음 승부처는 ‘적응력’”… ‘지능형 공장’ 구현 전략 제시 FA저널",
+      "publishedAt": "2026-10-30T02:18:39.000Z",
       "rank": 2
     },
     {
-      "id": "7bc718809ce212af",
-      "title": "SK렌터카, '한국품질만족지수' 6년 연속 1위…통산 11회 달성 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqVVB0OFlRRjNuelhXSkRUTlFiZUx6N2x2LUxWZ1V1N2tpZ2tyT25STndBeEh5RHc2UG1jdEp4VTh3V05sNXUwVWhjbGdaQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "SK렌터카, '한국품질만족지수' 6년 연속 1위…통산 11회 달성 전자신문",
-      "publishedAt": "2026-10-29T00:33:33.000Z",
+      "id": "7b1595539c7d980f",
+      "title": "‘AI 재활·돌봄’ 등 첨단 핵심 기술 국제표준화 해법 모색 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QajEyQnFCcmdmSF9nQ0FXTDhUVjNDRjVZZ0syUHBWaEdfZTJXeFcyN19TT1BZTGgtZ2JtZHBVcy1FU1hENFVteTd0UHIzWFFneUpwOXpKeE81Zw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "‘AI 재활·돌봄’ 등 첨단 핵심 기술 국제표준화 해법 모색 이투데이",
+      "publishedAt": "2026-10-30T01:20:00.000Z",
       "rank": 3
     },
     {
-      "id": "65e98a1707767f3f",
-      "title": "산업부, 제조데이터 표준화·공유 본격화…제조AI 경쟁력 높인다 - 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZFNMdHJBZHhieWhCakpmSWZzT0pYU3kwT19LSDFNX3BqYjBnakFaX2FXXzd5R1VxMzYwX0hNTVpVeHBrR0xEQUhhVFRCYi1Da1ZRTHJrLU9yWUxseVlCcTFQcXZuQW80YmJ4dtIBcEFVX3lxTFB5cXJyWnMwMlJZaXVveURZSDdaNllQUmdOQTRzYkdlX3FGYkpHVTVvaXFKTE1QbE5ENkFyRGZlZDNxODg0V1I1N1d0NEFZeG1Zd2M5UG5TYzZOX3g5QUZlSy00R05tUDVFV2paUnFjSlM?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "산업부, 제조데이터 표준화·공유 본격화…제조AI 경쟁력 높인다 전기신문",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "id": "ade550ad82f69592",
+      "title": "코레일 'AI 음성 예매 서비스',국제표준 'ISO/IEC 42001' 인증 획득 - 한국철도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LWHJ0TEZoYmJkeWc2eXZKYlV1M0djVml6TmllYWxJM2R6aWV3aVZLeDdtR3N5MUJzX0JSOFI5bmstZXlUcmxpemYwM1BWcWtpMWFwcVR6ZmdnQ3pHTXZORlNCczhoWW5pcTNOaVh1Q0E?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "코레일 'AI 음성 예매 서비스',국제표준 'ISO/IEC 42001' 인증 획득 한국철도일보",
+      "publishedAt": "2026-10-29T02:19:08.000Z",
       "rank": 4
     },
     {
-      "id": "1119baae7925e56a",
-      "title": "After Passkeys, FIDO Turns to Digital Identity and AI Transaction Authentication - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vem9MQlJOZFFFTUM5Tjc4MU1hZG5lQnd6LWxxSmVqb3FjUDU3NnFLQ0lTZWFCclRnNkVpbXNCRXhiM0huWWEwVTFhOE1aN3J5eVFuM0xCWHVjbWY2NFFNTXpydzUweC1lS3BsU2FiWk7SAXRBVV95cUxNVTBRZmZwVEZXUUpKZ2tIWjkzeXBiNTBob3MxMGdQYlYybTRXaTFBejNnOXNhdGQ1OVg5QmpjdXpVcEVNMW5yREFwUTdHX0EzbEhRYk9paTlzQ2lrU2ctM1hXeWdkcmZtVFFhUHNfU0FIaUcxYw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "After Passkeys, FIDO Turns to Digital Identity and AI Transaction Authentication IT조선",
-      "publishedAt": "2026-10-28T22:28:19.000Z",
+      "id": "bf14ee025138c823",
+      "title": "코레일, AI 경영시스템 국제표준 인증 획득 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NMEprS05hOVduYnN0a09jRHZMMUVrRkg1T0xBa2pteW1zMkkyUjlFMW9IWS1QYmxRRTM5aTIwN2lxYVlqc3dDUFZ0OVdsZjBVNWFVVzBlWmFCa2VveWQxQWN4dXA?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "코레일, AI 경영시스템 국제표준 인증 획득 서울경제TV",
+      "publishedAt": "2026-10-29T11:25:22.000Z",
       "rank": 5
     },
     {
-      "id": "c2b3726bdea3229d",
-      "title": "Food & Beverage Manufacturers Race to Scale AI Beyond the Pilot Stage - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iV2ZGLV8yNEc3QmZCRlJLUGN6QVhBbEVRWEliM3ZHWEFVZUJRbzF2NzItZUQ3d21BR1l2TDJSeVRMcTRDRG5MV0lLdG1JQ1BzelBDbHFpNmNHb29IOTM3aDlFZjJaeFZf0gFsQVVfeXFMTU8zY3BSWW9rOUFjeHdjWjlRUV91bGNpNU14X2ExWklkV01xMU5objBxUE01Y0FiNzBDZzFCaTFQSmxvMDE2ZFpKd0Z5THdycG9obGJjeWc4ZWgxVWFOQlFDV1hKa0htaEo2RmxX?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Food & Beverage Manufacturers Race to Scale AI Beyond the Pilot Stage KIPOST",
-      "publishedAt": "2026-10-28T21:15:00.000Z",
+      "id": "c1f390f3b0054222",
+      "title": "코레일, AI 기반 서비스로 국제 표준 인증 획득 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XeHJ2dl9aODV6alpsbWxpUlB0TGdVTHVjNXd2ZlRhMUFEVVVJYUtSOVp3aGVldkdVaDcxcVlsRXVCdTNFNndzekJCVk9SSmFxY3AtckhYZjZqeG9zbmlHVGNXQ3R6aG1odjRpYm15b2NULUdC0gF0QVVfeXFMT1d4cnZ2X1o4NXpqWmxtbGlSUHRMZ1VMdWM1d3ZmVGExQURVVUlhS1I5WndoZWV2R1VoNzFxWWxFdUJ1M0U2d3N6QkJWT1JKYXFjcC1ySFhmNmp4b3NuaUdUY1dDdHpobWh2NGlibXlvY1QtR0I?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "코레일, AI 기반 서비스로 국제 표준 인증 획득 이뉴스투데이",
+      "publishedAt": "2026-10-29T10:31:55.000Z",
       "rank": 6
     },
     {
-      "id": "1f317da655906c53",
-      "title": "오젤, MEDICA 2026에서 O-Cyte 1로 AI 지원 혈액분석과 확장 가능한 검사 처리량 선보여 - 사람의 풍경",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fY3FtNVhvc2s4MVBTdmozcnhRZUJJUTRVVHk1RWtKM2gwbWotNWJMaTBuXzc3V0hNWUtGR1NFazFZZUg2eUE2alJFRnBIZWplSWw2SGxmVXlqM3AxV1VsRkZFYzl6YVhw?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "오젤, MEDICA 2026에서 O-Cyte 1로 AI 지원 혈액분석과 확장 가능한 검사 처리량 선보여 사람의 풍경",
-      "publishedAt": "2026-10-28T10:00:04.000Z",
+      "id": "e36bff9571af82bf",
+      "title": "한국수산과학회, 11월 5일 '2026 KOSFAS 국제심포지엄' 열어 - 현대해양",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16a2w2SG1Nd0ZRWFFCbndPc0JmMUhvaGpjcW1fZ3Rnb21hVklmdjRxUmFXMXhqajBNNWdvaVY2Ym5hU3dqd3BFZ3BnaC1EVDFaTnlNTWRpNnNNUVRseUtlQ29jYUJZVE0?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "한국수산과학회, 11월 5일 '2026 KOSFAS 국제심포지엄' 열어 현대해양",
+      "publishedAt": "2026-10-29T09:58:50.000Z",
       "rank": 7
     },
     {
-      "id": "a3947c45aab273f4",
-      "title": "`의료 현장도 AI 전환`… KT, `의료 AX 표준화 모델` 제시 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U0JKRGJmUUdINHJPTmNGeklRMnJrNmZjbVEzS2hJV0kzcDBiMTJyblhIMHdkZkxOMC01SXdneHRwRXBaazl1LXBMUmFJRjNESnZpRzZhVkRGR2M2RTRfYnd3?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "`의료 현장도 AI 전환`… KT, `의료 AX 표준화 모델` 제시 매일신문",
-      "publishedAt": "2026-10-28T08:46:29.000Z",
+      "id": "5ca357ac24b8a5ac",
+      "title": "대구기계부품연구원, 제조AI 기술교류회 개최…지역 기업 AI 전환 지원체계 강화 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VVk5nR05wb3o2NDFBYm1hSXFjS1pXVy05dWgtWTNXY1pKYmFvd2gtVnV2Z0RBTTgyOS0wMWxXS2RSdw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "대구기계부품연구원, 제조AI 기술교류회 개최…지역 기업 AI 전환 지원체계 강화 브레이크뉴스",
+      "publishedAt": "2026-10-29T08:50:09.000Z",
       "rank": 8
     }
   ],
@@ -225,7 +225,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-28T04:21:32.000Z"
+      "updatedAt": "2026-10-29T04:42:06.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
