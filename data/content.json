@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T04:37:54.536Z",
-  "projectsCheckedAt": "2026-10-30T04:37:54.536Z",
-  "projectsUpdatedAt": "2026-10-30T04:37:54.536Z",
+  "updatedAt": "2026-10-31T04:21:53.313Z",
+  "projectsCheckedAt": "2026-10-31T04:21:53.313Z",
+  "projectsUpdatedAt": "2026-10-31T04:21:53.313Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,7 +54,7 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-10-30T04:37:54.536Z",
+    "checkedAt": "2026-10-31T04:21:53.313Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
@@ -77,22 +77,49 @@
       "rank": 2
     },
     {
+      "id": "5c5e8fec01b60c6a",
+      "title": "영림원, 2026한국품질만족지수 ERP 부문 4년 연속 1위… AI 기반 제품 혁신 이어가 - FA저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53aGpiRk44c3ltbnlKWUJ3dkx2S21Fc0dPc01JcnJ6d2ZKN1AyMzRCdzIwQXlmTTdtSlkzZjBTbDhSM3V0ZFcxZ21fVFJUT1RzeXF5RW9tdGhFbm9tRkxiMkswUGFFLUZUS1Zj?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "영림원, 2026한국품질만족지수 ERP 부문 4년 연속 1위… AI 기반 제품 혁신 이어가 FA저널",
+      "publishedAt": "2026-10-30T02:18:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "f0a38fee3ee2c2fd",
+      "title": "[Fact Sheet] 제조AI 확대 1순위는 공정 제어… 확산과제는 인력 확보·데이터 연계 - FA저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUel81ZUxLQ3RZT1A0UzM2bWc4aUFFczM1M3ppTU9QOTZBd1I1U0RZM0k0dF9sRE80N2lxWWxPQW5tUzVTYnk0N1JKdUdLd3l5U2FpZm9rLUZHRVVoVW1wcU1DX3ZhbF9RelAw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[Fact Sheet] 제조AI 확대 1순위는 공정 제어… 확산과제는 인력 확보·데이터 연계 FA저널",
+      "publishedAt": "2026-10-30T02:17:33.000Z",
+      "rank": 4
+    },
+    {
       "id": "7b1595539c7d980f",
       "title": "‘AI 재활·돌봄’ 등 첨단 핵심 기술 국제표준화 해법 모색 - 이투데이",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QajEyQnFCcmdmSF9nQ0FXTDhUVjNDRjVZZ0syUHBWaEdfZTJXeFcyN19TT1BZTGgtZ2JtZHBVcy1FU1hENFVteTd0UHIzWFFneUpwOXpKeE81Zw?oc=5",
       "source": "Google News: AI standardization",
       "summary": "‘AI 재활·돌봄’ 등 첨단 핵심 기술 국제표준화 해법 모색 이투데이",
       "publishedAt": "2026-10-30T01:20:00.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
-      "id": "ade550ad82f69592",
-      "title": "코레일 'AI 음성 예매 서비스',국제표준 'ISO/IEC 42001' 인증 획득 - 한국철도일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LWHJ0TEZoYmJkeWc2eXZKYlV1M0djVml6TmllYWxJM2R6aWV3aVZLeDdtR3N5MUJzX0JSOFI5bmstZXlUcmxpemYwM1BWcWtpMWFwcVR6ZmdnQ3pHTXZORlNCczhoWW5pcTNOaVh1Q0E?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "코레일 'AI 음성 예매 서비스',국제표준 'ISO/IEC 42001' 인증 획득 한국철도일보",
-      "publishedAt": "2026-10-29T02:19:08.000Z",
-      "rank": 4
+      "id": "2945af093aa169fd",
+      "title": "Crowdworks Collaborates with Poseidon on Physical AI Data… Expanding Global Robot Training Data Supply Chain - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYVElNN2thcHhVdERscUFDWTJTck02cUJuNWF5akh0YlFfdkNpMjVDVzFsQ0E4aWhrcXVpQjJpTDQ3ZHVXVjFxQ1hnRXF2bTJPLWRV?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Crowdworks Collaborates with Poseidon on Physical AI Data… Expanding Global Robot Training Data Supply Chain 벤처스퀘어",
+      "publishedAt": "2026-10-30T00:38:53.000Z",
+      "rank": 6
+    },
+    {
+      "id": "7547d5220901a093",
+      "title": "KAI, 협력사 AI 교육 확대…2027년 맞춤형 실무교육 정규화 - 더퍼블릭",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zd3hqWFh1NUZHMmVDbkQzWjB4SWRiSW1rdXZWRFpVWnR3dHhsMkd5eXlSQWtESmVVUDEtc3FYSk41bkVJTDdZeG92eGNwX2hUYlgzd3BHcWRpLU1kQi1pVURBQnQ1YW95ZUtOTV9RWdIBb0FVX3lxTE0zd3hqWFh1NUZHMmVDbkQzWjB4SWRiSW1rdXZWRFpVWnR3dHhsMkd5eXlSQWtESmVVUDEtc3FYSk41bkVJTDdZeG92eGNwX2hUYlgzd3BHcWRpLU1kQi1pVURBQnQ1YW95ZUtOTV9RWQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "KAI, 협력사 AI 교육 확대…2027년 맞춤형 실무교육 정규화 더퍼블릭",
+      "publishedAt": "2026-10-29T12:07:19.000Z",
+      "rank": 7
     },
     {
       "id": "bf14ee025138c823",
@@ -101,98 +128,80 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "코레일, AI 경영시스템 국제표준 인증 획득 서울경제TV",
       "publishedAt": "2026-10-29T11:25:22.000Z",
-      "rank": 5
-    },
-    {
-      "id": "c1f390f3b0054222",
-      "title": "코레일, AI 기반 서비스로 국제 표준 인증 획득 - 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XeHJ2dl9aODV6alpsbWxpUlB0TGdVTHVjNXd2ZlRhMUFEVVVJYUtSOVp3aGVldkdVaDcxcVlsRXVCdTNFNndzekJCVk9SSmFxY3AtckhYZjZqeG9zbmlHVGNXQ3R6aG1odjRpYm15b2NULUdC0gF0QVVfeXFMT1d4cnZ2X1o4NXpqWmxtbGlSUHRMZ1VMdWM1d3ZmVGExQURVVUlhS1I5WndoZWV2R1VoNzFxWWxFdUJ1M0U2d3N6QkJWT1JKYXFjcC1ySFhmNmp4b3NuaUdUY1dDdHpobWh2NGlibXlvY1QtR0I?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "코레일, AI 기반 서비스로 국제 표준 인증 획득 이뉴스투데이",
-      "publishedAt": "2026-10-29T10:31:55.000Z",
-      "rank": 6
-    },
-    {
-      "id": "e36bff9571af82bf",
-      "title": "한국수산과학회, 11월 5일 '2026 KOSFAS 국제심포지엄' 열어 - 현대해양",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16a2w2SG1Nd0ZRWFFCbndPc0JmMUhvaGpjcW1fZ3Rnb21hVklmdjRxUmFXMXhqajBNNWdvaVY2Ym5hU3dqd3BFZ3BnaC1EVDFaTnlNTWRpNnNNUVRseUtlQ29jYUJZVE0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "한국수산과학회, 11월 5일 '2026 KOSFAS 국제심포지엄' 열어 현대해양",
-      "publishedAt": "2026-10-29T09:58:50.000Z",
-      "rank": 7
-    },
-    {
-      "id": "5ca357ac24b8a5ac",
-      "title": "대구기계부품연구원, 제조AI 기술교류회 개최…지역 기업 AI 전환 지원체계 강화 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VVk5nR05wb3o2NDFBYm1hSXFjS1pXVy05dWgtWTNXY1pKYmFvd2gtVnV2Z0RBTTgyOS0wMWxXS2RSdw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "대구기계부품연구원, 제조AI 기술교류회 개최…지역 기업 AI 전환 지원체계 강화 브레이크뉴스",
-      "publishedAt": "2026-10-29T08:50:09.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "fa22433e2d6abd01",
-      "title": "Design and replicate voices with Gemini 3.8 Flash TTS",
-      "url": "https://www.youtube.com/watch?v=SOF3_evPje8",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/SOF3_evPje8/hqdefault.jpg",
-      "publishedAt": "2026-10-21T19:00:23.000Z",
+      "id": "8d7bc89072e73b33",
+      "title": "KeyBank improves infra provisioning by 90% with Google Cloud; shrinks manual coding work with Gemini",
+      "url": "https://www.youtube.com/watch?v=jiKWyig4q2s",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/jiKWyig4q2s/hqdefault.jpg",
+      "publishedAt": "2026-10-29T13:43:51.000Z",
       "viewCount": 0
     },
     {
-      "id": "8d4ae182ed0a051b",
-      "title": "Turning raw hardware sensor data into music with Gemini",
-      "url": "https://www.youtube.com/watch?v=i3X7Fv0Z3Uc",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/i3X7Fv0Z3Uc/hqdefault.jpg",
-      "publishedAt": "2026-10-15T19:00:22.000Z",
+      "id": "d7453d471ce90d07",
+      "title": "DOE’s National Laboratory of the Rockies accelerates materials discovery with Google AI",
+      "url": "https://www.youtube.com/watch?v=frBkhuCcWzc",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/frBkhuCcWzc/hqdefault.jpg",
+      "publishedAt": "2026-10-28T21:39:36.000Z",
       "viewCount": 0
     },
     {
-      "id": "766de0a96b482411",
-      "title": "Gemini 4 Argon in Antigravity",
-      "url": "https://www.youtube.com/watch?v=nSwmcs37Jd4",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/nSwmcs37Jd4/hqdefault.jpg",
-      "publishedAt": "2026-10-15T16:00:02.000Z",
+      "id": "1b3373a91f6c675f",
+      "title": "Engage Humans and AI Simultaneously with Ace by Knotch on Google Cloud",
+      "url": "https://www.youtube.com/watch?v=DCEdDAx7cg0",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/DCEdDAx7cg0/hqdefault.jpg",
+      "publishedAt": "2026-10-28T15:46:24.000Z",
       "viewCount": 0
     },
     {
-      "id": "c64c673783a8b42f",
-      "title": "Gemini 4 Argon: What’s new and what’s next",
-      "url": "https://www.youtube.com/watch?v=Jh6mgf9M06M",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/Jh6mgf9M06M/hqdefault.jpg",
-      "publishedAt": "2026-10-14T17:01:36.000Z",
+      "id": "da17a2cb19a966ce",
+      "title": "Openreach drives towards a greener, more connected future with Gemini and BigQuery",
+      "url": "https://www.youtube.com/watch?v=Cv5gMYnPYwU",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/Cv5gMYnPYwU/hqdefault.jpg",
+      "publishedAt": "2026-10-28T13:35:45.000Z",
       "viewCount": 0
     },
     {
-      "id": "7004c4e8ce9f8fa7",
-      "title": "Gemini 4 Argon and Google Antigravity: From 2D concept to 3D cathedral",
-      "url": "https://www.youtube.com/watch?v=OYp5j2RihPE",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/OYp5j2RihPE/hqdefault.jpg",
-      "publishedAt": "2026-10-13T19:00:11.000Z",
+      "id": "741056e611dd6c31",
+      "title": "Hands on with Gemini 4 Argon: Amplitude",
+      "url": "https://www.youtube.com/watch?v=J3gOOWmkumg",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/J3gOOWmkumg/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:48:10.000Z",
       "viewCount": 0
     },
     {
-      "id": "7387ec26048b5e19",
-      "title": "Building low-latency remote robotics with Gemini",
-      "url": "https://www.youtube.com/watch?v=7sKHiuE7J-Y",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/7sKHiuE7J-Y/hqdefault.jpg",
-      "publishedAt": "2026-10-09T16:00:10.000Z",
+      "id": "5b674b80a8dc3ff4",
+      "title": "Hands on with Gemini 4 Argon: Deloitte",
+      "url": "https://www.youtube.com/watch?v=C-lkzrFqgcg",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/C-lkzrFqgcg/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:38:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "50687fb1399cf7cb",
-      "title": "Building with Gemma 4",
-      "url": "https://www.youtube.com/watch?v=fL9OBJO3Gu8",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/fL9OBJO3Gu8/hqdefault.jpg",
-      "publishedAt": "2026-10-08T23:00:09.000Z",
+      "id": "ecfd4ba0c7c0c9bb",
+      "title": "Hands on with Gemini 4 Argon: Rakuten",
+      "url": "https://www.youtube.com/watch?v=2NyOiKcZ9Rk",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/2NyOiKcZ9Rk/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:30:31.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "13d83da710deb57c",
+      "title": "New Way Now: How Google Cloud Consulting battle tests agentic AI to deliver faster for customers",
+      "url": "https://www.youtube.com/watch?v=5EM3N48cnWw",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/5EM3N48cnWw/hqdefault.jpg",
+      "publishedAt": "2026-10-27T16:14:36.000Z",
       "viewCount": 0
     }
   ],
@@ -225,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-10-29T04:42:06.000Z"
+      "updatedAt": "2026-10-30T04:41:59.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
