@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T04:42:53.140Z",
-  "projectsCheckedAt": "2026-11-02T04:42:53.140Z",
-  "projectsUpdatedAt": "2026-11-02T04:42:53.140Z",
+  "updatedAt": "2026-11-03T05:33:49.041Z",
+  "projectsCheckedAt": "2026-11-03T05:33:49.041Z",
+  "projectsUpdatedAt": "2026-11-03T05:33:49.041Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-02T04:42:53.140Z",
+    "checkedAt": "2026-11-03T05:33:49.041Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "5203a271a004be16",
-      "title": "LG유플러스 평촌2센터, 에너지경영시스템 'ISO 50001' 인증 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lMjRMS2NHbG5KZmVCdUdqd3BSeWRwX3ZqaGwzVm9vOURQM3NKdFp0dm1fNktaT1Utc2NXLVRjSlZ5T0dhTjFV?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "LG유플러스 평촌2센터, 에너지경영시스템 'ISO 50001' 인증 브레이크뉴스",
-      "publishedAt": "2026-11-02T03:02:00.000Z",
+      "id": "1507600d5bc9af6e",
+      "title": "순천향대 스마트제조공학과, 강원 정선서 'AI·스마트팩토리·ISO/IEC 42001' 세미나 성황리 개최 - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OcUY4cU01TU9ydEdMb3liT0dMckhLejFtOXd0Z1pXMFowQldKZUVnLVNrUTd6b0gxcmNDRlJVRmhIeGMtUm93a1RoTVA4aW9Bcnl4c1o4MnFJcF92NG10cDdldDRTUnRY?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "순천향대 스마트제조공학과, 강원 정선서 'AI·스마트팩토리·ISO/IEC 42001' 세미나 성황리 개최 공감신문",
+      "publishedAt": "2026-11-03T03:20:00.000Z",
       "rank": 1
     },
     {
-      "id": "038f8d5e15529663",
-      "title": "슈퍼컴 '한강', 연산성능 24배 높여 국가전략 R&D까지 품는다 - 서울이코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hcVZva0Z1allNYzcxdjVscUN1YlJvcTFrSl9VcWNsRWNuYy02VC1FbkE2cTJzSUVfS1oycklQWGdlbnEwa3ZNWHRVY1hMZTJ1cjdmUlBkSVZRZU16WGdfOEJ5OUJvV3YyZldfQTR3?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "슈퍼컴 '한강', 연산성능 24배 높여 국가전략 R&D까지 품는다 서울이코노미뉴스",
-      "publishedAt": "2026-11-02T02:52:24.000Z",
+      "id": "4f92592f224e7668",
+      "title": "네이버, 검색 기반 ‘AI 탭’ 국내 최초 ISO/IEC 42001 인증 획득 - 이코노미스트",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0X0VueDlJQkpXOVVsak0xbl80MDB0RVR5Z2lKYkFKazdrbVBmMkowYjFVTDlPX2VQOEJuaktvQmt2cXlwclBnQXkxZ3YzRm5GWlRVb2lQRXZBT25TTmJOM3ZB?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "네이버, 검색 기반 ‘AI 탭’ 국내 최초 ISO/IEC 42001 인증 획득 이코노미스트",
+      "publishedAt": "2026-11-03T00:58:00.000Z",
       "rank": 2
     },
     {
-      "id": "78e2564088957f36",
-      "title": "국가 슈퍼컴퓨터 6호기 '한강' 본격 가동...국가전략 R&D 중점 지원 - 파이낸셜신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpb0gtMEFRUFNzU2Q3NkFMUGE1RE9wNDFjTVdkQ3pWSHQtUEw1d2dSTTBqX0hNVEI3M0IxQnY4MzRta1NQamhubWFqQW5QM2VzaExOQnQyNkFsbkZfZnJMMGFUY0xDWnRnVjZB?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "국가 슈퍼컴퓨터 6호기 '한강' 본격 가동...국가전략 R&D 중점 지원 파이낸셜신문",
-      "publishedAt": "2026-11-02T01:42:00.000Z",
+      "id": "63495e53c9b18d3e",
+      "title": "UPA, AI ‘도입’ 넘어 ‘관리’까지…ISO 42001 심사원 2명 확보 - 해사신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBveXhNaVRYeXhqamdCckZEaUtuR1BOME85LTdKTG9qelAwYUFGSE5UUU1NOWdhcl9Scks1SHNFUEJGQ05oemNlUl9hRE1xaW13ejFoeEVfSlljWXJpSWhFXzdNTnprZ2NiY2tF?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "UPA, AI ‘도입’ 넘어 ‘관리’까지…ISO 42001 심사원 2명 확보 해사신문",
+      "publishedAt": "2026-11-03T04:48:20.000Z",
       "rank": 3
     },
     {
-      "id": "7ad31f9a8dcf305c",
-      "title": "李대통령 \"R&D 예산 역대 최대 39.5조…NEXT 전략기술에 13.8조\" - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kU015YWZDNTdWdjU2bDcxa1Q1NnB2aVZMSDFUMlU2Uno2eTR4N1prRnpib3dKVlByLTVYdFlZVjRiYjFTaXJwOHlvY0RCZFhtWlk5endOM3JFSG4tWXVwRFpJczJZaVFLVFc2OS0yaUnSAXRBVV95cUxPRXFFWlJfTVpabHY5ZkZoZ1J0RjhFc2xLU2hZQnJMeUtyMlp1ZDBQZnFKZXdURjRrTXpNTjZ4QUg3dURMRXF2dlo3WHg2ZWdfa3c0Q3lwcl9pVzh0SjZ0TWthY2luSTlyb001OGtBWWN2LWRRag?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "李대통령 \"R&D 예산 역대 최대 39.5조…NEXT 전략기술에 13.8조\" 연합인포맥스",
-      "publishedAt": "2026-11-02T01:26:04.000Z",
+      "id": "17210bf4f4276790",
+      "title": "네이버, ‘AI탭’ ISO 42001 인증 획득 - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN2thOE1LTWlsbTl1QlIyeGgxX3lHTXA2RUtrckFPRmloQV91UGpybURQckNoSmExMGo1Q3pIekRnbkMxUmdNYVcwWDNUQXpKOGkyc20zYmdYM0hlS1pCRmVOVlRjTmM1NHYyUFZ3OUXSAXRBVV95cUxObnBpcVBFV0hYS0Jqb2V1ZnpQU1NXc2Jka0xxU1RoTmR6eWtFVG15RVltdVZiRHpmVjROWWpBV2NnS1dPRlhqLVNLMzRYQlNlWU9RU2FtRkRBUHBtUFEtTmRzTGo1U3E3ZUpwRlliWC1DdmQ5Ng?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "네이버, ‘AI탭’ ISO 42001 인증 획득 주간한국",
+      "publishedAt": "2026-11-03T02:44:02.000Z",
       "rank": 4
     },
     {
-      "id": "3ac40b2c4c582e14",
-      "title": "[Who Is ?] 허세홍 GS칼텍스 대표이사 부회장 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lc1JSekM2UE95cHRVd3J2N3VjaUpfakFkUjhlek5MajkzbjAwMzA2NHVLOW5EX3I2Rm14VDU3RGczVWxZVjAzYW5ST0tPWFQxNlY3VGNfZDN4ZjNzSmViWF9BMktqXy1lbDc3ZVRZMVBHTFU?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "[Who Is ?] 허세홍 GS칼텍스 대표이사 부회장 비즈니스포스트",
-      "publishedAt": "2026-11-01T22:00:00.000Z",
+      "id": "32e78ec570800232",
+      "title": "네이버, 'AI 탭' ISO 42001 인증…AI 안전 체계 구축 검증 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SYWZ2N2ZGdmVJSURJVEVnbXUtX0lQMFRGQXQ1Rmx4eWxHaWY2WVdNQnlhOXpjZWNKODM0UHJrdWdHR3JIN1RFWmVHT0lwaHBrcmJONzZoS2JjMVVRWUQzM2NiM3NSMlc1Uy1WUGQ2TdIBc0FVX3lxTE94ZmI3TmVydC1BN2o4YmQ3VkctRTFUUHhaR3ZoNGk4bDIyN2hRaEI4SngzX1hBNmNVRUdBN0ZpV3gwWW9JVE15UVB5N0JxdTBtTmdMeUlpNTZ3bmUwS1hJYWR0RTh0VE9pTk1rU2Q4WUVGZ1k?oc=5",
+      "source": "Google News: ISO IEC AI",
+      "summary": "네이버, 'AI 탭' ISO 42001 인증…AI 안전 체계 구축 검증 데일리한국",
+      "publishedAt": "2026-11-03T00:28:48.000Z",
       "rank": 5
     },
     {
-      "id": "90aafcfaf7db1a75",
-      "title": "[해외사례] 브라반트 워터, ‘Xylem Vue’ 활용 상수도 공급 전 과정 첨단 디지털화 - 워터저널",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVnhGclBBM0lfZ3lHb3p0YTdCcGxWd2dsZTB4QmE0cmc1RmJuOFJxWDludXU3RGUzRVdrUTNsd0VoTlozSXdiZnNWYk1Cdmh5MUZ4UmtEVnVoYl9GY1JpS0hjM00xTU5IbG1jTTV5T3hVNHdkeFHSAXZBVV95cUxPX1Z4RnJQQTNJX2d5R296dGE3QnBsVndnbGUweEJhNHJnNUZibjhScVg5bnV1N0RlM0VXa1EzbHdFaE5aM0l3YmZzVmJNQnZoeTFGeFJrRFZ1aGJfRmNSaUtIYzNNMU1OSGxtY001eU94VTR3ZHhR?oc=5",
+      "id": "1d2ca6b68756fd8d",
+      "title": "\"구글이 포기한 XML, 한국 기술로 완성했다\"… 3K그룹, 11일 서울대서 ‘AutoXML’ 공개 포럼 - 블록체인투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hWGhHd3czUm5PbHBHbWd6YWRneEc0WTIxaHNLR3dSek5LREFOLXE1M09oay0xRTNLNVFBQUpTUUZUejNhRk5ybGVyMW5rMTdRQ3djLVQ3bXVIN2xXUFlpYlhhekFiNEQ3ZXQ5Vkw4aWQ?oc=5",
       "source": "Google News: Digital Transformation",
-      "summary": "[해외사례] 브라반트 워터, ‘Xylem Vue’ 활용 상수도 공급 전 과정 첨단 디지털화 워터저널",
-      "publishedAt": "2026-11-01T14:10:13.000Z",
+      "summary": "\"구글이 포기한 XML, 한국 기술로 완성했다\"… 3K그룹, 11일 서울대서 ‘AutoXML’ 공개 포럼 블록체인투데이",
+      "publishedAt": "2026-11-03T05:17:20.000Z",
       "rank": 6
     },
     {
-      "id": "b4081ccd432180da",
-      "title": "한국 제조업 미래 진단 프로젝트 ⑥ - AX는 결국 운영 방식 자체를 다시 짜는 문제다 - MFG Inc",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EaDdYNVFHelRZRGs5NkplY0JjZDAtT25LNkktR2dsMzUwTWEzMjJ2Wko4alhGejNCaVJ3enhLbE9qS3FoOUpXREJvT0k2SFJfQnA2YmtCNnZEM1REYkhWWEtTTldfQQ?oc=5",
+      "id": "00bc7a3a97fe5963",
+      "title": "[기업포커스] 뉴놉, 숙련자의 경험을 데이터로…‘불량검사 넘어 원인 분석’ 제조 품질 AI 기술 고도화 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92bTFTY2ZjbHJ0dVVuYmlJd012SHFuSWRvcG5VTzNWNE42NC1BMklkVVlLMVEzbV9UQVAyMG9OQkwxMVFzc2F4bnZpUTMwWUFrLVpXTWpVaWZXaGhpdlg5VnpxWU9LM0x2X2ZWZXVibGJpUQ?oc=5",
       "source": "Google News: AI Data Quality",
-      "summary": "한국 제조업 미래 진단 프로젝트 ⑥ - AX는 결국 운영 방식 자체를 다시 짜는 문제다 MFG Inc",
-      "publishedAt": "2026-11-01T12:17:20.000Z",
+      "summary": "[기업포커스] 뉴놉, 숙련자의 경험을 데이터로…‘불량검사 넘어 원인 분석’ 제조 품질 AI 기술 고도화 아웃소싱타임스",
+      "publishedAt": "2026-11-03T02:32:22.000Z",
       "rank": 7
     },
     {
-      "id": "1f5d746b9af7dc79",
-      "title": "국방으로 넓어지는 로봇 시장…주파수·실증·표준화 등 과제 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tUHI1RzQ3ekRtXzZvWnFtMzBoZlVVMEMzcEFyNGhXcHhPREE5REZJUE9fanhiZmE3NG5rN0pVenJNYzVXYUQtakRVbk5aZw?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "국방으로 넓어지는 로봇 시장…주파수·실증·표준화 등 과제 전자신문",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
+      "id": "ca344ea835f8d3b4",
+      "title": "네이버 ‘AI탭’, AI 경영시스템 국제표준 인증…국내 기업 최초 - www.fetv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRnhkZndwXzRyWVZfbUJoSkxNbDA4ZHY5R2dvbkkyemJjeTc1LW1PbWIzRklzT0F4dzdzblVTSEtqRzFUbkYyVkdVY3FuUV9DWlhtY3FpM1JrZEFOYWJGWXNJWkZlakNo?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "네이버 ‘AI탭’, AI 경영시스템 국제표준 인증…국내 기업 최초 www.fetv.co.kr",
+      "publishedAt": "2026-11-03T00:40:16.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-01T04:45:15.000Z"
+      "updatedAt": "2026-11-02T04:46:57.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
