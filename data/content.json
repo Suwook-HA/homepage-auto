@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T05:24:56.729Z",
-  "projectsCheckedAt": "2026-11-05T05:24:56.729Z",
-  "projectsUpdatedAt": "2026-11-05T05:24:56.729Z",
+  "updatedAt": "2026-11-06T05:24:10.359Z",
+  "projectsCheckedAt": "2026-11-06T05:24:10.359Z",
+  "projectsUpdatedAt": "2026-11-06T05:24:10.359Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-05T05:24:56.729Z",
+    "checkedAt": "2026-11-06T05:24:10.359Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "b3b46d75ffbbd973",
-      "title": "현대건설, 현장 품질관리 전 과정 디지털 전환 가속 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdENjUS1zN0YwT29QRkNuU1VyY1hQcDZjVzM3bTFRR3pvOFZwOV9GSFhhSmhUOW1reWF6cDROUF9hZGt6V0JHVW1kbk54T3MwdFNwb0hyWmJDRU9veVk1amNNR2ZCNVdMckl6VjhwaWRaeUhDMXB0NFM2X2VTRjVvVnNjalZDMDlCNmZQM1lRX0FXR1hMNEhZcEQ5S0lpQUpYOWY2M2QxS0Ywd3Rjd1pYNFNXOEpoaXM?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "현대건설, 현장 품질관리 전 과정 디지털 전환 가속 | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
-      "publishedAt": "2026-11-05T01:25:00.000Z",
+      "id": "cbc8b2945c4a3f57",
+      "title": "Coway Tops Korean Standard-Service Quality Index in Two Categories - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdUlmbnRKd3RSZ3U5RExMZU9fd0FLcHN2QV9HLUpXY3lmTE1fOHUzWGt0OUs5Sk1FTlR6MzJxS0w4YV9RWERtYlVjNXhoNUJJYlNrbEJZWXdCRWdOaXktNlU1Z0o4d0E?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "Coway Tops Korean Standard-Service Quality Index in Two Categories THE ELEC, Korea Electronics Industry Media",
+      "publishedAt": "2026-11-06T03:00:13.000Z",
       "rank": 1
     },
     {
-      "id": "3524c3245a89297d",
-      "title": "부산 불꽃축제 120만 몰린다…SKT, AI로 통신 품질 관리 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jUU5HSzB5UlhlS3VNQ29ySTlrUGloVWVYMTlUWThPZ2ZMYXpaZl9Vem9XOTI0NzE5dTIyU0tnb1JldkNaQU9XdC1aV1NERXVPNXQxanJlZ2dKQ1ZJU0wyWDg0S25Ddk3SAWxBVV95cUxPYnZLNERZc19acThDZmo0T3JlRnEtaHdyNGRhX3VGdF92Ukc2RElGQVhBRVp0by12WmNPVnRxclo4NThQM1h2SlFsVjdzc2o2UEREQkpOM29RZHlTaHhsaFZURWFZdFJCQ1ZteFI?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "부산 불꽃축제 120만 몰린다…SKT, AI로 통신 품질 관리 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-05T00:02:52.000Z",
+      "id": "d6b724e8aa632793",
+      "title": "그래파이, ISO/IEC 27001 인증 획득…기업용 AI 데이터 보안 신뢰성 강화 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBROTdCbVItS3V1VHhWa2tBNjE3R01Dc29mWUZEVVpsd0tZTG9NaGlHNnliTHdUYXZjVFhhMC1GOWVrRGJjTlc3NXZUOERfbjk3eU9uT3VPN0w4TnVSMzBtS1RjTXZMR2xtTEpDNHlJbThuZ9IBckFVX3lxTFBROTdCbVItS3V1VHhWa2tBNjE3R01Dc29mWUZEVVpsd0tZTG9NaGlHNnliTHdUYXZjVFhhMC1GOWVrRGJjTlc3NXZUOERfbjk3eU9uT3VPN0w4TnVSMzBtS1RjTXZMR2xtTEpDNHlJbThuZw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "그래파이, ISO/IEC 27001 인증 획득…기업용 AI 데이터 보안 신뢰성 강화 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-05T08:24:36.000Z",
       "rank": 2
     },
     {
-      "id": "9e7bf8d8947ef229",
-      "title": "인공지능의 전환 위한 AX로의 길목 - 테크월드",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SS05VkxRYnZWbC1BRnVGdmpMU3Q4T0twMEh0Tl9OblZLYzFjZ1JMci1WUVBlUERRX3doWEpuUVdPTElVNzhOeENGdG96QVhEYzNzV3FYQk9FenF5NGRpNzlicU1SaVJq?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "인공지능의 전환 위한 AX로의 길목 테크월드",
-      "publishedAt": "2026-11-04T23:00:00.000Z",
+      "id": "29c7abb408f46db9",
+      "title": "글로벌 증시 폭락발 투매 심화, AI 사이클 대응 전략 - 네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bHd0YU1NNFZXOW9xNDhaVkN4UXVMT1RPc0Y1cnBISEprcUtydExOdmUwLUJTMlZ2TlhIY2dydXh3cXVLRzZTMEwxX3dxamNPLU90RUstaVFUZw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "글로벌 증시 폭락발 투매 심화, AI 사이클 대응 전략 네이버페이 머니스토리",
+      "publishedAt": "2026-11-06T02:08:58.000Z",
       "rank": 3
     },
     {
-      "id": "7dc1c6c739fec0ae",
-      "title": "Cleon Receives Deputy Prime Minister's Award for Developing International Standards for Digital Humans... Expanding Commercialization of AI Humans at Seoul Station and Samsung Life Insurance - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XUlE3Y1hsdmZtT1lvQzlEVndIOVZLRndvSF9XMms2Y1hnN1VzM3JJazZERVM5VmtGdkJBeG84em5TQUY4bmM4RDA3eEN1ZUEyRHcw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "Cleon Receives Deputy Prime Minister's Award for Developing International Standards for Digital Humans... Expanding Commercialization of AI Humans at Seoul Station and Samsung L...",
-      "publishedAt": "2026-11-03T23:34:17.000Z",
+      "id": "2869534d75b8ac75",
+      "title": "이비소프트, AI가 요구사항부터 배포까지… 'DefectMATE AI'로 소프트웨어 업무 전주기 연결 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82ZVJTLUZRb2NtMnJyR2NmYkkwcWY1TjFYZk14eGptc1pka3hpM0JzOW5RMmNsTzJjOTZOOG9uVzJ4WnZMTzltVjhyaWpLQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "이비소프트, AI가 요구사항부터 배포까지… 'DefectMATE AI'로 소프트웨어 업무 전주기 연결 전자신문",
+      "publishedAt": "2026-11-06T01:28:05.000Z",
       "rank": 4
     },
     {
-      "id": "1d82998424954b9a",
-      "title": "﻿﻿﻿﻿“Korea’s No. 1 CRO embraces AX too” – C&R Research drives company-wide adoption of ‘generative AI’ - 더바이오",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tOGV0Sk5IUGhIWVZDZkNFQlFRUEszUE9VaTJXMGlSTEotWTRHeUp3T00xVnRkQmM5a2F4N3AtaWZmanFSYm9JMUM2Mk01ek01SmNXbmliNlVHY2pxa3JyWmRjVndZbzFhc3NibdIBcEFVX3lxTFBNeUxid2FRR3ZobDNrYVZ2dHg0NXpBUkNaU3dta2xRa2JYcUFsSXp4bmE3UDF1U09aQ2JjU194TFJBTU4yR0R2QVBJQzhqZnU5WnZZVld1NG1qd1h5RkJoQXRiU2xuVmVhSUEtQTg4S1E?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "“Korea’s No. 1 CRO embraces AX too” – C&R Research drives company-wide adoption of ‘generative AI’ 더바이오",
-      "publishedAt": "2026-11-04T08:22:23.000Z",
+      "id": "b5c241b5580ab786",
+      "title": "축평원, AI 등급판정 혁신 사례 최우수상…축산유통 현장 적용 확대 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IMXZzWXVvckY5OEZyNWpSclRscVNnYkptc21kWmFsOVZGWWJkUTBOb1RZRW9aWjZmZ2J1YzhjbjRuZ0liRmNqMW9qc1VJNkJEVDBsMzFiQmNJWU9qWTUxRlBKY1YyeWpLTF9iRmRNdU7SAXBBVV95cUxPSDF2c1l1b3JGOThGcjVqUnJUbHFTZ2JKbXNtZFphbDlWRlliZFEwTm9UWUVvWlo2ZmdidWM4Y240bmdJYkZjajFvanNVSTZCRFQwbDMxYkJjSVlPalk1MUZQSmNWMnlqS0xfYkZkTXVO?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "축평원, AI 등급판정 혁신 사례 최우수상…축산유통 현장 적용 확대 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-05T22:46:04.000Z",
       "rank": 5
     },
     {
-      "id": "d03ab8c482148f1e",
-      "title": "차량 외관 품질 검사의 정확도를 향상시키는 비전 AI 기술 | 영상미디어 | 현대자동차그룹 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE5FN2d3OXZVT1VxZC1zc1ZxbktLZkNqRmEzUXlzckpaTWs4X3BVbF92dUh1aXBWN3lwLUJWZXR0VHRmM29DSUNEOUNJd3M3ZHJfSklXTFc5dmFwTWYzNXh5SW5fTVllTUxxYUFweEdoMGhKX3hxWmdUbXZ4WG9jUWtUS3FoakhWWkMtbmQ5RU1UREs1OXJNaHNn?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "차량 외관 품질 검사의 정확도를 향상시키는 비전 AI 기술 | 영상미디어 | 현대자동차그룹 Hyundai Motor Group",
-      "publishedAt": "2026-11-04T08:03:29.000Z",
+      "id": "8d6f743e3b9bc618",
+      "title": "농협, AI·디지털 아이디어 경연…“농업·농촌 DX 선도하겠다” - 뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU3B1dzR0bHlsUERGNGlKaHZQYTRCQ3pOTVY5T2trdm5PNTUwTVdNeXdacUlaZUZhOXBMbTFRRzQydnlsSVNVRERRNlBsMER3UHJIcFd1eUZzYzRnSFZVX0pCd0YweGVuV0d30gFvQVVfeXFMTUxLVDM4VUxDVDVjOHc5Sy1odXBYbERRV1lSMDFwTGw5SllvQm5KQUhDMkhZOTRqYzhoN2dfbXpDdGI3N1NmVTdnNlBTMUF5dDE4bm04MVlFcXJtS2t0VFAyMFI2Z1EwLUY4bXA1SlJn?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "농협, AI·디지털 아이디어 경연…“농업·농촌 DX 선도하겠다” 뉴스로드",
+      "publishedAt": "2026-11-05T22:45:36.000Z",
       "rank": 6
     },
     {
-      "id": "210cf8a91e0d5796",
-      "title": "물류로봇 표준화 플랫폼, 스마트 물류 솔루션 | 영상미디어 | 현대자동차그룹 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDcwRGVhRnJzbXlKcjlOTW1FTkFCY1luLWlDTE5OcFoyQVRfem5zdS1vcm5ncGVuR1hPd2JLZEN2TkZjeENreTBtMHFTSW5CZVNCa0lGY0RmY0NnNnI3OGJXaTdzYTdrN2xteHduWDdDS3RaZnZoaC02TmNHT3NZNG9WMmRTclp3Zkhya0F4UQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "물류로봇 표준화 플랫폼, 스마트 물류 솔루션 | 영상미디어 | 현대자동차그룹 Hyundai Motor Group",
-      "publishedAt": "2026-11-04T07:58:06.000Z",
+      "id": "35ed292a295cd5dc",
+      "title": "AIVEX Applyes Physical AI to Huseong Precision… Automating Everything from Robot Bin Picking to Quality Inspection - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUlNEcjR0bXpFQk83NmpIZ3dZOEhlcU01RWgxTGh5UzFhRUx3S2xRZzUwWFdwVXR2cjhsS3o2OUZhbjdKWV93Z1RwNzFZdjRpNXlR?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AIVEX Applyes Physical AI to Huseong Precision… Automating Everything from Robot Bin Picking to Quality Inspection 벤처스퀘어",
+      "publishedAt": "2026-11-05T00:43:27.000Z",
       "rank": 7
     },
     {
-      "id": "22b6ad6641648761",
-      "title": "클레온, GISC 2026서 '과기정통부 장관상 수상 | - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sTGRxcWFxejJ2TEdya3p3VXAxbjRLMFpMN0NfQllvQ255RlIzcmhQTWVpQ1lXakhXTUdHakV6cTFZRWRVTklMWF96eHVZNXk0NURyT1ZRY3BTQUF6YkpPSXZyRzZQcDk1WThVMDB1UQ?oc=5",
+      "id": "b3272f914673adf4",
+      "title": "미래기술전략포럼 \"AI 에이전트, 신뢰성 검증·사고 책임 기준 마련해야\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZnl5VEpkdnYtTGdDX19CUnNZV1J6UGZBQnlzc2V3TTZOM29yS0wtX0dyU3pRWTBreWNSQmZmTWZ0ckVwdmtsVXhOVXVqcDRBOUppYWln?oc=5",
       "source": "Google News: ITU-T standardization",
-      "summary": "클레온, GISC 2026서 '과기정통부 장관상 수상 | 한스경제",
-      "publishedAt": "2026-11-04T07:33:13.000Z",
+      "summary": "미래기술전략포럼 \"AI 에이전트, 신뢰성 검증·사고 책임 기준 마련해야\" 지디넷코리아",
+      "publishedAt": "2026-11-05T09:42:36.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-04T05:06:21.000Z"
+      "updatedAt": "2026-11-05T05:29:01.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
