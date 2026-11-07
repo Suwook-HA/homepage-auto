@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T05:24:10.359Z",
-  "projectsCheckedAt": "2026-11-06T05:24:10.359Z",
-  "projectsUpdatedAt": "2026-11-06T05:24:10.359Z",
+  "updatedAt": "2026-11-07T04:52:29.056Z",
+  "projectsCheckedAt": "2026-11-07T04:52:29.056Z",
+  "projectsUpdatedAt": "2026-11-07T04:52:29.056Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,18 +54,54 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-06T05:24:10.359Z",
+    "checkedAt": "2026-11-07T04:52:29.056Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "cbc8b2945c4a3f57",
-      "title": "Coway Tops Korean Standard-Service Quality Index in Two Categories - THE ELEC, Korea Electronics Industry Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdUlmbnRKd3RSZ3U5RExMZU9fd0FLcHN2QV9HLUpXY3lmTE1fOHUzWGt0OUs5Sk1FTlR6MzJxS0w4YV9RWERtYlVjNXhoNUJJYlNrbEJZWXdCRWdOaXktNlU1Z0o4d0E?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "Coway Tops Korean Standard-Service Quality Index in Two Categories THE ELEC, Korea Electronics Industry Media",
-      "publishedAt": "2026-11-06T03:00:13.000Z",
+      "id": "56aa4e5e94d8892f",
+      "title": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 - 건설이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWS2lXQUR2YUt6YUhQTGFMcXV4MzhvSUpFYnFCRlN1VWxtX2ZaeFAzd3phMVN1RDZiOUgzTmdPVG9TUjh3UTRoV2JCWjRiNzJaTFlNVFFON3ZVdm5yZnFNMGNkSWtzQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 건설이코노미뉴스",
+      "publishedAt": "2026-11-06T08:42:32.000Z",
       "rank": 1
+    },
+    {
+      "id": "01ef286bf918d214",
+      "title": "식재료 담는 로봇·품질 선별하는 AI…식품 스마트팩토리 표준화 논의 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUxiWE5Fcnl6WEdVM2U2Ni1rbmh1a0FhbWFMX3JiVjFNQTc3UDVqcHpGWXJNSUJKZzZEemkzbFVMczFsZ0tkWkc0RmpQcmpiVk51LUhodHdfUUlnNTV2a2RXaGxRU1Y5LWFWOURVcGcxWjVjb21xMXhhZmdZa1g2RQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "식재료 담는 로봇·품질 선별하는 AI…식품 스마트팩토리 표준화 논의 이데일리",
+      "publishedAt": "2026-11-06T08:30:02.000Z",
+      "rank": 2
+    },
+    {
+      "id": "3199375c90420133",
+      "title": "AI·로봇 식품 제조 혁신 속도 식품…푸드테크 기술 표준화 논의 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10M0xkWlY1QzZZaWJENFU4Z19NeTczaXdBTmpMZ1UyalZwdmk2Z2t3Qk5wQWlLdW1xcU1WTXVVUHVuZkZBbEZnbUJRQlMxZw?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "AI·로봇 식품 제조 혁신 속도 식품…푸드테크 기술 표준화 논의 전자신문",
+      "publishedAt": "2026-11-06T08:30:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "fb2957c7d249dadf",
+      "title": "우태희 효성중공업 대표, '글로벌품질경영인대상' 수상 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wVlRWUEtNeHdzZDA4ZnJSNTZlT050Q185enV0YmxvbEQwMDhVNm5PcXY2dTNzQTUtcjl6NHYzbElSZw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "우태희 효성중공업 대표, '글로벌품질경영인대상' 수상 브레이크뉴스",
+      "publishedAt": "2026-11-06T06:27:00.000Z",
+      "rank": 4
+    },
+    {
+      "id": "e426038f4d8a3c97",
+      "title": "“반복 업무는 AI에게, 엔지니어는 품질 집중”… 와이즈스톤, 테스트 자동화 플랫폼 'TestClaw' 공개 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84a0RKWTR6LTY5OU4tRzA5czhzNk5BWk9PdWpEYVN1a3VaQ0JjNGgwaWpRNjVGekVYU3FONVE4RkJTUHlWekpJVk13akJ3Zw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "“반복 업무는 AI에게, 엔지니어는 품질 집중”… 와이즈스톤, 테스트 자동화 플랫폼 'TestClaw' 공개 전자신문",
+      "publishedAt": "2026-11-06T05:46:06.000Z",
+      "rank": 5
     },
     {
       "id": "d6b724e8aa632793",
@@ -74,7 +110,7 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "그래파이, ISO/IEC 27001 인증 획득…기업용 AI 데이터 보안 신뢰성 강화 - 머니투데이 머니투데이",
       "publishedAt": "2026-11-05T08:24:36.000Z",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "29c7abb408f46db9",
@@ -83,7 +119,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "글로벌 증시 폭락발 투매 심화, AI 사이클 대응 전략 네이버페이 머니스토리",
       "publishedAt": "2026-11-06T02:08:58.000Z",
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "2869534d75b8ac75",
@@ -92,116 +128,80 @@
       "source": "Google News: AI Data Quality",
       "summary": "이비소프트, AI가 요구사항부터 배포까지… 'DefectMATE AI'로 소프트웨어 업무 전주기 연결 전자신문",
       "publishedAt": "2026-11-06T01:28:05.000Z",
-      "rank": 4
-    },
-    {
-      "id": "b5c241b5580ab786",
-      "title": "축평원, AI 등급판정 혁신 사례 최우수상…축산유통 현장 적용 확대 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IMXZzWXVvckY5OEZyNWpSclRscVNnYkptc21kWmFsOVZGWWJkUTBOb1RZRW9aWjZmZ2J1YzhjbjRuZ0liRmNqMW9qc1VJNkJEVDBsMzFiQmNJWU9qWTUxRlBKY1YyeWpLTF9iRmRNdU7SAXBBVV95cUxPSDF2c1l1b3JGOThGcjVqUnJUbHFTZ2JKbXNtZFphbDlWRlliZFEwTm9UWUVvWlo2ZmdidWM4Y240bmdJYkZjajFvanNVSTZCRFQwbDMxYkJjSVlPalk1MUZQSmNWMnlqS0xfYkZkTXVO?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "축평원, AI 등급판정 혁신 사례 최우수상…축산유통 현장 적용 확대 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-05T22:46:04.000Z",
-      "rank": 5
-    },
-    {
-      "id": "8d6f743e3b9bc618",
-      "title": "농협, AI·디지털 아이디어 경연…“농업·농촌 DX 선도하겠다” - 뉴스로드",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU3B1dzR0bHlsUERGNGlKaHZQYTRCQ3pOTVY5T2trdm5PNTUwTVdNeXdacUlaZUZhOXBMbTFRRzQydnlsSVNVRERRNlBsMER3UHJIcFd1eUZzYzRnSFZVX0pCd0YweGVuV0d30gFvQVVfeXFMTUxLVDM4VUxDVDVjOHc5Sy1odXBYbERRV1lSMDFwTGw5SllvQm5KQUhDMkhZOTRqYzhoN2dfbXpDdGI3N1NmVTdnNlBTMUF5dDE4bm04MVlFcXJtS2t0VFAyMFI2Z1EwLUY4bXA1SlJn?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "농협, AI·디지털 아이디어 경연…“농업·농촌 DX 선도하겠다” 뉴스로드",
-      "publishedAt": "2026-11-05T22:45:36.000Z",
-      "rank": 6
-    },
-    {
-      "id": "35ed292a295cd5dc",
-      "title": "AIVEX Applyes Physical AI to Huseong Precision… Automating Everything from Robot Bin Picking to Quality Inspection - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUlNEcjR0bXpFQk83NmpIZ3dZOEhlcU01RWgxTGh5UzFhRUx3S2xRZzUwWFdwVXR2cjhsS3o2OUZhbjdKWV93Z1RwNzFZdjRpNXlR?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "AIVEX Applyes Physical AI to Huseong Precision… Automating Everything from Robot Bin Picking to Quality Inspection 벤처스퀘어",
-      "publishedAt": "2026-11-05T00:43:27.000Z",
-      "rank": 7
-    },
-    {
-      "id": "b3272f914673adf4",
-      "title": "미래기술전략포럼 \"AI 에이전트, 신뢰성 검증·사고 책임 기준 마련해야\" - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZnl5VEpkdnYtTGdDX19CUnNZV1J6UGZBQnlzc2V3TTZOM29yS0wtX0dyU3pRWTBreWNSQmZmTWZ0ckVwdmtsVXhOVXVqcDRBOUppYWln?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "미래기술전략포럼 \"AI 에이전트, 신뢰성 검증·사고 책임 기준 마련해야\" 지디넷코리아",
-      "publishedAt": "2026-11-05T09:42:36.000Z",
       "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "77029fb3112ec3a0",
-      "title": "There are many futures. Which do you want to build?",
-      "url": "https://www.youtube.com/watch?v=o4D1J1YWjhg",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
-      "publishedAt": "2026-10-30T20:17:12.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "6a5202ae61afbffe",
-      "title": "Intel Tumbles on PC Outlook, AWS CEO on AI Spending and Growth",
-      "url": "https://www.youtube.com/watch?v=pRZsVg7kLv4",
+      "id": "091a76dab5965821",
+      "title": "AI Policy Moves From Washington to the States",
+      "url": "https://www.youtube.com/watch?v=EBN1Nav9HNs",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pRZsVg7kLv4/hqdefault.jpg",
-      "publishedAt": "2026-10-30T17:26:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EBN1Nav9HNs/hqdefault.jpg",
+      "publishedAt": "2026-11-06T18:52:59.000Z",
       "viewCount": 0
     },
     {
-      "id": "a31479ac36168752",
-      "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
-      "url": "https://www.youtube.com/watch?v=LijjqErjhgk",
+      "id": "4609a9e0f3739b12",
+      "title": "Tech Stocks Rebound as Dip Buyers Return to AI Trade",
+      "url": "https://www.youtube.com/watch?v=pmQiJaPAFPY",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/LijjqErjhgk/hqdefault.jpg",
-      "publishedAt": "2026-10-30T17:23:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pmQiJaPAFPY/hqdefault.jpg",
+      "publishedAt": "2026-11-06T18:51:35.000Z",
       "viewCount": 0
     },
     {
-      "id": "b776eb7a1b038634",
-      "title": "Roblox Sees AI Content Surge as Daily Active Users Fall",
-      "url": "https://www.youtube.com/watch?v=fr82g2xhBE8",
+      "id": "ea53caff2084e410",
+      "title": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout",
+      "url": "https://www.youtube.com/watch?v=B07pGZCiADo",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/fr82g2xhBE8/hqdefault.jpg",
-      "publishedAt": "2026-10-30T17:22:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/B07pGZCiADo/hqdefault.jpg",
+      "publishedAt": "2026-11-06T18:49:02.000Z",
       "viewCount": 0
     },
     {
-      "id": "207b45cdc68b4f3b",
-      "title": "AI to Drive 40% Growth for AWS: CEO Garman",
-      "url": "https://www.youtube.com/watch?v=z4sCWxVyx8E",
+      "id": "eaef06c101bae365",
+      "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+      "url": "https://www.youtube.com/watch?v=fjnhTbAtTpI",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/z4sCWxVyx8E/hqdefault.jpg",
-      "publishedAt": "2026-10-30T17:20:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fjnhTbAtTpI/hqdefault.jpg",
+      "publishedAt": "2026-11-06T18:47:30.000Z",
       "viewCount": 0
     },
     {
-      "id": "3e16268b4ce4813f",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ",
-      "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:22:47.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "38fb98c3299ba05c",
-      "title": "Accelerate shipping to scale with Google Antigravity",
-      "url": "https://www.youtube.com/watch?v=rsOiZE19RVo",
-      "channel": "Google for Developers",
-      "thumbnail": "https://i.ytimg.com/vi/rsOiZE19RVo/hqdefault.jpg",
-      "publishedAt": "2026-10-29T20:00:20.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "4c7fc66cf34be78f",
-      "title": "Google Sales Miss Reignites AI Fears, Microsoft Eyes $25B Debt Offering",
-      "url": "https://www.youtube.com/watch?v=Q_synEvOWp4",
+      "id": "f0bef20f844543b9",
+      "title": "Investing in Prediction Markets Will Pay Off, DraftKings CEO Says",
+      "url": "https://www.youtube.com/watch?v=G4yyD0buRxg",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/Q_synEvOWp4/hqdefault.jpg",
-      "publishedAt": "2026-10-29T17:27:53.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/G4yyD0buRxg/hqdefault.jpg",
+      "publishedAt": "2026-11-06T17:59:45.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d1ae4ece8217b0d5",
+      "title": "Lyft CEO Says Company Takes Up to 30% of Fare That Riders Pay",
+      "url": "https://www.youtube.com/watch?v=rWBcFF_uhP8",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/rWBcFF_uhP8/hqdefault.jpg",
+      "publishedAt": "2026-11-06T17:44:51.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "8aae6017bb82ceb9",
+      "title": "Defense Tech Boom Fuels Shield AI’s Expansion",
+      "url": "https://www.youtube.com/watch?v=U2zcZNNlsBI",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/U2zcZNNlsBI/hqdefault.jpg",
+      "publishedAt": "2026-11-05T18:53:21.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "f602de4ad11fec45",
+      "title": "Agility Robotics Makes Public Debut as Humanoids Scale",
+      "url": "https://www.youtube.com/watch?v=eNSzMo0tU6U",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/eNSzMo0tU6U/hqdefault.jpg",
+      "publishedAt": "2026-11-05T18:50:41.000Z",
       "viewCount": 0
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-05T05:29:01.000Z"
+      "updatedAt": "2026-11-06T05:28:14.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
