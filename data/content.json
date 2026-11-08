@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T04:52:29.056Z",
-  "projectsCheckedAt": "2026-11-07T04:52:29.056Z",
-  "projectsUpdatedAt": "2026-11-07T04:52:29.056Z",
+  "updatedAt": "2026-11-08T04:44:33.214Z",
+  "projectsCheckedAt": "2026-11-08T04:44:33.214Z",
+  "projectsUpdatedAt": "2026-11-08T04:44:33.214Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-07T04:52:29.056Z",
+    "checkedAt": "2026-11-08T04:44:33.214Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "b95a1e63ff46e4ec",
+      "title": "식품공장에도 AI·로봇 확산…정부, 기술개발 지원·국제표준화 추진 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMmNsQ2lyU1NkUnRpYVZyLS1BVUJCMXlQbXBQTzNlOXVOdWNrZmp1Vno0bHhsckhRUGhvblBIMGhacjlkNW9iMmFLYmhXMW9OR014MEg2dl9CWHcyVk92OdIBeEFVX3lxTE1NSDlMNFFwYVJ5MVBielRxUG5rU0FIRzBqRjdzUFdtM2l4ZkcyVDhqcmZwamtIbXRTWFZ5bXNidHN1VmJPYUxDcDZjTXUtNjJCWm82STVtU3lMX1FLMzdod1ltdE9JLUtrX1hZemFyN1F1bFVyUU1oTQ?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "식품공장에도 AI·로봇 확산…정부, 기술개발 지원·국제표준화 추진 뉴시스",
+      "publishedAt": "2026-11-06T08:47:19.000Z",
+      "rank": 1
+    },
     {
       "id": "56aa4e5e94d8892f",
       "title": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 - 건설이코노미뉴스",
@@ -65,7 +74,7 @@
       "source": "Google News: AI Data Quality",
       "summary": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 건설이코노미뉴스",
       "publishedAt": "2026-11-06T08:42:32.000Z",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "01ef286bf918d214",
@@ -74,7 +83,7 @@
       "source": "Google News: IT standardization",
       "summary": "식재료 담는 로봇·품질 선별하는 AI…식품 스마트팩토리 표준화 논의 이데일리",
       "publishedAt": "2026-11-06T08:30:02.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "3199375c90420133",
@@ -83,15 +92,6 @@
       "source": "Google News: AI standardization",
       "summary": "AI·로봇 식품 제조 혁신 속도 식품…푸드테크 기술 표준화 논의 전자신문",
       "publishedAt": "2026-11-06T08:30:00.000Z",
-      "rank": 3
-    },
-    {
-      "id": "fb2957c7d249dadf",
-      "title": "우태희 효성중공업 대표, '글로벌품질경영인대상' 수상 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wVlRWUEtNeHdzZDA4ZnJSNTZlT050Q185enV0YmxvbEQwMDhVNm5PcXY2dTNzQTUtcjl6NHYzbElSZw?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "우태희 효성중공업 대표, '글로벌품질경영인대상' 수상 브레이크뉴스",
-      "publishedAt": "2026-11-06T06:27:00.000Z",
       "rank": 4
     },
     {
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-06T05:28:14.000Z"
+      "updatedAt": "2026-11-07T04:56:33.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
