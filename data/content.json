@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T04:44:33.214Z",
-  "projectsCheckedAt": "2026-11-08T04:44:33.214Z",
-  "projectsUpdatedAt": "2026-11-08T04:44:33.214Z",
+  "updatedAt": "2026-11-09T04:54:22.159Z",
+  "projectsCheckedAt": "2026-11-09T04:54:22.159Z",
+  "projectsUpdatedAt": "2026-11-09T04:54:22.159Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,10 +54,73 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-08T04:44:33.214Z",
+    "checkedAt": "2026-11-09T04:54:22.159Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "4992ab6aaab769f9",
+      "title": "\"종자의 미래, AI가 먼저 읽는다\"…품종 개발도 디지털 혁명 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcmVrcHdmM3JBNEFBMVVXSTFQa1FVQWhZQ0VIemlhZTZCeTMwWlZsOHpwdGliQ3YxRUlIb2hiN1MtSE1UWmp1SWhFNDZzaEZ1ZE9SMFJoNGF1RTBWTEpCemlZdzhqMTY2SlhpaFdHNzjSAXBBVV95cUxNY3Jla3B3ZjNyQTRBQTFVV0kxUGtRVUFoWUNFSHppYWU2QnkzMFpWbDh6cHRpYkN2MUVJSG9oYjdTLUhNVFpqdUloRTQ2c2hGdWRPUjBSaDRhdUUwVkxKQnppWXc4ajE2NkpYaWhXRzc4?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"종자의 미래, AI가 먼저 읽는다\"…품종 개발도 디지털 혁명 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-09T02:00:00.000Z",
+      "rank": 1
+    },
+    {
+      "id": "2e4c8bc979fdcbd6",
+      "title": "로민, 현대차·기아에 '도면·기술문서 AI 데이터화' 시스템 구축 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwWnZFTXY1eXJ4Z044X2tJOFlGQ2U5cGJFTmdLWnNCbnBjc3FoZFRBQUZXaUptOUdDekp3VENMXzJTQk9scGk2TDE2eTg5OGJzZ3h5b1FJblU5MVV0MUNob2ljU0tWRlFscHVkMUZPa9IBb0FVX3lxTFBwWnZFTXY1eXJ4Z044X2tJOFlGQ2U5cGJFTmdLWnNCbnBjc3FoZFRBQUZXaUptOUdDekp3VENMXzJTQk9scGk2TDE2eTg5OGJzZ3h5b1FJblU5MVV0MUNob2ljU0tWRlFscHVkMUZPaw?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "로민, 현대차·기아에 '도면·기술문서 AI 데이터화' 시스템 구축 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-09T02:00:00.000Z",
+      "rank": 2
+    },
+    {
+      "id": "b4e0559260dc442b",
+      "title": "정책과 산업 잇는 가교… R&D 기획 새 기준 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CR1VwLW9wdXducTFpcWdHaTNoYU9mV3gwb1N5NHpuRk5kdU5ZR3VWQ0F5bm5vSFVTdjVuaU1GTkdkTVdfbi1ubjFoRGpXZFpJN1NSWjZfdkpfRVZ2aEUxMFZ3X2s0WmFGZmdJNnE4b3NNQ01PcGfSAWZBVV95cUxQbUhrZFlVUU1rLWxMMUlOV2o2SmxoUjlTeTMxMGNhNXBJME1EcWN1WHFINHhIdGItaHhESGlWdXNvTmNwTmtQZ1U5a3ptV0VPTGlfN1FFU29DOUJVU0piMndzdjZtY1E?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "정책과 산업 잇는 가교… R&D 기획 새 기준 동아일보",
+      "publishedAt": "2026-11-08T19:30:00.000Z",
+      "rank": 3
+    },
+    {
+      "id": "0dbf21530c1106d3",
+      "title": "Regulatory governance of the digital economy: Lessons from the financial services sector - KDI 경제교육·정보센터",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVJ2SXNia2doWW1XYzBtdEVYVUNGeWlPeVJkRjVXRU5FSmxfeC1oQk9aa1FYSURxeE9LRXRrZlR3bkxfdWFxMmxuTW9STFhpUF9qM1NnLWVrdFNvUnNjdUZYeERnT0FjYnh5ZnA4NmVoYVFEeUpKbFA2M2FRVEhjNzN4cDliZ1dacFE?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "Regulatory governance of the digital economy: Lessons from the financial services sector KDI 경제교육·정보센터",
+      "publishedAt": "2026-11-08T07:41:05.000Z",
+      "rank": 4
+    },
+    {
+      "id": "b1420147d9fcbee6",
+      "title": "Experian Named a Leader in 2026 IDC MarketScape for Worldwide Decision Intelligence Platforms - 기업경제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRmJqX011WE1PdHAta3pWV1ZmM3UxeDRValBhTWdxX011NEhDQTJ0aVRXbHFDMTdpbkM5LVcxNDFlQjBHUnMxeDIzcGdOcGtELTYtbjJKMkFtRUlxVHpiQjJaOFhXQ1RUcU5FcWJQdGNPWk1xTGc?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "Experian Named a Leader in 2026 IDC MarketScape for Worldwide Decision Intelligence Platforms 기업경제뉴스",
+      "publishedAt": "2026-11-08T10:34:00.000Z",
+      "rank": 5
+    },
+    {
+      "id": "92c126f2ef1db3ce",
+      "title": "\"가스는 곧 전기\"…가스공사-한전KDN, AI·디지털 ‘에너지 협약’ 맺었다 - 경상매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lYTkwTmJYR3A3S19Rajc4QndPdEp6cC1MQm5Qc09iN3h2bldmVWJIbTdrRTROaVp1clBrS24yVDVzdml0cGtmcWw0RUw0ajY0MncyZFk4Wk1VMFJJTUN3?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "\"가스는 곧 전기\"…가스공사-한전KDN, AI·디지털 ‘에너지 협약’ 맺었다 경상매일신문",
+      "publishedAt": "2026-11-07T23:00:00.000Z",
+      "rank": 6
+    },
+    {
+      "id": "2b0f9c2791187bfd",
+      "title": "그래파이, 정보보호경영시스템 국제표준 ISO·IEC 27001 인증 획득 - 바이라인네트워크",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pWTVYbzhvdENhQTg3SDZtVHhSVG01VGpDME1iNVI1Z1hobjdqUmtsdjVpb3JIa0UxUnphdVZqcVRQeVJ6aU5wVDQwbk0xR2I5em1iRWlvbw?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "그래파이, 정보보호경영시스템 국제표준 ISO·IEC 27001 인증 획득 바이라인네트워크",
+      "publishedAt": "2026-11-05T14:53:18.000Z",
+      "rank": 7
+    },
     {
       "id": "b95a1e63ff46e4ec",
       "title": "식품공장에도 AI·로봇 확산…정부, 기술개발 지원·국제표준화 추진 - 뉴시스",
@@ -65,69 +128,6 @@
       "source": "Google News: IT standardization",
       "summary": "식품공장에도 AI·로봇 확산…정부, 기술개발 지원·국제표준화 추진 뉴시스",
       "publishedAt": "2026-11-06T08:47:19.000Z",
-      "rank": 1
-    },
-    {
-      "id": "56aa4e5e94d8892f",
-      "title": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 - 건설이코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWS2lXQUR2YUt6YUhQTGFMcXV4MzhvSUpFYnFCRlN1VWxtX2ZaeFAzd3phMVN1RDZiOUgzTmdPVG9TUjh3UTRoV2JCWjRiNzJaTFlNVFFON3ZVdm5yZnFNMGNkSWtzQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "공간정보품질관리원, K-Geo Festa서 'Spatial AI 기술상생' 콘퍼런스 개최 건설이코노미뉴스",
-      "publishedAt": "2026-11-06T08:42:32.000Z",
-      "rank": 2
-    },
-    {
-      "id": "01ef286bf918d214",
-      "title": "식재료 담는 로봇·품질 선별하는 AI…식품 스마트팩토리 표준화 논의 - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUxiWE5Fcnl6WEdVM2U2Ni1rbmh1a0FhbWFMX3JiVjFNQTc3UDVqcHpGWXJNSUJKZzZEemkzbFVMczFsZ0tkWkc0RmpQcmpiVk51LUhodHdfUUlnNTV2a2RXaGxRU1Y5LWFWOURVcGcxWjVjb21xMXhhZmdZa1g2RQ?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "식재료 담는 로봇·품질 선별하는 AI…식품 스마트팩토리 표준화 논의 이데일리",
-      "publishedAt": "2026-11-06T08:30:02.000Z",
-      "rank": 3
-    },
-    {
-      "id": "3199375c90420133",
-      "title": "AI·로봇 식품 제조 혁신 속도 식품…푸드테크 기술 표준화 논의 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10M0xkWlY1QzZZaWJENFU4Z19NeTczaXdBTmpMZ1UyalZwdmk2Z2t3Qk5wQWlLdW1xcU1WTXVVUHVuZkZBbEZnbUJRQlMxZw?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "AI·로봇 식품 제조 혁신 속도 식품…푸드테크 기술 표준화 논의 전자신문",
-      "publishedAt": "2026-11-06T08:30:00.000Z",
-      "rank": 4
-    },
-    {
-      "id": "e426038f4d8a3c97",
-      "title": "“반복 업무는 AI에게, 엔지니어는 품질 집중”… 와이즈스톤, 테스트 자동화 플랫폼 'TestClaw' 공개 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84a0RKWTR6LTY5OU4tRzA5czhzNk5BWk9PdWpEYVN1a3VaQ0JjNGgwaWpRNjVGekVYU3FONVE4RkJTUHlWekpJVk13akJ3Zw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "“반복 업무는 AI에게, 엔지니어는 품질 집중”… 와이즈스톤, 테스트 자동화 플랫폼 'TestClaw' 공개 전자신문",
-      "publishedAt": "2026-11-06T05:46:06.000Z",
-      "rank": 5
-    },
-    {
-      "id": "d6b724e8aa632793",
-      "title": "그래파이, ISO/IEC 27001 인증 획득…기업용 AI 데이터 보안 신뢰성 강화 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBROTdCbVItS3V1VHhWa2tBNjE3R01Dc29mWUZEVVpsd0tZTG9NaGlHNnliTHdUYXZjVFhhMC1GOWVrRGJjTlc3NXZUOERfbjk3eU9uT3VPN0w4TnVSMzBtS1RjTXZMR2xtTEpDNHlJbThuZ9IBckFVX3lxTFBROTdCbVItS3V1VHhWa2tBNjE3R01Dc29mWUZEVVpsd0tZTG9NaGlHNnliTHdUYXZjVFhhMC1GOWVrRGJjTlc3NXZUOERfbjk3eU9uT3VPN0w4TnVSMzBtS1RjTXZMR2xtTEpDNHlJbThuZw?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "그래파이, ISO/IEC 27001 인증 획득…기업용 AI 데이터 보안 신뢰성 강화 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-05T08:24:36.000Z",
-      "rank": 6
-    },
-    {
-      "id": "29c7abb408f46db9",
-      "title": "글로벌 증시 폭락발 투매 심화, AI 사이클 대응 전략 - 네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bHd0YU1NNFZXOW9xNDhaVkN4UXVMT1RPc0Y1cnBISEprcUtydExOdmUwLUJTMlZ2TlhIY2dydXh3cXVLRzZTMEwxX3dxamNPLU90RUstaVFUZw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "글로벌 증시 폭락발 투매 심화, AI 사이클 대응 전략 네이버페이 머니스토리",
-      "publishedAt": "2026-11-06T02:08:58.000Z",
-      "rank": 7
-    },
-    {
-      "id": "2869534d75b8ac75",
-      "title": "이비소프트, AI가 요구사항부터 배포까지… 'DefectMATE AI'로 소프트웨어 업무 전주기 연결 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82ZVJTLUZRb2NtMnJyR2NmYkkwcWY1TjFYZk14eGptc1pka3hpM0JzOW5RMmNsTzJjOTZOOG9uVzJ4WnZMTzltVjhyaWpLQQ?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "이비소프트, AI가 요구사항부터 배포까지… 'DefectMATE AI'로 소프트웨어 업무 전주기 연결 전자신문",
-      "publishedAt": "2026-11-06T01:28:05.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-07T04:56:33.000Z"
+      "updatedAt": "2026-11-08T04:48:37.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
