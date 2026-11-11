@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T06:09:28.257Z",
-  "projectsCheckedAt": "2026-11-10T06:09:28.257Z",
-  "projectsUpdatedAt": "2026-11-10T06:09:28.257Z",
+  "updatedAt": "2026-11-11T04:56:16.878Z",
+  "projectsCheckedAt": "2026-11-11T04:56:16.878Z",
+  "projectsUpdatedAt": "2026-11-11T04:56:16.878Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-10T06:09:28.257Z",
+    "checkedAt": "2026-11-11T04:56:16.878Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "521a2ed9fd6825aa",
-      "title": "NST, 제10회 연구개발전략위원회 개최...향후 출연연 R&D 전략 논의 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzUlpVSmlrTzJOSEJGcFFEa2pCU0E4cEdMblhjeko4ZlBXVmp1MnNaMi1VcnM3WUIzc29KTUdORFEzcE5vQUNCcWphMlJWQQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "NST, 제10회 연구개발전략위원회 개최...향후 출연연 R&D 전략 논의 전자신문",
-      "publishedAt": "2026-11-10T01:29:52.000Z",
+      "id": "3146240f6074db19",
+      "title": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RRm5wNHUzSjVxWVJ0UkNLVkgxME5iREZuTmxzbndGaXAzbktCYktlVm9LbjEtUU9LeXRsbzZHMzA3eV9RNnNYYmNUOWlzVmJOZGtiU21nT252T3F0Rndv?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 헬로티",
+      "publishedAt": "2026-11-11T04:11:16.000Z",
       "rank": 1
     },
     {
-      "id": "c681629fa6b37cce",
-      "title": "HYU Supports Eight Startups’ Entry into Japan, Receives Collaboration Proposal from Wanted Japan - 뉴스H",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51YkF3aFhyVkJCc3U0dFZDYzdMSkxrdU8xUTNFa1E5LWs0S3ZIQnNEN1FnWWlJeWVDWVhOV05BRkYtSjFrUVhUUVhSZ3M0cmxncWlFRkNCN0JhZC11WUpQanB0LUo0UXdEcFYw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "HYU Supports Eight Startups’ Entry into Japan, Receives Collaboration Proposal from Wanted Japan 뉴스H",
-      "publishedAt": "2026-11-10T01:00:50.000Z",
+      "id": "7507f156d42958d7",
+      "title": "KRISS Leads First Paper in UK Institute of Physics's Nobel Prize Collection - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdS1YMzdLcm04TG8xcGVfQkZJOUxkYVlOSmFYTGlJV0tFQUZBbUtNUU0yWkZSaDQxLUZmd19RcWNVZ2VWTmtnSExHVHByNXRWZXZ5b0lxS3o2d0ZDRjc4VU5qTUNJWmxQTzVlekFWTnFRYjVfVm1vQTdmRTIxb05PM041NGN6MnE4OGxsanlxcHFlVk5MMVNhM0ZBcmdjaVpLZFE?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "KRISS Leads First Paper in UK Institute of Physics's Nobel Prize Collection Seoul Economic Daily",
+      "publishedAt": "2026-11-11T01:06:46.000Z",
       "rank": 2
     },
     {
-      "id": "cfb1817a5063e8f3",
-      "title": "HYU Research with Hyundai Motor Wins Best Industry Innovation Paper Award at IEEE RE 2026 - 뉴스H",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xUlpTYVNDU1Y0dFZzSWY3T2tZOXhXSUROZjVBcHljTVM1ZXVoOVd1cjVoeUVKWmxhTXQxcFVDRlhDY1NVblpTMnJMbmNuTVpLRk9KNy00VzhKVHVYZmlfSmctVXBsUVdkMko0?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "HYU Research with Hyundai Motor Wins Best Industry Innovation Paper Award at IEEE RE 2026 뉴스H",
-      "publishedAt": "2026-11-10T01:00:48.000Z",
+      "id": "f480657f5cc44a3f",
+      "title": "수목원정원관리원, 산림 공공기관 첫 AI 국제인증···ISO/IEC 42001 획득 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CVmU4MENUOGdKaXNKcTZ2Sl80MVVTVF94YXNtYjFmS1JqZ2NraU5LeU14Y2pJT290X2RFUExCd3dYY3Q1OVU4REtQdk0ybk1wWV9BY21TTzVveUctSktHcTV3cXRqNmJx?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "수목원정원관리원, 산림 공공기관 첫 AI 국제인증···ISO/IEC 42001 획득 팍스경제TV",
+      "publishedAt": "2026-11-10T07:49:40.000Z",
       "rank": 3
     },
     {
-      "id": "ccbaa2dafcde7734",
-      "title": "DongA Science turns 40 years of science journalism into AI tutor AiR NOVA, a CES 2027 honoree - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZlRob19uWnYyVW8zeDdsNjNJQ255YjFLYzhZaDhHQlZ2OHZCdXZyMVQ2aXY3VnlCR3NOM3BZS3NwME56Q3VvYUZWbW5aQmJvQ2ZzamRpRS03ZkE0THRoa1NwVDZOMHlE?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "DongA Science turns 40 years of science journalism into AI tutor AiR NOVA, a CES 2027 honoree KIPOST",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "id": "d89be163b43e42de",
+      "title": "시티버스표준화포럼, ‘시티버스’ 국제표준화 주도권 확보 본격화 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVHFpbk1vaFNsUGxiQWR6dFo5NXFpbkRRVVFEMEIyTEdfeVg2RXp0TlNWQ1cyc3dpWHR5YmV5am0wak01NUpwblJEaS0xMF8wSDhFQnk2NUh4cnJNY0lKVlVzbEdmc2dOZjEwYw?oc=5",
+      "source": "Google News: ITU-T standardization",
+      "summary": "시티버스표준화포럼, ‘시티버스’ 국제표준화 주도권 확보 본격화 데이터넷",
+      "publishedAt": "2026-11-11T04:48:58.000Z",
       "rank": 4
     },
     {
-      "id": "84e611ffca2d127c",
-      "title": "성균관대 SW융합대학 실감미디어공학과 '2026 Annual Research Review' 성료 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42akZNMUZTUUl3REhRM1ByWlRra1FpbHpvVG9wVU5sTk9WNFNlYV9vSEdhc0pMT3U1eGZ1aVp1QldyTjZNSGdyaE1mX1phUQ?oc=5",
-      "source": "Google News: Trustworthy AI",
-      "summary": "성균관대 SW융합대학 실감미디어공학과 '2026 Annual Research Review' 성료 전자신문",
-      "publishedAt": "2026-11-09T07:57:02.000Z",
+      "id": "9042df93d7c0b4f4",
+      "title": "KGCCI, Ajou Motor College and TÜV SÜD Sign MoU to Develop Skilled Professionals for Future Industries - 의정신문 서울시티",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05M1RRQ0x1UzdPU0lwMWNHdUpFdG5DeGV1YVl4cHlaZXVfRTY0VlZuenJEQUFqU0VlaWZsTUI1djRYQ0hoTzBhQmliWnB2TkI4cVkzdVdXYWRkclhUakE5VEZqS0ZZY2tiejhWUURPZw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "KGCCI, Ajou Motor College and TÜV SÜD Sign MoU to Develop Skilled Professionals for Future Industries 의정신문 서울시티",
+      "publishedAt": "2026-11-11T00:25:27.000Z",
       "rank": 5
     },
     {
-      "id": "14d44607a402603e",
-      "title": "“K-임플란트를 국제표준으로” - 건치신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oOElUZnVjb3k0TXFYZW54ZlVBRGpYdlFIYnpaQnZPalkwdzBMMkI3RlhOWW1WRF9NS3ZGSWxCcUE3eFNYZE90MUM3dGpUenN0S0tlb29IbXBDb1pGTE1KRGNmZjhFMkNoc0hJLQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "“K-임플란트를 국제표준으로” 건치신문",
-      "publishedAt": "2026-11-09T07:54:58.000Z",
+      "id": "e588aed9c39ed1d1",
+      "title": "현대제철, AI 전환 성과 공유…철강 제조 경쟁력 강화 속도 - 인포스탁데일리",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbHUyVUVpOWxDOTc3R0pZRGNFS1FDQnpfZXl5ZzJzc18zQ3JreXY5SzI0eWtwOHhTWVUtdl9hTVJ2RVJGNmEwczFDSnpoRlZvUVd3cFFmWk9PUXl5ZWV6YTJORjh3YXV2eDZoaVJrRVJFNk9JRXc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "현대제철, AI 전환 성과 공유…철강 제조 경쟁력 강화 속도 인포스탁데일리",
+      "publishedAt": "2026-11-10T23:51:01.000Z",
       "rank": 6
     },
     {
-      "id": "4992ab6aaab769f9",
-      "title": "\"종자의 미래, AI가 먼저 읽는다\"…품종 개발도 디지털 혁명 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcmVrcHdmM3JBNEFBMVVXSTFQa1FVQWhZQ0VIemlhZTZCeTMwWlZsOHpwdGliQ3YxRUlIb2hiN1MtSE1UWmp1SWhFNDZzaEZ1ZE9SMFJoNGF1RTBWTEpCemlZdzhqMTY2SlhpaFdHNzjSAXBBVV95cUxNY3Jla3B3ZjNyQTRBQTFVV0kxUGtRVUFoWUNFSHppYWU2QnkzMFpWbDh6cHRpYkN2MUVJSG9oYjdTLUhNVFpqdUloRTQ2c2hGdWRPUjBSaDRhdUUwVkxKQnppWXc4ajE2NkpYaWhXRzc4?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "\"종자의 미래, AI가 먼저 읽는다\"…품종 개발도 디지털 혁명 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-09T02:00:00.000Z",
+      "id": "8ad48f1fdb39b8d5",
+      "title": "에이프릴바이오, 4300억 실탄으로 기술이전·도입 '투트랙' : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlp3Q3gtVS1hWXNuQVR6VnFLWEtvbGRjblFEMXBCWmtiTzhCMGM3azZRZDlOTWIwM21xb3pubVFCYW92a0hDaEEtRnM0RWVCU1Jua1pkMmprYmVja0R2Q1hfMnRuUUcwZU1WMmJXSzVVUkUxQ0UxWkdJWl9uM25paWlxVXhyd080U3g2MFEwQQ?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "에이프릴바이오, 4300억 실탄으로 기술이전·도입 '투트랙' : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-11-10T22:59:29.000Z",
       "rank": 7
     },
     {
-      "id": "2e4c8bc979fdcbd6",
-      "title": "로민, 현대차·기아에 '도면·기술문서 AI 데이터화' 시스템 구축 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwWnZFTXY1eXJ4Z044X2tJOFlGQ2U5cGJFTmdLWnNCbnBjc3FoZFRBQUZXaUptOUdDekp3VENMXzJTQk9scGk2TDE2eTg5OGJzZ3h5b1FJblU5MVV0MUNob2ljU0tWRlFscHVkMUZPa9IBb0FVX3lxTFBwWnZFTXY1eXJ4Z044X2tJOFlGQ2U5cGJFTmdLWnNCbnBjc3FoZFRBQUZXaUptOUdDekp3VENMXzJTQk9scGk2TDE2eTg5OGJzZ3h5b1FJblU5MVV0MUNob2ljU0tWRlFscHVkMUZPaw?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "로민, 현대차·기아에 '도면·기술문서 AI 데이터화' 시스템 구축 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-09T02:00:00.000Z",
+      "id": "c9c3885cfb2aaf20",
+      "title": "Lotte Energy Materials Earns ISO 27001 Certification - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eGVobGpiZkVmVUI4Q25MTFVGenBGYkhJWjJhZmluOU1vdFNwQkZoQS13NGxGRTl5ZVlDWTZobV9UWHRVdGhCRDdzS2U5amlBMDRaYjcxRWlGdHQwSEs4WmU3aThRMmc?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Lotte Energy Materials Earns ISO 27001 Certification THE ELEC, Korea Electronics Industry Media",
+      "publishedAt": "2026-11-10T08:46:16.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T04:58:26.000Z"
+      "updatedAt": "2026-11-10T06:13:32.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
