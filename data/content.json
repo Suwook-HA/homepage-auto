@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T04:56:16.878Z",
-  "projectsCheckedAt": "2026-11-11T04:56:16.878Z",
-  "projectsUpdatedAt": "2026-11-11T04:56:16.878Z",
+  "updatedAt": "2026-11-12T05:58:07.442Z",
+  "projectsCheckedAt": "2026-11-12T05:58:07.442Z",
+  "projectsUpdatedAt": "2026-11-12T05:58:07.442Z",
   "patents": {
     "source": {
       "provider": "Google Patents",
@@ -54,80 +54,80 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-11T04:56:16.878Z",
+    "checkedAt": "2026-11-12T05:58:07.442Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "3146240f6074db19",
-      "title": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 - 헬로티",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RRm5wNHUzSjVxWVJ0UkNLVkgxME5iREZuTmxzbndGaXAzbktCYktlVm9LbjEtUU9LeXRsbzZHMzA3eV9RNnNYYmNUOWlzVmJOZGtiU21nT252T3F0Rndv?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 헬로티",
-      "publishedAt": "2026-11-11T04:11:16.000Z",
+      "id": "8892ebc02b92637a",
+      "title": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03LXRfRzNmc01ndTZoY3NPQzhaSDZhUW5nS0NnbWVXbXgxS1VNOWFCR0t2dTZXWjBvTUlPNHpXa2ZVNlBfMWFsOEJyd2h2aVhWUEpnYVZR?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 중앙일보",
+      "publishedAt": "2026-11-12T05:20:45.000Z",
       "rank": 1
     },
     {
-      "id": "7507f156d42958d7",
-      "title": "KRISS Leads First Paper in UK Institute of Physics's Nobel Prize Collection - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdS1YMzdLcm04TG8xcGVfQkZJOUxkYVlOSmFYTGlJV0tFQUZBbUtNUU0yWkZSaDQxLUZmd19RcWNVZ2VWTmtnSExHVHByNXRWZXZ5b0lxS3o2d0ZDRjc4VU5qTUNJWmxQTzVlekFWTnFRYjVfVm1vQTdmRTIxb05PM041NGN6MnE4OGxsanlxcHFlVk5MMVNhM0ZBcmdjaVpLZFE?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "KRISS Leads First Paper in UK Institute of Physics's Nobel Prize Collection Seoul Economic Daily",
-      "publishedAt": "2026-11-11T01:06:46.000Z",
+      "id": "b6b8c32ae9af47cf",
+      "title": "AI가 바꾸는 과학 연구…韓·美·유럽, R&D 혁신 전략 공유 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kb3VEdmpVNGFuNnhiOXpLMlI3S25xOUxyaFNUM1VYSkcxTFQ2NVJWZm55YV9RbkxnUzVDUjdBR3N5YjFJZlh1NGlwSFFXVmx6aHNrTHJ3cXg4dlpOQWI2NA?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "AI가 바꾸는 과학 연구…韓·美·유럽, R&D 혁신 전략 공유 아시아경제",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
       "rank": 2
     },
     {
-      "id": "f480657f5cc44a3f",
-      "title": "수목원정원관리원, 산림 공공기관 첫 AI 국제인증···ISO/IEC 42001 획득 - 팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CVmU4MENUOGdKaXNKcTZ2Sl80MVVTVF94YXNtYjFmS1JqZ2NraU5LeU14Y2pJT290X2RFUExCd3dYY3Q1OVU4REtQdk0ybk1wWV9BY21TTzVveUctSktHcTV3cXRqNmJx?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "수목원정원관리원, 산림 공공기관 첫 AI 국제인증···ISO/IEC 42001 획득 팍스경제TV",
-      "publishedAt": "2026-11-10T07:49:40.000Z",
+      "id": "c0f30e5116ced5f7",
+      "title": "마이크로소프트 이그나이트 2026, 이달 17일 개막…프론티어트랜스포메이션, 비즈니스 혁신의 새로운 엔진으로 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOUVpCQ0MtOVdiellmZngzWXlnbkNJV2ROcXZETU4tS1h4TEJreDIwaGVEQWdzYW1uZDA5amJLVXpfTDA0eW95OEJMSmU0LUhmdTVWbjBUaDd1RUhNYTBjT0ZjMEYzUlhsUHkyYWIyN3NDXzU2aHJrSWE4N2YtSjdpX0NsRkl3VnY2S3c2bXBBekxnNDBUVi1mc3VfNDRWdG9aQkprTldNTWZyWkJEMm1fR3I4bFRDXzZqdFhTamRTR0ZmUElYNVJ1TjFmU1NTYXU4aXhYcnl3aGQ1QmxMb1p3dzZWUDJSZUIyMXpzMVdyV1RBOUw1TTFURWx1eFJzOUR0WGpJNkN6Yy1wcXFMUC1pWl9KeUpieGhnWjdYUFRXRUM2RFJNdHNyaDljQ1ZhTmpnTlVBM0FOUXRsZVg5NVJkYWZPaVNKRmVqSHN0d3V3alhXMHVoZHU5QkFEZW5CZw?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트 이그나이트 2026, 이달 17일 개막…프론티어트랜스포메이션, 비즈니스 혁신의 새로운 엔진으로 Microsoft Source",
+      "publishedAt": "2026-11-12T00:32:02.000Z",
       "rank": 3
     },
     {
-      "id": "d89be163b43e42de",
-      "title": "시티버스표준화포럼, ‘시티버스’ 국제표준화 주도권 확보 본격화 - 데이터넷",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVHFpbk1vaFNsUGxiQWR6dFo5NXFpbkRRVVFEMEIyTEdfeVg2RXp0TlNWQ1cyc3dpWHR5YmV5am0wak01NUpwblJEaS0xMF8wSDhFQnk2NUh4cnJNY0lKVlVzbEdmc2dOZjEwYw?oc=5",
-      "source": "Google News: ITU-T standardization",
-      "summary": "시티버스표준화포럼, ‘시티버스’ 국제표준화 주도권 확보 본격화 데이터넷",
-      "publishedAt": "2026-11-11T04:48:58.000Z",
+      "id": "62d0079a631daaf5",
+      "title": "[게시판] 군용 배터리 '표준화' 연구 착수 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ueGtlZmpnWTdMTUVjdV9PaF9SN050cm9PM0pUTlRrUGNhT1d4bUN3NlNNRGxqWUI1U09sY1JtSm9FWUNtY3hpNHJsX1ktcHk3dFdCNXhRT3RWUmpKOUFFT9IBYEFVX3lxTE1ueGtlZmpnWTdMTUVjdV9PaF9SN050cm9PM0pUTlRrUGNhT1d4bUN3NlNNRGxqWUI1U09sY1JtSm9FWUNtY3hpNHJsX1ktcHk3dFdCNXhRT3RWUmpKOUFFTw?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "[게시판] 군용 배터리 '표준화' 연구 착수 연합뉴스",
+      "publishedAt": "2026-11-12T00:05:33.000Z",
       "rank": 4
     },
     {
-      "id": "9042df93d7c0b4f4",
-      "title": "KGCCI, Ajou Motor College and TÜV SÜD Sign MoU to Develop Skilled Professionals for Future Industries - 의정신문 서울시티",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05M1RRQ0x1UzdPU0lwMWNHdUpFdG5DeGV1YVl4cHlaZXVfRTY0VlZuenJEQUFqU0VlaWZsTUI1djRYQ0hoTzBhQmliWnB2TkI4cVkzdVdXYWRkclhUakE5VEZqS0ZZY2tiejhWUURPZw?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "KGCCI, Ajou Motor College and TÜV SÜD Sign MoU to Develop Skilled Professionals for Future Industries 의정신문 서울시티",
-      "publishedAt": "2026-11-11T00:25:27.000Z",
+      "id": "b452eb4a699a4496",
+      "title": "Korea Gas Corporation Acquires NIA 'AI Ethics Compliance Institution' Certification...Strengthens Responsible Management - 수원일보",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44MEhLbTBCUTdRdkUxUVZiSXcxbEZmMUg5R1E3ZTBsQ3Y1eFhfMDdFRjdrdVg5MXVoVlU2RFFTYWEzMjdHZDhtajhuWmdpZ0k2SS11d29UT2JnQWtTVTlYWDIyalNYNTNUalQ4NkhTamdlWnBVNTk5anRjMUZlQQ?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "Korea Gas Corporation Acquires NIA 'AI Ethics Compliance Institution' Certification...Strengthens Responsible Management 수원일보",
+      "publishedAt": "2026-11-11T15:31:42.000Z",
       "rank": 5
     },
     {
-      "id": "e588aed9c39ed1d1",
-      "title": "현대제철, AI 전환 성과 공유…철강 제조 경쟁력 강화 속도 - 인포스탁데일리",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbHUyVUVpOWxDOTc3R0pZRGNFS1FDQnpfZXl5ZzJzc18zQ3JreXY5SzI0eWtwOHhTWVUtdl9hTVJ2RVJGNmEwczFDSnpoRlZvUVd3cFFmWk9PUXl5ZWV6YTJORjh3YXV2eDZoaVJrRVJFNk9JRXc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "현대제철, AI 전환 성과 공유…철강 제조 경쟁력 강화 속도 인포스탁데일리",
-      "publishedAt": "2026-11-10T23:51:01.000Z",
+      "id": "a8027ff7b135b4ad",
+      "title": "AI 대체불가 유망 직업 7, 신입 연봉·공고수 총정리 - 잡플래닛",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41QVRlRWZ0X0Z3NGVRVHFXY25oVGlJbnRFRXFCdHlva1gxY0hnelE2OGZFV2F3VmtuSV9nZXB0VlRlMHF5ZVdPRjByX1pxNHBNOFhSa1lUTG5IcXlMQWJid19VdUN2ZWxuTEd0ZnpmOWdKQQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "AI 대체불가 유망 직업 7, 신입 연봉·공고수 총정리 잡플래닛",
+      "publishedAt": "2026-11-11T12:23:35.000Z",
       "rank": 6
     },
     {
-      "id": "8ad48f1fdb39b8d5",
-      "title": "에이프릴바이오, 4300억 실탄으로 기술이전·도입 '투트랙' : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlp3Q3gtVS1hWXNuQVR6VnFLWEtvbGRjblFEMXBCWmtiTzhCMGM3azZRZDlOTWIwM21xb3pubVFCYW92a0hDaEEtRnM0RWVCU1Jua1pkMmprYmVja0R2Q1hfMnRuUUcwZU1WMmJXSzVVUkUxQ0UxWkdJWl9uM25paWlxVXhyd080U3g2MFEwQQ?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "에이프릴바이오, 4300억 실탄으로 기술이전·도입 '투트랙' : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-11-10T22:59:29.000Z",
+      "id": "693d1a76a9a4f222",
+      "title": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RRm5wNHUzSjVxWVJ0UkNLVkgxME5iREZuTmxzbndGaXAzbktCYktlVm9LbjEtUU9LeXRsbzZHMzA3eV9RNnNYYmNUOWlzVmJOZGtiU21nT252T3F0Rndv?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "시티버스표준화포럼, ITU 신규 조직 참여…국제표준 개발 확대 헬로티",
+      "publishedAt": "2026-11-11T04:11:16.000Z",
       "rank": 7
     },
     {
-      "id": "c9c3885cfb2aaf20",
-      "title": "Lotte Energy Materials Earns ISO 27001 Certification - THE ELEC, Korea Electronics Industry Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eGVobGpiZkVmVUI4Q25MTFVGenBGYkhJWjJhZmluOU1vdFNwQkZoQS13NGxGRTl5ZVlDWTZobV9UWHRVdGhCRDdzS2U5amlBMDRaYjcxRWlGdHQwSEs4WmU3aThRMmc?oc=5",
+      "id": "a9baf0e3c4cf6e3c",
+      "title": "“K-임플란트를 국제 표준으로” 임상 전략 인기몰이 - 치의신보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iT0hkVVVhVkxSaGJ2TDlqX1hXYWJyU1lINklicDkyMm5BUXJuYnlkYTQ0SWw0b3lBekVVWEpiZFhuUUVwVjY1X1NKeWZ5clZJNFdkM2hCTnk1dHFxZXhLZ0Utb1JCNDRl?oc=5",
       "source": "Google News: International Standardization",
-      "summary": "Lotte Energy Materials Earns ISO 27001 Certification THE ELEC, Korea Electronics Industry Media",
-      "publishedAt": "2026-11-10T08:46:16.000Z",
+      "summary": "“K-임플란트를 국제 표준으로” 임상 전략 인기몰이 치의신보",
+      "publishedAt": "2026-11-11T10:40:02.000Z",
       "rank": 8
     }
   ],
@@ -234,7 +234,7 @@
       "stars": 0,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-10T06:13:32.000Z"
+      "updatedAt": "2026-11-11T06:00:20.000Z"
     },
     {
       "id": "2255cb92e821ecd3",
