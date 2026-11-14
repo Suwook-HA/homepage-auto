@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T05:21:17.733Z",
-  "projectsCheckedAt": "2026-11-13T05:21:17.733Z",
+  "updatedAt": "2026-11-14T05:11:06.798Z",
+  "projectsCheckedAt": "2026-11-14T05:11:06.798Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,36 +54,54 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-13T05:21:17.733Z",
+    "checkedAt": "2026-11-14T05:11:06.798Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "d983bbd2092af08c",
+      "id": "e416696338d43edb",
       "title": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 - Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWtxOEUwTnV2NTlUcDFIWW52WFlqZlg2Q2l5UFl1SzhGVmJ4SF9DbzBOU2lyT2RKczUwOG5hOVpuMFRkcEdYT29FX3p6ODdCRTlXaHV6Rldqa2s3U1FhY1p5ZnVVUHM4eUViai1VaWxxTzNQWk5ITFNCOGdHeVQyaURjMFFJR3hnSG04TVBiWQ?oc=5",
       "source": "Google News: ISO/IEC AI standard",
       "summary": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-11-12T14:06:07.000Z",
+      "publishedAt": "2026-11-13T02:01:07.000Z",
       "rank": 1
     },
     {
-      "id": "6412bd07fe9c1954",
-      "title": "DataHub and BigID Partner to Bring Data Classification into the Context Platform - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcXFPcDlfYjEwMGhTWUliN1F3WWZrY25fbUo2UWQwTzRrUkFFRHUxSVlLNjdYQmxJc3pzMFduNWphWE51SG5nSEd5cnlJNHNaYzJWNmd1NEdrZUdDZWRoX2t3QUZfbHFUTDFiaw?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "DataHub and BigID Partner to Bring Data Classification into the Context Platform IT비즈뉴스",
-      "publishedAt": "2026-11-13T03:24:00.000Z",
+      "id": "364edb760715bbe6",
+      "title": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 - 메디포뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VUXQ4Q0ZraU5IUXZpSFBFdC1lSWxvci1Pb2t0MWk1MjdldVA4ZE5oSjlnMTFLdWhSaVNiZGRWRXcwclhvdW1abU94M0pKSHJJanhoWGdrWWdQbThsZ0g2VHVUR2I?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 메디포뉴스",
+      "publishedAt": "2026-11-13T16:06:35.000Z",
       "rank": 2
     },
     {
-      "id": "68680cacf41f46aa",
-      "title": "[현대차 L프로젝트] R&D 전략통 '서길원' 총대, '박민우·하러' 직보 체계 - 블로터",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGajQ2NEhLQjFTeWRGQ1A4eXU4VDdyWmlNcV9SUWRhSHY0NC1aRFZ3bk5DaXJEQ3IwYWwtekhib0g3RUp5TVBiUmhWc0NzUkdPdnpmV1dyUG1URWZmN09Pb3lkVTdaMTJDdjhEcNIBbEFVX3lxTFBGajQ2NEhLQjFTeWRGQ1A4eXU4VDdyWmlNcV9SUWRhSHY0NC1aRFZ3bk5DaXJEQ3IwYWwtekhib0g3RUp5TVBiUmhWc0NzUkdPdnpmV1dyUG1URWZmN09Pb3lkVTdaMTJDdjhEcA?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "[현대차 L프로젝트] R&D 전략통 '서길원' 총대, '박민우·하러' 직보 체계 블로터",
-      "publishedAt": "2026-11-13T01:57:26.000Z",
+      "id": "05adb28bef647f0b",
+      "title": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMFhRaDVRcmh6bGxwZXNoOUxJcjhnem9FYlk3eEd6eTFSNFBzRXZCU2Z5N2NZNTJ1VXdRVWxLTllNWllOMnBOY0hJWXhHWWVkYWFua0FsZ1lub0tWemVnd0xsTk1oQmtQbGfSAW9BVV95cUxQcFMwcHJSS1RXYmRNalVxWDEyc0xmemRIYVRmWTdnbVFrbmgxZVhrcWlGcjdxci1TTlVwVF9BLVVJREdCblZUT3ZKOXBQZ2JLcUcyVHZTUU5LeW1VYU84Y19OUklWUzIwMHdheWlPTXc?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
       "rank": 3
+    },
+    {
+      "id": "fda0b9a31dbc184b",
+      "title": "복지부, 병원마다 다른 진료기록 AI로 표준화‥\"의료정보 연계 확대\" - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TYjZwcUdEaFdDUXBWbDJEbkRHVjQ0aGVieDRXM0VoRExTMTEySFdheGtaMzdIeExZSEc1N215enU2NThnb1RjMHJicEd3V0xXcVpZTTY4Mzd1dnpubThjRm91dkpwRGJMeGE0SERSZHhpd09ZemNz0gF3QVVfeXFMTnlxc1lQalhobzgyaGtoRVJzaUNMNHFNcnhremhGOHlodEZoRk5GM3AwVmRjNnloSWRwSTM5WGJWMjJNRWFjUkp4QURCc2RRZWdDdG8yY0F6Wko5c1YwcFBvakkyVmpoOWg4MVRSazVLdk9ZbUhXSE0?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "복지부, 병원마다 다른 진료기록 AI로 표준화‥\"의료정보 연계 확대\" MBC 뉴스",
+      "publishedAt": "2026-11-13T07:44:11.000Z",
+      "rank": 4
+    },
+    {
+      "id": "a76a7b6619bb3937",
+      "title": "복지부, AI 기반 데이터 표준화…\"의료기관 간 정보 연계 확대\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40V0JuS3lGV2RRa3QtYkpsWkhiWFRVc25ObE1fMEVTejhmZGdRMF92c3VEVEZ1cVdGY2w2bS1TYjRuSG9PWEQwQWJ1Yk1jOTJYRC1xLUduUzB5U2fSAWBBVV95cUxOdVFuRG53ekVzUWszaVRJQnJmUV9uYURfMVRpc0M0WWRnYjRYM2tEbmY0ckMtYzJhZUVjOGs3OENFUjY1UkRMMWlrdExqZE1MT1VQd2MtTzhpbGpndU9qQ20?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "복지부, AI 기반 데이터 표준화…\"의료기관 간 정보 연계 확대\" 연합뉴스",
+      "publishedAt": "2026-11-13T05:38:06.000Z",
+      "rank": 5
     },
     {
       "id": "8892ebc02b92637a",
@@ -92,42 +110,24 @@
       "source": "Google News: ISO/IEC AI standard",
       "summary": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 중앙일보",
       "publishedAt": "2026-11-12T05:20:45.000Z",
-      "rank": 4
-    },
-    {
-      "id": "3709baf724c8ecd7",
-      "title": "Rockwell Automation Introduces LogixEdge Controllers for Software-Defined Automation - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxeDVYSnhIT28tUjZ6UF9hTTRJSVhyNmwybGNWRUJlNHc4SWkzVElnOUZkaFcxc19OQ0hrdFJUdThwYU1aaEVQNVhCME85cTFtT2FiTnNlWDJnOG5Fa1hHS1hsRDRZaDRE0gFsQVVfeXFMTnQxWS1vNkVQS2F4MnNzVklUOFotTWdTZWNDWEI4cjVrT2hoN3BWa2VxUTctTW5ZVXI5WjBUN0g4Q0ZWWXdycVdheUowcnFzd2x1dkp0emZoNmlFTVdFSlR5b1MzMTlscWF6a3Bm?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Rockwell Automation Introduces LogixEdge Controllers for Software-Defined Automation KIPOST",
-      "publishedAt": "2026-11-12T15:43:00.000Z",
-      "rank": 5
-    },
-    {
-      "id": "8ac4510f2303d67f",
-      "title": "카타르상공회의소 회장, 제13회 걸프 품질 콘퍼런스에서 AI가 품질과 경쟁력 이끈다고 강조 - 뉴스 및 통계 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWk5mbVkzdk9iQ0xld2VjczJ0cE1lYTEwRG1QWjRneUxQSFppRHNoY1pNUEJYZVhsT1JTOGM2RVgtYzRPUzAzSHN6d0oyaFZ1b1EyRW5oVVJYR3R2WUJ3SWVDZnNIcEtocnQ1VEZLSnVEcGxTV1RsVDVjb2thTzRFaGRtRlpHZWt5aEFPdEFKLU1XQ3YycmpDTlIzVFVINWVLQ1RuTGZMX3BUazBzejVHTXlpaXBZNVNwQWR6T0ZlbkU3MnVUU0ZSbzF1WDFUMWZoMVBTbXRR?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "카타르상공회의소 회장, 제13회 걸프 품질 콘퍼런스에서 AI가 품질과 경쟁력 이끈다고 강조 - 뉴스 및 통계 IndexBox",
-      "publishedAt": "2026-11-12T15:01:47.000Z",
       "rank": 6
     },
     {
-      "id": "214ea59b0139e99c",
-      "title": "Korea Venture Business Association Hosts '2026 AX Conference'... Seeking Solutions for Expanding AI into Corporate Practices Beyond Demonstrations - 벤처스퀘어",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4RmY2VHh2VDZLaHFZSXdPblNXU2g4NXcxM0F4VGp5QjRoNV9xd3pqWk0ySEpHVU0zQkNmYjBwSnNMZk5rUUFHaVhSUXhKQ1N6RW9j?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "Korea Venture Business Association Hosts '2026 AX Conference'... Seeking Solutions for Expanding AI into Corporate Practices Beyond Demonstrations 벤처스퀘어",
-      "publishedAt": "2026-11-12T13:29:36.000Z",
+      "id": "cc2867f7a0e5467f",
+      "title": "식품산업, AI·로봇 도입 확산…표준화로 제조혁신 뒷받침 - 한국식품의약신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tOUljS3UtaE5BN0RwNE5kWDItZ3JnN0lBWFZkbk5IN1hDbDJBVk9KSHhncUtZVTlEMkV2WDFnOVpnakM2cWE1SzlYWnJncFZYc0VLRVlmMjBSTUJkd2l4TW1wS2UzZzg?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "식품산업, AI·로봇 도입 확산…표준화로 제조혁신 뒷받침 한국식품의약신문",
+      "publishedAt": "2026-11-13T03:26:24.000Z",
       "rank": 7
     },
     {
-      "id": "500c8a90e0dabaae",
-      "title": "PTC Korea Hosts ‘PTC Innovation Exchange Korea 2026,’ Unveiling AI-Driven Product Development Strategies for the Physical AI Era - 아이씨엔매거진",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc205NF8tRWRjUndDcTl0bWhFR1ZSd3JKNGNJRnFEVFFIQTA2bmpRQ211MTFuNkxNWXNrLVlZa0cwWTNwT25tcmZ4WG1Mel9FcE9FQU5rRElkU0k5c25SbElhRjY0SDh6RXRtd1Y4dEpEZU41MEotdUxnT00wSE1CSTZLMm90MG5CbElCTm5VYVl4YWdEalNuTkFHYWtjd055ekZlMmg4TzdHeFg3dDJaZElsSmNyRHpvNnRPVlVZSERKVGFlNEp6SVpqdy1fTlRrS1ZVVG51NDFTYWRvSkx3eWx5cTNBd0lCVDdv?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "PTC Korea Hosts ‘PTC Innovation Exchange Korea 2026,’ Unveiling AI-Driven Product Development Strategies for the Physical AI Era 아이씨엔매거진",
-      "publishedAt": "2026-11-12T13:18:28.000Z",
+      "id": "6412bd07fe9c1954",
+      "title": "DataHub and BigID Partner to Bring Data Classification into the Context Platform - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcXFPcDlfYjEwMGhTWUliN1F3WWZrY25fbUo2UWQwTzRrUkFFRHUxSVlLNjdYQmxJc3pzMFduNWphWE51SG5nSEd5cnlJNHNaYzJWNmd1NEdrZUdDZWRoX2t3QUZfbHFUTDFiaw?oc=5",
+      "source": "Google News: trustworthy AI governance",
+      "summary": "DataHub and BigID Partner to Bring Data Classification into the Context Platform IT비즈뉴스",
+      "publishedAt": "2026-11-13T03:24:00.000Z",
       "rank": 8
     }
   ],
