@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T05:11:06.798Z",
-  "projectsCheckedAt": "2026-11-14T05:11:06.798Z",
+  "updatedAt": "2026-11-15T05:03:25.855Z",
+  "projectsCheckedAt": "2026-11-15T05:03:25.855Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,18 +54,27 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-14T05:11:06.798Z",
+    "checkedAt": "2026-11-15T05:03:25.855Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "e416696338d43edb",
-      "title": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWtxOEUwTnV2NTlUcDFIWW52WFlqZlg2Q2l5UFl1SzhGVmJ4SF9DbzBOU2lyT2RKczUwOG5hOVpuMFRkcEdYT29FX3p6ODdCRTlXaHV6Rldqa2s3U1FhY1p5ZnVVUHM4eUViai1VaWxxTzNQWk5ITFNCOGdHeVQyaURjMFFJR3hnSG04TVBiWQ?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-11-13T02:01:07.000Z",
+      "id": "901ec4298f1a8039",
+      "title": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 - Inter-American Development Bank",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOektEUTB3V2NUUklhdFpmZVlkSXNTaGk3eVNNTjd3RGpXTk0zTnlYZzhacUE3ZlVZZ1p3UFllcHZsUjVyTHM4Ry01TmtKcTduZ0cyTFdkMXVyMko0b3pXbUdZNEx0MHhONlptY3ZIV25wal92WndmZjlFNnlMQ2U0WUExcHF1NDNwZnQ1U3JVYktpX0JnbnhKSkIteklHVnNBbHhqeC1UWng2RjRGcGM3OFUxczYwTjZEdDFrZXR0VEN1dG9KTnc?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 Inter-American Development Bank",
+      "publishedAt": "2026-11-14T03:52:54.000Z",
       "rank": 1
+    },
+    {
+      "id": "c5cc92e08a44d7f5",
+      "title": "81% of Software Teams Have Merged AI-Written Code They Didn't Fully Understand, Finds TestMu AI's State of AI in Quality Engineering 2026 Report - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MalFlcmxqOGJXSVZjTlB0MV9ReXN3UHJTNmtzRzU3Nkt6QzBYUHMyMU5TcGhweUp0QUNhV3VSQ1RIc2RMNWpBLWxyVWtVcE1VemFINkpxYUI5TUozV2ZMUGI2bjZnN3d2?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "81% of Software Teams Have Merged AI-Written Code They Didn't Fully Understand, Finds TestMu AI's State of AI in Quality Engineering 2026 Report KIPOST",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "rank": 2
     },
     {
       "id": "364edb760715bbe6",
@@ -74,7 +83,16 @@
       "source": "Google News: AI standardization",
       "summary": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 메디포뉴스",
       "publishedAt": "2026-11-13T16:06:35.000Z",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "21d69aed81f1bcef",
+      "title": "중앙대, ‘2026 글로벌 컨퍼런스’ 성료… 실감미디어·AI 기반 한·베 협력 논의 - 한국투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRQ1dITFlhT1F6c1VZMFdPZjFpUWZrbTQtdmpjZjZxZ3lnYmVBUkk0a01pUEN2WjBxWVJYTkRnMjMxSzFzeERDeHRxTF85c3RnNkdNdE5qSk9mdnc3UEdUcXdZODNKS3hXUXh4WFJB0gFuQVVfeXFMUFFDV0hMWWFPUXpzVVkwV09mMWlRZmttNC12amNmNnFneWdiZUFSSTRrTWlQQ3ZaMHFZUlhORGcyMzFLMXN4REN4dHFMXzlzdGc2R010TmpKT2Z2dzdQR1Rxd1k4M0pLeFdReHhYUkE?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "중앙대, ‘2026 글로벌 컨퍼런스’ 성료… 실감미디어·AI 기반 한·베 협력 논의 한국투데이",
+      "publishedAt": "2026-11-13T08:29:20.000Z",
+      "rank": 4
     },
     {
       "id": "05adb28bef647f0b",
@@ -83,7 +101,7 @@
       "source": "Google News: IT standardization",
       "summary": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 머니투데이",
       "publishedAt": "2026-11-13T08:00:00.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "fda0b9a31dbc184b",
@@ -92,7 +110,7 @@
       "source": "Google News: AI standardization",
       "summary": "복지부, 병원마다 다른 진료기록 AI로 표준화‥\"의료정보 연계 확대\" MBC 뉴스",
       "publishedAt": "2026-11-13T07:44:11.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "a76a7b6619bb3937",
@@ -101,33 +119,15 @@
       "source": "Google News: AI standardization",
       "summary": "복지부, AI 기반 데이터 표준화…\"의료기관 간 정보 연계 확대\" 연합뉴스",
       "publishedAt": "2026-11-13T05:38:06.000Z",
-      "rank": 5
-    },
-    {
-      "id": "8892ebc02b92637a",
-      "title": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03LXRfRzNmc01ndTZoY3NPQzhaSDZhUW5nS0NnbWVXbXgxS1VNOWFCR0t2dTZXWjBvTUlPNHpXa2ZVNlBfMWFsOEJyd2h2aVhWUEpnYVZR?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 중앙일보",
-      "publishedAt": "2026-11-12T05:20:45.000Z",
-      "rank": 6
-    },
-    {
-      "id": "cc2867f7a0e5467f",
-      "title": "식품산업, AI·로봇 도입 확산…표준화로 제조혁신 뒷받침 - 한국식품의약신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tOUljS3UtaE5BN0RwNE5kWDItZ3JnN0lBWFZkbk5IN1hDbDJBVk9KSHhncUtZVTlEMkV2WDFnOVpnakM2cWE1SzlYWnJncFZYc0VLRVlmMjBSTUJkd2l4TW1wS2UzZzg?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "식품산업, AI·로봇 도입 확산…표준화로 제조혁신 뒷받침 한국식품의약신문",
-      "publishedAt": "2026-11-13T03:26:24.000Z",
       "rank": 7
     },
     {
-      "id": "6412bd07fe9c1954",
-      "title": "DataHub and BigID Partner to Bring Data Classification into the Context Platform - IT비즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcXFPcDlfYjEwMGhTWUliN1F3WWZrY25fbUo2UWQwTzRrUkFFRHUxSVlLNjdYQmxJc3pzMFduNWphWE51SG5nSEd5cnlJNHNaYzJWNmd1NEdrZUdDZWRoX2t3QUZfbHFUTDFiaw?oc=5",
-      "source": "Google News: trustworthy AI governance",
-      "summary": "DataHub and BigID Partner to Bring Data Classification into the Context Platform IT비즈뉴스",
-      "publishedAt": "2026-11-13T03:24:00.000Z",
+      "id": "e416696338d43edb",
+      "title": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWtxOEUwTnV2NTlUcDFIWW52WFlqZlg2Q2l5UFl1SzhGVmJ4SF9DbzBOU2lyT2RKczUwOG5hOVpuMFRkcEdYT29FX3p6ODdCRTlXaHV6Rldqa2s3U1FhY1p5ZnVVUHM4eUViai1VaWxxTzNQWk5ITFNCOGdHeVQyaURjMFFJR3hnSG04TVBiWQ?oc=5",
+      "source": "Google News: ISO/IEC AI standard",
+      "summary": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 Naver Blog",
+      "publishedAt": "2026-11-13T02:01:07.000Z",
       "rank": 8
     }
   ],
