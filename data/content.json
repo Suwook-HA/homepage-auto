@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T05:03:25.855Z",
-  "projectsCheckedAt": "2026-11-15T05:03:25.855Z",
+  "updatedAt": "2026-11-16T05:00:47.756Z",
+  "projectsCheckedAt": "2026-11-16T05:00:47.756Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,10 +54,19 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-15T05:03:25.855Z",
+    "checkedAt": "2026-11-16T05:00:47.756Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "b03d1c26c232a05d",
+      "title": "디지털 혁신을 성공으로 이끄는 진짜 비결, 사람에 대한 공감 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakhhX0JMbzhHSU5CelFwVnE5TURGMlVOXzBxTTJaa2pJNVlLaWF2MWtFSnJMQ1pCeGdOR3k1bEtkWnVHM1B3ZFlrbjN6aVNvcm5RZG05VlQxSkt2RVBZWlJFS2lyUkViYkN0WHlPZ2g0YkR0QjVUT1o1WG9iNklSUlJYUDFkZExPS1BDYm8tczJjNlF6QVNYWkRCYTE2d2F5MngyUlFzWVVvQmp0U3c?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "디지털 혁신을 성공으로 이끄는 진짜 비결, 사람에 대한 공감 IBM",
+      "publishedAt": "2026-11-15T19:01:29.000Z",
+      "rank": 1
+    },
     {
       "id": "901ec4298f1a8039",
       "title": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 - Inter-American Development Bank",
@@ -65,15 +74,6 @@
       "source": "Google News: Digital Transformation",
       "summary": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 Inter-American Development Bank",
       "publishedAt": "2026-11-14T03:52:54.000Z",
-      "rank": 1
-    },
-    {
-      "id": "c5cc92e08a44d7f5",
-      "title": "81% of Software Teams Have Merged AI-Written Code They Didn't Fully Understand, Finds TestMu AI's State of AI in Quality Engineering 2026 Report - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MalFlcmxqOGJXSVZjTlB0MV9ReXN3UHJTNmtzRzU3Nkt6QzBYUHMyMU5TcGhweUp0QUNhV3VSQ1RIc2RMNWpBLWxyVWtVcE1VemFINkpxYUI5TUozV2ZMUGI2bjZnN3d2?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "81% of Software Teams Have Merged AI-Written Code They Didn't Fully Understand, Finds TestMu AI's State of AI in Quality Engineering 2026 Report KIPOST",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
       "rank": 2
     },
     {
@@ -122,12 +122,12 @@
       "rank": 7
     },
     {
-      "id": "e416696338d43edb",
-      "title": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWtxOEUwTnV2NTlUcDFIWW52WFlqZlg2Q2l5UFl1SzhGVmJ4SF9DbzBOU2lyT2RKczUwOG5hOVpuMFRkcEdYT29FX3p6ODdCRTlXaHV6Rldqa2s3U1FhY1p5ZnVVUHM4eUViai1VaWxxTzNQWk5ITFNCOGdHeVQyaURjMFFJR3hnSG04TVBiWQ?oc=5",
+      "id": "8892ebc02b92637a",
+      "title": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03LXRfRzNmc01ndTZoY3NPQzhaSDZhUW5nS0NnbWVXbXgxS1VNOWFCR0t2dTZXWjBvTUlPNHpXa2ZVNlBfMWFsOEJyd2h2aVhWUEpnYVZR?oc=5",
       "source": "Google News: ISO/IEC AI standard",
-      "summary": "더존비즈온, AI 경영시스템 국제표준 'ISO/IEC 42001' 인증 획득 : 네이버 블로그 Naver Blog",
-      "publishedAt": "2026-11-13T02:01:07.000Z",
+      "summary": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 중앙일보",
+      "publishedAt": "2026-11-12T05:20:45.000Z",
       "rank": 8
     }
   ],
