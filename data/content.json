@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T05:00:47.756Z",
-  "projectsCheckedAt": "2026-11-16T05:00:47.756Z",
+  "updatedAt": "2026-11-17T06:49:47.054Z",
+  "projectsCheckedAt": "2026-11-17T06:49:47.054Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,27 +54,36 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-16T05:00:47.756Z",
+    "checkedAt": "2026-11-17T06:49:47.054Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "b03d1c26c232a05d",
-      "title": "디지털 혁신을 성공으로 이끄는 진짜 비결, 사람에 대한 공감 - IBM",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakhhX0JMbzhHSU5CelFwVnE5TURGMlVOXzBxTTJaa2pJNVlLaWF2MWtFSnJMQ1pCeGdOR3k1bEtkWnVHM1B3ZFlrbjN6aVNvcm5RZG05VlQxSkt2RVBZWlJFS2lyUkViYkN0WHlPZ2g0YkR0QjVUT1o1WG9iNklSUlJYUDFkZExPS1BDYm8tczJjNlF6QVNYWkRCYTE2d2F5MngyUlFzWVVvQmp0U3c?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "디지털 혁신을 성공으로 이끄는 진짜 비결, 사람에 대한 공감 IBM",
-      "publishedAt": "2026-11-15T19:01:29.000Z",
+      "id": "6750380446bc75d7",
+      "title": "KACI, ‘2026 AI-Cloud 표준화 워크숍’ 26일 개최…에이전틱 AI 표준화 모색 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xUjZGYzJhNHBrcTcxQWl5VEV4Q0FMb2l6YkhTcFZXVzBVZEVZZ1Z1emxUbEV5SVNmMlgxcTloYTdkVk0xWWhHU2pKZHJGdnZCWUZQS2tFRWdFREdTWWVOemk3LTBrSk5V?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "KACI, ‘2026 AI-Cloud 표준화 워크숍’ 26일 개최…에이전틱 AI 표준화 모색 아이티데일리",
+      "publishedAt": "2026-11-16T08:27:05.000Z",
       "rank": 1
     },
     {
-      "id": "901ec4298f1a8039",
-      "title": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 - Inter-American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOektEUTB3V2NUUklhdFpmZVlkSXNTaGk3eVNNTjd3RGpXTk0zTnlYZzhacUE3ZlVZZ1p3UFllcHZsUjVyTHM4Ry01TmtKcTduZ0cyTFdkMXVyMko0b3pXbUdZNEx0MHhONlptY3ZIV25wal92WndmZjlFNnlMQ2U0WUExcHF1NDNwZnQ1U3JVYktpX0JnbnhKSkIteklHVnNBbHhqeC1UWng2RjRGcGM3OFUxczYwTjZEdDFrZXR0VEN1dG9KTnc?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "스마트 전력망: 배전 자동화를 통한 온두라스 배전 시스템 현대화 Inter-American Development Bank",
-      "publishedAt": "2026-11-14T03:52:54.000Z",
+      "id": "0b1e147baca3362e",
+      "title": "AI 에이전트 시대 표준화 해법 모색…KACI, 26일 워크숍 개최 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdXp6dFN5Z2ZNVjliZ3I2aTZjODQ4NGVCc1VSNWl6b29rOHI1VEhSUGZUWjFQVFdua3lUTGlicXRabXo1aTlBYkd2NGFZYU1JR3N3SWRB?oc=5",
+      "source": "Google News: IT standardization",
+      "summary": "AI 에이전트 시대 표준화 해법 모색…KACI, 26일 워크숍 개최 지디넷코리아",
+      "publishedAt": "2026-11-16T07:15:58.000Z",
       "rank": 2
+    },
+    {
+      "id": "857b5cc4450eb1f7",
+      "title": "\"AI 시대, 표준이 경쟁력 가른다\"···'산업 AI 표준화 포럼' 개최 - 헬로디디",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93QlNBd2V3blBfMktUcnJZUUl2WVRJNTJSYU0tdFdCQUFGeFJYRmNydW5nSWNyS0RBaGZpMEF3dVNqZTU2NWV4TlA1TmNnN0piOGJ3ZXBvcUI1M2Ryb0dON3hIY205YnJBY3c?oc=5",
+      "source": "Google News: AI standardization",
+      "summary": "\"AI 시대, 표준이 경쟁력 가른다\"···'산업 AI 표준화 포럼' 개최 헬로디디",
+      "publishedAt": "2026-11-16T06:30:00.000Z",
+      "rank": 3
     },
     {
       "id": "364edb760715bbe6",
@@ -83,15 +92,6 @@
       "source": "Google News: AI standardization",
       "summary": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 메디포뉴스",
       "publishedAt": "2026-11-13T16:06:35.000Z",
-      "rank": 3
-    },
-    {
-      "id": "21d69aed81f1bcef",
-      "title": "중앙대, ‘2026 글로벌 컨퍼런스’ 성료… 실감미디어·AI 기반 한·베 협력 논의 - 한국투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRQ1dITFlhT1F6c1VZMFdPZjFpUWZrbTQtdmpjZjZxZ3lnYmVBUkk0a01pUEN2WjBxWVJYTkRnMjMxSzFzeERDeHRxTF85c3RnNkdNdE5qSk9mdnc3UEdUcXdZODNKS3hXUXh4WFJB0gFuQVVfeXFMUFFDV0hMWWFPUXpzVVkwV09mMWlRZmttNC12amNmNnFneWdiZUFSSTRrTWlQQ3ZaMHFZUlhORGcyMzFLMXN4REN4dHFMXzlzdGc2R010TmpKT2Z2dzdQR1Rxd1k4M0pLeFdReHhYUkE?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "중앙대, ‘2026 글로벌 컨퍼런스’ 성료… 실감미디어·AI 기반 한·베 협력 논의 한국투데이",
-      "publishedAt": "2026-11-13T08:29:20.000Z",
       "rank": 4
     },
     {
@@ -113,95 +113,86 @@
       "rank": 6
     },
     {
-      "id": "a76a7b6619bb3937",
-      "title": "복지부, AI 기반 데이터 표준화…\"의료기관 간 정보 연계 확대\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40V0JuS3lGV2RRa3QtYkpsWkhiWFRVc25ObE1fMEVTejhmZGdRMF92c3VEVEZ1cVdGY2w2bS1TYjRuSG9PWEQwQWJ1Yk1jOTJYRC1xLUduUzB5U2fSAWBBVV95cUxOdVFuRG53ekVzUWszaVRJQnJmUV9uYURfMVRpc0M0WWRnYjRYM2tEbmY0ckMtYzJhZUVjOGs3OENFUjY1UkRMMWlrdExqZE1MT1VQd2MtTzhpbGpndU9qQ20?oc=5",
+      "id": "7724c9d5ff167215",
+      "title": "렉터스, KAIST 연구센터와 AI 건축 데이터 표준화 기술 실증 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xbXN3d3JWQVNFeEZTbFhHMHM1c3JnN1pyLVZUZjd2MlVoNUlDWmFBdFpvVkstUmhaVGdEb3pSWWpJRmZIZU4zWmJMS0dvSzhSaVA0OF9sVlYxRFNQQmFGSFdEdXE2TnFXM3Q4dXBIZ25CbWhoWWfSAWZBVV95cUxNNkx0QkctWXNDSDdyTFBOZDVTZnZQTlJlZWU5VWNoUnNCNGZ4cDJmNTd0azBTVXpNMjEtX3ctS3A3S1Y0NTZ6bWhvelBUVWdmYkNLZHVYRERxQlFfWWNqQWVSWGN5MGc?oc=5",
       "source": "Google News: AI standardization",
-      "summary": "복지부, AI 기반 데이터 표준화…\"의료기관 간 정보 연계 확대\" 연합뉴스",
-      "publishedAt": "2026-11-13T05:38:06.000Z",
+      "summary": "렉터스, KAIST 연구센터와 AI 건축 데이터 표준화 기술 실증 동아일보",
+      "publishedAt": "2026-11-13T07:37:18.000Z",
       "rank": 7
-    },
-    {
-      "id": "8892ebc02b92637a",
-      "title": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03LXRfRzNmc01ndTZoY3NPQzhaSDZhUW5nS0NnbWVXbXgxS1VNOWFCR0t2dTZXWjBvTUlPNHpXa2ZVNlBfMWFsOEJyd2h2aVhWUEpnYVZR?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "더존비즈온, 국제표준 ‘ISO/IEC 42001’ 인증 획득…‘ONE AI’ 공급·운영 부문 중앙일보",
-      "publishedAt": "2026-11-12T05:20:45.000Z",
-      "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "091a76dab5965821",
-      "title": "AI Policy Moves From Washington to the States",
-      "url": "https://www.youtube.com/watch?v=EBN1Nav9HNs",
+      "id": "e22e4ad162f8b22b",
+      "title": "Hadrian Targets Critical Bottleneck in US Shipbuilding",
+      "url": "https://www.youtube.com/watch?v=m1l2YD-T04M",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/EBN1Nav9HNs/hqdefault.jpg",
-      "publishedAt": "2026-11-06T18:52:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/m1l2YD-T04M/hqdefault.jpg",
+      "publishedAt": "2026-11-16T19:04:12.000Z",
       "viewCount": 0
     },
     {
-      "id": "4609a9e0f3739b12",
-      "title": "Tech Stocks Rebound as Dip Buyers Return to AI Trade",
-      "url": "https://www.youtube.com/watch?v=pmQiJaPAFPY",
+      "id": "9c975a22e469443e",
+      "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
+      "url": "https://www.youtube.com/watch?v=HZCVl__SBJM",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/pmQiJaPAFPY/hqdefault.jpg",
-      "publishedAt": "2026-11-06T18:51:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HZCVl__SBJM/hqdefault.jpg",
+      "publishedAt": "2026-11-16T19:03:23.000Z",
       "viewCount": 0
     },
     {
-      "id": "ea53caff2084e410",
-      "title": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout",
-      "url": "https://www.youtube.com/watch?v=B07pGZCiADo",
+      "id": "8677b6c69121ce5d",
+      "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
+      "url": "https://www.youtube.com/watch?v=NWwia17We98",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/B07pGZCiADo/hqdefault.jpg",
-      "publishedAt": "2026-11-06T18:49:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NWwia17We98/hqdefault.jpg",
+      "publishedAt": "2026-11-16T18:56:34.000Z",
       "viewCount": 0
     },
     {
-      "id": "eaef06c101bae365",
-      "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-      "url": "https://www.youtube.com/watch?v=fjnhTbAtTpI",
+      "id": "a407f3e034ae535f",
+      "title": "Nvidia Bull: AI Growth Story Remains Intact",
+      "url": "https://www.youtube.com/watch?v=aK9ZJ5HrMvE",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/fjnhTbAtTpI/hqdefault.jpg",
-      "publishedAt": "2026-11-06T18:47:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/aK9ZJ5HrMvE/hqdefault.jpg",
+      "publishedAt": "2026-11-16T18:54:42.000Z",
       "viewCount": 0
     },
     {
-      "id": "f0bef20f844543b9",
-      "title": "Investing in Prediction Markets Will Pay Off, DraftKings CEO Says",
-      "url": "https://www.youtube.com/watch?v=G4yyD0buRxg",
+      "id": "e4559402893bed24",
+      "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
+      "url": "https://www.youtube.com/watch?v=hPlqOGJvqqw",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/G4yyD0buRxg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T17:59:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/hPlqOGJvqqw/hqdefault.jpg",
+      "publishedAt": "2026-11-16T18:50:01.000Z",
       "viewCount": 0
     },
     {
-      "id": "d1ae4ece8217b0d5",
-      "title": "Lyft CEO Says Company Takes Up to 30% of Fare That Riders Pay",
-      "url": "https://www.youtube.com/watch?v=rWBcFF_uhP8",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/rWBcFF_uhP8/hqdefault.jpg",
-      "publishedAt": "2026-11-06T17:44:51.000Z",
+      "id": "3a81e1c13b3270ef",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/vVVdxMwPBuA/hqdefault.jpg",
+      "publishedAt": "2026-11-16T16:55:56.000Z",
       "viewCount": 0
     },
     {
-      "id": "8aae6017bb82ceb9",
-      "title": "Defense Tech Boom Fuels Shield AI’s Expansion",
-      "url": "https://www.youtube.com/watch?v=U2zcZNNlsBI",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/U2zcZNNlsBI/hqdefault.jpg",
-      "publishedAt": "2026-11-05T18:53:21.000Z",
+      "id": "e62cc62b31868955",
+      "title": "AI doubled your output. Did it triple your incidents? | Dash0 on Google Cloud",
+      "url": "https://www.youtube.com/watch?v=ylbkczXqYeM",
+      "channel": "Google Cloud Tech",
+      "thumbnail": "https://i.ytimg.com/vi/ylbkczXqYeM/hqdefault.jpg",
+      "publishedAt": "2026-11-16T16:00:19.000Z",
       "viewCount": 0
     },
     {
-      "id": "f602de4ad11fec45",
-      "title": "Agility Robotics Makes Public Debut as Humanoids Scale",
-      "url": "https://www.youtube.com/watch?v=eNSzMo0tU6U",
+      "id": "031e733a0ccca536",
+      "title": "SpaceX Successfully Catches Starship Rocket After Launch",
+      "url": "https://www.youtube.com/watch?v=XbSyuqVo_ms",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/eNSzMo0tU6U/hqdefault.jpg",
-      "publishedAt": "2026-11-05T18:50:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/XbSyuqVo_ms/hqdefault.jpg",
+      "publishedAt": "2026-11-16T14:04:50.000Z",
       "viewCount": 0
     }
   ],
