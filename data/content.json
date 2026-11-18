@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T06:49:47.054Z",
-  "projectsCheckedAt": "2026-11-17T06:49:47.054Z",
+  "updatedAt": "2026-11-18T06:08:33.790Z",
+  "projectsCheckedAt": "2026-11-18T06:08:33.790Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,145 +54,154 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-17T06:49:47.054Z",
+    "checkedAt": "2026-11-18T06:08:33.790Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "6750380446bc75d7",
-      "title": "KACI, ‘2026 AI-Cloud 표준화 워크숍’ 26일 개최…에이전틱 AI 표준화 모색 - 아이티데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xUjZGYzJhNHBrcTcxQWl5VEV4Q0FMb2l6YkhTcFZXVzBVZEVZZ1Z1emxUbEV5SVNmMlgxcTloYTdkVk0xWWhHU2pKZHJGdnZCWUZQS2tFRWdFREdTWWVOemk3LTBrSk5V?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "KACI, ‘2026 AI-Cloud 표준화 워크숍’ 26일 개최…에이전틱 AI 표준화 모색 아이티데일리",
-      "publishedAt": "2026-11-16T08:27:05.000Z",
+      "id": "aaf3a74ea0e087c0",
+      "title": "마이크로소프트 이그나이트 2026 개막…인간의 포부·지능·신뢰 기반 ‘프론티어 생태계’ 구축한다 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNN2tROS1iTmNGZzN2N2VMeGp1cWZBOTJMUk90bVVidnctcTgxRWdmbDFEUTdpb0VubzRZdnczNzl5al9jOG5iYmpLVFdwZ3NJa1BRUnUxRkVuQmp2bV9SYXdfb3dzUGlhbTg5ZnZRMEhUbUNrMU5McHV4QjdGVlVReTJEbS1BUDNwOE5sbm5ybzJ1d3NuLWpsSXFKTXo5UGhKYkpieEJJSDdOdnZ1aHJGX1dYc1ktRXdXbVo2eXhwQTdtYWVyN1dIREc0dDEzOGxaZ3hScGhzZWM1dUFOTDNtSEFqTDhNNzlIelQ2czVXNFB4bjBmRnZjMjJMOGtTQmRVMHUzdVk5aXU2T1hsd0NTTkc3WTBUTF9nRWJ0X3BZNzIxVHFkcnR1TXU3QmxnMVozYkxtc0w2ZmNLcU4zQ1pYTmhwVnNkX2hIdmZ1OGE5ZGlpRHFsa2NDS195T3dacUFuOEE?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "마이크로소프트 이그나이트 2026 개막…인간의 포부·지능·신뢰 기반 ‘프론티어 생태계’ 구축한다 Microsoft Source",
+      "publishedAt": "2026-11-18T00:02:41.000Z",
       "rank": 1
     },
     {
-      "id": "0b1e147baca3362e",
-      "title": "AI 에이전트 시대 표준화 해법 모색…KACI, 26일 워크숍 개최 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdXp6dFN5Z2ZNVjliZ3I2aTZjODQ4NGVCc1VSNWl6b29rOHI1VEhSUGZUWjFQVFdua3lUTGlicXRabXo1aTlBYkd2NGFZYU1JR3N3SWRB?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "AI 에이전트 시대 표준화 해법 모색…KACI, 26일 워크숍 개최 지디넷코리아",
-      "publishedAt": "2026-11-16T07:15:58.000Z",
+      "id": "a06ca3dadc6788de",
+      "title": "\"불량 수액제 95% AI로 솎아낸다\"…CJ올리브네트웍스, 와이즈메디 공장 AI 개조 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51R3dLY1hPeGtUV21vOUs1bmluZkRacjB2eDhmOXktRGd1LUpSV01wakdnYVhuUEZNY29fN2ZUeFUxT3VXT3NNMmdZQUppeWZPR1d4cjM1M1lKRTIzZjBycVlJODNRTmZEZnA4bVNRdldUc0lhYk8tYzN30gF6QVVfeXFMTnVHd0tjWE94a1RXbW85SzVuaW5mRFpyMHZ4OGY5eS1EZ3UtSlJXTXBqR2dhWG5QRk1jb183ZlR4VTFPdVdPc00yZ1lBSml5Zk9HV3hyMzUzWUpFMjNmMHJxWUk4M1FOZkRmcDhtU1F2V1RzSWFiTy1jM3c?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "\"불량 수액제 95% AI로 솎아낸다\"…CJ올리브네트웍스, 와이즈메디 공장 AI 개조 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-17T23:58:59.000Z",
       "rank": 2
     },
     {
-      "id": "857b5cc4450eb1f7",
-      "title": "\"AI 시대, 표준이 경쟁력 가른다\"···'산업 AI 표준화 포럼' 개최 - 헬로디디",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93QlNBd2V3blBfMktUcnJZUUl2WVRJNTJSYU0tdFdCQUFGeFJYRmNydW5nSWNyS0RBaGZpMEF3dVNqZTU2NWV4TlA1TmNnN0piOGJ3ZXBvcUI1M2Ryb0dON3hIY205YnJBY3c?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "\"AI 시대, 표준이 경쟁력 가른다\"···'산업 AI 표준화 포럼' 개최 헬로디디",
-      "publishedAt": "2026-11-16T06:30:00.000Z",
+      "id": "5fba103dd1394e0d",
+      "title": "Selectstar and Shinhan Bank to Establish Financial AI Evaluation Standards… 5,000 Questions for 'K-BankEval' Adopted by International Conference - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHQUlTVkhhMVMtVDhXSHB4cGZJanBqdTlzRzIzOUp3YmdjZS1yMTJidEJlS1lJN0RWY1A5dTZIb2NoOXNBakdFVXdHc2ViY043ZWdr?oc=5",
+      "source": "Google News: International Standardization",
+      "summary": "Selectstar and Shinhan Bank to Establish Financial AI Evaluation Standards… 5,000 Questions for 'K-BankEval' Adopted by International Conference 벤처스퀘어",
+      "publishedAt": "2026-11-17T09:47:55.000Z",
       "rank": 3
     },
     {
-      "id": "364edb760715bbe6",
-      "title": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 - 메디포뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VUXQ4Q0ZraU5IUXZpSFBFdC1lSWxvci1Pb2t0MWk1MjdldVA4ZE5oSjlnMTFLdWhSaVNiZGRWRXcwclhvdW1abU94M0pKSHJJanhoWGdrWWdQbThsZ0g2VHVUR2I?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "복지부, 의료데이터 표준화 지원 AI 시제품 공개 메디포뉴스",
-      "publishedAt": "2026-11-13T16:06:35.000Z",
+      "id": "d1af0b505169bb2a",
+      "title": "2026. 11. 18.,수 SNU AI.MED Talks 26 - 23rd Seminar, 가천의대 한창호 교수 - 전체 행사 - SNU 캘린더 - 서울대 소식 - 서울대학교",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVVGIzeDZLLXcxVG1rUW9WUGlDb0FBcGFEdV96Z3lSN1Rwc3RwV3V3RmRHaXFYYmVobm9INV93RW5tbnhyYkJ3ZlMzSmtOLW5INDc3R2NzQmxwdmd3TVkwN1NCLW8?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "2026. 11. 18.,수 SNU AI.MED Talks 26 - 23rd Seminar, 가천의대 한창호 교수 - 전체 행사 - SNU 캘린더 - 서울대 소식 서울대학교",
+      "publishedAt": "2026-11-17T15:17:24.000Z",
       "rank": 4
     },
     {
-      "id": "05adb28bef647f0b",
-      "title": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMFhRaDVRcmh6bGxwZXNoOUxJcjhnem9FYlk3eEd6eTFSNFBzRXZCU2Z5N2NZNTJ1VXdRVWxLTllNWllOMnBOY0hJWXhHWWVkYWFua0FsZ1lub0tWemVnd0xsTk1oQmtQbGfSAW9BVV95cUxQcFMwcHJSS1RXYmRNalVxWDEyc0xmemRIYVRmWTdnbVFrbmgxZVhrcWlGcjdxci1TTlVwVF9BLVVJREdCblZUT3ZKOXBQZ2JLcUcyVHZTUU5LeW1VYU84Y19OUklWUzIwMHdheWlPTXc?oc=5",
-      "source": "Google News: IT standardization",
-      "summary": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 머니투데이",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "id": "9aabb0cc7c7ff6d6",
+      "title": "CP Group's Makro Completes Southeast Asia's First Large-Scale Complex Data Platform Consolidation with Tencent Cloud - KIPOST",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY1BWUnNZQ2MyaG1vRHQ0NzBEd3BDUEZWcGlCcEFlQmRQcXplaEI4RVd2VUpQd2dVZzdxWXg2UGh1dTVXQUg1ZEhVU0JCd3Vyb010aHVvTWU3N25TZEIxdWI4RFZELWZp0gFsQVVfeXFMTngyREpod1ZJZk9jWURVM2FkU3ZNc0UycmRTRnM2dkNPY3oyV2JrcmFxSnI3TWpPeWNaNVVuNFBhUmowcG94a19qd3owaEw3WmNESGFFbnVHam9kVTYyVFhacFVFbEswQ0w4VC1r?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "CP Group's Makro Completes Southeast Asia's First Large-Scale Complex Data Platform Consolidation with Tencent Cloud KIPOST",
+      "publishedAt": "2026-11-17T09:00:00.000Z",
       "rank": 5
     },
     {
-      "id": "fda0b9a31dbc184b",
-      "title": "복지부, 병원마다 다른 진료기록 AI로 표준화‥\"의료정보 연계 확대\" - MBC 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TYjZwcUdEaFdDUXBWbDJEbkRHVjQ0aGVieDRXM0VoRExTMTEySFdheGtaMzdIeExZSEc1N215enU2NThnb1RjMHJicEd3V0xXcVpZTTY4Mzd1dnpubThjRm91dkpwRGJMeGE0SERSZHhpd09ZemNz0gF3QVVfeXFMTnlxc1lQalhobzgyaGtoRVJzaUNMNHFNcnhremhGOHlodEZoRk5GM3AwVmRjNnloSWRwSTM5WGJWMjJNRWFjUkp4QURCc2RRZWdDdG8yY0F6Wko5c1YwcFBvakkyVmpoOWg4MVRSazVLdk9ZbUhXSE0?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "복지부, 병원마다 다른 진료기록 AI로 표준화‥\"의료정보 연계 확대\" MBC 뉴스",
-      "publishedAt": "2026-11-13T07:44:11.000Z",
+      "id": "096ee72b19450654",
+      "title": "수원시, 정부 주도 반도체메가클러스터 구상서 R&D 거점 육성전략 편다 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNckJwX2FKekZMNU92ckRzUnlWTUpEOEdwU0MxZUd4SHIxdHZma0xHX2xYRHkyN2drSGRIN0liWlZ6N0hYMGFlek94d1JpeTJMRVQ1R2doWGpEN3M5YW1ZOHNtMS1WMTE5Zml2bkV1Zk83THVSLTRNOXpRUFZtbmE5ZFBoZnp1SDhrQzM0ei14eHRhMU91ck8zN1oycUlvb0JNUmpqTkRWc2MydmdEYzkyaVVZWUxhQlNFOU91MGNxSG5iY3VEbkx3OTk2XzhlRUtDZ1d1LVJIRXdONHVTNDJqOXI4MU16VFNQZUoxVGZ3NndRWEFlam9jT0ktNHVrOVZab282VlIwMGRLSjVQZks1UTRwS0RUdUZERVc2N01Id1ZQSHFPTEtnVk9oeHdhNTRPOUhRTE9wdFlNZ2swb0dyQmk0LXZqNGE1ekM5c2VfVUxmNk9vcDBQY2d3emxOZkNzWHIwNVE4TDBGN0dNNGhVdGdZZEJ0SkhyanJobUVaT3Z5Uk1NaFd3b2FuOVNaOENMMW1KemhIUzAtN3RDYXdYSXh5SVhoTlBnM25JMXI5ZVE?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "수원시, 정부 주도 반도체메가클러스터 구상서 R&D 거점 육성전략 편다 중앙신문",
+      "publishedAt": "2026-11-17T08:23:41.000Z",
       "rank": 6
     },
     {
-      "id": "7724c9d5ff167215",
-      "title": "렉터스, KAIST 연구센터와 AI 건축 데이터 표준화 기술 실증 - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xbXN3d3JWQVNFeEZTbFhHMHM1c3JnN1pyLVZUZjd2MlVoNUlDWmFBdFpvVkstUmhaVGdEb3pSWWpJRmZIZU4zWmJMS0dvSzhSaVA0OF9sVlYxRFNQQmFGSFdEdXE2TnFXM3Q4dXBIZ25CbWhoWWfSAWZBVV95cUxNNkx0QkctWXNDSDdyTFBOZDVTZnZQTlJlZWU5VWNoUnNCNGZ4cDJmNTd0azBTVXpNMjEtX3ctS3A3S1Y0NTZ6bWhvelBUVWdmYkNLZHVYRERxQlFfWWNqQWVSWGN5MGc?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "렉터스, KAIST 연구센터와 AI 건축 데이터 표준화 기술 실증 동아일보",
-      "publishedAt": "2026-11-13T07:37:18.000Z",
+      "id": "f89dc0a560dfa00c",
+      "title": "[단독] 세무행정에 AI 활용하는 나라의 74%가 탈세적발 목적 - 조세금융신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PWXZIbU8zMUNRcnRjZ3dJdnBWRTdnRmdIT1o4dGhpMjBISVV1SFNyVzkzelV5bzJTYTlPemIwTXpHbkZuT3U2U3pCVVJ3bWlFeVNaWjBldUtfOFlCMjd1OWtaVQ?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "[단독] 세무행정에 AI 활용하는 나라의 74%가 탈세적발 목적 조세금융신문",
+      "publishedAt": "2026-11-17T07:34:18.000Z",
       "rank": 7
+    },
+    {
+      "id": "0c6bc5db69bc6a5d",
+      "title": "국가AI전략위, 대전서 과학AI·K-팩토리 점검…R&D·창업·인재 현장 소통 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZ1RsMkQ2dGU1YkRSODZGcGZyWkJlU3BmQUxrSGV6UE1VNU1zNEt1YXp0S1hpamc1d3RMWEEwWnVoMzVhOTEyVUkyTXh0Y3liVTRkTXdiZTlmYVJ2SVpVRmF5RFVaVHdk?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "국가AI전략위, 대전서 과학AI·K-팩토리 점검…R&D·창업·인재 현장 소통 테크월드",
+      "publishedAt": "2026-11-17T06:57:11.000Z",
+      "rank": 8
     }
   ],
   "videos": [
     {
-      "id": "e22e4ad162f8b22b",
-      "title": "Hadrian Targets Critical Bottleneck in US Shipbuilding",
-      "url": "https://www.youtube.com/watch?v=m1l2YD-T04M",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/m1l2YD-T04M/hqdefault.jpg",
-      "publishedAt": "2026-11-16T19:04:12.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "9c975a22e469443e",
-      "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
-      "url": "https://www.youtube.com/watch?v=HZCVl__SBJM",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/HZCVl__SBJM/hqdefault.jpg",
-      "publishedAt": "2026-11-16T19:03:23.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "8677b6c69121ce5d",
-      "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
-      "url": "https://www.youtube.com/watch?v=NWwia17We98",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/NWwia17We98/hqdefault.jpg",
-      "publishedAt": "2026-11-16T18:56:34.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "a407f3e034ae535f",
-      "title": "Nvidia Bull: AI Growth Story Remains Intact",
-      "url": "https://www.youtube.com/watch?v=aK9ZJ5HrMvE",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/aK9ZJ5HrMvE/hqdefault.jpg",
-      "publishedAt": "2026-11-16T18:54:42.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "e4559402893bed24",
-      "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-      "url": "https://www.youtube.com/watch?v=hPlqOGJvqqw",
-      "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/hPlqOGJvqqw/hqdefault.jpg",
-      "publishedAt": "2026-11-16T18:50:01.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "3a81e1c13b3270ef",
-      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
-      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA",
+      "id": "7ccea702cf508489",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
       "channel": "OpenAI",
-      "thumbnail": "https://i.ytimg.com/vi/vVVdxMwPBuA/hqdefault.jpg",
-      "publishedAt": "2026-11-16T16:55:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
+      "publishedAt": "2026-11-17T23:24:04.000Z",
       "viewCount": 0
     },
     {
-      "id": "e62cc62b31868955",
-      "title": "AI doubled your output. Did it triple your incidents? | Dash0 on Google Cloud",
-      "url": "https://www.youtube.com/watch?v=ylbkczXqYeM",
-      "channel": "Google Cloud Tech",
-      "thumbnail": "https://i.ytimg.com/vi/ylbkczXqYeM/hqdefault.jpg",
-      "publishedAt": "2026-11-16T16:00:19.000Z",
-      "viewCount": 0
-    },
-    {
-      "id": "031e733a0ccca536",
-      "title": "SpaceX Successfully Catches Starship Rocket After Launch",
-      "url": "https://www.youtube.com/watch?v=XbSyuqVo_ms",
+      "id": "67f5c15c19514fd4",
+      "title": "Huang Says He'd Return as Nvidia CEO If Asked to Do So By the Board",
+      "url": "https://www.youtube.com/watch?v=TSnRblXmPJQ",
       "channel": "Bloomberg Technology",
-      "thumbnail": "https://i.ytimg.com/vi/XbSyuqVo_ms/hqdefault.jpg",
-      "publishedAt": "2026-11-16T14:04:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TSnRblXmPJQ/hqdefault.jpg",
+      "publishedAt": "2026-11-17T20:45:32.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "7060cafc5bcb5a2c",
+      "title": "Genesis AI Hits $3.5B Valuation in Robotics Bet",
+      "url": "https://www.youtube.com/watch?v=j4ceS0Dwr8E",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/j4ceS0Dwr8E/hqdefault.jpg",
+      "publishedAt": "2026-11-17T19:08:32.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "0fd52503b851392e",
+      "title": "Anthropic IPO Highlights AI’s Private Market Wealth",
+      "url": "https://www.youtube.com/watch?v=dt4BZfrnxrk",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/dt4BZfrnxrk/hqdefault.jpg",
+      "publishedAt": "2026-11-17T19:04:40.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "d3549a9fa1cc5992",
+      "title": "Nvidia Faces First Earnings Test Since Huang’s Exit",
+      "url": "https://www.youtube.com/watch?v=1J-nUBTHp0w",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/1J-nUBTHp0w/hqdefault.jpg",
+      "publishedAt": "2026-11-17T19:00:15.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "50eb12737bdc4408",
+      "title": "Not to Let Fear Hold Me Back: Interview With Executive Jackie Varela",
+      "url": "https://www.youtube.com/watch?v=kWyAmunGgmA",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/kWyAmunGgmA/hqdefault.jpg",
+      "publishedAt": "2026-11-17T18:55:06.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "e7de020ae9ab886d",
+      "title": "Jensen Huang Signals He’s Ready for Nvidia Comeback",
+      "url": "https://www.youtube.com/watch?v=BeGbUvYxSmg",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/BeGbUvYxSmg/hqdefault.jpg",
+      "publishedAt": "2026-11-17T18:46:54.000Z",
+      "viewCount": 0
+    },
+    {
+      "id": "60c6ab68b2214c55",
+      "title": "Building 3D video sets with GPT-6.2 Astra",
+      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+      "channel": "OpenAI",
+      "thumbnail": "https://i.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
+      "publishedAt": "2026-11-17T18:41:32.000Z",
       "viewCount": 0
     }
   ],
