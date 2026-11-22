@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T05:51:15.984Z",
-  "projectsCheckedAt": "2026-11-21T05:51:15.984Z",
+  "updatedAt": "2026-11-22T05:23:52.277Z",
+  "projectsCheckedAt": "2026-11-22T05:23:52.277Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,7 +54,7 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-21T05:51:15.984Z",
+    "checkedAt": "2026-11-22T05:23:52.277Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
@@ -113,21 +113,21 @@
       "rank": 6
     },
     {
+      "id": "7e6c96ebf46f1448",
+      "title": "충남연구원, 충남 R&D, 반도체·디스플레이 등 전략산업 중심으로 재편… 질적·양적 성과 '전국 최고 수준' - 엠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vckx2NFZWMkV6NUkyQmtmMTVVNlJtVFM3bWZRRXp2NloySWFEemhrR0RqZEZtTl9YTEp3dmZKZFljT0xjaE1MNVgtdmZ1aWJJUm9FU2IxYVRCLUJ3U0hrWHFpd05Vdw?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "충남연구원, 충남 R&D, 반도체·디스플레이 등 전략산업 중심으로 재편… 질적·양적 성과 '전국 최고 수준' 엠뉴스",
+      "publishedAt": "2026-11-19T08:29:19.000Z",
+      "rank": 7
+    },
+    {
       "id": "90f3a734a037a41f",
       "title": "공개 베타 서비스가 시작된 Genie ZeroOps: 8만 건의 고객 문제 해결 경험을 바탕으로 데이터 파이프라인을 수정하는 자율형 에이전트 - Databricks",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXFEXzN6aGpZT1o0Yzk5eGJfQnJQTHhSOS15UDBpS3dINW9OMWZlSGRsVVdWZmM5XzItZm90R0lyU0oxcFhWaXBfSXhXMnVZRzFaTWxXekpzZmJEQUhQdjExc29vVGEycVVvUzhzUWhPZHYyUWZaai11cW9yaUxfSXM1bmJEV2wyQTlEaGs2S3Y2NGFnb013SmVzNzN0a3RJMUswUGJZaGVHUWZrTFZWcmV6OXBWaFBHR2owMFdBaHE4YUk?oc=5",
       "source": "Google News: AI Data Quality",
       "summary": "공개 베타 서비스가 시작된 Genie ZeroOps: 8만 건의 고객 문제 해결 경험을 바탕으로 데이터 파이프라인을 수정하는 자율형 에이전트 Databricks",
       "publishedAt": "2026-11-19T08:00:00.000Z",
-      "rank": 7
-    },
-    {
-      "id": "d2cc77c6c99c1d2a",
-      "title": "경남도, 중소형 조선소 생산기술혁신(DX)센터 준공…스마트 조선 전환 본격화 - 세계환경신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kMmFuNm5UU0tkX3NjQ3J0QVJhSFZnaFVfN20wa2pYZUVBRXJkbUlHblU2Q3lZWVhHa1FsRF9QdzItcnhmUWhrc2wzX0hhZUpiT29BSjRhRzd5QlpNVmxn?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "경남도, 중소형 조선소 생산기술혁신(DX)센터 준공…스마트 조선 전환 본격화 세계환경신문",
-      "publishedAt": "2026-11-19T07:58:36.000Z",
       "rank": 8
     }
   ],
