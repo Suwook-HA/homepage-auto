@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T05:23:52.277Z",
-  "projectsCheckedAt": "2026-11-22T05:23:52.277Z",
+  "updatedAt": "2026-11-23T06:00:09.724Z",
+  "projectsCheckedAt": "2026-11-23T06:00:09.724Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,18 +54,45 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-22T05:23:52.277Z",
+    "checkedAt": "2026-11-23T06:00:09.724Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
     {
-      "id": "8e66f08b5485c433",
-      "title": "Tencent Cloud and The MUI Group to explore collaboration on digital transformation and AI adoption - KIPOST",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yd0RzOFpsSUZXZG9ZOExJUXg3bzF5dU5RY1Y4c2R1M3hVNjFzQlJXdFhXZmd3c0NuZVpXdWpRMGJQazFlUFhVbzQwdFF6QkdzcFJ6eFZlRVBNd0RXczZtM2JBY3BUZXZz0gFsQVVfeXFMTm5ncFVSTlhKam9RVjhzSmRZcjVPR05GTGM2dk81NzE5U2dkS29YR3pPYmNWNzhFVjBtSWRMVXFoWDkyQndXTXpzRE4zV0Q3UDdNalNndVRfWmctSDlocUtFcXZmTjJkR3VwT1Y0?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Tencent Cloud and The MUI Group to explore collaboration on digital transformation and AI adoption KIPOST",
-      "publishedAt": "2026-11-20T09:30:00.000Z",
+      "id": "30bd293fb5483cc3",
+      "title": "Jereh Launches PowerVEGA SST for AI Data Centers at RE+ 2026 - IT비즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzb0ZXcEg1LVFmRlBERkRmbldnRGFUSlZuWFJ0bUZUdU9ISllCT2NSSzVHbVllcEJseGpKaXgwSl9URFd1MDM4VWl0Zk5OZDFnWkVnZHZxXzBGdnc2V0NycUptNlcxY2dkRnMtRQ?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "Jereh Launches PowerVEGA SST for AI Data Centers at RE+ 2026 IT비즈뉴스",
+      "publishedAt": "2026-11-23T03:22:00.000Z",
       "rank": 1
+    },
+    {
+      "id": "d7fbccd5d35ee0e4",
+      "title": "[문인찬의 新技術論] New Technology Paradigm #6 - 경인매일",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iVUlYeWxzMWV1MDRGRVlfX2UwaHlrczlEYnpQSHdPS1VNU0lUSnpZVm1YU2pxSUlKQUZMY0UyemxXcFVHSGdRY3gwbng0bmZIWVhCT1JVcGtGWG9rcEhIbkxxS05TQVEz?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[문인찬의 新技術論] New Technology Paradigm #6 경인매일",
+      "publishedAt": "2026-11-23T02:00:12.000Z",
+      "rank": 2
+    },
+    {
+      "id": "9f33870240af2931",
+      "title": "中, 로봇 AI 데이터 국가표준 20여건 마련…2030년까지 추진 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QS2Z3bl9ZaWNCS2JxUE9UMmc1VjNmM3RmelRYYTR1eW5PVTBvdU11WmxwdzA0UXJZVFdMRVR4S2U3Sm5yTTZleHhEY3cwdFl0TW9yT0U1a0tOSFU1T3c?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "中, 로봇 AI 데이터 국가표준 20여건 마련…2030년까지 추진 뉴스1",
+      "publishedAt": "2026-11-23T01:18:55.000Z",
+      "rank": 3
+    },
+    {
+      "id": "72f1e75ad169b23e",
+      "title": "From Soap to Chocolate to Airplanes: A CIO’s Journey - Zscaler",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTdodDlCNlI0WWhOMEJMd0o4ay1RVVQ3dmdOZy1WNjQyQ01sVnE4am9SZUFjMWlOamlKQWRRQ2xtS2R0ajdhU1pGc2Y2aUh2bktBdHdwQzk0UVNuQkNMQnM1aF9TQzJfS1d4QnVQMGRvaTFjSVMzLXhhTHlLeWUtMlNXVUpNSC1xVUE?oc=5",
+      "source": "Google News: Digital Transformation",
+      "summary": "From Soap to Chocolate to Airplanes: A CIO’s Journey Zscaler",
+      "publishedAt": "2026-11-20T10:35:16.000Z",
+      "rank": 4
     },
     {
       "id": "692a81fde40015a3",
@@ -74,16 +101,7 @@
       "source": "Google News: AI standardization",
       "summary": "제조 AI 학습데이터 표준화 추진…국표원, 로봇·생산설비 데이터 수집 기준 마련 인공지능신문",
       "publishedAt": "2026-11-20T05:21:29.000Z",
-      "rank": 2
-    },
-    {
-      "id": "e4a170fd7cc58d04",
-      "title": "트라이얼인포매틱스, 임상 데이터 AI 표준화로 중기부 R&D 우수성과 선정 - 바이오타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeXNSYUNDX0VYN0J1WUVTakVwNXRkS000OTM2WjN2S1ZyM2dISlZJTFhLbWl3UXhwb3l4R2E2NWdFY1g2elI1TWF3djdoX2E5SXhuLW9DQjg5MlJ5d3NfU3ZGdE1NbFpEWXVlcA?oc=5",
-      "source": "Google News: AI standardization",
-      "summary": "트라이얼인포매틱스, 임상 데이터 AI 표준화로 중기부 R&D 우수성과 선정 바이오타임즈",
-      "publishedAt": "2026-11-20T02:30:01.000Z",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "a732ebc9595e5b0f",
@@ -92,7 +110,7 @@
       "source": "Google News: International Standardization",
       "summary": "KAID, 세계로 뻗는 ‘K-임플란트’... 디지털 임상 혁신 총망라 덴탈아리랑",
       "publishedAt": "2026-11-20T01:14:18.000Z",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "db5afb632a31f15d",
@@ -101,7 +119,7 @@
       "source": "Google News: R&D Strategy",
       "summary": "보건의료R&D혁신 오픈포럼, 24일 환자중심 의료 AI 전략 논의 메디포뉴스",
       "publishedAt": "2026-11-19T19:14:37.000Z",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "8bd37671cd080371",
@@ -110,24 +128,6 @@
       "source": "Google News: R&D Strategy",
       "summary": "\"품질·전략·R&D 경쟁력 초점\"…LG엔솔, 임원인사 11명 승진 한국경제",
       "publishedAt": "2026-11-19T08:33:26.000Z",
-      "rank": 6
-    },
-    {
-      "id": "7e6c96ebf46f1448",
-      "title": "충남연구원, 충남 R&D, 반도체·디스플레이 등 전략산업 중심으로 재편… 질적·양적 성과 '전국 최고 수준' - 엠뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vckx2NFZWMkV6NUkyQmtmMTVVNlJtVFM3bWZRRXp2NloySWFEemhrR0RqZEZtTl9YTEp3dmZKZFljT0xjaE1MNVgtdmZ1aWJJUm9FU2IxYVRCLUJ3U0hrWHFpd05Vdw?oc=5",
-      "source": "Google News: R&D Strategy",
-      "summary": "충남연구원, 충남 R&D, 반도체·디스플레이 등 전략산업 중심으로 재편… 질적·양적 성과 '전국 최고 수준' 엠뉴스",
-      "publishedAt": "2026-11-19T08:29:19.000Z",
-      "rank": 7
-    },
-    {
-      "id": "90f3a734a037a41f",
-      "title": "공개 베타 서비스가 시작된 Genie ZeroOps: 8만 건의 고객 문제 해결 경험을 바탕으로 데이터 파이프라인을 수정하는 자율형 에이전트 - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXFEXzN6aGpZT1o0Yzk5eGJfQnJQTHhSOS15UDBpS3dINW9OMWZlSGRsVVdWZmM5XzItZm90R0lyU0oxcFhWaXBfSXhXMnVZRzFaTWxXekpzZmJEQUhQdjExc29vVGEycVVvUzhzUWhPZHYyUWZaai11cW9yaUxfSXM1bmJEV2wyQTlEaGs2S3Y2NGFnb013SmVzNzN0a3RJMUswUGJZaGVHUWZrTFZWcmV6OXBWaFBHR2owMFdBaHE4YUk?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "공개 베타 서비스가 시작된 Genie ZeroOps: 8만 건의 고객 문제 해결 경험을 바탕으로 데이터 파이프라인을 수정하는 자율형 에이전트 Databricks",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
       "rank": 8
     }
   ],
