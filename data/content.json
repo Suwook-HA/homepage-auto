@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T06:59:03.175Z",
-  "projectsCheckedAt": "2026-11-27T06:59:03.175Z",
+  "updatedAt": "2026-11-28T06:33:26.394Z",
+  "projectsCheckedAt": "2026-11-28T06:33:26.394Z",
   "projectsUpdatedAt": "2026-11-13T05:21:17.733Z",
   "patents": {
     "source": {
@@ -54,10 +54,37 @@
         "assignee": "Electronics And Telecommunications Research Institute"
       }
     ],
-    "checkedAt": "2026-11-27T06:59:03.175Z",
+    "checkedAt": "2026-11-28T06:33:26.394Z",
     "updatedAt": "2026-04-12T02:37:38.572Z"
   },
   "articles": [
+    {
+      "id": "e1d706ef07c52679",
+      "title": "AI 자율실험실 구축 가속…R&D 혁신 전략 공유 - 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3VVhtVnFQb1E2QW1pMXg4MXJCamVVTzJMc3Z3dTlkeDdQbzZiTzktNnR6dVNvVlVYUmR4c25HX0M0dmVTa3ItMjA4LWM1MXF1NFZ6cDB6bUxWVGx3emhoYmdjTy0?oc=5",
+      "source": "Google News: R&D Strategy",
+      "summary": "AI 자율실험실 구축 가속…R&D 혁신 전략 공유 에너지안전신문",
+      "publishedAt": "2026-11-28T03:27:41.000Z",
+      "rank": 1
+    },
+    {
+      "id": "b6447365eb6ff268",
+      "title": "트루밸류, AI 시대 '성장 데이터' 표준 연구 추진 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15U3BHRll4OVFSaEY2ZklZdE9YY2MwbGxncFFiOW9KZDJTSDZNMU15YUxxU2pBVjNQcWEtOW5sZlk0UkYyYlMxQ0FMVGtlLWpwT2tZNDc2R2czS1hYLU4zMWNhcmhneTB3UUsxay0zbnV4Z9IBckFVX3lxTE15U3BHRll4OVFSaEY2ZklZdE9YY2MwbGxncFFiOW9KZDJTSDZNMU15YUxxU2pBVjNQcWEtOW5sZlk0UkYyYlMxQ0FMVGtlLWpwT2tZNDc2R2czS1hYLU4zMWNhcmhneTB3UUsxay0zbnV4Zw?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "트루밸류, AI 시대 '성장 데이터' 표준 연구 추진 - 머니투데이 머니투데이",
+      "publishedAt": "2026-11-27T08:18:48.000Z",
+      "rank": 2
+    },
+    {
+      "id": "9e78425eec71473f",
+      "title": "한중일, 충남서 AI·생태·평화 해법 모색 ‘환황해 포럼’ 개최 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yeXZiMVAyTkoyV21NMTJpVWlFZFF4X19iQV9rVjBvUzZlck1JUzVadVB3TlZ5aXNoVWtTX2x0RXAzdw?oc=5",
+      "source": "Google News: Trustworthy AI",
+      "summary": "한중일, 충남서 AI·생태·평화 해법 모색 ‘환황해 포럼’ 개최 브레이크뉴스",
+      "publishedAt": "2026-11-27T07:05:10.000Z",
+      "rank": 3
+    },
     {
       "id": "ea58b0344b536cb3",
       "title": "광주도시공사, 전국 도시개발공사 최초 'ISO 41001' 국제인증 획득 - 브레이크뉴스",
@@ -65,25 +92,7 @@
       "source": "Google News: International Standardization",
       "summary": "광주도시공사, 전국 도시개발공사 최초 'ISO 41001' 국제인증 획득 브레이크뉴스",
       "publishedAt": "2026-11-26T21:16:00.000Z",
-      "rank": 1
-    },
-    {
-      "id": "9bda2080a1246621",
-      "title": "NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 획득 - FETV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XeG5lWm1ENEozSG9EeFEwQV90cnI5Z1diTDdpVFdhN3V3bV9EbGZHNnRoMS1na2NmaUY1aTJ3NExmcHVQLWRFWUk3cUN1STBuMk85VEpIVjZ1cEhTUlVFVjFCY0tPZ0tW?oc=5",
-      "source": "Google News: AI Data Quality",
-      "summary": "NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 획득 FETV",
-      "publishedAt": "2026-11-27T04:59:08.000Z",
-      "rank": 2
-    },
-    {
-      "id": "175b45d258679641",
-      "title": "한화시스템, 나토 품질인증 획득 ··· 글로벌 방산 경쟁력 강화 - 데이터넷",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TR25SczJTQjZRekxpUGFRN3JSN01yQ2lqczBTNTNDQzVydmRrRmVzeWlfYXNvN2dUNi1WeWswaGVONkZtVlVIaldHMks3al80ODduUGZjams5SUJrdnpkYXJxTTM3ZzdGVGdXYQ?oc=5",
-      "source": "Google News: data quality standard",
-      "summary": "한화시스템, 나토 품질인증 획득 ··· 글로벌 방산 경쟁력 강화 데이터넷",
-      "publishedAt": "2026-11-27T04:17:08.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "6d0be0542e8e8f0a",
@@ -92,25 +101,25 @@
       "source": "Google News: ISO IEC AI",
       "summary": "업비트, 인공지능 경영시스템 ‘ISO/IEC 42001’ 인증 획득 CNB뉴스",
       "publishedAt": "2026-11-26T06:40:45.000Z",
-      "rank": 4
-    },
-    {
-      "id": "2d08e8bc82f44ad8",
-      "title": "두나무, ‘ISO/IEC 42001’ 인증 획득…AI 관리 체계 강화 - 1코노미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxbGp0TGcyaDFxd25rN3ZBYVZ6ajNUUFFTamhmYmxqTmFvb3llWHozTF9YNGo0dDBVM0d6bFpHUVdMa3g0aTlPV24wRmJIVjZXYTBzU1BGMEduclY2RXNObnFBRk10bnRlRGVLVjdWQlI?oc=5",
-      "source": "Google News: ISO/IEC AI standard",
-      "summary": "두나무, ‘ISO/IEC 42001’ 인증 획득…AI 관리 체계 강화 1코노미뉴스",
-      "publishedAt": "2026-11-26T05:24:37.000Z",
       "rank": 5
     },
     {
-      "id": "c3ae620fb1706f1c",
-      "title": "Cloud Security Drives Digital Transformation in FS | Videos - Zscaler",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOellob3hibzhaM3FwQ3p6R0FRR0VGNzNLUEZhZVk1NGhTTXpRZ0diUG45akZXcm9vdzhpQzNjcjF2b09VTWoydVJnVldnbV8yb3REaW9mdW9yaFh2YXVxampqcGk1MnBfNWk3N1REbmFPZGo0N1d5b1k2U2RQMUQ3UkFuRDdBRFM2TnliRjZ6VVRVM3VNb2JVS1Izb2dDNzhpN2ZMYU1iR2I?oc=5",
-      "source": "Google News: Digital Transformation",
-      "summary": "Cloud Security Drives Digital Transformation in FS | Videos Zscaler",
-      "publishedAt": "2026-11-26T05:20:02.000Z",
+      "id": "35d3ddeb7ff2218b",
+      "title": "[게시판] NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4QlRHZDB1d1h3cWxuWmdteFYyZWpXS3d3S3RXSE5YOTVVbEZQVzZkNFlBWk5SdWxmQ1BCTFBHV1FsaUhwRDB4RGctMU9NVVdGUXBWNDg5ak9BclXSAWBBVV95cUxPZ3NONzdPVTZZUnNnTUNIRmgxekN6dVlyZ0tWLUJ6NW1UQ1ZXNjFZS2tCM0FyOGJCQzJwd1hfdzl3SWstRV9oS0oyeDAxaUZpR2FyTFI5X0ttT1diWVB6cG0?oc=5",
+      "source": "Google News: AI Data Quality",
+      "summary": "[게시판] NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 연합뉴스",
+      "publishedAt": "2026-11-27T05:37:52.000Z",
       "rank": 6
+    },
+    {
+      "id": "175b45d258679641",
+      "title": "한화시스템, 나토 품질인증 획득 ··· 글로벌 방산 경쟁력 강화 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TR25SczJTQjZRekxpUGFRN3JSN01yQ2lqczBTNTNDQzVydmRrRmVzeWlfYXNvN2dUNi1WeWswaGVONkZtVlVIaldHMks3al80ODduUGZjams5SUJrdnpkYXJxTTM3ZzdGVGdXYQ?oc=5",
+      "source": "Google News: data quality standard",
+      "summary": "한화시스템, 나토 품질인증 획득 ··· 글로벌 방산 경쟁력 강화 데이터넷",
+      "publishedAt": "2026-11-27T04:17:08.000Z",
+      "rank": 7
     },
     {
       "id": "1ddde2221f8ff3a7",
@@ -119,15 +128,6 @@
       "source": "Google News: AI standardization",
       "summary": "AI 산업 대전환, 국제표준이 경쟁력 좌우…에이전틱·피지컬 AI 표준화 본격화 에너지데일리",
       "publishedAt": "2026-11-26T23:05:24.000Z",
-      "rank": 7
-    },
-    {
-      "id": "7817b135e96a2daf",
-      "title": "기업 자연자본공시 기준 구체화…정부, 선제 대응 지원나서 - 넷제로뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUnI0UGpEdEtMbTFuZnVpc0dIbU94RHJSOFdiWktIcTFwUW9iYXFtaHVDWlhjTnhqMmh5QmhDYTIySmZCSlBoQXB6TEpNTkpibjF2c0VhVGlWeGRJaFR5UDVISjJaZlItTGfSAW5BVV95cUxOd09qcWZ4Y2UzbWE4QUk0MHhfNUM2amdNZGtPR2owOG5UWlkxcUZFU2Z2U1NaQmtvYk5kQ2VhdUhjWkwzemdOOFRGSUY2ejg2QnFCcExhMGk1TU4yTjQ5RmVLNGgxbWFjVWJrTFc2UQ?oc=5",
-      "source": "Google News: International Standardization",
-      "summary": "기업 자연자본공시 기준 구체화…정부, 선제 대응 지원나서 넷제로뉴스",
-      "publishedAt": "2026-11-26T22:39:29.000Z",
       "rank": 8
     }
   ],
